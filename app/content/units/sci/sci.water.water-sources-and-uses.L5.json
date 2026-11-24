@@ -3302,7 +3302,7 @@
    "art": "A child's face in close-up with a single tear running down to the corner of the mouth."
   },
   {
-   "text": "Salt pans seen from a train window near Thoothukudi or in Gujarat, with white heaps of salt beside shallow ponds.",
+   "text": "Salt pans seen from a train window, with white heaps of salt beside shallow ponds.",
    "art": "A flat landscape of shallow rectangular ponds with white heaps of salt along the edges, seen from a train window."
   },
   {
@@ -3770,14 +3770,22 @@
     "source": "Chandogya Upanishad 6.10",
     "teaching": "The rivers in the east flow east and the rivers in the west flow west. They rise from the sea and go back to the sea, and they become the sea. Once there, they do not know 'I am this river' or 'I am that river'.",
     "link": "The verse says that rivers come from the sea and return to it. This lesson's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.",
-    "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
+    "verse": [
+     "इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः",
+     "ताः समुद्रात्समुद्रमेवापियन्ति",
+     "स समुद्र एव भवति",
+     "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural, verse 17, in the chapter on rain, by Thiruvalluvar",
     "teaching": "Even the wide sea will lose its wealth, if the cloud does not draw up its water and give it back as rain.",
     "link": "Thiruvalluvar, about 1,500 years ago by the usual dating, describes the cloud taking water from the sea and returning it. He is praising rain. He does not say that the salt stays behind, which is what Freeze the Sea and the salt pans show.",
-    "verse": ["நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி", "தான்நல்கா தாகி விடின்."],
+    "verse": [
+     "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி",
+     "தான்நல்கா தாகி விடின்."
+    ],
     "verse_lang": "ta"
    },
    {

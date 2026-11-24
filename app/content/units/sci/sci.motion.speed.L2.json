@@ -1231,7 +1231,6 @@
    "title": "The Slow Lane: make a marble take as long as possible",
    "mins": 20,
    "context": "This is a design challenge. A marble rolls down a tilted tray very fast. Your job is to build a path that makes it take as many claps as you can to reach the bottom.",
-   "problem": "A marble rolls down a tilted tray very quickly. If the path is longer, the marble has further to go, so it takes more time. In this challenge, you build walls to make the path longer and slower. Then you count how many claps the marble takes to reach the bottom.",
    "problem": "Can you build a path on a tilted tray that makes a marble take as long as possible to reach the bottom, without ever stopping?",
    "constraints": [
     "The tray stays tilted on one book the whole time.",
@@ -1889,7 +1888,7 @@
    "art": "Children on bicycles wobbling very slowly across a school ground, with a teacher holding a flag."
   },
   {
-   "text": "A snake boat race in Kerala, with long boats and rowers pulling together to a song.",
+   "text": "A boat race, with long boats and rowers pulling together to a song.",
    "art": "A long thin boat packed with rowers, oars in the water at the same moment."
   },
   {
@@ -1905,7 +1904,7 @@
    "art": "A dashboard dial with a needle pointing to 40."
   },
   {
-   "text": "Kites at Makar Sankranti in Gujarat, darting fast in strong wind and drifting slowly in light wind.",
+   "text": "Kites at Makar Sankranti, darting fast in strong wind and drifting slowly in light wind.",
    "art": "Bright paper kites over the rooftops of a city."
   }
  ],
@@ -2097,21 +2096,28 @@
     "source": "Zeno of Elea, as told by Aristotle in his Physics, Book 6, chapter 9",
     "teaching": "Zeno, a Greek thinker, told a puzzle. Achilles, a fast runner, races a tortoise who has a head start. When Achilles reaches where the tortoise was, the tortoise has moved a little further on. Zeno asked how Achilles could ever catch up.",
     "link": "In the Head-Start Race, you did catch up, and you marked the exact place. Zeno's puzzle is old, but you showed that a faster racer does pass.",
-    "verse": ["δεύτερος δ’ ὁ καλούμενος Ἀχιλλεύς· ἔστι δ’ οὗτος, ὅτι τὸ βραδύτατον οὐδέποτε καταληφθήσεται θέον ὑπὸ τοῦ ταχίστου"],
+    "verse": [
+     "δεύτερος δ’ ὁ καλούμενος Ἀχιλλεύς· ἔστι δ’ οὗτος, ὅτι τὸ βραδύτατον οὐδέποτε καταληφθήσεται θέον ὑπὸ τοῦ ταχίστου"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika (Fundamental Verses on the Middle Way), chapter 2",
     "teaching": "Nagarjuna, an Indian Buddhist thinker, asked where walking actually happens. It is not on the part of the path you have already walked, and not on the part you have not reached yet. He showed that the walking, the walker and the path all depend on each other.",
     "link": "A speed also needs more than the walker. It needs a path, a distance and a time. Take away any one, and there is no speed to measure.",
-    "verse": ["गतं न गम्यते तावदगतं नैव गम्यते", "गतागतविनिर्मुक्तं गम्यमानं न गम्यते"],
+    "verse": [
+     "गतं न गम्यते तावदगतं नैव गम्यते",
+     "गतागतविनिर्मुक्तं गम्यमानं न गम्यते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 64",
     "teaching": "The Tao Te Ching, a Chinese book of wisdom, says that a journey of a thousand miles begins with a single step.",
     "link": "In the Step Race, every journey across the room was made of single steps. How long each step was, and how often it came, decided how soon you arrived.",
-    "verse": ["千里之行，始於足下。"],
+    "verse": [
+     "千里之行，始於足下。"
+    ],
     "verse_lang": "zh"
    }
   ],

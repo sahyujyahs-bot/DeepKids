@@ -1593,23 +1593,23 @@
  ],
  "spotted": [
   {
-   "text": "A row of plastic and steel pots lined up at a public tap in Chennai, waiting for the water to come.",
+   "text": "A row of plastic and steel pots lined up at a public tap, waiting for the water to come.",
    "art": "A row of colourful plastic and steel pots lined up beside a street tap, with a woman filling one."
   },
   {
-   "text": "A red clay matka of drinking water under a tree in a street in Ahmedabad, for anyone who is thirsty.",
+   "text": "A red clay matka of drinking water under a tree in a street, for anyone who is thirsty.",
    "art": "A big red clay pot on a stand under a tree, with a steel cup tied to the stand."
   },
   {
-   "text": "A round well in the courtyard of an old house in Kerala, with a rope and a bucket.",
+   "text": "A round well in the courtyard of an old house, with a rope and a bucket.",
    "art": "A round stone well with a pulley, a rope and a steel bucket, in a courtyard with coconut palms."
   },
   {
-   "text": "Rani ki Vav in Patan, Gujarat: a stepwell more than 900 years old, with steps going far down to the water.",
+   "text": "A stepwell, with steps going far down to the water.",
    "art": "Deep stone steps carved with figures, going down to a pool of water at the bottom."
   },
   {
-   "text": "Floating islands of plants on Loktak Lake in Manipur, where fishers live on the water.",
+   "text": "Floating islands of plants on a lake, where fishers live on the water, in a picture.",
    "art": "Round green islands of plants floating on a wide lake, with a small boat between them."
   }
  ],
@@ -1853,14 +1853,20 @@
     "source": "Thirukkural 20, by Thiruvalluvar",
     "teaching": "The world cannot go on without water, and without rain, the right order of life cannot go on.",
     "link": "Every job we found for water, from drinking to cooking to the crow's bowl, starts with rain filling our rivers and wells.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching, chapter 8",
     "teaching": "The highest goodness is like water. Water helps all living things, and does not fight with them. It goes to the low places that others avoid.",
     "link": "Water helps everyone who needs it: the poha in the pot, the tulsi, the crow and you.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    }
   ],

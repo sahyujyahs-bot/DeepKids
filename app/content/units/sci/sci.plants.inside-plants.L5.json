@@ -3032,11 +3032,11 @@
    "art": "A peeled banana and a peeled orange with their strings showing."
   },
   {
-   "text": "Flower sellers in Madurai and Chennai tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.",
+   "text": "Flower sellers tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.",
    "art": "A flower seller's hands tying jasmine buds with a pale strip of banana fibre."
   },
   {
-   "text": "Sloping cuts and hanging cups on rubber trees along the roads of Kottayam and Kanyakumari.",
+   "text": "Sloping cuts and hanging cups on rubber trees along a road.",
    "art": "A row of rubber trees, each with a sloping cut and a small cup."
   },
   {
@@ -3056,7 +3056,7 @@
    "art": "A huge hollow tamarind tree in full leaf beside a small shrine."
   },
   {
-   "text": "Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants grown in Bengal and Assam.",
+   "text": "Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants.",
    "art": "Stacked jute sacks in a grain market."
   },
   {
@@ -3563,14 +3563,20 @@
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka shows his son a great tree. If someone cuts the tree at the root, in the middle or at the top, sap runs out, yet the tree lives. But if life leaves one branch, that branch dries up. If life leaves the whole tree, the whole tree dries up.",
     "link": "Uddalaka saw what this lesson shows: sap runs through every part of a tree, and one part can die while the rest lives. He used the tree to ask what it is that leaves when a living being dies. Science can describe the pipes and the cells. That question is still open.",
-    "verse": ["अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत्", "स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति"],
+    "verse": [
+     "अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत्",
+     "स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 11",
     "teaching": "Clay is shaped into a pot, but the empty space inside is what makes the pot useful. Doors and windows are cut into a wall, and the empty space is what makes the room useful.",
     "link": "A xylem pipe is useful to the tree because the pipe is empty. The cell had to clear out everything inside before water could pass.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {

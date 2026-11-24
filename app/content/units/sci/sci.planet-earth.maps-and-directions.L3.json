@@ -2538,7 +2538,7 @@
  ],
  "spotted": [
   {
-   "text": "The 'you are here' map at a metro station in Chennai, Bengaluru, Kochi, Kolkata or Mumbai.",
+   "text": "The 'you are here' map at a metro station or a bus stand.",
    "art": "A metro station wall map with coloured lines and a red dot marked 'you are here'."
   },
   {
@@ -2546,7 +2546,7 @@
    "art": "A small floor plan on a door, with green arrows leading to an exit."
   },
   {
-   "text": "The Madurai Meenakshi Amman temple, with a tall gateway tower, a gopuram, on each of its four sides.",
+   "text": "A big temple with a tall gateway tower, a gopuram, on each of its four sides.",
    "art": "A big temple seen from above with a tall gopuram on the north, south, east and west sides."
   },
   {

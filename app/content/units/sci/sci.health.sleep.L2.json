@@ -1603,7 +1603,7 @@
  ],
  "spotted": [
   {
-   "text": "Crows flying in long lines to big trees at dusk, over Chennai, Kolkata, Bengaluru and Mumbai.",
+   "text": "Crows flying in long lines to big trees at dusk.",
    "art": "A line of crows crossing an orange evening sky above city buildings."
   },
   {
@@ -1611,7 +1611,7 @@
    "art": "A large tree with many fruit bats hanging upside down from the branches in daylight."
   },
   {
-   "text": "People taking an afternoon nap after lunch in summer, from Kerala to Gujarat.",
+   "text": "People taking an afternoon nap after lunch in summer.",
    "art": "A grandfather napping on a cot in the shade of a verandah after lunch."
   },
   {
@@ -1856,14 +1856,21 @@
     "source": "Yoga Sutras of Patanjali 1.6 and 1.10",
     "teaching": "Patanjali lists five kinds of activity of the mind: right knowing, mistaken knowing, imagining, sleep and memory. He says sleep is the mind's activity when there is nothing else for it to hold.",
     "link": "Patanjali counts sleep as something the mind does, not as the mind being gone. The picture-pairs test shows the mind keeping memories during sleep.",
-    "verse": ["प्रमाणविपर्ययविकल्पनिद्रास्मृतयः", "अभावप्रत्ययालम्बना वृत्तिर्निद्रा"],
+    "verse": [
+     "प्रमाणविपर्ययविकल्पनिद्रास्मृतयः",
+     "अभावप्रत्ययालम्बना वृत्तिर्निद्रा"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.8.1",
     "teaching": "Uddalaka tells his son Shvetaketu that when a person is in deep sleep, they become one with pure being. They have gone back to their own self. That is why, the Upanishad says, we call it sleeping.",
     "link": "The Upanishad says a sleeper has 'gone to their own self'. In deep sleep you notice nothing, yet you are still there, and your body and mind keep working.",
-    "verse": ["यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा संपन्नो भवति", "स्वमपीतो भवति", "तस्मादेनं स्वपितीत्याचक्षते"],
+    "verse": [
+     "यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा संपन्नो भवति",
+     "स्वमपीतो भवति",
+     "तस्मादेनं स्वपितीत्याचक्षते"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1916,5 +1923,117 @@
   ]
  },
  "playtest": "We laid out all 16 game cards and the 14 sorting cards and played both games with two players and with four. We then followed each experiment, activity, project and challenge step by step as a family in a flat would. Fixed: the picture-pairs cards now match what the steps say (16 folded cards, one pair on each, with drawing shared between child and parent), the minutes now add up, and the unfair parts of the test are named. The matching game's cat and baby cards no longer fit the same animal, the sorting game now ends with every card placed, and a tie is settled. Repeated questions and exercises were swapped for new ones, names were introduced, family members are no longer assumed, and the writing asks now let a grown-up write for a child of 7.",
- "warm": {"words": ["SLEEP", "NIGHT", "DREAM", "BRAIN", "CLOCK"], "quiz": [["When you sleep, your brain switches off completely.", false, "Scientists find the brain busy all night. In some parts of sleep it is nearly as busy as when you are awake."], ["Sleeping after you learn something helps you remember it the next day.", true, "While you sleep, your brain keeps what you learned that day."], ["Looking at a phone in bed helps children fall asleep faster.", false, "Most studies find children who use screens in bed go to sleep later and sleep less."], ["A child of seven needs about nine to twelve hours of sleep each night.", true, "Children aged 6 to 12 need about 9 to 12 hours so the body and brain can do their work."], ["A child of seven needs only about five hours of sleep.", false, "Children aged 6 to 12 need about 9 to 12 hours of sleep each night."], ["Doing the same calm steps in the same order each night helps you fall asleep.", true, "Your body learns that the steps mean sleep is coming, so it gets ready."], ["Sleeping very late on Sunday morning fully makes up for sleep you missed.", false, "Sleeping very late moves your body clock later, so sleep comes late again. It helps only a little."], ["Some animals sleep in the day and are awake at night.", true, "Animals sleep in many different ways, places and times. Bats and owls rest by day."], ["Too little sleep has no effect on how well your body fights germs.", false, "Too little sleep makes it harder for the body to fight germs."], ["Nearly every animal that has been studied sleeps or rests in a way like sleep.", true, "Even a jellyfish, with a net of nerves instead of a brain, has a rest like sleep, so sleep must matter a lot."]], "odd": [[["Dim lights", "Quiet story", "Warm wash", "Bright phone game"], "Bright phone game", "The first three calm you for sleep. A bright screen keeps you awake and makes you sleep later."], [["Body grows", "Brain keeps what you learned", "Body fights germs", "Eyes see the room clearly"], "Eyes see the room clearly", "Sleep helps growing, remembering and fighting germs. But in sleep you notice much less of what is around you."], [["Owl", "Bat", "Jackal", "Crow"], "Crow", "Owl, bat and jackal are awake at night and rest in the day. A crow is awake in the day."], [["Brush teeth", "Wash face", "Read a calm book", "Run a race"], "Run a race", "The first three are calm steps for a bedtime routine. Running makes the body more awake."], [["Dark room", "Quiet house", "Cool air", "Bright morning sun"], "Bright morning sun", "The first three tell your body clock that it is night. Bright morning sun tells it to wake up."]]}
+ "warm": {
+  "words": [
+   "SLEEP",
+   "NIGHT",
+   "DREAM",
+   "BRAIN",
+   "CLOCK"
+  ],
+  "quiz": [
+   [
+    "When you sleep, your brain switches off completely.",
+    false,
+    "Scientists find the brain busy all night. In some parts of sleep it is nearly as busy as when you are awake."
+   ],
+   [
+    "Sleeping after you learn something helps you remember it the next day.",
+    true,
+    "While you sleep, your brain keeps what you learned that day."
+   ],
+   [
+    "Looking at a phone in bed helps children fall asleep faster.",
+    false,
+    "Most studies find children who use screens in bed go to sleep later and sleep less."
+   ],
+   [
+    "A child of seven needs about nine to twelve hours of sleep each night.",
+    true,
+    "Children aged 6 to 12 need about 9 to 12 hours so the body and brain can do their work."
+   ],
+   [
+    "A child of seven needs only about five hours of sleep.",
+    false,
+    "Children aged 6 to 12 need about 9 to 12 hours of sleep each night."
+   ],
+   [
+    "Doing the same calm steps in the same order each night helps you fall asleep.",
+    true,
+    "Your body learns that the steps mean sleep is coming, so it gets ready."
+   ],
+   [
+    "Sleeping very late on Sunday morning fully makes up for sleep you missed.",
+    false,
+    "Sleeping very late moves your body clock later, so sleep comes late again. It helps only a little."
+   ],
+   [
+    "Some animals sleep in the day and are awake at night.",
+    true,
+    "Animals sleep in many different ways, places and times. Bats and owls rest by day."
+   ],
+   [
+    "Too little sleep has no effect on how well your body fights germs.",
+    false,
+    "Too little sleep makes it harder for the body to fight germs."
+   ],
+   [
+    "Nearly every animal that has been studied sleeps or rests in a way like sleep.",
+    true,
+    "Even a jellyfish, with a net of nerves instead of a brain, has a rest like sleep, so sleep must matter a lot."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Dim lights",
+     "Quiet story",
+     "Warm wash",
+     "Bright phone game"
+    ],
+    "Bright phone game",
+    "The first three calm you for sleep. A bright screen keeps you awake and makes you sleep later."
+   ],
+   [
+    [
+     "Body grows",
+     "Brain keeps what you learned",
+     "Body fights germs",
+     "Eyes see the room clearly"
+    ],
+    "Eyes see the room clearly",
+    "Sleep helps growing, remembering and fighting germs. But in sleep you notice much less of what is around you."
+   ],
+   [
+    [
+     "Owl",
+     "Bat",
+     "Jackal",
+     "Crow"
+    ],
+    "Crow",
+    "Owl, bat and jackal are awake at night and rest in the day. A crow is awake in the day."
+   ],
+   [
+    [
+     "Brush teeth",
+     "Wash face",
+     "Read a calm book",
+     "Run a race"
+    ],
+    "Run a race",
+    "The first three are calm steps for a bedtime routine. Running makes the body more awake."
+   ],
+   [
+    [
+     "Dark room",
+     "Quiet house",
+     "Cool air",
+     "Bright morning sun"
+    ],
+    "Bright morning sun",
+    "The first three tell your body clock that it is night. Bright morning sun tells it to wake up."
+   ]
+  ]
+ }
 }

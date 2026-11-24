@@ -386,7 +386,10 @@
     "source": "Rig Veda 10.97.15, the hymn to plants (Oshadhi Sukta)",
     "teaching": "The hymn speaks of plants that bear fruit and plants that bear none, plants without flowers and plants with flowers.",
     "link": "More than 3,000 years ago, people in India already noticed that some plants flower and fruit and others never do. Botanists today still use flowers, fruits and seeds to group plants.",
-    "verse": ["याः फलिनीर्या अफला अपुष्पा याश्च पुष्पिणीः ।", "बृहस्पतिप्रसूतास्ता नो मुञ्चन्त्वंहसः"],
+    "verse": [
+     "याः फलिनीर्या अफला अपुष्पा याश्च पुष्पिणीः ।",
+     "बृहस्पतिप्रसूतास्ता नो मुञ्चन्त्वंहसः"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2922,7 +2925,7 @@
  ],
  "spotted": [
   {
-   "text": "Green velvet moss on walls, compound walls and steps in the Mumbai, Goa and Kerala monsoon.",
+   "text": "Green velvet moss on walls, compound walls and steps in the monsoon.",
    "art": "A compound wall in the rain covered with bright green moss."
   },
   {
@@ -2942,11 +2945,11 @@
    "art": "A pond covered with a carpet of tiny reddish floating ferns."
   },
   {
-   "text": "Chilgoza pine nuts in a dry fruit shop, and pine cones sold in Ooty, Kodaikanal and Shimla.",
+   "text": "Pine nuts in a dry fruit shop, and pine cones sold in hill towns.",
    "art": "A dry fruit shop tray of long chilgoza nuts beside a basket of pine cones."
   },
   {
-   "text": "Bunches of curled dhekia fern tops sold as a vegetable in markets in Assam.",
+   "text": "Bunches of curled fern tops sold as a vegetable in a market.",
    "art": "A market basket full of curled green fern tops."
   },
   {

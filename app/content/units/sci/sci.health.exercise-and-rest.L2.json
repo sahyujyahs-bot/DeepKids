@@ -1962,7 +1962,7 @@
    "art": "A street dog lying under a parked scooter in the shade, tongue out, panting."
   },
   {
-   "text": "Morning walkers at a beach or a park, like the Marina in Chennai, walking fast and swinging their arms.",
+   "text": "Morning walkers at a beach or a park, walking fast and swinging their arms.",
    "art": "Women and men walking fast along a sea front at sunrise, some in saris and canvas shoes."
   },
   {
@@ -2230,14 +2230,24 @@
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The parts of a person had an argument about who was the most important. Speech left the body for a year, then the eyes, the ears and the mind. Each time, the person went on living. Then breath began to leave. All the others felt themselves being pulled out too. They agreed that breath, prana, was the most important of all.",
     "link": "In the puff count test, your breathing changed by itself to keep your dancing muscles going. Every part of the body depends on breath.",
-    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse": [
+     "सा ह वागुच्चक्राम",
+     "सा संवत्सरं प्रोष्य पर्येत्योवाच",
+     "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्",
+     "भगवन्नेधि",
+     "त्वं नः श्रेष्ठोऽसि"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Anguttara Nikaya 6.55, the Sona Sutta",
     "teaching": "A monk named Sona tried so hard that his feet bled from walking. The Buddha asked him, 'You used to play the vina. When the strings were too tight, did it sound good?' 'No.' 'And when they were too loose?' 'No.' 'When they were neither too tight nor too loose?' 'Then it sounded good.' The Buddha said effort is the same.",
     "link": "A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a vina string that is too tight or too loose.",
-    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+    "verse": [
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2276,5 +2286,117 @@
   "art": "A woman scientist in the 1970s at a desk with long strips of paper covered in wavy lines, and a sleeping child with small wires on their head in a room behind a glass window."
  },
  "playtest": "Walked through both games and every experiment as a parent and child in a flat. The Healthy Day Ladders board now lists all 30 squares, each with a small thing to do, and says how to finish and how ladders and slides work; the sleep matching game has a tie rule. The puff count and three moves tests only need a phone timer and some floor space, and the three moves test now says how to check that breathing is calm before each move. The rajma leaf project was lengthened to 14 days so the leaves open before the two night and two morning drawings, and it now says a small droop is a fair result. Repeated questions, a made-up name in a challenge, a missing card material, a weak joke and a repeated teenage sleep claim were removed, and every named child is introduced.",
- "warm": {"words": ["LUNGS", "HEART", "SLEEP", "BONES", "TIRED"], "quiz": [["Your body breathes faster when your muscles work hard.", true, "Working muscles use more oxygen, so you breathe in more air."], ["You breathe fast after running because your lungs are tired.", false, "You breathe fast because your muscles need more oxygen, not because your lungs are tired."], ["After you stop running, your breathing slowly gets back to normal.", true, "Muscles need less oxygen at rest, so breathing and heartbeat slow down. This is called recovery."], ["Your heart beats slower while you dance than while you sit.", false, "Your heart beats faster during exercise to push more blood to your working muscles."], ["Playing and running often can make your bones stronger.", true, "Regular exercise makes muscles, the heart and bones stronger."], ["A child of seven needs only four hours of sleep each night.", false, "Children of this age need about 9 to 12 hours of sleep every night."], ["Your body grows and repairs itself while you sleep.", true, "Sleep is a busy time for the body, even though you lie still."], ["Your heart is not a muscle, so exercise does nothing for it.", false, "The heart is a muscle, and regular exercise makes it stronger."], ["Muscles use oxygen to get energy out of the food you eat.", true, "Food stores energy, and oxygen helps the muscles let that energy out."], ["You should never play after a long day of sitting at school.", false, "Gentle play after a long day of sitting often makes children feel more awake and sleep better."]], "odd": [[["Skipping", "Dancing", "Climbing stairs", "Lying down"], "Lying down", "Skipping, dancing and climbing make muscles work hard. Lying down is rest."], [["Heart", "Leg muscle", "Arm muscle", "Lungs"], "Lungs", "The heart, leg and arm are muscles that pull. Lungs are soft parts that fill with air."], [["Muscles", "Heart", "Bones", "Hair"], "Hair", "Regular exercise makes muscles, the heart and bones stronger, but it does not make hair stronger."], [["Body grows", "Body repairs itself", "Brain sorts what you learned", "Heart stops"], "Heart stops", "The body grows, mends and sorts out learning during sleep. The heart keeps beating all night."], [["Breathing faster", "Heart beating faster", "Feeling warmer", "Heart beating slower"], "Heart beating slower", "Hard exercise speeds up breathing and heartbeat and warms you. A slower heartbeat comes with rest."]]}
+ "warm": {
+  "words": [
+   "LUNGS",
+   "HEART",
+   "SLEEP",
+   "BONES",
+   "TIRED"
+  ],
+  "quiz": [
+   [
+    "Your body breathes faster when your muscles work hard.",
+    true,
+    "Working muscles use more oxygen, so you breathe in more air."
+   ],
+   [
+    "You breathe fast after running because your lungs are tired.",
+    false,
+    "You breathe fast because your muscles need more oxygen, not because your lungs are tired."
+   ],
+   [
+    "After you stop running, your breathing slowly gets back to normal.",
+    true,
+    "Muscles need less oxygen at rest, so breathing and heartbeat slow down. This is called recovery."
+   ],
+   [
+    "Your heart beats slower while you dance than while you sit.",
+    false,
+    "Your heart beats faster during exercise to push more blood to your working muscles."
+   ],
+   [
+    "Playing and running often can make your bones stronger.",
+    true,
+    "Regular exercise makes muscles, the heart and bones stronger."
+   ],
+   [
+    "A child of seven needs only four hours of sleep each night.",
+    false,
+    "Children of this age need about 9 to 12 hours of sleep every night."
+   ],
+   [
+    "Your body grows and repairs itself while you sleep.",
+    true,
+    "Sleep is a busy time for the body, even though you lie still."
+   ],
+   [
+    "Your heart is not a muscle, so exercise does nothing for it.",
+    false,
+    "The heart is a muscle, and regular exercise makes it stronger."
+   ],
+   [
+    "Muscles use oxygen to get energy out of the food you eat.",
+    true,
+    "Food stores energy, and oxygen helps the muscles let that energy out."
+   ],
+   [
+    "You should never play after a long day of sitting at school.",
+    false,
+    "Gentle play after a long day of sitting often makes children feel more awake and sleep better."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Skipping",
+     "Dancing",
+     "Climbing stairs",
+     "Lying down"
+    ],
+    "Lying down",
+    "Skipping, dancing and climbing make muscles work hard. Lying down is rest."
+   ],
+   [
+    [
+     "Heart",
+     "Leg muscle",
+     "Arm muscle",
+     "Lungs"
+    ],
+    "Lungs",
+    "The heart, leg and arm are muscles that pull. Lungs are soft parts that fill with air."
+   ],
+   [
+    [
+     "Muscles",
+     "Heart",
+     "Bones",
+     "Hair"
+    ],
+    "Hair",
+    "Regular exercise makes muscles, the heart and bones stronger, but it does not make hair stronger."
+   ],
+   [
+    [
+     "Body grows",
+     "Body repairs itself",
+     "Brain sorts what you learned",
+     "Heart stops"
+    ],
+    "Heart stops",
+    "The body grows, mends and sorts out learning during sleep. The heart keeps beating all night."
+   ],
+   [
+    [
+     "Breathing faster",
+     "Heart beating faster",
+     "Feeling warmer",
+     "Heart beating slower"
+    ],
+    "Heart beating slower",
+    "Hard exercise speeds up breathing and heartbeat and warms you. A slower heartbeat comes with rest."
+   ]
+  ]
+ }
 }

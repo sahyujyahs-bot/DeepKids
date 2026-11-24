@@ -3356,11 +3356,11 @@
    "art": "The base of a maize plant with short prop roots."
   },
   {
-   "text": "Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan, Gujarat or Tamil Nadu.",
+   "text": "Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads.",
    "art": "A row of spiny nagphani cactus along a dusty road."
   },
   {
-   "text": "Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, at Pichavaram in Tamil Nadu, or along creeks in Mumbai.",
+   "text": "Mangrove breathing roots poking out of the mud at low tide.",
    "art": "Mangrove roots like pencils in grey mud with a crab beside them."
   },
   {
@@ -3969,14 +3969,20 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son to split open a banyan seed. 'What do you see inside?' 'Nothing.' Yet a great banyan tree grows from that seed, from something too small to see.",
     "link": "Inside a seed you cannot see a root, a stem or a leaf. Yet all of them grow from the seed, each with its own shape.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, a Buddhist text. Jain teachers tell the same story to explain anekantavada, many-sidedness",
     "teaching": "Blind men each touch one part of an elephant. One feels an ear and says an elephant is like a winnowing basket, a soop. Another feels a leg and says an elephant is like a pillar. Each is partly right, and each is wrong about the whole.",
     "link": "One clue can fool us. Underground and fat makes a potato seem like a root. Botanists look at many clues together, like buds, rings and what the part grows from.",
-    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {

@@ -2850,7 +2850,7 @@
  ],
  "spotted": [
   {
-   "text": "Touch-me-not plants with pink flowers, growing wild along roadsides and empty plots in Kerala and Tamil Nadu.",
+   "text": "Touch-me-not plants with pink flowers, growing wild along roadsides and empty plots.",
    "art": "A touch-me-not with round pink flowers beside a roadside wall, some leaves open and some folded."
   },
   {
@@ -2858,19 +2858,19 @@
    "art": "A green hedge covered with a tangle of thin yellow leafless threads."
   },
   {
-   "text": "The smell of cut grass at a cricket ground in Chennai or Bengaluru, just after the mower has passed.",
+   "text": "The smell of cut grass at a cricket ground, just after the mower has passed.",
    "art": "A mower crossing a cricket outfield, with a child at the boundary sniffing the air."
   },
   {
-   "text": "White threads under the damp fallen leaves in a garden in Kochi in the monsoon. They are the body of a fungus.",
+   "text": "White threads under the damp fallen leaves in a garden in the monsoon. They are the body of a fungus.",
    "art": "A hand lifting damp fallen leaves to show fine white threads on the soil beneath."
   },
   {
-   "text": "Trees bent and stunted by the sea wind on the coast near Kanyakumari or Rameswaram.",
+   "text": "Trees bent and stunted by the sea wind on a coast.",
    "art": "Short, thick trees on a sandy coast, all leaning away from the sea."
   },
   {
-   "text": "Baskets of rugra, round brown mushrooms from the sal forests, in a monsoon market in Ranchi.",
+   "text": "Baskets of round brown mushrooms from forest floors, in a monsoon market.",
    "art": "A woman at a market stall with a basket of small round brown mushrooms."
   },
   {
@@ -3382,7 +3382,12 @@
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant, which Jain teachers also tell to explain anekantavada, many-sidedness",
     "teaching": "Several blind men each touch one part of an elephant. One says the elephant is like a pillar and another says like a fan. Each is right about his part and wrong to think it is the whole.",
     "link": "A plant, a wasp and a person each receive one smell and take a different thing from it. No one of them holds the whole of what that smell is.",
-    "verse": ["Imesu kira sajjanti,", "eke samaṇabrāhmaṇā;", "Viggayha naṁ vivadanti,", "janā ekaṅgadassino"],
+    "verse": [
+     "Imesu kira sajjanti,",
+     "eke samaṇabrāhmaṇā;",
+     "Viggayha naṁ vivadanti,",
+     "janā ekaṅgadassino"
+    ],
     "verse_lang": "pi"
    },
    {

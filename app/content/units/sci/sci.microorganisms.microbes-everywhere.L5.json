@@ -2920,7 +2920,7 @@
  ],
  "spotted": [
   {
-   "text": "A cow chewing cud beside a road in Madurai. She is grinding grass for the microbes in her first stomach chamber.",
+   "text": "A cow chewing cud beside a road. She is grinding grass for the microbes in her first stomach chamber.",
    "art": "A cow lying beside a road chewing, with a small cut-away showing a large stomach chamber full of dots."
   },
   {
@@ -2928,27 +2928,27 @@
    "art": "Round balls of elephant dung on a forest track with tall bamboo on both sides."
   },
   {
-   "text": "Shoes left outside a door in Kochi after a monsoon day. The smell is made by foot bacteria.",
+   "text": "Shoes left outside a door after a monsoon day. The smell is made by foot bacteria.",
    "art": "A row of wet shoes and sandals outside a door with rain falling beyond the verandah."
   },
   {
-   "text": "A baby's first rice, called choroonu in Kerala and annaprashan in Bengal. It is also the first rice for the baby's gut bacteria.",
+   "text": "A baby's first rice, the day a baby first eats rice. It is also the first rice for the baby's gut bacteria.",
    "art": "A baby on a parent's lap being offered a tiny bit of rice on a fingertip, with a banana leaf in front."
   },
   {
-   "text": "A 'clean your hands' sign beside a hospital bed in Bengaluru. It is aimed at the visitors on hands.",
+   "text": "A 'clean your hands' sign beside a hospital bed. It is aimed at the visitors on hands.",
    "art": "A hospital ward doorway with a hand-rub bottle fixed to the wall and a sign showing two hands."
   },
   {
-   "text": "Curd rice in a steel tiffin box in Chennai. Every spoonful carries living bacteria, most of whom will pass through.",
+   "text": "Curd rice in a steel tiffin box. Every spoonful carries living bacteria, most of whom will pass through.",
    "art": "An open steel tiffin box of curd rice with a few pomegranate seeds on top."
   },
   {
-   "text": "A box of antibiotic tablets at a chemist's counter in Kolkata. The box says the medicine is to be sold only on a doctor's prescription.",
+   "text": "A box of antibiotic tablets at a chemist's counter. The box says the medicine is to be sold only on a doctor's prescription.",
    "art": "A chemist's glass counter with a strip of tablets and a prescription slip beside it."
   },
   {
-   "text": "A street dog being patted by children on the steps of a building in Mumbai. Skin microbes pass both ways.",
+   "text": "A street dog being patted by children on the steps of a building. Skin microbes pass both ways.",
    "art": "Two children patting a brown street dog lying on stone steps."
   }
  ],
@@ -3446,14 +3446,20 @@
     "source": "Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse)",
     "teaching": "This body is called the field. The one who knows the field is called the knower of the field.",
     "link": "The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this lesson found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.",
-    "verse": ["इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।", "एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।"],
+    "verse": [
+     "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।",
+     "एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 322",
     "teaching": "To share your food and to care for the many living beings is the chief of all the teachings.",
     "link": "A body already does this. The fibre in your meal that you cannot digest feeds the bacteria of your large intestine. A mother's milk holds sugars that feed her baby's bacteria and that the baby cannot digest.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    },
    {

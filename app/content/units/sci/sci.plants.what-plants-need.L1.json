@@ -1533,11 +1533,11 @@
    "art": "A wooden plank lifted off grass in a park, showing a pale yellow patch underneath."
   },
   {
-   "text": "Green rice fields full of water in the Kaveri delta, in Kerala, and in Assam in the monsoon.",
+   "text": "Green rice fields full of water in the monsoon.",
    "art": "Young green rice plants standing in water in a wide field, with coconut palms at the edge."
   },
   {
-   "text": "Tea gardens in Assam and Darjeeling, with tall shade trees planted among the tea bushes.",
+   "text": "Tea gardens, with tall shade trees planted among the tea bushes.",
    "art": "Rows of tea bushes on a hill with a few tall trees standing between them."
   }
  ],
@@ -1775,14 +1775,20 @@
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stays still.",
     "link": "The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make.",
-    "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+    "verse": [
+     "चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।",
+     "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 16, by Thiruvalluvar",
     "teaching": "Unless drops of rain fall from the sky, not even a blade of green grass will be seen.",
     "link": "Plate 1 in Three Plates of Methi showed this. With no water, the methi seeds did not sprout at all.",
-    "verse": ["விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே", "பசும்புல் தலைகாண்பு அரிது."],
+    "verse": [
+     "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே",
+     "பசும்புல் தலைகாண்பு அரிது."
+    ],
     "verse_lang": "ta"
    }
   ],

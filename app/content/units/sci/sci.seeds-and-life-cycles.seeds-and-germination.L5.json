@@ -3062,7 +3062,7 @@
    "art": "A mud pot with a clay lid sealed with mud, on a shelf in a store room, with dry neem leaves beside it."
   },
   {
-   "text": "Lotus pods at a flower market or a temple tank, such as in Madurai or Thrissur. The dark seeds inside have one of the hardest coats of any seed.",
+   "text": "Lotus pods at a flower market or a temple tank. The dark seeds inside have one of the hardest coats of any seed.",
    "art": "A dried lotus pod like a shower head, with dark round seeds sitting in its holes."
   },
   {
@@ -3577,7 +3577,10 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to split a banyan seed and say what is inside. The boy sees nothing at all. His father says that the great banyan tree stands up out of that fine essence which he cannot see.",
     "link": "A dry seed shows nothing when you open one: no movement, no growth. Yet the whole plant is there, held still. The Upanishad uses the seed to teach about the self, which science does not test.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3589,7 +3592,10 @@
     "source": "Tao Te Ching 16",
     "teaching": "All things rise and grow, and each one returns to its root. Returning to the root is called stillness.",
     "link": "A plant's year ends in seeds, which are the plant made still. From that stillness the next growth begins.",
-    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse": [
+     "夫物芸芸，各復歸其根。",
+     "歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    }
   ],

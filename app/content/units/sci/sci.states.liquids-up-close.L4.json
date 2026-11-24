@@ -2645,7 +2645,7 @@
    "art": "A barber pumping a pedal at the base of a chair, with a young customer being lifted a little."
   },
   {
-   "text": "The Mettur Dam, a thick wall across the Kaveri river.",
+   "text": "A dam, a thick wall across a river.",
    "art": "A wide dam across a river, thicker at the bottom, with water pouring through a gate."
   },
   {
@@ -2661,7 +2661,7 @@
    "art": "A lorry being lifted by a red hydraulic jack at a roadside garage, with the mechanic pumping the handle."
   },
   {
-   "text": "A step well in Rajasthan or Gujarat, with deep steps down to the water.",
+   "text": "A step well, with deep steps down to the water.",
    "art": "A deep stone step well with rows of steps leading down to the water at the bottom."
   }
  ],
@@ -3062,14 +3062,19 @@
     "source": "Thirukkural 396, by Thiruvalluvar",
     "teaching": "The deeper you dig in sandy ground, the more water springs up. In the same way, the more you learn, the more knowledge springs up in you. Scholars do not agree on the date of the Kural, and some place it about two thousand years ago.",
     "link": "In a well, the deeper the water is, the harder it pushes at the bottom. This is the same rule you saw in the Three Jets experiment. More depth means more push.",
-    "verse": ["தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்", "கற்றனைத் தூறும் அறிவு."],
+    "verse": [
+     "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்",
+     "கற்றனைத் தூறும் அறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching, chapter 66",
     "teaching": "The rivers and the seas are lords of the valley streams because they are good at staying below them. So the streams flow to them.",
     "link": "Water always runs down to the lowest place, and the deepest water there pushes hardest. The sea is the lowest place, and all rivers find their way to it.",
-    "verse": ["江海所以能為百谷王者，以其善下之，故能為百谷王。"],
+    "verse": [
+     "江海所以能為百谷王者，以其善下之，故能為百谷王。"
+    ],
     "verse_lang": "zh"
    }
   ],

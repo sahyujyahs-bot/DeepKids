@@ -1,0 +1,663 @@
+{
+ "sci.health.exercise-and-rest.L2": {
+  "2": "Morning walkers at a beach or a park, walking fast and swinging their arms."
+ },
+ "sci.health.exercise-and-rest.L3": {
+  "0": "People doing yoga at sunrise on a beach, on a rooftop or in a city park."
+ },
+ "sci.health.feelings-and-wellbeing.L3": {
+  "0": "A Kathakali performance, where dancers show fear, anger and love with painted faces and moving eyes."
+ },
+ "sci.health.hygiene.L1": {
+  "3": "Temple elephants being given their bath in a river or a tank."
+ },
+ "sci.health.sleep.L2": {
+  "0": "Crows flying in long lines to big trees at dusk.",
+  "2": "People taking an afternoon nap after lunch in summer."
+ },
+ "sci.how-we-know.asking-questions.L1": {
+  "0": "A coconut seller shaking a coconut and listening, to know if there is plenty of water inside.",
+  "1": "A fruit seller pressing a mango gently and smelling the stalk end to know if it is ripe.",
+  "2": "A child watching rain drops race down a bus window, and asking which one will win.",
+  "3": "A grandmother tapping a steel vessel and listening, to know how much rice is left inside.",
+  "4": "Crows on a balcony walking round a new thing on the railing, looking at the thing from every side before they touch it."
+ },
+ "sci.how-we-know.asking-questions.L2": {
+  "0": "A weather report on the radio saying the monsoon is expected in the coming days.",
+  "1": "A panchangam on a wall listing the dates of eclipses for the year.",
+  "2": "A woman selling vegetables guessing the weight of tomatoes before she puts them on the scale.",
+  "3": "A cricket commentator predicting how many runs a team will score.",
+  "4": "A fisher looking at the sky and the waves before taking the boat out.",
+  "5": "A railway display showing when the next train is expected."
+ },
+ "sci.how-we-know.fair-tests.L4": {
+  "2": "Winged fruits spinning slowly down from tall trees, such as sal trees, or maple keys.",
+  "6": "The date the monsoon arrives, recorded each year and compared over many years."
+ },
+ "sci.how-we-know.stories-of-discovery.L1": {
+  "3": "A science centre, full of things to touch and try."
+ },
+ "sci.how-we-know.stories-of-discovery.L3": {
+  "3": "National Science Day on 28 February, when schools hold science fairs to mark the Raman effect."
+ },
+ "sci.india.government-and-rights.L3": {
+  "5": "Container ships and lorries at a port."
+ },
+ "sci.india.national-identity.L3": {
+  "2": "Peacock patterns woven into silk saris and painted on temple walls.",
+  "4": "Pugmarks in the mud on a forest path or a riverbank."
+ },
+ "sci.light.colour.L1": {
+  "0": "Bright coloured powders in heaps at a market before Holi.",
+  "1": "A kolam in front of a house at Pongal, filled with coloured powders.",
+  "2": "Green parrots screeching in a neem or banyan tree.",
+  "3": "A pigeon on a balcony, the neck shining green and purple.",
+  "4": "Marigolds, orange and yellow, strung into garlands at a temple.",
+  "5": "A wall paint shop, where a machine squirts a few colours into a tin of white."
+ },
+ "sci.light.colour.L3": {
+  "0": "A rainbow over a tea garden or a paddy field after a monsoon shower, with the Sun low behind you.",
+  "1": "The spray at a waterfall, which often holds a rainbow on sunny days."
+ },
+ "sci.light.colour.L4": {
+  "3": "The red and green side lights of a fishing boat at night, seen from the beach."
+ },
+ "sci.light.how-we-see.L4": {
+  "7": "The full Moon rising huge over the sea, or over rooftops."
+ },
+ "sci.light.light-sources.L1": {
+  "0": "At Karthigai Deepam, homes are lit with rows of clay diyas.",
+  "1": "In many homes, a tall brass lamp called a nilavilakku is lit in the evening.",
+  "2": "On festival nights, a palace or a big temple is lit up with thousands of bulbs.",
+  "3": "A lighthouse by the sea, flashing its light out over the water every night.",
+  "4": "Before the monsoon, trees twinkle with thousands of fireflies, in villages away from city lights.",
+  "5": "At Jagaddhatri Puja, lighting artists make huge pictures out of tiny lights.",
+  "6": "At Dev Deepawali, the steps along a river are covered with lit diyas."
+ },
+ "sci.light.light-sources.L2": {
+  "0": "At Sharad Purnima, families leave kheer or milk out in the light of the full Moon. That moonlight is sunlight bounced off the Moon.",
+  "1": "On Onam nights, white flowers in the pookalam are easier to see in dim light than dark red ones.",
+  "2": "Reflective stripes on a bus or a taxi flash brightly in car headlights.",
+  "3": "In a power cut, a phone torch pointed at the white ceiling lights up the whole room.",
+  "4": "On a full-Moon night by a river, moonlight makes a silver path on the water."
+ },
+ "sci.light.living-light.L3": {
+  "1": "Fireflies blinking in whole trees in the pre-monsoon weeks, in a village away from city lights.",
+  "2": "Glowing mushrooms on fallen bamboo, in the monsoon.",
+  "3": "Glowing fungi on rotting logs in a forest, in the rainy season.",
+  "4": "Blue glowing waves of sea sparkle on some nights at a beach."
+ },
+ "sci.light.living-light.L4": {
+  "0": "Fireflies flashing together in trees, in mangroves or in forests in late May and June.",
+  "1": "The blue sparkle of sea sparkle in the waves of a beach on some winter nights.",
+  "6": "A sea turtle nesting beach, where volunteers ask neighbours to keep lights low in the hatching season."
+ },
+ "sci.light.reflection.L3": {
+  "0": "Mirror-work embroidery, with tiny mirrors stitched onto cloth.",
+  "1": "A palace hall of mirrors, or any room with many small mirrors in the walls.",
+  "7": "A hand-made metal mirror, which shines like glass but is made of polished metal."
+ },
+ "sci.light.refraction.L3": {
+  "7": "A big, squashed orange Sun setting over the sea, or rising over the sea."
+ },
+ "sci.light.transparent-opaque.L2": {
+  "0": "At Uttarayan, kites made of thin paper glow in the sunlight as they fly.",
+  "1": "At a sadya, hold your banana leaf up to the sky before the food comes. The thin leaf glows green.",
+  "2": "At night during Durga Puja, the cloth walls of a pandal glow from the lights inside.",
+  "3": "At a beach, the water near your feet is clear, but far out the sea looks dark blue.",
+  "4": "In a flat, a thin cotton curtain lets in soft light, but a thick bedsheet hung behind it makes the room dark for an afternoon nap."
+ },
+ "sci.light.transparent-opaque.L3": {
+  "1": "A paper kandil glowing over a shop door at Diwali, or a big paper star on a porch at Christmas.",
+  "6": "Morning fog over a paddy field in winter, or mist over a tea garden, so thick you can't see the trees."
+ },
+ "sci.light.what-is-light.L3": {
+  "4": "A big cricket ground. From the far stands, you see the bat hit the ball a moment before you hear the knock.",
+  "5": "A lighthouse on the coast, flashing its own pattern at night."
+ },
+ "sci.magnets.magnets-and-materials.L3": {
+  "3": "Black streaks of sand on a beach, rich in magnetic minerals.",
+  "7": "Sea turtles coming ashore to nest after crossing the sea, in a video or on a beach."
+ },
+ "sci.making-things.biomimicry.L3": {
+  "5": "Termite mounds in fields and forests."
+ },
+ "sci.making-things.design-and-build.L3": {
+  "0": "Boats made of logs tied together, on a beach.",
+  "1": "A houseboat on the backwaters, traditionally made of planks stitched with coir rope.",
+  "6": "The long crates in which dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.",
+  "7": "A bridge grown over many years from the roots of rubber fig trees, in a picture or a video."
+ },
+ "sci.making-things.houses-and-shelter.L3": {
+  "2": "Steep red tiled roofs on houses in villages and towns."
+ },
+ "sci.materials.magnetic-materials.L3": {
+  "3": "An old iron pillar, nearly 1,600 years old and made of almost pure iron, in a picture.",
+  "7": "Black sand on a beach, where a magnet can catch some of the dark grains."
+ },
+ "sci.materials.natural-and-made.L2": {
+  "0": "Glass bangles stacked high at a stall before a festival.",
+  "1": "Banana leaves used as plates at a meal, then thrown on the compost.",
+  "3": "A potter shaping wet clay.",
+  "4": "Coir mats and ropes made from coconut husk, sold in markets."
+ },
+ "sci.materials.properties.L1": {
+  "0": "A banana leaf at a meal, shiny and smooth on top.",
+  "1": "Steel tiffin boxes on a dabbawala's crate, shining in the sun.",
+  "2": "The rough coir doormat at the door of a flat, made from coconut husk.",
+  "4": "A bamboo basket at a market: stiff when woven, though each thin strip is bendy."
+ },
+ "sci.materials.properties.L2": {
+  "0": "A steel tea strainer over a tumbler of filter coffee or tea in a kitchen.",
+  "1": "A mosquito net over a bed, letting the air in and keeping mosquitoes out.",
+  "3": "Rain beading up on a chembu leaf or a kochu leaf in a backyard.",
+  "4": "A shop covering its goods with a clear plastic sheet in the monsoon, so customers can still see them."
+ },
+ "sci.materials.properties.L3": {
+  "4": "Colocasia leaves in the market, called chembu or arbi, where water drops roll like silver beads.",
+  "7": "An old iron pillar, about 1,600 years old, still standing with very little rust, in a picture."
+ },
+ "sci.materials.sorting-materials.L1": {
+  "1": "Dabbawalas sorting hundreds of tiffin boxes by the coloured marks painted on their lids.",
+  "2": "A bangle shop, with bangles sorted into shining rows by colour and size.",
+  "3": "Steel ferry boats crossing the water, full of people, floating like big katoris.",
+  "4": "A kabadiwala with neat piles of newspaper, plastic bottles and metal tins on a hand cart."
+ },
+ "sci.materials.testing-materials.L2": {
+  "0": "At a banana leaf meal, the leaf holds the rasam and sambar without leaking.",
+  "2": "A fisherwoman covers her fish with a polythene sheet when rain falls.",
+  "3": "Boats tied up with coir rope, which is made from coconut fibre."
+ },
+ "sci.materials.using-materials.L1": {
+  "0": "On a rainy school morning, children walk in plastic raincoats, and the rain runs off them.",
+  "2": "At a wedding feast, food is served on banana leaves."
+ },
+ "sci.materials.using-materials.L2": {
+  "0": "Look at the coir doormat at the door of a flat. Coir comes from coconut husk and is rough, so it scrapes mud off shoes and does not slide.",
+  "2": "In a home, carrom powder is sprinkled on the carrom board so that the coins glide.",
+  "3": "A shiny steel slide in a park, worn smooth by children sliding down it."
+ },
+ "sci.materials.using-materials.L3": {
+  "5": "Bamboo scaffolding around a building that is going up. Bamboo is strong, light and bendy.",
+  "7": "Shiny steel tiffins carried in cloth bags by dabbawalas."
+ },
+ "sci.materials.what-is-it-made-of.L1": {
+  "0": "A row of shining steel tiffin boxes on a kitchen shelf, each one with a name scratched on the lid.",
+  "1": "Glass bangles in every colour on a street stall, clinking as people try them on.",
+  "2": "A wooden houseboat on the backwaters, its roof made of woven palm and bamboo.",
+  "3": "A kabadiwala with heaps of newspaper, metal tins and plastic bottles, each in its own pile.",
+  "4": "A handloom weaver weaving a gamosa, a white cotton cloth with a red border."
+ },
+ "sci.materials.what-is-it-made-of.L3": {
+  "0": "Salt pans along the coast, white and flat, seen from a train or bus.",
+  "1": "Rubber trees with a slanting cut on the trunk and a small cup catching white latex."
+ },
+ "sci.me-and-others.me-and-others.L1": {
+  "0": "A banana-leaf meal at a wedding, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side."
+ },
+ "sci.microorganisms.germs.L3": {
+  "0": "The hand sanitiser bottle at a hospital entrance, a bank or a mall."
+ },
+ "sci.microorganisms.germs.L5": {
+  "0": "A mosquito net over a bed, or a net across a window.",
+  "6": "Covered water pots with a long ladle, in homes."
+ },
+ "sci.microorganisms.helpful-microbes.L5": {
+  "0": "White vadam and vathal drying on cloths on terraces in March and April.",
+  "1": "Red chillies spread to dry across open ground.",
+  "2": "Fish drying on racks and on the sand along a beach.",
+  "7": "Racks of meat and fish drying above a kitchen fire."
+ },
+ "sci.microorganisms.microbes-everywhere.L5": {
+  "0": "A cow chewing cud beside a road. She is grinding grass for the microbes in her first stomach chamber.",
+  "2": "Shoes left outside a door after a monsoon day. The smell is made by foot bacteria.",
+  "3": "A baby's first rice, the day a baby first eats rice. It is also the first rice for the baby's gut bacteria.",
+  "4": "A 'clean your hands' sign beside a hospital bed. It is aimed at the visitors on hands.",
+  "5": "Curd rice in a steel tiffin box. Every spoonful carries living bacteria, most of whom will pass through.",
+  "6": "A box of antibiotic tablets at a chemist's counter. The box says the medicine is to be sold only on a doctor's prescription.",
+  "7": "A street dog being patted by children on the steps of a building. Skin microbes pass both ways."
+ },
+ "sci.microorganisms.parasites.L4": {
+  "2": "A step well, called a baoli or a vav, with steps going down to the water."
+ },
+ "sci.microorganisms.viruses.L5": {
+  "6": "A toddy tapper or coconut climber wiping the blade before the next palm."
+ },
+ "sci.mind.sense-of-self.L2": {
+  "0": "You may see a baby on a train turn their head when their mother strokes their cheek.",
+  "1": "You may hear a cricket singing at night from a pot plant on a balcony.",
+  "4": "During Durga Puja, children look at themselves in a mirror after putting on new clothes."
+ },
+ "sci.mind.thinking-and-memory.L3": {
+  "5": "An auto driver who knows the way through hundreds of small lanes without a map.",
+  "7": "A folk singer who learns many songs by ear from a teacher, without a written page, and sings them from memory."
+ },
+ "sci.motion.kinds-of-motion.L1": {
+  "0": "Gas cylinder delivery workers tipping a cylinder on its edge and rolling it into a flat.",
+  "1": "A potter in a workshop spinning a wheel to shape a pot.",
+  "2": "A wooden oonjal swinging in a home.",
+  "3": "Kites spinning and swooping at Makar Sankranti.",
+  "5": "A tennis ball bouncing on a gully cricket pitch in a lane."
+ },
+ "sci.motion.kinds-of-motion.L2": {
+  "0": "A local train runs straight along the tracks.",
+  "1": "A giant wheel turns at a mela.",
+  "2": "A cloth cradle rocks back and forth in a home.",
+  "3": "Boatmen pull their oars back and forth at a river ghat.",
+  "4": "Women draw round kolam patterns at a doorstep.",
+  "5": "Pigeons and crows take off from a balcony."
+ },
+ "sci.motion.physics-of-sport.L3": {
+  "0": "Beach cricket on the hard, wet sand near the waves."
+ },
+ "sci.motion.speed.L2": {
+  "1": "A boat race, with long boats and rowers pulling together to a song.",
+  "5": "Kites at Makar Sankranti, darting fast in strong wind and drifting slowly in light wind."
+ },
+ "sci.motion.swings-and-pendulums.L3": {
+  "0": "An oonjal, a wooden swing hanging from the ceiling, in a home. A similar swing is called a hichko.",
+  "2": "A jhula, a swing tied to a branch or a beam, hung up in the monsoon. For Jhulan Yatra, families hang a decorated swing."
+ },
+ "sci.nothing-and-forever.infinity.L3": {
+  "1": "A sikku kolam at a doorway, drawn as one line that loops round and joins up."
+ },
+ "sci.nothing-and-forever.zero.L3": {
+  "3": "The weather report on TV showing below-zero temperatures in a cold place in winter."
+ },
+ "sci.order-chaos.cause-and-effect.L2": {
+  "0": "Traffic on a busy road: when the front car stops, each car behind it stops one after another, like dominoes.",
+  "2": "The monsoon arriving in early June: warm sea, then winds, then clouds, then rain, then full rivers and green fields."
+ },
+ "sci.order-chaos.chance.L2": {
+  "0": "The coin toss before a cricket match, on TV or in a street game.",
+  "1": "A Ludo or snakes and ladders board at home on a rainy afternoon.",
+  "2": "The weather report on TV or in the newspaper saying rain is 'likely'.",
+  "4": "Cowrie shells or tamarind seeds thrown in an old board game, where how they land decides the move."
+ },
+ "sci.order-chaos.order-and-chaos.L2": {
+  "0": "A kolam at a doorstep early in the morning, or a rangoli at a doorway during Diwali. Both have order, because they are made by following rules.",
+  "2": "Raindrops splashing on a balcony floor or a steel bucket during the monsoon.",
+  "4": "Neat stacks of steel tumblers and plates at a vessel shop in a market."
+ },
+ "sci.patterns-symmetry.fractals-and-spirals.L3": {
+  "1": "Pineapples on a fruit cart, with spiral rows of scales winding both ways.",
+  "5": "A satellite picture of a cyclone over the sea, with spiral bands of cloud.",
+  "6": "A map of a river delta, where the river splits into hundreds of smaller channels."
+ },
+ "sci.patterns-symmetry.fractals-and-spirals.L4": {
+  "3": "The spiral of a snail shell or shankha at a temple, or a shell stall on a beach.",
+  "4": "A satellite picture of a cyclone over the sea in the news, with arms of cloud winding in.",
+  "5": "The branching rivers of a delta, in an atlas or on a map."
+ },
+ "sci.patterns-symmetry.symmetry-in-nature.L1": {
+  "0": "A kolam at a doorstep in the month of Margazhi, the same on both sides.",
+  "1": "A butterfly on a curry leaf or lemon plant on a balcony, her wings spread flat.",
+  "2": "Paper kites at Uttarayan, each with two matching sides.",
+  "3": "A big building where both sides match, such as a palace or a gateway.",
+  "4": "Mehendi on a bride's two hands at a wedding, the same pattern flipped."
+ },
+ "sci.patterns-symmetry.symmetry-in-nature.L3": {
+  "0": "A kolam at a doorstep during Margazhi, a rangoli at Diwali, an alpona drawn in rice paste at a puja, or an Onam pookalam made of flower petals."
+ },
+ "sci.patterns-symmetry.symmetry-in-nature.L4": {
+  "6": "A crab with one big claw, or a flatfish with both eyes on one side, at a fish market."
+ },
+ "sci.planet-earth.maps-and-directions.L3": {
+  "0": "The 'you are here' map at a metro station or a bus stand.",
+  "2": "A big temple with a tall gateway tower, a gopuram, on each of its four sides."
+ },
+ "sci.planet-earth.rocks.L2": {
+  "4": "Red laterite walls, full of tiny holes."
+ },
+ "sci.planet-earth.soil-and-crops.L3": {
+  "0": "Red soil along the roads.",
+  "1": "Deep cracks in black soil fields in the dry months.",
+  "2": "Old houses and compound walls built of red laterite blocks.",
+  "7": "Tea gardens, growing on soil that a river laid down."
+ },
+ "sci.plants.inside-plants.L5": {
+  "1": "Flower sellers tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.",
+  "2": "Sloping cuts and hanging cups on rubber trees along a road.",
+  "7": "Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants."
+ },
+ "sci.plants.plant-parts.L1": {
+  "1": "A banyan tree with roots hanging down from the branches. Some giant banyans are held up by roots like these."
+ },
+ "sci.plants.plant-parts.L2": {
+  "1": "Lotus leaves and flowers in a temple tank or a pond."
+ },
+ "sci.plants.plant-parts.L3": {
+  "7": "Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads.",
+  "8": "Mangrove breathing roots poking out of the mud at low tide."
+ },
+ "sci.plants.plant-senses.L2": {
+  "2": "A field of sunflowers, with nearly all the open flowers facing the same way."
+ },
+ "sci.plants.plant-senses.L5": {
+  "0": "Touch-me-not plants with pink flowers, growing wild along roadsides and empty plots.",
+  "2": "The smell of cut grass at a cricket ground, just after the mower has passed.",
+  "3": "White threads under the damp fallen leaves in a garden in the monsoon. They are the body of a fungus.",
+  "4": "Trees bent and stunted by the sea wind on a coast.",
+  "5": "Baskets of round brown mushrooms from forest floors, in a monsoon market."
+ },
+ "sci.plants.plant-variety.L3": {
+  "2": "Pumpkin or bottle gourd vines spreading over a roof or wall in a village.",
+  "3": "Pepper vines climbing areca or coconut trunks in a garden."
+ },
+ "sci.plants.plant-variety.L4": {
+  "1": "Neem flowers and jaggery in the Ugadi pachadi, bitter and sweet in one bite.",
+  "2": "Amaltas trees in yellow bloom in April, and their flowers arranged for Vishu.",
+  "3": "Palash trees turning a forest edge orange-red in spring.",
+  "5": "Mahua flowers collected from the ground early in the morning.",
+  "6": "A small sacred grove, a patch of old trees beside a home or temple."
+ },
+ "sci.plants.plant-variety.L5": {
+  "0": "Green velvet moss on walls, compound walls and steps in the monsoon.",
+  "5": "Pine nuts in a dry fruit shop, and pine cones sold in hill towns.",
+  "6": "Bunches of curled fern tops sold as a vegetable in a market."
+ },
+ "sci.plants.water-transport.L4": {
+  "1": "Fish spread out on mats to dry in the sun on a beach, covered with salt.",
+  "5": "Mangrove trees standing on arched roots in muddy water along a coast or river mouth."
+ },
+ "sci.plants.what-plants-need.L1": {
+  "3": "Green rice fields full of water in the monsoon.",
+  "4": "Tea gardens, with tall shade trees planted among the tea bushes."
+ },
+ "sci.plants.what-plants-need.L2": {
+  "2": "Yellow mustard fields in winter, seen from a train window.",
+  "4": "Young sunflower plants in a field, all facing the same way in the morning."
+ },
+ "sci.plants.what-plants-need.L4": {
+  "4": "The knobbly pencil roots of mangroves sticking up from the mud on a coast."
+ },
+ "sci.seeds-and-life-cycles.plant-life-cycle.L3": {
+  "7": "A hillside turning blue when neelakurinji flowers, once every 12 years. Look for a plant that flowers only once in its life."
+ },
+ "sci.seeds-and-life-cycles.seeds-and-germination.L1": {
+  "1": "Moong sprouts with white tails in a steel bowl at home, or at a sundal stall.",
+  "3": "Young green paddy seedlings in a nursery bed, before farmers plant them out in the fields."
+ },
+ "sci.seeds-and-life-cycles.seeds-and-germination.L5": {
+  "4": "Lotus pods at a flower market or a temple tank. The dark seeds inside have one of the hardest coats of any seed."
+ },
+ "sci.senses.five-senses.L1": {
+  "0": "The smell of filter coffee drifting out of a kitchen in the morning, before anyone says it is ready.",
+  "1": "Jasmine flowers in a woman's hair on a crowded bus, smelled before she is seen.",
+  "2": "A street dog sniffing every corner on the walk, finding out who passed by."
+ },
+ "sci.senses.five-senses.L3": {
+  "4": "A spice market, where your nose can tell you where you are with your eyes shut."
+ },
+ "sci.senses.five-senses.L4": {
+  "2": "A tea-tasting room, where tasters sip and spit again and again to compare leaves."
+ },
+ "sci.senses.more-senses.L3": {
+  "4": "Prawns at the fish market, with their long and short feelers."
+ },
+ "sci.senses.perception.L3": {
+  "0": "Railway tracks, a local train line or a long straight road that seem to meet far away."
+ },
+ "sci.sky.exploring-space.L3": {
+  "1": "The cyclone pictures on the TV news, taken by weather satellites.",
+  "4": "A space museum, or a picture of a first small rocket launch."
+ },
+ "sci.sky.exploring-space.L4": {
+  "4": "The weather map on the TV news, with a swirl of cloud from a satellite over the sea."
+ },
+ "sci.sky.history-of-astronomy.L3": {
+  "3": "Giant stone instruments for measuring the sky, in a park or in a picture."
+ },
+ "sci.sky.history-of-astronomy.L4": {
+  "4": "A clock on a wall in a railway station showing the same time as every other station."
+ },
+ "sci.sky.life-beyond-earth.L3": {
+  "2": "Salt pans along the coast, where sea water dries in the sun and leaves salt.",
+  "3": "Steam and hot water at a hot spring, in a picture or a video."
+ },
+ "sci.sky.life-beyond-earth.L4": {
+  "0": "Idli and dosa batter swelling overnight in a closed pot, with bubbles and a sour smell.",
+  "1": "Dough rising in a bakery, where yeast makes gas that makes the bread soft.",
+  "4": "Satellite pictures of our land turning green in the monsoon and brown in the dry season."
+ },
+ "sci.sky.moon-phases.L3": {
+  "5": "High spring tides on a beach or at a river ghat on the days of Amavasya and Purnima."
+ },
+ "sci.sky.moon-phases.L4": {
+  "3": "Fishing boats pulled up on the beach at low tide, and floating at high tide."
+ },
+ "sci.sky.moon-phases.L5": {
+  "7": "A picture of the Sun taken from a solar observatory. Observatories have photographed the Sun on clear days for more than a hundred years."
+ },
+ "sci.sky.moons-asteroids-comets.L3": {
+  "0": "Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach.",
+  "2": "A round lake inside a crater made by a meteorite, in a picture.",
+  "3": "Meteorites on display in a museum or science centre."
+ },
+ "sci.sky.solar-system.L4": {
+  "4": "A round lake in a crater about 1.8 kilometres wide, made by a space rock long ago, in a picture."
+ },
+ "sci.sky.solar-system.L5": {
+  "6": "A planetarium show, with the planets and moons projected on a dome."
+ },
+ "sci.sky.stargazing.L1": {
+  "0": "On every full Moon night, thousands of people walk round a sacred hill by moonlight.",
+  "1": "Children sing 'Nila nila odi vaa', asking the Moon to come running. The Moon is also called Uncle Moon.",
+  "3": "On Kojagiri Purnima, families stay up to see the full Moon and drink warm masala milk.",
+  "4": "On the full Moon night after Durga Puja, families keep Kojagori Lakshmi Puja.",
+  "5": "At the end of Ramzan, people look for the thin new crescent Moon before Eid begins.",
+  "6": "A dark sky far from town lights, where the Milky Way shines over the hills."
+ },
+ "sci.sky.stargazing.L3": {
+  "6": "Arundhati being spoken of at weddings, as a star always beside her husband Vasishtha."
+ },
+ "sci.sky.sun-moon-stars.L1": {
+  "0": "At Pongal, families cook sweet pongal outside in the morning sunshine, to thank the Sun for the harvest.",
+  "1": "At Chhath Puja, people stand in rivers and ponds at sunset and sunrise to greet the Sun.",
+  "2": "A temple built like a giant chariot for the Sun, with huge stone wheels, in a picture.",
+  "3": "On Sharad Purnima, many families sit out under the full Moon and share sweet milk.",
+  "4": "Far from town lights, the night sky is full of stars.",
+  "5": "On rooftops, people spread coconut pieces and chillies on mats to dry in the sun.",
+  "6": "A dark-sky place, where lights are kept low so the stars can be seen."
+ },
+ "sci.sky.the-sun.L3": {
+  "2": "A building or an airport with solar panels on its roof, running on the Sun's power.",
+  "3": "Salt pans by the sea, where the Sun dries seawater into salt.",
+  "4": "A sweet and sour mango pickle that is cooked slowly by the Sun in glass jars on a terrace.",
+  "5": "Pongal and Makar Sankranti, when families give thanks for the harvest and the Sun. Chhath, when families pray to the Sun at sunrise and sunset.",
+  "6": "A temple built as the Sun's chariot, with great stone wheels, in a picture."
+ },
+ "sci.sky.the-sun.L4": {
+  "0": "The thin pink-red rim and silvery glow round the black Moon in pictures of a total solar eclipse.",
+  "1": "Solar panels on apartment roofs, tilted towards the south.",
+  "5": "A solar observatory that has been recording the Sun since 1899, in a picture."
+ },
+ "sci.sound.hearing.L1": {
+  "0": "A koel calling 'ku-oo' from a tree on a hot summer morning, heard from inside the flat.",
+  "1": "A woman selling greens calling 'Keerai! Keerai!' as she walks down a street, getting softer as she goes.",
+  "2": "Bihu drums heard from many streets away before the dancers come into sight.",
+  "3": "A ship's horn at a port, heard across the harbour.",
+  "4": "A street dog lifting and turning her ears towards a sound before anyone else has heard it."
+ },
+ "sci.sound.hearing.L3": {
+  "0": "A traffic policeman at a busy junction, standing in the noise of horns all day.",
+  "3": "Your ears popping in a lift or on a ghat road."
+ },
+ "sci.sound.music.L2": {
+  "1": "The chenda drums at a temple festival, with many drummers keeping one beat.",
+  "2": "The dhakis playing the big dhak drum during Durga Puja."
+ },
+ "sci.sound.sound-moves.L1": {
+  "0": "Vegetable and fish sellers walk down the street calling out what they sell. People hear them from the fourth and fifth floors of a building.",
+  "1": "During the monsoon, families see the lightning over the sea first and hear the thunder a few moments later.",
+  "2": "At Ganesh Chaturthi, cone-shaped loudspeakers on poles send music and announcements along the street.",
+  "3": "During Durga Puja, people blow the conch shell, and the sound carries across the whole neighbourhood.",
+  "4": "At night, in towns and villages, people hear a train horn from a station far away."
+ },
+ "sci.sound.sources-of-sound.L1": {
+  "0": "At a temple festival, long rows of drummers play the chenda together, and the sound fills the town.",
+  "1": "During Durga Puja, drummers play the dhak, a big drum hung from the shoulder.",
+  "2": "In summer, the koel calls 'koo-ooo' loudly from trees in the city. The loud caller is the male, a black bird with red eyes.",
+  "3": "At Bohag Bihu, people play the dhol and blow the pepa, a pipe made from a buffalo horn."
+ },
+ "sci.sound.vibration.L5": {
+  "1": "A mridangam player at a concert, pressing a hand on the skin to stop a note short.",
+  "5": "A kite string humming in the wind at Uttarayan or at Pongal.",
+  "6": "The nadaswaram and the thavil at a wedding: one is an air column, the other has two skins."
+ },
+ "sci.sound.waves.L3": {
+  "1": "Waves on any beach, with a fishing boat bobbing far out.",
+  "3": "A paddy field with waves running across it in the wind.",
+  "4": "The tsunami warning signs and evacuation route boards along the coast."
+ },
+ "sci.sound.waves.L4": {
+  "4": "Sea waves arriving one after another on a beach. Count the seconds between two waves."
+ },
+ "sci.space-time.dimensions.L2": {
+  "0": "A kolam or rangoli at a doorway is made of flat shapes: dots, lines, circles and triangles.",
+  "1": "A round biscuit tin is a cylinder. Its top and bottom are flat circles, and its side is curved.",
+  "3": "A cut onion in a kitchen shows rings: flat circles inside circles.",
+  "4": "A temple gopuram is a solid built in layers, each layer a little smaller than the one below."
+ },
+ "sci.space-time.space.L2": {
+  "0": "A tall temple gopuram looks small from far across the city, and huge when you stand at its gate.",
+  "1": "Railway tracks at a station seem to come together far away, though they stay the same distance apart. That is because far things look smaller, and so does the gap between the rails.",
+  "2": "Crows or pigeons on a wire sit with gaps between them, keeping some space for each bird.",
+  "3": "A plane in the sky looks as small as a bird, though it is very big.",
+  "4": "At night from a terrace, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots."
+ },
+ "sci.space-time.time.L2": {
+  "0": "A big old clock tower chiming over the city.",
+  "1": "A giant stone sundial whose shadow moves as you watch. Any sundial in a park will do.",
+  "3": "The pressure cooker whistling on a stove, while someone counts the whistles."
+ },
+ "sci.states.crystals.L3": {
+  "1": "Kalkandu, rock sugar, given at a temple as prasadam.",
+  "2": "White salt heaps at salt pans along a coast, seen from the road."
+ },
+ "sci.states.dissolving.L3": {
+  "4": "White salt heaps beside shallow pans on the coast."
+ },
+ "sci.states.evaporation-and-condensation.L3": {
+  "5": "Winter fog in the city, and morning mist in the hills."
+ },
+ "sci.states.evaporation-and-condensation.L5": {
+  "4": "Dew on the seat of a parked scooter on a winter morning."
+ },
+ "sci.states.floating-and-sinking.L2": {
+  "0": "Round boats made of woven bamboo, carrying people across a river.",
+  "1": "Houseboats made of wood, floating on the backwaters.",
+  "2": "Floating islands of plants, soil and roots on a lake, in a picture or a video.",
+  "3": "Clay Ganesha and Durga idols sinking in water after festivals. Clay is heavier than the water that would fill the same space.",
+  "4": "Fishing nets on a beach, with a row of floats along the top edge."
+ },
+ "sci.states.liquids-up-close.L4": {
+  "4": "A dam, a thick wall across a river.",
+  "8": "A step well, with deep steps down to the water."
+ },
+ "sci.states.melting-and-solidifying.L2": {
+  "0": "Fish packed in crushed ice at a fish market. The ice melts slowly and keeps the fish cold.",
+  "1": "A goldsmith melting gold in a small cup over a hot flame, then pouring it into a mould.",
+  "4": "A kulfi cart, with kulfi cones packed in a pot of ice and salt."
+ },
+ "sci.states.particles.L3": {
+  "4": "Salt pans by the sea, where sea water dries in the sun and the dissolved salt comes back as white crystals."
+ },
+ "sci.states.solids-liquids-gases.L2": {
+  "0": "Kulfi set in cone-shaped moulds at a kulfi cart. The milk took the shape of the mould, then froze.",
+  "1": "Steam cooking idlis in an idli pot in a kitchen.",
+  "2": "Coconut water inside a tender coconut at a stall, taking the shape of the inside of the nut.",
+  "3": "Tall cones of ice that farmers build in winter, in a picture. They melt slowly in spring and water the fields.",
+  "4": "Morning fog over the hills. It is tiny drops of liquid water floating in the air."
+ },
+ "sci.story-of-universe.black-holes.L3": {
+  "2": "A railway tunnel on a hill section, looking black inside at noon.",
+  "4": "A sky show about black holes at a planetarium.",
+  "5": "News about a gravitational-wave detector, an instrument that catches ripples from far-off black holes."
+ },
+ "sci.story-of-universe.galaxies-and-big-bang.L3": {
+  "3": "A picture of big radio telescope dishes, which pick up radio waves from far galaxies."
+ },
+ "sci.story-of-universe.galaxies.L3": {
+  "5": "A planetarium show that shows the Milky Way as it looks from a dark sky."
+ },
+ "sci.waste.compost-and-disposal.L3": {
+  "1": "Stacked terracotta compost pots on balconies."
+ },
+ "sci.waste.sorting-waste.L2": {
+  "1": "The waste collector's cart or truck with two drums or two parts."
+ },
+ "sci.waste.sorting-waste.L3": {
+  "2": "Women in green uniforms collecting dry waste from homes."
+ },
+ "sci.water.water-cycle.L3": {
+  "3": "Thick winter fog over the city and the fields, when trains and flights run late.",
+  "4": "Clouds sitting on the hills in the monsoon.",
+  "5": "Salt pans beside the road near the sea, with white heaps of salt."
+ },
+ "sci.water.water-sources-and-uses.L1": {
+  "0": "A row of plastic and steel pots lined up at a public tap, waiting for the water to come.",
+  "1": "A red clay matka of drinking water under a tree in a street, for anyone who is thirsty.",
+  "2": "A round well in the courtyard of an old house, with a rope and a bucket.",
+  "3": "A stepwell, with steps going far down to the water.",
+  "4": "Floating islands of plants on a lake, where fishers live on the water, in a picture."
+ },
+ "sci.water.water-sources-and-uses.L3": {
+  "4": "An old stepwell, with steps going down to the water."
+ },
+ "sci.water.water-sources-and-uses.L5": {
+  "5": "Salt pans seen from a train window, with white heaps of salt beside shallow ponds."
+ },
+ "sci.weather.clouds-and-rain.L2": {
+  "0": "Clouds sitting on the hills during the monsoon.",
+  "1": "A very rainy hill town, in the news or on a map. Some of the rainiest places on Earth are hill towns where the clouds pile up.",
+  "3": "Dark grey clouds over the sea in November, before a northeast monsoon storm.",
+  "4": "Fog on a winter morning. Fog is a cloud that sits on the ground."
+ },
+ "sci.weather.forecasting.L3": {
+  "0": "The weather report after the news on television, with a map and cloud symbols.",
+  "2": "Fishing boats pulled high up on the beach when a storm warning is given.",
+  "3": "A newspaper headline: 'Monsoon has arrived'.",
+  "4": "Tall storm clouds building over the city on an April or May afternoon."
+ },
+ "sci.weather.weather.L1": {
+  "2": "Tea-pickers on a hillside with plastic sheets over their heads and backs in the rain."
+ },
+ "sci.weather.wind-and-air.L3": {
+  "3": "Rows of wind turbines along a highway."
+ },
+ "sci.what-is-life.cells-divide.L5": {
+  "1": "Sugarcane setts being planted in a field. Each sett is a piece of cane with two or three nodes.",
+  "5": "Skin peeling from your shoulders a few days after a sunny day at the beach."
+ },
+ "sci.what-is-life.edge-of-life.L5": {
+  "3": "At the beach, every handful of sea water holds millions of phages and the bacteria they infect."
+ },
+ "sci.what-is-life.inside-a-cell.L5": {
+  "2": "The pink and white nithyakalyani flowers by a roadside, the plant that gave a medicine which stops microtubules.",
+  "6": "Corals in an aquarium or a video. Tiny algae live inside the coral animal's cells and share the food they make from sunlight."
+ },
+ "sci.what-is-life.signs-of-life.L1": {
+  "3": "Snails on wet walls and pots during the monsoon."
+ },
+ "sci.what-is-life.signs-of-life.L2": {
+  "1": "Rain tree leaves folded up on an evening walk along a road.",
+  "4": "A coconut lying in a backyard, with a green shoot growing out of the husk."
+ },
+ "sci.what-is-life.signs-of-life.L3": {
+  "5": "Your breath making a little cloud on a cold winter morning."
+ },
+ "sci.what-is-real.consciousness.L2": {
+  "0": "In a flat, everyone notices the sudden quiet when the fan stops in a power cut.",
+  "1": "A flower seller in a busy market hears her own name through all the noise.",
+  "2": "A crow on a balcony turns her head the moment a steel plate clinks.",
+  "3": "A tulsi plant on a windowsill leans towards the light.",
+  "4": "In many homes, mothers say they sleep through thunder but wake at their baby's small cry."
+ },
+ "sci.what-is-real.perception-and-reality.L2": {
+  "0": "Pressure cooker whistles from neighbouring flats at breakfast and lunch time.",
+  "1": "A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways.",
+  "2": "Kites rising on Makar Sankranti over rooftops, lifted by wind nobody can see.",
+  "3": "Coconut palms bending and rustling near the coast before the monsoon rain arrives."
+ }
+}

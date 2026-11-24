@@ -3452,7 +3452,7 @@
    "art": "A tea stall with a wavy metal sheet roof."
   },
   {
-   "text": "The Delhi Iron Pillar at Mehrauli, nearly 1,600 years old and made of almost pure iron.",
+   "text": "An old iron pillar, nearly 1,600 years old and made of almost pure iron, in a picture.",
    "art": "The tall dark iron pillar in a courtyard."
   },
   {
@@ -3468,7 +3468,7 @@
    "art": "A cupboard door held shut by a tiny catch."
   },
   {
-   "text": "Black sand on beaches in Kerala and Odisha, where a magnet can catch some of the dark grains.",
+   "text": "Black sand on a beach, where a magnet can catch some of the dark grains.",
    "art": "A beach with dark streaks in the sand."
   }
  ],
@@ -3871,7 +3871,13 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A teacher, Uddalaka, asks his son Shvetaketu to put salt in water and come back in the morning. The salt cannot be seen, but it is in every sip. The teacher says that what is unseen can be the very heart of things.",
     "link": "A magnet's force is unseen too, yet it acts on everything near the magnet, even on water and on you. Like the salt, it is there even where we cannot notice it.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3883,7 +3889,9 @@
     "source": "Aristotle, On the Soul 405a, reporting Thales of Miletus",
     "teaching": "Thales said that a lodestone has a soul, because it moves iron. He was among the first to look for causes inside nature itself.",
     "link": "Today we explain the magnetic force with electrons and fields. Awareness runs through everything, down to the particles, so Thales's question is still worth asking. Many scientists say whether a stone has any awareness is still an open question.",
-    "verse": ["Ἔοικε δὲ καὶ Θαλῆς ἐξ ὧν ἀπομνημονεύουσι κινητικόν τι τὴν ψυχὴν ὑπολαβεῖν, εἴπερ τὸν λίθον ἔφη ψυχὴν ἔχειν, ὅτι τὸν σίδηρον κινεῖ."],
+    "verse": [
+     "Ἔοικε δὲ καὶ Θαλῆς ἐξ ὧν ἀπομνημονεύουσι κινητικόν τι τὴν ψυχὴν ὑπολαβεῖν, εἴπερ τὸν λίθον ἔφη ψυχὴν ἔχειν, ὅτι τὸν σίδηρον κινεῖ."
+    ],
     "verse_lang": "grc"
    }
   ],

@@ -2977,7 +2977,7 @@
    "art": "A papaya plant in a kitchen garden with mottled light and dark green leaves, some of them narrow and twisted."
   },
   {
-   "text": "A toddy tapper or coconut climber in Kerala or Tamil Nadu wiping the blade before the next palm.",
+   "text": "A toddy tapper or coconut climber wiping the blade before the next palm.",
    "art": "A coconut climber at the foot of a palm, wiping a curved blade on a cloth tied at his waist."
   },
   {
@@ -3459,7 +3459,10 @@
     "source": "Thirukkural 423",
     "teaching": "Whatever is said, and whoever says it, wisdom is to find out what is true in it.",
     "link": "A ribosome builds from every message it meets. Thiruvalluvar says a wise mind does one thing more: it weighs the message itself, whoever sent it. The body's defenders do something like this when they check each new protein by its shape.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    },
    {

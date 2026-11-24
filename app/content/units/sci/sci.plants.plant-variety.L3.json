@@ -596,14 +596,24 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "A father, Uddalaka, asks his son to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this great banyan tree grows. That is you.'",
     "link": "A banyan seed holds no wood at all. The whole trunk is built later, mostly from air and water, using the Sun's light.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति", "स य एषोऽणिमैतदात्म्यमिदं सर्वम्", "तत्सत्यम्", "स आत्मा", "तत्त्वमसि श्वेतकेतो इति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति",
+     "स य एषोऽणिमैतदात्म्यमिदं सर्वम्",
+     "तत्सत्यम्",
+     "स आत्मा",
+     "तत्त्वमसि श्वेतकेतो इति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 76",
     "teaching": "Green plants are soft and full of sap while they live. When they die, they become dry and hard. So the stiff and hard go with death, and the soft and bending go with life.",
     "link": "In the Stem Test, the dry twig snapped and the green stems bent. Wood itself is made of cells that have died and left their hard walls behind. The part that grows new wood is a thin living layer just under the bark.",
-    "verse": ["萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "萬物草木之生也柔脆，其死也枯槁。",
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3089,11 +3099,11 @@
    "art": "A money plant winding up a window grill."
   },
   {
-   "text": "Pumpkin or bottle gourd vines spreading over a roof or wall in a village in Bengal, Assam or Kerala.",
+   "text": "Pumpkin or bottle gourd vines spreading over a roof or wall in a village.",
    "art": "A bottle gourd vine spreading over a tiled roof."
   },
   {
-   "text": "Pepper vines climbing areca or coconut trunks in Kerala and Karnataka gardens.",
+   "text": "Pepper vines climbing areca or coconut trunks in a garden.",
    "art": "Pepper vines wrapping up a tall areca palm trunk."
   },
   {

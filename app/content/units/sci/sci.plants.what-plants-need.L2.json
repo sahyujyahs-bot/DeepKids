@@ -1912,7 +1912,7 @@
    "art": "Small green plants growing from cracks in an old compound wall, leaning out towards the light."
   },
   {
-   "text": "Yellow mustard fields in Punjab and Rajasthan in winter, seen from a train window.",
+   "text": "Yellow mustard fields in winter, seen from a train window.",
    "art": "A wide yellow mustard field in flower under a pale winter sky, with a train in the distance."
   },
   {
@@ -1920,7 +1920,7 @@
    "art": "A potato in a dark basket with long pale shoots poking out between the gaps."
   },
   {
-   "text": "Young sunflower plants in a field in Karnataka, all facing the same way in the morning.",
+   "text": "Young sunflower plants in a field, all facing the same way in the morning.",
    "art": "A row of young sunflower plants with closed buds all turned towards the morning sun."
   }
  ],
@@ -2150,7 +2150,9 @@
     "source": "Tao Te Ching 76",
     "teaching": "Plants are born soft and supple. When they die, they are dry and brittle.",
     "link": "Only a young, soft, growing shoot can bend towards the light. The bend in our rai sprouts happened near the tip, where the stem was youngest and still growing.",
-    "verse": ["人之生也柔弱，其死也堅強。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。"
+    ],
     "verse_lang": "zh"
    }
   ],

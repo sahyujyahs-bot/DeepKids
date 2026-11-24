@@ -504,7 +504,10 @@
     "source": "Isha Upanishad, verse 5",
     "teaching": "It moves, and it moves not. It is far, and it is near. It is inside all this, and it is outside all this.",
     "link": "The verse speaks of the one Self, not of planets. Science finds no body that stands still. The sages say there is a stillness of another kind, which holds all movement.",
-    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse": [
+     "तदेजति तन्नैजति तद्दूरे तद्वन्तिके",
+     "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3050,7 +3053,7 @@
    "art": "An old banknote with a drawing of a satellite with square panels, lying beside a magnifying glass."
   },
   {
-   "text": "A planetarium show, such as in Chennai, Bengaluru, Hyderabad or Kolkata, with the planets and moons projected on a dome.",
+   "text": "A planetarium show, with the planets and moons projected on a dome.",
    "art": "A round dome ceiling lit with planets and stars, with rows of children looking up."
   },
   {

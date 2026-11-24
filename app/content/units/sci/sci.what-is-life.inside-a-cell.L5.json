@@ -2576,7 +2576,7 @@
    "art": "A clay pot of set curd on a kitchen shelf with a spoon standing in it."
   },
   {
-   "text": "The pink and white nithyakalyani flowers by a roadside in Chennai or Kochi, the plant that gave a medicine which stops microtubules.",
+   "text": "The pink and white nithyakalyani flowers by a roadside, the plant that gave a medicine which stops microtubules.",
    "art": "A small bush of pink periwinkle flowers growing beside a compound wall."
   },
   {
@@ -2592,7 +2592,7 @@
    "art": "A barber sweeping cut hair on a shop floor."
   },
   {
-   "text": "The corals of Lakshadweep and the Gulf of Mannar. Tiny algae live inside the coral animal's cells and share the food they make from sunlight.",
+   "text": "Corals in an aquarium or a video. Tiny algae live inside the coral animal's cells and share the food they make from sunlight.",
    "art": "A coral reef in clear shallow water with a zoomed-in circle showing round golden algae inside a coral cell."
   },
   {
@@ -3075,14 +3075,20 @@
     "source": "Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased)",
     "teaching": "Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly.",
     "link": "We call our own cells advanced and bacteria simple. The science in this lesson shows two designs, each fitted to a size. The ranking comes from us.",
-    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse": [
+     "莊子曰：「鯈魚出游從容，是魚樂也。」",
+     "惠子曰：「子非魚，安知魚之樂？」",
+     "莊子曰：「子非我，安知我不知魚之樂？」"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Tattvartha Sutra 5.21, a Jain text by Umasvati (paraphrased)",
     "teaching": "Living beings exist by helping one another.",
     "link": "A mitochondrion gives the cell ATP. The cell gives her food, shelter and most of her proteins. Neither can now live without the other.",
-    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse": [
+     "परस्परोपग्रहो जीवानाम्"
+    ],
     "verse_lang": "sa"
    }
   ],

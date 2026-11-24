@@ -410,7 +410,10 @@
     "source": "Zhuangzi, chapter 2, 'On Making Things Equal' (China, about 2,300 years ago)",
     "teaching": "A teacher describes the wind blowing through all the hollows of a forest. Each hollow gives its own sound: some roar, some whistle, some sigh. Then he asks who does the sounding.",
     "link": "This is an air column, described long ago. In the Palm Pipe, a long tube and a short tube gave different notes from the same slap. Each hollow gives the note that its own length sets. The book leaves its question open, and so do we.",
-    "verse": ["夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。", "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"],
+    "verse": [
+     "夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。",
+     "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -422,7 +425,11 @@
     "source": "Aristotle, On the Soul, book 2, chapter 8 (Greece, about 2,350 years ago)",
     "teaching": "A sound needs three things: something that strikes, something that is struck, and a medium between them and the ear. The air must be moved as one mass, all the way to the hearing.",
     "link": "This matches the chain you built in the Spoon on a String: a source, a medium and an ear. Aristotle did not know about particles, but he saw that the air must carry the movement.",
-    "verse": ["Γίνεται δ’ ὁ κατ’ ἐνέργειαν ψόφος ἀεί τινος πρός τι καὶ ἔν τινι· πληγὴ γάρ ἐστιν ἡ ποιοῦσα.", "ἕτερον γὰρ τὸ τύπτον καὶ τὸ τυπτόμενον", "Ψοφητικὸν μὲν οὖν τὸ κινητικὸν ἑνὸς ἀέρος συνεχείᾳ μέχρις ἀκοῆς"],
+    "verse": [
+     "Γίνεται δ’ ὁ κατ’ ἐνέργειαν ψόφος ἀεί τινος πρός τι καὶ ἔν τινι· πληγὴ γάρ ἐστιν ἡ ποιοῦσα.",
+     "ἕτερον γὰρ τὸ τύπτον καὶ τὸ τυπτόμενον",
+     "Ψοφητικὸν μὲν οὖν τὸ κινητικὸν ἑνὸς ἀέρος συνεχείᾳ μέχρις ἀκοῆς"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2866,7 +2873,7 @@
    "art": "A brass temple bell hanging from a beam, with a child's fingertip touching its rim."
   },
   {
-   "text": "A mridangam player at a concert in Chennai, pressing a hand on the skin to stop a note short.",
+   "text": "A mridangam player at a concert, pressing a hand on the skin to stop a note short.",
    "art": "A mridangam player on a stage with one palm flat on the drum skin."
   },
   {
@@ -2882,11 +2889,11 @@
    "art": "An auto-rickshaw waiting at a signal, its side mirror showing a blurred reflection."
   },
   {
-   "text": "A kite string humming in the wind at Uttarayan in Gujarat, or at Pongal in Tamil Nadu.",
+   "text": "A kite string humming in the wind at Uttarayan or at Pongal.",
    "art": "A child on a terrace holding a tight kite string, with small sound lines along the string."
   },
   {
-   "text": "The nadaswaram and the thavil at a wedding in Tamil Nadu: one is an air column, the other has two skins.",
+   "text": "The nadaswaram and the thavil at a wedding: one is an air column, the other has two skins.",
    "art": "Two musicians at a wedding, one blowing a long nadaswaram and one playing a barrel-shaped thavil."
   },
   {
