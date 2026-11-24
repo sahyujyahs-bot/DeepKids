@@ -333,7 +333,7 @@ function boardWorkItems(all) {
         add(wType(u, e.id), u, e.id, e.title, {
           day: a,
           dn,
-          open: `data-act="chapter" data-k="${u.k}" data-t="lab"`,
+          open: `data-act="chapter" data-k="${u.k}" data-t="lab" data-id="${esc(e.id)}"`,
           sub: (st) =>
             st === "going"
               ? w0?.st === "started"
@@ -1632,6 +1632,7 @@ Object.assign(ACT, {
     sfx("flip");
     if (b.dataset.t) ui.ctab[k] = b.dataset.t;
     openSheet({ mode: "chapter", k });
+    if (b.dataset.id) pkShow(b.dataset.id);
   },
   tododel(b, e, a, k) {
     S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);

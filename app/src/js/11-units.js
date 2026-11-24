@@ -1099,6 +1099,8 @@ function fxMap() {
   else d.querySelector(".fxpage").scrollTop = 0;
 }
 // unfold part `si` in place, with its cards in one column, and go to card `ci`
+// things to do with your hands are done when the family says so, not when the page has been scrolled to the end
+const FXDO = ["experiments", "projects", "activities", "games", "challenges"];
 function fxShowSection(si, ci) {
   const u = FXU,
     F = fxSt(),
@@ -1112,7 +1114,7 @@ function fxShowSection(si, ci) {
     body = FXALL.filter((c) => c.sec === s.id);
   const end = {
     key: "end." + s.id,
-    html: `<div class="fxtxt fxlead">${fxStar()}<h2>Done: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
+    html: `<div class="fxtxt fxlead">${fxStar()}<h2>${FXDO.includes(s.kind) ? "Did you do it" : "Done"}: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow">${FXDO.includes(s.kind) ? `<button class="fxb fxgo" data-fx="did" data-id="${esc(s.id)}">✔ We did it</button>` : ""}<button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
   FXCARDS = [...body, end];
   const last = FXCARDS.length - 1,
@@ -1142,7 +1144,7 @@ function fxShowSection(si, ci) {
   const ending = new IntersectionObserver(
     ([e]) => {
       clearTimeout(FXENDT);
-      if (!e.isIntersecting) return;
+      if (!e.isIntersecting || FXDO.includes(s.kind)) return;
       FXENDT = setTimeout(() => {
         const F2 = fxSt(),
           D = (F2.done[u.id] = F2.done[u.id] || {}),

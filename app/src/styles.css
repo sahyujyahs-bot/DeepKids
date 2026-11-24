@@ -7544,3 +7544,9 @@ select.inp {
   display: grid;
   justify-items: start;
 }
+
+.pk.pkflash {
+  outline: 3px solid var(--tang);
+  outline-offset: 4px;
+  border-radius: var(--r-lg);
+}

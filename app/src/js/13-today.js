@@ -216,7 +216,7 @@ function itemDetail(it, date) {
       .join("")}</div>`;
   if (it.kind === "event") {
     const e = it.ev;
-    return `<p class="sm" style="font-weight:700">${clock(toMins(e.start))} to ${clock(toMins(e.end))} · ${ROLE[e.kind === "outing" ? "out" : e.who]}${e.rep === "weekly" ? " · every " + e.days.map((d) => DAYN[d]).join(", ") : ""}${e.note ? " · " + esc(e.note) : ""}</p><div class="row"><button class="btn line sm" data-act="delev" data-e="${e.id}">Remove</button></div>`;
+    return `<p class="sm" style="font-weight:700">${clock(toMins(e.start))} to ${clock(toMins(e.end))} · ${ROLE[e.kind === "outing" ? "out" : e.who]}${e.rep === "weekly" ? " · every " + e.days.map((d) => DAYN[d]).join(", ") : ""}${e.note ? " · " + esc(e.note) : ""}</p><div class="row">${it.done || S.tl[date + "|" + it.id] === "missed" ? "" : `<button class="btn line sm" data-act="evmiss" data-id="${esc(e.id)}" data-date="${date}">Didn't go ${isT ? "today" : "this day"}</button>`}<button class="link xs" data-act="delev" data-e="${e.id}">${e.rep === "weekly" ? "Stop this for good" : "Remove it"}</button></div>`;
   }
   if (it.kind === "todo")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn soft sm" data-act="todomove" data-t="${it.td.id}">Move to tomorrow</button><button class="btn line sm" data-act="tododel" data-t="${it.td.id}">Remove</button></div>`;
@@ -976,6 +976,8 @@ Object.assign(ACT, {
     commit();
   },
   delev(b, e, a, k) {
+    const ev = (S.events || []).find((x) => x.id === b.dataset.e);
+    if (ev?.rep === "weekly" && !confirm(`Stop "${ev.title}" for good? It will no longer show on any day.`)) return;
     S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
     sfx("flip");
     commit();

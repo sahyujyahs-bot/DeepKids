@@ -3835,9 +3835,18 @@ const pkList = (a, tag = "ul") =>
 const pkWs = (u, w) =>
   `<div class="pk"><span class="eyebrow">${TIER[w.tier] || ""} worksheet</span><b>${esc(w.title)}</b><p class="xs muted">${w.sections.length} sections · ${w.sections.reduce((a, s) => a + s[1].length, 0)} questions</p><div class="row"><button class="btn accent sm" data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}">${taskDone(u.k + "#" + w.id, "ws") ? "Open again (finished)" : itemState("ws", u, w.id) === "going" ? "Continue the worksheet" : "Open the worksheet"}</button></div>${stateCtl("ws", u, w.id)}</div>`;
 const pkExp = (u, e) =>
-  `<div class="pk"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm err"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
+  `<div class="pk" data-i="${esc(e.id)}"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm err"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
+// scroll the chapter's Experiments tab to one experiment, activity or project and light it up, so it is plain which one it is
+function pkShow(id) {
+  setTimeout(() => {
+    const el = document.querySelector(`#sheetBody .pk[data-i="${CSS.escape(id)}"]`);
+    if (!el) return;
+    el.scrollIntoView({ block: "start" });
+    el.classList.add("pkflash");
+  }, 80);
+}
 const pkAct = (u, a) =>
-  `<div class="pk"><span class="eyebrow">Activity${a.mins ? " · " + a.mins + " min" : ""}</span><b>${esc(a.title)}</b>${a.need?.length ? `<p class="sm"><b>You need:</b> ${a.need.map(esc).join(", ")}</p>` : ""}${pkList(a.steps, "ol")}${a.outcome ? `<p class="sm"><b>You end up with:</b> ${esc(a.outcome)}</p>` : ""}<div class="tasks-inline">${taskLine(u, a.id, "Activity done")}</div></div>`;
+  `<div class="pk" data-i="${esc(a.id)}"><span class="eyebrow">Activity${a.mins ? " · " + a.mins + " min" : ""}</span><b>${esc(a.title)}</b>${a.need?.length ? `<p class="sm"><b>You need:</b> ${a.need.map(esc).join(", ")}</p>` : ""}${pkList(a.steps, "ol")}${a.outcome ? `<p class="sm"><b>You end up with:</b> ${esc(a.outcome)}</p>` : ""}<div class="tasks-inline">${taskLine(u, a.id, "Activity done")}</div></div>`;
 const pkVoice = (v) =>
   `<div class="pk voicecard"><span class="vst ${esc(v.status)}">${VST[v.status] || esc(v.status)}</span><b>${esc(v.who)}</b>${fmtPts(v.idea, 1)}<span class="eyebrow">Back then</span>${fmtPts(v.then, 1)}<span class="eyebrow">Today</span>${fmtPts(v.now, 1)}<div class="ask"><span class="eyebrow">Ask your child</span>${esc(v.ask)}</div></div>`;
 function packPrep(u, n) {
@@ -8112,6 +8121,8 @@ function fxMap() {
   else d.querySelector(".fxpage").scrollTop = 0;
 }
 // unfold part `si` in place, with its cards in one column, and go to card `ci`
+// things to do with your hands are done when the family says so, not when the page has been scrolled to the end
+const FXDO = ["experiments", "projects", "activities", "games", "challenges"];
 function fxShowSection(si, ci) {
   const u = FXU,
     F = fxSt(),
@@ -8125,7 +8136,7 @@ function fxShowSection(si, ci) {
     body = FXALL.filter((c) => c.sec === s.id);
   const end = {
     key: "end." + s.id,
-    html: `<div class="fxtxt fxlead">${fxStar()}<h2>Done: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
+    html: `<div class="fxtxt fxlead">${fxStar()}<h2>${FXDO.includes(s.kind) ? "Did you do it" : "Done"}: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow">${FXDO.includes(s.kind) ? `<button class="fxb fxgo" data-fx="did" data-id="${esc(s.id)}">✔ We did it</button>` : ""}<button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
   FXCARDS = [...body, end];
   const last = FXCARDS.length - 1,
@@ -8155,7 +8166,7 @@ function fxShowSection(si, ci) {
   const ending = new IntersectionObserver(
     ([e]) => {
       clearTimeout(FXENDT);
-      if (!e.isIntersecting) return;
+      if (!e.isIntersecting || FXDO.includes(s.kind)) return;
       FXENDT = setTimeout(() => {
         const F2 = fxSt(),
           D = (F2.done[u.id] = F2.done[u.id] || {}),
@@ -12336,7 +12347,7 @@ function boardWorkItems(all) {
         add(wType(u, e.id), u, e.id, e.title, {
           day: a,
           dn,
-          open: `data-act="chapter" data-k="${u.k}" data-t="lab"`,
+          open: `data-act="chapter" data-k="${u.k}" data-t="lab" data-id="${esc(e.id)}"`,
           sub: (st) =>
             st === "going"
               ? w0?.st === "started"
@@ -13635,6 +13646,7 @@ Object.assign(ACT, {
     sfx("flip");
     if (b.dataset.t) ui.ctab[k] = b.dataset.t;
     openSheet({ mode: "chapter", k });
+    if (b.dataset.id) pkShow(b.dataset.id);
   },
   tododel(b, e, a, k) {
     S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
@@ -19465,7 +19477,7 @@ document.addEventListener(
 document.addEventListener(
   "click",
   (e) => {
-    const b = e.target.closest('[data-fx="paper"]');
+    const b = e.target.closest('[data-fx="paper"],[data-fx="did"]');
     if (!b || !FXU) return;
     e.preventDefault();
     e.stopPropagation();
@@ -19476,7 +19488,11 @@ document.addEventListener(
     save();
     b.textContent = "✔ Marked done";
     b.disabled = true;
-    toast("Marked done. It moves to History.");
+    toast(
+      b.dataset.fx === "did"
+        ? "Done, well done! It moves to History. Today will show the next one."
+        : "Marked done. It moves to History.",
+    );
   },
   true,
 );

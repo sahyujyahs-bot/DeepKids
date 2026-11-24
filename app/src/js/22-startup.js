@@ -714,7 +714,7 @@ document.addEventListener(
 document.addEventListener(
   "click",
   (e) => {
-    const b = e.target.closest('[data-fx="paper"]');
+    const b = e.target.closest('[data-fx="paper"],[data-fx="did"]');
     if (!b || !FXU) return;
     e.preventDefault();
     e.stopPropagation();
@@ -725,7 +725,11 @@ document.addEventListener(
     save();
     b.textContent = "✔ Marked done";
     b.disabled = true;
-    toast("Marked done. It moves to History.");
+    toast(
+      b.dataset.fx === "did"
+        ? "Done, well done! It moves to History. Today will show the next one."
+        : "Marked done. It moves to History.",
+    );
   },
   true,
 );

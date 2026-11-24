@@ -481,9 +481,18 @@ const pkList = (a, tag = "ul") =>
 const pkWs = (u, w) =>
   `<div class="pk"><span class="eyebrow">${TIER[w.tier] || ""} worksheet</span><b>${esc(w.title)}</b><p class="xs muted">${w.sections.length} sections · ${w.sections.reduce((a, s) => a + s[1].length, 0)} questions</p><div class="row"><button class="btn accent sm" data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}">${taskDone(u.k + "#" + w.id, "ws") ? "Open again (finished)" : itemState("ws", u, w.id) === "going" ? "Continue the worksheet" : "Open the worksheet"}</button></div>${stateCtl("ws", u, w.id)}</div>`;
 const pkExp = (u, e) =>
-  `<div class="pk"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm err"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
+  `<div class="pk" data-i="${esc(e.id)}"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm err"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
+// scroll the chapter's Experiments tab to one experiment, activity or project and light it up, so it is plain which one it is
+function pkShow(id) {
+  setTimeout(() => {
+    const el = document.querySelector(`#sheetBody .pk[data-i="${CSS.escape(id)}"]`);
+    if (!el) return;
+    el.scrollIntoView({ block: "start" });
+    el.classList.add("pkflash");
+  }, 80);
+}
 const pkAct = (u, a) =>
-  `<div class="pk"><span class="eyebrow">Activity${a.mins ? " · " + a.mins + " min" : ""}</span><b>${esc(a.title)}</b>${a.need?.length ? `<p class="sm"><b>You need:</b> ${a.need.map(esc).join(", ")}</p>` : ""}${pkList(a.steps, "ol")}${a.outcome ? `<p class="sm"><b>You end up with:</b> ${esc(a.outcome)}</p>` : ""}<div class="tasks-inline">${taskLine(u, a.id, "Activity done")}</div></div>`;
+  `<div class="pk" data-i="${esc(a.id)}"><span class="eyebrow">Activity${a.mins ? " · " + a.mins + " min" : ""}</span><b>${esc(a.title)}</b>${a.need?.length ? `<p class="sm"><b>You need:</b> ${a.need.map(esc).join(", ")}</p>` : ""}${pkList(a.steps, "ol")}${a.outcome ? `<p class="sm"><b>You end up with:</b> ${esc(a.outcome)}</p>` : ""}<div class="tasks-inline">${taskLine(u, a.id, "Activity done")}</div></div>`;
 const pkVoice = (v) =>
   `<div class="pk voicecard"><span class="vst ${esc(v.status)}">${VST[v.status] || esc(v.status)}</span><b>${esc(v.who)}</b>${fmtPts(v.idea, 1)}<span class="eyebrow">Back then</span>${fmtPts(v.then, 1)}<span class="eyebrow">Today</span>${fmtPts(v.now, 1)}<div class="ask"><span class="eyebrow">Ask your child</span>${esc(v.ask)}</div></div>`;
 function packPrep(u, n) {
