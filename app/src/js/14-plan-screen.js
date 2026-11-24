@@ -1999,6 +1999,7 @@ Object.assign(ACT, {
     const s = b.dataset.s;
     S.levels[s] = Math.min(5, Math.max(1, S.levels[s] + +b.dataset.d));
     sfx("tick");
+    toast(`${SUBJ[s]} is now Class ${DATA.levels[S.levels[s]].cls}`);
     commit();
   },
   day(b, e, a, k) {

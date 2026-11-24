@@ -1040,6 +1040,7 @@ Object.assign(ACT, {
     p.updated = today;
     S.progress[k] = p;
     sfx(b.dataset.s === "mastered" ? "win" : "tick");
+    toast(`Marked: ${b.textContent.trim()}`);
     commit();
   },
   logk(b, e, a, k) {

@@ -1276,6 +1276,7 @@ Object.assign(ACT, {
     const id = newId();
     S.inv = [...(S.inv || []), { id, name: n, cat: CATS[ui.invCat] ? ui.invCat : "book" }];
     sfx("ok");
+    toast("Added to the shelf");
     commit();
     clearIn("invName");
     invFindPicture(id);

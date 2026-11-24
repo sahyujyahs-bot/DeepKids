@@ -1095,6 +1095,7 @@ Object.assign(ACT, {
     if (x && !x.checks.includes(today)) {
       x.checks.push(today);
       sfx("ok");
+      toast("Checked for today ✓");
       commit();
     }
   },
@@ -1103,6 +1104,7 @@ Object.assign(ACT, {
     if (v) {
       addExp(v, "Our own experiment");
       sfx("ok");
+      toast("Added to your experiments");
       commit();
       clearIn("newExp");
     }

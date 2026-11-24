@@ -2088,6 +2088,7 @@ Object.assign(ACT, {
     ui.ex = { si: t.subjects.findIndex((x) => !t.done[x.s]), qi: -1 };
     ui.zs = null;
     sfx("win");
+    toast(ui.ex.si < 0 ? "Test finished. Well done!" : "That part is finished. On to the next");
     if (ui.ex.si < 0) confetti();
     commit();
   },

@@ -136,6 +136,13 @@ Object.assign(ACT, {
     if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
     else rsMarkRead(id);
     if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+    toast(
+      b.dataset.act === "rslike"
+        ? st.like[id]
+          ? "Saved as a favourite"
+          : "Taken off your favourites"
+        : "Marked as read",
+    );
     commit();
     if (ui.sheet) renderSheet();
   },

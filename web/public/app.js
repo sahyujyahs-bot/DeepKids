@@ -4398,6 +4398,7 @@ Object.assign(ACT, {
     p.updated = today;
     S.progress[k] = p;
     sfx(b.dataset.s === "mastered" ? "win" : "tick");
+    toast(`Marked: ${b.textContent.trim()}`);
     commit();
   },
   logk(b, e, a, k) {
@@ -10485,6 +10486,7 @@ Object.assign(ACT, {
     const id = newId();
     S.inv = [...(S.inv || []), { id, name: n, cat: CATS[ui.invCat] ? ui.invCat : "book" }];
     sfx("ok");
+    toast("Added to the shelf");
     commit();
     clearIn("invName");
     invFindPicture(id);
@@ -10908,6 +10910,13 @@ Object.assign(ACT, {
     if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
     else rsMarkRead(id);
     if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+    toast(
+      b.dataset.act === "rslike"
+        ? st.like[id]
+          ? "Saved as a favourite"
+          : "Taken off your favourites"
+        : "Marked as read",
+    );
     commit();
     if (ui.sheet) renderSheet();
   },
@@ -12010,6 +12019,7 @@ Object.assign(ACT, {
     if (x && !x.checks.includes(today)) {
       x.checks.push(today);
       sfx("ok");
+      toast("Checked for today ✓");
       commit();
     }
   },
@@ -12018,6 +12028,7 @@ Object.assign(ACT, {
     if (v) {
       addExp(v, "Our own experiment");
       sfx("ok");
+      toast("Added to your experiments");
       commit();
       clearIn("newExp");
     }
@@ -14025,6 +14036,7 @@ Object.assign(ACT, {
     const s = b.dataset.s;
     S.levels[s] = Math.min(5, Math.max(1, S.levels[s] + +b.dataset.d));
     sfx("tick");
+    toast(`${SUBJ[s]} is now Class ${DATA.levels[S.levels[s]].cls}`);
     commit();
   },
   day(b, e, a, k) {
@@ -16480,6 +16492,7 @@ Object.assign(ACT, {
     ui.ex = { si: t.subjects.findIndex((x) => !t.done[x.s]), qi: -1 };
     ui.zs = null;
     sfx("win");
+    toast(ui.ex.si < 0 ? "Test finished. Well done!" : "That part is finished. On to the next");
     if (ui.ex.si < 0) confetti();
     commit();
   },
