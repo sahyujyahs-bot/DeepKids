@@ -43,6 +43,9 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 - **Helpers you should already know:** `esc` (always, for any text put in HTML), `icon`, `toast`, `sfx`, `newId`, `setSheetTitle`, `unitBy`, `fmt`/`iso`/`parse`/`addDays`, `subjClass(subject)` for the subject colour class.
 
 ## Content and product rules
+- **Writing a unit? Read `app/content/WRITER_BRIEF.md` and only the card for the part you write** (`app/content/writer/parts/`). Don't read the long docs unless the card sends you there.
+- Models to learn the feel from, one per level: `app/content/writer/EXAMPLES.md`.
+- Run `python3 app/build/validate_unit.py <file>` as you write: it checks most rules (no age-gating, no false simplifications, perspectives and open questions, sizes) and says what to fix.
 - Two tracks: the DeepKids track (topic-led) and the board track (chapter-led, with the DeepKids layer). Waldorf is a teaching style, not a board. See `app/content/TRACKS.md`.
 - Units are full depth: roots with a `deep_truth`, and a 2-session spine (`app/build/validate_unit.py` must pass).
 - Plain writing that a parent and child understand; no poetry where understanding is needed (`app/content/WRITING.md`).

@@ -16,14 +16,16 @@ DENY = re.compile(r"\b(can'?t|cannot|can not|does ?n[o’']t|do ?n[o’']t|never
 GENERIC = ("no line between", "everything is connected", "we are all one", "all is one", "you are the world", "doorway, not a wall")
 SMALL = set("a an the and or but of to in on at is are was be it its this that these those as with for from by not no we you your they their our one".split())
 words = lambda t: {w for w in re.findall(r"[a-z]+", t.lower()) if w not in SMALL and len(w) > 2}
+_TRUTHS = {}
 def truths(path):
-    """the deep truths of the other units in the same folder"""
-    out = []
-    for f in glob.glob(os.path.join(os.path.dirname(path) or ".", "*.json")):
-        if os.path.abspath(f) == os.path.abspath(path): continue
-        try: out.append((os.path.basename(f), json.load(open(f))["roots"]["deep_truth"]["truth"]))
-        except Exception: pass
-    return out
+    """the deep truths of the other units in the same folder (read once per folder)"""
+    folder = os.path.abspath(os.path.dirname(path) or ".")
+    if folder not in _TRUTHS:
+        _TRUTHS[folder] = []
+        for f in glob.glob(os.path.join(folder, "*.json")):
+            try: _TRUTHS[folder].append((f, os.path.basename(f), json.load(open(f))["roots"]["deep_truth"]["truth"]))
+            except Exception: pass
+    return [(name, t) for f, name, t in _TRUTHS[folder] if f != os.path.abspath(path)]
 # WRITING.md rules 2 and 10: short sentences (child 12 words, parent 20), plain punctuation
 def plain(u, P):
     long_ = []
@@ -72,6 +74,117 @@ def playtest(u):
     empty = [l.get("title", "")[:30] for l in u.get("links", []) if not l.get("url") and l.get("kind") != "place"]
     if empty: out.append(f"links with no address: {', '.join(empty)} (PLAYTEST 22)")
     return out
+
+# ---- Writer's kit checks (app/content/WRITER_BRIEF.md): the principles a script can see ----
+# Each rule is (id, kind, message). `ERR` rules stop a unit; the rest are to-dos until the existing units are fixed.
+FALSE_SIMPLE = re.compile(r"(?<!and )(?<!or )\b(?:five|5|six|6) (?:main |basic |only )?senses\b|\b(?:only|just|merely) a theory\b|\bjust a theory\b", re.I)
+HEDGE = re.compile(r"\b(?:not|never|myth|really|thousands|hundreds|dozens|more than|often called|we say|people say|called|wrong|simplif\w+|so far)\b", re.I)
+AGE_GATE = re.compile(r"too (?:advanced|hard|difficult|complicated) for (?:you|children|kids|your age|now|young|a child|this class)|when you(?:'re| are) (?:older|bigger|grown)|when you grow up|(?:you|we)(?:'ll| will) learn (?:this|that|more|about (?:it|this|that)) (?:later|in (?:a few|higher|bigger|class|school|college|secondary|senior)|when)|(?:in|at) (?:higher|senior|secondary) (?:classes|school)|too much for (?:now|you)|beyond (?:this class|your class|your level)|(?:leave|save) (?:this|that|it) for (?:later|when)", re.I)
+FAMILY_WORD = re.compile(r"\b(?:this|next|each|every|another) (?:unit|topic)\b|\bin the unit\b|\bthe topic\b", re.I)
+HUMAN_ANIMAL = re.compile(r"\b(?:humans|people|children|kids|man) and animals\b|\banimals and (?:humans|people|us)\b|\bunlike (?:other )?animals\b|\b(?:lower|simple|primitive) animals?\b|\bhigher and lower\b|\bprimitive\b", re.I)
+DANGER = re.compile(r"\b(?:boil\w*|flame|candle|matches|knife|blade|scissors|hot water|kettle|stove|gas|bleach|acid|electric(?:ity)? socket|mains|plug point|climb\w*|sharp)\b", re.I)
+BAD_LICENCE = re.compile(r"\b(?:NC|ND|SA|non-?commercial|share-?alike|all rights reserved)\b", re.I)
+
+def shown_text(u):
+    """the sentences a family reads: every string except the sources list, the video notes and internal fields"""
+    out = []
+    def walk(x, key=""):
+        if isinstance(x, dict):
+            for k, v in x.items():
+                if k not in ("sources", "playtest", "warm", "check") or (k == "check" and not isinstance(v, str)): walk(v, k)
+        elif isinstance(x, list):
+            for v in x: walk(v, key)
+        elif isinstance(x, str) and key not in ("id", "art", "src", "youtube", "scene", "object", "t", "kind", "status", "tier", "math_unit"): out.append(x)
+    walk(u)
+    return out
+
+def sentences_with(pattern, strings, skip=None):
+    """sentences in the strings that match `pattern` (and, with `skip`, do not match `skip`)"""
+    out = []
+    for text in strings:
+        for s in re.split(r"(?<=[.!?])\s+", text):
+            if pattern.search(s) and not (skip and skip.search(s)): out.append(s.strip()[:90])
+    return out
+
+def writers_kit(u, path):
+    """Returns (errors, to_dos) for the rules in app/content/WRITER_BRIEF.md that a script can check."""
+    E, T = [], []
+    text = shown_text(u)
+    # 1. truthful: no half-truths used to simplify
+    bad = sentences_with(FALSE_SIMPLE, text, HEDGE)
+    if bad: E.append(f"half-truth used to simplify ({len(bad)}): say what we know and that it is simplified, e.g. the body has thousands of kinds of sensors, and a scientific theory is our best tested explanation. See: '{bad[0]}' (WRITER_BRIEF.md 'Truthful')")
+    # 2. no gatekeeping by age
+    gate = sentences_with(AGE_GATE, text)
+    if gate: E.append(f"age-gating ({len(gate)}): do not hold an idea back for being hard; tell it truthfully for this age instead. See: '{gate[0]}' (WRITER_BRIEF.md 'No gatekeeping')")
+    # 3. families never read "unit" or "topic" (our filing words)
+    fw = sentences_with(FAMILY_WORD, text)
+    if fw: T.append(f"'unit' or 'topic' in text families read ({len(fw)}): name the thing itself (this lesson, this idea). See: '{fw[0]}' (TRACKS.md)")
+    # 4. humans are animals; no lesser beings
+    ha = sentences_with(HUMAN_ANIMAL, text)
+    if ha: T.append(f"humans set apart from animals, or a being called lesser ({len(ha)}): write 'humans and other animals' (WRITING.md rule 29). See: '{ha[0]}'")
+    # 5. many perspectives, open debates, open questions
+    ex = u.get("explanations", [])
+    with_p = [x for x in ex if len(x.get("perspectives", [])) >= 2]
+    if len(with_p) < 2: T.append(f"only {len(with_p)} explanations give 2+ perspectives ({{who, explanation}}); give the different ways of thinking for at least 2 big ideas (WRITER_BRIEF.md 'Perspectives')")
+    for x in ex:
+        for p in x.get("perspectives", []):
+            if not (p.get("who") and p.get("explanation")): T.append(f"perspective in '{x.get('concept', '')[:40]}' needs who and explanation")
+    ch = u.get("challenging", [])
+    if len(ch) < 2: T.append(f"challenging: {len(ch)}; give at least 2 views that challenge the usual story, each with evidence for and against")
+    for c in ch:
+        if not (c.get("who") and c.get("for") and c.get("against")): T.append(f"challenging view needs who, for and against: '{c.get('claim', '')[:40]}'")
+    if ch and not any(c.get("status") in ("debated", "minority") for c in ch): T.append("challenging: no live debate (status debated or minority); include at least one view scientists still argue about")
+    oq = u.get("open_questions", [])
+    if len(oq) < 3: T.append(f"open_questions: {len(oq)}; give at least 3 things nobody knows yet, each with why_open")
+    if any(not q.get("why_open") for q in oq): T.append("every open question needs why_open")
+    bq = u.get("big_questions", [])
+    if bq and not ({"deep", "big"} <= {q.get("kind") for q in bq}): T.append("big_questions: include both kinds, deep (into the idea) and big (out to life and the universe)")
+    if any(not q.get("hint") for q in bq): T.append("every big question needs a hint that helps a child start thinking, not an answer")
+    if any(not str(q.get("q", "")).strip().endswith("?") for q in bq): T.append("a big question must be a question (end it with '?')")
+    # 6. sizes and counts from SPEC_UNIT.md
+    sents = [x for x in re.split(r"(?<=[.!?])\s+", (u.get("summary") or {}).get("text", "").strip()) if x]
+    if not 3 <= len(sents) <= 5: T.append(f"summary is {len(sents)} sentences (3-5)")
+    if not 5 <= len(u.get("warmup", [])) <= 10: T.append(f"warmup: {len(u.get('warmup', []))} questions (5-10)")
+    spine = u.get("plan", {}).get("spine", [])
+    exp = {x.get("id"): x for x in u.get("experiments", [])}
+    if spine:
+        for need in ("roots", "quiz", "explanations"):
+            if need not in spine: T.append(f"plan.spine must hold '{need}' (SPEC_UNIT.md 'The spine')")
+        if not any(i in exp and exp[i].get("mins", 0) >= 20 for i in spine): T.append("plan.spine must hold one real experiment of 20+ minutes whose result the child does not know beforehand")
+    else: T.append("plan.spine is empty (SPEC_UNIT.md 'The spine')")
+    for x in u.get("experiments", []): 
+        if x.get("mins", 20) < 5: T.append(f"experiment {x.get('id')}: {x.get('mins')} minutes is too short to be a real investigation")
+    q = u.get("quiz", [])
+    n_out = len(u.get("outcomes", []))
+    if any(isinstance(i.get("outcome"), int) and not 0 <= i["outcome"] < n_out for i in q): T.append("quiz item points at an outcome that does not exist")
+    if n_out and q and len({i.get("outcome") for i in q}) < n_out: T.append(f"quiz covers {len({i.get('outcome') for i in q})} of {n_out} outcomes: every outcome needs a quiz item")
+    for k in ("explanations", "challenging", "agreed", "terms"):
+        miss = sum(1 for x in u.get(k, []) if not x.get("context") and k in ("explanations", "challenging"))
+        if miss: T.append(f"{k}: {miss} cards have no `context` line saying what the card is and why it is here (WRITING.md rule 14)")
+    # 7. safety: a step with heat, blades or climbing must say a grown-up is needed
+    risky = []
+    for k in ("experiments", "activities", "projects", "challenges", "games"):
+        for x in u.get(k, []):
+            for st in x.get("flow", []):
+                if DANGER.search(f"{st.get('do', '')} {st.get('kid', '')}") and not st.get("adult"): risky.append(f"{x.get('id')}/{st.get('id')}")
+    if risky: T.append(f"{len(risky)} steps mention heat, blades or climbing without `adult: true` (EXPERIMENTS card): {', '.join(risky[:4])}")
+    # 8. images: public domain, CC0 or CC BY, with credit
+    art = path.replace(".json", ".art.json")
+    if os.path.exists(art):
+        try:
+            for key, v in json.load(open(art)).items():
+                if not isinstance(v, dict) or v.get("drawn"): continue
+                if not v.get("credit"): E.append(f"picture '{key}' in {os.path.basename(art)} has no credit")
+                elif BAD_LICENCE.search(v["credit"]): E.append(f"picture '{key}' credit '{v['credit'][:50]}' looks non-commercial or share-alike: only public domain, CC0 or CC BY")
+        except Exception: pass
+    for g in u.get("games", []):
+        for pr in g.get("printables", []):
+            for it in pr.get("items", []):
+                if isinstance(it, dict) and isinstance(it.get("img"), dict):
+                    if not it["img"].get("credit"): E.append(f"game {g.get('id')}: a card picture has no credit")
+                    elif BAD_LICENCE.search(it["img"]["credit"]): E.append(f"game {g.get('id')}: picture credit '{it['img']['credit'][:50]}' is not public domain, CC0 or CC BY")
+    return E, T
+
 
 def check(path):
     e = []; P = lambda m: e.append(m)
@@ -254,9 +367,12 @@ def check(path):
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
     if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): P("roots.deep_truth: up to 5 short sentences, each under 25 words, naming the experiment it comes from (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
+    ke, kt = writers_kit(u, path)
+    for x in ke: P(x)
+    W.extend(kt)
     return e, mins, days
 
-for f in sys.argv[1:]:
+for f in (sys.argv[1:] if __name__ == "__main__" else []):
     e, mins, days = check(f)
     print(f"{f}: {'OK' if not e else ''} ({mins} min, about {days} days)")
     for x in e: print("  -", x)
