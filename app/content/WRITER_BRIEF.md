@@ -83,13 +83,22 @@ Never edit a unit's content unless you were asked to write or fix that unit. Lon
 ## 5. Sizes and counts (the validator checks these)
 
 - `summary` 3 to 5 sentences. `outcomes` 4 to 8. `big_questions` 4 or more, both kinds (`deep`, `big`), each with a `hint`. `open_questions` 3 or more, each with `why_open`.
-- `explanations`: every one has `status` (defined, idea, debated), `examples`, a `context` line. Give `perspectives` (each with a real `who` and an `explanation`) wherever an idea really has more than one view: scientists who disagree, other traditions, how thinking changed over time. Never invent a view to fill a count. An idea with one honest view has none, and that is fine. A `debated` one needs 2 or more.
+- `explanations`: every one has `status` (defined, idea, debated), `examples`, a `context` line. Every explanation must be looked at again before you decide it has one view (see "Look again" below). Then it carries either `perspectives` (each with a real `who` and an `explanation`) or a `one_view` note: one sentence saying why only one honest view exists. Never leave an explanation with neither. Never invent a view to fill a count. A `debated` one needs 2 or more.
 - `challenging`: 2 or more views, each with `who`, `for`, `against`, `status`. At least one still debated or minority.
 - `story` 450 to 1400 words. `how_we_found_out` 80 to 200 words, with an idea people once held that was wrong, and how it was shown wrong.
 - `worksheets`: 15 or more items each (10 for Levels 1 and 2), mixed forms, 3 or more thinking questions, one pick-a-side (`perspective`). `quiz` 10 or more, each tagged to an outcome, every outcome covered.
 - `videos` exactly 3. `jokes` 8 to 10. `warmup` 5 to 10. `roots.ask` 2 to 4, `roots.teachings` 2 to 3.
 - Experiments: `question`, `predict` (asks for a reason too), `fair_test`, `results_table`, a `setup` of 2 or more step pictures.
 - `plan.spine` (two sessions): `intro` or a short activity, one real experiment of 20 minutes or more whose result the child does not know, `explanations`, `roots`, `quiz`.
+
+### Look again (do this for every explanation, because books and teachers usually give one view)
+Ask each question, and write down what is true:
+1. **Scale and senses.** What changes if you look closer or farther, faster or slower, or with other senses and instruments? Example: "A wall does not move" is only how it looks to us. Its atoms never stop moving, and it slowly changes all the time. Say the plain statement, then what the closer look shows.
+2. **Scientists.** Do they disagree, or did they once? Is the everyday statement a simplification?
+3. **Other traditions and cultures.** What do India's and other traditions say? Name them.
+4. **Other beings.** How does a bee, a plant or a microbe meet this idea?
+5. **Time.** How did people think about it before, and what changed their mind?
+If at least two answers give a real second view, write `perspectives`. If none do, write `one_view` and say why.
 
 ## 6. Where to look next
 

@@ -124,8 +124,8 @@ def writers_kit(u, path):
     if ha: T.append(f"humans set apart from animals, or a being called lesser ({len(ha)}): write 'humans and other animals' (WRITING.md rule 29). See: '{ha[0]}'")
     # 5. many perspectives, open debates, open questions
     ex = u.get("explanations", [])
-    with_p = [x for x in ex if len(x.get("perspectives", [])) >= 2]
-    if not with_p and not any(x.get("status") == "debated" for x in ex): T.append("no explanation gives different views: fine if every idea here really has one honest view; add perspectives only where people or traditions genuinely differ (WRITER_BRIEF.md 'Perspectives')")
+    undecided = [x.get("concept", "?") for x in ex if len(x.get("perspectives", [])) < 2 and len(str(x.get("one_view", "")).split()) < 6]
+    if undecided: T.append(f"{len(undecided)} explanations have neither 2+ perspectives nor a `one_view` note saying why only one view exists (WRITER_BRIEF.md 'Look again'), for example: {undecided[0]}")
     for x in ex:
         for p in x.get("perspectives", []):
             if not (p.get("who") and p.get("explanation")): T.append(f"perspective in '{x.get('concept', '')[:40]}' needs who and explanation")
