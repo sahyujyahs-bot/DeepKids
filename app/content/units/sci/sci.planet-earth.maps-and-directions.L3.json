@@ -106,7 +106,16 @@
     "A bus route map in Bengaluru shows the stops as dots on a line, and leaves out the houses.",
     "The map on a phone shows roads as lines and the place you are as a blue dot."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gerardus Mercator (1569)",
+     "explanation": "His map keeps directions right for sailors, but it makes places near the poles look much bigger."
+    },
+    {
+     "who": "Gall and Peters (1800s–1970s)",
+     "explanation": "Their map keeps sizes right and bends the shapes. No flat map can keep all of shape, size and distance, because the Earth is round."
+    }
+   ],
    "art": "On the left, a photo-like drawing of a room from the side. On the right, the same room as a map from above.",
    "context": "This card explains what makes a drawing a map, and why a map leaves so much out."
   },
@@ -121,7 +130,16 @@
     "Bengaluru is west of Chennai.",
     "Kolkata is north-east of Chennai."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Many old maps in Europe and Asia",
+     "explanation": "Put east at the top, toward the rising Sun. This is where the word 'orient' comes from."
+    },
+    {
+     "who": "Indian tradition",
+     "explanation": "Treats the east as 'purva', the front, and the other directions are named from there. Maps today put north at the top because people agreed."
+    }
+   ],
    "art": "A globe with the North Pole at the top and an arrow from India pointing to it, and a small Sun rising on the eastern edge.",
    "context": "This card explains what the four directions are, and why the Sun rises in the east."
   },
@@ -137,7 +155,8 @@
    ],
    "perspectives": [],
    "art": "A child in a living room with the right arm pointing at a sunny window and facing a wall labelled N.",
-   "context": "This card tells you how to find north, south, east and west inside your flat, without going out."
+   "context": "This card tells you how to find north, south, east and west inside your flat, without going out.",
+   "one_view": "\"Finding the directions in your own home\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Left and right, or north and south?",
@@ -151,7 +170,8 @@
    ],
    "perspectives": [],
    "art": "Two girls on the same tile, facing different walls, with dotted arrows showing that 'forward then right' leads them to different places.",
-   "context": "This card explains why maps use north, south, east and west instead of left and right."
+   "context": "This card explains why maps use north, south, east and west instead of left and right.",
+   "one_view": "\"Left and right, or north and south?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Symbols, a key and a north arrow",
@@ -165,7 +185,8 @@
    ],
    "perspectives": [],
    "art": "A hand-drawn map of a flat with a key box listing a door, a window, a bed and a tap, and an N arrow.",
-   "context": "This card is about the three things that make a map easy for anyone to read."
+   "context": "This card is about the three things that make a map easy for anyone to read.",
+   "one_view": "\"Symbols, a key and a north arrow\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Scale: keeping distances right",
@@ -179,7 +200,8 @@
    ],
    "perspectives": [],
    "art": "A tiled floor with a bed and a cupboard, and next to it a squared-paper map where each tile is one square.",
-   "context": "This card explains scale, and why counting tiles makes a map that someone else can trust."
+   "context": "This card explains scale, and why counting tiles makes a map that someone else can trust.",
+   "one_view": "\"Scale: keeping distances right\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How a desert ant finds her way home",
@@ -191,7 +213,16 @@
     "An ant with shortened legs stopped before she reached her nest.",
     "Both results show the ant was counting steps, not just looking for her nest."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Desert ants",
+     "explanation": "Find home by keeping a running count of their steps and the Sun's direction, and need no map."
+    },
+    {
+     "who": "Polynesian wayfinders and others",
+     "explanation": "Crossed the ocean using stars, swells and birds, and a mental map passed on in songs. People have used many ways, and maps are one."
+    }
+   ],
    "art": "A desert ant running across pale sand under a bright Sun, with a dotted zigzag path out and a straight path back to a small nest hole.",
    "context": "This card is about a desert ant, and how she finds her way home with no map at all."
   }
@@ -2809,7 +2840,10 @@
     "source": "Majjhima Nikaya 22, the Alagaddupama Sutta (the parable of the raft)",
     "teaching": "The Buddha said his teaching is like a raft for crossing a river. When you reach the other bank, you do not carry the raft on your head. You leave it and walk on.",
     "link": "A map is the same kind of tool. It is for getting somewhere, such as from the door to the coin. In the story Thatha and the Six Towers, once Thatha knew the way home, he hardly needed the map.",
-    "verse": ["Yannūnāhaṁ imaṁ kullaṁ thale vā ussādetvā udake vā opilāpetvā yena kāmaṁ pakkameyyan.", "Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya, no gahaṇatthāya."],
+    "verse": [
+     "Yannūnāhaṁ imaṁ kullaṁ thale vā ussādetvā udake vā opilāpetvā yena kāmaṁ pakkameyyan.",
+     "Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya, no gahaṇatthāya."
+    ],
     "verse_lang": "pi"
    }
   ],

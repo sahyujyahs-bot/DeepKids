@@ -58,7 +58,8 @@
    ],
    "perspectives": [],
    "context": "This card explains why the Moon seems to follow you.",
-   "art": "A child walking past a window with three paper strips on the glass, the strips sliding past while the Moon stays in the same place."
+   "art": "A child walking past a window with three paper strips on the glass, the strips sliding past while the Moon stays in the same place.",
+   "one_view": "\"The Moon seems to follow you because it is very far away\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The Moon and the planets shine with sunlight",
@@ -70,7 +71,16 @@
     "Venus shines brightly just after sunset, lit by the Sun that has just gone down.",
     "A steel plate in a dark room cannot be seen, but shines when a torch falls on it. The Moon is like the plate, and the Sun is like the torch."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Moon is a light in the sky."
+    },
+    {
+     "who": "Aryabhata (499 CE) and Anaxagoras",
+     "explanation": "Said the Moon and the planets shine only because the Sun lights them. Aryabhata also said the Moon's phases come from the Sun's light falling on it."
+    }
+   ],
    "context": "This card says where the Moon's light comes from.",
    "art": "The Sun on the left, the Earth in the middle with a child on the night side, and the Moon above, its sunny side glowing, with arrows from the Sun to the Moon and from the Moon to the child."
   },
@@ -84,7 +94,16 @@
     "Sirius, the brightest star at night, looks bluish white and often twinkles in many colours when low.",
     "A gas flame is blue where it is hottest. A dying coal glows red because it is cooler. Stars are the same: their colour shows how hot they are."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle and many ancient thinkers",
+     "explanation": "Believed the stars are lights fixed on a great sphere around the Earth."
+    },
+    {
+     "who": "Giordano Bruno (1584) and later astronomers",
+     "explanation": "Said every star is a sun, far away, and perhaps with planets of its own. Distances to the stars were first measured in 1838."
+    }
+   ],
    "context": "This card says what stars are, and why they have colours.",
    "art": "A dark sky with one reddish orange star and one bluish white star, and a small Sun drawn beside them as one more star."
   },
@@ -100,7 +119,8 @@
    ],
    "perspectives": [],
    "context": "This card explains why stars twinkle.",
-   "art": "A star with flicker marks and a steady planet dot in the sky, and wavy lines of moving air between them and a child below."
+   "art": "A star with flicker marks and a steady planet dot in the sky, and wavy lines of moving air between them and a child below.",
+   "one_view": "\"Stars twinkle, and planets usually shine steadily\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1790,7 +1810,10 @@
     "source": "Brahmabindu Upanishad 12",
     "teaching": "There is one Self in all beings. It is seen as one and as many, like the one Moon reflected in many pots of water.",
     "link": "The Upanishad uses the one Moon seen in many places as a picture of one Self in many beings. The window strip test showed why one Moon can be seen from so many places at once: it is very far away. The teaching is a picture, not a proof.",
-    "verse": ["एक एव हि भूतात्मा भूते भूते व्यवस्थितः", "एकधा बहुधा चैव दृष्यते जलचन्द्रवत्"],
+    "verse": [
+     "एक एव हि भूतात्मा भूते भूते व्यवस्थितः",
+     "एकधा बहुधा चैव दृष्यते जलचन्द्रवत्"
+    ],
     "verse_lang": "sa"
    },
    {

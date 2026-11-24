@@ -74,7 +74,20 @@
     "A clay diya for Karthigai Deepam is made of clay, another material.",
     "Your rubber chappal is made of rubber."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian traditions",
+     "explanation": "Everything is made of five elements, the mahabhuta: earth, water, fire, air and space."
+    },
+    {
+     "who": "Greek thinkers",
+     "explanation": "Gave four elements: earth, water, air and fire."
+    },
+    {
+     "who": "Modern chemistry",
+     "explanation": "Everything is made of about 118 elements, joined in countless ways, and a material is a certain way of joining them."
+    }
+   ],
    "context": "This card says what a material is. In the Material Hunt, you sorted kitchen things by material.",
    "art": "A kitchen shelf with a steel kadai, a glass jar, a plastic dabba, a wooden ladle, a folded towel and a paper bag, each with a small label."
   },
@@ -90,7 +103,8 @@
    ],
    "perspectives": [],
    "context": "This card shows how to be a material detective, using your eyes, hands and ears.",
-   "art": "A boy tapping a steel plate with a spoon and listening, while a girl beside him looks at the grain on a wooden board."
+   "art": "A boy tapping a steel plate with a spoon and listening, while a girl beside him looks at the grain on a wooden board.",
+   "one_view": "\"How to tell what a thing is made of\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One material makes many things, and one thing can have many materials",
@@ -104,7 +118,8 @@
    ],
    "perspectives": [],
    "context": "In the Paper Cup Puzzle, you cut a paper cup open and found a thin plastic skin inside. This card explains how one thing can be made of two materials.",
-   "art": "A paper cup cut open and laid flat, with a thin clear plastic skin peeling away from the inside, next to an open umbrella with arrows to its fabric, metal and handle."
+   "art": "A paper cup cut open and laid flat, with a thin clear plastic skin peeling away from the inside, next to an open umbrella with arrows to its fabric, metal and handle.",
+   "one_view": "\"One material makes many things, and one thing can have many materials\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Where materials come from",
@@ -118,7 +133,8 @@
    ],
    "perspectives": [],
    "context": "This card says where the six materials come from.",
-   "art": "A simple chart with six arrows: a tree to a wooden chair, a cotton plant to a shirt, a rock to a steel spoon, sand to a glass jar, a dark oil drop to a plastic bucket, and a tree to a book."
+   "art": "A simple chart with six arrows: a tree to a wooden chair, a cotton plant to a shirt, a rock to a steel spoon, sand to a glass jar, a dark oil drop to a plastic bucket, and a tree to a book.",
+   "one_view": "\"Where materials come from\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2069,7 +2085,10 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "The teacher Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. A pot, a cup and a lamp are only different names and shapes. The clay is what they really are.",
     "link": "In the Material Hunt, the metal card held a tumbler, a spoon and a plate. Their names were different, but they were all made of one material.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {

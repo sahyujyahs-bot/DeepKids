@@ -120,7 +120,8 @@
     "Sea water is about 2.5, which is tighter than the 1 to 1.5 inside most leaf cells."
    ],
    "art": "Three jars: plain water, a soil grain with a thin water film, and salty water. Each has a small hand gripping the water, with the grip drawn tighter from left to right.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Water has a grip: some water is held tightly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Osmosis: water crosses a thin skin toward the tighter grip",
@@ -133,7 +134,8 @@
     "A dry moong seed swells in water because its cells hold water tightly and pull it in."
    ],
    "art": "Two cells in cross-section. In one, blue arrows cross the thin skin into a plump full cell. In the other, arrows leave a shrunken cell that has pulled away from its wall.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Osmosis: water crosses a thin skin toward the tighter grip\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How a root takes water in",
@@ -146,7 +148,8 @@
     "Pulling a plant out of the ground leaves her root hairs behind in the soil. That is why a transplanted seedling needs shade and extra water for a few days."
    ],
    "art": "A magnified young root with a fuzz of root hairs reaching between soil grains, and a cut-away showing blue water crossing the root cells into a central tube.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"How a root takes water in\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Fungus helpers: reaching water a root cannot reach",
@@ -158,7 +161,8 @@
     "Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil."
    ],
    "art": "A plant root wrapped in fine white fungal threads that spread out into soil, with blue drops travelling in along the threads and golden dots travelling out.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Fungus helpers: reaching water a root cannot reach\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The slope from soil to sky",
@@ -171,7 +175,16 @@
     "A tree 50 metres tall needs only about 0.5 of pull to lift water to the top, which is tiny next to dry air."
    ],
    "art": "A long staircase going down from wet soil through root, stem and leaf, with a tiny step at each stage and a huge cliff at the end where the leaf meets dry air.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Henry Dixon and John Joly (1894)",
+     "explanation": "The pull of evaporation from the leaves lifts the water, because water molecules hold on to each other like a chain."
+    },
+    {
+     "who": "Some later scientists",
+     "explanation": "Questioned whether a thin thread of water could be pulled so far without breaking. Experiments mostly support Dixon and Joly's view."
+    }
+   ]
   },
   {
    "concept": "Leaves let water out: transpiration",
@@ -184,7 +197,16 @@
     "A field of rice needs about 2,500 litres of water for each kilogram of rice, and most of that water passes through the plants."
    ],
    "art": "A magnified leaf section with a stoma open on the underside, blue vapour curling out into the air and tiny dots of carbon dioxide going in.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Older view",
+     "explanation": "Transpiration is a waste of water."
+    },
+    {
+     "who": "Plant biologists today",
+     "explanation": "It also cools the leaf, pulls water and minerals up from the roots, and carries the plant's water up on the slope."
+    }
+   ]
   },
   {
    "concept": "Guard cells: how the holes in a leaf open and shut",
@@ -197,7 +219,8 @@
     "When a cut leaf wilts quickly, its guard cells have lost water and the holes have closed."
    ],
    "art": "Two pictures of a stoma. In the first, two plump bean-shaped guard cells have bent apart to leave a round hole. In the second, two flat guard cells are pressed together with no gap.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Guard cells: how the holes in a leaf open and shut\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why salt makes plants thirsty",
@@ -210,7 +233,8 @@
     "A white crust on the soil of a dry field is salt left behind after water evaporated."
    ],
    "art": "A flooded paddy field after a storm with seedlings drooping, a white salt crust on the bund, and an arrow showing water leaving a root hair into the salty mud.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Why salt makes plants thirsty\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Mangroves and other plants that can live with salt",
@@ -223,7 +247,8 @@
     "A coconut palm grows on a beach where most other trees cannot."
    ],
    "art": "A mangrove tree with arched stilt roots standing in sea water, with a drawing of a root tip where only water drops pass through and salt grains are turned away.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Mangroves and other plants that can live with salt\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A second set of tubes: sugar travels in the phloem",
@@ -236,7 +261,16 @@
     "Sugarcane stores her sweet sap in her stem."
    ],
    "art": "A cut-away of a stem showing blue upward tubes in the middle and golden downward tubes in the bark, and a ring cut through the bark with golden sap swelling above the cut.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Ernst Münch (1930)",
+     "explanation": "Sugar made in the leaves is pushed along the phloem by pressure, like water in a pipe."
+    },
+    {
+     "who": "Some researchers",
+     "explanation": "Think extra ways may help in very tall trees. The pressure flow idea is still the main one."
+    }
+   ]
   }
  ],
  "agreed": [
@@ -2901,14 +2935,23 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put a lump of salt in water at night, and to bring it back in the morning. Shvetaketu cannot find it. Uddalaka tells him to sip from the top, the middle and the bottom. It is salty everywhere. The salt is there even though no one can see it.",
     "link": "Dissolved salt cannot be seen, yet it decides where the water goes. In a cucumber, a seed or a root, what you cannot see still controls what you can.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.9.1 to 10.9.3 (the hymn to the Waters)",
     "teaching": "In a hymn of the Rig Veda, the Waters are asked to share their kindest sap, as loving mothers share with their children, and are praised as givers of strength and healing.",
     "link": "Water brings its sap, the minerals and sugars, to every part of a plant. The hymn saw water as the thing that carries life from one being to another.",
-    "verse": ["यो वः शिवतमो रसस्तस्य भाजयतेह नः ।", "उशतीरिव मातरः"],
+    "verse": [
+     "यो वः शिवतमो रसस्तस्य भाजयतेह नः ।",
+     "उशतीरिव मातरः"
+    ],
     "verse_lang": "sa"
    }
   ],

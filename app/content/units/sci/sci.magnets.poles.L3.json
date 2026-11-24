@@ -101,7 +101,8 @@
    ],
    "perspectives": [],
    "art": "A bar magnet with N and S labels, paper clips bunched at each end, and an arrow from N towards a compass rose.",
-   "context": "This card explains what the poles of a magnet are, and how to tell north from south."
+   "context": "This card explains what the poles of a magnet are, and how to tell north from south.",
+   "one_view": "\"Every magnet has two poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Unlike poles attract, like poles repel",
@@ -114,7 +115,8 @@
    ],
    "perspectives": [],
    "art": "Three pairs of bar magnets: N facing S with arrows together, N facing N and S facing S with arrows apart.",
-   "context": "This card gives the rule for when two magnets attract and when they repel."
+   "context": "This card gives the rule for when two magnets attract and when they repel.",
+   "one_view": "\"Unlike poles attract, like poles repel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A magnet that is free to turn ends up attracting",
@@ -127,7 +129,8 @@
    ],
    "perspectives": [],
    "art": "Two bar magnets on floating lids: first pushing apart, then one turning round, then stuck together north to south.",
-   "context": "This card explains what you saw in the Magnet Boats experiment: why a pushed-away magnet does not stay away."
+   "context": "This card explains what you saw in the Magnet Boats experiment: why a pushed-away magnet does not stay away.",
+   "one_view": "\"A magnet that is free to turn ends up attracting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Iron is attracted by both poles",
@@ -140,7 +143,8 @@
    ],
    "perspectives": [],
    "art": "A paper clip stuck to the N end and another stuck to the S end of a bar magnet, with small S and N letters on the clips' touching ends.",
-   "context": "This card explains why repelling is the sure test of a magnet."
+   "context": "This card explains why repelling is the sure test of a magnet.",
+   "one_view": "\"Iron is attracted by both poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Cut a magnet, and you get two magnets",
@@ -153,7 +157,8 @@
    ],
    "perspectives": [],
    "art": "A bar magnet cut into two, then four, pieces, each piece with its own N and S labels and tiny arrows inside all pointing the same way.",
-   "context": "This card explains why you can never get a north pole on its own by cutting a magnet."
+   "context": "This card explains why you can never get a north pole on its own by cutting a magnet.",
+   "one_view": "\"Cut a magnet, and you get two magnets\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The Earth's far north is a magnetic south pole",
@@ -164,7 +169,16 @@
     "A compass needle's north pole points north, towards the Earth's magnetic south pole.",
     "Over hundreds of thousands of years, the Earth's magnetic poles have swapped places many times."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Old sailors' ideas",
+     "explanation": "Some believed the Pole Star, or magnetic mountains in the north, pulled the compass needle."
+    },
+    {
+     "who": "William Gilbert (1600)",
+     "explanation": "Showed with a small magnet ball that the whole Earth is a giant magnet. So the pole that attracts a compass's north end is a magnetic south pole."
+    }
+   ],
    "art": "The Earth with a giant bar magnet drawn inside, its S end under the Arctic, and a small compass needle with its N end pointing up towards it.",
    "context": "This card explains a puzzle about the names of the poles."
   },
@@ -179,7 +193,8 @@
    ],
    "perspectives": [],
    "art": "Close-up of a bendy fridge magnet's back, with thin stripes coloured red and blue in turn.",
-   "context": "This card explains what you feel when you slide two bendy fridge magnets over each other."
+   "context": "This card explains what you feel when you slide two bendy fridge magnets over each other.",
+   "one_view": "\"Bendy fridge magnets have many poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Could a north pole exist on its own?",
@@ -190,7 +205,16 @@
     "Every magnet ever tested has had both a north and a south pole.",
     "Scientists still search for monopoles in rocks, in space and in giant machines."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Paul Dirac (1931) and some particle physicists",
+     "explanation": "A lone north or south pole, called a magnetic monopole, is allowed by the maths and expected by some theories."
+    },
+    {
+     "who": "Experiments so far",
+     "explanation": "Nobody has found one, despite long searches. Many physicists think they may not exist at all."
+    }
+   ],
    "art": "A scientist in a 1980s laboratory watching a single spike on a long paper chart from a coil of wire.",
    "context": "This card is about an open question: can a north pole exist without a south pole?"
   }
@@ -2280,14 +2304,18 @@
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
     "link": "A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them.",
     "link": "Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract.",
-    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse": [
+     "οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"
+    ],
     "verse_lang": "grc"
    }
   ],

@@ -58,7 +58,16 @@
     "Clothes on a sunny balcony dry faster than clothes in the shade.",
     "A crow sits in the morning sun with puffed-out feathers to get warm."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Anaxagoras (about 450 BCE)",
+     "explanation": "Said the Sun is a huge, red-hot rock, and was punished for saying it."
+    },
+    {
+     "who": "Many traditions, including Indian ones",
+     "explanation": "Honour Surya as the giver of light and life. Astronomers today say the Sun is a star, a ball of gas that burns by joining atoms together."
+    }
+   ],
    "art": "Two steel bowls on a floor: one in a sun patch with a small puddle and a tiny piece of ice, one in the shade with an ice cube still nearly whole."
   },
   {
@@ -72,7 +81,16 @@
     "On some mornings you can see a pale Moon in the blue sky.",
     "In 2023, India's Chandrayaan-3 landed on the Moon and found grey rock and dust there."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Moon shines by itself at night."
+    },
+    {
+     "who": "Aryabhata and later astronomers",
+     "explanation": "Said Moon light is sunlight bouncing off its dust and rock. That is why its bright part always faces the Sun."
+    }
+   ],
    "art": "The Sun on the left shining a beam of light onto a grey Moon, and the light bouncing from the Moon down to a girl on a balcony at night."
   },
   {
@@ -87,7 +105,8 @@
     "Big telescopes can find bright stars even in the daytime."
    ],
    "perspectives": [],
-   "art": "Two pictures of the same sky: a bright blue day sky with the stars drawn very faintly as dotted outlines, and the dark night sky with the same stars shining clearly."
+   "art": "Two pictures of the same sky: a bright blue day sky with the stars drawn very faintly as dotted outlines, and the dark night sky with the same stars shining clearly.",
+   "one_view": "\"The stars are in the sky in the daytime too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why a city sky shows fewer stars",
@@ -101,7 +120,8 @@
     "Switch off the lights near a window at night, and a few more stars show."
    ],
    "perspectives": [],
-   "art": "Two night skies side by side: over a city of bright tall buildings only three stars, and over a dark village with small huts a sky full of stars."
+   "art": "Two night skies side by side: over a city of bright tall buildings only three stars, and over a dark village with small huts a sky full of stars.",
+   "one_view": "\"Why a city sky shows fewer stars\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1885,14 +1905,20 @@
     "source": "Rig Veda 1.50.2 (a hymn to Surya, the Sun)",
     "teaching": "The stars slip away like thieves, together with their beams, before the all-seeing Sun.",
     "link": "The old hymn says what everyone sees: the stars vanish at sunrise. The torch test shows that they do not really go anywhere. The Sun's bright light hides them.",
-    "verse": ["अप त्ये तायवो यथा नक्षत्रा यन्त्यक्तुभिः ।", "सूराय विश्वचक्षसे"],
+    "verse": [
+     "अप त्ये तायवो यथा नक्षत्रा यन्त्यक्तुभिः ।",
+     "सूराय विश्वचक्षसे"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 15",
     "teaching": "The face of truth is covered by a golden lid. Open it, so that I can see.",
     "link": "Something very bright can hide what is behind it. The golden light of the Sun covers the day sky, and the stars behind it cannot be seen.",
-    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse": [
+     "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्",
+     "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"
+    ],
     "verse_lang": "sa"
    }
   ],

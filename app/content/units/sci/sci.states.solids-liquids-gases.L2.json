@@ -88,7 +88,16 @@
     "An ice cube would not go into the thin bottle.",
     "A wooden block stays a block wherever you put it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A solid keeps its shape for ever."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Some solids flow very slowly. The ice of a glacier creeps downhill, and pitch drips in an old experiment, a drop about once a decade. Window glass does not flow noticeably, which is a common mistake."
+    }
+   ],
    "art": "One steel spoon shown three times: in a tumbler, in a bowl and on a plate, the same shape each time."
   },
   {
@@ -103,7 +112,8 @@
     "Coconut water takes the shape of the inside of the coconut."
    ],
    "perspectives": [],
-   "art": "The same water in a tall thin bottle, a wide bowl and a tumbler, with arrows showing it poured back to the same line."
+   "art": "The same water in a tall thin bottle, a wide bowl and a tumbler, with arrows showing it poured back to the same line.",
+   "one_view": "\"Liquids flow and take the shape of their container\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Gases spread out to fill every corner",
@@ -117,7 +127,8 @@
     "Bubbles in a glass of soda are a gas."
    ],
    "perspectives": [],
-   "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air."
+   "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air.",
+   "one_view": "\"Gases spread out to fill every corner\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Ice, water and steam are the same water",
@@ -131,7 +142,8 @@
     "Snow on the Himalayas melts and flows down into the Ganga."
    ],
    "perspectives": [],
-   "art": "A circle of three pictures with arrows: an ice cube melting into water, water boiling into steam, and steam cooling into drops on a steel lid."
+   "art": "A circle of three pictures with arrows: an ice cube melting into water, water boiling into steam, and steam cooling into drops on a steel lid.",
+   "one_view": "\"Ice, water and steam are the same water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why are they so different? Tiny particles",
@@ -145,7 +157,8 @@
     "Steam: the same particles flying apart."
    ],
    "perspectives": [],
-   "art": "Three boxes: dots packed in neat rows for a solid, dots close but jumbled for a liquid, and dots far apart with motion lines for a gas."
+   "art": "Three boxes: dots packed in neat rows for a solid, dots close but jumbled for a liquid, and dots far apart with motion lines for a gas.",
+   "one_view": "\"Why are they so different? Tiny particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2006,14 +2019,20 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. The things made from it have different names and shapes. What they really are is clay.",
     "link": "In the pouring test, the water in the thin bottle and in the wide bowl had different shapes. What it really was, and how much of it there was, stayed the same.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The highest good is like water. Water helps all things and does not fight them. It flows to the low places.",
     "link": "In the three bags, the water always ran to the lowest part of its bag and fitted that shape. The Tao Te Ching, from China, praises water for fitting itself to whatever is around it.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    }
   ],

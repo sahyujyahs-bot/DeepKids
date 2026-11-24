@@ -1,0 +1,1257 @@
+{
+ "sci.light.transparent-opaque.L2": {
+  "Three ways a material can treat light": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A material is either clear, cloudy or solid-looking, and that is a fixed fact about it."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "It depends on the light and the eyes. Glass is transparent to visible light but opaque to much ultraviolet and infrared. Bees see ultraviolet, so some flowers look different to a bee than to us."
+    }
+   ]
+  },
+  "Each layer stops some of the light": {
+   "one_view": "\"Each layer stops some of the light\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Hidden is not the same as dark": {
+   "one_view": "\"Hidden is not the same as dark\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Thin enough, almost anything lets light through": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Some things are opaque, and light cannot get through."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Gold leaf is thin enough to let green light through. Thick enough water or glass stops light, and X-rays pass through even our bodies. 'Opaque' means opaque to a kind of light, for a thickness."
+    }
+   ]
+  },
+  "Why the deep sea is dark": {
+   "perspectives": [
+    {
+     "who": "A human diver",
+     "explanation": "Below about 1,000 metres the sea is black, because no sunlight gets there."
+    },
+    {
+     "who": "Deep-sea animals",
+     "explanation": "Many make their own light, which is called bioluminescence, and their eyes are built to see it. For them the deep is full of flashes."
+    }
+   ]
+  }
+ },
+ "sci.magnets.magnets-and-materials.L5": {
+  "A magnet and a magnetic material are different things": {
+   "one_view": "\"A magnet and a magnetic material are different things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Only a few metals are magnetic": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Iron, nickel and cobalt are the magnetic metals, and everything else is not magnetic."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Gadolinium is magnetic when cold. Every material reacts a little to a strong magnet: most are pushed away very weakly, and some are pulled very weakly. Strong magnetism is only the loudest kind."
+    }
+   ]
+  },
+  "An alloy is a mixture of metals": {
+   "one_view": "\"An alloy is a mixture of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Indian coins are made of four different alloys": {
+   "one_view": "\"Indian coins are made of four different alloys\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The list of metals in an alloy does not tell you whether it is magnetic": {
+   "one_view": "\"The list of metals in an alloy does not tell you whether it is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Every iron atom is a tiny magnet": {
+   "perspectives": [
+    {
+     "who": "André-Marie Ampère (1820s)",
+     "explanation": "Thought tiny loops of electric current inside matter make it magnetic."
+    },
+    {
+     "who": "Quantum physics (1900s)",
+     "explanation": "The magnetism of an atom comes from its electrons, which behave like tiny magnets through a property called spin, and not from any little loops of current."
+    }
+   ]
+  },
+  "Why a magnet attracts coin steel and not kitchen steel": {
+   "one_view": "Only one explanation is known: the arrangement of atoms in the steel decides whether the iron in it acts as a magnet, and different steels arrange them differently."
+  },
+  "Being magnetic is something many atoms do together": {
+   "perspectives": [
+    {
+     "who": "Pierre Weiss (1907)",
+     "explanation": "Said iron is made of small regions, called domains, in which all the atom magnets point the same way."
+    },
+    {
+     "who": "Heisenberg and quantum physics",
+     "explanation": "Explained why neighbouring atoms line up: a rule about electrons makes it cost less energy to point the same way. Both views are used today."
+    }
+   ]
+  },
+  "No clue you can see tells you whether a metal is magnetic": {
+   "one_view": "\"No clue you can see tells you whether a metal is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A fair test of metals": {
+   "one_view": "\"A fair test of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What a magnet test can and cannot tell you": {
+   "one_view": "\"What a magnet test can and cannot tell you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Choosing an alloy for the job: bone pins and scanners": {
+   "one_view": "\"Choosing an alloy for the job: bone pins and scanners\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The same carbon atoms give two answers to a magnet": {
+   "one_view": "\"The same carbon atoms give two answers to a magnet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Iron and nickel from space, and a magnet nobody could make": {
+   "one_view": "This is a report of what scientists have found in meteorites so far, and nobody offers a rival account of it."
+  }
+ },
+ "sci.magnets.poles.L3": {
+  "Every magnet has two poles": {
+   "one_view": "\"Every magnet has two poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Unlike poles attract, like poles repel": {
+   "one_view": "\"Unlike poles attract, like poles repel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A magnet that is free to turn ends up attracting": {
+   "one_view": "\"A magnet that is free to turn ends up attracting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Iron is attracted by both poles": {
+   "one_view": "\"Iron is attracted by both poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Cut a magnet, and you get two magnets": {
+   "one_view": "\"Cut a magnet, and you get two magnets\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The Earth's far north is a magnetic south pole": {
+   "perspectives": [
+    {
+     "who": "Old sailors' ideas",
+     "explanation": "Some believed the Pole Star, or magnetic mountains in the north, pulled the compass needle."
+    },
+    {
+     "who": "William Gilbert (1600)",
+     "explanation": "Showed with a small magnet ball that the whole Earth is a giant magnet. So the pole that attracts a compass's north end is a magnetic south pole."
+    }
+   ]
+  },
+  "Bendy fridge magnets have many poles": {
+   "one_view": "\"Bendy fridge magnets have many poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Could a north pole exist on its own?": {
+   "perspectives": [
+    {
+     "who": "Paul Dirac (1931) and some particle physicists",
+     "explanation": "A lone north or south pole, called a magnetic monopole, is allowed by the maths and expected by some theories."
+    },
+    {
+     "who": "Experiments so far",
+     "explanation": "Nobody has found one, despite long searches. Many physicists think they may not exist at all."
+    }
+   ]
+  }
+ },
+ "sci.magnets.poles.L4": {
+  "A force that reaches across a gap": {
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Found it hard to believe a force could act across empty space with nothing in between."
+    },
+    {
+     "who": "Michael Faraday and James Clerk Maxwell",
+     "explanation": "Said the magnet fills the space around it with a field, and the field pushes on things inside it."
+    }
+   ]
+  },
+  "The magnetic field: the space around a magnet": {
+   "perspectives": [
+    {
+     "who": "Michael Faraday",
+     "explanation": "Thought the lines of force are real things stretched through space."
+    },
+    {
+     "who": "Maxwell and physicists today",
+     "explanation": "The field is a set of numbers at every point of space, and lines are only a drawing that helps us see it."
+    }
+   ]
+  },
+  "Field lines: how we draw the field": {
+   "one_view": "\"Field lines: how we draw the field\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What a compass shows": {
+   "perspectives": [
+    {
+     "who": "Chinese navigators and Shen Kuo (1088)",
+     "explanation": "Used floating needles and spoons of lodestone to find south, and Shen Kuo noticed that the needle does not point exactly to the north."
+    },
+    {
+     "who": "William Gilbert (1600)",
+     "explanation": "Explained the compass: the Earth itself is a magnet, and the needle lines up with its field."
+    }
+   ]
+  },
+  "Why a magnet is strongest at its poles": {
+   "one_view": "\"Why a magnet is strongest at its poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How quickly the pull fades with distance": {
+   "one_view": "\"How quickly the pull fades with distance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Fields add and cancel": {
+   "one_view": "\"Fields add and cancel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What blocks a magnetic field and what does not": {
+   "one_view": "\"What blocks a magnetic field and what does not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One picture that explains both attract and repel": {
+   "perspectives": [
+    {
+     "who": "Michael Faraday's rubber bands",
+     "explanation": "Field lines pull along their length and push each other sideways. This one picture shows both pulling and pushing."
+    },
+    {
+     "who": "Quantum physics",
+     "explanation": "Says magnets push and pull by passing tiny packets of light between them. The rubber band picture is a model that helps us see what happens."
+    }
+   ]
+  },
+  "Where a magnet's field comes from": {
+   "perspectives": [
+    {
+     "who": "Hans Ørsted (1820) and Ampère",
+     "explanation": "Showed that an electric current in a wire makes a magnetic field."
+    },
+    {
+     "who": "Physics today",
+     "explanation": "The field of a bar magnet comes mostly from the spin of electrons in its atoms, which act like tiny currents without any wire."
+    }
+   ]
+  }
+ },
+ "sci.materials.properties.L1": {
+  "Properties: words for what a material is like": {
+   "one_view": "\"Properties: words for what a material is like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Hard and soft, rough and smooth": {
+   "one_view": "\"Hard and soft, rough and smooth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Bendy and stiff: shape matters too": {
+   "one_view": "\"Bendy and stiff: shape matters too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why a smooth thing shines": {
+   "one_view": "\"Why a smooth thing shines\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.materials.properties.L2": {
+  "One material has many properties": {
+   "one_view": "\"One material has many properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why some materials keep water out": {
+   "one_view": "\"Why some materials keep water out\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Transparent, translucent and opaque": {
+   "one_view": "\"Transparent, translucent and opaque\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How light gets through solid plastic": {
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "Light is a wave that spreads out, and can pass through some solids by making them pulse."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "Thought light is a stream of tiny particles. Einstein and quantum physics later showed light acts as a wave and as a particle, both."
+    }
+   ]
+  },
+  "Strong and stretchy are different properties": {
+   "one_view": "\"Strong and stretchy are different properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.materials.sorting-materials.L1": {
+  "Sorting means putting alike things together": {
+   "one_view": "\"Sorting means putting alike things together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A question makes the groups": {
+   "one_view": "\"A question makes the groups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A test settles a tricky thing": {
+   "one_view": "\"A test settles a tricky thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why the steel katori floats and the steel spoon sinks": {
+   "one_view": "\"Why the steel katori floats and the steel spoon sinks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.materials.what-is-it-made-of.L1": {
+  "Everything is made of a material": {
+   "perspectives": [
+    {
+     "who": "Indian traditions",
+     "explanation": "Everything is made of five elements, the mahabhuta: earth, water, fire, air and space."
+    },
+    {
+     "who": "Greek thinkers",
+     "explanation": "Gave four elements: earth, water, air and fire."
+    },
+    {
+     "who": "Modern chemistry",
+     "explanation": "Everything is made of about 118 elements, joined in countless ways, and a material is a certain way of joining them."
+    }
+   ]
+  },
+  "How to tell what a thing is made of": {
+   "one_view": "\"How to tell what a thing is made of\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One material makes many things, and one thing can have many materials": {
+   "one_view": "\"One material makes many things, and one thing can have many materials\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Where materials come from": {
+   "one_view": "\"Where materials come from\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.motion.kinds-of-motion.L1": {
+  "Five ways to move": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "There are five ways to move: roll, slide, spin, swing and bounce."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Every motion is made of two basic ones: moving along a path, and turning round. Rolling is both at once."
+    }
+   ]
+  },
+  "Rolling goes further than sliding": {
+   "one_view": "\"Rolling goes further than sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Bouncing is squashing and springing back": {
+   "one_view": "\"Bouncing is squashing and springing back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Spinning and swinging go round a still point": {
+   "one_view": "\"Spinning and swinging go round a still point\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.motion.swings-and-pendulums.L3": {
+  "What a pendulum is": {
+   "perspectives": [
+    {
+     "who": "Galileo (about 1583)",
+     "explanation": "Is said to have timed a swinging lamp in a cathedral using his pulse and found the swings take equal time. Historians doubt the story."
+    },
+    {
+     "who": "Christiaan Huygens (1656)",
+     "explanation": "Built the first pendulum clock, turning the idea into a way to keep time."
+    }
+   ]
+  },
+  "Why a pendulum swings back and forth": {
+   "one_view": "\"Why a pendulum swings back and forth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What changes the swing time: the length": {
+   "one_view": "\"What changes the swing time: the length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Very wide swings take a little longer": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Thought a pendulum takes exactly the same time for wide and narrow swings."
+    },
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "Showed that a very wide swing takes a little longer, and that only small swings are equal."
+    }
+   ]
+  },
+  "Why a swing slows down and stops": {
+   "one_view": "\"Why a swing slows down and stops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Pushing at the right moment: resonance": {
+   "one_view": "\"Pushing at the right moment: resonance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How pendulums keep time in clocks": {
+   "perspectives": [
+    {
+     "who": "Before the pendulum clock",
+     "explanation": "People timed the day with sundials and with water clocks. In India the ghati, a bowl with a hole that sinks in water, marked a unit of time of about 24 minutes."
+    },
+    {
+     "who": "Huygens (1656)",
+     "explanation": "The pendulum clock made timekeeping hundreds of times more exact."
+    }
+   ]
+  },
+  "Living things that swing like pendulums": {
+   "one_view": "\"Living things that swing like pendulums\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.motion.swings-and-pendulums.L4": {
+  "Two forms of energy: height and movement": {
+   "perspectives": [
+    {
+     "who": "Gottfried Leibniz (1680s)",
+     "explanation": "Said a moving thing carries 'living force', which grows with the square of its speed."
+    },
+    {
+     "who": "Followers of Descartes and Newton",
+     "explanation": "Said the right quantity is momentum, which grows with speed alone. Later it was seen that both are real and useful, and they are different things."
+    }
+   ]
+  },
+  "The swap: how a swing trades height for speed": {
+   "one_view": "\"The swap: how a swing trades height for speed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The peg: the path can change but the height stays": {
+   "one_view": "\"The peg: the path can change but the height stays\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How long a swing takes: the rule for the period": {
+   "one_view": "\"How long a swing takes: the rule for the period\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The Earth's pull sets the beat": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Gravity is the same everywhere, so a clock keeps the same time anywhere."
+    },
+    {
+     "who": "Jean Richer (1672)",
+     "explanation": "Took a pendulum clock to Cayenne near the equator and found it ran slow. Gravity is a little weaker there, because the Earth bulges at the equator."
+    }
+   ]
+  },
+  "Why a swing dies down but keeps its beat": {
+   "one_view": "\"Why a swing dies down but keeps its beat\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Pumping a swing: adding energy with your body": {
+   "one_view": "\"Pumping a swing: adding energy with your body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Resonance in bigger things: pushes that add up": {
+   "perspectives": [
+    {
+     "who": "Textbooks for many years",
+     "explanation": "The Tacoma Narrows bridge fell in 1940 because winds pushed it at its natural beat."
+    },
+    {
+     "who": "Engineers such as Billah and Scanlan (1991)",
+     "explanation": "Said the bridge fell because of a twisting flutter, where the bridge's own motion draws energy from the wind. Resonance is real but is not the whole story."
+    }
+   ]
+  },
+  "Stiff pendulums: when the whole thing swings": {
+   "one_view": "\"Stiff pendulums: when the whole thing swings\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Timing many swings gives a better answer": {
+   "one_view": "\"Timing many swings gives a better answer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.patterns-symmetry.symmetry-in-nature.L1": {
+  "Symmetry: two halves that match": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Symmetry is a mirror line that cuts a shape into two matching halves."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "Symmetry is any change that leaves a shape looking the same: flipping, or turning round a point like a rangoli or a mandala, or sliding along a pattern."
+    }
+   ]
+  },
+  "Why a mirror shows the other half": {
+   "perspectives": [
+    {
+     "who": "Common idea",
+     "explanation": "A mirror swaps left and right."
+    },
+    {
+     "who": "Physicists who have studied it",
+     "explanation": "A mirror does not swap left and right. It swaps front and back. Your right hand is still on the right of the picture, but the picture faces you."
+    }
+   ]
+  },
+  "Why butterflies, fish and people have two matching sides": {
+   "perspectives": [
+    {
+     "who": "Evolution",
+     "explanation": "Animals that move forward in one direction gain from having a head end, and a left and right that match."
+    },
+    {
+     "who": "Animals such as jellyfish and starfish",
+     "explanation": "Are the same all around, and do not travel in one direction. Scientists link the body plan to the way each one lives."
+    }
+   ]
+  },
+  "Nearly, never exactly": {
+   "one_view": "\"Nearly, never exactly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.planet-earth.maps-and-directions.L3": {
+  "What a map is": {
+   "perspectives": [
+    {
+     "who": "Gerardus Mercator (1569)",
+     "explanation": "His map keeps directions right for sailors, but it makes places near the poles look much bigger."
+    },
+    {
+     "who": "Gall and Peters (1800s–1970s)",
+     "explanation": "Their map keeps sizes right and bends the shapes. No flat map can keep all of shape, size and distance, because the Earth is round."
+    }
+   ]
+  },
+  "North, south, east and west": {
+   "perspectives": [
+    {
+     "who": "Many old maps in Europe and Asia",
+     "explanation": "Put east at the top, toward the rising Sun. This is where the word 'orient' comes from."
+    },
+    {
+     "who": "Indian tradition",
+     "explanation": "Treats the east as 'purva', the front, and the other directions are named from there. Maps today put north at the top because people agreed."
+    }
+   ]
+  },
+  "Finding the directions in your own home": {
+   "one_view": "\"Finding the directions in your own home\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Left and right, or north and south?": {
+   "one_view": "\"Left and right, or north and south?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Symbols, a key and a north arrow": {
+   "one_view": "\"Symbols, a key and a north arrow\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Scale: keeping distances right": {
+   "one_view": "\"Scale: keeping distances right\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How a desert ant finds her way home": {
+   "perspectives": [
+    {
+     "who": "Desert ants",
+     "explanation": "Find home by keeping a running count of their steps and the Sun's direction, and need no map."
+    },
+    {
+     "who": "Polynesian wayfinders and others",
+     "explanation": "Crossed the ocean using stars, swells and birds, and a mental map passed on in songs. People have used many ways, and maps are one."
+    }
+   ]
+  }
+ },
+ "sci.plants.water-transport.L4": {
+  "Water has a grip: some water is held tightly": {
+   "one_view": "\"Water has a grip: some water is held tightly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Osmosis: water crosses a thin skin toward the tighter grip": {
+   "one_view": "\"Osmosis: water crosses a thin skin toward the tighter grip\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How a root takes water in": {
+   "one_view": "\"How a root takes water in\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Fungus helpers: reaching water a root cannot reach": {
+   "one_view": "\"Fungus helpers: reaching water a root cannot reach\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The slope from soil to sky": {
+   "perspectives": [
+    {
+     "who": "Henry Dixon and John Joly (1894)",
+     "explanation": "The pull of evaporation from the leaves lifts the water, because water molecules hold on to each other like a chain."
+    },
+    {
+     "who": "Some later scientists",
+     "explanation": "Questioned whether a thin thread of water could be pulled so far without breaking. Experiments mostly support Dixon and Joly's view."
+    }
+   ]
+  },
+  "Leaves let water out: transpiration": {
+   "perspectives": [
+    {
+     "who": "Older view",
+     "explanation": "Transpiration is a waste of water."
+    },
+    {
+     "who": "Plant biologists today",
+     "explanation": "It also cools the leaf, pulls water and minerals up from the roots, and carries the plant's water up on the slope."
+    }
+   ]
+  },
+  "Guard cells: how the holes in a leaf open and shut": {
+   "one_view": "\"Guard cells: how the holes in a leaf open and shut\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why salt makes plants thirsty": {
+   "one_view": "\"Why salt makes plants thirsty\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Mangroves and other plants that can live with salt": {
+   "one_view": "\"Mangroves and other plants that can live with salt\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A second set of tubes: sugar travels in the phloem": {
+   "perspectives": [
+    {
+     "who": "Ernst Münch (1930)",
+     "explanation": "Sugar made in the leaves is pushed along the phloem by pressure, like water in a pipe."
+    },
+    {
+     "who": "Some researchers",
+     "explanation": "Think extra ways may help in very tall trees. The pressure flow idea is still the main one."
+    }
+   ]
+  }
+ },
+ "sci.seeds-and-life-cycles.seeds-and-germination.L1": {
+  "A seed is a tiny living plant": {
+   "one_view": "\"A seed is a tiny living plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The root comes out first": {
+   "perspectives": [
+    {
+     "who": "Charles Darwin (1880)",
+     "explanation": "Watched root tips and said the tip works like the brain of a lower animal, steering the root."
+    },
+    {
+     "who": "Plant scientists today",
+     "explanation": "Found tiny heavy grains in the root tip that settle and sense which way is down. Some say a plant has a kind of intelligence, and some call it automatic."
+    }
+   ]
+  },
+  "A seed grows into the same kind of plant as the plant that made the seed": {
+   "one_view": "\"A seed grows into the same kind of plant as the plant that made the seed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.sky.stargazing.L1": {
+  "The Moon seems to follow you because it is very far away": {
+   "one_view": "\"The Moon seems to follow you because it is very far away\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The Moon and the planets shine with sunlight": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Moon is a light in the sky."
+    },
+    {
+     "who": "Aryabhata (499 CE) and Anaxagoras",
+     "explanation": "Said the Moon and the planets shine only because the Sun lights them. Aryabhata also said the Moon's phases come from the Sun's light falling on it."
+    }
+   ]
+  },
+  "The stars are faraway suns, in different colours": {
+   "perspectives": [
+    {
+     "who": "Aristotle and many ancient thinkers",
+     "explanation": "Believed the stars are lights fixed on a great sphere around the Earth."
+    },
+    {
+     "who": "Giordano Bruno (1584) and later astronomers",
+     "explanation": "Said every star is a sun, far away, and perhaps with planets of its own. Distances to the stars were first measured in 1838."
+    }
+   ]
+  },
+  "Stars twinkle, and planets usually shine steadily": {
+   "one_view": "\"Stars twinkle, and planets usually shine steadily\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.sky.sun-moon-stars.L1": {
+  "The Sun gives light and heat": {
+   "perspectives": [
+    {
+     "who": "Anaxagoras (about 450 BCE)",
+     "explanation": "Said the Sun is a huge, red-hot rock, and was punished for saying it."
+    },
+    {
+     "who": "Many traditions, including Indian ones",
+     "explanation": "Honour Surya as the giver of light and life. Astronomers today say the Sun is a star, a ball of gas that burns by joining atoms together."
+    }
+   ]
+  },
+  "The Moon shines with the Sun's light": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Moon shines by itself at night."
+    },
+    {
+     "who": "Aryabhata and later astronomers",
+     "explanation": "Said Moon light is sunlight bouncing off its dust and rock. That is why its bright part always faces the Sun."
+    }
+   ]
+  },
+  "The stars are in the sky in the daytime too": {
+   "one_view": "\"The stars are in the sky in the daytime too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why a city sky shows fewer stars": {
+   "one_view": "\"Why a city sky shows fewer stars\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.sound.hearing.L3": {
+  "How the ear turns a sound into a signal": {
+   "one_view": "\"How the ear turns a sound into a signal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The quietest sound you can hear": {
+   "one_view": "\"The quietest sound you can hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Pitch, and the band of sounds people hear": {
+   "one_view": "\"Pitch, and the band of sounds people hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why the highest sounds go first as we grow older": {
+   "one_view": "\"Why the highest sounds go first as we grow older\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Loud sound and hair cells": {
+   "one_view": "\"Loud sound and hair cells\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Keeping your ears safe": {
+   "one_view": "\"Keeping your ears safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Hearing through your bones": {
+   "one_view": "\"Hearing through your bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Animals that hear what we can't": {
+   "one_view": "\"Animals that hear what we can't\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What does a bat hear when the echoes come back?": {
+   "perspectives": [
+    {
+     "who": "Donald Griffin (1938) and bat researchers",
+     "explanation": "Showed that bats make high sounds and use the echoes to find things, and can measure what their brains do."
+    },
+    {
+     "who": "Philosopher Thomas Nagel",
+     "explanation": "Said we can know a bat's body and brain, but we can never know what it is like to be a bat."
+    }
+   ]
+  }
+ },
+ "sci.sound.sound-moves.L1": {
+  "A sound travels from its source to your ears": {
+   "perspectives": [
+    {
+     "who": "Nyaya-Vaisheshika school of India",
+     "explanation": "Sound is a quality of akasha, the space that carries it everywhere."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Sound is a wave of squashing and stretching that moves through air, water or solids, and cannot move through empty space."
+    }
+   ]
+  },
+  "A sound spreads out, so it gets softer as it travels": {
+   "one_view": "\"A sound spreads out, so it gets softer as it travels\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A cone sends more of a sound one way": {
+   "one_view": "\"A cone sends more of a sound one way\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Sound takes a little time to travel": {
+   "one_view": "\"Sound takes a little time to travel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.crystals.L3": {
+  "What a crystal is": {
+   "perspectives": [
+    {
+     "who": "Many chemists before 1982",
+     "explanation": "A crystal always has a pattern that repeats exactly in every direction."
+    },
+    {
+     "who": "Dan Shechtman (1982)",
+     "explanation": "Found a metal with a pattern that never exactly repeats, called a quasicrystal. Many scientists doubted him, but he was proved right and won the Nobel Prize in 2011."
+    }
+   ]
+  },
+  "Why a crystal has flat faces": {
+   "one_view": "\"Why a crystal has flat faces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Each substance grows its own shape": {
+   "one_view": "\"Each substance grows its own shape\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Slow growth makes bigger crystals": {
+   "one_view": "\"Slow growth makes bigger crystals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Not every solid is a crystal": {
+   "one_view": "\"Not every solid is a crystal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How the very first tiny crystal starts": {
+   "perspectives": [
+    {
+     "who": "Classical theory",
+     "explanation": "A crystal starts when enough particles meet by chance and settle in a pattern, and it grows from there."
+    },
+    {
+     "who": "Newer research",
+     "explanation": "Finds that particles often first make a dense, jumbled blob, and then arrange into a crystal. Scientists are still working out which happens when."
+    }
+   ]
+  }
+ },
+ "sci.states.dissolving.L3": {
+  "What dissolving is": {
+   "one_view": "\"What dissolving is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Some things do not dissolve": {
+   "one_view": "\"Some things do not dissolve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Water has a limit for each thing": {
+   "one_view": "\"Water has a limit for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Full of salt, but not full of sugar": {
+   "one_view": "\"Full of salt, but not full of sugar\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Warm water and dissolving": {
+   "one_view": "\"Warm water and dissolving\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A filter catches only what has not dissolved": {
+   "one_view": "\"A filter catches only what has not dissolved\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Salt and sugar dissolve in different ways": {
+   "one_view": "\"Salt and sugar dissolve in different ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why each thing has its own limit": {
+   "one_view": "\"Why each thing has its own limit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Liquids can dissolve too, or not": {
+   "one_view": "\"Liquids can dissolve too, or not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.dissolving.L4": {
+  "Solute and solvent: who dissolves whom": {
+   "one_view": "\"Solute and solvent: who dissolves whom\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How strong a solution is: concentration": {
+   "one_view": "\"How strong a solution is: concentration\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Three kinds of mixtures: solution, suspension and colloid": {
+   "one_view": "\"Three kinds of mixtures: solution, suspension and colloid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why water takes salt and sugar but not oil": {
+   "one_view": "\"Why water takes salt and sugar but not oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Things that dissolve in oil": {
+   "one_view": "\"Things that dissolve in oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why chilli burns and curd helps": {
+   "one_view": "\"Why chilli burns and curd helps\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Soap has one end for water and one for oil": {
+   "one_view": "\"Soap has one end for water and one for oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Gases dissolve in liquids too": {
+   "one_view": "\"Gases dissolve in liquids too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Salt makes ice melt, and makes the mixture colder": {
+   "one_view": "\"Salt makes ice melt, and makes the mixture colder\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Cell skins: oil and water kept apart": {
+   "perspectives": [
+    {
+     "who": "Gorter and Grendel (1925)",
+     "explanation": "Found that the fats around a blood cell make a double layer."
+    },
+    {
+     "who": "Singer and Nicolson (1972)",
+     "explanation": "Said the layer is a fluid sea with proteins floating in it. This 'fluid mosaic' picture is still used, though cells are now known to be more crowded and organised."
+    }
+   ]
+  },
+  "Almost nothing is completely insoluble": {
+   "one_view": "\"Almost nothing is completely insoluble\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The sea holds dissolved gas, as soda does": {
+   "one_view": "\"The sea holds dissolved gas, as soda does\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.evaporation-and-condensation.L3": {
+  "What evaporation is": {
+   "one_view": "\"What evaporation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Where the water goes": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Thought water turns into air."
+    },
+    {
+     "who": "Old Indian writers such as Kalidasa",
+     "explanation": "Described the Sun's rays drawing up water, which clouds return as rain."
+    },
+    {
+     "who": "Modern science",
+     "explanation": "Evaporated water becomes vapour in the air, which stays water and comes back down as rain."
+    }
+   ]
+  },
+  "What condensation is": {
+   "one_view": "\"What condensation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Leaving and landing back, at the same time": {
+   "one_view": "\"Leaving and landing back, at the same time\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What makes things dry faster": {
+   "one_view": "\"What makes things dry faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Boiling, and the white cloud above a pan": {
+   "one_view": "\"Boiling, and the white cloud above a pan\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Dew and fog": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that dew falls from the sky."
+    },
+    {
+     "who": "William Wells (1814)",
+     "explanation": "Showed dew forms from vapour in the air, on surfaces that have cooled at night."
+    }
+   ]
+  },
+  "Living things that drink the fog": {
+   "one_view": "\"Living things that drink the fog\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.floating-and-sinking.L2": {
+  "Floating and sinking": {
+   "one_view": "\"Floating and sinking\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Weight alone does not decide": {
+   "one_view": "\"Weight alone does not decide\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What it is made of decides": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Said the shape of a thing decides if it floats, so a flat piece of iron floats and a ball does not."
+    },
+    {
+     "who": "Archimedes and Galileo (1612)",
+     "explanation": "Said it depends on what the thing weighs compared with the water it pushes aside. Galileo defended this against scholars who followed Aristotle."
+    }
+   ]
+  },
+  "Water pushes up: upthrust": {
+   "one_view": "\"Water pushes up: upthrust\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Air inside helps things float": {
+   "one_view": "\"Air inside helps things float\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Another way to stay on top: the skin of water": {
+   "one_view": "\"Another way to stay on top: the skin of water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.floating-and-sinking.L4": {
+  "What makes a thing float: lighter than the water it pushes aside": {
+   "perspectives": [
+    {
+     "who": "Archimedes (about 250 BCE)",
+     "explanation": "Found the rule: a thing floats if it is lighter than the water it pushes aside. The story of the king's crown is a famous but uncertain tale."
+    },
+    {
+     "who": "Al-Biruni (about 1000 CE)",
+     "explanation": "Measured the densities of many metals and jewels with great care using this rule."
+    }
+   ]
+  },
+  "Density: how much stuff is packed into a space": {
+   "one_view": "\"Density: how much stuff is packed into a space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Upthrust: the water pushes up": {
+   "one_view": "\"Upthrust: the water pushes up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why shape matters: a hollow boat holds air": {
+   "one_view": "\"Why shape matters: a hollow boat holds air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Salt water holds things up better": {
+   "one_view": "\"Salt water holds things up better\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why ice floats, and why oil floats": {
+   "one_view": "\"Why ice floats, and why oil floats\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Liquid layers: the density tower": {
+   "one_view": "\"Liquid layers: the density tower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Fish, submarines and balloons change how dense they are": {
+   "one_view": "\"Fish, submarines and balloons change how dense they are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Boats of India and the load line": {
+   "one_view": "\"Boats of India and the load line\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Measuring density: the hydrometer": {
+   "one_view": "\"Measuring density: the hydrometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.melting-and-solidifying.L2": {
+  "Melting: a solid turns into a liquid": {
+   "one_view": "\"Melting: a solid turns into a liquid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Solidifying and freezing: a liquid turns into a solid": {
+   "one_view": "\"Solidifying and freezing: a liquid turns into a solid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Every solid melts at its own warmth": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Everything has one temperature at which it melts, like ice at 0 °C."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Ice, salt and metals melt at a sharp temperature. Glass, wax and chocolate have no single melting point, and soften slowly as they warm."
+    }
+   ]
+  },
+  "Melting and solidifying can be undone": {
+   "one_view": "\"Melting and solidifying can be undone\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Warmth goes in to melt a solid, and comes out when it solidifies": {
+   "one_view": "\"Warmth goes in to melt a solid, and comes out when it solidifies\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What happens inside a solid when it melts": {
+   "one_view": "\"What happens inside a solid when it melts\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.states.particles.L3": {
+  "Everything is made of particles": {
+   "perspectives": [
+    {
+     "who": "Kanada (India) and Democritus (Greece)",
+     "explanation": "Taught that everything is made of tiny parts that cannot be cut."
+    },
+    {
+     "who": "Aristotle",
+     "explanation": "Said matter is smooth and continuous, with no smallest piece."
+    },
+    {
+     "who": "Perrin (1908)",
+     "explanation": "Settled the question by studying the jiggling of tiny grains in water, which the atoms were knocking about. Before him, some scientists, such as Ernst Mach, still doubted atoms."
+    }
+   ]
+  },
+  "How sugar dissolves": {
+   "one_view": "\"How sugar dissolves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Dissolved sugar still weighs the same": {
+   "one_view": "\"Dissolved sugar still weighs the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Dissolving is not melting": {
+   "one_view": "\"Dissolving is not melting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why some sugar dissolves faster": {
+   "one_view": "\"Why some sugar dissolves faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Particles move, but spread slowly on their own": {
+   "one_view": "\"Particles move, but spread slowly on their own\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What is inside a particle?": {
+   "perspectives": [
+    {
+     "who": "John Dalton (1800s)",
+     "explanation": "The atom is a solid ball that cannot be split."
+    },
+    {
+     "who": "Thomson, Rutherford and Bohr",
+     "explanation": "Found electrons, then a tiny nucleus at the centre."
+    },
+    {
+     "who": "Particle physicists today",
+     "explanation": "Say the nucleus is made of quarks. Some theories say quarks are made of something smaller, but nobody has shown it."
+    }
+   ]
+  }
+ },
+ "sci.states.particles.L4": {
+  "Materials, substances and mixtures": {
+   "one_view": "\"Materials, substances and mixtures\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Solids: particles packed close and held in place": {
+   "one_view": "\"Solids: particles packed close and held in place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Liquids: particles close together but sliding": {
+   "one_view": "\"Liquids: particles close together but sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Gases: particles far apart and flying": {
+   "one_view": "\"Gases: particles far apart and flying\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Empty space between particles": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Said nature does not allow empty space, so there is always something in between."
+    },
+    {
+     "who": "Democritus and Kanada",
+     "explanation": "Said everything is atoms and empty space."
+    },
+    {
+     "who": "Torricelli (1643)",
+     "explanation": "Made a space above mercury in a tube that held no air, and showed empty space can exist."
+    }
+   ]
+  },
+  "One substance, three states": {
+   "perspectives": [
+    {
+     "who": "School books",
+     "explanation": "Matter has three states: solid, liquid and gas."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Count more. Plasma, a hot gas of charged particles, makes up the Sun and lightning. Others are Bose-Einstein condensates and liquid crystals."
+    }
+   ]
+  },
+  "Gas pressure: the push of particles on walls": {
+   "one_view": "\"Gas pressure: the push of particles on walls\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why smells take minutes, not seconds": {
+   "one_view": "\"Why smells take minutes, not seconds\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How many particles are in a drop?": {
+   "one_view": "\"How many particles are in a drop?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Inside a particle: atoms are mostly empty space": {
+   "perspectives": [
+    {
+     "who": "Ernest Rutherford (1911)",
+     "explanation": "Found that an atom is mostly empty space, with a tiny hard centre."
+    },
+    {
+     "who": "Quantum physics",
+     "explanation": "Says the space is not empty. The electrons are spread out as a cloud of probability, and fields fill all the space."
+    }
+   ]
+  },
+  "Grains and powders: a solid that flows": {
+   "perspectives": [
+    {
+     "who": "Many teachers",
+     "explanation": "Treat sand as a solid made of solid grains that happens to pour."
+    },
+    {
+     "who": "Physicists who study grains",
+     "explanation": "Say sand behaves in ways that solids, liquids and gases do not, and some call it a state of matter of its own. This is still debated."
+    }
+   ]
+  },
+  "A model: useful, and always a little wrong": {
+   "perspectives": [
+    {
+     "who": "Scientists who think models show what is real",
+     "explanation": "Believe a good model comes close to the way things truly are."
+    },
+    {
+     "who": "Scientists who think models are tools",
+     "explanation": "Quote George Box: all models are wrong, but some are useful. They say a model is a picture that helps us predict, whether or not it is the full truth."
+    }
+   ]
+  }
+ },
+ "sci.states.solids-liquids-gases.L2": {
+  "Solids keep their own shape": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A solid keeps its shape for ever."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Some solids flow very slowly. The ice of a glacier creeps downhill, and pitch drips in an old experiment, a drop about once a decade. Window glass does not flow noticeably, which is a common mistake."
+    }
+   ]
+  },
+  "Liquids flow and take the shape of their container": {
+   "one_view": "\"Liquids flow and take the shape of their container\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Gases spread out to fill every corner": {
+   "one_view": "\"Gases spread out to fill every corner\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Ice, water and steam are the same water": {
+   "one_view": "\"Ice, water and steam are the same water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why are they so different? Tiny particles": {
+   "one_view": "\"Why are they so different? Tiny particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.weather.clouds-and-rain.L2": {
+  "A cloud is a crowd of tiny drops": {
+   "one_view": "\"A cloud is a crowd of tiny drops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Tiny drops float, big drops fall": {
+   "one_view": "\"Tiny drops float, big drops fall\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Rain falls when tiny drops join": {
+   "perspectives": [
+    {
+     "who": "Warm-rain view",
+     "explanation": "In warm clouds, tiny drops bump into bigger ones and join until they are heavy enough to fall."
+    },
+    {
+     "who": "Ice-crystal view (Bergeron, 1930s)",
+     "explanation": "In cold clouds, ice crystals grow at the cost of water drops until they fall and melt as rain. Both ways happen, in different clouds."
+    }
+   ]
+  },
+  "Where a cloud's water comes from": {
+   "perspectives": [
+    {
+     "who": "Vedic stories",
+     "explanation": "Say the god Indra struck the demon Vritra, and set the waters free."
+    },
+    {
+     "who": "Science",
+     "explanation": "Says the Sun's heat lifts water from seas, rivers and plants into the air, and clouds make it fall again as rain."
+    }
+   ]
+  },
+  "Why rain clouds look grey": {
+   "one_view": "\"Why rain clouds look grey\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.weather.weather.L3": {
+  "What we measure when we measure weather": {
+   "one_view": "\"What we measure when we measure weather\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A thermometer shows its own temperature": {
+   "one_view": "\"A thermometer shows its own temperature\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why sunlight warms things more than it warms the air": {
+   "one_view": "\"Why sunlight warms things more than it warms the air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The weather screen: a shaded house for thermometers": {
+   "one_view": "\"The weather screen: a shaded house for thermometers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How a rain gauge measures rain": {
+   "one_view": "\"How a rain gauge measures rain\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Which way the wind blows": {
+   "one_view": "\"Which way the wind blows\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How strong is the wind?": {
+   "one_view": "\"How strong is the wind?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The warmest time of day": {
+   "one_view": "\"The warmest time of day\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "India's weather watchers": {
+   "perspectives": [
+    {
+     "who": "Traditional weather knowledge",
+     "explanation": "Farmers' sayings like those of Ghagh and Bhaddari, and Varahamihira's old book the Brihat Samhita, linked clouds, animals and winds to coming rain."
+    },
+    {
+     "who": "India Meteorological Department (1875)",
+     "explanation": "Uses instruments, satellites and computers to forecast. Many sayings are still checked by scientists, and some turn out to hold truth."
+    }
+   ]
+  },
+  "The 'feels like' temperature": {
+   "perspectives": [
+    {
+     "who": "Different formulas",
+     "explanation": "The heat index, the wind chill and the wet-bulb temperature each give a different number for the same air."
+    },
+    {
+     "who": "Scientists who study people",
+     "explanation": "Say bodies differ in size, clothing, age and what they are doing, so no single 'feels like' number fits everybody."
+    }
+   ]
+  }
+ }
+}

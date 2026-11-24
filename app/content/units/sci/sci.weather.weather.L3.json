@@ -137,7 +137,8 @@
    ],
    "perspectives": [],
    "art": "Four tools in a row: a thermometer, a rain gauge, a wind vane and a cup anemometer, each with a label.",
-   "context": "This card says what weather is, and which tools measure which part of it."
+   "context": "This card says what weather is, and which tools measure which part of it.",
+   "one_view": "\"What we measure when we measure weather\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A thermometer shows its own temperature",
@@ -150,7 +151,8 @@
    ],
    "perspectives": [],
    "art": "One thermometer in sunlight with little yellow arrows of light going into it, and one in shade with only the air around it.",
-   "context": "This card explains the surprise in the Sun or Shade test: why one thermometer read so much higher in the sun."
+   "context": "This card explains the surprise in the Sun or Shade test: why one thermometer read so much higher in the sun.",
+   "one_view": "\"A thermometer shows its own temperature\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why sunlight warms things more than it warms the air",
@@ -163,7 +165,8 @@
    ],
    "perspectives": [],
    "art": "Sunlight shining down through clear air onto a balcony floor, with the floor drawn glowing warm and the air only lightly tinted.",
-   "context": "This card explains why sunny surfaces get so hot, while the air beside them stays cooler."
+   "context": "This card explains why sunny surfaces get so hot, while the air beside them stays cooler.",
+   "one_view": "\"Why sunlight warms things more than it warms the air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The weather screen: a shaded house for thermometers",
@@ -176,7 +179,8 @@
    ],
    "perspectives": [],
    "art": "A white slatted box on legs, cut open to show two thermometers inside, with arrows of air blowing through the slats and sunlight bouncing off the roof.",
-   "context": "This card explains how real weather stations keep the sun off their thermometers."
+   "context": "This card explains how real weather stations keep the sun off their thermometers.",
+   "one_view": "\"The weather screen: a shaded house for thermometers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How a rain gauge measures rain",
@@ -190,7 +194,8 @@
    ],
    "perspectives": [],
    "art": "A wide steel dabba and a narrow straight glass side by side in the rain, with water at the same height in both and a ruler next to each.",
-   "context": "This card explains how a rain gauge works, and why a wide one and a narrow one give the same reading."
+   "context": "This card explains how a rain gauge works, and why a wide one and a narrow one give the same reading.",
+   "one_view": "\"How a rain gauge measures rain\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Which way the wind blows",
@@ -203,7 +208,8 @@
    ],
    "perspectives": [],
    "art": "A wind vane on a bottle with N, E, S, W marked, a child waving a hand fan from the east, and the arrow pointing at the fan.",
-   "context": "This card explains how a wind vane works, and why winds are named for where they come from."
+   "context": "This card explains how a wind vane works, and why winds are named for where they come from.",
+   "one_view": "\"Which way the wind blows\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How strong is the wind?",
@@ -216,7 +222,8 @@
    ],
    "perspectives": [],
    "art": "A row of five little pictures from calm to strong wind: still clothes, gently moving leaves, a flapping flag, swaying branches, an umbrella turned inside out.",
-   "context": "This card is about measuring how strong the wind is, with a machine or with your eyes."
+   "context": "This card is about measuring how strong the wind is, with a machine or with your eyes.",
+   "one_view": "\"How strong is the wind?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The warmest time of day",
@@ -229,7 +236,8 @@
    ],
    "perspectives": [],
    "art": "A line chart of one day's temperature rising from dawn, peaking in mid-afternoon, and falling through the night, with a small Sun high at noon.",
-   "context": "This card explains a pattern you can find in your own weather diary: when the air is warmest."
+   "context": "This card explains a pattern you can find in your own weather diary: when the air is warmest.",
+   "one_view": "\"The warmest time of day\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "India's weather watchers",
@@ -240,7 +248,16 @@
     "Chennai's weather reports come from two stations: Nungambakkam in the city and Meenambakkam at the airport.",
     "Thousands of rain gauges across India are read every morning, and the rain is added up for each district."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Traditional weather knowledge",
+     "explanation": "Farmers' sayings like those of Ghagh and Bhaddari, and Varahamihira's old book the Brihat Samhita, linked clouds, animals and winds to coming rain."
+    },
+    {
+     "who": "India Meteorological Department (1875)",
+     "explanation": "Uses instruments, satellites and computers to forecast. Many sayings are still checked by scientists, and some turn out to hold truth."
+    }
+   ],
    "art": "Anna Mani in a sari at a weather station, checking an instrument, with a white weather screen behind her.",
    "context": "This card is about who measures India's weather, and a scientist from Kerala who helped India make its own instruments."
   },
@@ -252,7 +269,16 @@
     "A weather app may say 33 °C, feels like 41 °C, on a sticky Chennai afternoon.",
     "A fan makes you feel cooler, but it does not change what a thermometer reads."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Different formulas",
+     "explanation": "The heat index, the wind chill and the wet-bulb temperature each give a different number for the same air."
+    },
+    {
+     "who": "Scientists who study people",
+     "explanation": "Say bodies differ in size, clothing, age and what they are doing, so no single 'feels like' number fits everybody."
+    }
+   ],
    "art": "A phone weather app showing '33 °C, feels like 41 °C', with a sweating child holding a hand fan.",
    "context": "This card is about a number that weather apps show, and why it is worked out rather than measured."
   }
@@ -2887,7 +2913,11 @@
     "source": "Udana 6.4, in the Buddhist Pali Canon: the blind men and the elephant",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the leg, one the ear. Each was sure the elephant was what he had touched.",
     "link": "Each thermometer reading was true for its own place, like each man's touch. Weather offices put many readings, taken the same way, together to see the whole.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {

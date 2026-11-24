@@ -83,7 +83,8 @@
     "A hair band needs to be stretchy and to spring back."
    ],
    "perspectives": [],
-   "art": "A steel tumbler, a polythene bag and a rubber band, each with a small list of property words beside it."
+   "art": "A steel tumbler, a polythene bag and a rubber band, each with a small list of property words beside it.",
+   "one_view": "\"One material has many properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why some materials keep water out",
@@ -97,7 +98,8 @@
     "Rasam stays on a banana leaf at a meal."
    ],
    "perspectives": [],
-   "art": "A close-up drawing: water drops slipping through the gaps between cloth threads, and a drop sitting on a smooth sheet of polythene."
+   "art": "A close-up drawing: water drops slipping through the gaps between cloth threads, and a drop sitting on a smooth sheet of polythene.",
+   "one_view": "\"Why some materials keep water out\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Transparent, translucent and opaque",
@@ -111,7 +113,8 @@
     "Foil, a steel plate and a wooden door are opaque."
    ],
    "perspectives": [],
-   "art": "Three panels: a window seen clearly through polythene, a glowing blur through a hanky, and darkness behind foil."
+   "art": "Three panels: a window seen clearly through polythene, a glowing blur through a hanky, and darkness behind foil.",
+   "one_view": "\"Transparent, translucent and opaque\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How light gets through solid plastic",
@@ -124,7 +127,16 @@
     "A clear plastic bottle lets you see the water inside, and the water stays in.",
     "A tea strainer lets light and water through its holes."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "Light is a wave that spreads out, and can pass through some solids by making them pulse."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "Thought light is a stream of tiny particles. Einstein and quantum physics later showed light acts as a wave and as a particle, both."
+    }
+   ],
    "art": "Two side-by-side drawings: water stopped on top of a sheet of plastic while light rays pass through it, and water and light both passing through the holes of a steel tea strainer."
   },
   {
@@ -139,7 +151,8 @@
     "Kite string is strong but hardly stretches."
    ],
    "perspectives": [],
-   "art": "A child pulling a toy car on a thread across the floor, and the same thread crumpled up when pushed."
+   "art": "A child pulling a toy car on a thread across the floor, and the same thread crumpled up when pushed.",
+   "one_view": "\"Strong and stretchy are different properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1813,14 +1826,19 @@
     "source": "Tao Te Ching 11",
     "teaching": "We cut doors and windows to make a room. It is the empty space in them that makes the room useful.",
     "link": "A tea strainer is useful because of its holes. A window is useful because it lets light in. The Tao Te Ching, from China, asks us to notice what the openings do.",
-    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse": [
+     "鑿戶牖以為室，當其無，有室之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad 15",
     "teaching": "The face of truth is covered by a golden lid. Open it, so that I may see what is true.",
     "link": "A shiny golden lid is beautiful, but it is opaque, so it hides what is under it. To see, we need a material that lets light through, or we must lift the lid.",
-    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse": [
+     "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्",
+     "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"
+    ],
     "verse_lang": "sa"
    }
   ],

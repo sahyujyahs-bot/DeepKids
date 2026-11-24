@@ -58,7 +58,16 @@
     "The letter A has symmetry. The line goes straight down the middle.",
     "A chappal and the letter F have no line of symmetry. No line works."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Symmetry is a mirror line that cuts a shape into two matching halves."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "Symmetry is any change that leaves a shape looking the same: flipping, or turning round a point like a rangoli or a mandala, or sliding along a pattern."
+    }
+   ],
    "context": "This card says what symmetry means. You looked for it in the Leaf Look and the Mirror Test.",
    "art": "Four pictures in a row: a butterfly, a spoon and the letter A, each with a dotted line down the middle, and a chappal with a question mark."
   },
@@ -72,7 +81,16 @@
     "A mirror on the letter A shows a whole A.",
     "A mirror on the letter F shows a new shape, not an F."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Common idea",
+     "explanation": "A mirror swaps left and right."
+    },
+    {
+     "who": "Physicists who have studied it",
+     "explanation": "A mirror does not swap left and right. It swaps front and back. Your right hand is still on the right of the picture, but the picture faces you."
+    }
+   ],
    "context": "This card says why the Mirror Test works. Read it after you have done the test.",
    "art": "A hand mirror standing upright on the middle of a letter A, showing a whole A, beside a mirror on a letter F showing a strange new shape."
   },
@@ -86,7 +104,16 @@
     "A fish has a fin on each side of her body.",
     "You have one leg on each side, so you can walk straight."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Evolution",
+     "explanation": "Animals that move forward in one direction gain from having a head end, and a left and right that match."
+    },
+    {
+     "who": "Animals such as jellyfish and starfish",
+     "explanation": "Are the same all around, and do not travel in one direction. Scientists link the body plan to the way each one lives."
+    }
+   ],
    "context": "This card says why so many living beings have two matching sides.",
    "art": "A butterfly flying straight towards a hibiscus flower, a fish swimming with a fin on each side, and a child walking along a straight line on the floor."
   },
@@ -102,7 +129,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the surprise in the Mirror Test, when the mirror face did not quite look like the real person.",
-   "art": "A photo of a smiling woman's face, and beside it two mirror-made faces, one a little wider and one a little narrower, both looking almost like her."
+   "art": "A photo of a smiling woman's face, and beside it two mirror-made faces, one a little wider and one a little narrower, both looking almost like her.",
+   "one_view": "\"Nearly, never exactly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1724,14 +1752,20 @@
     "source": "Tao Te Ching 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
     "link": "Left and right go together in the same way. A left half is a half only because a right half goes with it. Together they make one butterfly.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4, the story of the blind men and the elephant (Jain teachers tell the story too)",
     "teaching": "Some men who could not see each touched one part of an elephant. The one who felt her head said an elephant is like a pot. The one who felt her ear said a winnowing basket. The one who felt her leg said a post. Each knew only a part, and they argued.",
     "link": "An elephant's trunk cannot tell you about her tail, because her front and back are different. But a butterfly's left side really does tell you her right side, because the two halves match. Even then, the outside cannot tell you what is inside. Your heart, for example, sits a little to the left.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],

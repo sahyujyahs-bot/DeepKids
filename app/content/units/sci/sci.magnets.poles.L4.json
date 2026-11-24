@@ -131,7 +131,16 @@
     "A magnet outside a glass of water moves a clip inside the glass.",
     "A compass in an aeroplane works high above the ground."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Found it hard to believe a force could act across empty space with nothing in between."
+    },
+    {
+     "who": "Michael Faraday and James Clerk Maxwell",
+     "explanation": "Said the magnet fills the space around it with a field, and the field pushes on things inside it."
+    }
+   ],
    "art": "A magnet beside a glass of water with a paper clip inside, being pulled across the glass wall, and a faint halo around the magnet."
   },
   {
@@ -145,7 +154,16 @@
     "The Earth has a magnetic field that reaches far into space.",
     "A paper clip near a magnet becomes a small magnet itself, because it sits in the field."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Michael Faraday",
+     "explanation": "Thought the lines of force are real things stretched through space."
+    },
+    {
+     "who": "Maxwell and physicists today",
+     "explanation": "The field is a set of numbers at every point of space, and lines are only a drawing that helps us see it."
+    }
+   ],
    "art": "A bar magnet in the middle of a table with small arrows spread out around it in all directions, long near the magnet and short far away."
   },
   {
@@ -160,7 +178,8 @@
     "Near a pole the lines bunch together, and far away they spread out."
    ],
    "perspectives": [],
-   "art": "A bar magnet with smooth curved lines leaving the north end and entering the south end, bunched near the poles and spread out far away."
+   "art": "A bar magnet with smooth curved lines leaving the north end and entering the south end, bunched near the poles and spread out far away.",
+   "one_view": "\"Field lines: how we draw the field\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What a compass shows",
@@ -173,7 +192,16 @@
     "A compass held next to the south pole has its red end pointing towards that pole.",
     "A compass held a metre from a bar magnet points almost exactly north, because the magnet's field is too weak to matter there."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Chinese navigators and Shen Kuo (1088)",
+     "explanation": "Used floating needles and spoons of lodestone to find south, and Shen Kuo noticed that the needle does not point exactly to the north."
+    },
+    {
+     "who": "William Gilbert (1600)",
+     "explanation": "Explained the compass: the Earth itself is a magnet, and the needle lines up with its field."
+    }
+   ],
    "art": "Compasses placed at four positions around a bar magnet, each with its red end pointing along a curved path from the north pole to the south pole."
   },
   {
@@ -188,7 +216,8 @@
     "The middle of a bar magnet's long side picks up almost nothing."
    ],
    "perspectives": [],
-   "art": "A bar magnet dipped in a heap of paper clips, with clusters at both ends and none in the middle."
+   "art": "A bar magnet dipped in a heap of paper clips, with clusters at both ends and none in the middle.",
+   "one_view": "\"Why a magnet is strongest at its poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How quickly the pull fades with distance",
@@ -202,7 +231,8 @@
     "Two bar magnets held side by side reach a little further than one, not twice as far."
    ],
    "perspectives": [],
-   "art": "A chart of pull against distance, a steep curve that falls quickly at first and then flattens, with a magnet drawn at the left."
+   "art": "A chart of pull against distance, a steep curve that falls quickly at first and then flattens, with a magnet drawn at the left.",
+   "one_view": "\"How quickly the pull fades with distance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Fields add and cancel",
@@ -216,7 +246,8 @@
     "The speaker in a headphone has a magnet whose field can disturb a compass placed near it."
    ],
    "perspectives": [],
-   "art": "Two pairs of bar magnets side by side, one pair with north next to north and arrows adding, one with north next to south and arrows cancelling."
+   "art": "Two pairs of bar magnets side by side, one pair with north next to north and arrows adding, one with north next to south and arrows cancelling.",
+   "one_view": "\"Fields add and cancel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What blocks a magnetic field and what does not",
@@ -230,7 +261,8 @@
     "A tin box shields a compass inside it from a magnet outside."
    ],
    "perspectives": [],
-   "art": "A magnet, a thick iron lid and a paper clip, with field lines running into the lid and not reaching the clip."
+   "art": "A magnet, a thick iron lid and a paper clip, with field lines running into the lid and not reaching the clip.",
+   "one_view": "\"What blocks a magnetic field and what does not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One picture that explains both attract and repel",
@@ -243,7 +275,16 @@
     "Between like poles, the lines bunch and bend away.",
     "Think of each field line as a stretched rubber band. That explains why unlike poles try to come closer."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Michael Faraday's rubber bands",
+     "explanation": "Field lines pull along their length and push each other sideways. This one picture shows both pulling and pushing."
+    },
+    {
+     "who": "Quantum physics",
+     "explanation": "Says magnets push and pull by passing tiny packets of light between them. The rubber band picture is a model that helps us see what happens."
+    }
+   ],
    "art": "Two pictures: unlike poles joined by lines with a stretched rubber band drawn along them, and like poles with the lines bulging apart."
   },
   {
@@ -257,7 +298,16 @@
     "A magnet dropped many times on a hard floor slowly weakens because its domains are shaken out of line.",
     "Electric currents also make magnetic fields, which is how an electromagnet works."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Hans Ørsted (1820) and Ampère",
+     "explanation": "Showed that an electric current in a wire makes a magnetic field."
+    },
+    {
+     "who": "Physics today",
+     "explanation": "The field of a bar magnet comes mostly from the spin of electrons in its atoms, which act like tiny currents without any wire."
+    }
+   ],
    "art": "A bar magnet cut open to show many tiny arrows all pointing the same way, next to a plain iron bar with arrows pointing every way."
   }
  ],
@@ -3031,14 +3081,23 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water and bring it in the morning. The boy cannot see the salt, but the water is salty at the top, in the middle and at the bottom.",
     "link": "You cannot see a magnet's field, yet a compass finds it at every spot around the magnet.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub, but it is the empty space at the centre that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that makes the pot useful.",
     "link": "The space around a magnet looks empty, but that is where the field is, and where a clip or a compass feels the pull.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    }
   ],

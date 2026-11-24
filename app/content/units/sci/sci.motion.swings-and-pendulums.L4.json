@@ -132,7 +132,16 @@
     "A child at the top of a slide has height energy. At the bottom the child has movement energy.",
     "A swing at the end of its path has the most height energy. At the bottom it has the most movement energy."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gottfried Leibniz (1680s)",
+     "explanation": "Said a moving thing carries 'living force', which grows with the square of its speed."
+    },
+    {
+     "who": "Followers of Descartes and Newton",
+     "explanation": "Said the right quantity is momentum, which grows with speed alone. Later it was seen that both are real and useful, and they are different things."
+    }
+   ],
    "art": "A coin bag held high with a label height energy, and the same bag near the floor with long speed lines labelled movement energy."
   },
   {
@@ -148,7 +157,8 @@
     "A skateboarder in a half-pipe rises to nearly the same height on both sides."
    ],
    "perspectives": [],
-   "art": "A pendulum drawn at five points of a swing, with a bar chart beside each showing height energy falling and movement energy rising, then the reverse."
+   "art": "A pendulum drawn at five points of a swing, with a bar chart beside each showing height energy falling and movement energy rising, then the reverse.",
+   "one_view": "\"The swap: how a swing trades height for speed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The peg: the path can change but the height stays",
@@ -162,7 +172,8 @@
     "A bob on a thread with a peg swings faster around the short part but rises to the same height."
    ],
    "perspectives": [],
-   "art": "A pendulum released from the left with a peg halfway down the thread, and a dotted horizontal line showing the bob reaching the same height on the right."
+   "art": "A pendulum released from the left with a peg halfway down the thread, and a dotted horizontal line showing the bob reaching the same height on the right.",
+   "one_view": "\"The peg: the path can change but the height stays\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How long a swing takes: the rule for the period",
@@ -176,7 +187,8 @@
     "A long swing on 4 metre chains takes about 4 seconds for a full swing."
    ],
    "perspectives": [],
-   "art": "A table showing lengths of 25 centimetres, 100 centimetres and 400 centimetres next to periods of 1, 2 and 4 seconds, with a pendulum drawn beside each."
+   "art": "A table showing lengths of 25 centimetres, 100 centimetres and 400 centimetres next to periods of 1, 2 and 4 seconds, with a pendulum drawn beside each.",
+   "one_view": "\"How long a swing takes: the rule for the period\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The Earth's pull sets the beat",
@@ -189,7 +201,16 @@
     "A pendulum clock moved to a high mountain runs very slightly slow.",
     "Geologists once used pendulums to look for rock structures hidden underground, because the pull differs by a tiny amount over them."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Gravity is the same everywhere, so a clock keeps the same time anywhere."
+    },
+    {
+     "who": "Jean Richer (1672)",
+     "explanation": "Took a pendulum clock to Cayenne near the equator and found it ran slow. Gravity is a little weaker there, because the Earth bulges at the equator."
+    }
+   ],
    "art": "Two identical pendulums, one on Earth swinging in 2 seconds and one on the Moon swinging in 5 seconds, with the Moon one drawn with a lighter pull arrow."
   },
   {
@@ -204,7 +225,8 @@
     "A pendulum swung in water stops after a few swings, because water pushes back far harder than air."
    ],
    "perspectives": [],
-   "art": "A pendulum with smaller and smaller arcs drawn behind it, and an escapement above giving a small push at the bottom of each swing."
+   "art": "A pendulum with smaller and smaller arcs drawn behind it, and an escapement above giving a small push at the bottom of each swing.",
+   "one_view": "\"Why a swing dies down but keeps its beat\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Pumping a swing: adding energy with your body",
@@ -218,7 +240,8 @@
     "In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high."
    ],
    "perspectives": [],
-   "art": "Three pictures of a child on a swing: crouching at the highest point, standing at the lowest point, and crouching again at the other end."
+   "art": "Three pictures of a child on a swing: crouching at the highest point, standing at the lowest point, and crouching again at the other end.",
+   "one_view": "\"Pumping a swing: adding energy with your body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Resonance in bigger things: pushes that add up",
@@ -231,7 +254,16 @@
     "Soldiers breaking step on a bridge.",
     "A heavy pendulum near the top of a tall building, which swings against the sway of the building in an earthquake or high wind."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Textbooks for many years",
+     "explanation": "The Tacoma Narrows bridge fell in 1940 because winds pushed it at its natural beat."
+    },
+    {
+     "who": "Engineers such as Billah and Scanlan (1991)",
+     "explanation": "Said the bridge fell because of a twisting flutter, where the bridge's own motion draws energy from the wind. Resonance is real but is not the whole story."
+    }
+   ],
    "art": "A footbridge with many people walking, swaying sideways in a curve, with a small arrow showing the sway growing."
   },
   {
@@ -246,7 +278,8 @@
     "Your arm swings freely when you walk, at about the same beat as your legs."
    ],
    "perspectives": [],
-   "art": "A ruler hung from a pencil by a hole at its end, next to a coin pendulum two thirds as long, both labelled with the same swing time."
+   "art": "A ruler hung from a pencil by a hole at its end, next to a coin pendulum two thirds as long, both labelled with the same swing time.",
+   "one_view": "\"Stiff pendulums: when the whole thing swings\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Timing many swings gives a better answer",
@@ -260,7 +293,8 @@
     "Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake."
    ],
    "perspectives": [],
-   "art": "Two stopwatch faces, one showing a short time with a big red uncertainty bar and one showing a long time with a tiny red bar."
+   "art": "Two stopwatch faces, one showing a short time with a big red uncertainty bar and one showing a long time with a tiny red bar.",
+   "one_view": "\"Timing many swings gives a better answer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2980,21 +3014,29 @@
     "source": "Isha Upanishad, opening verse",
     "teaching": "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "As the bob falls, height energy is taken away and turns into movement energy. The total that remains is the same.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment B60",
     "teaching": "The road up and the road down are one and the same.",
     "link": "The bob goes down and up along the same arc. Falling and rising are two halves of one swing.",
-    "verse": ["ὁδὸς ἄνω κάτω μία καὶ ωὑτή"],
+    "verse": [
+     "ὁδὸς ἄνω κάτω μία καὶ ωὑτή"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching 77",
     "teaching": "The Way of heaven is like bending a bow. What is high is lowered, and what is low is raised.",
     "link": "A swing lowers its height to raise its speed, and then lowers its speed to raise its height again.",
-    "verse": ["天之道，其猶張弓與？", "高者抑之，下者舉之；有餘者損之，不足者補之。"],
+    "verse": [
+     "天之道，其猶張弓與？",
+     "高者抑之，下者舉之；有餘者損之，不足者補之。"
+    ],
     "verse_lang": "zh"
    }
   ],

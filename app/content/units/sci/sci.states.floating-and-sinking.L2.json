@@ -77,7 +77,8 @@
     "An ice cube floats, but most of it stays under the water."
    ],
    "perspectives": [],
-   "art": "A bucket cut away to show a bottle cap floating high, an ice cube floating low, and a spoon on the bottom."
+   "art": "A bucket cut away to show a bottle cap floating high, an ice cube floating low, and a spoon on the bottom.",
+   "one_view": "\"Floating and sinking\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Weight alone does not decide",
@@ -91,7 +92,8 @@
     "A whole coconut is heavy and floats."
    ],
    "perspectives": [],
-   "art": "A balance with a rolling pin on the heavy, low side and a coin on the light, high side, and beside it a bucket with the rolling pin floating and the coin on the bottom."
+   "art": "A balance with a rolling pin on the heavy, low side and a coin on the light, high side, and beside it a bucket with the rolling pin floating and the coin on the bottom.",
+   "one_view": "\"Weight alone does not decide\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What it is made of decides",
@@ -104,7 +106,16 @@
     "A big rolling pin and a small matchstick, both wood, both float.",
     "A steel spoon and a steel key both sink."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Said the shape of a thing decides if it floats, so a flat piece of iron floats and a ball does not."
+    },
+    {
+     "who": "Archimedes and Galileo (1612)",
+     "explanation": "Said it depends on what the thing weighs compared with the water it pushes aside. Galileo defended this against scholars who followed Aristotle."
+    }
+   ],
    "art": "Two rows in a bucket: a whole potato and a tiny potato piece on the bottom, and a rolling pin and a matchstick floating on top."
   },
   {
@@ -119,7 +130,8 @@
     "A coin gets a tiny push up, but not enough, so it sinks."
    ],
    "perspectives": [],
-   "art": "A ball held under water in a bucket by two small hands, with a big arrow under the ball pointing up."
+   "art": "A ball held under water in a bucket by two small hands, with a big arrow under the ball pointing up.",
+   "one_view": "\"Water pushes up: upthrust\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Air inside helps things float",
@@ -133,7 +145,8 @@
     "Thermocol is mostly air, and it floats high."
    ],
    "perspectives": [],
-   "art": "An orange with its peel floating, and a peeled orange on the bottom of a glass bowl of water, with a zoom circle showing air pockets in the peel."
+   "art": "An orange with its peel floating, and a peeled orange on the bottom of a glass bowl of water, with a zoom circle showing air pockets in the peel.",
+   "one_view": "\"Air inside helps things float\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Another way to stay on top: the skin of water",
@@ -147,7 +160,8 @@
     "Pushed under, the pin sinks."
    ],
    "perspectives": [],
-   "art": "A steel pin resting on the surface of water in a steel bowl, with the water surface dipping a little under it."
+   "art": "A steel pin resting on the surface of water in a steel bowl, with the water surface dipping a little under it.",
+   "one_view": "\"Another way to stay on top: the skin of water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2020,14 +2034,19 @@
     "source": "Anguttara Nikaya 3.65 (the Kalama Sutta)",
     "teaching": "The Buddha told the Kalama people not to believe something only because it is often said, or because it seems right. When you know for yourselves, he said, then accept it.",
     "link": "Many people say heavy things sink. You did not just believe it. You tested it, and the rolling pin floated.",
-    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."],
+    "verse": [
+     "Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Some blind men each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and each knew only one part.",
     "link": "Your hand told you only one thing about the rolling pin: how heavy it is. The bucket test showed you another: what it is made of. You needed both to understand it.",
-    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],

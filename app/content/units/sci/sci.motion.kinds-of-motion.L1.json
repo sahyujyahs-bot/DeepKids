@@ -69,7 +69,16 @@
     "Your body can roll on a mat, slide in socks, spin round, swing your arms and bounce on the spot.",
     "A steel plate slides on the table, spins when you twist it and rolls when you stand it on its edge."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "There are five ways to move: roll, slide, spin, swing and bounce."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Every motion is made of two basic ones: moving along a path, and turning round. Rolling is both at once."
+    }
+   ],
    "context": "This card is about the five ways of moving you tried in Five Ways With My Body: roll, slide, spin, swing and bounce.",
    "art": "Five small drawings in a row: a rolling ball, a sliding plate, a spinning top, a swinging bag and a bouncing ball."
   },
@@ -85,7 +94,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Roll or Slide Test, where you pushed the same dabba lying on its side and standing flat.",
-   "art": "One dabba rolling on its side with a long arrow, and the same dabba standing flat with a short arrow and rub lines under it."
+   "art": "One dabba rolling on its side with a long arrow, and the same dabba standing flat with a short arrow and rub lines under it.",
+   "one_view": "\"Rolling goes further than sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Bouncing is squashing and springing back",
@@ -99,7 +109,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Bounce Test, where you dropped different balls from the same height.",
-   "art": "A rubber ball bouncing high next to a flat, squashed ball of dough on the floor."
+   "art": "A rubber ball bouncing high next to a flat, squashed ball of dough on the floor.",
+   "one_view": "\"Bouncing is squashing and springing back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Spinning and swinging go round a still point",
@@ -113,7 +124,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Spin It and Swing It activities, where you spun a plate and swung a bag.",
-   "art": "A ceiling fan with a dot at its still middle, next to a cloth bag swinging on a door handle with a dot at the handle."
+   "art": "A ceiling fan with a dot at its still middle, next to a cloth bag swinging on a door handle with a dot at the handle.",
+   "one_view": "\"Spinning and swinging go round a still point\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2102,14 +2114,19 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub, the middle of a wheel. It is the empty space at the centre that makes the wheel useful.",
     "link": "A wheel turns round its hub, and the hub stays in place. The hole in the hub is where the axle fits, and that is what lets the wheel turn. In Spin It, every spinning thing turned round a middle that stayed put.",
-    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Plato, Cratylus 402a, reporting Heraclitus",
     "teaching": "The Greek thinker Heraclitus taught that everything moves and nothing stays still. You cannot step into the same river twice.",
     "link": "We found motion everywhere: in the kitchen, in our bodies, and even in a dabba that seems still, because the Earth under it is spinning.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    }
   ],

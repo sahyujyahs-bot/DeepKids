@@ -70,7 +70,8 @@
    ],
    "perspectives": [],
    "context": "This card says what sorting is. You did it in the Yes-or-No Sort.",
-   "art": "A child's room with socks in one open drawer and shirts in another, and a small girl holding up one sock."
+   "art": "A child's room with socks in one open drawer and shirts in another, and a small girl holding up one sock.",
+   "one_view": "\"Sorting means putting alike things together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A question makes the groups",
@@ -84,7 +85,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the question you ask when you sort.",
-   "art": "Two circles of dupatta on the floor, one labelled YES and one labelled NO, with a key and a coin in the YES circle and a pencil and a comb in the NO circle."
+   "art": "Two circles of dupatta on the floor, one labelled YES and one labelled NO, with a key and a coin in the YES circle and a pencil and a comb in the NO circle.",
+   "one_view": "\"A question makes the groups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A test settles a tricky thing",
@@ -98,7 +100,8 @@
    ],
    "perspectives": [],
    "context": "This card is about things that are hard to sort, and how to decide where they go.",
-   "art": "A girl tapping a clear bottle with a spoon and listening carefully, with a second clear bottle beside it."
+   "art": "A girl tapping a clear bottle with a spoon and listening carefully, with a second clear bottle beside it.",
+   "one_view": "\"A test settles a tricky thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why the steel katori floats and the steel spoon sinks",
@@ -112,7 +115,8 @@
    ],
    "perspectives": [],
    "context": "This card explains what you saw in the Sink or Float Sort, where the steel spoon and the steel katori did different things.",
-   "art": "Side by side: a steel spoon at the bottom of a bucket, and a steel katori floating with small arrows under it pointing up to show the water pushing."
+   "art": "Side by side: a steel spoon at the bottom of a bucket, and a steel katori floating with small arrows under it pointing up to show the water pushing.",
+   "one_view": "\"Why the steel katori floats and the steel spoon sinks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -195,7 +199,9 @@
     "source": "Tao Te Ching 11",
     "teaching": "We shape clay into a pot. But it is the empty space inside that makes the pot useful.",
     "link": "The katori's empty space, full of air, is what kept it on top of the water. When water filled that space, it sank.",
-    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {

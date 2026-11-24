@@ -131,7 +131,16 @@
     "A big ship floats because the water it pushes aside weighs as much as the ship."
    ],
    "art": "A foil boat in water, with a dotted bucket-shaped outline of the water it pushes aside and a label that says this water weighs as much as the boat.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Archimedes (about 250 BCE)",
+     "explanation": "Found the rule: a thing floats if it is lighter than the water it pushes aside. The story of the king's crown is a famous but uncertain tale."
+    },
+    {
+     "who": "Al-Biruni (about 1000 CE)",
+     "explanation": "Measured the densities of many metals and jewels with great care using this rule."
+    }
+   ]
   },
   {
    "concept": "Density: how much stuff is packed into a space",
@@ -144,7 +153,8 @@
     "Cooking oil is about nine tenths as dense as water, so oil floats on water."
    ],
    "art": "A bar chart of density: cork, wood, oil, ice, water, aluminium and iron, with a line marking water, and bars below the line labelled floats, above labelled sinks.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Density: how much stuff is packed into a space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Upthrust: the water pushes up",
@@ -157,7 +167,8 @@
     "A person feels almost weightless in a swimming pool."
    ],
    "art": "A boat floating on water with a downward arrow labelled weight and an upward arrow labelled upthrust, both the same length.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Upthrust: the water pushes up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why shape matters: a hollow boat holds air",
@@ -170,7 +181,8 @@
     "A steel ship floats because most of its hull is air."
    ],
    "art": "Two drawings side by side: a solid steel block sinking and a hollow steel boat floating, with the hollow part drawn as a pocket of air.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Why shape matters: a hollow boat holds air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Salt water holds things up better",
@@ -183,7 +195,8 @@
     "A ship sits higher in the sea than in a river."
    ],
    "art": "Two glasses side by side, one with plain water and a potato at the bottom, and one with very salty water and the potato floating at the top.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Salt water holds things up better\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why ice floats, and why oil floats",
@@ -196,7 +209,8 @@
     "Ponds in cold places freeze from the top, and fish live under the ice."
    ],
    "art": "An iceberg with one tenth above the water and nine tenths below, with a label at the waterline.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Why ice floats, and why oil floats\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Liquid layers: the density tower",
@@ -209,7 +223,8 @@
     "Shake oil and water together in a bottle and then leave it still. The oil floats back up and forms a layer on top."
    ],
    "art": "A tall glass with three layers: dark syrup at the bottom, yellow water in the middle, and clear oil at the top.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Liquid layers: the density tower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Fish, submarines and balloons change how dense they are",
@@ -222,7 +237,8 @@
     "A hot air balloon rises when the burner heats the air inside it."
    ],
    "art": "A cut-away of a submarine with ballast tanks full of water, and next to it a fish with a gas-filled bladder drawn in silver.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Fish, submarines and balloons change how dense they are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Boats of India and the load line",
@@ -235,7 +251,8 @@
     "A ship's load line sits lower on the hull for sea water than for fresh river water."
    ],
    "art": "A coracle with two people crossing a wide river, and next to it a ship's hull with a painted load line.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Boats of India and the load line\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Measuring density: the hydrometer",
@@ -248,7 +265,8 @@
     "The same tube floats higher in salty water."
    ],
    "art": "A tall glass tube with a scale on it floating upright in a jar of liquid, with a second tube floating higher in a jar of salty water.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Measuring density: the hydrometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -409,14 +427,22 @@
     "source": "Tao Te Ching 8",
     "teaching": "The best is like water. Water helps all things and does not push to be first. It settles in low places that people avoid.",
     "link": "Water holds up the heaviest ship without any effort. It pushes up exactly as much as the ship weighs, and no more.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 15",
     "teaching": "Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, taught that things do not have a fixed nature of their own. What a thing is depends on the conditions around it.",
     "link": "A potato is not a floater or a sinker by itself. It depends on the liquid it is in.",
-    "verse": ["न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः", "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्", "स्वभावः कृतको नाम भविष्यति पुनः कथम्", "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"],
+    "verse": [
+     "न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः",
+     "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्",
+     "स्वभावः कृतको नाम भविष्यति पुनः कथम्",
+     "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"
+    ],
     "verse_lang": "sa"
    }
   ],

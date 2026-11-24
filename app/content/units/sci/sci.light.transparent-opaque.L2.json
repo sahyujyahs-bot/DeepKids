@@ -69,7 +69,16 @@
     "A paper napkin, a dry onion skin and a thin cotton dupatta are translucent.",
     "A steel plate, a wooden spoon and a brick wall are opaque."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A material is either clear, cloudy or solid-looking, and that is a fixed fact about it."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "It depends on the light and the eyes. Glass is transparent to visible light but opaque to much ultraviolet and infrared. Bees see ultraviolet, so some flowers look different to a bee than to us."
+    }
+   ],
    "context": "This card says what the three words mean.",
    "art": "Three panels: an arrow of light going straight through glass, an arrow breaking into many small arrows inside a napkin, and an arrow stopping at a steel plate."
   },
@@ -85,7 +94,8 @@
    ],
    "perspectives": [],
    "context": "This card says why more layers let less light through.",
-   "art": "Five paper squares in a row, with a fat arrow of light going into the first and the arrow getting thinner after each square."
+   "art": "Five paper squares in a row, with a fat arrow of light going into the first and the arrow getting thinner after each square.",
+   "one_view": "\"Each layer stops some of the light\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Hidden is not the same as dark",
@@ -99,7 +109,8 @@
    ],
    "perspectives": [],
    "context": "This card says why a pile can hide a picture but still glow.",
-   "art": "A pile of paper squares on a drawing, the drawing hidden, and the same pile held over a torch in a dim room, glowing softly."
+   "art": "A pile of paper squares on a drawing, the drawing hidden, and the same pile held over a torch in a dim room, glowing softly.",
+   "one_view": "\"Hidden is not the same as dark\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Thin enough, almost anything lets light through",
@@ -111,7 +122,16 @@
     "Thin gold leaf lets green light through. A gold coin does not.",
     "Rock ground thinner than paper lets light through, so scientists can study it under a microscope."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Some things are opaque, and light cannot get through."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Gold leaf is thin enough to let green light through. Thick enough water or glass stops light, and X-rays pass through even our bodies. 'Opaque' means opaque to a kind of light, for a thickness."
+    }
+   ],
    "context": "This card says why thin things let light through.",
    "art": "A whole cucumber, dark, next to a paper-thin cucumber slice held up to a window, glowing pale green."
   },
@@ -125,7 +145,16 @@
     "In the Milk Cloud test, half a glass of cloudy water let the coin show, but a full glass hid it.",
     "Deep-sea fish such as anglerfish carry their own glowing lights."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A human diver",
+     "explanation": "Below about 1,000 metres the sea is black, because no sunlight gets there."
+    },
+    {
+     "who": "Deep-sea animals",
+     "explanation": "Many make their own light, which is called bioluminescence, and their eyes are built to see it. For them the deep is full of flashes."
+    }
+   ],
    "context": "This card says why the deep sea is dark.",
    "art": "A tall picture of the sea from the surface down: bright blue at the top, dimmer below, black at the bottom, with a glowing anglerfish deep down."
   }
@@ -1971,7 +2000,10 @@
     "source": "Bhagavad Gita 3.38",
     "teaching": "As fire is covered by smoke, as a mirror is covered by dust, and as a baby is covered by the womb, so wisdom is covered by desire.",
     "link": "The Gita gives three coverings, from thin to thick. Smoke dims a fire, but its light still shows. Dust hides a mirror's picture. The womb hides the baby completely. In the Layer Test, too, each layer covered a little more.",
-    "verse": ["धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।", "यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।"],
+    "verse": [
+     "धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।",
+     "यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2080,5 +2112,117 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child would in a flat. Fixed the torch step in the Layer Test (the pile now lies over the torch light), added the missing second tumbler to the Milk Cloud, and made the cat in the shoebox challenge the same everywhere. Rewrote the card game so two people can play it (they take turns reading), gave both games a clear score or goal, and said which cards have no pair. Replaced the weak jokes with real ones, and swapped worksheet questions that repeated the quiz for new ones. The three videos still need their addresses found.",
- "warm": {"words": ["LIGHT", "LAYER", "GLASS", "CLEAR", "PAPER"], "quiz": [["Each layer of paper stops some of the light.", true, "Some light is stopped by every layer, so more layers let less light through."], ["If you cannot see through something, no light is getting through.", false, "A pile of paper can hide a picture and still glow when a torch is behind it."], ["A very thin slice of rock can let light through.", true, "A thin enough slice of almost any material lets some light pass."], ["Metal and rock can never let light through, however thin they are.", false, "Gold hammered very thin lets green light through, and rock ground thin does too."], ["Below about 1,000 metres in the sea, no sunlight reaches.", true, "Each metre of water stops a little light, so very deep water stops all of it."], ["Ten layers of tissue let through as much light as one layer.", false, "Every layer stops some light, so ten layers let through much less than one."], ["A translucent thing lets light through but gives no clear picture.", true, "Translucent things scatter the light, so you see a glow but no clear shape."], ["Clear water lets all the sunlight through, however deep it is.", false, "Water is clear, but each metre stops a little light, so the deep sea is dark."], ["An opaque thing glows when a torch is shining behind it.", false, "Opaque things let no light through, so nothing glows on the other side."], ["A pile of translucent sheets can hide a picture and still let light through.", true, "Hidden does not mean dark. The light gets through but is scattered, so no picture shows."]], "odd": [[["Window glass", "Clear water", "Clear polythene", "Butter paper"], "Butter paper", "Glass, water and clear polythene let you see clearly through. Butter paper only glows, with no clear picture."], [["Steel plate", "Brick wall", "Wooden door", "Tissue paper"], "Tissue paper", "Steel, brick and a wooden door let no light through. Tissue paper lets some light through."], [["Frosted glass", "Butter paper", "Tissue paper", "Window glass"], "Window glass", "The first three let light through but give no clear picture. Window glass shows a clear picture."], [["Same torch", "Same paper", "Same distance", "More layers"], "More layers", "In a fair test, the first three are kept the same. The number of layers is the one thing we change."], [["Sunlight at 10 metres", "Sunlight at 50 metres", "Sunlight at 100 metres", "Sunlight at 1,500 metres"], "Sunlight at 1,500 metres", "Some sunlight still reaches the shallower depths. At 1,500 metres of sea, none reaches."]]}
+ "warm": {
+  "words": [
+   "LIGHT",
+   "LAYER",
+   "GLASS",
+   "CLEAR",
+   "PAPER"
+  ],
+  "quiz": [
+   [
+    "Each layer of paper stops some of the light.",
+    true,
+    "Some light is stopped by every layer, so more layers let less light through."
+   ],
+   [
+    "If you cannot see through something, no light is getting through.",
+    false,
+    "A pile of paper can hide a picture and still glow when a torch is behind it."
+   ],
+   [
+    "A very thin slice of rock can let light through.",
+    true,
+    "A thin enough slice of almost any material lets some light pass."
+   ],
+   [
+    "Metal and rock can never let light through, however thin they are.",
+    false,
+    "Gold hammered very thin lets green light through, and rock ground thin does too."
+   ],
+   [
+    "Below about 1,000 metres in the sea, no sunlight reaches.",
+    true,
+    "Each metre of water stops a little light, so very deep water stops all of it."
+   ],
+   [
+    "Ten layers of tissue let through as much light as one layer.",
+    false,
+    "Every layer stops some light, so ten layers let through much less than one."
+   ],
+   [
+    "A translucent thing lets light through but gives no clear picture.",
+    true,
+    "Translucent things scatter the light, so you see a glow but no clear shape."
+   ],
+   [
+    "Clear water lets all the sunlight through, however deep it is.",
+    false,
+    "Water is clear, but each metre stops a little light, so the deep sea is dark."
+   ],
+   [
+    "An opaque thing glows when a torch is shining behind it.",
+    false,
+    "Opaque things let no light through, so nothing glows on the other side."
+   ],
+   [
+    "A pile of translucent sheets can hide a picture and still let light through.",
+    true,
+    "Hidden does not mean dark. The light gets through but is scattered, so no picture shows."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Window glass",
+     "Clear water",
+     "Clear polythene",
+     "Butter paper"
+    ],
+    "Butter paper",
+    "Glass, water and clear polythene let you see clearly through. Butter paper only glows, with no clear picture."
+   ],
+   [
+    [
+     "Steel plate",
+     "Brick wall",
+     "Wooden door",
+     "Tissue paper"
+    ],
+    "Tissue paper",
+    "Steel, brick and a wooden door let no light through. Tissue paper lets some light through."
+   ],
+   [
+    [
+     "Frosted glass",
+     "Butter paper",
+     "Tissue paper",
+     "Window glass"
+    ],
+    "Window glass",
+    "The first three let light through but give no clear picture. Window glass shows a clear picture."
+   ],
+   [
+    [
+     "Same torch",
+     "Same paper",
+     "Same distance",
+     "More layers"
+    ],
+    "More layers",
+    "In a fair test, the first three are kept the same. The number of layers is the one thing we change."
+   ],
+   [
+    [
+     "Sunlight at 10 metres",
+     "Sunlight at 50 metres",
+     "Sunlight at 100 metres",
+     "Sunlight at 1,500 metres"
+    ],
+    "Sunlight at 1,500 metres",
+    "Some sunlight still reaches the shallower depths. At 1,500 metres of sea, none reaches."
+   ]
+  ]
+ }
 }

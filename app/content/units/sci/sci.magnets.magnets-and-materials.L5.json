@@ -138,7 +138,8 @@
     "Two fridge magnets can push each other apart. A magnet and a nail never push apart."
    ],
    "perspectives": [],
-   "art": "Three small drawings: two nails doing nothing, a magnet holding a nail, and one bar touching the middle of another bar in a T shape."
+   "art": "Three small drawings: two nails doing nothing, a magnet holding a nail, and one bar touching the middle of another bar in a T shape.",
+   "one_view": "\"A magnet and a magnetic material are different things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Only a few metals are magnetic",
@@ -150,7 +151,16 @@
     "Gold and silver jewellery is not attracted. A steel spring inside a clasp is.",
     "Gadolinium is magnetic on a cool morning and not on a hot afternoon."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Iron, nickel and cobalt are the magnetic metals, and everything else is not magnetic."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Gadolinium is magnetic when cold. Every material reacts a little to a strong magnet: most are pushed away very weakly, and some are pulled very weakly. Strong magnetism is only the loudest kind."
+    }
+   ],
    "art": "A long row of ninety small metal squares, with only three of them, labelled iron, nickel and cobalt, drawn clinging to a magnet."
   },
   {
@@ -164,7 +174,8 @@
     "The golden five-rupee coin is nickel-brass: copper, zinc and a little nickel."
    ],
    "perspectives": [],
-   "art": "A zoom circle into a piece of brass showing two kinds of tiny balls, orange and grey, mixed together in neat rows."
+   "art": "A zoom circle into a piece of brass showing two kinds of tiny balls, orange and grey, mixed together in neat rows.",
+   "one_view": "\"An alloy is a mixture of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Indian coins are made of four different alloys",
@@ -177,7 +188,8 @@
     "An eleven-sided two-rupee coin from the 1990s is not attracted, though it is worth the same."
    ],
    "perspectives": [],
-   "art": "Four Indian coins in a row, each with a label under it naming its alloy, and a magnet above the first two."
+   "art": "Four Indian coins in a row, each with a label under it naming its alloy, and a magnet above the first two.",
+   "one_view": "\"Indian coins are made of four different alloys\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The list of metals in an alloy does not tell you whether it is magnetic",
@@ -190,7 +202,8 @@
     "Heusler's alloy is made only of copper, manganese and aluminium. None of them is magnetic, and a magnet still attracts the alloy strongly."
    ],
    "perspectives": [],
-   "art": "Two recipe cards side by side: one says copper plus nickel with a crossed-out magnet, the other says copper plus manganese plus aluminium with a magnet holding the metal."
+   "art": "Two recipe cards side by side: one says copper plus nickel with a crossed-out magnet, the other says copper plus manganese plus aluminium with a magnet holding the metal.",
+   "one_view": "\"The list of metals in an alloy does not tell you whether it is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Every iron atom is a tiny magnet",
@@ -202,7 +215,16 @@
     "In a steel nail, groups of atoms called domains each point one way. A magnet nearby turns them to face it.",
     "Your blood holds iron, but the iron atoms are spread far apart. Because they are not packed together in a crowd, a magnet does not attract blood."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "André-Marie Ampère (1820s)",
+     "explanation": "Thought tiny loops of electric current inside matter make it magnetic."
+    },
+    {
+     "who": "Quantum physics (1900s)",
+     "explanation": "The magnetism of an atom comes from its electrons, which behave like tiny magnets through a property called spin, and not from any little loops of current."
+    }
+   ],
    "art": "A zoom circle into a nail showing rows of tiny balls, each with a small arrow, all pointing the same way."
   },
   {
@@ -216,7 +238,8 @@
     "Above 912 degrees Celsius, even pure iron changes to the tighter packing."
    ],
    "perspectives": [],
-   "art": "Two zoom circles: on the left a cube of balls with one ball in the middle and arrows all pointing the same way, on the right a tighter stack of balls with arrows pointing different ways."
+   "art": "Two zoom circles: on the left a cube of balls with one ball in the middle and arrows all pointing the same way, on the right a tighter stack of balls with arrows pointing different ways.",
+   "one_view": "Only one explanation is known: the arrangement of atoms in the steel decides whether the iron in it acts as a magnet, and different steels arrange them differently."
   },
   {
    "concept": "Being magnetic is something many atoms do together",
@@ -228,7 +251,16 @@
     "Kitchen steel and coin steel hold the same kind of iron atoms, in different packings.",
     "The nickel atoms in cupronickel sit among copper atoms, and their tiny magnets do not line up."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Pierre Weiss (1907)",
+     "explanation": "Said iron is made of small regions, called domains, in which all the atom magnets point the same way."
+    },
+    {
+     "who": "Heisenberg and quantum physics",
+     "explanation": "Explained why neighbouring atoms line up: a rule about electrons makes it cost less energy to point the same way. Both views are used today."
+    }
+   ],
    "art": "Three zoom circles of the same balls with arrows: lined up in a nail, pointing different ways in a steel plate, and shaking in all directions in red-hot iron."
   },
   {
@@ -242,7 +274,8 @@
     "The cap of a glass soda bottle looks painted, but it is thin steel, and a magnet lifts it."
    ],
    "perspectives": [],
-   "art": "A magnet between two look-alike silver things, a coin clinging to it and a steel plate not, with a brass lamp and a black tawa in the background."
+   "art": "A magnet between two look-alike silver things, a coin clinging to it and a steel plate not, with a brass lamp and a black tawa in the background.",
+   "one_view": "\"No clue you can see tells you whether a metal is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A fair test of metals",
@@ -255,7 +288,8 @@
     "A result of 'weak' on a steel tumbler is still a result. Write it down."
    ],
    "perspectives": [],
-   "art": "A notebook table with columns for the thing, the prediction and the result, beside a magnet and a row of small metal things."
+   "art": "A notebook table with columns for the thing, the prediction and the result, beside a magnet and a row of small metal things.",
+   "one_view": "\"A fair test of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What a magnet test can and cannot tell you",
@@ -268,7 +302,8 @@
     "A magnet does not stick to a steel plate, and the plate is still mostly iron."
    ],
    "perspectives": [],
-   "art": "A magnet lifting a ball of foil, with a cut-away view showing a coin hidden inside the ball."
+   "art": "A magnet lifting a ball of foil, with a cut-away view showing a coin hidden inside the ball.",
+   "one_view": "\"What a magnet test can and cannot tell you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Choosing an alloy for the job: bone pins and scanners",
@@ -281,7 +316,8 @@
     "A fridge door seal holds because the fridge door is a magnetic steel."
    ],
    "perspectives": [],
-   "art": "A hospital scanner shaped like a large ring, with a small drawing beside it of a mended arm bone held by a metal plate."
+   "art": "A hospital scanner shaped like a large ring, with a small drawing beside it of a mended arm bone held by a metal plate.",
+   "one_view": "\"Choosing an alloy for the job: bone pins and scanners\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The same carbon atoms give two answers to a magnet",
@@ -294,7 +330,8 @@
     "Coin steel and kitchen steel show the same idea with iron. The atoms are the same, and the pattern decides how a magnet answers."
    ],
    "perspectives": [],
-   "art": "Two zoom circles, one showing carbon atoms in flat honeycomb sheets labelled graphite and one showing a tight three-dimensional net labelled diamond."
+   "art": "Two zoom circles, one showing carbon atoms in flat honeycomb sheets labelled graphite and one showing a tight three-dimensional net labelled diamond.",
+   "one_view": "\"The same carbon atoms give two answers to a magnet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Iron and nickel from space, and a magnet nobody could make",
@@ -307,7 +344,8 @@
     "The same two metals, mixed without layers, make a much weaker magnet."
    ],
    "perspectives": [],
-   "art": "A dark iron meteorite cut open to show a criss-cross metal pattern, with a zoom circle of two kinds of balls stacked in alternate layers."
+   "art": "A dark iron meteorite cut open to show a criss-cross metal pattern, with a zoom circle of two kinds of balls stacked in alternate layers.",
+   "one_view": "This is a report of what scientists have found in meteorites so far, and nobody offers a rival account of it."
   }
  ],
  "agreed": [
@@ -3517,21 +3555,31 @@
     "source": "Chandogya Upanishad 6.1.4, the teaching of Uddalaka to his son",
     "teaching": "By knowing one lump of clay, you know all things made of clay. The differences are only names for the same clay.",
     "link": "The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This lesson adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 355, by Thiruvalluvar",
     "teaching": "Whatever the thing, and whatever its kind, wisdom is to see the real truth in it.",
     "link": "The couplet asks us to look at what a thing is, and not at its kind or its name. A magnet test does this for a coin. It ignores the stamped value and asks what the metal does.",
-    "verse": ["எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்", "மெய்ப்பொருள் காண்பது அறிவு."],
+    "verse": [
+     "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்பது அறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65",
     "teaching": "Do not believe a thing because it is written, or handed down, or said by a teacher. When you know for yourselves what is good, then follow it.",
     "link": "The Buddha invites a test, and not an inherited rule. Sravani changes her sign after one coin breaks it. A rule that nothing can break is a belief. A rule that is tested can grow.",
-    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.", "Yadā tumhe, kālāmā, attanāva jāneyyātha:", "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."],
+    "verse": [
+     "Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.",
+     "Yadā tumhe, kālāmā, attanāva jāneyyātha:",
+     "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."
+    ],
     "verse_lang": "pi"
    }
   ],

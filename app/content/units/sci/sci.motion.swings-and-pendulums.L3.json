@@ -101,7 +101,16 @@
     "A jhumka earring swinging as you turn your head.",
     "The long swinging rod with a brass disc in an old wall clock."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Galileo (about 1583)",
+     "explanation": "Is said to have timed a swinging lamp in a cathedral using his pulse and found the swings take equal time. Historians doubt the story."
+    },
+    {
+     "who": "Christiaan Huygens (1656)",
+     "explanation": "Built the first pendulum clock, turning the idea into a way to keep time."
+    }
+   ],
    "art": "A pendulum with three labels: pivot at the top, string, and bob at the bottom, next to a swing labelled the same way."
   },
   {
@@ -116,7 +125,8 @@
     "A bag of coins on a thread comes back almost to the same height it started from."
    ],
    "perspectives": [],
-   "art": "A pendulum drawn at five points of a swing, with long speed arrows at the bottom and no arrow at the two ends."
+   "art": "A pendulum drawn at five points of a swing, with long speed arrows at the bottom and no arrow at the two ends.",
+   "one_view": "\"Why a pendulum swings back and forth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What changes the swing time: the length",
@@ -130,7 +140,8 @@
     "The swing for little children, with short ropes, swings back and forth quicker than a tall swing."
    ],
    "perspectives": [],
-   "art": "Three pendulums side by side: a long one swinging slowly, a short one swinging quickly, and a long one with a heavier bob swinging at the same pace as the first."
+   "art": "Three pendulums side by side: a long one swinging slowly, a short one swinging quickly, and a long one with a heavier bob swinging at the same pace as the first.",
+   "one_view": "\"What changes the swing time: the length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Very wide swings take a little longer",
@@ -142,7 +153,16 @@
     "In the swing test, the wide start may take 14.4 seconds and the small start 14.2 seconds.",
     "A wall clock's pendulum swings only a few centimetres each way."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Thought a pendulum takes exactly the same time for wide and narrow swings."
+    },
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "Showed that a very wide swing takes a little longer, and that only small swings are equal."
+    }
+   ],
    "art": "Two pendulums of the same length, one with a tiny swing and one swinging up almost level with the pivot, with a clock face next to each."
   },
   {
@@ -156,7 +176,8 @@
     "A bag of coins on a thread swings for minutes. The same bag with a postcard taped on it stops in under a minute."
    ],
    "perspectives": [],
-   "art": "A pendulum with a flat card swinging, with tiny air lines pushing against the card, and a smaller and smaller arc drawn behind it."
+   "art": "A pendulum with a flat card swinging, with tiny air lines pushing against the card, and a smaller and smaller arc drawn behind it.",
+   "one_view": "\"Why a swing slows down and stops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Pushing at the right moment: resonance",
@@ -170,7 +191,8 @@
     "Soldiers stop marching in step when they cross a bridge, so their steps don't add up to shake it."
    ],
    "perspectives": [],
-   "art": "A child pushing a swing just as it reaches the back of its path, with a small push arrow and a growing curved path drawn above."
+   "art": "A child pushing a swing just as it reaches the back of its path, with a small push arrow and a growing curved path drawn above.",
+   "one_view": "\"Pushing at the right moment: resonance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How pendulums keep time in clocks",
@@ -183,7 +205,16 @@
     "A metronome is a pendulum turned upside down. Sliding its weight up makes it tick more slowly.",
     "The pendulum in a tall floor clock is about 1 metre long, so each tick is one second."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Before the pendulum clock",
+     "explanation": "People timed the day with sundials and with water clocks. In India the ghati, a bowl with a hole that sinks in water, marked a unit of time of about 24 minutes."
+    },
+    {
+     "who": "Huygens (1656)",
+     "explanation": "The pendulum clock made timekeeping hundreds of times more exact."
+    }
+   ],
    "art": "The inside of a wall clock: a long pendulum with a brass disc and a nut underneath, and a toothed wheel at the top that moves one tooth with each swing."
   },
   {
@@ -197,7 +228,8 @@
     "A child walking next to a grown-up takes more steps to cover the same path."
    ],
    "perspectives": [],
-   "art": "A hoolock gibbon hanging from a branch by one long arm, swinging forward towards the next branch, with a curved arrow showing the swing."
+   "art": "A hoolock gibbon hanging from a branch by one long arm, swinging forward towards the next branch, with a curved arrow showing the swing.",
+   "one_view": "\"Living things that swing like pendulums\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2882,14 +2914,19 @@
     "source": "Tao Te Ching 40",
     "teaching": "Returning is the movement of the Tao.",
     "link": "A pendulum always turns back towards its middle. Its whole movement is made of going out and returning.",
-    "verse": ["反者道之動。"],
+    "verse": [
+     "反者道之動。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Bhagavad Gita 2.14",
     "teaching": "Heat and cold, pleasure and pain, come and go. They do not last. Bear them patiently.",
     "link": "A swing goes up on one side and up on the other, but its resting point stays where it is. The swing changes all the time around a middle that does not move.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    }
   ],

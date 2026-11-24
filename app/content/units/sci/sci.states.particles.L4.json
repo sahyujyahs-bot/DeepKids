@@ -139,7 +139,8 @@
    ],
    "perspectives": [],
    "art": "A table with three groups: steel spoon labelled material, salt labelled substance, and sambar labelled mixture.",
-   "context": "This card says what material, substance and mixture mean, because the rest of the unit uses these words."
+   "context": "This card says what material, substance and mixture mean, because the rest of the unit uses these words.",
+   "one_view": "\"Materials, substances and mixtures\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Solids: particles packed close and held in place",
@@ -153,7 +154,8 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in circle with particles in neat rows, each with small curved marks to show it jiggling on the spot.",
-   "context": "This card describes the particles in a solid."
+   "context": "This card describes the particles in a solid.",
+   "one_view": "\"Solids: particles packed close and held in place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Liquids: particles close together but sliding",
@@ -167,7 +169,8 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in circle with particles close together in a jumbled pile, with arrows showing them sliding.",
-   "context": "This card describes the particles in a liquid."
+   "context": "This card describes the particles in a liquid.",
+   "one_view": "\"Liquids: particles close together but sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Gases: particles far apart and flying",
@@ -181,7 +184,8 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in circle with a few particles far apart, each with a long arrow showing how fast it flies.",
-   "context": "This card describes the particles in a gas."
+   "context": "This card describes the particles in a gas.",
+   "one_view": "\"Gases: particles far apart and flying\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Empty space between particles",
@@ -193,7 +197,20 @@
     "A balloon full of air can be squeezed smaller, but a balloon full of water cannot.",
     "Bicycle tyres can be pumped up, because more and more air particles can be pushed into the same space."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Said nature does not allow empty space, so there is always something in between."
+    },
+    {
+     "who": "Democritus and Kanada",
+     "explanation": "Said everything is atoms and empty space."
+    },
+    {
+     "who": "Torricelli (1643)",
+     "explanation": "Made a space above mercury in a tube that held no air, and showed empty space can exist."
+    }
+   ],
    "art": "Two syringes side by side: one with air showing the plunger pushed in halfway, one with water showing the plunger stuck.",
    "context": "This card explains why gases can be squashed and liquids cannot, using empty space."
   },
@@ -207,7 +224,16 @@
     "Steam on a cold plate turns back to water drops.",
     "Ghee melts in a pan and sets again as it cools."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "School books",
+     "explanation": "Matter has three states: solid, liquid and gas."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Count more. Plasma, a hot gas of charged particles, makes up the Sun and lightning. Others are Bose-Einstein condensates and liquid crystals."
+    }
+   ],
    "art": "Three pictures of the same water: ice with particles in rows, water with particles jumbled and close, and steam with particles far apart.",
    "context": "This card explains that the three states are not three different stuffs."
   },
@@ -223,7 +249,8 @@
    ],
    "perspectives": [],
    "art": "A pressure cooker cut in half, with steam particles shown hitting the lid and walls with arrows.",
-   "context": "This card explains why a gas pushes on its container."
+   "context": "This card explains why a gas pushes on its container.",
+   "one_view": "\"Gas pressure: the push of particles on walls\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why smells take minutes, not seconds",
@@ -237,7 +264,8 @@
    ],
    "perspectives": [],
    "art": "A zigzag line showing one smell particle bouncing between many air particles on its way across a room.",
-   "context": "This card explains why a smell takes minutes to cross a room, though gas particles are very fast."
+   "context": "This card explains why a smell takes minutes to cross a room, though gas particles are very fast.",
+   "one_view": "\"Why smells take minutes, not seconds\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How many particles are in a drop?",
@@ -251,7 +279,8 @@
    ],
    "perspectives": [],
    "art": "A drop of water on a fingertip, with arrows pointing to a long number of zeros.",
-   "context": "This card explains how many particles one drop holds."
+   "context": "This card explains how many particles one drop holds.",
+   "one_view": "\"How many particles are in a drop?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Inside a particle: atoms are mostly empty space",
@@ -263,7 +292,16 @@
     "A sugar molecule has 45 atoms.",
     "A hammer feels hard because the atoms in it push strongly on each other."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ernest Rutherford (1911)",
+     "explanation": "Found that an atom is mostly empty space, with a tiny hard centre."
+    },
+    {
+     "who": "Quantum physics",
+     "explanation": "Says the space is not empty. The electrons are spread out as a cloud of probability, and fields fill all the space."
+    }
+   ],
    "art": "An atom drawn as a big cricket ground with a mustard seed in the middle and tiny dots far away at the edge.",
    "context": "This card goes deeper and looks inside the particles."
   },
@@ -277,7 +315,16 @@
     "Atta pours from a tin but a lump of atta dough does not.",
     "A sack of cement powder spills across the floor, but each tiny grain is a solid."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Many teachers",
+     "explanation": "Treat sand as a solid made of solid grains that happens to pour."
+    },
+    {
+     "who": "Physicists who study grains",
+     "explanation": "Say sand behaves in ways that solids, liquids and gases do not, and some call it a state of matter of its own. This is still debated."
+    }
+   ],
    "art": "A heap of rice on a plate, with a zoomed-in circle on one grain showing neat rows of particles.",
    "context": "This card warns that a heap of solid grains is not the same as a liquid."
   },
@@ -291,7 +338,16 @@
     "A tray of rice shaken to show a gas is a model.",
     "Scientists use computer models of particles to design new materials."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Scientists who think models show what is real",
+     "explanation": "Believe a good model comes close to the way things truly are."
+    },
+    {
+     "who": "Scientists who think models are tools",
+     "explanation": "Quote George Box: all models are wrong, but some are useful. They say a model is a picture that helps us predict, whether or not it is the full truth."
+    }
+   ],
    "art": "A ball-and-stick drawing of a molecule next to a fuzzy cloud drawing of the same molecule.",
    "context": "This card is about what a model is, and why we should check where it stops working."
   }
@@ -3008,7 +3064,11 @@
     "source": "Democritus of Abdera, as reported by Aristotle in the Metaphysics, Book 1",
     "teaching": "Democritus, an ancient Greek thinker, taught that everything is made of atoms and empty space. Atoms cannot be cut further. Different things come from different atoms joined in different ways.",
     "link": "In the Squeeze Test, the air in the syringe squashed because its particles moved into the empty space between them. That is the empty space Democritus taught about.",
-    "verse": ["Λεύκιππος δὲ καὶ ὁ ἑταῖρος αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι,", "ταύτας μέντοι τρεῖς εἶναι λέγουσι, σχῆμά τε καὶ τάξιν καὶ θέσιν·", "διαφέρειν γάρ φασι τὸ ὂν ῥυσμῷ καὶ διαθιγῇ καὶ τροπῇ μόνον·"],
+    "verse": [
+     "Λεύκιππος δὲ καὶ ὁ ἑταῖρος αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι,",
+     "ταύτας μέντοι τρεῖς εἶναι λέγουσι, σχῆμά τε καὶ τάξιν καὶ θέσιν·",
+     "διαφέρειν γάρ φασι τὸ ὂν ῥυσμῷ καὶ διαθιγῇ καὶ τροπῇ μόνον·"
+    ],
     "verse_lang": "grc"
    },
    {

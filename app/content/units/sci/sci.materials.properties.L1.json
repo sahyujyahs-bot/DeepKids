@@ -58,7 +58,8 @@
    ],
    "perspectives": [],
    "context": "This card says what a property is, and how you find one.",
-   "art": "A steel spoon and a folded cotton towel side by side, with four small hands around them: one pressing, one stroking, one bending, and an eye looking."
+   "art": "A steel spoon and a folded cotton towel side by side, with four small hands around them: one pressing, one stroking, one bending, and an eye looking.",
+   "one_view": "\"Properties: words for what a material is like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Hard and soft, rough and smooth",
@@ -72,7 +73,8 @@
    ],
    "perspectives": [],
    "context": "This card is about what your thumb and fingers found in the Touch Hunt.",
-   "art": "A thumb pressing into a fluffy pillow, a thumb on a steel tumbler, a finger on a hairy coconut shell and a finger on a glass bottle."
+   "art": "A thumb pressing into a fluffy pillow, a thumb on a steel tumbler, a finger on a hairy coconut shell and a finger on a glass bottle.",
+   "one_view": "\"Hard and soft, rough and smooth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Bendy and stiff: shape matters too",
@@ -86,7 +88,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the paper bridge test, where you folded paper to make it stiff.",
-   "art": "Two paper bridges between two stacks of books: a flat sheet sagging under one coin, and a zigzag-folded sheet holding a pile of coins."
+   "art": "Two paper bridges between two stacks of books: a flat sheet sagging under one coin, and a zigzag-folded sheet holding a pile of coins.",
+   "one_view": "\"Bendy and stiff: shape matters too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why a smooth thing shines",
@@ -100,7 +103,8 @@
    ],
    "perspectives": [],
    "context": "This card says why some things shine. It is what you found in the Torch Spot Test.",
-   "art": "Two side-by-side pictures: torch light hitting a smooth plate and bouncing off as one neat beam, and torch light hitting a bumpy cloth and scattering in many little arrows."
+   "art": "Two side-by-side pictures: torch light hitting a smooth plate and bouncing off as one neat beam, and torch light hitting a bumpy cloth and scattering in many little arrows.",
+   "one_view": "\"Why a smooth thing shines\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -352,7 +356,7 @@
      "mins": 4,
      "do": "1. Hold up each thing, one at a time. The steel plate stays in the fridge, so just say its name. You will show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.",
      "say": "Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall?",
-         "kid": "Look at each thing. Guess which ones will make a bright spot.",
+     "kid": "Look at each thing. Guess which ones will make a bright spot.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -370,7 +374,7 @@
      "mins": 6,
      "do": "1. Lay the mirror, foil, newspaper, hanky and wooden spoon flat on the table, one at a time, near the wall. 2. Hold the torch at a slant, about one ruler away. 3. Look for a bright spot on the wall or ceiling. 4. Your child strokes each thing with one finger. The steel plate waits for the next step.",
      "say": "Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough? Do the same for each thing.",
-         "kid": "Watch the wall for a bright spot. Then stroke the thing with one finger.",
+     "kid": "Watch the wall for a bright spot. Then stroke the thing with one finger.",
      "ask": [
       {
        "q": "Which things made a bright spot?",
@@ -387,7 +391,7 @@
      "mins": 4,
      "do": "1. Take the cold steel plate from the fridge. 2. Shine the torch on it and find the spot. Your child strokes the plate with one finger. 3. Your child breathes 'haaa' onto the plate. 4. Watch the spot, then watch the plate for a few seconds.",
      "say": "Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. Keep watching the spot.",
-         "kid": "Breathe 'haaa' on the cold plate. Watch the spot on the wall.",
+     "kid": "Breathe 'haaa' on the cold plate. Watch the spot on the wall.",
      "ask": [
       {
        "q": "What happened?",
@@ -421,7 +425,7 @@
      "mins": 2,
      "do": "Ask your child what was the same about each thing that made a spot. Then ask the check question.",
      "say": "Think about the mirror, the cold plate and the still water. What was the same about each thing that made a bright spot?",
-         "kid": "Look at the things that made a spot. Feel them again.",
+     "kid": "Look at the things that made a spot. Feel them again.",
      "ask": [
       {
        "q": "What was the same?",
@@ -520,7 +524,7 @@
      "mins": 3,
      "do": "1. Make two piles of books, the same height, a hand-width apart. 2. Lay one flat sheet across them. 3. Ask your child to guess.",
      "say": "This paper is our bridge. How many coins will it hold before it sags down?",
-           "kid": "Look at the paper bridge. Guess how many coins it will hold.",
+     "kid": "Look at the paper bridge. Guess how many coins it will hold.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -560,7 +564,7 @@
      "mins": 2,
      "do": "Ask your child what changed, and then the check question.",
      "say": "We used the same paper. Look at the two bridges. What was different?",
-           "kid": "Look at the flat bridge and the zigzag bridge. How many coins did each hold?",
+     "kid": "Look at the flat bridge and the zigzag bridge. How many coins did each hold?",
      "ask": [
       {
        "q": "What was different?",
@@ -633,7 +637,7 @@
      "mins": 6,
      "do": "Your child brings things from around the home, presses and strokes each one, and puts it by a slip.",
      "say": "Find a hard thing. Now a soft thing. Now find something rough, and something smooth.",
-           "kid": "Find one thing for each slip. Press or stroke it, then put it by its slip.",
+     "kid": "Find one thing for each slip. Press or stroke it, then put it by its slip.",
      "ask": [
       {
        "q": "How do you know the cushion is soft?",
@@ -650,7 +654,7 @@
      "mins": 2,
      "do": "Pick up a pillow or cushion and ask the check question.",
      "say": "Here is a pillow. Press it with your thumb. Does it squash?",
-           "kid": "Press the pillow with your thumb.",
+     "kid": "Press the pillow with your thumb.",
      "check": {
       "t": "mcq",
       "q": "You press a pillow and it squashes. What is the pillow like?",
@@ -715,8 +719,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Your child lays paper on each thing and rubs over it gently. Make sure they rub the doormat and the steel plate.",
-           "say": "Before you rub the steel plate, guess if a pattern will show. Now rub and see.",
-           "kid": "Put the paper on top of the thing. Rub gently with the side of the crayon.",
+     "say": "Before you rub the steel plate, guess if a pattern will show. Now rub and see.",
+     "kid": "Put the paper on top of the thing. Rub gently with the side of the crayon.",
      "ask": [
       {
        "q": "Why did the doormat show a pattern but the plate did not?",
@@ -808,7 +812,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel.",
-           "kid": "Think about a thick steel spoon and a thin steel wire.",
+     "kid": "Think about a thick steel spoon and a thin steel wire.",
      "check": {
       "t": "mcq",
       "q": "A steel spoon is stiff. A thin steel wire bends easily. Why?",
@@ -901,7 +905,7 @@
      "mins": 6,
      "do": "Read the cards one at a time. Your child runs, touches and explains.",
      "say": "Shiny! Run and touch something shiny.",
-           "kid": "Run to something shiny and touch it.",
+     "kid": "Run to something shiny and touch it.",
      "ask": [
       {
        "q": "How do you know it is shiny?",
@@ -1031,7 +1035,7 @@
      "mins": 8,
      "do": "Take turns. Your child picks a card and gives clues. Help with words if they get stuck.",
      "say": "Your turn. Pick a card and keep it secret. Give me your first clue.",
-           "kid": "Look at your card. Give one clue at a time.",
+     "kid": "Look at your card. Give one clue at a time.",
      "ask": [
       {
        "q": "Which clue helped you most?",
@@ -1048,7 +1052,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "Here are three clues: hard, smooth and shiny.",
-           "kid": "Think of things at home that are hard, smooth and shiny.",
+     "kid": "Think of things at home that are hard, smooth and shiny.",
      "check": {
       "t": "mcq",
       "q": "The clues are: hard, smooth, shiny. Which thing could it be?",
@@ -1085,9 +1089,9 @@
      "qty": 1
     },
     {
-          "item": "a pencil or pen",
-          "qty": 1
-         }
+     "item": "a pencil or pen",
+     "qty": 1
+    }
    ],
    "schedule": [
     {
@@ -1127,9 +1131,9 @@
      "id": "s1",
      "mins": 7,
      "do": "1. Make the book. 2. Write HARD and SOFT on the first two pages. 3. Your child finds something for each, and sticks a small piece on. If it is too big, they write its name.",
-           "say": "This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on? If it is too big, write its name.",
-           "kid": "Find something hard and something soft. Stick a bit on, or write its name.",
-           "parent": "A hard thing is often too big to stick, so writing its name is fine. A cotton ball or cloth scrap works well for soft."
+     "say": "This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on? If it is too big, write its name.",
+     "kid": "Find something hard and something soft. Stick a bit on, or write its name.",
+     "parent": "A hard thing is often too big to stick, so writing its name is fine. A cotton ball or cloth scrap works well for soft."
     },
     {
      "id": "s2",
@@ -1889,7 +1893,10 @@
     "source": "Bhagavad Gita 3.38",
     "teaching": "As fire is covered by smoke, and a mirror is covered by dust, so knowing is covered by wanting.",
     "link": "In the Gita the shine of a mirror is not lost under dust, only covered. In our test, mist covered the steel plate, and the shine came back when the mist dried.",
-    "verse": ["धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।", "यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।"],
+    "verse": [
+     "धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।",
+     "यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -1901,7 +1908,9 @@
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard.",
     "link": "Water is soft: your finger goes right into it. Yet drops falling for many years wear hollows into hard stone steps. Soft and hard can meet, and the soft one can win.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    }
   ],

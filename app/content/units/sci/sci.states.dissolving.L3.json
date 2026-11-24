@@ -90,7 +90,8 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in drawing of water particles crowding round the corner of a salt grain and carrying small salt particles away into the water.",
-   "context": "This card explains what is happening when salt or sugar disappears into water."
+   "context": "This card explains what is happening when salt or sugar disappears into water.",
+   "one_view": "\"What dissolving is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Some things do not dissolve",
@@ -104,7 +105,8 @@
    ],
    "perspectives": [],
    "art": "A row of glasses: clear salt water, cloudy atta water, sand on the bottom, oil floating on top, and yellow turmeric settling.",
-   "context": "This card is about the things in a kitchen that do not dissolve in water, and how to tell."
+   "context": "This card is about the things in a kitchen that do not dissolve in water, and how to tell.",
+   "one_view": "\"Some things do not dissolve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Water has a limit for each thing",
@@ -118,7 +120,8 @@
    ],
    "perspectives": [],
    "art": "A bar picture: a short bar for salt and a bar five times taller for sugar, both above the same small glass of water.",
-   "context": "This card explains why, in the Full Glass Test, the salt stopped dissolving long before the sugar did."
+   "context": "This card explains why, in the Full Glass Test, the salt stopped dissolving long before the sugar did.",
+   "one_view": "\"Water has a limit for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Full of salt, but not full of sugar",
@@ -132,7 +135,8 @@
    ],
    "perspectives": [],
    "art": "A glass of clear, full salt water with a few salt grains on the bottom, and a spoon of sugar disappearing into the top of it.",
-   "context": "This card explains the last part of the Full Glass Test, when sugar dissolved in water that was already full of salt."
+   "context": "This card explains the last part of the Full Glass Test, when sugar dissolved in water that was already full of salt.",
+   "one_view": "\"Full of salt, but not full of sugar\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Warm water and dissolving",
@@ -146,7 +150,8 @@
    ],
    "perspectives": [],
    "art": "Two glasses: one with ice cubes and sugar grains still on the bottom, the other gently steaming with the sugar already gone.",
-   "context": "This card explains the Cold, Room or Warm test, and why lemonade makers dissolve sugar first."
+   "context": "This card explains the Cold, Room or Warm test, and why lemonade makers dissolve sugar first.",
+   "one_view": "\"Warm water and dissolving\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A filter catches only what has not dissolved",
@@ -160,7 +165,8 @@
    ],
    "perspectives": [],
    "art": "Atta water being poured through a cotton cloth over a bowl, with white atta paste left on the cloth and clearer water in the bowl.",
-   "context": "This card explains the Strain It activity, where a cloth caught the atta but not the salt."
+   "context": "This card explains the Strain It activity, where a cloth caught the atta but not the salt.",
+   "one_view": "\"A filter catches only what has not dissolved\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Salt and sugar dissolve in different ways",
@@ -174,7 +180,8 @@
    ],
    "perspectives": [],
    "art": "Two zoomed-in circles: on the left, salt coming apart into plus and minus balls among water particles, on the right, whole sugar molecules floating among water particles.",
-   "context": "This card goes deeper: what happens to salt and sugar when they dissolve, and how the two are different."
+   "context": "This card goes deeper: what happens to salt and sugar when they dissolve, and how the two are different.",
+   "one_view": "\"Salt and sugar dissolve in different ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why each thing has its own limit",
@@ -188,7 +195,8 @@
    ],
    "perspectives": [],
    "art": "A chemist in a lab coat holding a small flask of crystals next to a computer screen showing a picture of particles.",
-   "context": "This card is about a question scientists are still working on: can we predict how much of a thing will dissolve?"
+   "context": "This card is about a question scientists are still working on: can we predict how much of a thing will dissolve?",
+   "one_view": "\"Why each thing has its own limit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Liquids can dissolve too, or not",
@@ -202,7 +210,8 @@
    ],
    "perspectives": [],
    "art": "A plastic bottle of water and coconut oil just shaken, full of drops, and the same bottle a minute later with a clear yellow layer on top.",
-   "context": "This card is about liquids: which ones mix into water and which ones stay apart."
+   "context": "This card is about liquids: which ones mix into water and which ones stay apart.",
+   "one_view": "\"Liquids can dissolve too, or not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -307,7 +316,9 @@
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer and weaker than water. Yet nothing is better at wearing away what is hard and strong.",
     "link": "A hard salt crystal falls apart in plain water within a minute, and no one has to crush it. The Full Glass Test also showed that water's power has a limit. After two or three spoons, the salt stayed hard on the bottom.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    },
    {

@@ -89,7 +89,8 @@
     "Kulfi drips down its stick on a hot day."
    ],
    "perspectives": [],
-   "art": "Three pictures in a row: an ice cube, a smaller ice cube in a puddle, and only a puddle."
+   "art": "Three pictures in a row: an ice cube, a smaller ice cube in a puddle, and only a puddle.",
+   "one_view": "\"Melting: a solid turns into a liquid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Solidifying and freezing: a liquid turns into a solid",
@@ -103,7 +104,8 @@
     "Melted wax solidifies as soon as it drips off a candle."
    ],
    "perspectives": [],
-   "art": "A steel katori of runny chocolate going into a fridge, and the same katori coming out with hard, set chocolate."
+   "art": "A steel katori of runny chocolate going into a fridge, and the same katori coming out with hard, set chocolate.",
+   "one_view": "\"Solidifying and freezing: a liquid turns into a solid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Every solid melts at its own warmth",
@@ -118,7 +120,16 @@
     "Candle wax: usually between about 45 and 70 degrees.",
     "Iron: about 1,500 degrees."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Everything has one temperature at which it melts, like ice at 0 °C."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Ice, salt and metals melt at a sharp temperature. Glass, wax and chocolate have no single melting point, and soften slowly as they warm."
+    }
+   ],
    "art": "A tall thermometer with small pictures beside it at different heights: an ice cube at the bottom, a coconut oil bottle, a chocolate square, a candle higher up, and an iron nail in a glowing furnace at the very top."
   },
   {
@@ -133,7 +144,8 @@
     "Ghee that sets in winter and melts again on the stove."
    ],
    "perspectives": [],
-   "art": "A circle of two arrows: an ice cube melting into water, and water freezing back into an ice cube."
+   "art": "A circle of two arrows: an ice cube melting into water, and water freezing back into an ice cube.",
+   "one_view": "\"Melting and solidifying can be undone\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Warmth goes in to melt a solid, and comes out when it solidifies",
@@ -147,7 +159,8 @@
     "A bowl of warm water melted the chocolate quickly."
    ],
    "perspectives": [],
-   "art": "A child's hand holding an ice cube, with small red arrows going from the hand into the ice."
+   "art": "A child's hand holding an ice cube, with small red arrows going from the hand into the ice.",
+   "one_view": "\"Warmth goes in to melt a solid, and comes out when it solidifies\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What happens inside a solid when it melts",
@@ -160,7 +173,8 @@
     "Wax particles need a candle flame's warmth to slide apart."
    ],
    "perspectives": [],
-   "art": "A zoom-in circle: on the left, tiny balls in neat rows; on the right, the same balls jumbled and sliding."
+   "art": "A zoom-in circle: on the left, tiny balls in neat rows; on the right, the same balls jumbled and sliding.",
+   "one_view": "\"What happens inside a solid when it melts\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2381,21 +2395,28 @@
     "source": "Plato, Cratylus 402a, quoting Heraclitus",
     "teaching": "Heraclitus, a thinker from ancient Greece, said that everything flows and nothing stays still. He said you cannot step into the same river twice.",
     "link": "A river keeps its name while its water keeps changing. Coconut oil keeps its name too, whether it is hard and white in Delhi or runny and golden in Kochi.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that anything made up of parts, and brought about by causes, does not last forever. Seeing this clearly makes us suffer less.",
     "link": "A solid stays solid only while it stays cool enough. Warm it, and its shape goes. In the melting race, each solid kept its shape only until it got warm enough to melt.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing away what is hard and strong.",
     "link": "This teaching comes from the Tao Te Ching, a book from China. It praises what is soft and flowing. Hard ice and soft water are the same water, and the hard ice can melt into the soft water.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    }
   ],

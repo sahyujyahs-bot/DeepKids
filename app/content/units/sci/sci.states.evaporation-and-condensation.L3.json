@@ -102,7 +102,8 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in water surface with particles drawn as dots, a few fast ones flying up out of it into the air.",
-   "context": "This card says what evaporation is and why it happens even when water is not boiling."
+   "context": "This card says what evaporation is and why it happens even when water is not boiling.",
+   "one_view": "\"What evaporation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Where the water goes",
@@ -113,7 +114,16 @@
     "Breathe on a cold mirror. The water vapour in your breath turns back into a mist of drops.",
     "Water evaporated from the Bay of Bengal falls again as rain."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Old Indian writers such as Kalidasa",
+     "explanation": "Described the Sun's rays drawing up water, which clouds return as rain."
+    },
+    {
+     "who": "Modern science",
+     "explanation": "Evaporated water becomes vapour in the air, which stays water and comes back down as rain."
+    }
+   ],
    "art": "A puddle with arrows rising into the air, the air drawn full of tiny dots, and a cold steel plate above it with drops forming.",
    "context": "This card answers a puzzle: when a puddle dries, where does its water go?"
   },
@@ -129,7 +139,8 @@
    ],
    "perspectives": [],
    "art": "A cold steel tumbler of ice water with drops on its outside, and dots in the air slowing down and joining into drops on its surface.",
-   "context": "This card says what condensation is, and why drops appear on cold things."
+   "context": "This card says what condensation is, and why drops appear on cold things.",
+   "one_view": "\"What condensation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Leaving and landing back, at the same time",
@@ -142,7 +153,8 @@
    ],
    "perspectives": [],
    "art": "Two boxes side by side, each with a wet cloth: the open one with many arrows going up and away and few coming back, the closed one with equal arrows up and down.",
-   "context": "This card explains the Closed Box Test: why the cloth in the closed box stayed wet."
+   "context": "This card explains the Closed Box Test: why the cloth in the closed box stayed wet.",
+   "one_view": "\"Leaving and landing back, at the same time\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What makes things dry faster",
@@ -156,7 +168,8 @@
    ],
    "perspectives": [],
    "art": "Four drawings in a row: a sun, a fan blowing, a towel spread wide, and a dry desert wind, each with a cloth drying fast.",
-   "context": "This card lists what speeds up drying, and why each one works."
+   "context": "This card lists what speeds up drying, and why each one works.",
+   "one_view": "\"What makes things dry faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Boiling, and the white cloud above a pan",
@@ -169,7 +182,8 @@
    ],
    "perspectives": [],
    "art": "A kettle spout with a clear gap just in front of it, then a white cloud of drops, then clear air again, each part labelled.",
-   "context": "This card explains boiling, and what the white cloud above a boiling pan really is."
+   "context": "This card explains boiling, and what the white cloud above a boiling pan really is.",
+   "one_view": "\"Boiling, and the white cloud above a pan\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Dew and fog",
@@ -180,7 +194,16 @@
     "Dew on a car windscreen on a clear winter morning.",
     "Morning mist in Ooty and Kodaikanal that lifts as the Sun warms the air."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that dew falls from the sky."
+    },
+    {
+     "who": "William Wells (1814)",
+     "explanation": "Showed dew forms from vapour in the air, on surfaces that have cooled at night."
+    }
+   ],
    "art": "A clear starry night over a garden and a parked car, then the same scene at dawn with drops shining on the grass and the car roof.",
    "context": "This card explains where dew and fog come from."
   },
@@ -195,7 +218,8 @@
    ],
    "perspectives": [],
    "art": "A black beetle standing head-down on the top of an orange sand dune in morning fog, with water drops running down their back to their mouth.",
-   "context": "This card is about a beetle who lives where it almost never rains, and drinks the fog."
+   "context": "This card is about a beetle who lives where it almost never rains, and drinks the fog.",
+   "one_view": "\"Living things that drink the fog\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -347,14 +371,20 @@
     "source": "Tirukkural 17, in the chapter on the excellence of rain",
     "teaching": "Even the wide sea will lose its richness if the clouds take up its water and do not give it back as rain.",
     "link": "The sea stays full because the water that evaporates from it comes back as rain. Tiruvalluvar saw that water must be both taken and given back. In the same way, water in the closed box both left the cloth and landed back on it.",
-    "verse": ["நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி", "தான்நல்கா தாகி விடின்."],
+    "verse": [
+     "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி",
+     "தான்நல்கா தாகி விடின்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 2.16",
     "teaching": "What is not real never comes to be. What is real never stops being.",
     "link": "The Gita says this about the true self, not about water. But something similar is true of water. A puddle seems to vanish into nothing, but its water still exists as vapour, and it comes back when the vapour is cooled.",
-    "verse": ["नासतो विद्यते भावो नाभावो विद्यते सतः।", "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"],
+    "verse": [
+     "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+     "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"
+    ],
     "verse_lang": "sa"
    }
   ],

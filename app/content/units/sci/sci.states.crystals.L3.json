@@ -82,7 +82,16 @@
     "Kalkandu is one big sugar crystal, or a few joined together.",
     "Snowflakes are ice crystals. Their six arms come from the six-sided pattern that water particles make when they freeze."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Many chemists before 1982",
+     "explanation": "A crystal always has a pattern that repeats exactly in every direction."
+    },
+    {
+     "who": "Dan Shechtman (1982)",
+     "explanation": "Found a metal with a pattern that never exactly repeats, called a quasicrystal. Many scientists doubted him, but he was proved right and won the Nobel Prize in 2011."
+    }
+   ],
    "art": "A salt cube with a zoomed-in window showing particles in rows and columns, and one new particle arriving at a corner."
   },
   {
@@ -96,7 +105,8 @@
     "A diamond cutter finds the directions in which a diamond splits most easily, and uses them."
    ],
    "perspectives": [],
-   "art": "A brick wall being built, with a finished flat side, beside a salt cube with its rows of particles drawn on one face."
+   "art": "A brick wall being built, with a finished flat side, beside a salt cube with its rows of particles drawn on one face.",
+   "one_view": "\"Why a crystal has flat faces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card explains why salt, sugar and phitkari look different.",
@@ -110,7 +120,8 @@
     "Phitkari grown in your glass has triangle faces, like the phitkari crystals in a museum."
    ],
    "perspectives": [],
-   "art": "Three crystals side by side, labelled: a salt cube, a phitkari double pyramid, and a slanted sugar block."
+   "art": "Three crystals side by side, labelled: a salt cube, a phitkari double pyramid, and a slanted sugar block.",
+   "one_view": "\"Each substance grows its own shape\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card explains why some crystals grow big and others tiny.",
@@ -124,7 +135,8 @@
     "The biggest crystals ever found, in the Cave of the Crystals in Mexico, grew in warm water that changed very slowly for hundreds of thousands of years."
    ],
    "perspectives": [],
-   "art": "Two panels: a plate with hundreds of tiny white specks, labelled 'fast', and a glass with three big cubes, labelled 'slow'."
+   "art": "Two panels: a plate with hundreds of tiny white specks, labelled 'fast', and a glass with three big cubes, labelled 'slow'.",
+   "one_view": "\"Slow growth makes bigger crystals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card says which solids are not crystals.",
@@ -137,7 +149,8 @@
     "A clear boiled sweet is sugar that is not a crystal. Kalkandu is sugar that is a crystal."
    ],
    "perspectives": [],
-   "art": "Two zoomed-in circles: neat rows of particles labelled 'kalkandu, a crystal', and a jumble of particles labelled 'boiled sweet, not a crystal'."
+   "art": "Two zoomed-in circles: neat rows of particles labelled 'kalkandu, a crystal', and a jumble of particles labelled 'boiled sweet, not a crystal'.",
+   "one_view": "\"Not every solid is a crystal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card is about how a crystal first begins.",
@@ -149,7 +162,16 @@
     "A rough thread grows more crystals than a smooth glass wall.",
     "A seed crystal skips this step, because the pattern is already there for new particles to join."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Classical theory",
+     "explanation": "A crystal starts when enough particles meet by chance and settle in a pattern, and it grows from there."
+    },
+    {
+     "who": "Newer research",
+     "explanation": "Finds that particles often first make a dense, jumbled blob, and then arrange into a crystal. Scientists are still working out which happens when."
+    }
+   ],
    "art": "A zoomed-in view of a thread fibre with a few particles gathering on it in a loose cluster, and a neat tiny cube forming beside it."
   }
  ],
@@ -2630,14 +2652,20 @@
     "source": "Tao Te Ching, chapter 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A tower nine storeys high starts from a heap of earth. A journey of a thousand miles starts beneath your feet.",
     "link": "Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass in the Fast Plate or Slow Glass experiment shows that big things need many small steps, not a rush.",
-    "verse": ["合抱之木，生於毫末。", "九層之臺，起於累土。", "千里之行，始於足下。"],
+    "verse": [
+     "合抱之木，生於毫末。",
+     "九層之臺，起於累土。",
+     "千里之行，始於足下。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Plato, Timaeus (about 360 BCE)",
     "teaching": "Plato, a Greek thinker, guessed that each of the elements is made of tiny shapes. He gave earth the cube, because it is the steadiest shape.",
     "link": "Plato was wrong about the elements. But he was right that tiny shapes, repeated, can build the things we see. Salt really is cube-shaped, because of the way its particles join.",
-    "verse": ["γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"],
+    "verse": [
+     "γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"
+    ],
     "verse_lang": "grc"
    }
   ],

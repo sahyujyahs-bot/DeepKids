@@ -88,7 +88,20 @@
     "Air is made of particles too. You feel them push when the wind blows.",
     "Your body is made of particles: water, sugars, fats and many more."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Kanada (India) and Democritus (Greece)",
+     "explanation": "Taught that everything is made of tiny parts that cannot be cut."
+    },
+    {
+     "who": "Aristotle",
+     "explanation": "Said matter is smooth and continuous, with no smallest piece."
+    },
+    {
+     "who": "Perrin (1908)",
+     "explanation": "Settled the question by studying the jiggling of tiny grains in water, which the atoms were knocking about. Before him, some scientists, such as Ernst Mach, still doubted atoms."
+    }
+   ],
    "art": "Three boxes side by side: particles packed in neat rows for a solid, particles close but jumbled for a liquid, and a few particles far apart for a gas."
   },
   {
@@ -102,7 +115,8 @@
     "Salt dissolves in sambar, so you taste it everywhere but cannot see it."
    ],
    "perspectives": [],
-   "art": "A sugar grain drawn as a block of tiny particles, with water particles pulling particles off its corners and edges and carrying them away."
+   "art": "A sugar grain drawn as a block of tiny particles, with water particles pulling particles off its corners and edges and carrying them away.",
+   "one_view": "\"How sugar dissolves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card is about the balance test, where you weighed sugar before and after it dissolved.",
@@ -115,7 +129,8 @@
     "An ice cube in a closed box weighs the same after it melts."
    ],
    "perspectives": [],
-   "art": "A bottle of water and a paper packet of sugar on one pan of a balance, and the same bottle of clear sugar water with the empty paper on the same pan, both balanced level."
+   "art": "A bottle of water and a paper packet of sugar on one pan of a balance, and the same bottle of clear sugar water with the empty paper on the same pan, both balanced level.",
+   "one_view": "\"Dissolved sugar still weighs the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card sorts out two words people often mix up.",
@@ -128,7 +143,8 @@
     "Sugar dissolves in cold water from the fridge. No heat is needed."
    ],
    "perspectives": [],
-   "art": "Two pictures side by side: sugar grains in a dry pan on a flame turning brown and runny, and sugar in a glass of cold water disappearing."
+   "art": "Two pictures side by side: sugar grains in a dry pan on a flame turning brown and runny, and sugar in a glass of cold water disappearing.",
+   "one_view": "\"Dissolving is not melting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card is about the race between a kalkandu lump, sugar grains and powdered sugar.",
@@ -141,7 +157,8 @@
     "Jaggery is grated or crushed before it goes into panakam, the South Indian jaggery drink."
    ],
    "perspectives": [],
-   "art": "One big sugar cube beside the same cube crushed into many small pieces, with arrows showing water reaching every small piece from all sides."
+   "art": "One big sugar cube beside the same cube crushed into many small pieces, with arrows showing water reaching every small piece from all sides.",
+   "one_view": "\"Why some sugar dissolves faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card is about the tall glass test, where sugar lay at the bottom without stirring.",
@@ -154,7 +171,8 @@
     "The smell of jasmine flowers spreads across a room in a few minutes, carried by moving air."
    ],
    "perspectives": [],
-   "art": "A tall glass of water with a thick, clear, shimmering layer at the bottom, and a straw dipping into it."
+   "art": "A tall glass of water with a thick, clear, shimmering layer at the bottom, and a straw dipping into it.",
+   "one_view": "\"Particles move, but spread slowly on their own\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "context": "This card asks what particles are made of, which goes beyond this lesson.",
@@ -166,7 +184,20 @@
     "A water particle is made of 3 atoms: 2 of hydrogen and 1 of oxygen.",
     "Sugar and the paper in a book are made of the same three kinds of atom, joined in different ways."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "John Dalton (1800s)",
+     "explanation": "The atom is a solid ball that cannot be split."
+    },
+    {
+     "who": "Thomson, Rutherford and Bohr",
+     "explanation": "Found electrons, then a tiny nucleus at the centre."
+    },
+    {
+     "who": "Particle physicists today",
+     "explanation": "Say the nucleus is made of quarks. Some theories say quarks are made of something smaller, but nobody has shown it."
+    }
+   ],
    "art": "A zoom in four circles: a sugar grain, a sugar particle as a cluster of 45 balls, one atom, and a faint shimmering field."
   }
  ],
@@ -2647,14 +2678,25 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning he asks for the salt, but Shvetaketu cannot find it. 'Taste the water from the top, the middle and the bottom,' says Uddalaka. Each time it is salty. 'You cannot see the salt, but it is there,' he says. 'In the same way, the finest essence is in everything, and you are that.'",
     "link": "This is the tasting test from your unit, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Lucretius, On the Nature of Things, Book 1, about lines 265 to 328",
     "teaching": "Lucretius, a Roman poet, said nature works through bodies too small to see. He gave examples. Clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger slowly grows thinner over the years, though nobody sees any bits wear away.",
     "link": "The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves.",
-    "verse": ["Denique fluctifrago suspensae in litore vestis", "uvescunt, eaedem dispansae in sole serescunt.", "in parvas igitur partis dispergitur umor,", "quas oculi nulla possunt ratione videre."],
+    "verse": [
+     "Denique fluctifrago suspensae in litore vestis",
+     "uvescunt, eaedem dispansae in sole serescunt.",
+     "in parvas igitur partis dispergitur umor,",
+     "quas oculi nulla possunt ratione videre."
+    ],
     "verse_lang": "la"
    }
   ],

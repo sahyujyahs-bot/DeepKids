@@ -57,7 +57,16 @@
     "The neighbour's mixie heard through the wall",
     "Your friend's voice travelling across the room to you"
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Nyaya-Vaisheshika school of India",
+     "explanation": "Sound is a quality of akasha, the space that carries it everywhere."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Sound is a wave of squashing and stretching that moves through air, water or solids, and cannot move through empty space."
+    }
+   ],
    "art": "A steel tumbler being tapped on one side of a room, a row of little arrows through the air, and a girl's ear on the other side."
   },
   {
@@ -72,7 +81,8 @@
     "The cooker heard from round the corner of the kitchen door"
    ],
    "perspectives": [],
-   "art": "A girl in the middle of a room tapping a tumbler, with rings of sound lines spreading out that grow fainter, and three children at different distances: the nearest smiling, the furthest cupping a hand."
+   "art": "A girl in the middle of a room tapping a tumbler, with rings of sound lines spreading out that grow fainter, and three children at different distances: the nearest smiling, the furthest cupping a hand.",
+   "one_view": "\"A sound spreads out, so it gets softer as it travels\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A cone sends more of a sound one way",
@@ -85,7 +95,8 @@
     "Cupping your hands round your mouth to call someone"
    ],
    "perspectives": [],
-   "art": "Two pictures: a boy calling with no cone and sound lines going everywhere, and the same boy calling through a paper cone with most sound lines going forward to a friend."
+   "art": "Two pictures: a boy calling with no cone and sound lines going everywhere, and the same boy calling through a paper cone with most sound lines going forward to a friend.",
+   "one_view": "\"A cone sends more of a sound one way\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Sound takes a little time to travel",
@@ -98,7 +109,8 @@
     "Seeing fireworks burst in the sky, then hearing the bang"
    ],
    "perspectives": [],
-   "art": "A night sky with a lightning flash over the sea, a family at a window counting on their fingers, and a rumble of thunder still on its way."
+   "art": "A night sky with a lightning flash over the sea, a family at a window counting on their fingers, and a rumble of thunder still on its way.",
+   "one_view": "\"Sound takes a little time to travel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1795,7 +1807,11 @@
     "source": "The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too)",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched.",
     "link": "In Who Hears It Louder?, the person next to the temple bell heard a loud sound, and the friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],

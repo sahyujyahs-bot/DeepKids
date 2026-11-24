@@ -148,7 +148,8 @@
    ],
    "perspectives": [],
    "art": "A cut-away ear in labelled steps: ear flap, ear canal, eardrum, three tiny bones, snail-shaped cochlea and the nerve going to the brain, with a bell ringing outside.",
-   "context": "This card follows one sound through the ear, part by part."
+   "context": "This card follows one sound through the ear, part by part.",
+   "one_view": "\"How the ear turns a sound into a signal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The quietest sound you can hear",
@@ -161,7 +162,8 @@
    ],
    "perspectives": [],
    "art": "A phone volume bar with grey steps at the bottom and a child's raised hand at the step where the song is first heard.",
-   "context": "This card explains what you found in the Quietest Sound experiment, where you turned a phone up step by step until you heard it."
+   "context": "This card explains what you found in the Quietest Sound experiment, where you turned a phone up step by step until you heard it.",
+   "one_view": "\"The quietest sound you can hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Pitch, and the band of sounds people hear",
@@ -174,7 +176,8 @@
    ],
    "perspectives": [],
    "art": "A long band of colour from low to high pitch, with a person's ear covering the middle, an elephant at the low end and a bat at the high end.",
-   "context": "This card explains pitch, and why some sounds are too high or too low for us."
+   "context": "This card explains pitch, and why some sounds are too high or too low for us.",
+   "one_view": "\"Pitch, and the band of sounds people hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why the highest sounds go first as we grow older",
@@ -187,7 +190,8 @@
    ],
    "perspectives": [],
    "art": "Three family members in a row, a girl, her mother and her grandfather, each with a band of colour above them that is a little shorter at the high end than the one before.",
-   "context": "This card explains why people of different ages hear different sounds."
+   "context": "This card explains why people of different ages hear different sounds.",
+   "one_view": "\"Why the highest sounds go first as we grow older\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Loud sound and hair cells",
@@ -200,7 +204,8 @@
    ],
    "perspectives": [],
    "art": "A row of upright hair cell tufts, and next to it a row with some tufts bent flat after a loud noise.",
-   "context": "This card explains why loud sound can harm hearing for ever."
+   "context": "This card explains why loud sound can harm hearing for ever.",
+   "one_view": "\"Loud sound and hair cells\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Keeping your ears safe",
@@ -213,7 +218,8 @@
    ],
    "perspectives": [],
    "art": "A child at a Deepavali evening standing well back from bursting crackers, with fingertips pressing the small flaps over the ear holes.",
-   "context": "This card is about protecting your hearing."
+   "context": "This card is about protecting your hearing.",
+   "one_view": "\"Keeping your ears safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Hearing through your bones",
@@ -226,7 +232,8 @@
    ],
    "perspectives": [],
    "art": "A child humming with thumbs closing the ear flaps, with wavy lines going through the jaw and skull straight to the cochlea.",
-   "context": "This card explains the humming test, where your hum got louder with your ears shut."
+   "context": "This card explains the humming test, where your hum got louder with your ears shut.",
+   "one_view": "\"Hearing through your bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Animals that hear what we can't",
@@ -239,7 +246,8 @@
    ],
    "perspectives": [],
    "art": "A night scene: a bat calling, a moth diving away, a cat with ears turned, and in the distance an elephant herd with long slow waves between them.",
-   "context": "This card is about animals whose hearing goes beyond ours, and how it helps them live."
+   "context": "This card is about animals whose hearing goes beyond ours, and how it helps them live.",
+   "one_view": "\"Animals that hear what we can't\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What does a bat hear when the echoes come back?",
@@ -250,7 +258,16 @@
     "A bat catches a moth in the dark in less than a second.",
     "Some blind people find a doorway by clicking and listening to the echo."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Donald Griffin (1938) and bat researchers",
+     "explanation": "Showed that bats make high sounds and use the echoes to find things, and can measure what their brains do."
+    },
+    {
+     "who": "Philosopher Thomas Nagel",
+     "explanation": "Said we can know a bat's body and brain, but we can never know what it is like to be a bat."
+    }
+   ],
    "art": "A bat in the dark with a question mark made of curved sound lines beside them, and a moth ahead.",
    "context": "This card is about a question nobody can answer yet: what is hearing like for another creature?"
   }
@@ -3053,14 +3070,20 @@
     "source": "Kena Upanishad 1.2",
     "teaching": "The teacher says there is something that is the ear of the ear and the mind of the mind. It is what hears through the ear.",
     "link": "The ear passes on vibrations, and the hair cells send signals. Yet science has not found what it is in you that does the hearing. The Upanishad asks about that listener.",
-    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse": [
+     "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं",
+     "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, a Buddhist text from the Pali Canon: the blind men and the elephant",
     "teaching": "Some blind men each touch one part of an elephant. One feels the ear and says an elephant is like a winnowing basket. One feels the leg and says it is like a pillar. Each is sure he alone is right.",
     "link": "A person, a bat and an elephant each hear one band of the sounds in the same forest. Each band is real, and none is the whole.",
-    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {

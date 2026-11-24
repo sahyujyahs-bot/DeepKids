@@ -77,7 +77,8 @@
     "The mist from a spray bottle is a little like a cloud, but its drops are bigger."
    ],
    "perspectives": [],
-   "art": "A girl walking on a misty hill road in Munnar, with tiny shining drops on her hair and a tea garden fading into the cloud behind her."
+   "art": "A girl walking on a misty hill road in Munnar, with tiny shining drops on her hair and a tea garden fading into the cloud behind her.",
+   "one_view": "\"A cloud is a crowd of tiny drops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Tiny drops float, big drops fall",
@@ -91,7 +92,8 @@
     "Dust floats in a sunbeam for the same reason: each speck is tiny and light."
    ],
    "perspectives": [],
-   "art": "Two drops side by side: a big drop with a long arrow pointing down, and a tiny drop with a very short arrow and a curly arrow of rising air lifting it."
+   "art": "Two drops side by side: a big drop with a long arrow pointing down, and a tiny drop with a very short arrow and a curly arrow of rising air lifting it.",
+   "one_view": "\"Tiny drops float, big drops fall\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Rain falls when tiny drops join",
@@ -104,7 +106,16 @@
     "On a window in the rain, a big drop races down and swallows the small drops in its way.",
     "Tall monsoon clouds have ice at the top, even on a hot day."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Warm-rain view",
+     "explanation": "In warm clouds, tiny drops bump into bigger ones and join until they are heavy enough to fall."
+    },
+    {
+     "who": "Ice-crystal view (Bergeron, 1930s)",
+     "explanation": "In cold clouds, ice crystals grow at the cost of water drops until they fall and melt as rain. Both ways happen, in different clouds."
+    }
+   ],
    "art": "Inside a cloud: tiny drops bumping and joining into bigger and bigger drops, and the biggest one falling out of the bottom of the cloud as rain."
   },
   {
@@ -118,7 +129,16 @@
     "Monsoon winds carry damp air from the sea over Kerala and the Western Ghats.",
     "Rain that falls in Chennai may have evaporated from the Bay of Bengal a few days before."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vedic stories",
+     "explanation": "Say the god Indra struck the demon Vritra, and set the waters free."
+    },
+    {
+     "who": "Science",
+     "explanation": "Says the Sun's heat lifts water from seas, rivers and plants into the air, and clouds make it fall again as rain."
+    }
+   ],
    "art": "A simple loop: the sun warming the sea, wavy invisible lines rising, a cloud forming high up over hills, and rain falling into a river that flows back to the sea."
   },
   {
@@ -133,7 +153,8 @@
     "The top of a tall storm cloud, lit by the Sun, can look bright white while its bottom is dark."
    ],
    "perspectives": [],
-   "art": "Two clouds: a thin white one with lots of sunlight passing through, and a tall thick one with a bright white top and a dark grey bottom, raining."
+   "art": "Two clouds: a thin white one with lots of sunlight passing through, and a tall thick one with a bright white top and a dark grey bottom, raining.",
+   "one_view": "\"Why rain clouds look grey\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2064,7 +2085,10 @@
     "source": "Tirukkural, chapter 2, 'The Excellence of Rain', couplet 20",
     "teaching": "Thiruvalluvar, a Tamil poet and thinker, wrote that the world cannot go on without water, and that water comes from rain.",
     "link": "Every river and tap is filled, in the end, by rain. And rain only comes when tiny cloud drops join, as they did on the plate in the Spray Plate experiment.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2076,7 +2100,12 @@
     "source": "Kalidasa, Meghaduta (The Cloud Messenger), about the 5th century",
     "teaching": "In a Sanskrit poem by Kalidasa, a yaksha, a kind of spirit in old Indian stories, far from home asks a monsoon cloud to carry a message of love to his wife. He talks to the cloud as someone who can travel, listen and help.",
     "link": "Kalidasa watched the monsoon clouds travel north across India. In his poem, a cloud is a someone, not a something.",
-    "verse": ["धूमज्योतिःसलिलमरुतां संनिपातः क्व मेघः", "सन्देशार्थाः क्व पटुकरणैः प्राणिभिः प्रापणीयाः ।", "इत्यौत्सुक्यादपरिगणयन् गुह्यकस्तं ययाचे", "कामार्ता हि प्रकृतिकृपणाश्चेतनाचेतनेषु"],
+    "verse": [
+     "धूमज्योतिःसलिलमरुतां संनिपातः क्व मेघः",
+     "सन्देशार्थाः क्व पटुकरणैः प्राणिभिः प्रापणीयाः ।",
+     "इत्यौत्सुक्यादपरिगणयन् गुह्यकस्तं ययाचे",
+     "कामार्ता हि प्रकृतिकृपणाश्चेतनाचेतनेषु"
+    ],
     "verse_lang": "sa"
    }
   ],

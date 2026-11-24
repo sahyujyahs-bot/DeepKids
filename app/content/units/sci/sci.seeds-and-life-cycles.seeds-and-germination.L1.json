@@ -65,7 +65,8 @@
     "A mango stone has the mango tree's seed inside."
    ],
    "perspectives": [],
-   "art": "A big drawing of a chana seed opened up, with the seed coat, a tiny baby plant at one edge, and the two big halves full of food."
+   "art": "A big drawing of a chana seed opened up, with the seed coat, a tiny baby plant at one edge, and the two big halves full of food.",
+   "one_view": "\"A seed is a tiny living plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The root comes out first",
@@ -78,7 +79,16 @@
     "Moong sprouts in the kitchen have a white tail. That tail is the root.",
     "A young peepal plant growing out of a wall crack sends roots deep into the crack."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Charles Darwin (1880)",
+     "explanation": "Watched root tips and said the tip works like the brain of a lower animal, steering the root."
+    },
+    {
+     "who": "Plant scientists today",
+     "explanation": "Found tiny heavy grains in the root tip that settle and sense which way is down. Some say a plant has a kind of intelligence, and some call it automatic."
+    }
+   ],
    "art": "Four chana seeds in a row on a plate, from left to right: a fat seed, a seed with a short root, a seed with a long root, and a seed with a long root and a curled shoot."
   },
   {
@@ -93,7 +103,8 @@
     "A mango stone grows into a mango tree, never a coconut palm."
    ],
    "perspectives": [],
-   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a mango stone and a mango tree."
+   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a mango stone and a mango tree.",
+   "one_view": "\"A seed grows into the same kind of plant as the plant that made the seed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1978,14 +1989,20 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan fruit, and then one of its tiny seeds. Shvetaketu says he sees nothing inside. Uddalaka says the great banyan tree grows from that very fine thing which he cannot see.",
     "link": "In Peek Under the Soil, the chana showed nothing on top for days, yet a whole root was growing. A big plant starts from something too small, or too hidden, to see.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A journey of a thousand miles begins with one step.",
     "link": "Every big tree began as one small seed growing one small root. The teaching says that every big thing begins with something very small. A big tree is a small seed that kept growing.",
-    "verse": ["合抱之木，生於毫末。", "千里之行，始於足下。"],
+    "verse": [
+     "合抱之木，生於毫末。",
+     "千里之行，始於足下。"
+    ],
     "verse_lang": "zh"
    }
   ],
