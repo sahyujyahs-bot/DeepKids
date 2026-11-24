@@ -81,9 +81,17 @@
     "On a hot day in Chennai, you sweat and need more water.",
     "After a long game of kho-kho, you feel hungry."
    ],
-   "perspectives": [],
-   "art": "Three clocks side by side: a breath every few seconds, a tumbler of water a few times a day, a plate of food at breakfast, lunch and dinner.",
-   "one_view": "\"We need air, water and food again and again\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Teaches three pillars of life: food (ahara), sleep (nidra) and moderation (brahmacharya). Sleep counts as a need as strong as food."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Tardigrades, tiny animals, can dry out and live for years with almost no water, until rain comes. So the need for water can be paused, though not forever."
+    }
+   ],
+   "art": "Three clocks side by side: a breath every few seconds, a tumbler of water a few times a day, a plate of food at breakfast, lunch and dinner."
   },
   {
    "concept": "Clothes and a home keep us safe",
@@ -96,9 +104,17 @@
     "In Shillong in winter, people wear woollen shawls and caps.",
     "Houses in rainy Kerala often have sloping roofs, so rain runs off."
    ],
-   "perspectives": [],
-   "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window.",
-   "one_view": "\"Clothes and a home keep us safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "People of different lands",
+     "explanation": "The Inuit made fur parkas for deep cold, while people of hot India wore thin cotton. What 'enough' covering means depends on the climate."
+    },
+    {
+     "who": "Other animals",
+     "explanation": "Birds weave nests, hermit crabs borrow shells, and bees build wax homes. Many animals make or find shelter."
+    }
+   ],
+   "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window."
   },
   {
    "concept": "A wall makes calm air behind it",
@@ -111,9 +127,17 @@
     "Farmers plant rows of trees along the edge of a field to slow the wind. These rows are called windbreaks.",
     "A pigeon sits beside a water tank, on the side away from the wind."
    ],
-   "perspectives": [],
-   "art": "A box seen from above, with arrows of wind from a fan curving around both sides of the box, and a still tissue flag inside the open side away from the fan.",
-   "one_view": "\"A wall makes calm air behind it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Stand behind a wall and the wind feels gentle. It seems that the wall stops the air."
+    },
+    {
+     "who": "Engineers who test buildings",
+     "explanation": "Wind tunnel tests show that air swirls into eddies behind a building. Some spots are calm and others have gusts. A windbreak made of trees works better than a solid wall because it slows the air without making swirls."
+    }
+   ],
+   "art": "A box seen from above, with arrows of wind from a fan curving around both sides of the box, and a still tissue flag inside the open side away from the fan."
   },
   {
    "concept": "Other living beings have needs too",
@@ -126,9 +150,17 @@
     "A crow chooses a shady branch at noon in summer.",
     "Ants carry their young to a drier place when their nest gets wet."
    ],
-   "perspectives": [],
-   "art": "A balcony with a crow drinking from a steel bowl, a line of ants carrying crumbs, a pigeon on a ledge and a tulsi plant in a pot.",
-   "one_view": "\"Other living beings have needs too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The Jain tradition",
+     "explanation": "Teaches that every being with life (jiva) wants to live, from humans to plants, which have one sense. This is the reason for ahimsa, doing no harm."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find that all life needs energy, water and a way to take in materials. Some microbes near deep-sea vents need no sunlight and no oxygen. So needs are shared, yet differ in detail."
+    }
+   ],
+   "art": "A balcony with a crow drinking from a steel bowl, a line of ants carrying crumbs, a pigeon on a ledge and a tulsi plant in a pot."
   }
  ],
  "agreed": [

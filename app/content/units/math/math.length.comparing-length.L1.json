@@ -147,7 +147,16 @@
     "A teaspoon is shorter than a ladle. Both sentences say the same thing.",
     "Two idli plates from one stand are the same length across."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Lay two sticks from the same line. The one that reaches further is longer. At walking speeds this is always true."
+    },
+    {
+     "who": "Albert Einstein's physics",
+     "explanation": "Length depends a little on how fast the thing moves compared with the observer. At near light speed a moving stick measures shorter. We never notice this on Earth."
+    }
+   ],
    "art": "A teaspoon and a long ladle lying with their handles' ends against the edge of a steel plate.",
    "chart": {
     "type": "strip",
@@ -168,8 +177,7 @@
       "width": 60
      }
     ]
-   },
-   "one_view": "\"Longer, shorter, the same length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "The start-line rule",
@@ -182,7 +190,16 @@
     "Stand back to back with a friend on the same floor. The floor is the start line, and you look at the tops of your heads.",
     "If one child stands on a step, the heads cannot be compared fairly."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Builders of the Indus Valley",
+     "explanation": "Lothal and Mohenjo-daro had scales with fine marked lines cut into ivory and shell. Their bricks were made to one set of lengths, so walls could line up."
+    },
+    {
+     "who": "Ancient Egyptian builders",
+     "explanation": "They used a royal cubit rod, a set length measured from the elbow to the fingertip. The same rod was carried from site to site so everyone shared one start line."
+    }
+   ],
    "art": "Two children standing back to back on a flat floor while a third child holds a flat book across the tops of their heads.",
    "chart": {
     "type": "strip",
@@ -199,8 +216,7 @@
      }
     ],
     "title": "Both start at the same line"
-   },
-   "one_view": "\"The start-line rule\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Moving a thing does not change its length",
@@ -212,7 +228,16 @@
     "A pencil is the same length in your bag, on the table and in your hand.",
     "A soft thing is different. A rubber band gets longer when you pull it, and goes back when you let go."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Piaget found that children under about six often think a stick that is pushed forward has become longer. Understanding that moving does not change length is a step in thinking."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "On a hot day a metal bar grows a tiny bit longer, and a very fast bar measures a tiny bit shorter. Moving does not change length for everyday sticks. Heat and extreme speed can."
+    }
+   ],
    "art": "Two equal straws drawn twice: once with their ends level, and once with one straw pushed forward so it sticks out at one end and falls behind at the other.",
    "chart": {
     "type": "strip",
@@ -229,8 +254,7 @@
      }
     ],
     "title": "The two straws, lined up again"
-   },
-   "one_view": "\"Moving a thing does not change its length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "A bend hides length",
@@ -243,7 +267,16 @@
     "A snake curled up and the same snake stretched out are the same length.",
     "Noodles in a bowl are much longer than the bowl."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Surveyors and tailors",
+     "explanation": "They straighten the rope or tape to read a length. The straight length is the one you can compare."
+    },
+    {
+     "who": "Lewis Fry Richardson and Benoit Mandelbrot",
+     "explanation": "They noticed that a coastline measured with a short ruler comes out longer than with a long one, because small bends keep appearing. For crinkly things, how long depends on the size of your ruler."
+    }
+   ],
    "art": "A piece of red wool lying in loops beside a pencil, and below it the same wool pulled straight and reaching well past the pencil.",
    "chart": {
     "type": "strip",
@@ -260,8 +293,7 @@
      }
     ],
     "title": "After the string is pulled straight"
-   },
-   "one_view": "\"A bend hides length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Tall, long and high",
@@ -274,7 +306,16 @@
     "A baby lying down is measured for length. A child standing up is measured for height.",
     "In Hindi the word lamba is used for a long rope and also for a tall person."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "English speakers",
+     "explanation": "Use separate words: a tall tree, a long rope, a high shelf. Tall and high go up, and long goes any way."
+    },
+    {
+     "who": "Hindi speakers",
+     "explanation": "Often use one word, lamba, for both a long road and a tall person. The same measure is named differently, so our words do not cut the world in exactly the same places."
+    }
+   ],
    "art": "The same pencil drawn twice, once standing in a lump of dough with the word tall, and once lying flat with the word long.",
    "chart": {
     "type": "strip",
@@ -291,8 +332,7 @@
      }
     ],
     "title": "One pencil, standing up and lying down"
-   },
-   "one_view": "\"Tall, long and high\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Shortest to longest: putting things in order",
@@ -305,7 +345,16 @@
     "A family can stand in order from shortest to tallest for a photograph.",
     "If Meena is taller than Ravi, and Ravi is taller than Anu, then Meena is the tallest and Anu is the shortest."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Young children often compare only neighbours and get stuck. Putting a whole row in order, called seriation, is a skill that grows with age."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "If A is shorter than B and B is shorter than C, then A is shorter than C. This rule, called transitivity, lets us put any number of things in order without comparing every pair."
+    }
+   ],
    "art": "Five kitchen things, from a teaspoon to a long dosa turner, lined up against the edge of a table in a rising staircase.",
    "chart": {
     "type": "strip",
@@ -337,8 +386,7 @@
      }
     ],
     "title": "A staircase, shortest to longest"
-   },
-   "one_view": "\"Shortest to longest: putting things in order\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Long compared with what?",
@@ -394,7 +442,16 @@
     "A flower seller measures a string of jasmine along her arm. Her arm carries the length from one buyer to the next.",
     "A tailor lays an old blouse on new cloth to carry its length across."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Egyptian rope-stretchers",
+     "explanation": "Surveyors called harpedonaptai used knotted ropes to mark lines and right angles for building. A rope carried a length from place to place."
+    },
+    {
+     "who": "Builders in the Vedic Indian tradition",
+     "explanation": "The Shulba Sutras, old manuals for building altars, explain how to use cords (rajju) to make squares and circles of exact size. The cord was the measuring tool."
+    }
+   ],
    "art": "A child holding a piece of wool across a doorway, with a table in the next room and a dotted line showing where the wool was cut to match the table.",
    "chart": {
     "type": "strip",
@@ -416,8 +473,7 @@
      }
     ],
     "title": "The string matches the table"
-   },
-   "one_view": "\"A string can carry a length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Your eyes can be fooled",

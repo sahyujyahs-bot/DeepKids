@@ -120,8 +120,16 @@
     "Sea water is about 2.5, which is tighter than the 1 to 1.5 inside most leaf cells."
    ],
    "art": "Three jars: plain water, a soil grain with a thin water film, and salty water. Each has a small hand gripping the water, with the grip drawn tighter from left to right.",
-   "perspectives": [],
-   "one_view": "\"Water has a grip: some water is held tightly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Farmers",
+     "explanation": "Judge soil by feel: wet soil is good and dry soil is bad."
+    },
+    {
+     "who": "Soil physicists",
+     "explanation": "Say soil that looks wet may hold its water so tightly that roots cannot get it. Clay holds on harder than sand, so a plant can wilt in damp clay."
+    }
+   ]
   },
   {
    "concept": "Osmosis: water crosses a thin skin toward the tighter grip",
@@ -134,8 +142,16 @@
     "A dry moong seed swells in water because its cells hold water tightly and pull it in."
    ],
    "art": "Two cells in cross-section. In one, blue arrows cross the thin skin into a plump full cell. In the other, arrows leave a shrunken cell that has pulled away from its wall.",
-   "perspectives": [],
-   "one_view": "\"Osmosis: water crosses a thin skin toward the tighter grip\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Jean-Antoine Nollet and Henri Dutrochet",
+     "explanation": "In 1748 Nollet saw water pass through a pig's bladder skin. In 1826 Dutrochet named the process osmosis and tied it to plants."
+    },
+    {
+     "who": "Jacobus van 't Hoff",
+     "explanation": "In 1887 showed that the push of osmosis follows the same rules as the pressure of a gas. He received the first Nobel Prize in Chemistry in 1901."
+    }
+   ]
   },
   {
    "concept": "How a root takes water in",
@@ -148,8 +164,16 @@
     "Pulling a plant out of the ground leaves her root hairs behind in the soil. That is why a transplanted seedling needs shade and extra water for a few days."
    ],
    "art": "A magnified young root with a fuzz of root hairs reaching between soil grains, and a cut-away showing blue water crossing the root cells into a central tube.",
-   "perspectives": [],
-   "one_view": "\"How a root takes water in\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Stephen Hales",
+     "explanation": "In 1727 he measured the sap pressure from a cut vine and thought that roots push water upward."
+    },
+    {
+     "who": "Henry Dixon and John Joly",
+     "explanation": "In 1894 they explained that water is pulled up from the leaves as it evaporates, in a chain held by sticking together. Today most scientists say the pull, not the push, does most of the work."
+    }
+   ]
   },
   {
    "concept": "Fungus helpers: reaching water a root cannot reach",
@@ -161,8 +185,20 @@
     "Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil."
    ],
    "art": "A plant root wrapped in fine white fungal threads that spread out into soil, with blue drops travelling in along the threads and golden dots travelling out.",
-   "perspectives": [],
-   "one_view": "\"Fungus helpers: reaching water a root cannot reach\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Suzanne Simard and others",
+     "explanation": "Found that trees may share sugars and signals through fungal threads in a forest, like a network. They suggest it is cooperation."
+    },
+    {
+     "who": "Toby Kiers and colleagues",
+     "explanation": "Showed in 2011 that plants give more sugar to fungi that give them more phosphorus, and fungi give more to the best-paying roots. They see a trade with rewards."
+    },
+    {
+     "who": "Careful critics",
+     "explanation": "In 2023 a review argued that some claims about a wood wide web are not yet proved. The fungi's role is real, but how much it moves between trees is still being argued."
+    }
+   ]
   },
   {
    "concept": "The slope from soil to sky",
@@ -219,8 +255,16 @@
     "When a cut leaf wilts quickly, its guard cells have lost water and the holes have closed."
    ],
    "art": "Two pictures of a stoma. In the first, two plump bean-shaped guard cells have bent apart to leave a round hole. In the second, two flat guard cells are pressed together with no gap.",
-   "perspectives": [],
-   "one_view": "\"Guard cells: how the holes in a leaf open and shut\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Plant-signal researchers",
+     "explanation": "Find that guard cells weigh light, carbon dioxide, water and a hormone from the roots, and then open or close. They call it plants sensing and deciding."
+    },
+    {
+     "who": "Scientists who prefer 'automatic response'",
+     "explanation": "Say it is a chemical chain in the cell that needs no choice. J. C. Bose, in the early 1900s, built instruments that showed plants responding, and the argument still goes on."
+    }
+   ]
   },
   {
    "concept": "Why salt makes plants thirsty",
@@ -233,8 +277,16 @@
     "A white crust on the soil of a dry field is salt left behind after water evaporated."
    ],
    "art": "A flooded paddy field after a storm with seedlings drooping, a white salt crust on the bund, and an arrow showing water leaving a root hair into the salty mud.",
-   "perspectives": [],
-   "one_view": "\"Why salt makes plants thirsty\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Osmotic view",
+     "explanation": "Salty water has a tighter grip than the root cells, so it pulls water back out."
+    },
+    {
+     "who": "Salt-stress researchers",
+     "explanation": "Say that, after hours or days, the salt itself also harms the plant, as it builds up in leaves. The water problem comes first and the poison comes later."
+    }
+   ]
   },
   {
    "concept": "Mangroves and other plants that can live with salt",
@@ -247,8 +299,16 @@
     "A coconut palm grows on a beach where most other trees cannot."
    ],
    "art": "A mangrove tree with arched stilt roots standing in sea water, with a drawing of a root tip where only water drops pass through and salt grains are turned away.",
-   "perspectives": [],
-   "one_view": "\"Mangroves and other plants that can live with salt\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Grey mangrove (Avicennia)",
+     "explanation": "Takes salt in and pushes it out through salt glands on its leaves, so salt crystals can be seen on them."
+    },
+    {
+     "who": "Red mangrove (Rhizophora)",
+     "explanation": "Keeps most of the salt out at the root, as a filter. Two kinds of mangrove, two answers to the same problem."
+    }
+   ]
   },
   {
    "concept": "A second set of tubes: sugar travels in the phloem",

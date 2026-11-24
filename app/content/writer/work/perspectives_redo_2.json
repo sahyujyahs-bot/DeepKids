@@ -1,0 +1,1952 @@
+{
+ "sci.light.transparent-opaque.L2": {
+  "Each layer stops some of the light": {
+   "perspectives": [
+    {
+     "who": "Pierre Bouguer and Johann Lambert",
+     "explanation": "In the 1700s they found that each layer of the same thickness takes away the same share of the light. Many thin layers take away more and more."
+    },
+    {
+     "who": "Physicists today",
+     "explanation": "Say a layer can also scatter light, sending it in all directions, and not just soak it up. Paper and frosted glass are translucent mostly because they scatter."
+    }
+   ]
+  },
+  "Hidden is not the same as dark": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that scattering mixes up the directions of the light, so it still arrives but the picture is lost. Light can pass and the image can vanish."
+    },
+    {
+     "who": "Shadow-puppet makers of Andhra",
+     "explanation": "The artists of tholu bommalata cut and colour thin leather until it is translucent. Lamplight comes through as glowing colour, while the shape stays sharp."
+    }
+   ]
+  }
+ },
+ "sci.magnets.magnets-and-materials.L5": {
+  "A magnet and a magnetic material are different things": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A magnet attracts steel and ignores wood, so materials are magnetic or not."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "In 1845 he showed that all materials react to a strong magnet, though most do so very weakly. Some are pushed away a little, which is called diamagnetism."
+    }
+   ]
+  },
+  "An alloy is a mixture of metals": {
+   "perspectives": [
+    {
+     "who": "Indian metalworkers",
+     "explanation": "Made wootz, a steel with carbon mixed into iron in clay crucibles, from about 2,000 years ago. Swords made from it were prized across Asia and Europe."
+    },
+    {
+     "who": "Modern metallurgists",
+     "explanation": "Find that some alloys are not a loose mixture but have a fixed pattern of atoms, like a compound. Both mixing and compounds are found in alloys."
+    }
+   ]
+  },
+  "Indian coins are made of four different alloys": {
+   "perspectives": [
+    {
+     "who": "Rulers of old",
+     "explanation": "Wanted coins to be worth their metal, so Sher Shah Suri's rupee of 1540 was made of silver. The value was in the metal itself."
+    },
+    {
+     "who": "Today's mints",
+     "explanation": "Make coins from cheap alloys because the value is set by law, not by the metal. They choose alloys that wear slowly and are hard to copy."
+    }
+   ]
+  },
+  "The list of metals in an alloy does not tell you whether it is magnetic": {
+   "perspectives": [
+    {
+     "who": "Fritz Heusler",
+     "explanation": "In 1903 he made an alloy of copper, manganese and aluminium that is magnetic, though none of the three metals is magnetic alone. These are now called Heusler alloys."
+    },
+    {
+     "who": "Steel makers",
+     "explanation": "Know that stainless steels with nickel and chromium may be non-magnetic even though iron is the main metal, because nickel changes the pattern of the atoms."
+    }
+   ]
+  },
+  "No clue you can see tells you whether a metal is magnetic": {
+   "perspectives": [
+    {
+     "who": "Thales, as told by Aristotle",
+     "explanation": "Said that the lodestone has a soul because it moves iron. He judged by what he saw, and looked for a cause in life."
+    },
+    {
+     "who": "William Gilbert",
+     "explanation": "In 1600 he tested many materials with lodestones, wrote down the results and argued that you must test to find out. His book De Magnete began the study of magnetism."
+    }
+   ]
+  },
+  "A fair test of metals": {
+   "perspectives": [
+    {
+     "who": "Ibn al-Haytham",
+     "explanation": "In the 1000s he wrote that a careful scientist tests ideas under controlled conditions, and repeats them, before believing them."
+    },
+    {
+     "who": "Francis Bacon",
+     "explanation": "In the early 1600s he argued for experiments that change one thing at a time, written down and shared. Both ideas shaped how scientists work now."
+    }
+   ]
+  },
+  "What a magnet test can and cannot tell you": {
+   "perspectives": [
+    {
+     "who": "Karl Popper",
+     "explanation": "Wrote that a test can show that an idea fails, but never prove it forever. A 'no' from a magnet only says 'not found here'."
+    },
+    {
+     "who": "Physicists with sensitive instruments",
+     "explanation": "Use devices called SQUID magnetometers, which sense magnetism millions of times weaker than a hand magnet can. Many things that a magnet ignores still have a faint magnetism."
+    }
+   ]
+  },
+  "Choosing an alloy for the job: bone pins and scanners": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Pick magnetic alloys for motors and non-magnetic ones for tools used near an MRI scanner, whose magnet is strong enough to pull steel into it."
+    },
+    {
+     "who": "Magnet-sensing animals",
+     "explanation": "Some bacteria, bees and birds have tiny crystals of magnetite in their bodies, an iron mineral, and use them to sense the Earth's magnetism. Living things choose magnetic materials too."
+    }
+   ]
+  },
+  "The same carbon atoms give two answers to a magnet": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Magnets only pull. Anything that is not pulled is simply not magnetic."
+    },
+    {
+     "who": "Michael Berry and Andre Geim",
+     "explanation": "In 1997 they made a living frog float in the air with a very strong magnet. Water in the frog is slightly pushed away by magnets, so a strong enough field can balance its weight."
+    }
+   ]
+  }
+ },
+ "sci.magnets.poles.L3": {
+  "Every magnet has two poles": {
+   "perspectives": [
+    {
+     "who": "William Gilbert",
+     "explanation": "In 1600 he named the north and south poles and showed that you can never get one pole alone. Every magnet has both."
+    },
+    {
+     "who": "Paul Dirac",
+     "explanation": "In 1931 he showed that physics would allow a single pole, a magnetic monopole. Scientists have searched for one for ninety years and have not found one."
+    }
+   ]
+  },
+  "Unlike poles attract, like poles repel": {
+   "perspectives": [
+    {
+     "who": "Lucretius",
+     "explanation": "This Roman poet, following the Greek atomists, said that a lodestone sends out a stream of atoms that pushes air away and draws iron in."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "Said in the 1830s that magnets fill the space around them with lines of force, a field, and the pull is the field at work. This is the picture we use now."
+    }
+   ]
+  },
+  "A magnet that is free to turn ends up attracting": {
+   "perspectives": [
+    {
+     "who": "Compass makers",
+     "explanation": "Learned that a needle swings until it points north. Chinese records from the Song dynasty, such as the scholar Shen Kuo in 1088, describe floating needle compasses."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a magnet turns until it has the lowest energy, with unlike poles close. The twist on it is called torque."
+    }
+   ]
+  },
+  "Iron is attracted by both poles": {
+   "perspectives": [
+    {
+     "who": "William Gilbert",
+     "explanation": "Thought that a lodestone gives iron a virtue, which then pulls it."
+    },
+    {
+     "who": "Pierre Weiss",
+     "explanation": "In 1907 he explained that iron holds tiny regions called domains, each a small magnet. A magnet lines them up, and then the iron is a magnet for a while."
+    }
+   ]
+  },
+  "Cut a magnet, and you get two magnets": {
+   "perspectives": [
+    {
+     "who": "Andre-Marie Ampere",
+     "explanation": "In the 1820s he said that magnetism comes from tiny loops of electric current inside matter, so every piece must have two poles."
+    },
+    {
+     "who": "Quantum physicists",
+     "explanation": "Say each electron is itself a tiny magnet because of a property called spin. You can keep dividing, down to atoms, and each still has two poles."
+    }
+   ]
+  },
+  "Bendy fridge magnets have many poles": {
+   "perspectives": [
+    {
+     "who": "Magnet makers",
+     "explanation": "Print stripes of north and south in a strip of rubbery magnet so it sticks to a fridge but not to anything else."
+    },
+    {
+     "who": "Klaus Halbach",
+     "explanation": "In 1980 this physicist described arrangements of magnets, now called Halbach arrays, where stripes make the field strong on one face and almost nothing on the other."
+    }
+   ]
+  }
+ },
+ "sci.magnets.poles.L4": {
+  "Field lines: how we draw the field": {
+   "perspectives": [
+    {
+     "who": "Michael Faraday",
+     "explanation": "In the 1830s he pictured lines in the space around a magnet, which he thought were real and pulled like stretched rubber."
+    },
+    {
+     "who": "James Clerk Maxwell",
+     "explanation": "In the 1860s turned Faraday's lines into mathematics. He treated the field as something with a strength and a direction at every point, and the lines as a way to draw it."
+    }
+   ]
+  },
+  "Why a magnet is strongest at its poles": {
+   "perspectives": [
+    {
+     "who": "Bar magnet",
+     "explanation": "Is strongest at its two ends, where the lines crowd together."
+    },
+    {
+     "who": "The Earth",
+     "explanation": "Is also a magnet. Its field is about twice as strong near its poles as at the equator, which is why compasses point steeply downward near the poles."
+    }
+   ]
+  },
+  "How quickly the pull fades with distance": {
+   "perspectives": [
+    {
+     "who": "Charles Coulomb",
+     "explanation": "In 1785 he measured the force between long magnetised needles and found that it falls with the square of the distance, for a single pole."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Find that a whole magnet has two poles that partly cancel, so its field falls faster, with the cube of the distance for a small magnet. The shape of the magnet matters."
+    }
+   ]
+  },
+  "Fields add and cancel": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that fields add like arrows at every point, so two magnets can strengthen or cancel each other."
+    },
+    {
+     "who": "Ship compass makers",
+     "explanation": "In 1838 George Airy placed iron and small magnets near ship compasses so that the ship's own magnetism cancelled out. It is the same adding of fields."
+    }
+   ]
+  },
+  "What blocks a magnetic field and what does not": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Most people think that no wall can stop a magnet, apart from iron."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say that a layer of soft iron, or mu-metal, carries the field through itself and so shields what is inside. Superconductors push magnetic fields out completely, which is called the Meissner effect, found in 1933."
+    }
+   ]
+  }
+ },
+ "sci.materials.properties.L1": {
+  "Properties: words for what a material is like": {
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Describes every substance by twenty pairs of qualities called gunas, such as hard (kathina) and soft (mridu), smooth (shlakshna) and rough (khara). The words are those a hand can feel."
+    },
+    {
+     "who": "Friedrich Mohs",
+     "explanation": "In 1812 this German scientist made a scale of ten minerals, from talc to diamond, so hardness could be a number. A number lets people far apart compare."
+    }
+   ]
+  },
+  "Hard and soft, rough and smooth": {
+   "perspectives": [
+    {
+     "who": "Friedrich Mohs",
+     "explanation": "Ranked hardness by what scratches what. Diamond scratches everything."
+    },
+    {
+     "who": "Engineers",
+     "explanation": "Tell us that hard is not the same as tough. A diamond is very hard yet it can shatter, while soft copper bends without breaking."
+    }
+   ]
+  },
+  "Bendy and stiff: shape matters too": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Make an I-shaped beam stiff by putting material where bending needs most strength, and use less material than a solid bar."
+    },
+    {
+     "who": "Bamboo",
+     "explanation": "Is a hollow tube with solid joints, and it is strong yet light. Builders in North East India raise whole houses with it, and it bends in a storm and does not break."
+    }
+   ]
+  },
+  "Why a smooth thing shines": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a smooth surface sends light back in one direction, so we see a bright shine."
+    },
+    {
+     "who": "Butterfly and peacock researchers",
+     "explanation": "Find that the blue of a Morpho butterfly and the shine of a peacock feather come from tiny layers that bounce light, not from smoothness or from colour. The shimmer changes with the angle."
+    }
+   ]
+  }
+ },
+ "sci.materials.properties.L2": {
+  "One material has many properties": {
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Teaches that every substance (dravya) carries many qualities (gunas) at the same time, and healing depends on knowing them all."
+    },
+    {
+     "who": "Materials scientists",
+     "explanation": "Measure many properties of a material in turn, such as strength, hardness and how it carries heat. Only the full list tells you what it will do."
+    }
+   ]
+  },
+  "Why some materials keep water out": {
+   "perspectives": [
+    {
+     "who": "Wilhelm Barthlott",
+     "explanation": "In the 1990s he studied the lotus leaf, which stays dry, and found it is covered in tiny bumps and wax. Drops sit on the points and roll away."
+    },
+    {
+     "who": "Engineers of Gore-Tex",
+     "explanation": "Make rain jackets with holes smaller than a water drop but bigger than a puff of vapour. Water cannot get in, yet sweat can get out. A waterproof material may have gaps."
+    }
+   ]
+  },
+  "Transparent, translucent and opaque": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that no material is simply one of the three. It depends on how thick it is and on which light you use. Thin gold leaf is see-through, and X-rays pass through the body."
+    },
+    {
+     "who": "Bees",
+     "explanation": "See ultraviolet light, which we cannot. A flower that looks plain to us shows patterns to a bee, so what seems opaque or plain depends on the eyes."
+    }
+   ]
+  },
+  "Strong and stretchy are different properties": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Treat strength, stiffness and toughness as separate properties, and choose among them for each job."
+    },
+    {
+     "who": "Spider silk researchers",
+     "explanation": "Find that spider silk is both very strong and very stretchy, a rare mix. Spiders make it from protein at room temperature."
+    }
+   ]
+  }
+ },
+ "sci.materials.sorting-materials.L1": {
+  "Sorting means putting alike things together": {
+   "perspectives": [
+    {
+     "who": "Dmitri Mendeleev",
+     "explanation": "In 1869 he sorted the chemical elements by their weight and behaviour, which led to the periodic table. A good sorting showed new things to find."
+    },
+    {
+     "who": "Indian philosophers",
+     "explanation": "The Vaisheshika and Samkhya schools sorted matter into the five great elements: earth, water, fire, air and space. Another way to sort, based on how things feel and act."
+    }
+   ]
+  },
+  "A question makes the groups": {
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Use yes or no questions in a key to name a plant or rock, one step at a time."
+    },
+    {
+     "who": "Slime and putty",
+     "explanation": "Do not fit the questions well. A mix of cornflour and water acts like a solid when squeezed and a liquid when poured, and so it sits in two groups."
+    }
+   ]
+  },
+  "A test settles a tricky thing": {
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Use tests to decide which group a tricky thing belongs to."
+    },
+    {
+     "who": "The Jain tradition of Anekantavada",
+     "explanation": "Teaches that a thing has many sides, and a statement may be true from one standpoint and not another. A thing can be rightly in two groups, depending on the question you ask."
+    }
+   ]
+  },
+  "Why the steel katori floats and the steel spoon sinks": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Said that the water pushes up with a force equal to the weight of water that the thing pushes aside. A bowl pushes aside a lot of water, so it floats."
+    },
+    {
+     "who": "Surface tension researchers",
+     "explanation": "Point out that a small steel needle can float even though steel is denser than water. The skin of the water holds it up, a different reason."
+    }
+   ]
+  }
+ },
+ "sci.materials.what-is-it-made-of.L1": {
+  "How to tell what a thing is made of": {
+   "perspectives": [
+    {
+     "who": "Our senses",
+     "explanation": "We judge a material by sight, touch, sound and weight."
+    },
+    {
+     "who": "Spectroscopists",
+     "explanation": "Use the light a thing gives out or takes in to tell what it is made of, even for a star we cannot touch. Every element has its own pattern of colours."
+    }
+   ]
+  },
+  "One material makes many things, and one thing can have many materials": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A pencil is wood with a graphite core. Steel makes spoons and bridges."
+    },
+    {
+     "who": "Materials scientists",
+     "explanation": "Say what we call one material is layers inside layers. Wood is a tangle of cellulose fibres, and graphite is sheets of carbon atoms. A material looks different at each scale."
+    }
+   ]
+  },
+  "Where materials come from": {
+   "perspectives": [
+    {
+     "who": "Indian philosophy",
+     "explanation": "Taught that all things are made of five great elements, earth, water, fire, air and space, mixed in different ways."
+    },
+    {
+     "who": "Astrophysicists",
+     "explanation": "Show that the atoms of carbon, oxygen and iron in everything were made inside stars that died long ago. Our materials come from nature, and nature's atoms come from the stars."
+    }
+   ]
+  }
+ },
+ "sci.motion.kinds-of-motion.L1": {
+  "Rolling goes further than sliding": {
+   "perspectives": [
+    {
+     "who": "Egyptian builders",
+     "explanation": "A wall painting from about 1900 BCE shows a man pouring water on sand in front of a huge statue on a sledge. Modern tests found that wet sand makes sliding much easier."
+    },
+    {
+     "who": "Leonardo da Vinci",
+     "explanation": "Studied friction around 1500 and noticed that rollers and wheels needed much less force than dragging. He wrote and drew machines using rolling parts."
+    }
+   ]
+  },
+  "Bouncing is squashing and springing back": {
+   "perspectives": [
+    {
+     "who": "The ancient Maya and Aztec",
+     "explanation": "Played a ball game with balls of rubber made from the latex of trees, more than 3,000 years ago. Their balls were far bouncier than anything in Europe."
+    },
+    {
+     "who": "Kangaroos",
+     "explanation": "Hop by storing energy in the springy tendons of their legs, as in a bouncing ball. Much of each hop's energy is given back by the squashed tendon."
+    }
+   ]
+  },
+  "Spinning and swinging go round a still point": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A swing's hook or a top's point seems to stay still."
+    },
+    {
+     "who": "Leon Foucault",
+     "explanation": "In 1851 he hung a long pendulum in Paris and showed that its swing slowly turned round. The floor was turning beneath it: the Earth spins, so no pivot is truly still."
+    }
+   ]
+  }
+ },
+ "sci.motion.swings-and-pendulums.L3": {
+  "Why a pendulum swings back and forth": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Is said to have watched a lamp swing in the cathedral of Pisa in the 1580s and timed it with his pulse. He noticed that the time seemed to stay the same."
+    },
+    {
+     "who": "Physicists after Newton",
+     "explanation": "Describe the pull of gravity as a restoring force, which always points back to the middle. The bob overshoots because of its speed, so it swings."
+    }
+   ]
+  },
+  "What changes the swing time: the length": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Found that the length of the string sets the time of a swing, while the weight of the bob does not."
+    },
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1656 built the first pendulum clock. In 1673 he showed that the time is only nearly constant, and that wide swings take slightly longer."
+    }
+   ]
+  },
+  "Why a swing slows down and stops": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say the energy of the swing turns slowly into warmth in the air and at the pivot."
+    },
+    {
+     "who": "Clockmakers",
+     "explanation": "Use an escapement, a part that gives the pendulum a tiny push every swing. It replaces what is lost so the clock keeps going."
+    }
+   ]
+  },
+  "Pushing at the right moment: resonance": {
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1665 he saw two pendulum clocks on one wall swing in step, because tiny shakes in the wall passed from one to the other."
+    },
+    {
+     "who": "Bridge engineers",
+     "explanation": "When London's Millennium Bridge opened in 2000, people's steps made it sway, and the sway made people step in time with it. The bridge had to be fixed with dampers."
+    }
+   ]
+  },
+  "Living things that swing like pendulums": {
+   "perspectives": [
+    {
+     "who": "The Weber brothers",
+     "explanation": "In 1836 two German scientists described a walking leg as a pendulum that swings with little effort."
+    },
+    {
+     "who": "Gibbon researchers",
+     "explanation": "Find that gibbons swing arm over arm through trees like a pendulum, saving energy. Different animals discovered the same swing."
+    }
+   ]
+  }
+ },
+ "sci.motion.swings-and-pendulums.L4": {
+  "The swap: how a swing trades height for speed": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Showed that a ball that swings down rises to nearly the same height. Height seems to be kept."
+    },
+    {
+     "who": "Hermann von Helmholtz",
+     "explanation": "In 1847 stated that energy is never lost, only changed from one form to another. Height energy and motion energy are two forms."
+    }
+   ]
+  },
+  "The peg: the path can change but the height stays": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "In his book Two New Sciences he describes a pendulum catching on a nail. It rises to the same height whichever way it goes."
+    },
+    {
+     "who": "Roller coaster designers",
+     "explanation": "Rely on the same fact. A car rolling down one hill can climb the next hill only up to the height it started at, less what friction takes."
+    }
+   ]
+  },
+  "How long a swing takes: the rule for the period": {
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1673 he proved the rule for the time of a swing, which depends on the length and on gravity."
+    },
+    {
+     "who": "Jean Richer",
+     "explanation": "In 1672 he took a clock from Paris to Cayenne near the equator and found that it ran slow. Gravity is a little weaker there, so the pendulum took longer."
+    }
+   ]
+  },
+  "Why a swing dies down but keeps its beat": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Believed the time of a swing stayed the same however wide it was."
+    },
+    {
+     "who": "Huygens",
+     "explanation": "Found that this is only close to true for small swings. The beat stays the same as the swing dies down only when it is small."
+    }
+   ]
+  },
+  "Pumping a swing: adding energy with your body": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Describe pumping as a way to change the length of the pendulum at the right moments, called parametric pumping, rather than a push."
+    },
+    {
+     "who": "The monks of Santiago de Compostela",
+     "explanation": "Swing a huge incense burner, the botafumeiro, by pulling the rope at the right moments. It travels in a wide arc, high in the church, by this same trick."
+    }
+   ]
+  },
+  "Stiff pendulums: when the whole thing swings": {
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1673 worked out where a stiff pendulum acts as if all its weight sat at one point."
+    },
+    {
+     "who": "Henry Kater",
+     "explanation": "In 1817 used a stiff pendulum with two pivots to measure gravity very exactly. The shape of the pendulum was part of the result."
+    }
+   ]
+  },
+  "Timing many swings gives a better answer": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Used his pulse as a clock to time swings. A body is not exact, but it served."
+    },
+    {
+     "who": "Statisticians",
+     "explanation": "Say that errors of timing go up and down, so many measures averaged give a better answer than any one. Timing many swings spreads the error of start and stop."
+    }
+   ]
+  }
+ },
+ "sci.patterns-symmetry.symmetry-in-nature.L1": {
+  "Nearly, never exactly": {
+   "perspectives": [
+    {
+     "who": "Mathematicians",
+     "explanation": "Think of a shape with perfect mirror symmetry, a thing that nature only comes near."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find tiny differences between the two sides of every living being. Called fluctuating asymmetry, it is bigger when a being has been stressed by heat, hunger or illness. Even our insides are not mirror images, such as the heart."
+    }
+   ]
+  }
+ },
+ "sci.planet-earth.maps-and-directions.L3": {
+  "Finding the directions in your own home": {
+   "perspectives": [
+    {
+     "who": "Vastu Shastra",
+     "explanation": "The old Indian tradition of building lays a house along the four directions, using the Sun's rise to find east."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Say the Sun rises exactly in the east only on two days a year. In summer it rises north of east and in winter south of east, so a home's direction should be checked with a compass."
+    }
+   ]
+  },
+  "Left and right, or north and south?": {
+   "perspectives": [
+    {
+     "who": "Sanskrit",
+     "explanation": "The word dakshina means both south and right. The speaker faces east, so the right hand points south."
+    },
+    {
+     "who": "Guugu Yimithirr speakers",
+     "explanation": "In Australia use compass directions for everything, such as 'a spider by your north foot'. For them, left and right are not in the language at all."
+    }
+   ]
+  },
+  "Symbols, a key and a north arrow": {
+   "perspectives": [
+    {
+     "who": "Al-Idrisi",
+     "explanation": "In 1154 this scholar of Sicily made a world map with south at the top. A map's top is a choice."
+    },
+    {
+     "who": "Ptolemy and the mapmakers after him",
+     "explanation": "Put north at the top, and this became the custom. A north arrow tells the reader which choice was made."
+    }
+   ]
+  },
+  "Scale: keeping distances right": {
+   "perspectives": [
+    {
+     "who": "Gerardus Mercator",
+     "explanation": "In 1569 made a map useful for sailors, but it makes regions near the poles look huge. Greenland looks as big as Africa."
+    },
+    {
+     "who": "Carl Friedrich Gauss",
+     "explanation": "In 1827 proved that a curved surface like the Earth cannot be shown flat without stretching something. Every flat map keeps some things and bends others."
+    }
+   ]
+  }
+ },
+ "sci.plants.water-transport.L4": {
+  "Water has a grip: some water is held tightly": {
+   "perspectives": [
+    {
+     "who": "Farmers",
+     "explanation": "Judge soil by feel: wet soil is good and dry soil is bad."
+    },
+    {
+     "who": "Soil physicists",
+     "explanation": "Say soil that looks wet may hold its water so tightly that roots cannot get it. Clay holds on harder than sand, so a plant can wilt in damp clay."
+    }
+   ]
+  },
+  "Osmosis: water crosses a thin skin toward the tighter grip": {
+   "perspectives": [
+    {
+     "who": "Jean-Antoine Nollet and Henri Dutrochet",
+     "explanation": "In 1748 Nollet saw water pass through a pig's bladder skin. In 1826 Dutrochet named the process osmosis and tied it to plants."
+    },
+    {
+     "who": "Jacobus van 't Hoff",
+     "explanation": "In 1887 showed that the push of osmosis follows the same rules as the pressure of a gas. He received the first Nobel Prize in Chemistry in 1901."
+    }
+   ]
+  },
+  "How a root takes water in": {
+   "perspectives": [
+    {
+     "who": "Stephen Hales",
+     "explanation": "In 1727 he measured the sap pressure from a cut vine and thought that roots push water upward."
+    },
+    {
+     "who": "Henry Dixon and John Joly",
+     "explanation": "In 1894 they explained that water is pulled up from the leaves as it evaporates, in a chain held by sticking together. Today most scientists say the pull, not the push, does most of the work."
+    }
+   ]
+  },
+  "Fungus helpers: reaching water a root cannot reach": {
+   "perspectives": [
+    {
+     "who": "Suzanne Simard and others",
+     "explanation": "Found that trees may share sugars and signals through fungal threads in a forest, like a network. They suggest it is cooperation."
+    },
+    {
+     "who": "Toby Kiers and colleagues",
+     "explanation": "Showed in 2011 that plants give more sugar to fungi that give them more phosphorus, and fungi give more to the best-paying roots. They see a trade with rewards."
+    },
+    {
+     "who": "Careful critics",
+     "explanation": "In 2023 a review argued that some claims about a wood wide web are not yet proved. The fungi's role is real, but how much it moves between trees is still being argued."
+    }
+   ]
+  },
+  "Guard cells: how the holes in a leaf open and shut": {
+   "perspectives": [
+    {
+     "who": "Plant-signal researchers",
+     "explanation": "Find that guard cells weigh light, carbon dioxide, water and a hormone from the roots, and then open or close. They call it plants sensing and deciding."
+    },
+    {
+     "who": "Scientists who prefer 'automatic response'",
+     "explanation": "Say it is a chemical chain in the cell that needs no choice. J. C. Bose, in the early 1900s, built instruments that showed plants responding, and the argument still goes on."
+    }
+   ]
+  },
+  "Why salt makes plants thirsty": {
+   "perspectives": [
+    {
+     "who": "Osmotic view",
+     "explanation": "Salty water has a tighter grip than the root cells, so it pulls water back out."
+    },
+    {
+     "who": "Salt-stress researchers",
+     "explanation": "Say that, after hours or days, the salt itself also harms the plant, as it builds up in leaves. The water problem comes first and the poison comes later."
+    }
+   ]
+  },
+  "Mangroves and other plants that can live with salt": {
+   "perspectives": [
+    {
+     "who": "Grey mangrove (Avicennia)",
+     "explanation": "Takes salt in and pushes it out through salt glands on its leaves, so salt crystals can be seen on them."
+    },
+    {
+     "who": "Red mangrove (Rhizophora)",
+     "explanation": "Keeps most of the salt out at the root, as a filter. Two kinds of mangrove, two answers to the same problem."
+    }
+   ]
+  }
+ },
+ "sci.seeds-and-life-cycles.seeds-and-germination.L1": {
+  "A seed is a tiny living plant": {
+   "perspectives": [
+    {
+     "who": "Botanists",
+     "explanation": "Say that a seed holds a plant embryo and a store of food, asleep until it has water and warmth."
+    },
+    {
+     "who": "Seed-saving farmers of India",
+     "explanation": "In groups such as Navdanya, farmers keep and share old seeds as a living inheritance of their villages. A seed is the memory of generations of care."
+    }
+   ]
+  },
+  "A seed grows into the same kind of plant as the plant that made the seed": {
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "Showed that plants pass on features by rules, so a pea seed grows into a pea."
+    },
+    {
+     "who": "Farmers with hybrid seed",
+     "explanation": "Know that seeds saved from a hybrid crop do not grow true. They give plants unlike the parent, so the same kind of plant is not always the same."
+    }
+   ]
+  }
+ },
+ "sci.sky.stargazing.L1": {
+  "The Moon seems to follow you because it is very far away": {
+   "perspectives": [
+    {
+     "who": "Indian lullabies",
+     "explanation": "Call the Moon chanda mama, uncle Moon, who walks along with the child. It is how the Moon looks and feels."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Explain that near things slide past quickly and far things hardly move, which is parallax. The Moon is about 384,000 kilometres away, so it seems to follow us."
+    }
+   ]
+  },
+  "Stars twinkle, and planets usually shine steadily": {
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Wrote in his Opticks in 1704 that stars twinkle because the air shakes, and said that telescopes should be set on the highest mountains."
+    },
+    {
+     "who": "Modern astronomers",
+     "explanation": "Launch telescopes, like the Hubble, above the air, and also use mirrors that change shape hundreds of times a second, called adaptive optics, to cancel the shaking."
+    }
+   ]
+  }
+ },
+ "sci.sky.sun-moon-stars.L1": {
+  "The stars are in the sky in the daytime too": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Stars come out at night, and they are not there in the day."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Can see the planet Venus in the daytime if they know where to look, and telescopes can show bright stars in daylight. The stars never switch off."
+    }
+   ]
+  },
+  "Why a city sky shows fewer stars": {
+   "perspectives": [
+    {
+     "who": "Astronomers",
+     "explanation": "Rate the darkness of a sky on the Bortle scale, made by John Bortle in 2001. In the darkest sky thousands of stars show, and in a city sky only a few dozen."
+    },
+    {
+     "who": "Dung beetles",
+     "explanation": "Roll their dung balls in straight lines by the light of the Milky Way. Researchers found in 2013 that they lose their way when the sky is too bright. Light pollution affects other living beings."
+    }
+   ]
+  }
+ },
+ "sci.sound.hearing.L3": {
+  "How the ear turns a sound into a signal": {
+   "perspectives": [
+    {
+     "who": "Hermann von Helmholtz",
+     "explanation": "In 1863 he proposed that each part of the cochlea is tuned to one pitch, like the strings of a piano."
+    },
+    {
+     "who": "Georg von Bekesy",
+     "explanation": "In the 1940s and 50s he saw through a microscope that sound makes a wave that travels along the cochlea and peaks at different places for different pitches. He won the Nobel Prize in 1961."
+    }
+   ]
+  },
+  "The quietest sound you can hear": {
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Measure the quietest sound a person can hear, and find that it is near the limit set by the random jiggling of air itself."
+    },
+    {
+     "who": "Barn owl researchers",
+     "explanation": "Found that owls can hear sounds quieter than people can. They hunt mice in darkness by sound, with a face shaped like a dish to gather it."
+    }
+   ]
+  },
+  "Pitch, and the band of sounds people hear": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Count vibrations each second, called hertz, and say people hear about 20 to 20,000 of them."
+    },
+    {
+     "who": "Indian music theory",
+     "explanation": "The old text Natya Shastra divides the octave into 22 steps, called shrutis. Singers and players can tell very small differences in pitch, and keep them as part of raga."
+    }
+   ]
+  },
+  "Why the highest sounds go first as we grow older": {
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Say that the hair cells for the highest pitch sit at the start of the cochlea and take the most wear."
+    },
+    {
+     "who": "Researchers of the Mabaan people",
+     "explanation": "In 1962 a study in Sudan found that elders who lived in a very quiet place kept good hearing into old age. It suggests that much of hearing loss is caused by noise, not age alone."
+    }
+   ]
+  },
+  "Loud sound and hair cells": {
+   "perspectives": [
+    {
+     "who": "Human doctors",
+     "explanation": "Find that broken hair cells in people do not grow back, so hearing loss from noise is permanent."
+    },
+    {
+     "who": "Bird and fish researchers",
+     "explanation": "Showed in the 1980s that birds regrow their hair cells and hear again within weeks. Scientists study them hoping to find a way to heal human ears."
+    }
+   ]
+  },
+  "Keeping your ears safe": {
+   "perspectives": [
+    {
+     "who": "Public health scientists",
+     "explanation": "Advise that sound over about 85 decibels for hours can harm ears, and give limits. Ear plugs, distance and short times protect."
+    },
+    {
+     "who": "Indian traditions of silence",
+     "explanation": "Value mauna, a time of silence, for calm and clear thought. Resting the ears, as well as the voice, is an old practice."
+    }
+   ]
+  },
+  "Hearing through your bones": {
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Use the fact that sound reaches the cochlea through the skull to test hearing, and to make hearing aids that sit on the bone."
+    },
+    {
+     "who": "Evelyn Glennie",
+     "explanation": "This Scottish percussionist has been deaf since childhood and plays by feeling sound through her whole body, with bare feet on the floor. Hearing is wider than the ear."
+    }
+   ]
+  },
+  "Animals that hear what we can't": {
+   "perspectives": [
+    {
+     "who": "Lazzaro Spallanzani and Donald Griffin",
+     "explanation": "Spallanzani in 1793 found that blinded bats could still fly. In 1938 Griffin showed that bats make and hear sounds above our range, called ultrasound."
+    },
+    {
+     "who": "Katy Payne",
+     "explanation": "In 1984 she found that elephants call in sounds below our hearing, called infrasound, which can travel for kilometres across the ground and air."
+    }
+   ]
+  }
+ },
+ "sci.sound.sound-moves.L1": {
+  "A sound spreads out, so it gets softer as it travels": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that the sound spreads over a bigger and bigger area, so each part gets less. It is the same law as for light."
+    },
+    {
+     "who": "Whale researchers",
+     "explanation": "Found that in deep ocean there is a layer where sound is trapped and can travel thousands of kilometres. A whale's call can be heard across an ocean."
+    }
+   ]
+  },
+  "A cone sends more of a sound one way": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Make megaphones, horns and loudspeakers with a cone so that sound goes one way."
+    },
+    {
+     "who": "Cats and bats",
+     "explanation": "Have cone-shaped ears that gather sound from one direction, and can turn them. The animals use the same shape to listen."
+    }
+   ]
+  },
+  "Sound takes a little time to travel": {
+   "perspectives": [
+    {
+     "who": "Marin Mersenne",
+     "explanation": "In 1636 he measured the speed of sound in air by timing echoes. He found it to be about 300 metres in a second."
+    },
+    {
+     "who": "Daniel Colladon and Charles Sturm",
+     "explanation": "In 1826 on Lake Geneva they rang a bell under water and found sound travels about four times faster in water than in air. The speed depends on what the sound goes through."
+    }
+   ]
+  }
+ },
+ "sci.states.crystals.L3": {
+  "Why a crystal has flat faces": {
+   "perspectives": [
+    {
+     "who": "Rene Just Hauy",
+     "explanation": "In 1784 he broke a crystal and saw that the pieces had the same shape, so he guessed that crystals are stacks of tiny identical blocks."
+    },
+    {
+     "who": "Max von Laue",
+     "explanation": "In 1912 he sent X-rays through a crystal and saw a pattern of spots. It proved that the atoms sit in regular rows. Hauy's blocks were a good guess."
+    }
+   ]
+  },
+  "Each substance grows its own shape": {
+   "perspectives": [
+    {
+     "who": "Hauy and early mineralogists",
+     "explanation": "Described each mineral by its crystal shape, such as salt as cubes, and used it to name them."
+    },
+    {
+     "who": "Modern crystallographers",
+     "explanation": "Find that one substance can have more than one shape. Carbon makes soft graphite and hard diamond, and the same chemical can form different crystals in different conditions."
+    }
+   ]
+  },
+  "Slow growth makes bigger crystals": {
+   "perspectives": [
+    {
+     "who": "Naica cave scientists",
+     "explanation": "In a cave in Mexico, crystals of gypsum grew as long as trees, up to 11 metres, over hundreds of thousands of years in warm water. Time makes size."
+    },
+    {
+     "who": "Indian sweet makers",
+     "explanation": "Make mishri, rock sugar, by letting sugar syrup cool slowly on strings so that big crystals form. Faster cooling gives fine powder."
+    }
+   ]
+  },
+  "Not every solid is a crystal": {
+   "perspectives": [
+    {
+     "who": "Classical view",
+     "explanation": "Until the 1980s a solid was thought to be either a crystal with a repeating pattern or a jumble with no pattern."
+    },
+    {
+     "who": "Dan Shechtman",
+     "explanation": "In 1982 he found a metal with a pattern that is ordered but never repeats. Many experts, including Linus Pauling, doubted it. He won the Nobel Prize in 2011."
+    }
+   ]
+  }
+ },
+ "sci.states.dissolving.L3": {
+  "What dissolving is": {
+   "perspectives": [
+    {
+     "who": "The Chandogya Upanishad",
+     "explanation": "A father has his son put salt in water. The next day it cannot be seen, yet every sip tastes salty. The teacher uses it to speak of what is in everything and cannot be seen."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Say the salt breaks into particles too small to see, which spread through the water. The same story, told with a particle picture."
+    }
+   ]
+  },
+  "Some things do not dissolve": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Sand and stones do not dissolve in water, and are insoluble."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that rock dissolves slowly. Limestone caves were carved by rainwater over thousands of years, and quartz dissolves a little in hot springs."
+    }
+   ]
+  },
+  "Water has a limit for each thing": {
+   "perspectives": [
+    {
+     "who": "Standard view",
+     "explanation": "A given amount of water dissolves only so much and then it is full."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Know that you can make a supersaturated solution, which holds more than the limit if it is cooled carefully. A touch makes the extra crystallise at once. Hand warmers use this."
+    }
+   ]
+  },
+  "Full of salt, but not full of sugar": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say each substance has its own limit, so a salt-full solution can still take sugar."
+    },
+    {
+     "who": "Food scientists",
+     "explanation": "Know that a dissolved substance sometimes changes how much of another can dissolve. Salt makes some proteins come out of solution, which is called salting out."
+    }
+   ]
+  },
+  "Warm water and dissolving": {
+   "perspectives": [
+    {
+     "who": "Cooks",
+     "explanation": "Find that sugar and salt dissolve faster and more in hot tea than in cold."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Note that gases dissolve less when warm, which is why a warm drink goes flat, and a few salts, such as calcium sulphate, also dissolve less when warmer."
+    }
+   ]
+  },
+  "A filter catches only what has not dissolved": {
+   "perspectives": [
+    {
+     "who": "Sushruta Samhita",
+     "explanation": "This old Indian medical text advises making water safe by boiling, putting it in the sun, heating a hot iron in it, and filtering it through sand and cloth."
+    },
+    {
+     "who": "Membrane scientists",
+     "explanation": "Make filters with holes so small that they hold back even dissolved salt. Such membranes, used in reverse osmosis, can turn sea water into drinking water."
+    }
+   ]
+  },
+  "Salt and sugar dissolve in different ways": {
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In 1884 his thesis said that salts split into charged particles, ions, in water. His examiners gave it a low mark, but he won the Nobel Prize in 1903."
+    },
+    {
+     "who": "Dmitri Mendeleev",
+     "explanation": "Was among the famous chemists who did not accept the ion idea, and thought dissolving was a chemical bonding with water. It took years of evidence for ions to be accepted."
+    }
+   ]
+  },
+  "Why each thing has its own limit": {
+   "perspectives": [
+    {
+     "who": "Old alchemists",
+     "explanation": "Taught that like dissolves like. Water takes watery things, and oil takes oily things."
+    },
+    {
+     "who": "Josiah Willard Gibbs",
+     "explanation": "In the 1870s he showed that dissolving depends on a balance of energy and disorder, so a thing dissolves when the balance favours it. The old rule is the result of that balance."
+    }
+   ]
+  },
+  "Liquids can dissolve too, or not": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Explain that two liquids mix when their molecules attract each other and the water molecules about equally. Oil and water do not."
+    },
+    {
+     "who": "Cell biologists",
+     "explanation": "Point out that the oil-and-water split is useful. The skin of every cell forms by itself, because oily tails hide from water and make a double layer."
+    }
+   ]
+  }
+ },
+ "sci.states.dissolving.L4": {
+  "Solute and solvent: who dissolves whom": {
+   "perspectives": [
+    {
+     "who": "Alchemists such as Paracelsus and Van Helmont",
+     "explanation": "Searched for the alkahest, a liquid that would dissolve everything."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Know that no such liquid can exist. It would dissolve its own container. Each solvent works on some substances and not others."
+    }
+   ]
+  },
+  "How strong a solution is: concentration": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Measure concentration in moles per litre, a count of particles, so that solutions of different substances can be compared."
+    },
+    {
+     "who": "Ayurvedic physicians",
+     "explanation": "Prepare kashaya, a herbal drink, by boiling herbs in water until only a quarter is left. The strength is set by how much water is boiled away."
+    }
+   ]
+  },
+  "Three kinds of mixtures: solution, suspension and colloid": {
+   "perspectives": [
+    {
+     "who": "Thomas Graham",
+     "explanation": "In 1861 gave the name colloid, from the Greek for glue, to stuff like gelatin whose particles do not pass through a thin skin."
+    },
+    {
+     "who": "John Tyndall",
+     "explanation": "In 1869 showed that a beam of light makes a path visible in a colloid, like milk or fog, and not in a true solution. The path is the Tyndall effect."
+    }
+   ]
+  },
+  "Why water takes salt and sugar but not oil": {
+   "perspectives": [
+    {
+     "who": "Linus Pauling",
+     "explanation": "In the 1930s he explained that atoms pull on shared electrons by different amounts, which makes water molecules slightly positive at one end and negative at the other."
+    },
+    {
+     "who": "Computer simulation chemists",
+     "explanation": "Today watch the water molecules in models and find that their grip on each ion is always changing, with each molecule swapping partners trillions of times a second."
+    }
+   ]
+  },
+  "Things that dissolve in oil": {
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Makes medicated ghee and oils (ghrita and taila), by cooking herbs in fat, because the healing parts are drawn out by fat and not by water."
+    },
+    {
+     "who": "Nutrition scientists",
+     "explanation": "Explain that vitamins A, D, E and K are fat-soluble, so a little oil in a meal helps the body take them in."
+    }
+   ]
+  },
+  "Why chilli burns and curd helps": {
+   "perspectives": [
+    {
+     "who": "Wilbur Scoville",
+     "explanation": "In 1912 he rated chillies by how much sugar water it took to cancel the burn. His scale of hotness is still used."
+    },
+    {
+     "who": "Plant and bird researchers",
+     "explanation": "Found that birds do not feel the burn of capsaicin, while mammals do. A chilli plant is hot for animals that chew its seeds and safe for the birds that carry them."
+    }
+   ]
+  },
+  "Soap has one end for water and one for oil": {
+   "perspectives": [
+    {
+     "who": "Reetha and shikakai users",
+     "explanation": "Indian families have long washed hair and cloth with soapnut (reetha) and shikakai, plants that foam in water and lift oil."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Explain with the idea of micelles, from James McBain in 1913. The oily tails of soap molecules crowd inside a ball and hide the dirt, and the watery heads face outward."
+    }
+   ]
+  },
+  "Gases dissolve in liquids too": {
+   "perspectives": [
+    {
+     "who": "William Henry",
+     "explanation": "In 1803 found that the amount of gas that dissolves is proportional to its pressure. A fizzy drink opened fast loses the gas."
+    },
+    {
+     "who": "Fish",
+     "explanation": "Breathe the oxygen dissolved in water through their gills. Warm water holds less oxygen, which is why fish in a warm pond may struggle."
+    }
+   ]
+  },
+  "Salt makes ice melt, and makes the mixture colder": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say that dissolved salt makes it harder for water to freeze, so salty ice melts and gets colder as it takes in heat. Charles Blagden measured this in 1788."
+    },
+    {
+     "who": "Kulfi makers",
+     "explanation": "Pack their moulds in ice mixed with salt, to get a temperature below freezing and set the kulfi without a machine. A cook's trick that works by the same law."
+    }
+   ]
+  },
+  "Almost nothing is completely insoluble": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Glass and stone do not dissolve."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that even quartz dissolves a little. Hot springs carry silica, and over years glassware in a lab slowly gives up ions. 'Insoluble' means 'very little'."
+    }
+   ]
+  },
+  "The sea holds dissolved gas, as soda does": {
+   "perspectives": [
+    {
+     "who": "Climate scientists",
+     "explanation": "Find that the ocean takes in about a quarter of the carbon dioxide people release, which slows warming of the air."
+    },
+    {
+     "who": "Marine biologists",
+     "explanation": "Warn that this dissolved gas turns the sea a little more acid, which makes it harder for corals, snails and plankton to build shells. The sea's help comes at a cost."
+    }
+   ]
+  }
+ },
+ "sci.states.evaporation-and-condensation.L3": {
+  "What evaporation is": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "In his Meteorologica he taught that the Sun draws up a moist 'exhalation' from water and the earth, which makes clouds and rain."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Explain that water molecules at the surface move fast enough to escape as a gas. No exhalation is needed, only motion."
+    }
+   ]
+  },
+  "What condensation is": {
+   "perspectives": [
+    {
+     "who": "Old belief",
+     "explanation": "Many people thought dew fell from the sky or rose from the ground."
+    },
+    {
+     "who": "William Charles Wells",
+     "explanation": "In 1814 he showed that dew forms when objects cool at night and water vapour in the air touches them. He used careful tests with wool and the cold of clear nights."
+    }
+   ]
+  },
+  "Leaving and landing back, at the same time": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A wet cloth dries and gives water to the air. Nothing seems to come back."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that molecules leave and return all the time. A cloth dries when more leave than return, and a bathroom mirror mists when more return than leave."
+    }
+   ]
+  },
+  "What makes things dry faster": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Name warmth, moving air, a spread surface and dry air as the helpers of drying."
+    },
+    {
+     "who": "Indian potters and households",
+     "explanation": "Use the matka, an unglazed clay pot. Water seeps to the outside and evaporates, taking heat from the water inside, so the water in it stays cool."
+    }
+   ]
+  },
+  "Boiling, and the white cloud above a pan": {
+   "perspectives": [
+    {
+     "who": "Cooks",
+     "explanation": "Call the white cloud above a pan steam."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say true steam is a clear gas that cannot be seen. The white cloud is tiny drops of water formed as the steam cools. Denis Papin showed in 1679 that raising the pressure raises the boiling point, as in a pressure cooker."
+    }
+   ]
+  },
+  "Living things that drink the fog": {
+   "perspectives": [
+    {
+     "who": "The Namib beetle",
+     "explanation": "This beetle stands on a dune with its back to the foggy wind, and drops form on its bumpy shell and roll to its mouth."
+    },
+    {
+     "who": "Coast redwood trees",
+     "explanation": "Trees in California take in water through their leaves from fog. Researchers found in 2004 that fog can give a redwood a good share of its water in summer."
+    }
+   ]
+  }
+ },
+ "sci.states.floating-and-sinking.L2": {
+  "Floating and sinking": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that the shape of a thing decides if it floats, and that a thin flat piece floats because it cannot cut through water."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "In 1612 he argued against this, and showed that what matters is how heavy a thing is for its size, not its shape. His view agreed with Archimedes."
+    }
+   ]
+  },
+  "Weight alone does not decide": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Heavy things sink and light things float. It is what our hands tell us."
+    },
+    {
+     "who": "Archimedes",
+     "explanation": "Showed that what matters is how heavy a thing is compared with the water it pushes aside. A huge ship floats and a small pebble sinks."
+    }
+   ]
+  },
+  "Water pushes up: upthrust": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "In the 200s BCE he stated that the upward push equals the weight of the water pushed aside."
+    },
+    {
+     "who": "Simon Stevin and Blaise Pascal",
+     "explanation": "In the 1500s and 1600s showed that pressure in water grows with depth. The bottom of an object is pushed up harder than the top is pushed down, and the difference is the upthrust."
+    }
+   ]
+  },
+  "Air inside helps things float": {
+   "perspectives": [
+    {
+     "who": "River people of Punjab and Sindh",
+     "explanation": "Cross rivers on the mashak, a sealed animal skin filled with air, and make rafts of them. The air in the skin carries the load."
+    },
+    {
+     "who": "Fish biologists",
+     "explanation": "Find that many fish have a swim bladder, a bag of gas. By adding or removing gas, a fish can float or sink without effort."
+    }
+   ]
+  },
+  "Another way to stay on top: the skin of water": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that water molecules pull on each other, so the surface acts like a stretched skin. It is called surface tension."
+    },
+    {
+     "who": "Water strider researchers",
+     "explanation": "Found in 2003 that the insect's long legs are covered in tiny hairs that trap air and dent the surface, so the insect does not break through. It walks on water by using its legs as small oars."
+    }
+   ]
+  }
+ },
+ "sci.states.floating-and-sinking.L4": {
+  "Density: how much stuff is packed into a space": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The old story says he found out whether a crown was pure by testing how much water it pushed aside compared with gold."
+    },
+    {
+     "who": "Ernest Rutherford",
+     "explanation": "In 1911 showed that an atom is almost all empty space with a tiny, dense centre. The nucleus is about a hundred million million times denser than water."
+    }
+   ]
+  },
+  "Upthrust: the water pushes up": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The push on a thing equals the weight of the water it pushes aside."
+    },
+    {
+     "who": "Fluid scientists",
+     "explanation": "Explain that the push comes from pressure that grows with depth. It is the same fact seen from the side of the water's pressure."
+    }
+   ]
+  },
+  "Why shape matters: a hollow boat holds air": {
+   "perspectives": [
+    {
+     "who": "Beypore boat builders of Kerala",
+     "explanation": "Build large wooden ships, the uru, by skill handed down for centuries, using no drawings. Their hulls are shaped to push aside enough water."
+    },
+    {
+     "who": "Pierre Bouguer",
+     "explanation": "In 1746 he explained how a ship stays upright, with a point he called the metacentre. Calculation joined craft in designing ships."
+    }
+   ]
+  },
+  "Salt water holds things up better": {
+   "perspectives": [
+    {
+     "who": "Dead Sea bathers",
+     "explanation": "Float without effort because the water is about a third salt by weight, and denser than the human body."
+    },
+    {
+     "who": "Sailors in river ports",
+     "explanation": "Know that a ship loaded in fresh water sinks lower than it does in the sea, and so its allowed load differs for different waters."
+    }
+   ]
+  },
+  "Why ice floats, and why oil floats": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that ice floats because of its flat shape."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "Argued in 1612 that ice floats because it is lighter for its size than water, 'rarefied water'. Chemists later explained it with the open, six-sided pattern of the molecules in ice."
+    }
+   ]
+  },
+  "Liquid layers: the density tower": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Make rainbow density towers in a glass from honey, soap, water and oil."
+    },
+    {
+     "who": "Oceanographers",
+     "explanation": "Find the same layering in the sea. Warm or fresh water floats above cold or salty water, and layers can stay apart for a long time. It shapes the way fish and nutrients move."
+    }
+   ]
+  },
+  "Fish, submarines and balloons change how dense they are": {
+   "perspectives": [
+    {
+     "who": "Biologists",
+     "explanation": "Explain that a fish changes its density with a gas bag, and a nautilus changes the gas and liquid in the chambers of its shell."
+    },
+    {
+     "who": "Submarine designers",
+     "explanation": "Copy the same idea. In 1620 Cornelis Drebbel built a rowing boat that travelled under the Thames. Modern submarines fill tanks with water to sink and blow them out with air to rise."
+    }
+   ]
+  },
+  "Boats of India and the load line": {
+   "perspectives": [
+    {
+     "who": "Samuel Plimsoll",
+     "explanation": "A British politician who led a law in 1876 that marked a line on every ship's side showing how deeply it could sit. It was meant to stop overloaded ships from sinking."
+    },
+    {
+     "who": "Indian Ocean boat builders",
+     "explanation": "Gujarat and Kerala shipwrights have long known how deep a loaded boat may sit, by experience and by marks on the hull, long before written laws."
+    }
+   ]
+  },
+  "Measuring density: the hydrometer": {
+   "perspectives": [
+    {
+     "who": "Hypatia of Alexandria",
+     "explanation": "A letter from her student Synesius, about 400 CE, describes a hydrometer, a weighted tube that floats in a liquid, and tradition credits her with its design."
+    },
+    {
+     "who": "Modern laboratories",
+     "explanation": "Use a thin glass tube filled with liquid that is made to hum. The pitch of the hum changes with the liquid's density, and a machine reads it with no need for floating."
+    }
+   ]
+  }
+ },
+ "sci.states.melting-and-solidifying.L2": {
+  "Melting: a solid turns into a liquid": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A solid melts at one exact warmth, like ice at 0 degrees Celsius."
+    },
+    {
+     "who": "Materials scientists",
+     "explanation": "Find that pure crystals such as ice melt at one temperature, but glass, wax and chocolate soften over a range. Chocolate goes soft in your hand because it is a mix of many fats."
+    }
+   ]
+  },
+  "Solidifying and freezing: a liquid turns into a solid": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Water freezes at 0 degrees Celsius."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Find that very clean water can stay liquid far below zero, called supercooling, and then freeze suddenly. Wood frogs freeze solid in winter and thaw alive, and Antarctic fish carry antifreeze proteins in their blood."
+    }
+   ]
+  },
+  "Melting and solidifying can be undone": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Melt it and cool it, and you get the same thing back."
+    },
+    {
+     "who": "Chocolate makers",
+     "explanation": "Know that melted chocolate that sets again can turn dull and crumbly, called bloom, because the fat crystals form in a different pattern. They temper chocolate to control it. The change is nearly, not fully, undone."
+    }
+   ]
+  },
+  "Warmth goes in to melt a solid, and comes out when it solidifies": {
+   "perspectives": [
+    {
+     "who": "Joseph Black",
+     "explanation": "In the 1760s he found that ice at zero takes in a lot of heat as it melts without growing warmer. He called it latent, hidden, heat."
+    },
+    {
+     "who": "Kinetic scientists",
+     "explanation": "Explain that the heat goes into loosening the grip between particles, not into making them move faster. The energy is not hidden, only stored in the bonds."
+    }
+   ]
+  },
+  "What happens inside a solid when it melts": {
+   "perspectives": [
+    {
+     "who": "Democritus and Kanada",
+     "explanation": "The Greek and Indian atomists said, 2,500 years ago, that things are made of tiny atoms, with empty space between them."
+    },
+    {
+     "who": "Albert Einstein and Jean Perrin",
+     "explanation": "In 1905 Einstein explained that the jiggle of tiny grains in water is caused by molecules hitting them. In 1908 Perrin's measurements settled the matter, and made the particle picture solid evidence."
+    }
+   ]
+  }
+ },
+ "sci.states.particles.L3": {
+  "How sugar dissolves": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Sugar vanishes in tea. It seems to be gone."
+    },
+    {
+     "who": "Albert Einstein and Jean Perrin",
+     "explanation": "Showed in 1905 to 1908 that dissolved particles are real and keep moving, jostled by water molecules. The sugar is spread through the tea as separate molecules."
+    }
+   ]
+  },
+  "Dissolved sugar still weighs the same": {
+   "perspectives": [
+    {
+     "who": "Young children",
+     "explanation": "Often say that sugar that is dissolved weighs nothing, as Jean Piaget's studies found. It is something we cannot see, and so we think it has gone."
+    },
+    {
+     "who": "Antoine Lavoisier",
+     "explanation": "In the 1780s he showed by weighing that matter is never lost in any change. The sugar and the water together weigh what they weighed before."
+    }
+   ]
+  },
+  "Dissolving is not melting": {
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "Says sugar melts in tea. We use the word for anything that turns into a liquid."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Keep two words. Melting needs heat to loosen a solid by itself. Dissolving needs a liquid to pull the particles away, and works in the cold."
+    }
+   ]
+  },
+  "Why some sugar dissolves faster": {
+   "perspectives": [
+    {
+     "who": "Arthur Noyes and Willis Whitney",
+     "explanation": "In 1897 they gave a rule for how fast a solid dissolves: it depends on the surface that touches the liquid and on how close the solution is to full."
+    },
+    {
+     "who": "Medicine makers",
+     "explanation": "Use the same rule to design tablets, so that they dissolve in the stomach at just the right speed, some fast and some slowly over hours."
+    }
+   ]
+  },
+  "Particles move, but spread slowly on their own": {
+   "perspectives": [
+    {
+     "who": "Thomas Graham and Adolf Fick",
+     "explanation": "Graham measured how fast gases and dissolved things spread in the 1830s and 1850s, and Fick wrote the law of diffusion in 1855. Spreading is steady but slow."
+    },
+    {
+     "who": "Cooks and tea drinkers",
+     "explanation": "Know by stirring that mixing is much faster than waiting. Stirring carries the liquid itself, and waiting depends on slow spreading."
+    }
+   ]
+  }
+ },
+ "sci.states.particles.L4": {
+  "Materials, substances and mixtures": {
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "In 1661, in The Sceptical Chymist, he said an element is a simple substance that cannot be split by chemistry. It began modern chemistry."
+    },
+    {
+     "who": "The Vaisheshika school",
+     "explanation": "In India taught about 2,000 years ago that matter has four kinds of atoms, of earth, water, fire and air, which join in pairs and threes. A different map of what stuff is."
+    }
+   ]
+  },
+  "Solids: particles packed close and held in place": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Solid things look still, and are thought of as still, when we hold them in our hands."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Find that even at the coldest possible temperature particles never stop. They keep a small motion called zero-point motion. A solid is a jiggling crowd, held in place by the pulls between its particles."
+    }
+   ]
+  },
+  "Liquids: particles close together but sliding": {
+   "perspectives": [
+    {
+     "who": "Johannes van der Waals",
+     "explanation": "In 1873 he showed that liquids and gases are two ends of one range, with no sharp wall, and above a certain warmth and pressure there is no difference at all."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Describe a liquid as a crowd where each particle is held by neighbours that change all the time. It has no neat pattern and so is harder to explain than a solid or a gas."
+    }
+   ]
+  },
+  "Gases: particles far apart and flying": {
+   "perspectives": [
+    {
+     "who": "Daniel Bernoulli",
+     "explanation": "In 1738 he said that gas is a swarm of tiny particles hitting the walls. Almost no one took notice for a hundred years."
+    },
+    {
+     "who": "Ludwig Boltzmann",
+     "explanation": "Used the picture in the 1800s and was attacked by scientists such as Ernst Mach and Wilhelm Ostwald, who doubted that atoms were real. Evidence in 1908 proved him right."
+    }
+   ]
+  },
+  "Gas pressure: the push of particles on walls": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that nature will not allow empty space, so air fills every place."
+    },
+    {
+     "who": "Evangelista Torricelli",
+     "explanation": "In 1643 filled a tube with mercury and turned it over. The mercury fell, leaving a gap at the top, and he said that we live at the bottom of a sea of air that weighs on us."
+    }
+   ]
+  },
+  "Why smells take minutes, not seconds": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a smell moves by particles bumping their way slowly across a room, along with air currents."
+    },
+    {
+     "who": "Silk moth researchers",
+     "explanation": "Found that a male silk moth can sense a few molecules of a scent chemical from a female, called bombykol, and follows it from far away. Moths read the air better than a nose."
+    }
+   ]
+  },
+  "How many particles are in a drop?": {
+   "perspectives": [
+    {
+     "who": "Amedeo Avogadro and Josef Loschmidt",
+     "explanation": "In 1811 Avogadro said equal volumes of gas hold equal numbers of molecules. In 1865 Loschmidt gave the first estimate of how big a molecule is."
+    },
+    {
+     "who": "Jean Perrin",
+     "explanation": "In 1908 he counted particles by many different methods and got the same number each time, which finally convinced doubters that atoms and molecules exist."
+    }
+   ]
+  }
+ },
+ "sci.states.solids-liquids-gases.L2": {
+  "Liquids flow and take the shape of their container": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A liquid flows and takes the shape of its container."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Find in-between things. Honey, ketchup and a mix of cornflour and water flow in odd ways. The cornflour mix is hard when hit and runny when poured slowly."
+    }
+   ]
+  },
+  "Gases spread out to fill every corner": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A gas spreads to fill every space."
+    },
+    {
+     "who": "Physicists and mountaineers",
+     "explanation": "Know that Earth's gravity holds air near the ground. The air gets thinner as you climb, and climbers carry oxygen on Everest because the gas does not fill space evenly."
+    }
+   ]
+  },
+  "Ice, water and steam are the same water": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that water and air are two different elements, so water that turns into vapour changes into air."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Show that ice, water and steam are all the same molecule, H2O, in three arrangements. They also add other states, such as plasma, the glowing gas of the Sun and of lightning."
+    }
+   ]
+  },
+  "Why are they so different? Tiny particles": {
+   "perspectives": [
+    {
+     "who": "Democritus",
+     "explanation": "Said that things differ because their atoms differ in shape and in how they link."
+    },
+    {
+     "who": "The Vaisheshika school",
+     "explanation": "Taught that earth atoms make solids, water atoms make liquids, and so on. Modern science keeps the idea of atoms, and says the difference comes from how tightly the same particles hold each other."
+    }
+   ]
+  }
+ },
+ "sci.weather.clouds-and-rain.L2": {
+  "A cloud is a crowd of tiny drops": {
+   "perspectives": [
+    {
+     "who": "Luke Howard",
+     "explanation": "In 1802 this English pharmacist gave clouds the names we still use, such as cumulus and cirrus, based on their shapes."
+    },
+    {
+     "who": "Varahamihira",
+     "explanation": "The Indian scholar of the 500s CE wrote in his Brihat Samhita about cloud kinds and signs of coming rain, from long watching of the sky. He studied the clouds to predict the monsoon."
+    }
+   ]
+  },
+  "Tiny drops float, big drops fall": {
+   "perspectives": [
+    {
+     "who": "George Stokes",
+     "explanation": "In 1851 he worked out that a very small drop falls at a very slow speed in air, so slow that a gentle breeze can hold it."
+    },
+    {
+     "who": "Meteorologists",
+     "explanation": "Say that rising air in a cloud carries the drops up and keeps them aloft. They grow till they are too heavy for the updraft and then fall as rain."
+    }
+   ]
+  },
+  "Why rain clouds look grey": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a thick cloud lets little sunlight pass through, so the base looks dark."
+    },
+    {
+     "who": "Satellite observers",
+     "explanation": "See the same rain cloud from above and it is brilliant white, as the top is lit by the Sun. Grey is how a cloud looks from underneath."
+    }
+   ]
+  }
+ },
+ "sci.weather.weather.L3": {
+  "What we measure when we measure weather": {
+   "perspectives": [
+    {
+     "who": "Weather scientists",
+     "explanation": "Measure temperature, pressure, wind, rain and humidity with instruments, and record numbers."
+    },
+    {
+     "who": "North Indian farmers",
+     "explanation": "Pass on sayings called Ghagh and Bhaddari, which link the sky, the winds and the behaviour of animals and plants with the coming weather. They hold generations of watching."
+    }
+   ]
+  },
+  "A thermometer shows its own temperature": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The thermometer tells the temperature of the air."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say it tells only its own temperature. In the sun it can read much higher than the air, because it takes in sunlight, so a thermometer must be kept in shade and in moving air."
+    }
+   ]
+  },
+  "Why sunlight warms things more than it warms the air": {
+   "perspectives": [
+    {
+     "who": "Joseph Fourier",
+     "explanation": "In the 1820s he said that the air near Earth must keep some heat, like glass in a frame."
+    },
+    {
+     "who": "John Tyndall",
+     "explanation": "In 1859 showed in the lab that gases such as carbon dioxide and water vapour take in heat rays. He found that air is clear to sunlight but takes in heat that rises from the ground."
+    }
+   ]
+  },
+  "The weather screen: a shaded house for thermometers": {
+   "perspectives": [
+    {
+     "who": "Thomas Stevenson",
+     "explanation": "In the 1860s he designed the white slatted box that is used all over the world, so that thermometers are shaded and air can flow."
+    },
+    {
+     "who": "Luke Howard",
+     "explanation": "In the 1810s used readings from London and the countryside to show that the city is warmer than its surroundings. It shows how a reading depends on where the thermometer stands."
+    }
+   ]
+  },
+  "How a rain gauge measures rain": {
+   "perspectives": [
+    {
+     "who": "Kautilya's Arthashastra",
+     "explanation": "An old Indian book of government, from about 2,000 years ago, tells officers to measure rain in bowls at storehouses, so that taxes and crops could be planned."
+    },
+    {
+     "who": "Korean court scientists",
+     "explanation": "In 1441 a rain gauge was made of iron and set up across the land under King Sejong. Rain was measured to help farmers, and the records were kept."
+    }
+   ]
+  },
+  "Which way the wind blows": {
+   "perspectives": [
+    {
+     "who": "Meteorologists",
+     "explanation": "Name a wind by where it comes from, so a west wind blows from the west."
+    },
+    {
+     "who": "Oceanographers",
+     "explanation": "Name a sea current by where it goes, so a westward current flows toward the west. The two habits are opposite, and it is a good idea to say 'from' or 'toward' clearly."
+    }
+   ]
+  },
+  "How strong is the wind?": {
+   "perspectives": [
+    {
+     "who": "Francis Beaufort",
+     "explanation": "In 1805 an Irish naval officer made a scale from 0 to 12 for judging the wind by what it does to the sea, sails and trees, with no instrument."
+    },
+    {
+     "who": "Instrument makers",
+     "explanation": "Use cup anemometers, which spin faster in a faster wind, and now sonic sensors that time sound in the air. Numbers can be recorded and compared."
+    }
+   ]
+  },
+  "The warmest time of day": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Sun is highest at noon, so noon must be hottest."
+    },
+    {
+     "who": "Meteorologists",
+     "explanation": "Explain that the ground keeps gaining heat as long as it takes in more than it gives out. The air is warmest at about two to four o'clock, and the warmest days of the year come weeks after the longest day."
+    }
+   ]
+  }
+ }
+}

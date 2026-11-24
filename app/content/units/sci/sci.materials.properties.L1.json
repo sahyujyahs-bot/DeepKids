@@ -56,10 +56,18 @@
     "A banana leaf is bendy, smooth and shiny.",
     "A chalk stick is hard, dull and stiff. It snaps if you bend it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Describes every substance by twenty pairs of qualities called gunas, such as hard (kathina) and soft (mridu), smooth (shlakshna) and rough (khara). The words are those a hand can feel."
+    },
+    {
+     "who": "Friedrich Mohs",
+     "explanation": "In 1812 this German scientist made a scale of ten minerals, from talc to diamond, so hardness could be a number. A number lets people far apart compare."
+    }
+   ],
    "context": "This card says what a property is, and how you find one.",
-   "art": "A steel spoon and a folded cotton towel side by side, with four small hands around them: one pressing, one stroking, one bending, and an eye looking.",
-   "one_view": "\"Properties: words for what a material is like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A steel spoon and a folded cotton towel side by side, with four small hands around them: one pressing, one stroking, one bending, and an eye looking."
   },
   {
    "concept": "Hard and soft, rough and smooth",
@@ -71,10 +79,18 @@
     "A floor tile is hard and smooth. A coir doormat is hard and rough.",
     "The torn edge of a sheet of paper shows tiny threads, called fibres, like little hairs."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Friedrich Mohs",
+     "explanation": "Ranked hardness by what scratches what. Diamond scratches everything."
+    },
+    {
+     "who": "Engineers",
+     "explanation": "Tell us that hard is not the same as tough. A diamond is very hard yet it can shatter, while soft copper bends without breaking."
+    }
+   ],
    "context": "This card is about what your thumb and fingers found in the Touch Hunt.",
-   "art": "A thumb pressing into a fluffy pillow, a thumb on a steel tumbler, a finger on a hairy coconut shell and a finger on a glass bottle.",
-   "one_view": "\"Hard and soft, rough and smooth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A thumb pressing into a fluffy pillow, a thumb on a steel tumbler, a finger on a hairy coconut shell and a finger on a glass bottle."
   },
   {
    "concept": "Bendy and stiff: shape matters too",
@@ -86,10 +102,18 @@
     "Cardboard boxes have a wavy layer of paper inside, which makes them stiff.",
     "A banana leaf bends easily, but the thick stem down its middle is stiff."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Make an I-shaped beam stiff by putting material where bending needs most strength, and use less material than a solid bar."
+    },
+    {
+     "who": "Bamboo",
+     "explanation": "Is a hollow tube with solid joints, and it is strong yet light. Builders in North East India raise whole houses with it, and it bends in a storm and does not break."
+    }
+   ],
    "context": "This card is about the paper bridge test, where you folded paper to make it stiff.",
-   "art": "Two paper bridges between two stacks of books: a flat sheet sagging under one coin, and a zigzag-folded sheet holding a pile of coins.",
-   "one_view": "\"Bendy and stiff: shape matters too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two paper bridges between two stacks of books: a flat sheet sagging under one coin, and a zigzag-folded sheet holding a pile of coins."
   },
   {
    "concept": "Why a smooth thing shines",
@@ -101,10 +125,18 @@
     "When you splash still water, the bright spot breaks into wobbly pieces.",
     "A polished wooden table shines. Rough, unpolished wood looks dull."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a smooth surface sends light back in one direction, so we see a bright shine."
+    },
+    {
+     "who": "Butterfly and peacock researchers",
+     "explanation": "Find that the blue of a Morpho butterfly and the shine of a peacock feather come from tiny layers that bounce light, not from smoothness or from colour. The shimmer changes with the angle."
+    }
+   ],
    "context": "This card says why some things shine. It is what you found in the Torch Spot Test.",
-   "art": "Two side-by-side pictures: torch light hitting a smooth plate and bouncing off as one neat beam, and torch light hitting a bumpy cloth and scattering in many little arrows.",
-   "one_view": "\"Why a smooth thing shines\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two side-by-side pictures: torch light hitting a smooth plate and bouncing off as one neat beam, and torch light hitting a bumpy cloth and scattering in many little arrows."
   }
  ],
  "agreed": [

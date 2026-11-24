@@ -97,9 +97,17 @@
     "A torch bulb touches the circuit at its tip and at its metal side.",
     "In a remote, one spring touches the flat end of each cell, and a flat plate touches the bump."
    ],
-   "perspectives": [],
-   "art": "A cell with one wire going from the + end and one from the − end, both to a bulb, beside a second cell with both wires on its flat end and a dark bulb.",
-   "one_view": "\"Both ends of the cell must be joined\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Benjamin Franklin",
+     "explanation": "In the 1700s he guessed that electricity moves from the positive end to the negative end. That direction is still used in diagrams, called conventional current."
+    },
+    {
+     "who": "Physicists after J. J. Thomson",
+     "explanation": "Found in 1897 that what moves in a wire is the electron, which has negative charge, so it goes the other way. Both ways of drawing the flow work for circuits."
+    }
+   ],
+   "art": "A cell with one wire going from the + end and one from the − end, both to a bulb, beside a second cell with both wires on its flat end and a dark bulb."
   },
   {
    "concept": "The shape of the wires does not matter",
@@ -111,9 +119,17 @@
     "A phone charger's wire can be coiled up, and the phone still charges.",
     "Electricians bend wires to fit inside a switchboard."
    ],
-   "perspectives": [],
-   "art": "Four small circuits side by side, each with a glowing bulb: straight wires, a coiled wire, crossed wires and a knotted wire.",
-   "one_view": "\"The shape of the wires does not matter\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "For a simple torch circuit, the bulb lights whether the wire is straight, curly or knotted."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "Showed in the 1830s that a coil of wire carrying current behaves differently from a straight one. It makes a magnet. For fast changing current, shape matters a great deal."
+    }
+   ],
+   "art": "Four small circuits side by side, each with a glowing bulb: straight wires, a coiled wire, crossed wires and a knotted wire."
   },
   {
    "concept": "Why the bulb glows",
@@ -125,9 +141,17 @@
     "The coil in an electric heater glows orange when it is hot.",
     "A blacksmith's iron rod glows red in the fire."
    ],
-   "perspectives": [],
-   "art": "A torch bulb drawn large, with the electricity flowing up one thick wire, through the glowing coiled filament and down the other thick wire.",
-   "one_view": "\"Why the bulb glows\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Thomas Edison and Joseph Swan",
+     "explanation": "In 1879 each made a lamp by heating a thin thread, the filament, in a glass bulb until it glowed white hot."
+    },
+    {
+     "who": "Physicists who study LEDs",
+     "explanation": "Say an LED makes light in another way: electrons drop to a lower energy level inside a crystal and give out light, with little heat. It is also an example of a switch from hot light to cool light."
+    }
+   ],
+   "art": "A torch bulb drawn large, with the electricity flowing up one thick wire, through the glowing coiled filament and down the other thick wire."
   },
   {
    "concept": "What moves in the wire",

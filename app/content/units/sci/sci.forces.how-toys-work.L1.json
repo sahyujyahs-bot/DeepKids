@@ -64,9 +64,17 @@
     "Car and cycle wheels are round, so they roll along the road.",
     "A lumpy potato rolls a little, stops on a flat bit, then rolls again."
    ],
-   "perspectives": [],
-   "art": "Two pictures side by side: a ball rolling down a slope, and a book sitting still on the same slope.",
-   "one_view": "\"Round things roll\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Early cart makers",
+     "explanation": "Little clay toy carts with wheels have been found at Harappan sites. The wheel was used in play and work."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say rolling takes much less effort than sliding, because the part touching the ground is momentarily still. Friction is far smaller for rolling."
+    }
+   ],
+   "art": "Two pictures side by side: a ball rolling down a slope, and a book sitting still on the same slope."
   },
   {
    "concept": "A rolling thing's shape steers it",
@@ -81,7 +89,7 @@
    ],
    "perspectives": [],
    "art": "A paper cup rolling in a curve on the floor, its wide end leaving a long dotted track and its narrow end a short one.",
-   "one_view": "\"A rolling thing's shape steers it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. A thing that is wider at one end travels further on that side, so it turns in a curve, and anyone can test this with a cup."
   },
   {
    "concept": "A bounce is a squash and a spring back",
@@ -94,9 +102,17 @@
     "In High Drop, Low Drop, the ball never came back up as high as the hand that dropped it.",
     "A ball bounces well on hard tiles, and hardly at all on a soft pillow."
    ],
-   "perspectives": [],
-   "art": "Three pictures of one ball: falling, squashed flat against the floor, and round again going up.",
-   "one_view": "\"A bounce is a squash and a spring back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a ball stores energy in its squashed shape and gives it back. Each bounce is lower because some energy turns to heat and sound."
+    },
+    {
+     "who": "Flea researchers",
+     "explanation": "Find that a flea jumps by squashing a pad of springy protein called resilin and letting it go. Living bodies also bounce."
+    }
+   ],
+   "art": "Three pictures of one ball: falling, squashed flat against the floor, and round again going up."
   },
   {
    "concept": "A top stands up only while it spins",
@@ -109,9 +125,17 @@
     "A pambaram, the string top of Tamil Nadu, stands up while it spins and falls when it stops.",
     "A spinning coin stands on its edge, then wobbles and falls flat as it slows."
    ],
-   "perspectives": [],
-   "art": "Two tops: one still and fallen on its side, and one spinning upright on its point.",
-   "one_view": "\"A top stands up only while it spins\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a spinning top has angular momentum, which resists tipping. When it slows, the pull of gravity wins."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Show that the Earth is itself a spinning top. Its axis wobbles in a slow circle, once in about 26,000 years, like a top that is leaning. Indian children have long played with the spinning top, called bambaram or lattu."
+    }
+   ],
+   "art": "Two tops: one still and fallen on its side, and one spinning upright on its point."
   },
   {
    "concept": "Winding stores your push",
@@ -124,9 +148,17 @@
     "A pull-back car goes further when you pull it back further.",
     "An old wall clock stops if nobody winds its key."
    ],
-   "perspectives": [],
-   "art": "A hand turning the key of a wind-up toy, and a cut-away picture of the spring coiling up tight inside.",
-   "one_view": "\"Winding stores your push\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Robert Hooke",
+     "explanation": "In 1660 he found that a spring pushes back in proportion to how far it is stretched. This is Hooke's law."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find that living beings store energy in springy parts too. In a human leg the Achilles tendon stretches like a spring and gives back energy on each step."
+    }
+   ],
+   "art": "A hand turning the key of a wind-up toy, and a cut-away picture of the spring coiling up tight inside."
   }
  ],
  "agreed": [

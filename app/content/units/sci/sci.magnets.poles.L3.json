@@ -99,10 +99,18 @@
     "A bar magnet floating on a plastic lid turns until it points north and south.",
     "A round fridge magnet has its poles on its two flat faces, not on its edge."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "William Gilbert",
+     "explanation": "In 1600 he named the north and south poles and showed that you can never get one pole alone. Every magnet has both."
+    },
+    {
+     "who": "Paul Dirac",
+     "explanation": "In 1931 he showed that physics would allow a single pole, a magnetic monopole. Scientists have searched for one for ninety years and have not found one."
+    }
+   ],
    "art": "A bar magnet with N and S labels, paper clips bunched at each end, and an arrow from N towards a compass rose.",
-   "context": "This card explains what the poles of a magnet are, and how to tell north from south.",
-   "one_view": "\"Every magnet has two poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what the poles of a magnet are, and how to tell north from south."
   },
   {
    "concept": "Unlike poles attract, like poles repel",
@@ -113,10 +121,18 @@
     "The magnetic catch on a cupboard door holds because unlike poles, or a magnet and steel, attract.",
     "A toy train with magnet links will not join if one carriage is turned round, because like poles face each other."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Lucretius",
+     "explanation": "This Roman poet, following the Greek atomists, said that a lodestone sends out a stream of atoms that pushes air away and draws iron in."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "Said in the 1830s that magnets fill the space around them with lines of force, a field, and the pull is the field at work. This is the picture we use now."
+    }
+   ],
    "art": "Three pairs of bar magnets: N facing S with arrows together, N facing N and S facing S with arrows apart.",
-   "context": "This card gives the rule for when two magnets attract and when they repel.",
-   "one_view": "\"Unlike poles attract, like poles repel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card gives the rule for when two magnets attract and when they repel."
   },
   {
    "concept": "A magnet that is free to turn ends up attracting",
@@ -127,10 +143,18 @@
     "Two floating magnets pushed north to north turn round and stick together.",
     "Ring magnets on a pencil float one above another. Pull the pencil out, and the top ring flips over and sticks."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Compass makers",
+     "explanation": "Learned that a needle swings until it points north. Chinese records from the Song dynasty, such as the scholar Shen Kuo in 1088, describe floating needle compasses."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a magnet turns until it has the lowest energy, with unlike poles close. The twist on it is called torque."
+    }
+   ],
    "art": "Two bar magnets on floating lids: first pushing apart, then one turning round, then stuck together north to south.",
-   "context": "This card explains what you saw in the Magnet Boats experiment: why a pushed-away magnet does not stay away.",
-   "one_view": "\"A magnet that is free to turn ends up attracting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what you saw in the Magnet Boats experiment: why a pushed-away magnet does not stay away."
   },
   {
    "concept": "Iron is attracted by both poles",
@@ -141,10 +165,18 @@
     "A steel spoon sticks to both ends of a bar magnet.",
     "Two wrapped objects look the same. The one that pushes away one end of your magnet is the magnet."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "William Gilbert",
+     "explanation": "Thought that a lodestone gives iron a virtue, which then pulls it."
+    },
+    {
+     "who": "Pierre Weiss",
+     "explanation": "In 1907 he explained that iron holds tiny regions called domains, each a small magnet. A magnet lines them up, and then the iron is a magnet for a while."
+    }
+   ],
    "art": "A paper clip stuck to the N end and another stuck to the S end of a bar magnet, with small S and N letters on the clips' touching ends.",
-   "context": "This card explains why repelling is the sure test of a magnet.",
-   "one_view": "\"Iron is attracted by both poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why repelling is the sure test of a magnet."
   },
   {
    "concept": "Cut a magnet, and you get two magnets",
@@ -155,10 +187,18 @@
     "Cut a bendy fridge magnet strip in half. Both halves still stick to the fridge.",
     "Petrus Peregrinus broke a lodestone in 1269 and found that both pieces had a north and a south pole."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Andre-Marie Ampere",
+     "explanation": "In the 1820s he said that magnetism comes from tiny loops of electric current inside matter, so every piece must have two poles."
+    },
+    {
+     "who": "Quantum physicists",
+     "explanation": "Say each electron is itself a tiny magnet because of a property called spin. You can keep dividing, down to atoms, and each still has two poles."
+    }
+   ],
    "art": "A bar magnet cut into two, then four, pieces, each piece with its own N and S labels and tiny arrows inside all pointing the same way.",
-   "context": "This card explains why you can never get a north pole on its own by cutting a magnet.",
-   "one_view": "\"Cut a magnet, and you get two magnets\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why you can never get a north pole on its own by cutting a magnet."
   },
   {
    "concept": "The Earth's far north is a magnetic south pole",
@@ -191,10 +231,18 @@
     "Slide two fridge magnets face to face. Feel the bumps.",
     "The back of a bendy fridge magnet does not stick to the fridge."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Magnet makers",
+     "explanation": "Print stripes of north and south in a strip of rubbery magnet so it sticks to a fridge but not to anything else."
+    },
+    {
+     "who": "Klaus Halbach",
+     "explanation": "In 1980 this physicist described arrangements of magnets, now called Halbach arrays, where stripes make the field strong on one face and almost nothing on the other."
+    }
+   ],
    "art": "Close-up of a bendy fridge magnet's back, with thin stripes coloured red and blue in turn.",
-   "context": "This card explains what you feel when you slide two bendy fridge magnets over each other.",
-   "one_view": "\"Bendy fridge magnets have many poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what you feel when you slide two bendy fridge magnets over each other."
   },
   {
    "concept": "Could a north pole exist on its own?",

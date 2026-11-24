@@ -117,10 +117,18 @@
     "A digital thermometer has a tiny metal part instead of liquid, and it shows a number on a screen.",
     "If you read too early, the number is too low for hot water and too high for cold water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Made a thermoscope around 1600, a glass tube with air and water that rose and fell with warmth, but with no numbers."
+    },
+    {
+     "who": "Anders Celsius",
+     "explanation": "In 1742 he made a scale from the freezing and boiling of water. His scale at first ran the other way, with 0 for boiling."
+    }
+   ],
    "art": "A thermometer bulb in hot water, with a zoomed-in picture of the narrow tube and the red liquid creeping up it.",
-   "context": "This card explains why the red line moves, and why you must wait before reading it.",
-   "one_view": "\"How a liquid thermometer works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why the red line moves, and why you must wait before reading it."
   },
   {
    "concept": "Two kinds of thermometer",
@@ -132,10 +140,18 @@
     "A laboratory thermometer put into the same water can measure it, and might show 8 °C.",
     "A glass clinical thermometer has a small kink in its tube, so the line stays put after you take it out."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Doctors and chemists",
+     "explanation": "Use liquid thermometers, each made for a range."
+    },
+    {
+     "who": "Infrared thermometers",
+     "explanation": "Read a forehead or a pan by the infrared heat it gives off, with no touching. They measure radiation, not expansion."
+    }
+   ],
    "art": "A short white digital fever thermometer and a long glass laboratory thermometer lying side by side, with their ranges written underneath.",
-   "context": "This card explains why a fever thermometer will not work for the experiments in this lesson.",
-   "one_view": "\"Two kinds of thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why a fever thermometer will not work for the experiments in this lesson."
   },
   {
    "concept": "Heat moves from warmer to cooler",
@@ -147,10 +163,18 @@
     "A hot idli steamer cools down after the stove is turned off.",
     "Drops form on the outside of a tumbler of cold water, because the cold tumbler cools the damp air next to it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Rudolf Clausius",
+     "explanation": "In 1850 he stated that heat never moves by itself from a cooler to a warmer body. It is a basic law of nature."
+    },
+    {
+     "who": "Ludwig Boltzmann",
+     "explanation": "Argued that it is an overwhelming chance, not a certainty. With countless particles, it is so unlikely that heat flows from cold to warm that it never happens in practice."
+    }
+   ],
    "art": "A table with a hot tumbler and a cold tumbler, red arrows going out of the hot one into the air and from the air into the cold one, and a thermometer on the wall.",
-   "context": "This card explains the hot and cold tumbler test: why both tumblers end up at room temperature.",
-   "one_view": "\"Heat moves from warmer to cooler\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the hot and cold tumbler test: why both tumblers end up at room temperature."
   },
   {
    "concept": "Cold is less heat",
@@ -208,10 +232,18 @@
     "A big pot of sambar stays hot for much longer than a small bowl of it.",
     "The sea at Chennai or Kochi warms up and cools down far more slowly than the sand. There is so much water that it takes a great deal of heat to change its temperature."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Joseph Black",
+     "explanation": "In the 1760s he was the first to clearly separate the two ideas, and measured how much heat different substances hold."
+    },
+    {
+     "who": "Count Rumford",
+     "explanation": "In 1798 he watched cannon barrels being drilled and saw that rubbing seemingly made endless heat. He argued that heat is a kind of motion, and not a fluid."
+    }
+   ],
    "art": "A small katori of hot water with a big ice cube still mostly there, next to a big bucket of warm water where the same ice cube has melted away.",
-   "context": "This card explains why 'hot' and 'a lot of heat' are different.",
-   "one_view": "\"Heat and temperature are not the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why 'hot' and 'a lot of heat' are different."
   },
   {
    "concept": "Why your hand is not a thermometer",
@@ -223,10 +255,18 @@
     "Coming out of an air-conditioned shop, the street feels even hotter than it is.",
     "A parent's hand on a child's forehead can tell whether the child feels hot or not. It cannot tell the difference between 38.5 and 39.5 degrees."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "John Locke",
+     "explanation": "Described in 1690 a test of three bowls of water, hot, cold and warm. A hand from the hot bowl feels the warm bowl cold, while a hand from the cold bowl feels it hot."
+    },
+    {
+     "who": "Sensory scientists",
+     "explanation": "Find that our skin has sensors that react to change in temperature, not temperature itself. A thermometer's number does not depend on a hand's past."
+    }
+   ],
    "art": "Two hands in the same middle bowl, one with a little blue 'cold?' bubble and one with a little red 'warm?' bubble, and a thermometer in the bowl showing one number.",
-   "context": "This card explains the two-hands bowl test, and why we need a thermometer.",
-   "one_view": "\"Why your hand is not a thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the two-hands bowl test, and why we need a thermometer."
   }
  ],
  "agreed": [

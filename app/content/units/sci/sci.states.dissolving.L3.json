@@ -88,10 +88,18 @@
     "Rose sherbet syrup is pink and clear, so it is a solution of sugar and colour in water.",
     "Instant coffee powder dissolves in hot milk and leaves nothing on the bottom of the cup."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The Chandogya Upanishad",
+     "explanation": "A father has his son put salt in water. The next day it cannot be seen, yet every sip tastes salty. The teacher uses it to speak of what is in everything and cannot be seen."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Say the salt breaks into particles too small to see, which spread through the water. The same story, told with a particle picture."
+    }
+   ],
    "art": "A zoomed-in drawing of water particles crowding round the corner of a salt grain and carrying small salt particles away into the water.",
-   "context": "This card explains what is happening when salt or sugar disappears into water.",
-   "one_view": "\"What dissolving is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what is happening when salt or sugar disappears into water."
   },
   {
    "concept": "Some things do not dissolve",
@@ -103,10 +111,18 @@
     "Coconut oil floats on water. You can see it as a shiny layer on top.",
     "Chalk dust in water makes it white, and a layer of chalk settles on the bottom."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Sand and stones do not dissolve in water, and are insoluble."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that rock dissolves slowly. Limestone caves were carved by rainwater over thousands of years, and quartz dissolves a little in hot springs."
+    }
+   ],
    "art": "A row of glasses: clear salt water, cloudy atta water, sand on the bottom, oil floating on top, and yellow turmeric settling.",
-   "context": "This card is about the things in a kitchen that do not dissolve in water, and how to tell.",
-   "one_view": "\"Some things do not dissolve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about the things in a kitchen that do not dissolve in water, and how to tell."
   },
   {
    "concept": "Water has a limit for each thing",
@@ -118,10 +134,18 @@
     "Sugar syrup for rasgulla or gulab jamun is very thick because a lot of sugar is dissolved in a little water.",
     "Water that is full of salt is about seven times saltier than sea water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Standard view",
+     "explanation": "A given amount of water dissolves only so much and then it is full."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Know that you can make a supersaturated solution, which holds more than the limit if it is cooled carefully. A touch makes the extra crystallise at once. Hand warmers use this."
+    }
+   ],
    "art": "A bar picture: a short bar for salt and a bar five times taller for sugar, both above the same small glass of water.",
-   "context": "This card explains why, in the Full Glass Test, the salt stopped dissolving long before the sugar did.",
-   "one_view": "\"Water has a limit for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why, in the Full Glass Test, the salt stopped dissolving long before the sugar did."
   },
   {
    "concept": "Full of salt, but not full of sugar",
@@ -133,10 +157,18 @@
     "Oral rehydration solution, ORS, has both salt and sugar dissolved in the same water.",
     "Lemon juice has acid and sugar dissolved in it, and you can still dissolve salt in it for a salty lime soda."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say each substance has its own limit, so a salt-full solution can still take sugar."
+    },
+    {
+     "who": "Food scientists",
+     "explanation": "Know that a dissolved substance sometimes changes how much of another can dissolve. Salt makes some proteins come out of solution, which is called salting out."
+    }
+   ],
    "art": "A glass of clear, full salt water with a few salt grains on the bottom, and a spoon of sugar disappearing into the top of it.",
-   "context": "This card explains the last part of the Full Glass Test, when sugar dissolved in water that was already full of salt.",
-   "one_view": "\"Full of salt, but not full of sugar\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the last part of the Full Glass Test, when sugar dissolved in water that was already full of salt."
   },
   {
    "concept": "Warm water and dissolving",
@@ -148,10 +180,18 @@
     "To make sugar syrup, cooks heat sugar and water together, because hot water dissolves much more sugar.",
     "Warm water and cool water take about the same number of spoons of salt before they are full."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Cooks",
+     "explanation": "Find that sugar and salt dissolve faster and more in hot tea than in cold."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Note that gases dissolve less when warm, which is why a warm drink goes flat, and a few salts, such as calcium sulphate, also dissolve less when warmer."
+    }
+   ],
    "art": "Two glasses: one with ice cubes and sugar grains still on the bottom, the other gently steaming with the sugar already gone.",
-   "context": "This card explains the Cold, Room or Warm test, and why lemonade makers dissolve sugar first.",
-   "one_view": "\"Warm water and dissolving\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the Cold, Room or Warm test, and why lemonade makers dissolve sugar first."
   },
   {
    "concept": "A filter catches only what has not dissolved",
@@ -163,10 +203,18 @@
     "A filter coffee maker keeps the coffee powder in the top, and the dark, dissolved coffee drips through.",
     "Salt pans near Thoothukudi let the sun evaporate sea water, because no filter could catch the salt."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Sushruta Samhita",
+     "explanation": "This old Indian medical text advises making water safe by boiling, putting it in the sun, heating a hot iron in it, and filtering it through sand and cloth."
+    },
+    {
+     "who": "Membrane scientists",
+     "explanation": "Make filters with holes so small that they hold back even dissolved salt. Such membranes, used in reverse osmosis, can turn sea water into drinking water."
+    }
+   ],
    "art": "Atta water being poured through a cotton cloth over a bowl, with white atta paste left on the cloth and clearer water in the bowl.",
-   "context": "This card explains the Strain It activity, where a cloth caught the atta but not the salt.",
-   "one_view": "\"A filter catches only what has not dissolved\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the Strain It activity, where a cloth caught the atta but not the salt."
   },
   {
    "concept": "Salt and sugar dissolve in different ways",
@@ -178,10 +226,18 @@
     "Sea water carries electricity because it is full of dissolved salt ions.",
     "ORS has both kinds: salt that splits into ions, and sugar that stays whole."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In 1884 his thesis said that salts split into charged particles, ions, in water. His examiners gave it a low mark, but he won the Nobel Prize in 1903."
+    },
+    {
+     "who": "Dmitri Mendeleev",
+     "explanation": "Was among the famous chemists who did not accept the ion idea, and thought dissolving was a chemical bonding with water. It took years of evidence for ions to be accepted."
+    }
+   ],
    "art": "Two zoomed-in circles: on the left, salt coming apart into plus and minus balls among water particles, on the right, whole sugar molecules floating among water particles.",
-   "context": "This card goes deeper: what happens to salt and sugar when they dissolve, and how the two are different.",
-   "one_view": "\"Salt and sugar dissolve in different ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card goes deeper: what happens to salt and sugar when they dissolve, and how the two are different."
   },
   {
    "concept": "Why each thing has its own limit",
@@ -193,10 +249,18 @@
     "Chalk dissolves so little that we call it insoluble, though a tiny amount does dissolve.",
     "Medicine makers test how well each new medicine dissolves, because it must dissolve in the body to work."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Old alchemists",
+     "explanation": "Taught that like dissolves like. Water takes watery things, and oil takes oily things."
+    },
+    {
+     "who": "Josiah Willard Gibbs",
+     "explanation": "In the 1870s he showed that dissolving depends on a balance of energy and disorder, so a thing dissolves when the balance favours it. The old rule is the result of that balance."
+    }
+   ],
    "art": "A chemist in a lab coat holding a small flask of crystals next to a computer screen showing a picture of particles.",
-   "context": "This card is about a question scientists are still working on: can we predict how much of a thing will dissolve?",
-   "one_view": "\"Why each thing has its own limit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about a question scientists are still working on: can we predict how much of a thing will dissolve?"
   },
   {
    "concept": "Liquids can dissolve too, or not",
@@ -208,10 +272,18 @@
     "Tadka oil floats as shiny circles on top of a bowl of sambar.",
     "Washing an oily kadai needs soap, because water alone slides off the oil."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Explain that two liquids mix when their molecules attract each other and the water molecules about equally. Oil and water do not."
+    },
+    {
+     "who": "Cell biologists",
+     "explanation": "Point out that the oil-and-water split is useful. The skin of every cell forms by itself, because oily tails hide from water and make a double layer."
+    }
+   ],
    "art": "A plastic bottle of water and coconut oil just shaken, full of drops, and the same bottle a minute later with a clear yellow layer on top.",
-   "context": "This card is about liquids: which ones mix into water and which ones stay apart.",
-   "one_view": "\"Liquids can dissolve too, or not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about liquids: which ones mix into water and which ones stay apart."
   }
  ],
  "agreed": [

@@ -68,10 +68,18 @@
     "A kabadiwala keeps newspaper, bottles and tins in separate heaps, because each one is sold to a different buyer.",
     "A bangle seller in Hyderabad sorts bangles by colour, so each customer can find the colour she wants."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Dmitri Mendeleev",
+     "explanation": "In 1869 he sorted the chemical elements by their weight and behaviour, which led to the periodic table. A good sorting showed new things to find."
+    },
+    {
+     "who": "Indian philosophers",
+     "explanation": "The Vaisheshika and Samkhya schools sorted matter into the five great elements: earth, water, fire, air and space. Another way to sort, based on how things feel and act."
+    }
+   ],
    "context": "This card says what sorting is. You did it in the Yes-or-No Sort.",
-   "art": "A child's room with socks in one open drawer and shirts in another, and a small girl holding up one sock.",
-   "one_view": "\"Sorting means putting alike things together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A child's room with socks in one open drawer and shirts in another, and a small girl holding up one sock."
   },
   {
    "concept": "A question makes the groups",
@@ -83,10 +91,18 @@
     "'Is it made of plastic?' puts a comb and a bottle cap together.",
     "'Is it red?' is a sorting question too, but it tells you nothing about the material."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Use yes or no questions in a key to name a plant or rock, one step at a time."
+    },
+    {
+     "who": "Slime and putty",
+     "explanation": "Do not fit the questions well. A mix of cornflour and water acts like a solid when squeezed and a liquid when poured, and so it sits in two groups."
+    }
+   ],
    "context": "This card is about the question you ask when you sort.",
-   "art": "Two circles of dupatta on the floor, one labelled YES and one labelled NO, with a key and a coin in the YES circle and a pencil and a comb in the NO circle.",
-   "one_view": "\"A question makes the groups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two circles of dupatta on the floor, one labelled YES and one labelled NO, with a key and a coin in the YES circle and a pencil and a comb in the NO circle."
   },
   {
    "concept": "A test settles a tricky thing",
@@ -98,10 +114,18 @@
     "A steel spoon feels cold in your hand. A plastic spoon of the same size feels warmer.",
     "A steel tiffin is heavier than a plastic tiffin of the same size."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Use tests to decide which group a tricky thing belongs to."
+    },
+    {
+     "who": "The Jain tradition of Anekantavada",
+     "explanation": "Teaches that a thing has many sides, and a statement may be true from one standpoint and not another. A thing can be rightly in two groups, depending on the question you ask."
+    }
+   ],
    "context": "This card is about things that are hard to sort, and how to decide where they go.",
-   "art": "A girl tapping a clear bottle with a spoon and listening carefully, with a second clear bottle beside it.",
-   "one_view": "\"A test settles a tricky thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A girl tapping a clear bottle with a spoon and listening carefully, with a second clear bottle beside it."
   },
   {
    "concept": "Why the steel katori floats and the steel spoon sinks",
@@ -113,10 +137,18 @@
     "A steel ship at the port in Kochi weighs more than many elephants together, yet it floats.",
     "A rubber ball floats on water, but a pebble of the same size sinks."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Said that the water pushes up with a force equal to the weight of water that the thing pushes aside. A bowl pushes aside a lot of water, so it floats."
+    },
+    {
+     "who": "Surface tension researchers",
+     "explanation": "Point out that a small steel needle can float even though steel is denser than water. The skin of the water holds it up, a different reason."
+    }
+   ],
    "context": "This card explains what you saw in the Sink or Float Sort, where the steel spoon and the steel katori did different things.",
-   "art": "Side by side: a steel spoon at the bottom of a bucket, and a steel katori floating with small arrows under it pointing up to show the water pushing.",
-   "one_view": "\"Why the steel katori floats and the steel spoon sinks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Side by side: a steel spoon at the bottom of a bucket, and a steel katori floating with small arrows under it pointing up to show the water pushing."
   }
  ],
  "agreed": [

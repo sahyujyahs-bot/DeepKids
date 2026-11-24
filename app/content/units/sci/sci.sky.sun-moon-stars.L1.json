@@ -104,9 +104,17 @@
     "During a total eclipse of the Sun, the Moon covers the Sun for a few minutes. The sky goes dark and bright stars appear in the middle of the day.",
     "Big telescopes can find bright stars even in the daytime."
    ],
-   "perspectives": [],
-   "art": "Two pictures of the same sky: a bright blue day sky with the stars drawn very faintly as dotted outlines, and the dark night sky with the same stars shining clearly.",
-   "one_view": "\"The stars are in the sky in the daytime too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Stars come out at night, and they are not there in the day."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Can see the planet Venus in the daytime if they know where to look, and telescopes can show bright stars in daylight. The stars never switch off."
+    }
+   ],
+   "art": "Two pictures of the same sky: a bright blue day sky with the stars drawn very faintly as dotted outlines, and the dark night sky with the same stars shining clearly."
   },
   {
    "concept": "Why a city sky shows fewer stars",
@@ -119,9 +127,17 @@
     "Far from towns, in the Thar desert or the hills of Ladakh, the sky can be full of stars.",
     "Switch off the lights near a window at night, and a few more stars show."
    ],
-   "perspectives": [],
-   "art": "Two night skies side by side: over a city of bright tall buildings only three stars, and over a dark village with small huts a sky full of stars.",
-   "one_view": "\"Why a city sky shows fewer stars\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Astronomers",
+     "explanation": "Rate the darkness of a sky on the Bortle scale, made by John Bortle in 2001. In the darkest sky thousands of stars show, and in a city sky only a few dozen."
+    },
+    {
+     "who": "Dung beetles",
+     "explanation": "Roll their dung balls in straight lines by the light of the Milky Way. Researchers found in 2013 that they lose their way when the sky is too bright. Light pollution affects other living beings."
+    }
+   ],
+   "art": "Two night skies side by side: over a city of bright tall buildings only three stars, and over a dark village with small huts a sky full of stars."
   }
  ],
  "agreed": [

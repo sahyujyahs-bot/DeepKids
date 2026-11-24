@@ -80,10 +80,18 @@
     "Tapping the ball from the front made it slow down or stop.",
     "A cyclist pedals to speed up and squeezes the brakes to slow down."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that a thing keeps moving only while something pushes it. When the push stops, the motion stops."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "Showed that a moving thing keeps going the same way and speed unless a force acts on it. A push along its way speeds it up and a push against slows it."
+    }
+   ],
    "context": "This card says what you found in the Tap Test, when you tapped from behind and from the front.",
-   "art": "Two pictures: a ball with a tap from behind and a long arrow ahead, and a ball with a tap from the front and a short arrow ahead.",
-   "one_view": "\"The side of the push decides: faster or slower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two pictures: a ball with a tap from behind and a long arrow ahead, and a ball with a tap from the front and a short arrow ahead."
   },
   {
    "concept": "A bigger push makes a bigger change",
@@ -95,10 +103,18 @@
     "A fast ball stings your hand more when you catch it than a slow ball.",
     "A heavy cupboard needs a much bigger push to start moving than an empty box."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jean Buridan",
+     "explanation": "A French scholar of the 1300s who thought a push puts a kind of force in a thing, called impetus, and a bigger push puts more in."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "In 1687 stated that the change in motion is bigger when the force is bigger. Force equals mass times change in speed, and impetus is not needed."
+    }
+   ],
    "context": "This card is about the Flick Test, where you flicked a bottle cap gently and hard.",
-   "art": "A tiled floor with a bottle cap near a child's fingers after a small flick, and another bottle cap far away after a big flick.",
-   "one_view": "\"A bigger push makes a bigger change\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A tiled floor with a bottle cap near a child's fingers after a small flick, and another bottle cap far away after a big flick."
   },
   {
    "concept": "Why a rolling ball stops on its own",

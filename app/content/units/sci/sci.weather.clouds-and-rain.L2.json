@@ -76,9 +76,17 @@
     "Tiny drops collect on your hair and clothes inside a cloud.",
     "The mist from a spray bottle is a little like a cloud, but its drops are bigger."
    ],
-   "perspectives": [],
-   "art": "A girl walking on a misty hill road in Munnar, with tiny shining drops on her hair and a tea garden fading into the cloud behind her.",
-   "one_view": "\"A cloud is a crowd of tiny drops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Luke Howard",
+     "explanation": "In 1802 this English pharmacist gave clouds the names we still use, such as cumulus and cirrus, based on their shapes."
+    },
+    {
+     "who": "Varahamihira",
+     "explanation": "The Indian scholar of the 500s CE wrote in his Brihat Samhita about cloud kinds and signs of coming rain, from long watching of the sky. He studied the clouds to predict the monsoon."
+    }
+   ],
+   "art": "A girl walking on a misty hill road in Munnar, with tiny shining drops on her hair and a tea garden fading into the cloud behind her."
   },
   {
    "concept": "Tiny drops float, big drops fall",
@@ -91,9 +99,17 @@
     "The mist drifted slowly in the torch beam.",
     "Dust floats in a sunbeam for the same reason: each speck is tiny and light."
    ],
-   "perspectives": [],
-   "art": "Two drops side by side: a big drop with a long arrow pointing down, and a tiny drop with a very short arrow and a curly arrow of rising air lifting it.",
-   "one_view": "\"Tiny drops float, big drops fall\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "George Stokes",
+     "explanation": "In 1851 he worked out that a very small drop falls at a very slow speed in air, so slow that a gentle breeze can hold it."
+    },
+    {
+     "who": "Meteorologists",
+     "explanation": "Say that rising air in a cloud carries the drops up and keeps them aloft. They grow till they are too heavy for the updraft and then fall as rain."
+    }
+   ],
+   "art": "Two drops side by side: a big drop with a long arrow pointing down, and a tiny drop with a very short arrow and a curly arrow of rising air lifting it."
   },
   {
    "concept": "Rain falls when tiny drops join",
@@ -152,9 +168,17 @@
     "Before a monsoon storm, the sky turns dark grey.",
     "The top of a tall storm cloud, lit by the Sun, can look bright white while its bottom is dark."
    ],
-   "perspectives": [],
-   "art": "Two clouds: a thin white one with lots of sunlight passing through, and a tall thick one with a bright white top and a dark grey bottom, raining.",
-   "one_view": "\"Why rain clouds look grey\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a thick cloud lets little sunlight pass through, so the base looks dark."
+    },
+    {
+     "who": "Satellite observers",
+     "explanation": "See the same rain cloud from above and it is brilliant white, as the top is lit by the Sun. Grey is how a cloud looks from underneath."
+    }
+   ],
+   "art": "Two clouds: a thin white one with lots of sunlight passing through, and a tall thick one with a bright white top and a dark grey bottom, raining."
   }
  ],
  "agreed": [

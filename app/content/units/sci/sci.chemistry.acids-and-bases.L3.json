@@ -137,9 +137,17 @@
     "Cooking soda water turns cabbage water blue or blue-green.",
     "Detergent water turns cabbage water green."
    ],
-   "perspectives": [],
-   "art": "Seven small glasses of cabbage water in a row: red, pink, purple, blue, blue-green, green and yellow.",
-   "one_view": "\"How red cabbage water shows acids and bases\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "In the 1600s he found that syrup of violets turned red with acid and green with base. This was an early indicator."
+    },
+    {
+     "who": "Indian households",
+     "explanation": "Have long used turmeric, which turns red with soap or lime. The kumkum used in worship is made from turmeric and slaked lime, a chemical test used as a tradition."
+    }
+   ],
+   "art": "Seven small glasses of cabbage water in a row: red, pink, purple, blue, blue-green, green and yellow."
   },
   {
    "concept": "One line from sour to soapy: the pH scale",
@@ -152,9 +160,17 @@
     "Sea water is a little basic, about 8.",
     "Your blood stays very close to 7.4, whatever you eat."
    ],
-   "perspectives": [],
-   "art": "A long coloured strip from red at 0 to purple at 7 to yellow at 14, with a lemon at 2, a cup of buttermilk at 4, a glass of water at 7, a box of cooking soda at 8 and a bar of soap at 10.",
-   "one_view": "\"One line from sour to soapy: the pH scale\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Soren Sorensen",
+     "explanation": "A Danish chemist who invented the pH scale in 1909 at the Carlsberg brewery, to keep track of acids in beer making."
+    },
+    {
+     "who": "Chemists after him",
+     "explanation": "Found that the scale has limits and other ways to say acid. Some definitions, like those of Arrhenius, Bronsted and Lowry, and Lewis, cover different cases."
+    }
+   ],
+   "art": "A long coloured strip from red at 0 to purple at 7 to yellow at 14, with a lemon at 2, a cup of buttermilk at 4, a glass of water at 7, a box of cooking soda at 8 and a bar of soap at 10."
   },
   {
    "concept": "When an acid meets a base",
@@ -166,9 +182,17 @@
     "Lemon juice dripped on cooking soda fizzes for a few seconds.",
     "Dosa and idli batter sometimes get a pinch of cooking soda. It reacts with the sour batter and makes extra bubbles of gas, so the idlis come out light."
    ],
-   "perspectives": [],
-   "art": "Two glasses side by side: in the first, pink cabbage water with lemon, and in the second, the same water after soda water is added, purple with tiny bubbles.",
-   "one_view": "\"When an acid meets a base\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In the 1880s he explained neutralising as acid's hydrogen ions joining with base's hydroxide ions to make water."
+    },
+    {
+     "who": "Johannes Bronsted and Thomas Lowry",
+     "explanation": "In 1923 each independently said an acid hands a hydrogen ion to a base. This also works in liquids that are not water."
+    }
+   ],
+   "art": "Two glasses side by side: in the first, pink cabbage water with lemon, and in the second, the same water after soda water is added, purple with tiny bubbles."
   },
   {
    "concept": "Living beings that make acids",
@@ -181,9 +205,17 @@
     "A weaver ant's bite stings because of the formic acid squirted into it.",
     "Idli, dosa and white dhokla batter turn sour as the batter ferments, because the bacteria in the batter make acid."
    ],
-   "perspectives": [],
-   "art": "Three panels: a bowl of curd with tiny rod-shaped bacteria drawn large beside the bowl, a weaver ant on a mango leaf nest, and a simple outline of a child with the stomach shaded.",
-   "one_view": "\"Living beings that make acids\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Ants and stinging nettles",
+     "explanation": "Make formic acid to hurt or warn off a predator. The word formic comes from formica, the Latin for ant."
+    },
+    {
+     "who": "Curd-making microbes",
+     "explanation": "Bacteria that turn milk to curd make lactic acid. The sour acid keeps harmful microbes out, so the curd keeps."
+    }
+   ],
+   "art": "Three panels: a bowl of curd with tiny rod-shaped bacteria drawn large beside the bowl, a weaver ant on a mango leaf nest, and a simple outline of a child with the stomach shaded."
   },
   {
    "concept": "Why red cabbage is purple",

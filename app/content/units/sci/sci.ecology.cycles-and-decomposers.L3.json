@@ -114,9 +114,17 @@
     "Termites eating dead wood, and sometimes the wooden door frame of a house.",
     "Earthworms pulling dead leaves into the soil."
    ],
-   "perspectives": [],
-   "art": "A fallen tree trunk with mushrooms on it, termites inside a crack, an earthworm in the soil below and a magnified circle of bacteria.",
-   "one_view": "\"What decomposers are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Old belief",
+     "explanation": "For long, many people thought that rot and maggots arose from dead things by themselves."
+    },
+    {
+     "who": "Louis Pasteur",
+     "explanation": "In the 1860s he showed with careful flasks that rot starts only when living microbes reach the food. Rot is the work of living beings."
+    }
+   ],
+   "art": "A fallen tree trunk with mushrooms on it, termites inside a crack, an earthworm in the soil below and a magnified circle of bacteria."
   },
   {
    "concept": "A mould is a fungus, and grows from spores",
@@ -150,9 +158,17 @@
     "A mouldy tomato turns soft and leaks juice where the mould has been feeding.",
     "A dry rusk on the shelf stays hard and clean for weeks."
    ],
-   "perspectives": [],
-   "art": "A close-up of mould threads on a slice of tomato, with arrows showing enzymes going out of the threads and watery food coming back in.",
-   "one_view": "\"How a fungus eats: digesting outside the body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Old view",
+     "explanation": "Fungi were treated as plants with no green, because they grow in one place and have cell walls."
+    },
+    {
+     "who": "Robert Whittaker",
+     "explanation": "In 1969 he placed fungi in their own kingdom. Later DNA studies showed fungi are closer cousins to animals than to plants. Both fungi and animals eat food made by others."
+    }
+   ],
+   "art": "A close-up of mould threads on a slice of tomato, with arrows showing enzymes going out of the threads and watery food coming back in."
   },
   {
    "concept": "What decomposers need: food, water, warmth and air",
@@ -164,9 +180,17 @@
     "Leaves on the ground stay crisp through a dry summer and rot within weeks once the monsoon comes.",
     "A cut onion in the fridge keeps for days, and on a warm kitchen shelf it goes bad sooner."
    ],
-   "perspectives": [],
-   "art": "Four small icons in a row, a leaf for food, a drop for water, a sun for warmth and a swirl for air, with a mould patch growing where all four meet.",
-   "one_view": "\"What decomposers need: food, water, warmth and air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The usual view",
+     "explanation": "Decomposers need warmth, water, food and air. Without them, rot stops."
+    },
+    {
+     "who": "Bog researchers",
+     "explanation": "Peat bogs have almost no oxygen and are acid, so rot is very slow. The Tollund Man, about 2,300 years old, was found in a Danish bog with his skin still preserved. Some microbes rot food without air, so air is not always needed."
+    }
+   ],
+   "art": "Four small icons in a row, a leaf for food, a drop for water, a sun for warmth and a swirl for air, with a mould patch growing where all four meet."
   },
   {
    "concept": "How people keep food from rotting",
@@ -179,9 +203,17 @@
     "A lemon pickle in salt lasts for a year or more.",
     "Boiled milk keeps for longer than milk that has not been boiled."
    ],
-   "perspectives": [],
-   "art": "A kitchen shelf with a glass jar of mango pickle, a tin of vadam, a string of dried chillies and a bowl of salt.",
-   "one_view": "\"How people keep food from rotting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Indian households",
+     "explanation": "Dried grains, salted fish, pickled mangoes and made ghee. Each way takes away water or changes the food so microbes cannot grow."
+    },
+    {
+     "who": "Nicolas Appert",
+     "explanation": "A French confectioner who, around 1809, found that food heated in sealed jars stayed fresh. It was one of the first steps to canning, many years before microbes were known."
+    }
+   ],
+   "art": "A kitchen shelf with a glass jar of mango pickle, a tin of vadam, a string of dried chillies and a bowl of salt."
   },
   {
    "concept": "How earthworms help to make soil",
@@ -193,9 +225,17 @@
     "After rain, small curly heaps of worm casts appear on lawns and in flower beds.",
     "Farmers across India use vermicompost, compost made by earthworms."
    ],
-   "perspectives": [],
-   "art": "A cut-away of soil with an earthworm's burrow, a leaf being pulled down into it, and a curly heap of casts at the top.",
-   "one_view": "\"How earthworms help to make soil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Called earthworms the intestines of the earth, a view that they work the soil."
+    },
+    {
+     "who": "Charles Darwin",
+     "explanation": "Spent decades on worms. His last book, in 1881, measured that worms bring up and turn over tons of soil per acre every year. Many farmers had thought worms were pests."
+    }
+   ],
+   "art": "A cut-away of soil with an earthworm's burrow, a leaf being pulled down into it, and a curly heap of casts at the top."
   },
   {
    "concept": "Nature's recycling: from a dead leaf to a new plant",
@@ -207,9 +247,17 @@
     "Forests are never buried in their own dead leaves, because decomposers keep eating them.",
     "Compost made from vegetable peels helps a balcony tomato plant grow."
    ],
-   "perspectives": [],
-   "art": "A circle of arrows: a green leaf on a tree, the leaf falling, decomposers eating it in the soil, nutrients going into roots, and a new green leaf.",
-   "one_view": "\"Nature's recycling: from a dead leaf to a new plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The Taittiriya Upanishad",
+     "explanation": "An old Indian text says that beings are born from food and return to the earth to become food. It sees life as one turning circle."
+    },
+    {
+     "who": "Ecologists",
+     "explanation": "Trace the same cycle in atoms of carbon, nitrogen and others that pass from soil to plants to animals and back through decomposers. They also find that some leave the cycle for long times, as coal or limestone."
+    }
+   ],
+   "art": "A circle of arrows: a green leaf on a tree, the leaf falling, decomposers eating it in the soil, nutrients going into roots, and a new green leaf."
   },
   {
    "concept": "Decomposers sense and choose",

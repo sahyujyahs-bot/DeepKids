@@ -135,10 +135,18 @@
     "'Very hot' in Delhi in May might be 45 °C. 'Very hot' in Bengaluru might be 36 °C.",
     "A weather report gives the maximum and minimum temperature, the rainfall in millimetres, and the wind."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Weather scientists",
+     "explanation": "Measure temperature, pressure, wind, rain and humidity with instruments, and record numbers."
+    },
+    {
+     "who": "North Indian farmers",
+     "explanation": "Pass on sayings called Ghagh and Bhaddari, which link the sky, the winds and the behaviour of animals and plants with the coming weather. They hold generations of watching."
+    }
+   ],
    "art": "Four tools in a row: a thermometer, a rain gauge, a wind vane and a cup anemometer, each with a label.",
-   "context": "This card says what weather is, and which tools measure which part of it.",
-   "one_view": "\"What we measure when we measure weather\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card says what weather is, and which tools measure which part of it."
   },
   {
    "concept": "A thermometer shows its own temperature",
@@ -149,10 +157,18 @@
     "In the Sun or Shade test, a thermometer hung in the sun read 44 °C. In the shade, a metre away, it read 33 °C.",
     "Digital temperature signs at bus stops often stand in the sun. On sunny days they can show much higher numbers than the weather report."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The thermometer tells the temperature of the air."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say it tells only its own temperature. In the sun it can read much higher than the air, because it takes in sunlight, so a thermometer must be kept in shade and in moving air."
+    }
+   ],
    "art": "One thermometer in sunlight with little yellow arrows of light going into it, and one in shade with only the air around it.",
-   "context": "This card explains the surprise in the Sun or Shade test: why one thermometer read so much higher in the sun.",
-   "one_view": "\"A thermometer shows its own temperature\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the surprise in the Sun or Shade test: why one thermometer read so much higher in the sun."
   },
   {
    "concept": "Why sunlight warms things more than it warms the air",
@@ -163,10 +179,18 @@
     "At noon, a black car roof can be too hot to touch while the air beside it is only warm.",
     "A white paper roof over a thermometer takes in less sunlight than a black one would."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Joseph Fourier",
+     "explanation": "In the 1820s he said that the air near Earth must keep some heat, like glass in a frame."
+    },
+    {
+     "who": "John Tyndall",
+     "explanation": "In 1859 showed in the lab that gases such as carbon dioxide and water vapour take in heat rays. He found that air is clear to sunlight but takes in heat that rises from the ground."
+    }
+   ],
    "art": "Sunlight shining down through clear air onto a balcony floor, with the floor drawn glowing warm and the air only lightly tinted.",
-   "context": "This card explains why sunny surfaces get so hot, while the air beside them stays cooler.",
-   "one_view": "\"Why sunlight warms things more than it warms the air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why sunny surfaces get so hot, while the air beside them stays cooler."
   },
   {
    "concept": "The weather screen: a shaded house for thermometers",
@@ -177,10 +201,18 @@
     "Weather stations in India keep their thermometers in white screens on legs.",
     "Your white paper roof in the Sun or Shade test was a very simple weather screen."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Thomas Stevenson",
+     "explanation": "In the 1860s he designed the white slatted box that is used all over the world, so that thermometers are shaded and air can flow."
+    },
+    {
+     "who": "Luke Howard",
+     "explanation": "In the 1810s used readings from London and the countryside to show that the city is warmer than its surroundings. It shows how a reading depends on where the thermometer stands."
+    }
+   ],
    "art": "A white slatted box on legs, cut open to show two thermometers inside, with arrows of air blowing through the slats and sunlight bouncing off the roof.",
-   "context": "This card explains how real weather stations keep the sun off their thermometers.",
-   "one_view": "\"The weather screen: a shaded house for thermometers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how real weather stations keep the sun off their thermometers."
   },
   {
    "concept": "How a rain gauge measures rain",
@@ -192,10 +224,18 @@
     "If 10 mm of rain falls on a flat terrace of 50 square metres, that is 500 litres of water.",
     "An old Indian book, the Arthashastra, describes a bowl set up in front of a storehouse as a rain gauge."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Kautilya's Arthashastra",
+     "explanation": "An old Indian book of government, from about 2,000 years ago, tells officers to measure rain in bowls at storehouses, so that taxes and crops could be planned."
+    },
+    {
+     "who": "Korean court scientists",
+     "explanation": "In 1441 a rain gauge was made of iron and set up across the land under King Sejong. Rain was measured to help farmers, and the records were kept."
+    }
+   ],
    "art": "A wide steel dabba and a narrow straight glass side by side in the rain, with water at the same height in both and a ruler next to each.",
-   "context": "This card explains how a rain gauge works, and why a wide one and a narrow one give the same reading.",
-   "one_view": "\"How a rain gauge measures rain\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how a rain gauge works, and why a wide one and a narrow one give the same reading."
   },
   {
    "concept": "Which way the wind blows",
@@ -206,10 +246,18 @@
     "Hold a hand fan to the east of a wind vane and wave it. The arrow turns to point east, at the fan.",
     "An airport windsock is the other way round. Its open end faces the wind, and the sock blows away from it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Meteorologists",
+     "explanation": "Name a wind by where it comes from, so a west wind blows from the west."
+    },
+    {
+     "who": "Oceanographers",
+     "explanation": "Name a sea current by where it goes, so a westward current flows toward the west. The two habits are opposite, and it is a good idea to say 'from' or 'toward' clearly."
+    }
+   ],
    "art": "A wind vane on a bottle with N, E, S, W marked, a child waving a hand fan from the east, and the arrow pointing at the fan.",
-   "context": "This card explains how a wind vane works, and why winds are named for where they come from.",
-   "one_view": "\"Which way the wind blows\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how a wind vane works, and why winds are named for where they come from."
   },
   {
    "concept": "How strong is the wind?",
@@ -220,10 +268,18 @@
     "When the wind is calm, smoke rises straight up and leaves do not move.",
     "In a strong breeze, big branches sway and it is hard to hold an umbrella."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Francis Beaufort",
+     "explanation": "In 1805 an Irish naval officer made a scale from 0 to 12 for judging the wind by what it does to the sea, sails and trees, with no instrument."
+    },
+    {
+     "who": "Instrument makers",
+     "explanation": "Use cup anemometers, which spin faster in a faster wind, and now sonic sensors that time sound in the air. Numbers can be recorded and compared."
+    }
+   ],
    "art": "A row of five little pictures from calm to strong wind: still clothes, gently moving leaves, a flapping flag, swaying branches, an umbrella turned inside out.",
-   "context": "This card is about measuring how strong the wind is, with a machine or with your eyes.",
-   "one_view": "\"How strong is the wind?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about measuring how strong the wind is, with a machine or with your eyes."
   },
   {
    "concept": "The warmest time of day",
@@ -234,10 +290,18 @@
     "A shade thermometer in Madurai might read 28 °C at 7 in the morning, 35 °C at noon and 37 °C at 3 in the afternoon.",
     "Think of a pot of water on the stove. If you turn the flame down a little, the water still gets hotter for a while. The ground and the air do the same after noon. The Sun gets weaker, but it still gives them more heat than they lose."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The Sun is highest at noon, so noon must be hottest."
+    },
+    {
+     "who": "Meteorologists",
+     "explanation": "Explain that the ground keeps gaining heat as long as it takes in more than it gives out. The air is warmest at about two to four o'clock, and the warmest days of the year come weeks after the longest day."
+    }
+   ],
    "art": "A line chart of one day's temperature rising from dawn, peaking in mid-afternoon, and falling through the night, with a small Sun high at noon.",
-   "context": "This card explains a pattern you can find in your own weather diary: when the air is warmest.",
-   "one_view": "\"The warmest time of day\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains a pattern you can find in your own weather diary: when the air is warmest."
   },
   {
    "concept": "India's weather watchers",

@@ -92,10 +92,18 @@
     "One napkin glows at a window, but a whole packet of napkins looks dark.",
     "A thin cotton curtain lets light into a room. Two or three curtains, one behind the other, make the room much darker."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Pierre Bouguer and Johann Lambert",
+     "explanation": "In the 1700s they found that each layer of the same thickness takes away the same share of the light. Many thin layers take away more and more."
+    },
+    {
+     "who": "Physicists today",
+     "explanation": "Say a layer can also scatter light, sending it in all directions, and not just soak it up. Paper and frosted glass are translucent mostly because they scatter."
+    }
+   ],
    "context": "This card says why more layers let less light through.",
-   "art": "Five paper squares in a row, with a fat arrow of light going into the first and the arrow getting thinner after each square.",
-   "one_view": "\"Each layer stops some of the light\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Five paper squares in a row, with a fat arrow of light going into the first and the arrow getting thinner after each square."
   },
   {
    "concept": "Hidden is not the same as dark",
@@ -107,10 +115,18 @@
     "A closed bathroom window of frosted glass lets in daylight, but you cannot see out.",
     "Your eyelids let in a red glow when you face a bright window, but you see no picture."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that scattering mixes up the directions of the light, so it still arrives but the picture is lost. Light can pass and the image can vanish."
+    },
+    {
+     "who": "Shadow-puppet makers of Andhra",
+     "explanation": "The artists of tholu bommalata cut and colour thin leather until it is translucent. Lamplight comes through as glowing colour, while the shape stays sharp."
+    }
+   ],
    "context": "This card says why a pile can hide a picture but still glow.",
-   "art": "A pile of paper squares on a drawing, the drawing hidden, and the same pile held over a torch in a dim room, glowing softly.",
-   "one_view": "\"Hidden is not the same as dark\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A pile of paper squares on a drawing, the drawing hidden, and the same pile held over a torch in a dim room, glowing softly."
   },
   {
    "concept": "Thin enough, almost anything lets light through",

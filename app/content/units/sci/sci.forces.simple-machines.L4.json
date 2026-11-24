@@ -130,10 +130,18 @@
     "A curtain cord goes over a small wheel, so pulling the cord down moves the curtain sideways along the rail.",
     "A well with a wheel at the top lets you pull down to lift the bucket."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The Greek thinker of the 200s BCE is said to have worked out how to move a ship with a compound of pulleys and a rope."
+    },
+    {
+     "who": "The Mohists of China",
+     "explanation": "Followers of Mozi wrote about 2,300 years ago on levers and pulleys. They were practical, and studied how machines save effort."
+    }
+   ],
    "art": "A bucket in a well with a wheel at the top, and arrows showing the rope pulled down and the bucket going up, both of the same length.",
-   "context": "This card explains the simplest pulley, the one over a well, and what it does and does not do.",
-   "one_view": "\"The fixed pulley: it only turns the pull round\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the simplest pulley, the one over a well, and what it does and does not do."
   },
   {
    "concept": "The moving pulley and counting the ropes",
@@ -145,10 +153,18 @@
     "A load held by 4 ropes needs a quarter of the pull but 4 times the rope.",
     "A ship's sail uses many pulleys, so a few sailors can raise a very heavy sail."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Is credited with showing that more rope turns can lift a big load with a small pull."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain it by energy: with two ropes, the pull is half but you pull twice as far. The work you do stays the same."
+    }
+   ],
    "art": "Three pulley set-ups side by side holding the same box. One has one rope, one has two ropes and one has four ropes, and each has a number for the pull and for the rope pulled.",
-   "context": "This card explains the main result of the Count the Ropes test: how a moving pulley shares a load.",
-   "one_view": "\"The moving pulley and counting the ropes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the main result of the Count the Ropes test: how a moving pulley shares a load."
   },
   {
    "concept": "Work: force times distance stays the same",
@@ -160,10 +176,18 @@
     "The same lift with 2 ropes takes 5 newtons over 0.2 metres, and 5 times 0.2 is still 1 joule.",
     "A ramp 4 times as long as the height needs a quarter of the push."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Rene Descartes",
+     "explanation": "Argued in the 1600s that what is kept in motion is the product of mass and speed."
+    },
+    {
+     "who": "Gottfried Leibniz",
+     "explanation": "Argued that what counts is mass times speed squared, which he called vis viva. This quarrel, which went on for decades, ended when scientists saw that both quantities are useful but different. The term work came in 1829."
+    }
+   ],
    "art": "Three boxes showing 10 newtons times 0.1 metres, 5 newtons times 0.2 metres and 2.5 newtons times 0.4 metres, all equal to 1 joule.",
-   "context": "This card explains the number that stays the same however you arrange the ropes: force times distance.",
-   "one_view": "\"Work: force times distance stays the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the number that stays the same however you arrange the ropes: force times distance."
   },
   {
    "concept": "Where the missing effort goes: friction and efficiency",
@@ -175,10 +199,18 @@
     "A bicycle chain with oil on it wastes less of the rider's effort.",
     "Two machines of 90 percent each give 81 percent together."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Bhaskara II",
+     "explanation": "A 12th century Indian mathematician who described a wheel with weights on its rim that he believed would turn forever. It was an early perpetual motion idea."
+    },
+    {
+     "who": "James Joule",
+     "explanation": "Showed in the 1840s that work lost to friction turns into heat, so nothing is truly lost, and no machine can turn forever without a fresh supply of energy."
+    }
+   ],
    "art": "A pulley with two thin arrows of work going in and a thick arrow coming out, and small wavy lines of warmth leaving from the axle and the rope.",
-   "context": "This card explains why the real results in the Count the Ropes test are a little worse than the ideal numbers.",
-   "one_view": "\"Where the missing effort goes: friction and efficiency\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why the real results in the Count the Ropes test are a little worse than the ideal numbers."
   },
   {
    "concept": "Gears: trading turning strength for speed",
@@ -190,10 +222,18 @@
     "A cycle's low gear for a hill has a big gear at the back and turns the wheel fewer times.",
     "A charkha's big wheel turns a thin spindle many times, so the thread twists quickly."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Makers of the Antikythera mechanism",
+     "explanation": "An ancient Greek device made around the 100s BCE. It had dozens of bronze gears to follow the Sun, Moon and eclipses."
+    },
+    {
+     "who": "Insect researchers",
+     "explanation": "In 2013 scientists found that the young planthopper Issus has gear teeth on its hind legs, which keep its legs in step as it jumps."
+    }
+   ],
    "art": "A bicycle chain going from a big gear at the pedals to a small gear at the back wheel, with the teeth counts and the turns written beside them.",
-   "context": "This card explains what you find in the Bicycle Gears test: why the wheel turns more than once for each pedal turn.",
-   "one_view": "\"Gears: trading turning strength for speed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what you find in the Bicycle Gears test: why the wheel turns more than once for each pedal turn."
   },
   {
    "concept": "The screw: a ramp wound round a rod",
@@ -205,10 +245,18 @@
     "A screw jack lifts a car with turns of a handle.",
     "An Archimedes screw lifts water up a tube when its spiral is turned."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Tradition says he designed a water screw, a tube wound round a rod, to lift water. It is still used in places."
+    },
+    {
+     "who": "Observers of nature",
+     "explanation": "See the same shape in snail shells and in climbing vines. The ramp wound round is a shape that lets a small turning do a big job."
+    }
+   ],
    "art": "A paper triangle wound round a pencil so its sloping edge becomes a spiral, beside a bolt with the same spiral and a ruler measuring the gap between two threads.",
-   "context": "This card explains how the paper ramp you wind in the Paper Screw activity becomes a screw.",
-   "one_view": "\"The screw: a ramp wound round a rod\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how the paper ramp you wind in the Paper Screw activity becomes a screw."
   },
   {
    "concept": "The wedge: two ramps that push things apart",
@@ -220,10 +268,18 @@
     "A door stop is a wedge that holds a door by jamming under it.",
     "A chisel splits wood along the grain much more easily than across it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Egyptian quarrymen",
+     "explanation": "Split huge stone blocks by hammering wooden wedges in rows and soaking them with water, so they swelled and cracked the rock."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Point out that our own teeth are wedges. Incisors cut and bite by turning a push into a sideways split."
+    }
+   ],
    "art": "A thin wedge and a thick wedge pushed into two blocks of wood, with arrows showing the sideways push, which is bigger for the thin wedge.",
-   "context": "This card explains the wedge as two ramps, the second of the two machines that are really ramps.",
-   "one_view": "\"The wedge: two ramps that push things apart\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the wedge as two ramps, the second of the two machines that are really ramps."
   },
   {
    "concept": "Six machines, two ideas",
@@ -258,10 +314,18 @@
     "A bicycle: levers, wheels and axles, gears and screws.",
     "A wheelbarrow: a lever with a wheel at the end."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Say that multiplying the gains of simple machines can give a very big advantage, though each part loses a little to friction."
+    },
+    {
+     "who": "Anatomists",
+     "explanation": "See the human body as many levers working together. The bones, muscles and joints of the arm and the leg make a compound machine that was never designed."
+    }
+   ],
    "art": "A bicycle with its levers, gears, wheels and axle, and screws labelled in different colours.",
-   "context": "This card shows how everyday tools are put together from the simple machines in this lesson.",
-   "one_view": "\"Compound machines: machines made from machines\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card shows how everyday tools are put together from the simple machines in this lesson."
   },
   {
    "concept": "Machines smaller than a speck: motors inside living cells",
@@ -273,10 +337,18 @@
     "ATP synthase turns like a wheel and makes the fuel ATP in your cells, and in every plant.",
     "Muscle proteins in your arm work like tiny levers."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vitalists",
+     "explanation": "Until the 1800s many held that living things ran on a special life force that was not made of ordinary matter."
+    },
+    {
+     "who": "Biochemists",
+     "explanation": "Found that cells have real machines. Paul Boyer and John Walker earned the Nobel Prize in 1997 for explaining ATP synthase, a tiny rotor that turns to make the cell's fuel."
+    }
+   ],
    "art": "A bacterium with a long thread, and a zoomed-in drawing of the ring-shaped motor at the base where the thread joins the cell.",
-   "context": "This card takes the wheel and axle down to the smallest size, inside a single cell.",
-   "one_view": "\"Machines smaller than a speck: motors inside living cells\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card takes the wheel and axle down to the smallest size, inside a single cell."
   },
   {
    "concept": "Why machines can never give out more: energy and time",

@@ -116,7 +116,16 @@
     "The tumbler is on the stool.",
     "The kolam is in front of the door."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Believed in one fixed space, like an invisible box, where every thing has its own exact place."
+    },
+    {
+     "who": "Gottfried Leibniz",
+     "explanation": "Argued that there is no empty box. 'Where' only means 'how far, and which way, from other things'. Most physicists since then have agreed with Leibniz."
+    }
+   ],
    "art": "A lemon under a stool, with a dotted line joining the lemon to the stool and the word 'under' on the line.",
    "chart": {
     "type": "row",
@@ -130,8 +139,7 @@
       ]
      }
     ]
-   },
-   "one_view": "\"A position word needs two things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Top, bottom, above, below, on, under",
@@ -144,7 +152,16 @@
     "Your feet are below your knees.",
     "The last idli is at the bottom of the stack."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "People living in different places",
+     "explanation": "A person in Australia and one in India stand on opposite sides of Earth. 'Down' is toward the centre of the planet for both."
+    },
+    {
+     "who": "Astronauts",
+     "explanation": "In orbit they float and have no up or down. Without gravity, the words 'top' and 'bottom' only mean something if you choose a way to face."
+    }
+   ],
    "art": "A three-shelf rack with a ball on the top shelf, a box on the middle shelf and a pair of chappals on the bottom shelf.",
    "chart": {
     "type": "row",
@@ -169,8 +186,7 @@
      }
     ],
     "title": "Three shelves"
-   },
-   "one_view": "\"Top, bottom, above, below, on, under\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Inside and outside",
@@ -183,7 +199,16 @@
     "You are inside the house. The crow is outside.",
     "One foot inside the ring and one foot outside: you are on the edge."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Mathematicians",
+     "explanation": "A closed curve has an inside and an outside, and any path from one to the other must cross the line. This is proved as the Jordan curve theorem."
+    },
+    {
+     "who": "A cell biologist",
+     "explanation": "Every living cell has a thin skin called a membrane that decides what is inside and what is outside. It has gates, so 'inside' is kept by careful trading, not by a wall."
+    }
+   ],
    "art": "A ring of red thread on a floor with two beans inside the ring and three beans outside.",
    "chart": {
     "type": "row",
@@ -204,8 +229,7 @@
       ]
      }
     ]
-   },
-   "one_view": "\"Inside and outside\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Near and far",
@@ -218,7 +242,16 @@
     "For a child in Kanyakumari, the sea is near.",
     "The Moon is far from us. The Sun is much farther."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Humans",
+     "explanation": "Judge near and far by steps or by how big something looks, and the answer changes with the one who judges."
+    },
+    {
+     "who": "The honeybee",
+     "explanation": "Measures distance by how much of the scenery slides past its eyes as it flies. The scientist Mandyam Srinivasan showed this. For a bee, far means a lot of scenery passed."
+    }
+   ],
    "art": "A room seen from above with footsteps drawn from the door to a mat, two steps, and from the door to a bed, nine steps.",
    "chart": {
     "type": "scale",
@@ -227,8 +260,7 @@
     "step": 1,
     "title": "Steps from the door. The mat is at 2.",
     "value": 2
-   },
-   "one_view": "\"Near and far\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Left and right go with you",
@@ -241,7 +273,16 @@
     "'The third house on the left' depends on which end of the street you enter.",
     "On a bus, your left stays your left wherever the bus turns."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Most English and Hindi speakers",
+     "explanation": "Use left and right, which are tied to your own body and turn when you turn."
+    },
+    {
+     "who": "Guugu Yimithirr speakers",
+     "explanation": "People in northern Australia use north, south, east and west instead. They would say 'the cup is by your south foot'. The researcher Stephen Levinson found they always know which way they face."
+    }
+   ],
    "art": "Two girls facing each other across a mat with a red circle and a blue square between them, each pointing to her own left.",
    "chart": {
     "type": "row",
@@ -262,8 +303,7 @@
      }
     ],
     "title": "Same two shapes, seen from two sides"
-   },
-   "one_view": "\"Left and right go with you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "In front, behind, between, next to",
@@ -276,7 +316,16 @@
     "Your nose is between your eyes.",
     "A chair has a front of its own, the side you face when you sit. Behind the chair is the side of its back rest."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Speakers of English",
+     "explanation": "Use the body of a person: in front is the way someone faces."
+    },
+    {
+     "who": "Speakers of Tzeltal",
+     "explanation": "A Mayan language in Mexico. Its speakers often use uphill and downhill, based on the slope of the land, rather than front and behind."
+    }
+   ],
    "art": "Four children in a queue at a bus stop seen from the side, all facing the bus on the right.",
    "chart": {
     "type": "row",
@@ -291,8 +340,7 @@
       ]
      }
     ]
-   },
-   "one_view": "\"In front, behind, between, next to\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Which words change when you move?",
@@ -305,7 +353,16 @@
     "Left and right swap when you go to the other side.",
     "Near turns into far when you walk away."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Psychologists",
+     "explanation": "Call 'left of me' a self-based frame and 'north of the well' a fixed frame. Humans can use both and move between them."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "Showed that you cannot tell if a ship is moving from inside it. What counts as 'moving' depends on what you measure against, which is what a frame of reference means."
+    }
+   ],
    "art": "A child looking at a stool from one side, and the same child drawn again on the other side, with the book now on her other hand.",
    "chart": {
     "type": "table",
@@ -336,8 +393,7 @@
      ]
     ],
     "title": "What the test showed"
-   },
-   "one_view": "\"Which words change when you move?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Down is toward the middle of the Earth",

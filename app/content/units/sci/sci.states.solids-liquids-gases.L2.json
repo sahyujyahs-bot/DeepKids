@@ -111,9 +111,17 @@
     "Rasam poured from a pot takes the shape of each bowl.",
     "Coconut water takes the shape of the inside of the coconut."
    ],
-   "perspectives": [],
-   "art": "The same water in a tall thin bottle, a wide bowl and a tumbler, with arrows showing it poured back to the same line.",
-   "one_view": "\"Liquids flow and take the shape of their container\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A liquid flows and takes the shape of its container."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Find in-between things. Honey, ketchup and a mix of cornflour and water flow in odd ways. The cornflour mix is hard when hit and runny when poured slowly."
+    }
+   ],
+   "art": "The same water in a tall thin bottle, a wide bowl and a tumbler, with arrows showing it poured back to the same line."
   },
   {
    "concept": "Gases spread out to fill every corner",
@@ -126,9 +134,17 @@
     "Air filled the tied bag up to every corner.",
     "Bubbles in a glass of soda are a gas."
    ],
-   "perspectives": [],
-   "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air.",
-   "one_view": "\"Gases spread out to fill every corner\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A gas spreads to fill every space."
+    },
+    {
+     "who": "Physicists and mountaineers",
+     "explanation": "Know that Earth's gravity holds air near the ground. The air gets thinner as you climb, and climbers carry oxygen on Everest because the gas does not fill space evenly."
+    }
+   ],
+   "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air."
   },
   {
    "concept": "Ice, water and steam are the same water",
@@ -141,9 +157,17 @@
     "Water in an idli pot boils, and steam cooks the idlis.",
     "Snow on the Himalayas melts and flows down into the Ganga."
    ],
-   "perspectives": [],
-   "art": "A circle of three pictures with arrows: an ice cube melting into water, water boiling into steam, and steam cooling into drops on a steel lid.",
-   "one_view": "\"Ice, water and steam are the same water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that water and air are two different elements, so water that turns into vapour changes into air."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Show that ice, water and steam are all the same molecule, H2O, in three arrangements. They also add other states, such as plasma, the glowing gas of the Sun and of lightning."
+    }
+   ],
+   "art": "A circle of three pictures with arrows: an ice cube melting into water, water boiling into steam, and steam cooling into drops on a steel lid."
   },
   {
    "concept": "Why are they so different? Tiny particles",
@@ -156,9 +180,17 @@
     "Water: the same particles sliding past each other.",
     "Steam: the same particles flying apart."
    ],
-   "perspectives": [],
-   "art": "Three boxes: dots packed in neat rows for a solid, dots close but jumbled for a liquid, and dots far apart with motion lines for a gas.",
-   "one_view": "\"Why are they so different? Tiny particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Democritus",
+     "explanation": "Said that things differ because their atoms differ in shape and in how they link."
+    },
+    {
+     "who": "The Vaisheshika school",
+     "explanation": "Taught that earth atoms make solids, water atoms make liquids, and so on. Modern science keeps the idea of atoms, and says the difference comes from how tightly the same particles hold each other."
+    }
+   ],
+   "art": "Three boxes: dots packed in neat rows for a solid, dots close but jumbled for a liquid, and dots far apart with motion lines for a gas."
   }
  ],
  "agreed": [

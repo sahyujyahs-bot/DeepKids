@@ -108,9 +108,17 @@
     "When you run, you feel air on your face, even on a still day.",
     "A hand fan, like a palm-leaf visari in Kerala, pushes air onto your face."
    ],
-   "perspectives": [],
-   "art": "A child's arm with tiny hairs bending as wavy wind lines pass over it, and a hand fan beside it.",
-   "one_view": "\"We feel air when it moves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Indian tradition",
+     "explanation": "Calls air vayu and counts it among the five great elements (pancha mahabhuta). It is the element that moves and touches the skin."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say air is a crowd of tiny gas particles, always moving and bumping into us. We feel wind when they push in one direction, but even still air presses on us all the time."
+    }
+   ],
+   "art": "A child's arm with tiny hairs bending as wavy wind lines pass over it, and a hand fan beside it."
   },
   {
    "concept": "Moving air pushes things",
@@ -123,9 +131,17 @@
     "Tall windmills near Kanyakumari turn in the strong wind and make electricity.",
     "A puff of breath pushes a soap bubble across the room."
    ],
-   "perspectives": [],
-   "art": "A row of pictures: a curtain swaying, a kite in the sky, a windmill turning, and a soap bubble drifting.",
-   "one_view": "\"Moving air pushes things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Sailors of the Indian Ocean",
+     "explanation": "For centuries traders used the monsoon winds, which blow one way in summer and the other in winter, to sail dhows between India, Arabia and Africa."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that moving air pushes because its particles hit a surface and bounce back, giving it a shove. More speed means more shove."
+    }
+   ],
+   "art": "A row of pictures: a curtain swaying, a kite in the sky, a windmill turning, and a soap bubble drifting."
   },
   {
    "concept": "Living beings need air",
@@ -138,9 +154,17 @@
     "A fish in a bowl keeps opening and closing her gills, taking in the air mixed into the water.",
     "A tulsi plant on the balcony takes in air through tiny holes under the leaves."
    ],
-   "perspectives": [],
-   "art": "A child, a cat, a crow, a fish in a bowl and a potted tulsi plant, each with a soft curl of air going in.",
-   "one_view": "\"Living beings need air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The Upanishads",
+     "explanation": "Speak of prana, the breath, as the life in a being. Without it a body does not live."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Explain that cells use oxygen from air to release energy from food. Yet some microbes, deep in mud, live without oxygen at all, so not every being needs air."
+    }
+   ],
+   "art": "A child, a cat, a crow, a fish in a bowl and a potted tulsi plant, each with a soft curl of air going in."
   }
  ],
  "agreed": [

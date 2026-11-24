@@ -137,10 +137,18 @@
     "Brass is a mixture of copper and zinc, melted together.",
     "Distilled water, which is used in car batteries, is very nearly a pure substance."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "In 1661, in The Sceptical Chymist, he said an element is a simple substance that cannot be split by chemistry. It began modern chemistry."
+    },
+    {
+     "who": "The Vaisheshika school",
+     "explanation": "In India taught about 2,000 years ago that matter has four kinds of atoms, of earth, water, fire and air, which join in pairs and threes. A different map of what stuff is."
+    }
+   ],
    "art": "A table with three groups: steel spoon labelled material, salt labelled substance, and sambar labelled mixture.",
-   "context": "This card says what material, substance and mixture mean, because the rest of the unit uses these words.",
-   "one_view": "\"Materials, substances and mixtures\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card says what material, substance and mixture mean, because the rest of the unit uses these words."
   },
   {
    "concept": "Solids: particles packed close and held in place",
@@ -152,10 +160,18 @@
     "An ice cube keeps its shape until it warms up.",
     "Rock salt grains have flat faces because their particles are stacked in neat rows."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Solid things look still, and are thought of as still, when we hold them in our hands."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Find that even at the coldest possible temperature particles never stop. They keep a small motion called zero-point motion. A solid is a jiggling crowd, held in place by the pulls between its particles."
+    }
+   ],
    "art": "A zoomed-in circle with particles in neat rows, each with small curved marks to show it jiggling on the spot.",
-   "context": "This card describes the particles in a solid.",
-   "one_view": "\"Solids: particles packed close and held in place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card describes the particles in a solid."
   },
   {
    "concept": "Liquids: particles close together but sliding",
@@ -167,10 +183,18 @@
     "A cup of milk is still a cup of milk if you pour it into a wide plate.",
     "Honey slides slowly because its particles stick to each other more."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Johannes van der Waals",
+     "explanation": "In 1873 he showed that liquids and gases are two ends of one range, with no sharp wall, and above a certain warmth and pressure there is no difference at all."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Describe a liquid as a crowd where each particle is held by neighbours that change all the time. It has no neat pattern and so is harder to explain than a solid or a gas."
+    }
+   ],
    "art": "A zoomed-in circle with particles close together in a jumbled pile, with arrows showing them sliding.",
-   "context": "This card describes the particles in a liquid.",
-   "one_view": "\"Liquids: particles close together but sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card describes the particles in a liquid."
   },
   {
    "concept": "Gases: particles far apart and flying",
@@ -182,10 +206,18 @@
     "The smell of tadka spreads from the kitchen to the bedroom.",
     "A balloon is round because gas particles push on its skin from the inside, in all directions."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Daniel Bernoulli",
+     "explanation": "In 1738 he said that gas is a swarm of tiny particles hitting the walls. Almost no one took notice for a hundred years."
+    },
+    {
+     "who": "Ludwig Boltzmann",
+     "explanation": "Used the picture in the 1800s and was attacked by scientists such as Ernst Mach and Wilhelm Ostwald, who doubted that atoms were real. Evidence in 1908 proved him right."
+    }
+   ],
    "art": "A zoomed-in circle with a few particles far apart, each with a long arrow showing how fast it flies.",
-   "context": "This card describes the particles in a gas.",
-   "one_view": "\"Gases: particles far apart and flying\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card describes the particles in a gas."
   },
   {
    "concept": "Empty space between particles",
@@ -247,10 +279,18 @@
     "A balloon left in a hot car can burst, because the hot air inside pushes harder.",
     "A cooker's whistle lifts when the steam inside pushes up on the weight."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that nature will not allow empty space, so air fills every place."
+    },
+    {
+     "who": "Evangelista Torricelli",
+     "explanation": "In 1643 filled a tube with mercury and turned it over. The mercury fell, leaving a gap at the top, and he said that we live at the bottom of a sea of air that weighs on us."
+    }
+   ],
    "art": "A pressure cooker cut in half, with steam particles shown hitting the lid and walls with arrows.",
-   "context": "This card explains why a gas pushes on its container.",
-   "one_view": "\"Gas pressure: the push of particles on walls\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why a gas pushes on its container."
   },
   {
    "concept": "Why smells take minutes, not seconds",
@@ -262,10 +302,18 @@
     "Colour in unstirred water takes hours to spread through a glass.",
     "Warm air spreads smells faster, because its particles move faster."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a smell moves by particles bumping their way slowly across a room, along with air currents."
+    },
+    {
+     "who": "Silk moth researchers",
+     "explanation": "Found that a male silk moth can sense a few molecules of a scent chemical from a female, called bombykol, and follows it from far away. Moths read the air better than a nose."
+    }
+   ],
    "art": "A zigzag line showing one smell particle bouncing between many air particles on its way across a room.",
-   "context": "This card explains why a smell takes minutes to cross a room, though gas particles are very fast.",
-   "one_view": "\"Why smells take minutes, not seconds\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why a smell takes minutes to cross a room, though gas particles are very fast."
   },
   {
    "concept": "How many particles are in a drop?",
@@ -277,10 +325,18 @@
     "A teaspoon of sea water holds many millions of millions of salt particles.",
     "By some estimates, a single breath holds more air particles than there are grains of sand in all the beaches on Earth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Amedeo Avogadro and Josef Loschmidt",
+     "explanation": "In 1811 Avogadro said equal volumes of gas hold equal numbers of molecules. In 1865 Loschmidt gave the first estimate of how big a molecule is."
+    },
+    {
+     "who": "Jean Perrin",
+     "explanation": "In 1908 he counted particles by many different methods and got the same number each time, which finally convinced doubters that atoms and molecules exist."
+    }
+   ],
    "art": "A drop of water on a fingertip, with arrows pointing to a long number of zeros.",
-   "context": "This card explains how many particles one drop holds.",
-   "one_view": "\"How many particles are in a drop?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how many particles one drop holds."
   },
   {
    "concept": "Inside a particle: atoms are mostly empty space",

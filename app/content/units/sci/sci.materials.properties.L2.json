@@ -82,9 +82,17 @@
     "A window needs to be transparent and waterproof.",
     "A hair band needs to be stretchy and to spring back."
    ],
-   "perspectives": [],
-   "art": "A steel tumbler, a polythene bag and a rubber band, each with a small list of property words beside it.",
-   "one_view": "\"One material has many properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Teaches that every substance (dravya) carries many qualities (gunas) at the same time, and healing depends on knowing them all."
+    },
+    {
+     "who": "Materials scientists",
+     "explanation": "Measure many properties of a material in turn, such as strength, hardness and how it carries heat. Only the full list tells you what it will do."
+    }
+   ],
+   "art": "A steel tumbler, a polythene bag and a rubber band, each with a small list of property words beside it."
   },
   {
    "concept": "Why some materials keep water out",
@@ -97,9 +105,17 @@
     "In the light and water test, water sat on the polythene for a whole minute.",
     "Rasam stays on a banana leaf at a meal."
    ],
-   "perspectives": [],
-   "art": "A close-up drawing: water drops slipping through the gaps between cloth threads, and a drop sitting on a smooth sheet of polythene.",
-   "one_view": "\"Why some materials keep water out\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Wilhelm Barthlott",
+     "explanation": "In the 1990s he studied the lotus leaf, which stays dry, and found it is covered in tiny bumps and wax. Drops sit on the points and roll away."
+    },
+    {
+     "who": "Engineers of Gore-Tex",
+     "explanation": "Make rain jackets with holes smaller than a water drop but bigger than a puff of vapour. Water cannot get in, yet sweat can get out. A waterproof material may have gaps."
+    }
+   ],
+   "art": "A close-up drawing: water drops slipping through the gaps between cloth threads, and a drop sitting on a smooth sheet of polythene."
   },
   {
    "concept": "Transparent, translucent and opaque",
@@ -112,9 +128,17 @@
     "A thin hanky, a paper kite held up to the sky and your closed eyelids are translucent.",
     "Foil, a steel plate and a wooden door are opaque."
    ],
-   "perspectives": [],
-   "art": "Three panels: a window seen clearly through polythene, a glowing blur through a hanky, and darkness behind foil.",
-   "one_view": "\"Transparent, translucent and opaque\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that no material is simply one of the three. It depends on how thick it is and on which light you use. Thin gold leaf is see-through, and X-rays pass through the body."
+    },
+    {
+     "who": "Bees",
+     "explanation": "See ultraviolet light, which we cannot. A flower that looks plain to us shows patterns to a bee, so what seems opaque or plain depends on the eyes."
+    }
+   ],
+   "art": "Three panels: a window seen clearly through polythene, a glowing blur through a hanky, and darkness behind foil."
   },
   {
    "concept": "How light gets through solid plastic",
@@ -150,9 +174,17 @@
     "A cotton thread pulls a toy car, but cannot push it.",
     "Kite string is strong but hardly stretches."
    ],
-   "perspectives": [],
-   "art": "A child pulling a toy car on a thread across the floor, and the same thread crumpled up when pushed.",
-   "one_view": "\"Strong and stretchy are different properties\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Treat strength, stiffness and toughness as separate properties, and choose among them for each job."
+    },
+    {
+     "who": "Spider silk researchers",
+     "explanation": "Find that spider silk is both very strong and very stretchy, a rare mix. Spiders make it from protein at room temperature."
+    }
+   ],
+   "art": "A child pulling a toy car on a thread across the floor, and the same thread crumpled up when pushed."
   }
  ],
  "agreed": [

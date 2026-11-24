@@ -129,7 +129,16 @@
     "A rectangle on paper is flat. A matchbox is solid.",
     "A picture of a laddu is flat. The laddu on your plate is solid."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Euclid",
+     "explanation": "In his Elements, about 300 BCE, a solid is that which has length, breadth and depth. Greek thinkers such as Plato studied the five regular solids."
+    },
+    {
+     "who": "Topologists",
+     "explanation": "Mathematicians who study shapes by stretching and bending say a mug and a doughnut are the same solid shape, since each has one hole. For them the exact shape matters less than how it connects."
+    }
+   ],
    "art": "A circle and a rectangle drawn on a sheet of paper, with a real ball and a real matchbox sitting beside them.",
    "chart": {
     "type": "table",
@@ -152,8 +161,7 @@
      ]
     ],
     "title": "Flat and solid"
-   },
-   "one_view": "\"A solid shape is a shape you can hold\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Flat faces and curved surfaces",
@@ -167,7 +175,16 @@
     "A cone: 1 flat face, 1 curved surface.",
     "A ball: no flat face. It is curved all over."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Geometers",
+     "explanation": "A flat face is a perfect plane and a curved surface is a perfect curve. These are ideas that real things only come near."
+    },
+    {
+     "who": "A microscope's view",
+     "explanation": "Look closer, and no table is perfectly flat. Its surface is made of tiny hills and valleys of atoms. 'Flat' depends on how closely we look."
+    }
+   ],
    "art": "A matchbox, a round tin, a paper cone and a ball in a row, each with its flat faces shaded in one colour.",
    "chart": {
     "type": "dots",
@@ -190,8 +207,7 @@
      }
     ],
     "title": "Count the flat faces"
-   },
-   "one_view": "\"Flat faces and curved surfaces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "A curved surface rolls. A flat face slides.",
@@ -204,7 +220,16 @@
     "A book stays on a tilted desk until the desk is steep.",
     "A dice does not roll down a slope. It slides."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "A ball rolls, a box slides. It depends on which part touches the ground."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Rolling also needs friction between the ground and the object. On smooth ice a ball may slide without turning. A cube can tumble over its edges, as a die does."
+    }
+   ],
    "art": "Two slopes side by side: on the gentle one a ball is rolling, on the steep one a matchbox is sliding with the same face down.",
    "chart": {
     "type": "table",
@@ -226,8 +251,7 @@
      ]
     ],
     "title": "What happened on the slope"
-   },
-   "one_view": "\"A curved surface rolls. A flat face slides.\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "One tin, two ways",
@@ -263,7 +287,7 @@
     ],
     "title": "One tin, two ways"
    },
-   "one_view": "\"One tin, two ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. The idea that a tin can roll on its curved side or slide on its flat end is a plain test anyone can repeat with the same result."
   },
   {
    "concept": "Four families: balls, boxes, tins and cones",
@@ -277,7 +301,16 @@
     "Tin shapes: a round dabba, a candle, a rolling pin, a drum.",
     "Cones: an ice-cream cone, a party cap, a funnel."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Greek geometers",
+     "explanation": "Plato described five perfect solids, built from flat faces that are all the same: cube, tetrahedron, octahedron, dodecahedron and icosahedron."
+    },
+    {
+     "who": "Crystal scientists",
+     "explanation": "Salt crystals grow as cubes, quartz as six-sided prisms, and many are other solids. Nature builds shapes that do not fit the four families."
+    }
+   ],
    "art": "Four trays labelled ball, box, tin and cone, each holding three everyday things of that shape.",
    "chart": {
     "type": "row",
@@ -311,8 +344,7 @@
      }
     ],
     "title": "Four families"
-   },
-   "one_view": "\"Four families: balls, boxes, tins and cones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Flat faces stack",
@@ -325,7 +357,16 @@
     "Idli plates stack because each one is flat underneath.",
     "Oranges are piled in a heap, not stacked in a straight tower."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Harappan builders",
+     "explanation": "Made bricks all in one ratio, 1 to 2 to 4, so they stacked and bonded neatly in tall walls."
+    },
+    {
+     "who": "Honeybees",
+     "explanation": "Build honeycomb from six-sided tubes that fit together with no gaps. Flat faces let them stack wax cells with the least wax."
+    }
+   ],
    "art": "A tower made of two matchboxes, then a round tin standing up, then a paper cone on top, with a lemon rolling away beside it.",
    "chart": {
     "type": "table",
@@ -352,8 +393,7 @@
      ]
     ],
     "title": "Can it stack?"
-   },
-   "one_view": "\"Flat faces stack\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Why a cone rolls in a curve",
@@ -386,7 +426,7 @@
      }
     ]
    },
-   "one_view": "\"Why a cone rolls in a curve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. A cone is wider at one end, so one side travels further than the other and it turns in a circle. This is a geometry fact that anyone can test."
   },
   {
    "concept": "Who chose the names?",
@@ -399,7 +439,16 @@
     "Tamil: urulai, from urul, to roll.",
     "Hindi: belan, the same word as a rolling pin."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ancient Greeks",
+     "explanation": "The word cylinder comes from kylindros, a Greek word linked to rolling. Sphere comes from sphaira, a ball. The names speak of what the shape does."
+    },
+    {
+     "who": "Chinese speakers",
+     "explanation": "Call the same shape yuanzhu, which means round pillar. It names what the shape looks like, not how it moves."
+    }
+   ],
    "art": "A rolling pin in the middle with three word labels around it: cylinder, urulai and belan.",
    "chart": {
     "type": "table",
@@ -426,8 +475,7 @@
      ]
     ],
     "title": "One shape, three words"
-   },
-   "one_view": "\"Who chose the names?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Is a coin flat or solid?",
@@ -529,7 +577,16 @@
     "Bricks are box shapes, so they stack into walls.",
     "The wheels of a bus, a cycle and a suitcase are short tin shapes."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Greek thinkers such as Aristotle",
+     "explanation": "Believed the heavens must be made of perfect spheres, because the sphere was the most perfect shape."
+    },
+    {
+     "who": "Physicists today",
+     "explanation": "Say gravity pulls big things into a ball, because every part is drawn toward the centre. Small space rocks stay lumpy, like potatoes, because their gravity is too weak to round them."
+    }
+   ],
    "art": "A street scene with the full Moon above, a brick wall, and a bus whose wheels are drawn boldly.",
    "chart": {
     "type": "table",
@@ -555,8 +612,7 @@
       "curved surface rolls"
      ]
     ]
-   },
-   "one_view": "\"Balls in the sky, boxes in the wall, tins under the bus\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   }
  ],
  "agreed": [

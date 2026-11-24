@@ -140,10 +140,18 @@
     "Many green sketch pens split into a yellow band and a blue band.",
     "Some black inks are made of one black substance, such as the carbon in Indian ink. These do not split."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Black ink looks like one colour, and it seems to be a simple thing."
+    },
+    {
+     "who": "Mikhail Tsvet",
+     "explanation": "In the early 1900s this Russian botanist split green leaf colour into bands by passing it through a column of chalk. He named the method chromatography, 'colour writing'. Black ink is also a mixture."
+    }
+   ],
    "art": "A black dot on a wet strip with arrows showing blue, purple and yellow dyes moving up the paper at different speeds.",
-   "context": "This card explains why a black dot turns into other colours on wet paper.",
-   "one_view": "\"Why black ink splits into colours\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why a black dot turns into other colours on wet paper."
   },
   {
    "concept": "Why some dyes travel further",
@@ -154,10 +162,18 @@
     "On kitchen towel, the blue in many black sketch pens travels further than the purple.",
     "If the water climbs 10 cm and a dye goes 5 cm, that dye went half the way. On a longer strip, it would still go about half the way."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Adsorption view",
+     "explanation": "A dye clings to the paper's surface, and the water carries it along, pulling it away. A strong clinger moves little."
+    },
+    {
+     "who": "Archer Martin and Richard Synge",
+     "explanation": "Their 1941 work, awarded a Nobel Prize in 1952, treated the water as one layer and the paper's wet fibres as another. A dye divides itself between them, and how it divides decides how far it goes."
+    }
+   ],
    "art": "A tall strip with the water line at the top and two bands, one high and one low, with a ruler beside it.",
-   "context": "This card explains why each dye stops at its own height on the strip.",
-   "one_view": "\"Why some dyes travel further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why each dye stops at its own height on the strip."
   },
   {
    "concept": "Some inks do not move in water",
@@ -168,10 +184,18 @@
     "A dot of ballpoint pen on a wet kitchen-towel strip stays a dot.",
     "A permanent marker dot also stays where it is, while a sketch pen dot next to it spreads."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Permanent ink is permanent. It will never come off or move."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "A substance only moves if the liquid can dissolve it. Permanent ink does not dissolve in water but does dissolve in alcohol. Forensic chemists choose liquids to match the ink."
+    }
+   ],
    "art": "Two strips side by side: a sketch pen dot spread into colour bands, and a ballpoint dot still a small dark dot.",
-   "context": "This card explains why some pens give no colour bands at all.",
-   "one_view": "\"Some inks do not move in water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why some pens give no colour bands at all."
   },
   {
    "concept": "Chromatography in labs today",
@@ -182,10 +206,18 @@
     "Food safety labs in India test chilli and turmeric powder for colours that are not allowed.",
     "A hospital lab can test a small sample of blood for many medicines at once."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Tsvet's time",
+     "explanation": "For about thirty years his method was ignored, until other scientists picked it up in the 1930s."
+    },
+    {
+     "who": "Labs today",
+     "explanation": "Use chromatography to test blood for medicines, food for poisons and air for pollution. It is one of the most used tools of chemistry."
+    }
+   ],
    "art": "A modern lab with a long thin coiled tube in a machine and a screen showing a line with peaks, next to a child's paper strip.",
-   "context": "This card shows how the paper strip idea is used in real labs.",
-   "one_view": "\"Chromatography in labs today\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card shows how the paper strip idea is used in real labs."
   },
   {
    "concept": "Every element has its own flame colour",
@@ -197,10 +229,18 @@
     "Old orange street lights glow with the light of hot sodium.",
     "Green fireworks usually have barium in them, and red ones strontium."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Robert Bunsen and Gustav Kirchhoff",
+     "explanation": "In 1860 they showed that each element glows with its own colour pattern in a flame, and used it to discover two new elements, caesium and rubidium."
+    },
+    {
+     "who": "Niels Bohr and later physicists",
+     "explanation": "Explained the colours from 1913: each atom has levels of energy for its electrons. When an electron drops down a level, it gives out light of one exact colour."
+    }
+   ],
    "art": "A row of five flames: blue gas flame, yellow-orange with sodium, green with copper, red with strontium and pale lilac with potassium.",
-   "context": "This card explains why salt changes the colour of a flame, and what other colours elements make.",
-   "one_view": "\"Every element has its own flame colour\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why salt changes the colour of a flame, and what other colours elements make."
   },
   {
    "concept": "Why heat makes coloured light",

@@ -80,9 +80,17 @@
     "A temple bell heard by everyone around it, on every side",
     "The cooker heard from round the corner of the kitchen door"
    ],
-   "perspectives": [],
-   "art": "A girl in the middle of a room tapping a tumbler, with rings of sound lines spreading out that grow fainter, and three children at different distances: the nearest smiling, the furthest cupping a hand.",
-   "one_view": "\"A sound spreads out, so it gets softer as it travels\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that the sound spreads over a bigger and bigger area, so each part gets less. It is the same law as for light."
+    },
+    {
+     "who": "Whale researchers",
+     "explanation": "Found that in deep ocean there is a layer where sound is trapped and can travel thousands of kilometres. A whale's call can be heard across an ocean."
+    }
+   ],
+   "art": "A girl in the middle of a room tapping a tumbler, with rings of sound lines spreading out that grow fainter, and three children at different distances: the nearest smiling, the furthest cupping a hand."
   },
   {
    "concept": "A cone sends more of a sound one way",
@@ -94,9 +102,17 @@
     "Cone-shaped loudspeakers on poles at festivals",
     "Cupping your hands round your mouth to call someone"
    ],
-   "perspectives": [],
-   "art": "Two pictures: a boy calling with no cone and sound lines going everywhere, and the same boy calling through a paper cone with most sound lines going forward to a friend.",
-   "one_view": "\"A cone sends more of a sound one way\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Make megaphones, horns and loudspeakers with a cone so that sound goes one way."
+    },
+    {
+     "who": "Cats and bats",
+     "explanation": "Have cone-shaped ears that gather sound from one direction, and can turn them. The animals use the same shape to listen."
+    }
+   ],
+   "art": "Two pictures: a boy calling with no cone and sound lines going everywhere, and the same boy calling through a paper cone with most sound lines going forward to a friend."
   },
   {
    "concept": "Sound takes a little time to travel",
@@ -108,9 +124,17 @@
     "Seeing a cricket bat hit a ball across a big ground, then hearing the knock a moment later",
     "Seeing fireworks burst in the sky, then hearing the bang"
    ],
-   "perspectives": [],
-   "art": "A night sky with a lightning flash over the sea, a family at a window counting on their fingers, and a rumble of thunder still on its way.",
-   "one_view": "\"Sound takes a little time to travel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Marin Mersenne",
+     "explanation": "In 1636 he measured the speed of sound in air by timing echoes. He found it to be about 300 metres in a second."
+    },
+    {
+     "who": "Daniel Colladon and Charles Sturm",
+     "explanation": "In 1826 on Lake Geneva they rang a bell under water and found sound travels about four times faster in water than in air. The speed depends on what the sound goes through."
+    }
+   ],
+   "art": "A night sky with a lightning flash over the sea, a family at a window counting on their fingers, and a rumble of thunder still on its way."
   }
  ],
  "agreed": [

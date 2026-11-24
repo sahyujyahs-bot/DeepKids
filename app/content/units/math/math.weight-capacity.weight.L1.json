@@ -136,7 +136,16 @@
     "Pencil on the left, spoon on the right: the right side goes down.",
     "A vegetable seller checks that her empty balance is level first."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Traders with stone weights",
+     "explanation": "Have used balance scales, the tula of India, for thousands of years. Heavier goes down."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "A balance compares mass, which is how much matter there is. Weight is the pull of gravity. On the Moon a balance still reads the same, while a spring scale reads less."
+    }
+   ],
    "art": "A hanger balance tipped down on the left with a potato in the left bag and a pencil in the right bag, and a small arrow pointing down beside the potato.",
    "chart": {
     "type": "balance",
@@ -150,8 +159,7 @@
     },
     "tilt": "left",
     "title": "Down means heavier"
-   },
-   "one_view": "\"How to read a balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "As heavy as: a level balance",
@@ -164,7 +172,16 @@
     "Two full matchboxes: level.",
     "A potato and an onion can be level, if they happen to weigh the same."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Early traders",
+     "explanation": "Used a stone or metal piece kept as the standard. 'As heavy as' meant as heavy as the royal weight."
+    },
+    {
+     "who": "The measurement scientists of 2019",
+     "explanation": "Redefined the kilogram using a number from physics, called the Planck constant, instead of a metal cylinder kept in Paris. 'The same weight' is now written in the laws of nature."
+    }
+   ],
    "art": "A hanger balance hanging perfectly level with one steel spoon in each bag.",
    "chart": {
     "type": "balance",
@@ -178,8 +195,7 @@
     },
     "tilt": "level",
     "title": "Level means as heavy as"
-   },
-   "one_view": "\"As heavy as: a level balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Bigger is not always heavier",
@@ -192,7 +208,16 @@
     "A balloon is bigger than a coin, and lighter.",
     "A big empty dabba is lighter than a small full one."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The old story says that he worked out whether a crown was pure gold by comparing how much water it pushed aside with how heavy it was. He understood that stuff differs in how tightly it is packed."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Call this packing density, the mass in each bit of space. Cotton and iron take the same room and are far apart in density."
+    }
+   ],
    "art": "A hanger balance with a large empty plastic bottle in the high bag and a small potato in the low bag.",
    "chart": {
     "type": "balance",
@@ -206,8 +231,7 @@
     },
     "tilt": "right",
     "title": "The small one is heavier"
-   },
-   "one_view": "\"Bigger is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "More things is not always heavier",
@@ -220,7 +244,16 @@
     "1 coconut is heavier than 20 curry leaves.",
     "5 coins that are alike are heavier than 3 of the same coins."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Traders",
+     "explanation": "Sell grain by weight rather than by counting. Ten heavy things and ten light things are unequal for them even though the number is the same."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "Treat counting and measuring differently: counting goes in whole steps, while weight can have any value. A count tells how many, and a weight tells how much."
+    }
+   ],
    "art": "A hanger balance with one lemon in the low left bag and a small heap of ten groundnuts in the high right bag.",
    "chart": {
     "type": "dots",
@@ -235,8 +268,7 @@
       "n": 10
      }
     ]
-   },
-   "one_view": "\"More things is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "A new shape, the same weight",
@@ -249,7 +281,16 @@
     "A sheet of paper and the same sheet crumpled into a ball weigh the same.",
     "A banana and the same banana cut into pieces weigh the same."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Antoine Lavoisier",
+     "explanation": "In the 1780s he weighed everything before and after reactions and showed that the total mass did not change. Matter is moved around but never lost."
+    },
+    {
+     "who": "The Vaisheshika school of India",
+     "explanation": "Taught that things are built of tiny unchanging atoms (anu) that join and part. A new shape is only a new arrangement."
+    }
+   ],
    "art": "A level hanger balance with a round ball of dough in one bag and a flat disc of dough in the other.",
    "chart": {
     "type": "balance",
@@ -263,8 +304,7 @@
     },
     "tilt": "level",
     "title": "The same dough, two shapes"
-   },
-   "one_view": "\"A new shape, the same weight\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Your hands can be fooled",
@@ -277,7 +317,16 @@
     "After you carry a heavy bag, a school bag feels light for a moment.",
     "A potato and an onion of nearly the same weight: your hands cannot be sure."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Psychologists",
+     "explanation": "Call this the size-weight illusion. It was written about by Charpentier in 1891. Even when you know the two weigh the same, your hand still says the small one is heavier."
+    },
+    {
+     "who": "Scale makers",
+     "explanation": "Use springs or balances. These do not feel expectations. They give the same reading for a small thing and a big thing of the same weight."
+    }
+   ],
    "art": "A child with a puzzled face holding a small box in one hand and a shoebox in the other, with the same two boxes hanging level on a hanger balance behind her.",
    "chart": {
     "type": "balance",
@@ -291,8 +340,7 @@
     },
     "tilt": "level",
     "title": "Level on the hanger"
-   },
-   "one_view": "\"Your hands can be fooled\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Squirrels and crows judge weight too",
@@ -305,9 +353,17 @@
     "A crow watches two things swing in the wind and picks the heavy one.",
     "A person choosing a coconut lifts and shakes each one."
    ],
-   "perspectives": [],
-   "art": "A squirrel sitting upright with a nut in her mouth, and beside her a crow watching two small objects swinging on strings.",
-   "one_view": "\"Squirrels and crows judge weight too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Animal-mind researchers",
+     "explanation": "Report that animals judge how heavy things are by lifting and testing, and choose what suits the task. They take this as sign of planning."
+    },
+    {
+     "who": "More cautious researchers",
+     "explanation": "Say we should check whether the animal is using a simpler cue, like how hard the lift felt. Both agree that the animal pays careful attention to weight."
+    }
+   ],
+   "art": "A squirrel sitting upright with a nut in her mouth, and beside her a crow watching two small objects swinging on strings."
   },
   {
    "concept": "On the Moon, a level balance stays level",

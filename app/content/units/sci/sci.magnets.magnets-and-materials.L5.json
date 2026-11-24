@@ -137,9 +137,17 @@
     "A fridge door is a magnetic material. It attracts no pins, but a magnet sticks to it.",
     "Two fridge magnets can push each other apart. A magnet and a nail never push apart."
    ],
-   "perspectives": [],
-   "art": "Three small drawings: two nails doing nothing, a magnet holding a nail, and one bar touching the middle of another bar in a T shape.",
-   "one_view": "\"A magnet and a magnetic material are different things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A magnet attracts steel and ignores wood, so materials are magnetic or not."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "In 1845 he showed that all materials react to a strong magnet, though most do so very weakly. Some are pushed away a little, which is called diamagnetism."
+    }
+   ],
+   "art": "Three small drawings: two nails doing nothing, a magnet holding a nail, and one bar touching the middle of another bar in a T shape."
   },
   {
    "concept": "Only a few metals are magnetic",
@@ -173,9 +181,17 @@
     "Gold stamped 916 is 91.6 parts gold in every 100. The rest is mostly copper and silver.",
     "The golden five-rupee coin is nickel-brass: copper, zinc and a little nickel."
    ],
-   "perspectives": [],
-   "art": "A zoom circle into a piece of brass showing two kinds of tiny balls, orange and grey, mixed together in neat rows.",
-   "one_view": "\"An alloy is a mixture of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Indian metalworkers",
+     "explanation": "Made wootz, a steel with carbon mixed into iron in clay crucibles, from about 2,000 years ago. Swords made from it were prized across Asia and Europe."
+    },
+    {
+     "who": "Modern metallurgists",
+     "explanation": "Find that some alloys are not a loose mixture but have a fixed pattern of atoms, like a compound. Both mixing and compounds are found in alloys."
+    }
+   ],
+   "art": "A zoom circle into a piece of brass showing two kinds of tiny balls, orange and grey, mixed together in neat rows."
   },
   {
    "concept": "Indian coins are made of four different alloys",
@@ -187,9 +203,17 @@
     "The magnet left the golden five-rupee coin and the ten-rupee coin on the table.",
     "An eleven-sided two-rupee coin from the 1990s is not attracted, though it is worth the same."
    ],
-   "perspectives": [],
-   "art": "Four Indian coins in a row, each with a label under it naming its alloy, and a magnet above the first two.",
-   "one_view": "\"Indian coins are made of four different alloys\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Rulers of old",
+     "explanation": "Wanted coins to be worth their metal, so Sher Shah Suri's rupee of 1540 was made of silver. The value was in the metal itself."
+    },
+    {
+     "who": "Today's mints",
+     "explanation": "Make coins from cheap alloys because the value is set by law, not by the metal. They choose alloys that wear slowly and are hard to copy."
+    }
+   ],
+   "art": "Four Indian coins in a row, each with a label under it naming its alloy, and a magnet above the first two."
   },
   {
    "concept": "The list of metals in an alloy does not tell you whether it is magnetic",
@@ -201,9 +225,17 @@
     "Kitchen stainless steel is mostly iron. Even so, a magnet does not attract it, or attracts it only faintly.",
     "Heusler's alloy is made only of copper, manganese and aluminium. None of them is magnetic, and a magnet still attracts the alloy strongly."
    ],
-   "perspectives": [],
-   "art": "Two recipe cards side by side: one says copper plus nickel with a crossed-out magnet, the other says copper plus manganese plus aluminium with a magnet holding the metal.",
-   "one_view": "\"The list of metals in an alloy does not tell you whether it is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Fritz Heusler",
+     "explanation": "In 1903 he made an alloy of copper, manganese and aluminium that is magnetic, though none of the three metals is magnetic alone. These are now called Heusler alloys."
+    },
+    {
+     "who": "Steel makers",
+     "explanation": "Know that stainless steels with nickel and chromium may be non-magnetic even though iron is the main metal, because nickel changes the pattern of the atoms."
+    }
+   ],
+   "art": "Two recipe cards side by side: one says copper plus nickel with a crossed-out magnet, the other says copper plus manganese plus aluminium with a magnet holding the metal."
   },
   {
    "concept": "Every iron atom is a tiny magnet",
@@ -273,9 +305,17 @@
     "A black tawa and a shiny safety pin look different and both are attracted.",
     "The cap of a glass soda bottle looks painted, but it is thin steel, and a magnet lifts it."
    ],
-   "perspectives": [],
-   "art": "A magnet between two look-alike silver things, a coin clinging to it and a steel plate not, with a brass lamp and a black tawa in the background.",
-   "one_view": "\"No clue you can see tells you whether a metal is magnetic\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Thales, as told by Aristotle",
+     "explanation": "Said that the lodestone has a soul because it moves iron. He judged by what he saw, and looked for a cause in life."
+    },
+    {
+     "who": "William Gilbert",
+     "explanation": "In 1600 he tested many materials with lodestones, wrote down the results and argued that you must test to find out. His book De Magnete began the study of magnetism."
+    }
+   ],
+   "art": "A magnet between two look-alike silver things, a coin clinging to it and a steel plate not, with a brass lamp and a black tawa in the background."
   },
   {
    "concept": "A fair test of metals",
@@ -287,9 +327,17 @@
     "A pressure cooker can be aluminium with a steel plate in its base, so its side and its base answer differently.",
     "A result of 'weak' on a steel tumbler is still a result. Write it down."
    ],
-   "perspectives": [],
-   "art": "A notebook table with columns for the thing, the prediction and the result, beside a magnet and a row of small metal things.",
-   "one_view": "\"A fair test of metals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Ibn al-Haytham",
+     "explanation": "In the 1000s he wrote that a careful scientist tests ideas under controlled conditions, and repeats them, before believing them."
+    },
+    {
+     "who": "Francis Bacon",
+     "explanation": "In the early 1600s he argued for experiments that change one thing at a time, written down and shared. Both ideas shaped how scientists work now."
+    }
+   ],
+   "art": "A notebook table with columns for the thing, the prediction and the result, beside a magnet and a row of small metal things."
   },
   {
    "concept": "What a magnet test can and cannot tell you",
@@ -301,9 +349,17 @@
     "A magnet sticks to a 'brass' sheet that is really steel with a thin brass coat.",
     "A magnet does not stick to a steel plate, and the plate is still mostly iron."
    ],
-   "perspectives": [],
-   "art": "A magnet lifting a ball of foil, with a cut-away view showing a coin hidden inside the ball.",
-   "one_view": "\"What a magnet test can and cannot tell you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Karl Popper",
+     "explanation": "Wrote that a test can show that an idea fails, but never prove it forever. A 'no' from a magnet only says 'not found here'."
+    },
+    {
+     "who": "Physicists with sensitive instruments",
+     "explanation": "Use devices called SQUID magnetometers, which sense magnetism millions of times weaker than a hand magnet can. Many things that a magnet ignores still have a faint magnetism."
+    }
+   ],
+   "art": "A magnet lifting a ball of foil, with a cut-away view showing a coin hidden inside the ball."
   },
   {
    "concept": "Choosing an alloy for the job: bone pins and scanners",
@@ -315,9 +371,17 @@
     "A ship built to find sea mines has a hull that magnets do not attract.",
     "A fridge door seal holds because the fridge door is a magnetic steel."
    ],
-   "perspectives": [],
-   "art": "A hospital scanner shaped like a large ring, with a small drawing beside it of a mended arm bone held by a metal plate.",
-   "one_view": "\"Choosing an alloy for the job: bone pins and scanners\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Pick magnetic alloys for motors and non-magnetic ones for tools used near an MRI scanner, whose magnet is strong enough to pull steel into it."
+    },
+    {
+     "who": "Magnet-sensing animals",
+     "explanation": "Some bacteria, bees and birds have tiny crystals of magnetite in their bodies, an iron mineral, and use them to sense the Earth's magnetism. Living things choose magnetic materials too."
+    }
+   ],
+   "art": "A hospital scanner shaped like a large ring, with a small drawing beside it of a mended arm bone held by a metal plate."
   },
   {
    "concept": "The same carbon atoms give two answers to a magnet",
@@ -329,9 +393,17 @@
     "Lonsdale and Krishnan published their measurements together in 1936.",
     "Coin steel and kitchen steel show the same idea with iron. The atoms are the same, and the pattern decides how a magnet answers."
    ],
-   "perspectives": [],
-   "art": "Two zoom circles, one showing carbon atoms in flat honeycomb sheets labelled graphite and one showing a tight three-dimensional net labelled diamond.",
-   "one_view": "\"The same carbon atoms give two answers to a magnet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Magnets only pull. Anything that is not pulled is simply not magnetic."
+    },
+    {
+     "who": "Michael Berry and Andre Geim",
+     "explanation": "In 1997 they made a living frog float in the air with a very strong magnet. Water in the frog is slightly pushed away by magnets, so a strong enough field can balance its weight."
+    }
+   ],
+   "art": "Two zoom circles, one showing carbon atoms in flat honeycomb sheets labelled graphite and one showing a tight three-dimensional net labelled diamond."
   },
   {
    "concept": "Iron and nickel from space, and a magnet nobody could make",

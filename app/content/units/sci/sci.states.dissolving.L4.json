@@ -131,10 +131,18 @@
     "Carotene, the orange pigment of carrots, is the solute in the orange ghee of carrot halwa.",
     "Nail polish remover is the solvent that lifts nail polish, which water cannot do."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Alchemists such as Paracelsus and Van Helmont",
+     "explanation": "Searched for the alkahest, a liquid that would dissolve everything."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Know that no such liquid can exist. It would dissolve its own container. Each solvent works on some substances and not others."
+    }
+   ],
    "art": "Three jars: salt in water, turmeric in oil and nail polish in remover, each with the words solute and solvent pointing to the right parts.",
-   "context": "This card explains the two parts of every solution, because the rest of the unit asks which solvent takes which solute.",
-   "one_view": "\"Solute and solvent: who dissolves whom\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the two parts of every solution, because the rest of the unit asks which solvent takes which solute."
   },
   {
    "concept": "How strong a solution is: concentration",
@@ -146,10 +154,18 @@
     "Sherbet syrup is a concentrated solution of sugar, and a tall glass of sherbet is a diluted one.",
     "A water purifier with a TDS meter shows how many milligrams of dissolved solids, such as salts, are in each litre of water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Measure concentration in moles per litre, a count of particles, so that solutions of different substances can be compared."
+    },
+    {
+     "who": "Ayurvedic physicians",
+     "explanation": "Prepare kashaya, a herbal drink, by boiling herbs in water until only a quarter is left. The strength is set by how much water is boiled away."
+    }
+   ],
    "art": "A small cup and a big tumbler each with the same two salt dots, the small cup crowded and the tumbler spread out.",
-   "context": "This card explains what 'strong' and 'weak' mean for a solution, because the freezing and soda tests depend on how much is dissolved.",
-   "one_view": "\"How strong a solution is: concentration\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what 'strong' and 'weak' mean for a solution, because the freezing and soda tests depend on how much is dissolved."
   },
   {
    "concept": "Three kinds of mixtures: solution, suspension and colloid",
@@ -161,10 +177,18 @@
     "Muddy puddle water and atta stirred in water are suspensions.",
     "Milk, fog, smoke from an agarbatti and jelly are colloids."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Thomas Graham",
+     "explanation": "In 1861 gave the name colloid, from the Greek for glue, to stuff like gelatin whose particles do not pass through a thin skin."
+    },
+    {
+     "who": "John Tyndall",
+     "explanation": "In 1869 showed that a beam of light makes a path visible in a colloid, like milk or fog, and not in a true solution. The path is the Tyndall effect."
+    }
+   ],
    "art": "Three glasses lit from the side by a torch: clear salt water with no beam, muddy water with a beam and mud at the bottom, and milk with a beam and nothing at the bottom.",
-   "context": "This card explains the three kinds of mixtures sorted in the Look, Torch and Wait activity.",
-   "one_view": "\"Three kinds of mixtures: solution, suspension and colloid\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the three kinds of mixtures sorted in the Look, Torch and Wait activity."
   },
   {
    "concept": "Why water takes salt and sugar but not oil",
@@ -176,10 +200,18 @@
     "Coconut oil does not dissolve in water because it has no charged or sticky spots for water to hold.",
     "Camphor and wax dissolve in oil because they are oily too."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Linus Pauling",
+     "explanation": "In the 1930s he explained that atoms pull on shared electrons by different amounts, which makes water molecules slightly positive at one end and negative at the other."
+    },
+    {
+     "who": "Computer simulation chemists",
+     "explanation": "Today watch the water molecules in models and find that their grip on each ion is always changing, with each molecule swapping partners trillions of times a second."
+    }
+   ],
    "art": "A zoomed-in water molecule with a red negative end and white positive ends, gripping a salt ion on one side and a sugar molecule on the other, with an oil molecule floating away.",
-   "context": "This card explains the rule 'like dissolves like', which you see at work in the Water or Oil test.",
-   "one_view": "\"Why water takes salt and sugar but not oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the rule 'like dissolves like', which you see at work in the Water or Oil test."
   },
   {
    "concept": "Things that dissolve in oil",
@@ -191,10 +223,18 @@
     "Carrot halwa turns orange because carotene dissolves in the ghee.",
     "A greasy hairband and a turmeric-stained box both clean better with oil or soap than with water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Makes medicated ghee and oils (ghrita and taila), by cooking herbs in fat, because the healing parts are drawn out by fat and not by water."
+    },
+    {
+     "who": "Nutrition scientists",
+     "explanation": "Explain that vitamins A, D, E and K are fat-soluble, so a little oil in a meal helps the body take them in."
+    }
+   ],
    "art": "A white plastic box with a yellow stain, a jar of warm oil with golden colour in it, and an arrow showing colour moving from the box to the oil.",
-   "context": "This card explains why turmeric and chilli colours go into oil in the Water or Oil test.",
-   "one_view": "\"Things that dissolve in oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why turmeric and chilli colours go into oil in the Water or Oil test."
   },
   {
    "concept": "Why chilli burns and curd helps",
@@ -206,10 +246,18 @@
     "Washing chilli-cut fingers with oil or soap works better than water alone.",
     "Rice, bread and coconut also soak up some of the hot chemical."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Wilbur Scoville",
+     "explanation": "In 1912 he rated chillies by how much sugar water it took to cancel the burn. His scale of hotness is still used."
+    },
+    {
+     "who": "Plant and bird researchers",
+     "explanation": "Found that birds do not feel the burn of capsaicin, while mammals do. A chilli plant is hot for animals that chew its seeds and safe for the birds that carry them."
+    }
+   ],
    "art": "A grown-up with watering eyes holding a glass of water that is not helping, and a bowl of curd with a spoon beside it, with arrows showing the burn moving into the curd.",
-   "context": "This card explains why curd soothes a chilli burn better than water, using the idea that chilli heat dissolves in fat.",
-   "one_view": "\"Why chilli burns and curd helps\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why curd soothes a chilli burn better than water, using the idea that chilli heat dissolves in fat."
   },
   {
    "concept": "Soap has one end for water and one for oil",
@@ -221,10 +269,18 @@
     "Milk stays an even white because its fat drops are held apart by molecules with a water end.",
     "Hair shampoo lifts oil from hair in the same way."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Reetha and shikakai users",
+     "explanation": "Indian families have long washed hair and cloth with soapnut (reetha) and shikakai, plants that foam in water and lift oil."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Explain with the idea of micelles, from James McBain in 1913. The oily tails of soap molecules crowd inside a ball and hide the dirt, and the watery heads face outward."
+    }
+   ],
    "art": "A greasy plate with tadpole-shaped soap molecules sticking their tails into a grease drop and their heads into the water.",
-   "context": "This card explains how soap lets oil and water mix, which you can see when you shake oil and water in a bottle with a drop of soap.",
-   "one_view": "\"Soap has one end for water and one for oil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains how soap lets oil and water mix, which you can see when you shake oil and water in a bottle with a drop of soap."
   },
   {
    "concept": "Gases dissolve in liquids too",
@@ -236,10 +292,18 @@
     "Goli soda has a glass marble held in the neck by the pressure of the gas inside.",
     "Fish gulp at the surface of a hot, still pond because the warm water holds little oxygen."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "William Henry",
+     "explanation": "In 1803 found that the amount of gas that dissolves is proportional to its pressure. A fizzy drink opened fast loses the gas."
+    },
+    {
+     "who": "Fish",
+     "explanation": "Breathe the oxygen dissolved in water through their gills. Warm water holds less oxygen, which is why fish in a warm pond may struggle."
+    }
+   ],
    "art": "Two soda bottles being opened, a cold one with a gentle thread of bubbles and a warm one gushing foam, with dots showing gas leaving the liquid.",
-   "context": "This card explains the fizz test, in which a cold soda and a warm soda behave differently.",
-   "one_view": "\"Gases dissolve in liquids too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the fizz test, in which a cold soda and a warm soda behave differently."
   },
   {
    "concept": "Salt makes ice melt, and makes the mixture colder",
@@ -251,10 +315,18 @@
     "Sea water stays liquid at zero degrees, when a freshwater lake has already frozen.",
     "Salt on an icy road melts the ice, unless the road is so cold that even the salty water freezes."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say that dissolved salt makes it harder for water to freeze, so salty ice melts and gets colder as it takes in heat. Charles Blagden measured this in 1788."
+    },
+    {
+     "who": "Kulfi makers",
+     "explanation": "Pack their moulds in ice mixed with salt, to get a temperature below freezing and set the kulfi without a machine. A cook's trick that works by the same law."
+    }
+   ],
    "art": "A pot of kulfi mixture sitting in a matka packed with ice and salt, with a thermometer in the ice reading far below zero.",
-   "context": "This card explains why salt on ice makes kulfi freeze, which you test in the Kulfi in a Bag experiment.",
-   "one_view": "\"Salt makes ice melt, and makes the mixture colder\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why salt on ice makes kulfi freeze, which you test in the Kulfi in a Bag experiment."
   },
   {
    "concept": "Cell skins: oil and water kept apart",
@@ -289,10 +361,18 @@
     "Stalactites form as dripping water leaves a little dissolved limestone behind each time.",
     "The white scale inside a kettle is dissolved minerals left behind by evaporating water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Glass and stone do not dissolve."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that even quartz dissolves a little. Hot springs carry silica, and over years glassware in a lab slowly gives up ions. 'Insoluble' means 'very little'."
+    }
+   ],
    "art": "A cross-section of a limestone hill with raindrops sinking through it and a large cave below with stalactites hanging from the roof.",
-   "context": "This card is about the idea that even things we call insoluble dissolve a tiny bit, and what that can do over a very long time.",
-   "one_view": "\"Almost nothing is completely insoluble\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about the idea that even things we call insoluble dissolve a tiny bit, and what that can do over a very long time."
   },
   {
    "concept": "The sea holds dissolved gas, as soda does",
@@ -304,10 +384,18 @@
     "A warm ocean holds less dissolved gas than a cold one, just as a warm soda does.",
     "Plankton in the sea take dissolved carbon dioxide and make food from it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Climate scientists",
+     "explanation": "Find that the ocean takes in about a quarter of the carbon dioxide people release, which slows warming of the air."
+    },
+    {
+     "who": "Marine biologists",
+     "explanation": "Warn that this dissolved gas turns the sea a little more acid, which makes it harder for corals, snails and plankton to build shells. The sea's help comes at a cost."
+    }
+   ],
    "art": "Arrows of carbon dioxide going from the air into the surface of the sea, with a shelled snail and a coral below.",
-   "context": "This card applies the soda idea to the whole sea: gases dissolve in water, and more so when it is cold.",
-   "one_view": "\"The sea holds dissolved gas, as soda does\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card applies the soda idea to the whole sea: gases dissolve in water, and more so when it is cold."
   }
  ],
  "agreed": [
