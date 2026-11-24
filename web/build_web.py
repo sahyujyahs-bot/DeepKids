@@ -3,7 +3,7 @@
     python3 web/build_web.py
 
 Reads app/build/template.html (the app after all UI patches) and app/build/data.json (all content),
-and writes web/public/: index.html, app.js, data.js, platform.js, sw.js, manifest, icons, _headers.
+and writes web/public/: index.html, app.js, data.json, platform.js, sw.js, manifest, icons, _headers.
 web/public/config.js is written once with empty values; fill it in (see web/SETUP.md) and it is never overwritten.
 """
 import hashlib, json, os, re, shutil
@@ -45,7 +45,7 @@ build = app_hash + data_hash[:4] + plat_hash
 
 os.makedirs(os.path.join(PUB, 'icons'), exist_ok=True)
 open(os.path.join(PUB, 'app.js'), 'w').write(script)
-open(os.path.join(PUB, 'data.js'), 'w').write('window.DK_DATA=' + DATA + ';\n')
+open(os.path.join(PUB, 'data.json'), 'w').write(DATA)  # plain JSON: the browser reads it about three times faster than the same thing as script
 shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js'))
 shutil.copy(os.path.join(ROOT, 'app/content/welcome.json'), os.path.join(PUB, 'welcome.json'))  # the sign-in page's slides: the same list the app uses
 shutil.copy(os.path.join(WEB, 'src/privacy.html'), os.path.join(PUB, 'privacy.html'))  # linked from Google sign-in's consent screen
@@ -172,11 +172,11 @@ open(os.path.join(PUB, '_headers'), 'w').write('''/*
   Cache-Control: no-cache
 /app.js
   Cache-Control: public, max-age=31536000, immutable
-/data.js
+/data.json
   Cache-Control: public, max-age=31536000, immutable
 /platform.js
   Cache-Control: public, max-age=31536000, immutable
 /vendor/*
   Cache-Control: public, max-age=31536000, immutable
 ''')
-print('built web/public', build, f'app.js {len(script)//1024} KB, data.js {len(DATA)//1024} KB')
+print('built web/public', build, f'app.js {len(script)//1024} KB, data.json {len(DATA)//1024} KB')

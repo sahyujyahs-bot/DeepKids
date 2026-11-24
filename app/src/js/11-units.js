@@ -1773,6 +1773,9 @@ function fxPS(id, p) {
   return "none";
 }
 function fxStates(id) {
+  return drawnOnce("fxs|" + id, () => fxStatesOf(id));
+}
+function fxStatesOf(id) {
   const I = DATA.units?.[id] || {},
     P = I.parts || [],
     S0 = P.map((p) => fxPS(id, p)),
@@ -1783,6 +1786,9 @@ function fxStates(id) {
 }
 // a part skipped while a later one was finished = pending; the extras are optional
 function fxUnitSt(k) {
+  return drawnOnce("fxu|" + k, () => fxUnitStOf(k));
+}
+function fxUnitStOf(k) {
   const id = k.slice(5),
     I = DATA.units?.[id];
   if (!I) return S.progress[k]?.status || "none";

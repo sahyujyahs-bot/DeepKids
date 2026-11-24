@@ -218,7 +218,7 @@
   async function boot(){
     // the content is the big download: start it now, while signing in happens. Its version changes only when the
     // lessons change, so after the first visit it comes from the phone's cache
-    const content=load("/data.js?v="+(window.DK_DATAV||window.DK_BUILD||""));content.catch(()=>{});
+    const content=fetch("/data.json?v="+(window.DK_DATAV||window.DK_BUILD||"")).then(r=>{if(!r.ok)throw new Error("load data");return r.json()}).then(d=>{window.DK_DATA=d});content.catch(()=>{});
     if(T){sb=T.supabase;session=T.session;uid=session.user.id}
     else{if(!ready)return signInScreen();sb=window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"pkce"}});
       const {data}=await sb.auth.getSession();session=data?.session;

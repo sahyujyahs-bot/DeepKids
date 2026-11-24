@@ -653,6 +653,8 @@ const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote",
 // Drawing a screen asks for the same day several times and each ask takes about 30 ms, so render() keeps each day it has
 // worked out until the screen is drawn
 let _planMemo = null;
+// the same, for any other figure a screen asks for many times: worked out once per drawn screen
+const drawnOnce = (key, work) => (_planMemo ? (key in _planMemo ? _planMemo[key] : (_planMemo[key] = work())) : work());
 function dayPlan(date) {
   if (_planMemo?.[date]) return _planMemo[date];
   const L = planFor(date);
