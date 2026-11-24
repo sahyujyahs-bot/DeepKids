@@ -227,12 +227,7 @@ function onTrackView() {
       if (!U.length) return "";
       const isDone = (u) => rank[statusOf(u.k)] >= 2,
         done = U.filter(isDone).length,
-        // a school's pace, but never more than the family's lesson days since they started could cover
-        weeks = Math.max(0, (parse(today) - parse(S.start || today)) / (7 * 864e5)),
-        avgDays = U.reduce((a, u) => a + sessionsFor(u), 0) / U.length,
-        pace = Math.floor((weeks * daysOf(s).length) / Math.max(1, avgDays)),
-        schoolExp = Math.round(Y.gone * U.length),
-        exp = Math.min(schoolExp, pace),
+        exp = Math.round(Y.gone * U.length),
         gap = done - exp,
         catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
         // topics done at any level count as extras, whatever level the family chose for the subject
@@ -252,13 +247,13 @@ function onTrackView() {
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
       return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]} · Class ${DATA.levels[S.levels[s]].cls}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
-       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", "A school would have done by now", schoolExp)}${exp < schoolExp ? bar("school", `Counted since you started (${fmt(S.start)})`, exp) : ""}
+       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", "A school would have done by now", exp)}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
     .join("");
   return rows
-    ? `<section class="sec"><div class="sech"><h3>How we compare with school</h3></div><div class="card ontrack"><p class="sm">This compares what ${esc(S.child || "your child")} has finished with what a child at school in the same class would have covered by today. If you started partway through the school year, we only count the lesson days since you started.</p><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · Each subject below is measured against the class your child is working at.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
+    ? `<section class="sec"><div class="sech"><h3>How we compare with school</h3></div><div class="card ontrack"><p class="sm">This compares what ${esc(S.child || "your child")} has finished with what a child at school in the same class would have covered by today. Whenever you started, it is always measured against the whole school year. A topic here is one unit of the class, and each takes several lessons.</p><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · Each subject below is measured against the class your child is working at.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
     : "";
 }
 function viewJourneyTabs() {
