@@ -1601,7 +1601,6 @@ Object.assign(ACT, {
     S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
-    toast("Taken out of Up next");
     toast("Moved to later");
     commit();
   },
@@ -1610,6 +1609,7 @@ Object.assign(ACT, {
     S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== k) };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
+    toast("Taken out of Up next");
     commit();
   },
   qadd(b, e, a, k) {

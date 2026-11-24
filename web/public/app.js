@@ -8748,8 +8748,10 @@ const CHREF = {
   cambridge: (i) => `Stage ${i.level} Unit ${i.n}`,
   nios: (i) => `Lesson ${i.n}`,
 };
-const fxUnitBtns = (L) =>
-  L.map((x) => {
+// a lesson is in the plan when the class plan holds it or the family added it
+const fxUnitBtns = (L) => {
+  const planned = Object.fromEntries(S.subjects.map((sj) => [sj, new Set(plannedUnits(sj).map((u) => u.k))]));
+  return L.map((x) => {
     const I = DATA.units?.[x.id] || {},
       k = "unit|" + x.id,
       u = unitBy(k),
@@ -8760,7 +8762,7 @@ const fxUnitBtns = (L) =>
       SD = u ? sessionsFor(u) : 0,
       s = u?.subj || "sci",
       open = dkUnitOpen(x.id),
-      inPlan = (S.extra?.[s] || []).includes(k),
+      inPlan = (S.extra?.[s] || []).includes(k) || !!planned[s]?.has(k),
       q = `data-act="fxq" data-s="${s}" data-k="${esc(k)}"`;
     return unitCard({
       act: `data-act="fxopen" data-u="${esc(x.id)}"`,
@@ -8783,9 +8785,10 @@ const fxUnitBtns = (L) =>
         ? ""
         : inPlan
           ? `<b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button>`
-          : `<button class="link xs" ${q}>or add it at the end of the plan</button>`,
+          : `<span class="xs muted">The + puts it next in your plan. Or </span><button class="link xs" ${q}>put it last</button>`,
     });
   }).join("");
+};
 // what a locked unit says when tapped
 const dkLocked = () =>
   toast(
@@ -13665,7 +13668,6 @@ Object.assign(ACT, {
     S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
-    toast("Taken out of Up next");
     toast("Moved to later");
     commit();
   },
@@ -13674,6 +13676,7 @@ Object.assign(ACT, {
     S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== k) };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
+    toast("Taken out of Up next");
     commit();
   },
   qadd(b, e, a, k) {
