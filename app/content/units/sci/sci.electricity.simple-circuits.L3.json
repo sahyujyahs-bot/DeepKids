@@ -176,10 +176,18 @@
     "In many homes, the geyser switch is outside the bathroom, away from water.",
     "If a kite gets stuck on a power line, leave it there and tell a grown-up."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Safety engineers",
+     "explanation": "Add layers: insulated wires, earth wires, fuses and switches that cut off power in a fraction of a second."
+    },
+    {
+     "who": "Physiologists",
+     "explanation": "Note that harm depends on how big the current is, how long it flows and where it goes. A small current for a short time may be felt only; a small current through the chest can be deadly."
+    }
+   ],
    "art": "A child drying their hands on a towel before a grown-up switches on a light, and a kite caught on a power line with a red cross beside it.",
-   "context": "This card gives the safety rules for electricity, and the reason behind each rule.",
-   "one_view": "\"Staying safe with electricity\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card gives the safety rules for electricity, and the reason behind each rule."
   },
   {
    "concept": "A complete circuit",
@@ -191,10 +199,18 @@
     "A bulb holder has two screws. One joins to the bulb's tip and one to its side.",
     "A bulb lights whichever way round the cell is joined. An LED lights only one way round."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Teachers using the water picture",
+     "explanation": "Imagine electricity as water pushed around a pipe loop by a pump. It helps us see why a loop is needed."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Show with the work of John Poynting in 1884 that the energy of a circuit travels in the space around the wires, as electric and magnetic fields. The wires guide the energy."
+    }
+   ],
    "art": "A torch bulb on an AA cell, with a dotted path drawn from the cell's top through the bulb's tip, round the filament, out of its side, down a wire and into the cell's bottom.",
-   "context": "Why does one wire to a bulb not light it? This card shows the full loop the electricity takes.",
-   "one_view": "\"A complete circuit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "Why does one wire to a bulb not light it? This card shows the full loop the electricity takes."
   },
   {
    "concept": "Why a broken circuit stops everything",
@@ -206,10 +222,18 @@
     "When one bulb in an old string of festival lights breaks, the whole string can go dark.",
     "A rusty or greasy spring in a torch can stop the loop, because rust is a poor conductor."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "When the loop is cut, the whole circuit goes dead at once."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say the change spreads along the wire at close to the speed of light, so it seems at once. The electrons themselves drift at only a fraction of a millimetre per second."
+    }
+   ],
    "art": "Three loops, each with a dark bulb and a gap in a different place: next to the cell, next to the bulb, and in the middle of a wire.",
-   "context": "This card explains why a gap anywhere in a circuit stops the bulb, and how to find the gap.",
-   "one_view": "\"Why a broken circuit stops everything\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why a gap anywhere in a circuit stops the bulb, and how to find the gap."
   },
   {
    "concept": "Conductors and insulators",
@@ -221,10 +245,18 @@
     "A screwdriver for electricians has a steel tip and a thick plastic handle.",
     "Electricians' gloves are made of rubber."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Stephen Gray",
+     "explanation": "In 1729 he discovered that electricity could pass along some materials, like wet thread, and not others, like silk. He gave us the first idea of conductors and insulators."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Find a middle group, semiconductors, such as silicon. They sometimes conduct and sometimes do not, and computers are made of them. Even air conducts in lightning."
+    }
+   ],
    "art": "A plug cut in half lengthwise, showing copper wires and brass pins inside, wrapped in plastic.",
-   "context": "Why are wires made of copper with plastic around them? This card explains which materials let electricity through and which do not.",
-   "one_view": "\"Conductors and insulators\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "Why are wires made of copper with plastic around them? This card explains which materials let electricity through and which do not."
   },
   {
    "concept": "How a switch works",
@@ -236,10 +268,18 @@
     "A doorbell button is a press switch. It is on only while you press it.",
     "Many torches have a slide switch."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Electricians",
+     "explanation": "A switch is a gap that is closed or opened with a lever, by hand."
+    },
+    {
+     "who": "Bardeen, Brattain and Shockley",
+     "explanation": "In 1947 they invented the transistor, a switch with no moving part that is turned on and off by a tiny electric signal. A modern phone holds billions of them."
+    }
+   ],
    "art": "A paper clip switch on cardboard, shown twice: open, with a dark bulb, and closed, with a glowing bulb.",
-   "context": "How does a switch turn a light on and off? This card shows what happens inside it, and how to make one.",
-   "one_view": "\"How a switch works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "How does a switch turn a light on and off? This card shows what happens inside it, and how to make one."
   },
   {
    "concept": "What is moving in the wire",

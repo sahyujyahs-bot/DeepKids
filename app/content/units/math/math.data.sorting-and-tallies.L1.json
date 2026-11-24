@@ -114,7 +114,16 @@
     "After the wash, each person's clothes go in that person's pile.",
     "A vegetable seller keeps tomatoes in one heap and onions in another."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Carl Linnaeus",
+     "explanation": "In the 1700s Linnaeus sorted plants and animals into groups by features he could see. His method is still the base of how living things are named."
+    },
+    {
+     "who": "Ethnobiologists",
+     "explanation": "Scientists who study how traditional peoples name nature find that many sort plants by use, place or smell: what heals, what feeds, what grows by water. Each sorting rule is right for its purpose."
+    }
+   ],
    "art": "A jumble of circles and squares on the left, and on the right the same shapes in two neat groups.",
    "chart": {
     "type": "row",
@@ -142,8 +151,7 @@
      }
     ],
     "title": "The opening puzzle, sorted by shape"
-   },
-   "one_view": "\"Sorting puts like with like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Count each group: most and fewest",
@@ -156,7 +164,16 @@
     "In a family of 4 with 3 fans at home, there are more people than fans.",
     "Rows only work if the things are spaced the same. One thing in each floor tile is a good way."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A statistician",
+     "explanation": "A count of each group is called a frequency. It shows how a whole set is spread out. 'Most' always depends on the rule that made the groups."
+    },
+    {
+     "who": "Researchers studying animal minds",
+     "explanation": "Many animals, such as fish and bees, pick the bigger group of food or friends without using number words. So noticing 'more' is older than counting with numbers."
+    }
+   ],
    "art": "Three rows of kitchen things laid on floor tiles, one thing in each tile: six spoons, four cups and five lids.",
    "chart": {
     "type": "dots",
@@ -174,8 +191,7 @@
       "n": 5
      }
     ]
-   },
-   "one_view": "\"Count each group: most and fewest\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "One heap can be sorted in many ways",
@@ -188,7 +204,16 @@
     "Books can be sorted by size, or by what they are about.",
     "Children in a class can be sorted by age, by height, or by the first letter of their names."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A gardener or cook",
+     "explanation": "Sorts by use: leaves for the pot, flowers for the altar, roots for the medicine. The same plants are put together in different ways for different jobs."
+    },
+    {
+     "who": "A biologist",
+     "explanation": "Sorts living beings today by who their ancestors were, using DNA as well as what can be seen. Whales end up beside cows, not beside fish."
+    }
+   ],
    "art": "The same eleven shapes drawn twice: once in a circle group and a square group, once in a red group and a blue group.",
    "chart": {
     "type": "row",
@@ -216,8 +241,7 @@
      }
     ],
     "title": "The same shapes, sorted by colour"
-   },
-   "one_view": "\"One heap can be sorted in many ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Sorting does not change how many there are in all",
@@ -230,7 +254,16 @@
     "20 children stand in two lines or four lines. There are still 20 children.",
     "If your groups make 14 and the heap had 15, look under the plate for the lost one."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Piaget's famous tests found that young children often think the number changes when things are spread out. They have not yet fixed the idea that moving does not change how many."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "The number in a set is a fact about the set itself, not about how it is arranged. Spread out or heaped up, six things are still six."
+    }
+   ],
    "art": "Three groups of small things with an arrow showing them pushed back into one heap, labelled 15 both times.",
    "chart": {
     "type": "sum",
@@ -241,8 +274,7 @@
     ],
     "answer": "15",
     "title": "Three groups, one heap"
-   },
-   "one_view": "\"Sorting does not change how many there are in all\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "One mark for each thing",
@@ -255,7 +287,16 @@
     "A milk seller may mark the wall or a card each day she brings milk.",
     "A table keeps the marks for each group in their own row, as in the picture."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Early tally-keepers",
+     "explanation": "Notches cut on bones, such as the Ishango bone from Africa, may be some of the oldest tallies. One cut stands for one thing, which people have used for tens of thousands of years."
+    },
+    {
+     "who": "People who write Chinese",
+     "explanation": "Many Chinese people tally in fives with the strokes of the character 正, while many Europeans cross four lines with a fifth. Different groups, same idea of one mark each."
+    }
+   ],
    "art": "A child holding a paper with a hand-drawn table, pointing a pencil at a ceiling fan.",
    "chart": {
     "type": "table",
@@ -282,8 +323,7 @@
       "4"
      ]
     ]
-   },
-   "one_view": "\"One mark for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "When a thing is hard to place",
@@ -296,7 +336,16 @@
     "A book about a dog on a train can go with animal books or train books. The librarian chooses.",
     "A sock with no partner gets its own small group until the partner turns up."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Taxonomists",
+     "explanation": "Biologists meet this all the time. Euglena is a tiny living being that has green chloroplasts like a plant and swims like an animal. Scientists had to decide where to put it, and the choice has changed over time."
+    },
+    {
+     "who": "The philosopher Ludwig Wittgenstein",
+     "explanation": "He pointed out that the things we call games do not share one feature. They are linked by overlapping likenesses, like a family. Some things belong to a group without fitting a clean rule."
+    }
+   ],
    "art": "A clothes clip that is half red and half blue lying between a red group and a blue group, with a child looking puzzled.",
    "chart": {
     "type": "row",
@@ -324,8 +373,7 @@
      }
     ],
     "title": "A yellow one turns up. The rule needs a new group."
-   },
-   "one_view": "\"When a thing is hard to place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Ants sort too",
@@ -379,7 +427,16 @@
     "Waste is sorted into wet and dry so that each kind can be used again.",
     "A post office sorts letters by the place they are going to."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "The Greek thinker Aristotle sorted animals by how they live and breed. He believed sorting is how we find the order of nature."
+    },
+    {
+     "who": "Biologists who study variation",
+     "explanation": "Some biologists remind us that nature is a smooth spread, and the lines between groups are ones we draw. Sorting is a tool for thinking, not a list that nature handed us."
+    }
+   ],
    "art": "A woman from the early 1900s at a desk looking at a glass photograph of stars through a magnifying glass, with a notebook of letters beside her.",
    "chart": {
     "type": "row",
@@ -411,8 +468,7 @@
      }
     ],
     "title": "Stars sorted by their light (a simple picture, not real numbers)"
-   },
-   "one_view": "\"Sorting helps us understand the world\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   }
  ],
  "agreed": [

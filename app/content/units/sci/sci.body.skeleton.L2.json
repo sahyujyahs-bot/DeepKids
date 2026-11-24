@@ -106,9 +106,17 @@
     "The smallest bone is deep inside your ear. It is smaller than a grain of rice.",
     "Each hand has 27 bones, and each foot has 26."
    ],
-   "perspectives": [],
-   "art": "A child's outline with the main bones drawn faintly inside: skull, ribs, backbone, arm bones and leg bones.",
-   "one_view": "\"We have bones inside us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Sushruta, the surgeon of ancient India",
+     "explanation": "His book, the Sushruta Samhita, described bones in detail for surgery and counted 300, including teeth and soft bones."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Note that many animals have no inside bones. An insect wears its skeleton outside, as an exoskeleton, and a jellyfish has none at all, only water pressure."
+    }
+   ],
+   "art": "A child's outline with the main bones drawn faintly inside: skull, ribs, backbone, arm bones and leg bones."
   },
   {
    "concept": "What bones do for us",
@@ -122,9 +130,17 @@
     "The backbone holds you up and keeps the soft cord of nerves inside it safe.",
     "Leg bones carry your weight when you walk."
    ],
-   "perspectives": [],
-   "art": "Three small pictures side by side: a skull round a brain, ribs round a heart and lungs, and leg bones holding up a standing child.",
-   "one_view": "\"What bones do for us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Old view",
+     "explanation": "Bones are a frame. They hold the body up and protect the heart and brain."
+    },
+    {
+     "who": "Modern doctors",
+     "explanation": "Bone is also a factory and a store. Its soft middle, the marrow, makes blood cells, and it stores calcium that the rest of the body draws on."
+    }
+   ],
+   "art": "Three small pictures side by side: a skull round a brain, ribs round a heart and lungs, and leg bones holding up a standing child."
   },
   {
    "concept": "Joints are where bones meet",
@@ -137,9 +153,17 @@
     "Your elbow, knee, wrist, ankle, shoulder and hip are joints.",
     "Your skull is made of many bones that joined together. Those joints do not move."
    ],
-   "perspectives": [],
-   "art": "A close-up drawing of one finger with its three bones shown inside, and small circles at the three joints.",
-   "one_view": "\"Joints are where bones meet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Sushruta",
+     "explanation": "Described eight kinds of joints, such as ones that turn, ones that slide and ones shaped like a mortar and pestle. He studied them to set broken and dislocated limbs."
+    },
+    {
+     "who": "Modern anatomists",
+     "explanation": "Group joints by how they move, and also by what holds them: ligaments, cartilage and fluid. A joint is a whole working part, not only the place where two bones meet."
+    }
+   ],
+   "art": "A close-up drawing of one finger with its three bones shown inside, and small circles at the three joints."
   },
   {
    "concept": "Hinge joints and ball and socket joints",
@@ -152,9 +176,17 @@
     "Ball and socket joints: shoulder and hip.",
     "In between: wrist, ankle, and the big knuckles where your fingers join your hand."
    ],
-   "perspectives": [],
-   "art": "Two drawings side by side: an elbow with an arrow going up and down in a line, and a shoulder with an arrow going round in a circle.",
-   "one_view": "\"Hinge joints and ball and socket joints\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "See the elbow as a hinge and the hip as a ball and socket, and use these ideas to design robots and artificial hips."
+    },
+    {
+     "who": "Octopus researchers",
+     "explanation": "Point out that an octopus arm has no bones and no joints, and still it can bend anywhere along its length. Joints are one solution, not the only one."
+    }
+   ],
+   "art": "Two drawings side by side: an elbow with an arrow going up and down in a line, and a shoulder with an arrow going round in a circle."
   },
   {
    "concept": "Muscles pull bones",
@@ -167,9 +199,17 @@
     "Your calf muscle pulls your heel up when you stand on tiptoe.",
     "Your heart is a muscle too. It squeezes blood round your body."
    ],
-   "perspectives": [],
-   "art": "An arm bending at the elbow, with the upper arm muscle drawn short and fat, and a tendon joining the muscle to the forearm bone.",
-   "one_view": "\"Muscles pull bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galen",
+     "explanation": "The Greek doctor Galen, about 170 CE, taught that nerves carry a spirit that makes muscles pull."
+    },
+    {
+     "who": "Andrew and Hugh Huxley",
+     "explanation": "In 1954 two scientists, unrelated, showed that muscle works by thin threads of protein sliding past one another, which makes the muscle shorter. This is called the sliding filament theory."
+    }
+   ],
+   "art": "An arm bending at the elbow, with the upper arm muscle drawn short and fat, and a tendon joining the muscle to the forearm bone."
   },
   {
    "concept": "Bones are alive",
@@ -182,9 +222,17 @@
     "Bone cells build more bone where your body pushes on it most, for example in a tennis player's hitting arm.",
     "Astronauts in space lose some bone, because nothing presses on their bones there."
    ],
-   "perspectives": [],
-   "art": "Two X-ray pictures of the same arm bone: one with a dark crack across it, and one some weeks later with a slightly thicker white patch where the crack has joined.",
-   "one_view": "\"Bones are alive\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The everyday view",
+     "explanation": "A skeleton in a museum looks dry and dead, like a stick. Many people think bones are just hard props."
+    },
+    {
+     "who": "Bone scientists",
+     "explanation": "A living bone is full of blood and busy cells. Some cells build bone and others take it apart. The whole skeleton is slowly replaced, which is how a broken bone mends."
+    }
+   ],
+   "art": "Two X-ray pictures of the same arm bone: one with a dark crack across it, and one some weeks later with a slightly thicker white patch where the crack has joined."
   },
   {
    "concept": "Children have more bones than grown-ups",
@@ -197,9 +245,17 @@
     "A baby's lower jaw starts as two halves, which join in the first year.",
     "The bones at the bottom of the backbone join together by the time a person is grown up."
    ],
-   "perspectives": [],
-   "art": "A baby lying on a mat with a grown-up's hand gently resting on the top of the baby's head.",
-   "one_view": "\"Children have more bones than grown-ups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Anatomists",
+     "explanation": "Count 206 bones in a grown-up and about 270 or more in a newborn. Several bones fuse as a child grows."
+    },
+    {
+     "who": "Counting differently",
+     "explanation": "The count depends on the rule. Sushruta's 300 included cartilages and teeth. Some people have an extra rib or tiny extra bones, so 206 is a usual number, not a law."
+    }
+   ],
+   "art": "A baby lying on a mat with a grown-up's hand gently resting on the top of the baby's head."
   },
   {
    "concept": "Skeletons in other animals",

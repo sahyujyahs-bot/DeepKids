@@ -111,7 +111,16 @@
     "Ten one-rupee coins buy the same as one ten-rupee note.",
     "Ten idlis on a plate are still ten idlis when you put them all in one box."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian mathematicians",
+     "explanation": "Used place value and a symbol for zero, with ten as the base. Aryabhata, in 499 CE, wrote numbers in this way, and the idea travelled to the Arab world and Europe."
+    },
+    {
+     "who": "Babylonian scribes",
+     "explanation": "Used place value with a base of sixty, which is why we still have sixty minutes in an hour. The Maya of Central America used twenty. Ten is one choice among many."
+    }
+   ],
    "art": "Ten loose sticks on the left, an arrow, and the same ten sticks tied in one bundle on the right.",
    "chart": {
     "type": "dots",
@@ -125,8 +134,7 @@
       "n": 10
      }
     ]
-   },
-   "one_view": "\"Ten ones make one ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Ten and some more: the numbers from 11 to 19",
@@ -139,7 +147,16 @@
     "19 is 1 ten and 9 ones. It is the last number with only one ten.",
     "13 murukkus are one packet of ten and 3 more."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "English speakers",
+     "explanation": "Say 'eleven' and 'twelve', words that do not show 'ten and one'. Hindi 11 to 19 are also separate words. Children must learn each."
+    },
+    {
+     "who": "Chinese speakers",
+     "explanation": "Say 'ten-one', 'ten-two', and so on. Studies find that children who count in this way often grasp tens and ones sooner."
+    }
+   ],
    "art": "One bundle of ten sticks and six loose sticks, with the number 16 written below and arrows from the 1 to the bundle and the 6 to the loose sticks.",
    "chart": {
     "type": "dots",
@@ -153,8 +170,7 @@
       "n": 6
      }
     ]
-   },
-   "one_view": "\"Ten and some more: the numbers from 11 to 19\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Counting in tens",
@@ -167,7 +183,16 @@
     "Three ten-rupee notes are thirty rupees.",
     "Counting back in tens: 50, 40, 30, 20, 10."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Most peoples",
+     "explanation": "Count in tens because we have ten fingers. Many number systems around the world are built on ten."
+    },
+    {
+     "who": "The Yuki people of California",
+     "explanation": "Are reported to have counted in eights, by using the gaps between the fingers rather than the fingers themselves. What you choose to count changes the system."
+    }
+   ],
    "art": "A number line from 0 to 90 with a bundle of sticks drawn above each ten.",
    "chart": {
     "type": "scale",
@@ -175,8 +200,7 @@
     "max": 90,
     "step": 10,
     "title": "Counting in tens"
-   },
-   "one_view": "\"Counting in tens\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Two digits: tens on the left, ones on the right",
@@ -273,7 +297,16 @@
     "Bus number 17 and bus number 71 are different buses.",
     "With the digits 4 and 9 you can make 49 or 94."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Roman numerals",
+     "explanation": "In Roman numbers, X means ten wherever it stands. The place of a symbol hardly matters, so adding large numbers was hard work."
+    },
+    {
+     "who": "The Indian place-value system",
+     "explanation": "The same digit means different amounts in different places. This is why 12 and 21 differ, and why a short list of digits can write any number."
+    }
+   ],
    "art": "Two groups of sticks side by side: one bundle and two loose sticks labelled 12, two bundles and one loose stick labelled 21.",
    "chart": {
     "type": "dots",
@@ -299,8 +332,7 @@
       "n": 1
      }
     ]
-   },
-   "one_view": "\"12 and 21: the same digits, different numbers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Nine loose and one more: a new ten",
@@ -313,7 +345,16 @@
     "After 49 comes 50.",
     "One less than 60 is 59: untie a bundle and take one stick away."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Abacus users",
+     "explanation": "On a Chinese suanpan or a bead frame, ten beads in one column are swapped for one bead in the next column. The carrying is done by hand."
+    },
+    {
+     "who": "An odometer on a vehicle",
+     "explanation": "Its wheels roll from 9 back to 0 and push the next wheel on by one. A computer counts in twos in the same way, rolling over at 1."
+    }
+   ],
    "art": "Two bundles and nine loose sticks, with a tenth stick arriving and a rubber band ready to tie the loose ones.",
    "chart": {
     "type": "dots",
@@ -332,8 +373,7 @@
       "more": 1
      }
     ]
-   },
-   "one_view": "\"Nine loose and one more: a new ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Why ten? People chose it",
@@ -415,7 +455,16 @@
     "A cricketer who scores 100 runs has made a century.",
     "126 is 1 hundred, 2 tens and 6 ones."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian number names",
+     "explanation": "Sanskrit has its own name for each power of ten: eka, dasha, shata, sahasra. An old text, the Yajurveda, lists names up to a million million."
+    },
+    {
+     "who": "Babylonian scribes",
+     "explanation": "Reached their big unit when sixty sixties made 3600. A hundred was not special for them."
+    }
+   ],
    "art": "Ten bundles of ten sticks tied together with a big ribbon, labelled 100.",
    "chart": {
     "type": "table",
@@ -431,8 +480,7 @@
       "0"
      ]
     ]
-   },
-   "one_view": "\"Stretch: ten tens make one hundred\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   }
  ],
  "agreed": [

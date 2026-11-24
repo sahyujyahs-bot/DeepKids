@@ -97,9 +97,17 @@
     "The steel handle of a ladle in hot sambar warms from the bottom up.",
     "Your hand warms a cold steel tumbler where your fingers touch it, then the warmth spreads around the tumbler."
    ],
-   "perspectives": [],
-   "art": "A row of tiny balls inside a spoon handle: at the hot end they shake hard with motion lines, and each ball nudges the next, the shaking getting smaller further up.",
-   "one_view": "\"Conduction: heat passed from part to part\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Joseph Fourier",
+     "explanation": "In 1822 he wrote the mathematical law of how heat flows through a solid, without saying anything about atoms."
+    },
+    {
+     "who": "Kinetic theorists",
+     "explanation": "Explained later that atoms in the hot part jiggle faster and bump their neighbours, passing on energy bump by bump."
+    }
+   ],
+   "art": "A row of tiny balls inside a spoon handle: at the hot end they shake hard with motion lines, and each ball nudges the next, the shaking getting smaller further up."
   },
   {
    "context": "This card explains what you saw in the Ladle Line test: why the far butter dots melted so much later.",
@@ -111,9 +119,17 @@
     "On the Ladle Line, the dot 2 cm up may melt in under a minute, while the dot 8 cm up may never melt.",
     "The end of a long iron skewer held in a fire stays cool enough to hold for a while, while the tip glows."
    ],
-   "perspectives": [],
-   "art": "A ladle handle drawn as a long strip, coloured red at the bottom fading through orange to yellow and then grey at the top, with small wavy lines leaving the sides into the air.",
-   "one_view": "\"Why heat reaches far parts late, or not at all\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain the slow spread by Fourier's heat equation: heat spreads in all directions, not in a straight race, so far points warm much later."
+    },
+    {
+     "who": "Cooks and potters",
+     "explanation": "Know it from experience, and choose wood or plastic handles for pans so that the heat does not reach the hand."
+    }
+   ],
+   "art": "A ladle handle drawn as a long strip, coloured red at the bottom fading through orange to yellow and then grey at the top, with small wavy lines leaving the sides into the air."
   },
   {
    "context": "This card is about why some materials carry heat fast and others slowly.",
@@ -126,9 +142,17 @@
     "A pressure cooker is an aluminium or steel pot with plastic handles.",
     "A coconut-shell ladle, used in many Kerala kitchens, stays cool to hold in hot curry."
    ],
-   "perspectives": [],
-   "art": "A kitchen shelf with a tawa, a pressure cooker and a coconut-shell ladle, each with its metal part coloured red and its handle coloured blue.",
-   "one_view": "\"Conductors and insulators of heat\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Group materials by how fast they pass heat: metals fast, wood and plastic slowly, still air very slowly."
+    },
+    {
+     "who": "Other animals",
+     "explanation": "Use insulation to live. Fur and feathers trap still air, and penguins and whales have a thick layer of fat. They make their own insulators."
+    }
+   ],
+   "art": "A kitchen shelf with a tawa, a pressure cooker and a coconut-shell ladle, each with its metal part coloured red and its handle coloured blue."
   },
   {
    "context": "This card explains why metals carry heat so well. The reason lies in atoms, the tiny particles a metal is made of.",
@@ -140,9 +164,17 @@
     "Copper carries both heat and electricity very well. It is used in electric wires and in the bottoms of good cooking pots.",
     "Wood carries neither heat nor electricity well."
    ],
-   "perspectives": [],
-   "art": "Inside a metal: big atoms in neat rows, with small bright dots, the electrons, zipping between them from a red hot end to a blue cool end.",
-   "one_view": "\"Why metals are such good conductors\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Paul Drude",
+     "explanation": "In 1900 he pictured a metal as a sea of free electrons that carry heat and electricity quickly."
+    },
+    {
+     "who": "Later physicists",
+     "explanation": "Found that this picture is only part of the story. Diamond has no free electrons yet conducts heat better than metals, because its tightly bound atoms pass on vibrations quickly."
+    }
+   ],
+   "art": "Inside a metal: big atoms in neat rows, with small bright dots, the electrons, zipping between them from a red hot end to a blue cool end."
   },
   {
    "context": "This card shows two other ways heat moves, which you will learn more about in Class 5.",
@@ -154,9 +186,17 @@
     "Steam and hot air rising above a pot of boiling rice is convection.",
     "Your face feeling warm in the sun is radiation."
    ],
-   "perspectives": [],
-   "art": "Three small pictures in a row: a spoon in tea (conduction), a pan of water with curling arrows going up and down (convection), and the Sun shining on a child's face (radiation).",
-   "one_view": "\"Two more ways heat moves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "William Herschel",
+     "explanation": "In 1800 he found invisible heat rays beyond the red end of sunlight, now called infrared."
+    },
+    {
+     "who": "Pit vipers",
+     "explanation": "These snakes have small pits on their face that sense infrared. They feel the heat of a warm mouse in the dark, a sense we do not have."
+    }
+   ],
+   "art": "Three small pictures in a row: a spoon in tea (conduction), a pan of water with curling arrows going up and down (convection), and the Sun shining on a child's face (radiation)."
   }
  ],
  "agreed": [

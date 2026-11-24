@@ -1,0 +1,1854 @@
+{
+ "math.algebra.balance-and-missing-numbers.L1": {
+  "A balance compares two sides": {
+   "perspectives": [
+    {
+     "who": "Traders in the Indus Valley and other early cities",
+     "explanation": "They weighed goods by putting them in one pan and standard stone weights in the other. The balance never told them a number. It only told them which side was heavier."
+    },
+    {
+     "who": "A physicist",
+     "explanation": "A balance compares how much matter two things hold, which is called mass. Gravity pulls both pans the same, so the balance still works on the Moon. A spring scale would read much less there."
+    }
+   ]
+  },
+  "Many sums can make the same number": {
+   "perspectives": [
+    {
+     "who": "A child with coins",
+     "explanation": "Splitting 6 coins as 5 and 1, or 4 and 2, shows that one amount can be made in many ways. Nothing is added or lost."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "The = sign means 'is the same amount as'. It does not mean 'now write the answer'. Many children first read it as 'the answer comes next', and that makes later algebra harder."
+    }
+   ]
+  },
+  "True and false number sentences": {
+   "perspectives": [
+    {
+     "who": "A mathematician",
+     "explanation": "A number sentence is a statement, and a statement can be true or false. 2 + 2 = 5 is a perfectly good sentence. It is just false."
+    },
+    {
+     "who": "A computer programmer",
+     "explanation": "In many programming languages one = puts a value into a box, and two together (==) ask 'are these the same?'. The same sign can be an order or a question, depending on the language."
+    }
+   ]
+  },
+  "How to make a tilted balance level": {
+   "perspectives": [
+    {
+     "who": "A child with coins",
+     "explanation": "You can add coins to the light pan, or take coins from the heavy pan, until both sides match."
+    },
+    {
+     "who": "Al-Khwarizmi's tradition",
+     "explanation": "The Baghdad mathematician al-Khwarizmi wrote a book on al-jabr, 'restoring', and al-muqabala, 'balancing'. His idea was to fix an uneven equation by putting back what is missing, or removing what is extra, on both sides."
+    }
+   ]
+  },
+  "Do the same to both sides, and it stays level": {
+   "perspectives": [
+    {
+     "who": "Al-Khwarizmi and Brahmagupta",
+     "explanation": "Al-Khwarizmi (about 820 CE) and the Indian mathematician Brahmagupta (628 CE) both solved equations by keeping both sides equal while changing them. Doing the same to both sides is the heart of their methods."
+    },
+    {
+     "who": "Modern algebra teachers",
+     "explanation": "The balance picture works well for whole numbers. It gets awkward with negative numbers, because a pan cannot hold less than nothing. So algebra keeps the rule 'do the same to both sides' and lets go of the pans."
+    }
+   ]
+  },
+  "Honeybees can learn 'the same'": {
+   "perspectives": [
+    {
+     "who": "Martin Giurfa and colleagues",
+     "explanation": "In 2001 they reported that bees learned a rule, 'choose the same as before', and used it with colours and patterns they had never seen. They took this as a sign that bees can grasp 'same' as an idea."
+    },
+    {
+     "who": "Cautious animal-learning researchers",
+     "explanation": "Some scientists ask whether simpler kinds of learning could explain the result. They want more tests before saying how bees think. Both groups agree that bees do far more than react by habit."
+    }
+   ]
+  }
+ },
+ "math.data.sorting-and-tallies.L1": {
+  "Sorting puts like with like": {
+   "perspectives": [
+    {
+     "who": "Carl Linnaeus",
+     "explanation": "In the 1700s Linnaeus sorted plants and animals into groups by features he could see. His method is still the base of how living things are named."
+    },
+    {
+     "who": "Ethnobiologists",
+     "explanation": "Scientists who study how traditional peoples name nature find that many sort plants by use, place or smell: what heals, what feeds, what grows by water. Each sorting rule is right for its purpose."
+    }
+   ]
+  },
+  "Count each group: most and fewest": {
+   "perspectives": [
+    {
+     "who": "A statistician",
+     "explanation": "A count of each group is called a frequency. It shows how a whole set is spread out. 'Most' always depends on the rule that made the groups."
+    },
+    {
+     "who": "Researchers studying animal minds",
+     "explanation": "Many animals, such as fish and bees, pick the bigger group of food or friends without using number words. So noticing 'more' is older than counting with numbers."
+    }
+   ]
+  },
+  "One heap can be sorted in many ways": {
+   "perspectives": [
+    {
+     "who": "A gardener or cook",
+     "explanation": "Sorts by use: leaves for the pot, flowers for the altar, roots for the medicine. The same plants are put together in different ways for different jobs."
+    },
+    {
+     "who": "A biologist",
+     "explanation": "Sorts living beings today by who their ancestors were, using DNA as well as what can be seen. Whales end up beside cows, not beside fish."
+    }
+   ]
+  },
+  "Sorting does not change how many there are in all": {
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Piaget's famous tests found that young children often think the number changes when things are spread out. They have not yet fixed the idea that moving does not change how many."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "The number in a set is a fact about the set itself, not about how it is arranged. Spread out or heaped up, six things are still six."
+    }
+   ]
+  },
+  "One mark for each thing": {
+   "perspectives": [
+    {
+     "who": "Early tally-keepers",
+     "explanation": "Notches cut on bones, such as the Ishango bone from Africa, may be some of the oldest tallies. One cut stands for one thing, which people have used for tens of thousands of years."
+    },
+    {
+     "who": "People who write Chinese",
+     "explanation": "Many Chinese people tally in fives with the strokes of the character 正, while many Europeans cross four lines with a fifth. Different groups, same idea of one mark each."
+    }
+   ]
+  },
+  "When a thing is hard to place": {
+   "perspectives": [
+    {
+     "who": "Taxonomists",
+     "explanation": "Biologists meet this all the time. Euglena is a tiny living being that has green chloroplasts like a plant and swims like an animal. Scientists had to decide where to put it, and the choice has changed over time."
+    },
+    {
+     "who": "The philosopher Ludwig Wittgenstein",
+     "explanation": "He pointed out that the things we call games do not share one feature. They are linked by overlapping likenesses, like a family. Some things belong to a group without fitting a clean rule."
+    }
+   ]
+  },
+  "Sorting helps us understand the world": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "The Greek thinker Aristotle sorted animals by how they live and breed. He believed sorting is how we find the order of nature."
+    },
+    {
+     "who": "Biologists who study variation",
+     "explanation": "Some biologists remind us that nature is a smooth spread, and the lines between groups are ones we draw. Sorting is a tool for thinking, not a list that nature handed us."
+    }
+   ]
+  }
+ },
+ "math.length.comparing-length.L1": {
+  "Longer, shorter, the same length": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Lay two sticks from the same line. The one that reaches further is longer. At walking speeds this is always true."
+    },
+    {
+     "who": "Albert Einstein's physics",
+     "explanation": "Length depends a little on how fast the thing moves compared with the observer. At near light speed a moving stick measures shorter. We never notice this on Earth."
+    }
+   ]
+  },
+  "The start-line rule": {
+   "perspectives": [
+    {
+     "who": "Builders of the Indus Valley",
+     "explanation": "Lothal and Mohenjo-daro had scales with fine marked lines cut into ivory and shell. Their bricks were made to one set of lengths, so walls could line up."
+    },
+    {
+     "who": "Ancient Egyptian builders",
+     "explanation": "They used a royal cubit rod, a set length measured from the elbow to the fingertip. The same rod was carried from site to site so everyone shared one start line."
+    }
+   ]
+  },
+  "Moving a thing does not change its length": {
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Piaget found that children under about six often think a stick that is pushed forward has become longer. Understanding that moving does not change length is a step in thinking."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "On a hot day a metal bar grows a tiny bit longer, and a very fast bar measures a tiny bit shorter. Moving does not change length for everyday sticks. Heat and extreme speed can."
+    }
+   ]
+  },
+  "A bend hides length": {
+   "perspectives": [
+    {
+     "who": "Surveyors and tailors",
+     "explanation": "They straighten the rope or tape to read a length. The straight length is the one you can compare."
+    },
+    {
+     "who": "Lewis Fry Richardson and Benoit Mandelbrot",
+     "explanation": "They noticed that a coastline measured with a short ruler comes out longer than with a long one, because small bends keep appearing. For crinkly things, how long depends on the size of your ruler."
+    }
+   ]
+  },
+  "Tall, long and high": {
+   "perspectives": [
+    {
+     "who": "English speakers",
+     "explanation": "Use separate words: a tall tree, a long rope, a high shelf. Tall and high go up, and long goes any way."
+    },
+    {
+     "who": "Hindi speakers",
+     "explanation": "Often use one word, lamba, for both a long road and a tall person. The same measure is named differently, so our words do not cut the world in exactly the same places."
+    }
+   ]
+  },
+  "Shortest to longest: putting things in order": {
+   "perspectives": [
+    {
+     "who": "Jean Piaget",
+     "explanation": "Young children often compare only neighbours and get stuck. Putting a whole row in order, called seriation, is a skill that grows with age."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "If A is shorter than B and B is shorter than C, then A is shorter than C. This rule, called transitivity, lets us put any number of things in order without comparing every pair."
+    }
+   ]
+  },
+  "A string can carry a length": {
+   "perspectives": [
+    {
+     "who": "Egyptian rope-stretchers",
+     "explanation": "Surveyors called harpedonaptai used knotted ropes to mark lines and right angles for building. A rope carried a length from place to place."
+    },
+    {
+     "who": "Builders in the Vedic Indian tradition",
+     "explanation": "The Shulba Sutras, old manuals for building altars, explain how to use cords (rajju) to make squares and circles of exact size. The cord was the measuring tool."
+    }
+   ]
+  }
+ },
+ "math.number-sense.place-value.L1": {
+  "Ten ones make one ten": {
+   "perspectives": [
+    {
+     "who": "Indian mathematicians",
+     "explanation": "Used place value and a symbol for zero, with ten as the base. Aryabhata, in 499 CE, wrote numbers in this way, and the idea travelled to the Arab world and Europe."
+    },
+    {
+     "who": "Babylonian scribes",
+     "explanation": "Used place value with a base of sixty, which is why we still have sixty minutes in an hour. The Maya of Central America used twenty. Ten is one choice among many."
+    }
+   ]
+  },
+  "Ten and some more: the numbers from 11 to 19": {
+   "perspectives": [
+    {
+     "who": "English speakers",
+     "explanation": "Say 'eleven' and 'twelve', words that do not show 'ten and one'. Hindi 11 to 19 are also separate words. Children must learn each."
+    },
+    {
+     "who": "Chinese speakers",
+     "explanation": "Say 'ten-one', 'ten-two', and so on. Studies find that children who count in this way often grasp tens and ones sooner."
+    }
+   ]
+  },
+  "Counting in tens": {
+   "perspectives": [
+    {
+     "who": "Most peoples",
+     "explanation": "Count in tens because we have ten fingers. Many number systems around the world are built on ten."
+    },
+    {
+     "who": "The Yuki people of California",
+     "explanation": "Are reported to have counted in eights, by using the gaps between the fingers rather than the fingers themselves. What you choose to count changes the system."
+    }
+   ]
+  },
+  "12 and 21: the same digits, different numbers": {
+   "perspectives": [
+    {
+     "who": "Roman numerals",
+     "explanation": "In Roman numbers, X means ten wherever it stands. The place of a symbol hardly matters, so adding large numbers was hard work."
+    },
+    {
+     "who": "The Indian place-value system",
+     "explanation": "The same digit means different amounts in different places. This is why 12 and 21 differ, and why a short list of digits can write any number."
+    }
+   ]
+  },
+  "Nine loose and one more: a new ten": {
+   "perspectives": [
+    {
+     "who": "Abacus users",
+     "explanation": "On a Chinese suanpan or a bead frame, ten beads in one column are swapped for one bead in the next column. The carrying is done by hand."
+    },
+    {
+     "who": "An odometer on a vehicle",
+     "explanation": "Its wheels roll from 9 back to 0 and push the next wheel on by one. A computer counts in twos in the same way, rolling over at 1."
+    }
+   ]
+  },
+  "Stretch: ten tens make one hundred": {
+   "perspectives": [
+    {
+     "who": "Indian number names",
+     "explanation": "Sanskrit has its own name for each power of ten: eka, dasha, shata, sahasra. An old text, the Yajurveda, lists names up to a million million."
+    },
+    {
+     "who": "Babylonian scribes",
+     "explanation": "Reached their big unit when sixty sixties made 3600. A hundred was not special for them."
+    }
+   ]
+  }
+ },
+ "math.position.position-words.L1": {
+  "A position word needs two things": {
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Believed in one fixed space, like an invisible box, where every thing has its own exact place."
+    },
+    {
+     "who": "Gottfried Leibniz",
+     "explanation": "Argued that there is no empty box. 'Where' only means 'how far, and which way, from other things'. Most physicists since then have agreed with Leibniz."
+    }
+   ]
+  },
+  "Top, bottom, above, below, on, under": {
+   "perspectives": [
+    {
+     "who": "People living in different places",
+     "explanation": "A person in Australia and one in India stand on opposite sides of Earth. 'Down' is toward the centre of the planet for both."
+    },
+    {
+     "who": "Astronauts",
+     "explanation": "In orbit they float and have no up or down. Without gravity, the words 'top' and 'bottom' only mean something if you choose a way to face."
+    }
+   ]
+  },
+  "Inside and outside": {
+   "perspectives": [
+    {
+     "who": "Mathematicians",
+     "explanation": "A closed curve has an inside and an outside, and any path from one to the other must cross the line. This is proved as the Jordan curve theorem."
+    },
+    {
+     "who": "A cell biologist",
+     "explanation": "Every living cell has a thin skin called a membrane that decides what is inside and what is outside. It has gates, so 'inside' is kept by careful trading, not by a wall."
+    }
+   ]
+  },
+  "Near and far": {
+   "perspectives": [
+    {
+     "who": "Humans",
+     "explanation": "Judge near and far by steps or by how big something looks, and the answer changes with the one who judges."
+    },
+    {
+     "who": "The honeybee",
+     "explanation": "Measures distance by how much of the scenery slides past its eyes as it flies. The scientist Mandyam Srinivasan showed this. For a bee, far means a lot of scenery passed."
+    }
+   ]
+  },
+  "Left and right go with you": {
+   "perspectives": [
+    {
+     "who": "Most English and Hindi speakers",
+     "explanation": "Use left and right, which are tied to your own body and turn when you turn."
+    },
+    {
+     "who": "Guugu Yimithirr speakers",
+     "explanation": "People in northern Australia use north, south, east and west instead. They would say 'the cup is by your south foot'. The researcher Stephen Levinson found they always know which way they face."
+    }
+   ]
+  },
+  "In front, behind, between, next to": {
+   "perspectives": [
+    {
+     "who": "Speakers of English",
+     "explanation": "Use the body of a person: in front is the way someone faces."
+    },
+    {
+     "who": "Speakers of Tzeltal",
+     "explanation": "A Mayan language in Mexico. Its speakers often use uphill and downhill, based on the slope of the land, rather than front and behind."
+    }
+   ]
+  },
+  "Which words change when you move?": {
+   "perspectives": [
+    {
+     "who": "Psychologists",
+     "explanation": "Call 'left of me' a self-based frame and 'north of the well' a fixed frame. Humans can use both and move between them."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "Showed that you cannot tell if a ship is moving from inside it. What counts as 'moving' depends on what you measure against, which is what a frame of reference means."
+    }
+   ]
+  }
+ },
+ "math.shapes-3d.solid-shapes.L1": {
+  "A solid shape is a shape you can hold": {
+   "perspectives": [
+    {
+     "who": "Euclid",
+     "explanation": "In his Elements, about 300 BCE, a solid is that which has length, breadth and depth. Greek thinkers such as Plato studied the five regular solids."
+    },
+    {
+     "who": "Topologists",
+     "explanation": "Mathematicians who study shapes by stretching and bending say a mug and a doughnut are the same solid shape, since each has one hole. For them the exact shape matters less than how it connects."
+    }
+   ]
+  },
+  "Flat faces and curved surfaces": {
+   "perspectives": [
+    {
+     "who": "Geometers",
+     "explanation": "A flat face is a perfect plane and a curved surface is a perfect curve. These are ideas that real things only come near."
+    },
+    {
+     "who": "A microscope's view",
+     "explanation": "Look closer, and no table is perfectly flat. Its surface is made of tiny hills and valleys of atoms. 'Flat' depends on how closely we look."
+    }
+   ]
+  },
+  "A curved surface rolls. A flat face slides.": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "A ball rolls, a box slides. It depends on which part touches the ground."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Rolling also needs friction between the ground and the object. On smooth ice a ball may slide without turning. A cube can tumble over its edges, as a die does."
+    }
+   ]
+  },
+  "One tin, two ways": {
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. The idea that a tin can roll on its curved side or slide on its flat end is a plain test anyone can repeat with the same result."
+  },
+  "Four families: balls, boxes, tins and cones": {
+   "perspectives": [
+    {
+     "who": "Greek geometers",
+     "explanation": "Plato described five perfect solids, built from flat faces that are all the same: cube, tetrahedron, octahedron, dodecahedron and icosahedron."
+    },
+    {
+     "who": "Crystal scientists",
+     "explanation": "Salt crystals grow as cubes, quartz as six-sided prisms, and many are other solids. Nature builds shapes that do not fit the four families."
+    }
+   ]
+  },
+  "Flat faces stack": {
+   "perspectives": [
+    {
+     "who": "Harappan builders",
+     "explanation": "Made bricks all in one ratio, 1 to 2 to 4, so they stacked and bonded neatly in tall walls."
+    },
+    {
+     "who": "Honeybees",
+     "explanation": "Build honeycomb from six-sided tubes that fit together with no gaps. Flat faces let them stack wax cells with the least wax."
+    }
+   ]
+  },
+  "Why a cone rolls in a curve": {
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. A cone is wider at one end, so one side travels further than the other and it turns in a circle. This is a geometry fact that anyone can test."
+  },
+  "Who chose the names?": {
+   "perspectives": [
+    {
+     "who": "Ancient Greeks",
+     "explanation": "The word cylinder comes from kylindros, a Greek word linked to rolling. Sphere comes from sphaira, a ball. The names speak of what the shape does."
+    },
+    {
+     "who": "Chinese speakers",
+     "explanation": "Call the same shape yuanzhu, which means round pillar. It names what the shape looks like, not how it moves."
+    }
+   ]
+  },
+  "Balls in the sky, boxes in the wall, tins under the bus": {
+   "perspectives": [
+    {
+     "who": "Greek thinkers such as Aristotle",
+     "explanation": "Believed the heavens must be made of perfect spheres, because the sphere was the most perfect shape."
+    },
+    {
+     "who": "Physicists today",
+     "explanation": "Say gravity pulls big things into a ball, because every part is drawn toward the centre. Small space rocks stay lumpy, like potatoes, because their gravity is too weak to round them."
+    }
+   ]
+  }
+ },
+ "math.weight-capacity.weight.L1": {
+  "How to read a balance": {
+   "perspectives": [
+    {
+     "who": "Traders with stone weights",
+     "explanation": "Have used balance scales, the tula of India, for thousands of years. Heavier goes down."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "A balance compares mass, which is how much matter there is. Weight is the pull of gravity. On the Moon a balance still reads the same, while a spring scale reads less."
+    }
+   ]
+  },
+  "As heavy as: a level balance": {
+   "perspectives": [
+    {
+     "who": "Early traders",
+     "explanation": "Used a stone or metal piece kept as the standard. 'As heavy as' meant as heavy as the royal weight."
+    },
+    {
+     "who": "The measurement scientists of 2019",
+     "explanation": "Redefined the kilogram using a number from physics, called the Planck constant, instead of a metal cylinder kept in Paris. 'The same weight' is now written in the laws of nature."
+    }
+   ]
+  },
+  "Bigger is not always heavier": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The old story says that he worked out whether a crown was pure gold by comparing how much water it pushed aside with how heavy it was. He understood that stuff differs in how tightly it is packed."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Call this packing density, the mass in each bit of space. Cotton and iron take the same room and are far apart in density."
+    }
+   ]
+  },
+  "More things is not always heavier": {
+   "perspectives": [
+    {
+     "who": "Traders",
+     "explanation": "Sell grain by weight rather than by counting. Ten heavy things and ten light things are unequal for them even though the number is the same."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "Treat counting and measuring differently: counting goes in whole steps, while weight can have any value. A count tells how many, and a weight tells how much."
+    }
+   ]
+  },
+  "A new shape, the same weight": {
+   "perspectives": [
+    {
+     "who": "Antoine Lavoisier",
+     "explanation": "In the 1780s he weighed everything before and after reactions and showed that the total mass did not change. Matter is moved around but never lost."
+    },
+    {
+     "who": "The Vaisheshika school of India",
+     "explanation": "Taught that things are built of tiny unchanging atoms (anu) that join and part. A new shape is only a new arrangement."
+    }
+   ]
+  },
+  "Your hands can be fooled": {
+   "perspectives": [
+    {
+     "who": "Psychologists",
+     "explanation": "Call this the size-weight illusion. It was written about by Charpentier in 1891. Even when you know the two weigh the same, your hand still says the small one is heavier."
+    },
+    {
+     "who": "Scale makers",
+     "explanation": "Use springs or balances. These do not feel expectations. They give the same reading for a small thing and a big thing of the same weight."
+    }
+   ]
+  },
+  "Squirrels and crows judge weight too": {
+   "perspectives": [
+    {
+     "who": "Animal-mind researchers",
+     "explanation": "Report that animals judge how heavy things are by lifting and testing, and choose what suits the task. They take this as sign of planning."
+    },
+    {
+     "who": "More cautious researchers",
+     "explanation": "Say we should check whether the animal is using a simpler cue, like how hard the lift felt. Both agree that the animal pays careful attention to weight."
+    }
+   ]
+  }
+ },
+ "sci.air.air-around-us.L1": {
+  "We feel air when it moves": {
+   "perspectives": [
+    {
+     "who": "Indian tradition",
+     "explanation": "Calls air vayu and counts it among the five great elements (pancha mahabhuta). It is the element that moves and touches the skin."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say air is a crowd of tiny gas particles, always moving and bumping into us. We feel wind when they push in one direction, but even still air presses on us all the time."
+    }
+   ]
+  },
+  "Moving air pushes things": {
+   "perspectives": [
+    {
+     "who": "Sailors of the Indian Ocean",
+     "explanation": "For centuries traders used the monsoon winds, which blow one way in summer and the other in winter, to sail dhows between India, Arabia and Africa."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that moving air pushes because its particles hit a surface and bounce back, giving it a shove. More speed means more shove."
+    }
+   ]
+  },
+  "Living beings need air": {
+   "perspectives": [
+    {
+     "who": "The Upanishads",
+     "explanation": "Speak of prana, the breath, as the life in a being. Without it a body does not live."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Explain that cells use oxygen from air to release energy from food. Yet some microbes, deep in mud, live without oxygen at all, so not every being needs air."
+    }
+   ]
+  }
+ },
+ "sci.air.air-around-us.L3": {
+  "Air takes up space": {
+   "perspectives": [
+    {
+     "who": "Hero of Alexandria",
+     "explanation": "Greek engineer from the first century CE, who showed with upside-down cups in water that air fills a space and keeps water out."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say air is mostly empty space between gas particles that fly about. It takes up space because the particles keep pushing, not because it is solid stuff."
+    }
+   ]
+  },
+  "Air can be squashed": {
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "Called air springy in 1662 and measured how squeezing it into half the space doubled its push. He thought of air as being like tiny coiled springs."
+    },
+    {
+     "who": "Physicists after Boyle",
+     "explanation": "Explained the same result with moving particles. In less space they hit the walls more often, so the push grows."
+    }
+   ]
+  },
+  "Plants whose roots live in mud": {
+   "perspectives": [
+    {
+     "who": "A gardener",
+     "explanation": "Knows that a pot with no drainage lets roots rot, because roots in waterlogged soil cannot get air. To most of us, roots do not look like they breathe."
+    },
+    {
+     "who": "Plant scientists",
+     "explanation": "Show that root cells burn food with oxygen like any other cell. Mangrove trees grow special roots that stick up out of the mud, called pneumatophores, to take in air."
+    }
+   ]
+  }
+ },
+ "sci.basic-needs.basic-needs.L1": {
+  "We need air, water and food again and again": {
+   "perspectives": [
+    {
+     "who": "Ayurveda",
+     "explanation": "Teaches three pillars of life: food (ahara), sleep (nidra) and moderation (brahmacharya). Sleep counts as a need as strong as food."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Tardigrades, tiny animals, can dry out and live for years with almost no water, until rain comes. So the need for water can be paused, though not forever."
+    }
+   ]
+  },
+  "Clothes and a home keep us safe": {
+   "perspectives": [
+    {
+     "who": "People of different lands",
+     "explanation": "The Inuit made fur parkas for deep cold, while people of hot India wore thin cotton. What 'enough' covering means depends on the climate."
+    },
+    {
+     "who": "Other animals",
+     "explanation": "Birds weave nests, hermit crabs borrow shells, and bees build wax homes. Many animals make or find shelter."
+    }
+   ]
+  },
+  "A wall makes calm air behind it": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Stand behind a wall and the wind feels gentle. It seems that the wall stops the air."
+    },
+    {
+     "who": "Engineers who test buildings",
+     "explanation": "Wind tunnel tests show that air swirls into eddies behind a building. Some spots are calm and others have gusts. A windbreak made of trees works better than a solid wall because it slows the air without making swirls."
+    }
+   ]
+  },
+  "Other living beings have needs too": {
+   "perspectives": [
+    {
+     "who": "The Jain tradition",
+     "explanation": "Teaches that every being with life (jiva) wants to live, from humans to plants, which have one sense. This is the reason for ahimsa, doing no harm."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find that all life needs energy, water and a way to take in materials. Some microbes near deep-sea vents need no sunlight and no oxygen. So needs are shared, yet differ in detail."
+    }
+   ]
+  }
+ },
+ "sci.body.skeleton.L2": {
+  "We have bones inside us": {
+   "perspectives": [
+    {
+     "who": "Sushruta, the surgeon of ancient India",
+     "explanation": "His book, the Sushruta Samhita, described bones in detail for surgery and counted 300, including teeth and soft bones."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Note that many animals have no inside bones. An insect wears its skeleton outside, as an exoskeleton, and a jellyfish has none at all, only water pressure."
+    }
+   ]
+  },
+  "What bones do for us": {
+   "perspectives": [
+    {
+     "who": "Old view",
+     "explanation": "Bones are a frame. They hold the body up and protect the heart and brain."
+    },
+    {
+     "who": "Modern doctors",
+     "explanation": "Bone is also a factory and a store. Its soft middle, the marrow, makes blood cells, and it stores calcium that the rest of the body draws on."
+    }
+   ]
+  },
+  "Joints are where bones meet": {
+   "perspectives": [
+    {
+     "who": "Sushruta",
+     "explanation": "Described eight kinds of joints, such as ones that turn, ones that slide and ones shaped like a mortar and pestle. He studied them to set broken and dislocated limbs."
+    },
+    {
+     "who": "Modern anatomists",
+     "explanation": "Group joints by how they move, and also by what holds them: ligaments, cartilage and fluid. A joint is a whole working part, not only the place where two bones meet."
+    }
+   ]
+  },
+  "Hinge joints and ball and socket joints": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "See the elbow as a hinge and the hip as a ball and socket, and use these ideas to design robots and artificial hips."
+    },
+    {
+     "who": "Octopus researchers",
+     "explanation": "Point out that an octopus arm has no bones and no joints, and still it can bend anywhere along its length. Joints are one solution, not the only one."
+    }
+   ]
+  },
+  "Muscles pull bones": {
+   "perspectives": [
+    {
+     "who": "Galen",
+     "explanation": "The Greek doctor Galen, about 170 CE, taught that nerves carry a spirit that makes muscles pull."
+    },
+    {
+     "who": "Andrew and Hugh Huxley",
+     "explanation": "In 1954 two scientists, unrelated, showed that muscle works by thin threads of protein sliding past one another, which makes the muscle shorter. This is called the sliding filament theory."
+    }
+   ]
+  },
+  "Bones are alive": {
+   "perspectives": [
+    {
+     "who": "The everyday view",
+     "explanation": "A skeleton in a museum looks dry and dead, like a stick. Many people think bones are just hard props."
+    },
+    {
+     "who": "Bone scientists",
+     "explanation": "A living bone is full of blood and busy cells. Some cells build bone and others take it apart. The whole skeleton is slowly replaced, which is how a broken bone mends."
+    }
+   ]
+  },
+  "Children have more bones than grown-ups": {
+   "perspectives": [
+    {
+     "who": "Anatomists",
+     "explanation": "Count 206 bones in a grown-up and about 270 or more in a newborn. Several bones fuse as a child grows."
+    },
+    {
+     "who": "Counting differently",
+     "explanation": "The count depends on the rule. Sushruta's 300 included cartilages and teeth. Some people have an extra rib or tiny extra bones, so 206 is a usual number, not a law."
+    }
+   ]
+  }
+ },
+ "sci.changes.chemical-reactions.L4": {
+  "What the fizz of vinegar and baking soda makes": {
+   "perspectives": [
+    {
+     "who": "The textbook view",
+     "explanation": "Vinegar and baking soda make carbon dioxide, water and sodium acetate. It is easy to remember and right."
+    },
+    {
+     "who": "A closer look",
+     "explanation": "The acid first reacts with the baking soda to make carbonic acid, which then breaks into water and carbon dioxide. Joseph Black, in the 1750s, was the first to study this gas, which he called fixed air."
+    }
+   ]
+  },
+  "Five signs of a reaction, and why a sign is only a clue": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Bubbles, colour change, heat, light and a solid forming tell us a reaction has happened."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Warn that each sign can happen without a new substance. Boiling makes bubbles, and dissolving can change colour. To be sure, chemists measure, such as testing what the substance now is."
+    }
+   ]
+  },
+  "Rusting: iron reacts with oxygen and water": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Rusting is iron reacting with oxygen and water to form iron oxide. It works like a tiny battery with a wet surface, which is why salty air rusts iron faster."
+    },
+    {
+     "who": "The Iron Pillar of Delhi",
+     "explanation": "This pillar, about 1,600 years old, has hardly rusted. Studies find the iron has phosphorus in it, which helps a thin protective layer form on the surface. The old smiths made a metal that resists rust."
+    }
+   ]
+  },
+  "A new substance behaves unlike the substances that made it": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Sodium is a soft metal that burns water and chlorine is a poison gas. Together they make table salt, which we eat. The product is nothing like its parents."
+    },
+    {
+     "who": "Alchemists",
+     "explanation": "The old alchemists of Arabia, India (rasashastra) and Europe searched for ways to change one metal into another. Their work led to many tools and methods of chemistry, though not to gold."
+    }
+   ]
+  },
+  "Reactions give out heat or take heat in": {
+   "perspectives": [
+    {
+     "who": "Caloric theory",
+     "explanation": "Before 1800 many scientists, including Lavoisier, pictured heat as a fluid called caloric that flowed into and out of things."
+    },
+    {
+     "who": "James Joule",
+     "explanation": "In the 1840s he showed that heat is a form of energy. He stirred water with a paddle and measured the warmth. Reactions give out or take in energy, which often shows up as heat."
+    }
+   ]
+  },
+  "Reactions on the Earth and far beyond it": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that the heavens were made of an unchanging fifth substance, so changes of matter belonged to Earth alone."
+    },
+    {
+     "who": "Astrochemists",
+     "explanation": "Find with telescopes that space has chemistry. Molecules such as water and alcohol form on cold dust grains between stars. The amino acid glycine was found in comet dust."
+    }
+   ]
+  }
+ },
+ "sci.changes.kitchen-science.L2": {
+  "Rice absorbs water when it cooks": {
+   "perspectives": [
+    {
+     "who": "Cooks who use the absorption method",
+     "explanation": "Measure water so the grain soaks up everything, and nothing is thrown away."
+    },
+    {
+     "who": "Indian cooks who drain rice",
+     "explanation": "Many families boil rice in a lot of water and pour off the starchy water, the kanji. Food scientists explain that the starch swells and sets free part of itself, so draining changes the texture."
+    }
+   ]
+  },
+  "Butter melts and sets again, but ghee stays ghee": {
+   "perspectives": [
+    {
+     "who": "Indian dairy tradition",
+     "explanation": "Turns curd to butter, and butter to ghee, a food prized for cooking and medicine. Slow heat gives ghee its fragrance."
+    },
+    {
+     "who": "Food scientists",
+     "explanation": "Explain that butter is fat with a little water and milk solids mixed in. Heating boils away the water and browns the solids, which are strained out. They cannot be mixed back, so ghee stays ghee."
+    }
+   ]
+  }
+ },
+ "sci.chemistry-detectives.finding-out-whats-inside.L3": {
+  "Why black ink splits into colours": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Black ink looks like one colour, and it seems to be a simple thing."
+    },
+    {
+     "who": "Mikhail Tsvet",
+     "explanation": "In the early 1900s this Russian botanist split green leaf colour into bands by passing it through a column of chalk. He named the method chromatography, 'colour writing'. Black ink is also a mixture."
+    }
+   ]
+  },
+  "Why some dyes travel further": {
+   "perspectives": [
+    {
+     "who": "Adsorption view",
+     "explanation": "A dye clings to the paper's surface, and the water carries it along, pulling it away. A strong clinger moves little."
+    },
+    {
+     "who": "Archer Martin and Richard Synge",
+     "explanation": "Their 1941 work, awarded a Nobel Prize in 1952, treated the water as one layer and the paper's wet fibres as another. A dye divides itself between them, and how it divides decides how far it goes."
+    }
+   ]
+  },
+  "Some inks do not move in water": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Permanent ink is permanent. It will never come off or move."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "A substance only moves if the liquid can dissolve it. Permanent ink does not dissolve in water but does dissolve in alcohol. Forensic chemists choose liquids to match the ink."
+    }
+   ]
+  },
+  "Chromatography in labs today": {
+   "perspectives": [
+    {
+     "who": "Tsvet's time",
+     "explanation": "For about thirty years his method was ignored, until other scientists picked it up in the 1930s."
+    },
+    {
+     "who": "Labs today",
+     "explanation": "Use chromatography to test blood for medicines, food for poisons and air for pollution. It is one of the most used tools of chemistry."
+    }
+   ]
+  },
+  "Every element has its own flame colour": {
+   "perspectives": [
+    {
+     "who": "Robert Bunsen and Gustav Kirchhoff",
+     "explanation": "In 1860 they showed that each element glows with its own colour pattern in a flame, and used it to discover two new elements, caesium and rubidium."
+    },
+    {
+     "who": "Niels Bohr and later physicists",
+     "explanation": "Explained the colours from 1913: each atom has levels of energy for its electrons. When an electron drops down a level, it gives out light of one exact colour."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.acids-and-bases.L3": {
+  "How red cabbage water shows acids and bases": {
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "In the 1600s he found that syrup of violets turned red with acid and green with base. This was an early indicator."
+    },
+    {
+     "who": "Indian households",
+     "explanation": "Have long used turmeric, which turns red with soap or lime. The kumkum used in worship is made from turmeric and slaked lime, a chemical test used as a tradition."
+    }
+   ]
+  },
+  "One line from sour to soapy: the pH scale": {
+   "perspectives": [
+    {
+     "who": "Soren Sorensen",
+     "explanation": "A Danish chemist who invented the pH scale in 1909 at the Carlsberg brewery, to keep track of acids in beer making."
+    },
+    {
+     "who": "Chemists after him",
+     "explanation": "Found that the scale has limits and other ways to say acid. Some definitions, like those of Arrhenius, Bronsted and Lowry, and Lewis, cover different cases."
+    }
+   ]
+  },
+  "When an acid meets a base": {
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In the 1880s he explained neutralising as acid's hydrogen ions joining with base's hydroxide ions to make water."
+    },
+    {
+     "who": "Johannes Bronsted and Thomas Lowry",
+     "explanation": "In 1923 each independently said an acid hands a hydrogen ion to a base. This also works in liquids that are not water."
+    }
+   ]
+  },
+  "Living beings that make acids": {
+   "perspectives": [
+    {
+     "who": "Ants and stinging nettles",
+     "explanation": "Make formic acid to hurt or warn off a predator. The word formic comes from formica, the Latin for ant."
+    },
+    {
+     "who": "Curd-making microbes",
+     "explanation": "Bacteria that turn milk to curd make lactic acid. The sour acid keeps harmful microbes out, so the curd keeps."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.polymers.L3": {
+  "Why long chains tangle": {
+   "perspectives": [
+    {
+     "who": "Early chemists",
+     "explanation": "Many thought rubber and similar stuff were clumps of small molecules held by loose forces. They doubted that molecules could be so long."
+    },
+    {
+     "who": "Hermann Staudinger",
+     "explanation": "In the 1920s he argued that they are truly giant molecules with strong bonds along the whole chain. He was doubted at first and won the Nobel Prize in 1953."
+    }
+   ]
+  },
+  "How borax turns glue into slime": {
+   "perspectives": [
+    {
+     "who": "Borax slime chemists",
+     "explanation": "Say the borate links are weak and come apart again. That is why slime flows slowly yet stretches and snaps."
+    },
+    {
+     "who": "Charles Goodyear",
+     "explanation": "In 1839 he found that heating rubber with sulphur makes strong, lasting links between chains. His rubber does not flow, unlike slime."
+    }
+   ]
+  },
+  "Polymers that living beings make": {
+   "perspectives": [
+    {
+     "who": "Silk-makers and lac farmers",
+     "explanation": "In India, people have for centuries used the silk of silkworms and the lac made by lac insects, for cloth and bangles. Living beings made these polymers long before chemistry named them."
+    },
+    {
+     "who": "Biochemists",
+     "explanation": "Find that proteins, cellulose, starch and DNA are all polymers. Life is built from chains, and the order of links carries the information."
+    }
+   ]
+  },
+  "Plastics: polymers people make": {
+   "perspectives": [
+    {
+     "who": "Leo Baekeland",
+     "explanation": "Made Bakelite in 1907, the first fully man-made plastic. It was hailed as the material of a thousand uses."
+    },
+    {
+     "who": "Environmental scientists",
+     "explanation": "Today find plastic waste in oceans and even tiny bits of plastic inside living beings. The same long chains that make plastic strong make it slow to break down."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.reaction-speed.L4": {
+  "A reaction is a meeting of particles": {
+   "perspectives": [
+    {
+     "who": "Max Trautz and William Lewis",
+     "explanation": "In 1916 and 1918 they proposed collision theory: particles must bump into each other to react, and only hard enough bumps count."
+    },
+    {
+     "who": "Henry Eyring",
+     "explanation": "In 1935 he added that particles in a bump form a brief, unstable joined state before turning into the new substances. This transition-state theory explains details that simple collisions cannot."
+    }
+   ]
+  },
+  "Reaction rate: how fast a change goes": {
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. Rate is a measuring rule, an amount of change divided by time, and every chemist uses it in exactly the same way."
+  },
+  "A reaction starts fast and then slows down": {
+   "perspectives": [
+    {
+     "who": "Cato Guldberg and Peter Waage",
+     "explanation": "In 1864 they showed that a reaction goes at a rate that depends on how much of each substance is left, so as the reactants run out, it slows."
+    },
+    {
+     "who": "Boris Belousov",
+     "explanation": "In the 1950s this Soviet chemist found a mixture whose colour kept swinging between yellow and clear, so its rate rose and fell. His work was doubted for years. Not every reaction just slows down."
+    }
+   ]
+  },
+  "Warmth speeds up almost every reaction": {
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In 1889 he showed that a small rise in temperature greatly raises a reaction's rate, because more particles have enough energy to react."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Note that this fails for living things when heat goes too far. An enzyme, the helper protein in a cell, loses its shape in high heat and stops working. Past a point warmth slows a living reaction."
+    }
+   ]
+  },
+  "Stirring and moving: bringing fresh particles together": {
+   "perspectives": [
+    {
+     "who": "Chemists in a lab",
+     "explanation": "Explain that stirring brings fresh particles to meet, as above."
+    },
+    {
+     "who": "Chemical engineers",
+     "explanation": "Find that in big factory tanks, how fast things mix is often the limit, more than the chemistry. They design the stirring and pumps as carefully as the recipe."
+    }
+   ]
+  },
+  "Smaller pieces mean more surface and faster reactions": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Explain that a powder has more surface touching the other substance, so more particles can react at once."
+    },
+    {
+     "who": "Flour millers and miners",
+     "explanation": "Know that fine dust, such as flour or coal dust, can catch fire and explode, because every tiny grain burns at once. Many accidents have taught this."
+    }
+   ]
+  },
+  "Crowding: more particles in the same space": {
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say more particles in the same space meet more often, so the reaction is faster."
+    },
+    {
+     "who": "Cell biologists",
+     "explanation": "Point out that the inside of a cell is very crowded with proteins. This crowding changes how fast reactions inside cells go, and so a test tube is a poor copy of a cell."
+    }
+   ]
+  },
+  "A catalyst makes one reaction faster and is not used up": {
+   "perspectives": [
+    {
+     "who": "Jons Jacob Berzelius",
+     "explanation": "In 1835 he used the word catalysis for a hidden power that helps reactions along without being used up. He did not know how it worked."
+    },
+    {
+     "who": "Wilhelm Ostwald",
+     "explanation": "Defined a catalyst in 1894 as something that speeds a reaction without being used up, and received the Nobel Prize in 1909. Today we say it gives the reaction an easier path."
+    }
+   ]
+  },
+  "Slowing a change down on purpose": {
+   "perspectives": [
+    {
+     "who": "Indian pickle makers",
+     "explanation": "Used salt, oil and spices to keep fruits and vegetables for months. They slowed rot long before anyone knew about microbes."
+    },
+    {
+     "who": "Chemists and food scientists",
+     "explanation": "Add substances called inhibitors, such as antioxidants, that block the particles that cause spoiling. It is the same goal reached with different tools."
+    }
+   ]
+  },
+  "Some changes are so slow that we never see them": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Notice no change in a stone or a glass window, and think nothing is happening."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that rocks are slowly changing all the time, as rain and air dissolve and rust them over thousands of years. Slow is not the same as still."
+    }
+   ]
+  }
+ },
+ "sci.classification.sorting-living-things.L1": {
+  "A good rule is one everyone can check": {
+   "perspectives": [
+    {
+     "who": "Carl Linnaeus",
+     "explanation": "In the 1700s he sorted plants by counting their stamens and other parts, which anyone could check. His system was easy to use, though it grouped some unrelated plants."
+    },
+    {
+     "who": "Modern biologists",
+     "explanation": "Sort by ancestry too, using DNA, so that groups match family trees. The rule is no longer only what we can see."
+    }
+   ]
+  },
+  "No two living beings are exactly the same": {
+   "perspectives": [
+    {
+     "who": "Charles Darwin",
+     "explanation": "Saw that differences among members of one kind are what natural selection works on. Variety is the raw material of change."
+    },
+    {
+     "who": "Ernst Mayr",
+     "explanation": "Described an older habit of mind, typological thinking, where each kind has a perfect pattern and differences are errors. He argued for population thinking, where the variety is the real thing."
+    }
+   ]
+  }
+ },
+ "sci.ecology.cycles-and-decomposers.L3": {
+  "What decomposers are": {
+   "perspectives": [
+    {
+     "who": "Old belief",
+     "explanation": "For long, many people thought that rot and maggots arose from dead things by themselves."
+    },
+    {
+     "who": "Louis Pasteur",
+     "explanation": "In the 1860s he showed with careful flasks that rot starts only when living microbes reach the food. Rot is the work of living beings."
+    }
+   ]
+  },
+  "How a fungus eats: digesting outside the body": {
+   "perspectives": [
+    {
+     "who": "Old view",
+     "explanation": "Fungi were treated as plants with no green, because they grow in one place and have cell walls."
+    },
+    {
+     "who": "Robert Whittaker",
+     "explanation": "In 1969 he placed fungi in their own kingdom. Later DNA studies showed fungi are closer cousins to animals than to plants. Both fungi and animals eat food made by others."
+    }
+   ]
+  },
+  "What decomposers need: food, water, warmth and air": {
+   "perspectives": [
+    {
+     "who": "The usual view",
+     "explanation": "Decomposers need warmth, water, food and air. Without them, rot stops."
+    },
+    {
+     "who": "Bog researchers",
+     "explanation": "Peat bogs have almost no oxygen and are acid, so rot is very slow. The Tollund Man, about 2,300 years old, was found in a Danish bog with his skin still preserved. Some microbes rot food without air, so air is not always needed."
+    }
+   ]
+  },
+  "How people keep food from rotting": {
+   "perspectives": [
+    {
+     "who": "Indian households",
+     "explanation": "Dried grains, salted fish, pickled mangoes and made ghee. Each way takes away water or changes the food so microbes cannot grow."
+    },
+    {
+     "who": "Nicolas Appert",
+     "explanation": "A French confectioner who, around 1809, found that food heated in sealed jars stayed fresh. It was one of the first steps to canning, many years before microbes were known."
+    }
+   ]
+  },
+  "How earthworms help to make soil": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Called earthworms the intestines of the earth, a view that they work the soil."
+    },
+    {
+     "who": "Charles Darwin",
+     "explanation": "Spent decades on worms. His last book, in 1881, measured that worms bring up and turn over tons of soil per acre every year. Many farmers had thought worms were pests."
+    }
+   ]
+  },
+  "Nature's recycling: from a dead leaf to a new plant": {
+   "perspectives": [
+    {
+     "who": "The Taittiriya Upanishad",
+     "explanation": "An old Indian text says that beings are born from food and return to the earth to become food. It sees life as one turning circle."
+    },
+    {
+     "who": "Ecologists",
+     "explanation": "Trace the same cycle in atoms of carbon, nitrogen and others that pass from soil to plants to animals and back through decomposers. They also find that some leave the cycle for long times, as coal or limestone."
+    }
+   ]
+  }
+ },
+ "sci.electricity.circuits.L2": {
+  "Both ends of the cell must be joined": {
+   "perspectives": [
+    {
+     "who": "Benjamin Franklin",
+     "explanation": "In the 1700s he guessed that electricity moves from the positive end to the negative end. That direction is still used in diagrams, called conventional current."
+    },
+    {
+     "who": "Physicists after J. J. Thomson",
+     "explanation": "Found in 1897 that what moves in a wire is the electron, which has negative charge, so it goes the other way. Both ways of drawing the flow work for circuits."
+    }
+   ]
+  },
+  "The shape of the wires does not matter": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "For a simple torch circuit, the bulb lights whether the wire is straight, curly or knotted."
+    },
+    {
+     "who": "Michael Faraday",
+     "explanation": "Showed in the 1830s that a coil of wire carrying current behaves differently from a straight one. It makes a magnet. For fast changing current, shape matters a great deal."
+    }
+   ]
+  },
+  "Why the bulb glows": {
+   "perspectives": [
+    {
+     "who": "Thomas Edison and Joseph Swan",
+     "explanation": "In 1879 each made a lamp by heating a thin thread, the filament, in a glass bulb until it glowed white hot."
+    },
+    {
+     "who": "Physicists who study LEDs",
+     "explanation": "Say an LED makes light in another way: electrons drop to a lower energy level inside a crystal and give out light, with little heat. It is also an example of a switch from hot light to cool light."
+    }
+   ]
+  }
+ },
+ "sci.electricity.electrical-safety.L2": {
+  "Why the wall is dangerous and a cell is not": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The big number of volts makes the wall dangerous."
+    },
+    {
+     "who": "Doctors and safety scientists",
+     "explanation": "Say that it is the current, the amount of electricity through the body, that does the harm, and the path it takes. A small current through the heart can be deadly, and wet skin lets more through."
+    }
+   ]
+  },
+  "Why a bird can sit on a wire": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "A bird on a single wire has both feet at the same voltage, so no electricity needs to flow through its body."
+    },
+    {
+     "who": "Power company engineers",
+     "explanation": "Find that big birds such as eagles are killed when their wings touch two wires or a wire and a pole. The difference in voltage across the body is what counts."
+    }
+   ]
+  },
+  "What a shock does to a body": {
+   "perspectives": [
+    {
+     "who": "Luigi Galvani and Alessandro Volta",
+     "explanation": "In the 1780s Galvani saw a frog's leg twitch from electricity and thought animals made their own electricity. Volta argued that two metals produced it. Both were partly right."
+    },
+    {
+     "who": "Heart doctors",
+     "explanation": "Use a shock on purpose. A defibrillator sends a strong electric pulse to stop a heart beating wildly, so that it can start again in step."
+    }
+   ]
+  }
+ },
+ "sci.electricity.simple-circuits.L3": {
+  "Staying safe with electricity": {
+   "perspectives": [
+    {
+     "who": "Safety engineers",
+     "explanation": "Add layers: insulated wires, earth wires, fuses and switches that cut off power in a fraction of a second."
+    },
+    {
+     "who": "Physiologists",
+     "explanation": "Note that harm depends on how big the current is, how long it flows and where it goes. A small current for a short time may be felt only; a small current through the chest can be deadly."
+    }
+   ]
+  },
+  "A complete circuit": {
+   "perspectives": [
+    {
+     "who": "Teachers using the water picture",
+     "explanation": "Imagine electricity as water pushed around a pipe loop by a pump. It helps us see why a loop is needed."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Show with the work of John Poynting in 1884 that the energy of a circuit travels in the space around the wires, as electric and magnetic fields. The wires guide the energy."
+    }
+   ]
+  },
+  "Why a broken circuit stops everything": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "When the loop is cut, the whole circuit goes dead at once."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say the change spreads along the wire at close to the speed of light, so it seems at once. The electrons themselves drift at only a fraction of a millimetre per second."
+    }
+   ]
+  },
+  "Conductors and insulators": {
+   "perspectives": [
+    {
+     "who": "Stephen Gray",
+     "explanation": "In 1729 he discovered that electricity could pass along some materials, like wet thread, and not others, like silk. He gave us the first idea of conductors and insulators."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Find a middle group, semiconductors, such as silicon. They sometimes conduct and sometimes do not, and computers are made of them. Even air conducts in lightning."
+    }
+   ]
+  },
+  "How a switch works": {
+   "perspectives": [
+    {
+     "who": "Electricians",
+     "explanation": "A switch is a gap that is closed or opened with a lever, by hand."
+    },
+    {
+     "who": "Bardeen, Brattain and Shockley",
+     "explanation": "In 1947 they invented the transistor, a switch with no moving part that is turned on and off by a tiny electric signal. A modern phone holds billions of them."
+    }
+   ]
+  }
+ },
+ "sci.energy.heat-moves.L3": {
+  "Conduction: heat passed from part to part": {
+   "perspectives": [
+    {
+     "who": "Joseph Fourier",
+     "explanation": "In 1822 he wrote the mathematical law of how heat flows through a solid, without saying anything about atoms."
+    },
+    {
+     "who": "Kinetic theorists",
+     "explanation": "Explained later that atoms in the hot part jiggle faster and bump their neighbours, passing on energy bump by bump."
+    }
+   ]
+  },
+  "Why heat reaches far parts late, or not at all": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain the slow spread by Fourier's heat equation: heat spreads in all directions, not in a straight race, so far points warm much later."
+    },
+    {
+     "who": "Cooks and potters",
+     "explanation": "Know it from experience, and choose wood or plastic handles for pans so that the heat does not reach the hand."
+    }
+   ]
+  },
+  "Conductors and insulators of heat": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Group materials by how fast they pass heat: metals fast, wood and plastic slowly, still air very slowly."
+    },
+    {
+     "who": "Other animals",
+     "explanation": "Use insulation to live. Fur and feathers trap still air, and penguins and whales have a thick layer of fat. They make their own insulators."
+    }
+   ]
+  },
+  "Why metals are such good conductors": {
+   "perspectives": [
+    {
+     "who": "Paul Drude",
+     "explanation": "In 1900 he pictured a metal as a sea of free electrons that carry heat and electricity quickly."
+    },
+    {
+     "who": "Later physicists",
+     "explanation": "Found that this picture is only part of the story. Diamond has no free electrons yet conducts heat better than metals, because its tightly bound atoms pass on vibrations quickly."
+    }
+   ]
+  },
+  "Two more ways heat moves": {
+   "perspectives": [
+    {
+     "who": "William Herschel",
+     "explanation": "In 1800 he found invisible heat rays beyond the red end of sunlight, now called infrared."
+    },
+    {
+     "who": "Pit vipers",
+     "explanation": "These snakes have small pits on their face that sense infrared. They feel the heat of a warm mouse in the dark, a sense we do not have."
+    }
+   ]
+  }
+ },
+ "sci.energy.heat.L3": {
+  "How a liquid thermometer works": {
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Made a thermoscope around 1600, a glass tube with air and water that rose and fell with warmth, but with no numbers."
+    },
+    {
+     "who": "Anders Celsius",
+     "explanation": "In 1742 he made a scale from the freezing and boiling of water. His scale at first ran the other way, with 0 for boiling."
+    }
+   ]
+  },
+  "Two kinds of thermometer": {
+   "perspectives": [
+    {
+     "who": "Doctors and chemists",
+     "explanation": "Use liquid thermometers, each made for a range."
+    },
+    {
+     "who": "Infrared thermometers",
+     "explanation": "Read a forehead or a pan by the infrared heat it gives off, with no touching. They measure radiation, not expansion."
+    }
+   ]
+  },
+  "Heat moves from warmer to cooler": {
+   "perspectives": [
+    {
+     "who": "Rudolf Clausius",
+     "explanation": "In 1850 he stated that heat never moves by itself from a cooler to a warmer body. It is a basic law of nature."
+    },
+    {
+     "who": "Ludwig Boltzmann",
+     "explanation": "Argued that it is an overwhelming chance, not a certainty. With countless particles, it is so unlikely that heat flows from cold to warm that it never happens in practice."
+    }
+   ]
+  },
+  "Heat and temperature are not the same": {
+   "perspectives": [
+    {
+     "who": "Joseph Black",
+     "explanation": "In the 1760s he was the first to clearly separate the two ideas, and measured how much heat different substances hold."
+    },
+    {
+     "who": "Count Rumford",
+     "explanation": "In 1798 he watched cannon barrels being drilled and saw that rubbing seemingly made endless heat. He argued that heat is a kind of motion, and not a fluid."
+    }
+   ]
+  },
+  "Why your hand is not a thermometer": {
+   "perspectives": [
+    {
+     "who": "John Locke",
+     "explanation": "Described in 1690 a test of three bowls of water, hot, cold and warm. A hand from the hot bowl feels the warm bowl cold, while a hand from the cold bowl feels it hot."
+    },
+    {
+     "who": "Sensory scientists",
+     "explanation": "Find that our skin has sensors that react to change in temperature, not temperature itself. A thermometer's number does not depend on a hand's past."
+    }
+   ]
+  }
+ },
+ "sci.evolution.inheritance.L1": {
+  "We are similar, and we are different": {
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "In the 1860s he bred pea plants and found that features pass on as separate units. The units later got the name genes."
+    },
+    {
+     "who": "Charles Darwin",
+     "explanation": "Thought for a time that features blend like paint. If so, differences would soon fade away, and he worried over this."
+    }
+   ]
+  },
+  "A seed carries the parent plant's features": {
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "Showed that a seed carries inherited units from both parent plants. Features such as flower colour pass on by clear rules."
+    },
+    {
+     "who": "Epigenetics researchers",
+     "explanation": "Find that the way a plant lives, such as drought or cold, can switch genes on or off, and some of these switches may pass to its seeds. The seed carries more than the written code."
+    }
+   ]
+  }
+ },
+ "sci.forces.changing-motion.L1": {
+  "The side of the push decides: faster or slower": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that a thing keeps moving only while something pushes it. When the push stops, the motion stops."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "Showed that a moving thing keeps going the same way and speed unless a force acts on it. A push along its way speeds it up and a push against slows it."
+    }
+   ]
+  },
+  "A bigger push makes a bigger change": {
+   "perspectives": [
+    {
+     "who": "Jean Buridan",
+     "explanation": "A French scholar of the 1300s who thought a push puts a kind of force in a thing, called impetus, and a bigger push puts more in."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "In 1687 stated that the change in motion is bigger when the force is bigger. Force equals mass times change in speed, and impetus is not needed."
+    }
+   ]
+  }
+ },
+ "sci.forces.how-toys-work.L1": {
+  "Round things roll": {
+   "perspectives": [
+    {
+     "who": "Early cart makers",
+     "explanation": "Little clay toy carts with wheels have been found at Harappan sites. The wheel was used in play and work."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say rolling takes much less effort than sliding, because the part touching the ground is momentarily still. Friction is far smaller for rolling."
+    }
+   ]
+  },
+  "A rolling thing's shape steers it": {
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. A thing that is wider at one end travels further on that side, so it turns in a curve, and anyone can test this with a cup."
+  },
+  "A bounce is a squash and a spring back": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that a ball stores energy in its squashed shape and gives it back. Each bounce is lower because some energy turns to heat and sound."
+    },
+    {
+     "who": "Flea researchers",
+     "explanation": "Find that a flea jumps by squashing a pad of springy protein called resilin and letting it go. Living bodies also bounce."
+    }
+   ]
+  },
+  "A top stands up only while it spins": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say a spinning top has angular momentum, which resists tipping. When it slows, the pull of gravity wins."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Show that the Earth is itself a spinning top. Its axis wobbles in a slow circle, once in about 26,000 years, like a top that is leaning. Indian children have long played with the spinning top, called bambaram or lattu."
+    }
+   ]
+  },
+  "Winding stores your push": {
+   "perspectives": [
+    {
+     "who": "Robert Hooke",
+     "explanation": "In 1660 he found that a spring pushes back in proportion to how far it is stretched. This is Hooke's law."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find that living beings store energy in springy parts too. In a human leg the Achilles tendon stretches like a spring and gives back energy on each step."
+    }
+   ]
+  }
+ },
+ "sci.forces.push-and-pull.L1": {
+  "A push or a pull makes a still thing move": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that things naturally rest, and that all motion needs a pusher."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "In 1687 stated his first law: a still thing stays still and a moving thing keeps moving the same way, unless a force acts. In the Vaisheshika school of India, motion was a basic idea caused by effort or impact."
+    }
+   ]
+  },
+  "Push means away, pull means towards": {
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "A push is away from you and a pull is toward you, as you feel it in the hand."
+    },
+    {
+     "who": "Newton and Einstein",
+     "explanation": "Newton showed that forces come in pairs, and when you push a wall the wall pushes back. Einstein later pictured gravity not as a pull but as the bending of space and time."
+    }
+   ]
+  },
+  "A bigger push sends a thing further": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Thought an arrow keeps flying because the air pushes it from behind. A big push sends it far."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "Showed that the arrow keeps moving because nothing strong stops it. A bigger push gives more speed, and air and the ground slowly stop it."
+    }
+   ]
+  },
+  "A heavy thing needs a bigger push or pull": {
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Said that a heavy thing has more mass, which is a measure of how much it resists being moved. The harder to start, the bigger the mass."
+    },
+    {
+     "who": "Albert Einstein",
+     "explanation": "In 1915 pointed out that this resistance to being moved and the heaviness we feel from gravity are exactly equal for every thing, and treated this as a clue to how gravity works."
+    }
+   ]
+  }
+ },
+ "sci.forces.simple-machines.L4": {
+  "The fixed pulley: it only turns the pull round": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The Greek thinker of the 200s BCE is said to have worked out how to move a ship with a compound of pulleys and a rope."
+    },
+    {
+     "who": "The Mohists of China",
+     "explanation": "Followers of Mozi wrote about 2,300 years ago on levers and pulleys. They were practical, and studied how machines save effort."
+    }
+   ]
+  },
+  "The moving pulley and counting the ropes": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Is credited with showing that more rope turns can lift a big load with a small pull."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain it by energy: with two ropes, the pull is half but you pull twice as far. The work you do stays the same."
+    }
+   ]
+  },
+  "Work: force times distance stays the same": {
+   "perspectives": [
+    {
+     "who": "Rene Descartes",
+     "explanation": "Argued in the 1600s that what is kept in motion is the product of mass and speed."
+    },
+    {
+     "who": "Gottfried Leibniz",
+     "explanation": "Argued that what counts is mass times speed squared, which he called vis viva. This quarrel, which went on for decades, ended when scientists saw that both quantities are useful but different. The term work came in 1829."
+    }
+   ]
+  },
+  "Where the missing effort goes: friction and efficiency": {
+   "perspectives": [
+    {
+     "who": "Bhaskara II",
+     "explanation": "A 12th century Indian mathematician who described a wheel with weights on its rim that he believed would turn forever. It was an early perpetual motion idea."
+    },
+    {
+     "who": "James Joule",
+     "explanation": "Showed in the 1840s that work lost to friction turns into heat, so nothing is truly lost, and no machine can turn forever without a fresh supply of energy."
+    }
+   ]
+  },
+  "Gears: trading turning strength for speed": {
+   "perspectives": [
+    {
+     "who": "Makers of the Antikythera mechanism",
+     "explanation": "An ancient Greek device made around the 100s BCE. It had dozens of bronze gears to follow the Sun, Moon and eclipses."
+    },
+    {
+     "who": "Insect researchers",
+     "explanation": "In 2013 scientists found that the young planthopper Issus has gear teeth on its hind legs, which keep its legs in step as it jumps."
+    }
+   ]
+  },
+  "The screw: a ramp wound round a rod": {
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "Tradition says he designed a water screw, a tube wound round a rod, to lift water. It is still used in places."
+    },
+    {
+     "who": "Observers of nature",
+     "explanation": "See the same shape in snail shells and in climbing vines. The ramp wound round is a shape that lets a small turning do a big job."
+    }
+   ]
+  },
+  "The wedge: two ramps that push things apart": {
+   "perspectives": [
+    {
+     "who": "Egyptian quarrymen",
+     "explanation": "Split huge stone blocks by hammering wooden wedges in rows and soaking them with water, so they swelled and cracked the rock."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Point out that our own teeth are wedges. Incisors cut and bite by turning a push into a sideways split."
+    }
+   ]
+  },
+  "Compound machines: machines made from machines": {
+   "perspectives": [
+    {
+     "who": "Engineers",
+     "explanation": "Say that multiplying the gains of simple machines can give a very big advantage, though each part loses a little to friction."
+    },
+    {
+     "who": "Anatomists",
+     "explanation": "See the human body as many levers working together. The bones, muscles and joints of the arm and the leg make a compound machine that was never designed."
+    }
+   ]
+  },
+  "Machines smaller than a speck: motors inside living cells": {
+   "perspectives": [
+    {
+     "who": "Vitalists",
+     "explanation": "Until the 1800s many held that living things ran on a special life force that was not made of ordinary matter."
+    },
+    {
+     "who": "Biochemists",
+     "explanation": "Found that cells have real machines. Paul Boyer and John Walker earned the Nobel Prize in 1997 for explaining ATP synthase, a tiny rotor that turns to make the cell's fuel."
+    }
+   ]
+  }
+ },
+ "sci.how-we-know.stories-of-discovery.L1": {
+  "Why soap turns haldi red": {
+   "perspectives": [
+    {
+     "who": "Indian traditions",
+     "explanation": "Make kumkum for worship by mixing turmeric and slaked lime, which turns the yellow powder red. Cooks have long seen turmeric stain turn red with soap."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Explain that the yellow colouring in turmeric, curcumin, changes colour in alkali. This is why turmeric is an indicator, and why lemon juice, an acid, turns it back."
+    }
+   ]
+  }
+ },
+ "sci.light.colour.L1": {
+  "Why mixing paints makes colours darker": {
+   "perspectives": [
+    {
+     "who": "Painters",
+     "explanation": "Have taught red, yellow and blue as the three main paints. Mixing them goes toward brown and gets darker."
+    },
+    {
+     "who": "Printers and physicists",
+     "explanation": "Use cyan, magenta and yellow for ink, and red, green and blue for light. Mixing lights gets brighter, since each adds light, but mixing paint takes light away."
+    }
+   ]
+  }
+ },
+ "sci.light.light-sources.L1": {
+  "Shiny things only send back light": {
+   "perspectives": [
+    {
+     "who": "Euclid and Ptolemy",
+     "explanation": "Ancient Greek thinkers taught that our eyes send out rays that touch things and make them seen. Plato also thought this."
+    },
+    {
+     "who": "Ibn al-Haytham",
+     "explanation": "In about 1011 to 1021 in Cairo he showed that light enters the eye from things, after bouncing off them. He wrote it in his Book of Optics and tested it with experiments."
+    }
+   ]
+  },
+  "A lamp makes light only while it is working": {
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say light is made when energy changes form. A hot filament, a flame or an LED turns another kind of energy into light each moment, and the light itself is never stored."
+    },
+    {
+     "who": "Fireflies and glow-worms",
+     "explanation": "Make cold light by a chemical reaction in their bodies, using luciferin. They glow with almost no heat, which the light bulb cannot do."
+    }
+   ]
+  }
+ }
+}

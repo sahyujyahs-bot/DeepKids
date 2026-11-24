@@ -79,10 +79,18 @@
     "A steel tumbler shines next to a lamp, and goes dark when the lamp is taken away.",
     "A mirror in a dark cupboard shows nothing."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Euclid and Ptolemy",
+     "explanation": "Ancient Greek thinkers taught that our eyes send out rays that touch things and make them seen. Plato also thought this."
+    },
+    {
+     "who": "Ibn al-Haytham",
+     "explanation": "In about 1011 to 1021 in Cairo he showed that light enters the eye from things, after bouncing off them. He wrote it in his Book of Optics and tested it with experiments."
+    }
+   ],
    "context": "This card is about shiny things that look bright but make no light.",
-   "art": "Two pictures: a torch beam on a steel spoon, which shines, and the torch pointed away, with the spoon dark.",
-   "one_view": "\"Shiny things only send back light\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two pictures: a torch beam on a steel spoon, which shines, and the torch pointed away, with the spoon dark."
   },
   {
    "concept": "A lamp makes light only while it is working",
@@ -94,10 +102,18 @@
     "In a power cut, every tube light goes dark at the same moment.",
     "A diya goes out when all its oil is used up."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say light is made when energy changes form. A hot filament, a flame or an LED turns another kind of energy into light each moment, and the light itself is never stored."
+    },
+    {
+     "who": "Fireflies and glow-worms",
+     "explanation": "Make cold light by a chemical reaction in their bodies, using luciferin. They glow with almost no heat, which the light bulb cannot do."
+    }
+   ],
    "context": "This card says why a lamp stops shining.",
-   "art": "A torch drawn twice: switched on with a bright beam, and switched off with the room dark, and two cells beside it.",
-   "one_view": "\"A lamp makes light only while it is working\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A torch drawn twice: switched on with a bright beam, and switched off with the room dark, and two cells beside it."
   },
   {
    "concept": "The Sun is a star, and our biggest light source",

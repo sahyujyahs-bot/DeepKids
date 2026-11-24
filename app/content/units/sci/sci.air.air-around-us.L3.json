@@ -118,10 +118,18 @@
     "A plastic bottle with its cap on will not crush flat when you squeeze it, because the air inside has nowhere to go.",
     "When you pour water fast out of a bottle, it glugs. Each glug is a bubble of air going in to take the water's place."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Hero of Alexandria",
+     "explanation": "Greek engineer from the first century CE, who showed with upside-down cups in water that air fills a space and keeps water out."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say air is mostly empty space between gas particles that fly about. It takes up space because the particles keep pushing, not because it is solid stuff."
+    }
+   ],
    "art": "A sequence of three bottles: a balloon that will not grow inside a sealed bottle, a small hole being made, and the balloon now filling the bottle.",
-   "context": "This card is about the first big idea of the unit: an 'empty' bottle or a 'full' glass of grain is full of air.",
-   "one_view": "\"Air takes up space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about the first big idea of the unit: an 'empty' bottle or a 'full' glass of grain is full of air."
   },
   {
    "concept": "Air can be squashed",
@@ -133,10 +141,18 @@
     "A football is full of compressed air, which is why it bounces.",
     "Bubble wrap pops when you squeeze it, because the squashed air bursts out."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Robert Boyle",
+     "explanation": "Called air springy in 1662 and measured how squeezing it into half the space doubled its push. He thought of air as being like tiny coiled springs."
+    },
+    {
+     "who": "Physicists after Boyle",
+     "explanation": "Explained the same result with moving particles. In less space they hit the walls more often, so the push grows."
+    }
+   ],
    "art": "Two syringes side by side, with zoom-in circles: one with air particles far apart being pushed closer, one with water particles touching.",
-   "context": "This card is about why air can be squashed but water cannot.",
-   "one_view": "\"Air can be squashed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about why air can be squashed but water cannot."
   },
   {
    "concept": "Air has weight",
@@ -244,10 +260,18 @@
     "At Pichavaram, near Chidambaram in Tamil Nadu, thousands of mangrove breathing roots stick up out of the mud.",
     "Rice plants in a flooded field also have air spaces in their stems that carry air to their roots."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A gardener",
+     "explanation": "Knows that a pot with no drainage lets roots rot, because roots in waterlogged soil cannot get air. To most of us, roots do not look like they breathe."
+    },
+    {
+     "who": "Plant scientists",
+     "explanation": "Show that root cells burn food with oxygen like any other cell. Mangrove trees grow special roots that stick up out of the mud, called pneumatophores, to take in air."
+    }
+   ],
    "art": "A cut-away drawing of a lotus plant in a pond, showing air moving down hollow tubes from the leaf, through the stalk, to the stem in the mud.",
-   "context": "This card is about plants whose roots live in mud, and how they get the air their roots need.",
-   "one_view": "\"Plants whose roots live in mud\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about plants whose roots live in mud, and how they get the air their roots need."
   },
   {
    "concept": "Where the oxygen in the air came from",

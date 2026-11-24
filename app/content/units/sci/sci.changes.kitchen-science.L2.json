@@ -104,10 +104,18 @@
     "Soaked rice, used for idli and dosa batter, is white and a little bigger, but still hard.",
     "When rice cooks, the water in the pan goes down, because the grains drink it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Cooks who use the absorption method",
+     "explanation": "Measure water so the grain soaks up everything, and nothing is thrown away."
+    },
+    {
+     "who": "Indian cooks who drain rice",
+     "explanation": "Many families boil rice in a lot of water and pour off the starchy water, the kanji. Food scientists explain that the starch swells and sets free part of itself, so draining changes the texture."
+    }
+   ],
    "context": "This card explains what happens in the Ten Grains in a Line experiment, where boiled rice grains make a longer line than dry or soaked grains.",
-   "art": "A zoom-in of one rice grain: on the left, tightly packed starch grains; on the right, the same grains swollen and loose, with water drops between them.",
-   "one_view": "\"Rice absorbs water when it cooks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A zoom-in of one rice grain: on the left, tightly packed starch grains; on the right, the same grains swollen and loose, with water drops between them."
   },
   {
    "concept": "Butter melts and sets again, but ghee stays ghee",
@@ -119,10 +127,18 @@
     "Ghee is runny in a Chennai summer and goes solid and grainy on a cold Delhi morning. Both of those changes go back.",
     "The brown bits at the bottom of a ghee pan are the milk parts of the butter, cooked by the heat."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian dairy tradition",
+     "explanation": "Turns curd to butter, and butter to ghee, a food prized for cooking and medicine. Slow heat gives ghee its fragrance."
+    },
+    {
+     "who": "Food scientists",
+     "explanation": "Explain that butter is fat with a little water and milk solids mixed in. Heating boils away the water and browns the solids, which are strained out. They cannot be mixed back, so ghee stays ghee."
+    }
+   ],
    "context": "This card explains the Melt It or Make Ghee? activity, where one spoon of butter melts and sets again, and another spoon becomes ghee.",
-   "art": "Two steel katoris: one of pale yellow butter that has set again, and one of golden ghee with tiny brown bits at the bottom.",
-   "one_view": "\"Butter melts and sets again, but ghee stays ghee\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two steel katoris: one of pale yellow butter that has set again, and one of golden ghee with tiny brown bits at the bottom."
   },
   {
    "concept": "Bacteria set the curd",

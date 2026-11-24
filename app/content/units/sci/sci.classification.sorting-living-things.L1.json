@@ -90,10 +90,18 @@
     "'Has no legs' puts a snake, an earthworm and a fish together.",
     "'Big leaf' can start an argument. 'Leaf bigger than my palm' cannot."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Carl Linnaeus",
+     "explanation": "In the 1700s he sorted plants by counting their stamens and other parts, which anyone could check. His system was easy to use, though it grouped some unrelated plants."
+    },
+    {
+     "who": "Modern biologists",
+     "explanation": "Sort by ancestry too, using DNA, so that groups match family trees. The rule is no longer only what we can see."
+    }
+   ],
    "context": "This card says how to choose a sorting rule that works.",
-   "art": "A hen flapping up onto a low wall, and a bat flying past at dusk.",
-   "one_view": "\"A good rule is one everyone can check\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A hen flapping up onto a low wall, and a bat flying past at dusk."
   },
   {
    "concept": "No two living beings are exactly the same",
@@ -105,10 +113,18 @@
     "Two crows on the window grill look alike, but one is a little bigger.",
     "You and a friend may both have black hair, but you are not the same person."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Charles Darwin",
+     "explanation": "Saw that differences among members of one kind are what natural selection works on. Variety is the raw material of change."
+    },
+    {
+     "who": "Ernst Mayr",
+     "explanation": "Described an older habit of mind, typological thinking, where each kind has a perfect pattern and differences are errors. He argued for population thinking, where the variety is the real thing."
+    }
+   ],
    "context": "This card is about what we found in the Leaf Twins experiment: even two leaves from one plant are different.",
-   "art": "Two pencil tracings of curry leaves side by side on white paper, with a small circle round the tip where they differ.",
-   "one_view": "\"No two living beings are exactly the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two pencil tracings of curry leaves side by side on white paper, with a small circle round the tip where they differ."
   },
   {
    "concept": "Humans are animals, and we share groups with other animals",

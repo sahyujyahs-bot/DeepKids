@@ -56,10 +56,18 @@
     "Your family photo from Pongal or Durga Puja shows many faces. Each face has eyes, a nose and a mouth, and each face is different.",
     "Two street dogs may both be brown, with the same pointed ears, and still have different tails."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "In the 1860s he bred pea plants and found that features pass on as separate units. The units later got the name genes."
+    },
+    {
+     "who": "Charles Darwin",
+     "explanation": "Thought for a time that features blend like paint. If so, differences would soon fade away, and he worried over this."
+    }
+   ],
    "context": "This card says that all people are alike in many ways, and that each person is also different.",
-   "art": "A row of five children of different heights, skin colours and hair, all holding hands and laughing.",
-   "one_view": "\"We are similar, and we are different\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A row of five children of different heights, skin colours and hair, all holding hands and laughing."
   },
   {
    "concept": "Children inherit features from both parents",
@@ -121,10 +129,18 @@
     "Farmers in Punjab and in the Kaveri delta save seeds from their best plants to sow next year.",
     "A cut stem of money plant or mint can grow roots in water and become a new plant."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "Showed that a seed carries inherited units from both parent plants. Features such as flower colour pass on by clear rules."
+    },
+    {
+     "who": "Epigenetics researchers",
+     "explanation": "Find that the way a plant lives, such as drought or cold, can switch genes on or off, and some of these switches may pass to its seeds. The seed carries more than the written code."
+    }
+   ],
    "context": "This card says how a seed or a cut stem grows into a plant like the parent.",
-   "art": "A pea plant with white flowers and green pods climbing a stick in a pot, with a split pea beside the pot showing the tiny baby plant inside.",
-   "one_view": "\"A seed carries the parent plant's features\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A pea plant with white flowers and green pods climbing a stick in a pot, with a split pea beside the pot showing the tiny baby plant inside."
   }
  ],
  "agreed": [

@@ -101,10 +101,18 @@
     "Red, yellow and blue together made a dark, muddy brown.",
     "In a dark room, no light falls on the paint, so every colour looks black."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Painters",
+     "explanation": "Have taught red, yellow and blue as the three main paints. Mixing them goes toward brown and gets darker."
+    },
+    {
+     "who": "Printers and physicists",
+     "explanation": "Use cyan, magenta and yellow for ink, and red, green and blue for light. Mixing lights gets brighter, since each adds light, but mixing paint takes light away."
+    }
+   ],
    "context": "This card says why the mixes in the Colour Mixing Test came out darker, and why all three paints made brown.",
-   "art": "A simple drawing of a torch shining on a yellow paint patch, a blue paint patch and a green patch, with fewer and fewer little arrows of light bouncing back, and almost none from a brown patch.",
-   "one_view": "\"Why mixing paints makes colours darker\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A simple drawing of a torch shining on a yellow paint patch, a blue paint patch and a green patch, with fewer and fewer little arrows of light bouncing back, and almost none from a brown patch."
   },
   {
    "concept": "Colours around us, and colours on living beings",

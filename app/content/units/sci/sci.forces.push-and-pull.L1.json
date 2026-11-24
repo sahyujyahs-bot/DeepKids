@@ -56,10 +56,18 @@
     "A football sits on the ground until someone kicks it.",
     "A bucket of water comes up from a well only when someone pulls the rope."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that things naturally rest, and that all motion needs a pusher."
+    },
+    {
+     "who": "Isaac Newton",
+     "explanation": "In 1687 stated his first law: a still thing stays still and a moving thing keeps moving the same way, unless a force acts. In the Vaisheshika school of India, motion was a basic idea caused by effort or impact."
+    }
+   ],
    "context": "This card says what starts a still thing moving.",
-   "art": "Three pictures in a row: a still ball and a finger, a still swing and two hands, a still toy car and a string being pulled.",
-   "one_view": "\"A push or a pull makes a still thing move\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Three pictures in a row: a still ball and a finger, a still swing and two hands, a still toy car and a string being pulled."
   },
   {
    "concept": "Push means away, pull means towards",
@@ -71,10 +79,18 @@
     "A fishing boat on the beach can be pushed from the back or pulled by a rope from the front. Either way, it slides towards the sea.",
     "Opening a drawer is a pull. Closing it is a push."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "A push is away from you and a pull is toward you, as you feel it in the hand."
+    },
+    {
+     "who": "Newton and Einstein",
+     "explanation": "Newton showed that forces come in pairs, and when you push a wall the wall pushes back. Einstein later pictured gravity not as a pull but as the bending of space and time."
+    }
+   ],
    "context": "This card is about the Two-Sided Door test, where you pushed and pulled the same door.",
-   "art": "A door seen from above, with a girl on one side pushing it and a boy on the other side pulling the handle, and the door swinging the same way.",
-   "one_view": "\"Push means away, pull means towards\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A door seen from above, with a girl on one side pushing it and a boy on the other side pulling the handle, and the door swinging the same way."
   },
   {
    "concept": "A bigger push sends a thing further",
@@ -86,10 +102,18 @@
     "A bigger push on a swing sends it higher.",
     "A carrom striker flicked hard shoots across the board. A soft flick stops halfway."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Thought an arrow keeps flying because the air pushes it from behind. A big push sends it far."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "Showed that the arrow keeps moving because nothing strong stops it. A bigger push gives more speed, and air and the ground slowly stop it."
+    }
+   ],
    "context": "This card is about the Little Push, Big Push test, where you gave a box a gentle push and a big push.",
-   "art": "Two lunch boxes on a tiled floor: one stopped close to a start line after a gentle push, and one far away after a big push, each with a chappal beside it as a marker.",
-   "one_view": "\"A bigger push sends a thing further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "Two lunch boxes on a tiled floor: one stopped close to a start line after a gentle push, and one far away after a big push, each with a chappal beside it as a marker."
   },
   {
    "concept": "A heavy thing needs a bigger push or pull",
@@ -101,10 +125,18 @@
     "In the Pull-Along Train, the rubber band stretched longest for three loaded boxes.",
     "Many people together push a heavy fishing boat down the beach. One person alone cannot."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Said that a heavy thing has more mass, which is a measure of how much it resists being moved. The harder to start, the bigger the mass."
+    },
+    {
+     "who": "Albert Einstein",
+     "explanation": "In 1915 pointed out that this resistance to being moved and the heaviness we feel from gravity are exactly equal for every thing, and treated this as a clue to how gravity works."
+    }
+   ],
    "context": "This card is about the Little Push, Big Push test and the Pull-Along Train, where heavy things needed bigger pushes and pulls.",
-   "art": "A child pulling a train of three cardboard boxes on a string, with a rubber band in the string stretched long.",
-   "one_view": "\"A heavy thing needs a bigger push or pull\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A child pulling a train of three cardboard boxes on a string, with a rubber band in the string stretched long."
   }
  ],
  "agreed": [

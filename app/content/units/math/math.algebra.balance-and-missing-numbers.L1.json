@@ -109,7 +109,16 @@
     "4 coins on each side: the balance is level.",
     "A vegetable seller checks that her empty balance hangs level before she weighs anything."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Traders in the Indus Valley and other early cities",
+     "explanation": "They weighed goods by putting them in one pan and standard stone weights in the other. The balance never told them a number. It only told them which side was heavier."
+    },
+    {
+     "who": "A physicist",
+     "explanation": "A balance compares how much matter two things hold, which is called mass. Gravity pulls both pans the same, so the balance still works on the Moon. A spring scale would read much less there."
+    }
+   ],
    "art": "Two balances side by side: one tipping left with 5 coins against 3, one level with 5 coins against 5.",
    "chart": {
     "type": "dots",
@@ -124,8 +133,7 @@
      }
     ],
     "title": "Which pan goes down?"
-   },
-   "one_view": "\"A balance compares two sides\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "The sign = means 'is the same as'",
@@ -175,7 +183,16 @@
     "2 + 3 = 3 + 2. Swapping the two piles does not change how many there are.",
     "7 + 0 = 7. Adding zero leaves the balance as it was."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A child with coins",
+     "explanation": "Splitting 6 coins as 5 and 1, or 4 and 2, shows that one amount can be made in many ways. Nothing is added or lost."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "The = sign means 'is the same amount as'. It does not mean 'now write the answer'. Many children first read it as 'the answer comes next', and that makes later algebra harder."
+    }
+   ],
    "art": "Six coins shown four ways in a column: 6 in one group, then 5 and 1, then 4 and 2, then 3 and 3.",
    "chart": {
     "type": "table",
@@ -207,8 +224,7 @@
      ]
     ],
     "title": "All of these are level"
-   },
-   "one_view": "\"Many sums can make the same number\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "True and false number sentences",
@@ -221,7 +237,16 @@
     "4 = 4 is true. It has no sum in it at all, and it is still a good number sentence.",
     "1 + 4 = 6 is false. The left side is 5 and the right side is 6."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A mathematician",
+     "explanation": "A number sentence is a statement, and a statement can be true or false. 2 + 2 = 5 is a perfectly good sentence. It is just false."
+    },
+    {
+     "who": "A computer programmer",
+     "explanation": "In many programming languages one = puts a value into a box, and two together (==) ask 'are these the same?'. The same sign can be an order or a question, depending on the language."
+    }
+   ],
    "art": "A tilted balance with 2 and 2 coins in the high left pan and 5 coins in the low right pan, with '2 + 2 = 5' crossed out above it.",
    "chart": {
     "type": "dots",
@@ -236,8 +261,7 @@
      }
     ],
     "title": "Is 2 + 2 = 5 true?"
-   },
-   "one_view": "\"True and false number sentences\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "How to make a tilted balance level",
@@ -250,7 +274,16 @@
     "6 and 4: take 2 from the heavy side, and it is 4 and 4.",
     "6 and 4: move 1 across, and it is 5 and 5."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A child with coins",
+     "explanation": "You can add coins to the light pan, or take coins from the heavy pan, until both sides match."
+    },
+    {
+     "who": "Al-Khwarizmi's tradition",
+     "explanation": "The Baghdad mathematician al-Khwarizmi wrote a book on al-jabr, 'restoring', and al-muqabala, 'balancing'. His idea was to fix an uneven equation by putting back what is missing, or removing what is extra, on both sides."
+    }
+   ],
    "art": "A balance tipping left with 5 coins against 3, and a hand about to drop 2 more coins into the right pan.",
    "chart": {
     "type": "dots",
@@ -266,8 +299,7 @@
      }
     ],
     "title": "Add 2 to the light side"
-   },
-   "one_view": "\"How to make a tilted balance level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Do the same to both sides, and it stays level",
@@ -280,7 +312,16 @@
     "Level at 6 and 6. Two fewer on each side: 4 and 4, still level.",
     "Level at 4 and 4. One more on the left only: 5 and 4, and the left pan goes down."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Al-Khwarizmi and Brahmagupta",
+     "explanation": "Al-Khwarizmi (about 820 CE) and the Indian mathematician Brahmagupta (628 CE) both solved equations by keeping both sides equal while changing them. Doing the same to both sides is the heart of their methods."
+    },
+    {
+     "who": "Modern algebra teachers",
+     "explanation": "The balance picture works well for whole numbers. It gets awkward with negative numbers, because a pan cannot hold less than nothing. So algebra keeps the rule 'do the same to both sides' and lets go of the pans."
+    }
+   ],
    "art": "A level balance with 4 coins in each pan and two hands, one over each pan, each dropping in one more coin at the same moment.",
    "chart": {
     "type": "dots",
@@ -297,8 +338,7 @@
      }
     ],
     "title": "One more on each side"
-   },
-   "one_view": "\"Do the same to both sides, and it stays level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   }
   },
   {
    "concept": "Equal in what way?",
@@ -359,9 +399,17 @@
     "The same bee sees stripes that go up and down at the door. She chooses the arm with stripes that go up and down, though she was trained only with colours.",
     "On the new patterns the bees chose the matching arm far more often than luck alone would give. They were not right every time."
    ],
-   "perspectives": [],
-   "art": "A honeybee flying into a Y-shaped tunnel with a blue patch at the entrance, a blue patch on one arm and a yellow patch on the other.",
-   "one_view": "\"Honeybees can learn 'the same'\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Martin Giurfa and colleagues",
+     "explanation": "In 2001 they reported that bees learned a rule, 'choose the same as before', and used it with colours and patterns they had never seen. They took this as a sign that bees can grasp 'same' as an idea."
+    },
+    {
+     "who": "Cautious animal-learning researchers",
+     "explanation": "Some scientists ask whether simpler kinds of learning could explain the result. They want more tests before saying how bees think. Both groups agree that bees do far more than react by habit."
+    }
+   ],
+   "art": "A honeybee flying into a Y-shaped tunnel with a blue patch at the entrance, a blue patch on one arm and a yellow patch on the other."
   },
   {
    "concept": "Equal days and equal nights",

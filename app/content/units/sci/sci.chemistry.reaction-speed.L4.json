@@ -125,8 +125,16 @@
     "Dry baking soda and dry lime powder can sit together in a jar. Add a few drops of water and they fizz."
    ],
    "art": "Dry grains of two colours sitting still, then dissolved in water with dots of both colours moving and meeting, and a bubble forming.",
-   "perspectives": [],
-   "one_view": "\"A reaction is a meeting of particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Max Trautz and William Lewis",
+     "explanation": "In 1916 and 1918 they proposed collision theory: particles must bump into each other to react, and only hard enough bumps count."
+    },
+    {
+     "who": "Henry Eyring",
+     "explanation": "In 1935 he added that particles in a bump form a brief, unstable joined state before turning into the new substances. This transition-state theory explains details that simple collisions cannot."
+    }
+   ]
   },
   {
    "concept": "Reaction rate: how fast a change goes",
@@ -140,7 +148,7 @@
    ],
    "art": "A long line from 'a cracker bang' on the left to 'diamond becoming graphite' on the right, with a kitchen fizz and a rusting gate placed along it.",
    "perspectives": [],
-   "one_view": "\"Reaction rate: how fast a change goes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "one_view": "I asked about scale, scientists, traditions, other beings and history and found no second view. Rate is a measuring rule, an amount of change divided by time, and every chemist uses it in exactly the same way."
   },
   {
    "concept": "A reaction starts fast and then slows down",
@@ -153,8 +161,16 @@
     "Lemon juice poured on baking soda foams hard in the first moments, then the foam dies down as the powder is used up."
    ],
    "art": "A graph with seconds along the bottom and amount of gas up the side, with a curve that rises steeply and then flattens, and three glasses drawn under the start, the middle and the end.",
-   "perspectives": [],
-   "one_view": "\"A reaction starts fast and then slows down\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Cato Guldberg and Peter Waage",
+     "explanation": "In 1864 they showed that a reaction goes at a rate that depends on how much of each substance is left, so as the reactants run out, it slows."
+    },
+    {
+     "who": "Boris Belousov",
+     "explanation": "In the 1950s this Soviet chemist found a mixture whose colour kept swinging between yellow and clear, so its rate rose and fell. His work was doubted for years. Not every reaction just slows down."
+    }
+   ]
   },
   {
    "concept": "Warmth speeds up almost every reaction",
@@ -167,8 +183,16 @@
     "Sugar dissolves faster in hot tea than in cold water."
    ],
    "art": "Two glasses of water with the same dots, short arrows on the dots in the cold glass and long arrows on the dots in the warm glass, with more bumps marked in the warm one.",
-   "perspectives": [],
-   "one_view": "\"Warmth speeds up almost every reaction\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Svante Arrhenius",
+     "explanation": "In 1889 he showed that a small rise in temperature greatly raises a reaction's rate, because more particles have enough energy to react."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Note that this fails for living things when heat goes too far. An enzyme, the helper protein in a cell, loses its shape in high heat and stops working. Past a point warmth slows a living reaction."
+    }
+   ]
   },
   {
    "concept": "Stirring and moving: bringing fresh particles together",
@@ -181,8 +205,16 @@
     "A washing machine keeps tossing clothes so that fresh detergent water reaches the dirt."
    ],
    "art": "A spoon swirling in one glass with arrows bringing in fresh water to a lump, and another still glass with a ring of used-up water sitting around the lump.",
-   "perspectives": [],
-   "one_view": "\"Stirring and moving: bringing fresh particles together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Chemists in a lab",
+     "explanation": "Explain that stirring brings fresh particles to meet, as above."
+    },
+    {
+     "who": "Chemical engineers",
+     "explanation": "Find that in big factory tanks, how fast things mix is often the limit, more than the chemistry. They design the stirring and pumps as carefully as the recipe."
+    }
+   ]
   },
   {
    "concept": "Smaller pieces mean more surface and faster reactions",
@@ -195,8 +227,16 @@
     "Flour mills and grain stores have a risk of dust explosions, because fine dust burns almost instantly in the air."
    ],
    "art": "One large cube with its faces coloured, and next to it the same cube cut into eight small cubes with every new face coloured too, showing the doubled surface.",
-   "perspectives": [],
-   "one_view": "\"Smaller pieces mean more surface and faster reactions\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Explain that a powder has more surface touching the other substance, so more particles can react at once."
+    },
+    {
+     "who": "Flour millers and miners",
+     "explanation": "Know that fine dust, such as flour or coal dust, can catch fire and explode, because every tiny grain burns at once. Many accidents have taught this."
+    }
+   ]
   },
   {
    "concept": "Crowding: more particles in the same space",
@@ -209,8 +249,16 @@
     "Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits billions of years for its turn. This is a different kind of change, but speed still depends on how often particles meet."
    ],
    "art": "Two identical boxes, one with a few dots spread far apart and one with many dots packed close, with more bump stars marked in the packed box.",
-   "perspectives": [],
-   "one_view": "\"Crowding: more particles in the same space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Say more particles in the same space meet more often, so the reaction is faster."
+    },
+    {
+     "who": "Cell biologists",
+     "explanation": "Point out that the inside of a cell is very crowded with proteins. This crowding changes how fast reactions inside cells go, and so a test tube is a poor copy of a cell."
+    }
+   ]
   },
   {
    "concept": "A catalyst makes one reaction faster and is not used up",
@@ -223,8 +271,16 @@
     "In factories, iron helps nitrogen from the air join with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way."
    ],
    "art": "A mountain with a high path labelled 'no catalyst' and a low tunnel labelled 'with catalyst', and the same walker figures coming out of both ends.",
-   "perspectives": [],
-   "one_view": "\"A catalyst makes one reaction faster and is not used up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Jons Jacob Berzelius",
+     "explanation": "In 1835 he used the word catalysis for a hidden power that helps reactions along without being used up. He did not know how it worked."
+    },
+    {
+     "who": "Wilhelm Ostwald",
+     "explanation": "Defined a catalyst in 1894 as something that speeds a reaction without being used up, and received the Nobel Prize in 1909. Today we say it gives the reaction an easier path."
+    }
+   ]
   },
   {
    "concept": "Enzymes: living catalysts that work at body warmth",
@@ -259,8 +315,16 @@
     "Hydrogen peroxide is sold in brown bottles, because light speeds up its breakdown."
    ],
    "art": "Four small pictures: a fridge, a sealed jar, a painted gate and a pickle jar, each with a slow-down arrow.",
-   "perspectives": [],
-   "one_view": "\"Slowing a change down on purpose\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Indian pickle makers",
+     "explanation": "Used salt, oil and spices to keep fruits and vegetables for months. They slowed rot long before anyone knew about microbes."
+    },
+    {
+     "who": "Chemists and food scientists",
+     "explanation": "Add substances called inhibitors, such as antioxidants, that block the particles that cause spoiling. It is the same goal reached with different tools."
+    }
+   ]
   },
   {
    "concept": "Some changes are so slow that we never see them",
@@ -273,8 +337,16 @@
     "Old paper turns yellow over decades."
    ],
    "art": "A diamond ring on the left and a pencil lead on the right, with a very long thin arrow between them marked 'longer than a lifetime'.",
-   "perspectives": [],
-   "one_view": "\"Some changes are so slow that we never see them\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday observers",
+     "explanation": "Notice no change in a stone or a glass window, and think nothing is happening."
+    },
+    {
+     "who": "Geologists",
+     "explanation": "Find that rocks are slowly changing all the time, as rain and air dissolve and rust them over thousands of years. Slow is not the same as still."
+    }
+   ]
   },
   {
    "concept": "Not every bump makes a reaction",

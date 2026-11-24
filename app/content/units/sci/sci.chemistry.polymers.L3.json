@@ -135,9 +135,17 @@
     "Lift a forkful of rice and the grains fall off. Lift a forkful of noodles, or idiyappam, and a whole clump hangs down.",
     "Honey flows slowly too, but it breaks into drops. Glue makes long threads because its molecules are long chains."
    ],
-   "perspectives": [],
-   "art": "Two bowls: a fork lifting a hanging clump of noodles from one, and a spoon of loose rice grains from the other.",
-   "one_view": "\"Why long chains tangle\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Early chemists",
+     "explanation": "Many thought rubber and similar stuff were clumps of small molecules held by loose forces. They doubted that molecules could be so long."
+    },
+    {
+     "who": "Hermann Staudinger",
+     "explanation": "In the 1920s he argued that they are truly giant molecules with strong bonds along the whole chain. He was doubted at first and won the Nobel Prize in 1953."
+    }
+   ],
+   "art": "Two bowls: a fork lifting a hanging clump of noodles from one, and a spoon of loose rice grains from the other."
   },
   {
    "concept": "How borax turns glue into slime",
@@ -149,9 +157,17 @@
     "In the borax test, the cup with the most borax water gave the firmest slime, which spread least on the plate.",
     "Slime pulled slowly made a long thread. Pulled with a quick tug, it snapped with a clean edge."
    ],
-   "perspectives": [],
-   "art": "Three zoom-in circles: loose tangled chains, chains with a few dots tying them, and chains with many dots tying them into a tight net.",
-   "one_view": "\"How borax turns glue into slime\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Borax slime chemists",
+     "explanation": "Say the borate links are weak and come apart again. That is why slime flows slowly yet stretches and snaps."
+    },
+    {
+     "who": "Charles Goodyear",
+     "explanation": "In 1839 he found that heating rubber with sulphur makes strong, lasting links between chains. His rubber does not flow, unlike slime."
+    }
+   ],
+   "art": "Three zoom-in circles: loose tangled chains, chains with a few dots tying them, and chains with many dots tying them into a tight net."
   },
   {
    "concept": "Polymers that living beings make",
@@ -164,9 +180,17 @@
     "A sheep's wool and your hair are keratin, a protein.",
     "A spider's web is silk, a protein. Weight for weight, spider silk is stronger than steel wire."
    ],
-   "perspectives": [],
-   "art": "A silkworm spinning a white cocoon on a mulberry leaf, beside a rubber tree trunk with white latex running down a cut.",
-   "one_view": "\"Polymers that living beings make\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Silk-makers and lac farmers",
+     "explanation": "In India, people have for centuries used the silk of silkworms and the lac made by lac insects, for cloth and bangles. Living beings made these polymers long before chemistry named them."
+    },
+    {
+     "who": "Biochemists",
+     "explanation": "Find that proteins, cellulose, starch and DNA are all polymers. Life is built from chains, and the order of links carries the information."
+    }
+   ],
+   "art": "A silkworm spinning a white cocoon on a mulberry leaf, beside a rubber tree trunk with white latex running down a cut."
   },
   {
    "concept": "Plastics: polymers people make",
@@ -178,9 +202,17 @@
     "Look for a small triangle with a number from 1 to 7 on plastic things. The number says which plastic it is.",
     "Nylon was the first fibre made entirely in a factory. It was made in 1935. It is used for toothbrush bristles and ropes."
    ],
-   "perspectives": [],
-   "art": "A milk packet, a water bottle and a bucket, each with a small triangle and a number on it, and a zoom-in showing long chains.",
-   "one_view": "\"Plastics: polymers people make\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Leo Baekeland",
+     "explanation": "Made Bakelite in 1907, the first fully man-made plastic. It was hailed as the material of a thousand uses."
+    },
+    {
+     "who": "Environmental scientists",
+     "explanation": "Today find plastic waste in oceans and even tiny bits of plastic inside living beings. The same long chains that make plastic strong make it slow to break down."
+    }
+   ],
+   "art": "A milk packet, a water bottle and a bucket, each with a small triangle and a number on it, and a zoom-in showing long chains."
   },
   {
    "concept": "Tying rubber's chains: vulcanised rubber",

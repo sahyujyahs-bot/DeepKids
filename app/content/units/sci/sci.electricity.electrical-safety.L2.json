@@ -94,9 +94,17 @@
     "The iron, the geyser and the washing machine run on mains electricity. Only a grown-up plugs them in.",
     "Never put a small round button cell in your mouth or nose. If one is swallowed, it can burn the inside of the body. Tell a grown-up at once."
    ],
-   "perspectives": [],
-   "art": "One torch cell on one side, and a row of many torch cells stretching across the page on the other side, next to a wall socket.",
-   "one_view": "\"Why the wall is dangerous and a cell is not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "The big number of volts makes the wall dangerous."
+    },
+    {
+     "who": "Doctors and safety scientists",
+     "explanation": "Say that it is the current, the amount of electricity through the body, that does the harm, and the path it takes. A small current through the heart can be deadly, and wet skin lets more through."
+    }
+   ],
+   "art": "One torch cell on one side, and a row of many torch cells stretching across the page on the other side, next to a wall socket."
   },
   {
    "concept": "Electricity travels through some things and not others",
@@ -155,9 +163,17 @@
     "Never pull down a kite caught on a wire.",
     "Never touch a fallen wire in the street, even if it looks dead."
    ],
-   "perspectives": [],
-   "art": "A crow sitting on one wire with both feet, and a kite stuck on a wire with a string hanging down to a child, crossed out in red.",
-   "one_view": "\"Why a bird can sit on a wire\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "A bird on a single wire has both feet at the same voltage, so no electricity needs to flow through its body."
+    },
+    {
+     "who": "Power company engineers",
+     "explanation": "Find that big birds such as eagles are killed when their wings touch two wires or a wire and a pole. The difference in voltage across the body is what counts."
+    }
+   ],
+   "art": "A crow sitting on one wire with both feet, and a kite stuck on a wire with a string hanging down to a child, crossed out in red."
   },
   {
    "concept": "What a shock does to a body",
@@ -170,9 +186,17 @@
     "The grown-up switches off at the switch board or the main switch, then calls for a doctor.",
     "A doctor can check the heartbeat with a machine called an ECG, which reads the heart's own tiny electric signals."
    ],
-   "perspectives": [],
-   "art": "A simple drawing of a child's body with a thin glowing line from the brain down the arm to the hand, showing a nerve message.",
-   "one_view": "\"What a shock does to a body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Luigi Galvani and Alessandro Volta",
+     "explanation": "In the 1780s Galvani saw a frog's leg twitch from electricity and thought animals made their own electricity. Volta argued that two metals produced it. Both were partly right."
+    },
+    {
+     "who": "Heart doctors",
+     "explanation": "Use a shock on purpose. A defibrillator sends a strong electric pulse to stop a heart beating wildly, so that it can start again in step."
+    }
+   ],
+   "art": "A simple drawing of a child's body with a thin glowing line from the brain down the arm to the hand, showing a nerve message."
   }
  ],
  "agreed": [

@@ -107,9 +107,17 @@
     "A drop of soap water on haldi paper makes a red spot.",
     "A drop of lemon juice on the red spot turns it yellow again."
    ],
-   "perspectives": [],
-   "art": "Three squares of yellow haldi paper: one with a red spot labelled 'soap', one still yellow labelled 'lemon', and one where a red spot is turning back to yellow.",
-   "one_view": "\"Why soap turns haldi red\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Indian traditions",
+     "explanation": "Make kumkum for worship by mixing turmeric and slaked lime, which turns the yellow powder red. Cooks have long seen turmeric stain turn red with soap."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Explain that the yellow colouring in turmeric, curcumin, changes colour in alkali. This is why turmeric is an indicator, and why lemon juice, an acid, turns it back."
+    }
+   ],
+   "art": "Three squares of yellow haldi paper: one with a red spot labelled 'soap', one still yellow labelled 'lemon', and one where a red spot is turning back to yellow."
   },
   {
    "concept": "Discoveries come from everywhere",
