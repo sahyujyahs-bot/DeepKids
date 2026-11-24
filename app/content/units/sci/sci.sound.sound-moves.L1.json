@@ -3,12 +3,12 @@
  "title": "Sound travels: how a sound gets from where it is made to your ears",
  "level": 1,
  "summary": {
-  "text": "How does a sound get from a ringing tumbler to your ears, and why does thunder come after the lightning? In this unit you will walk away from a sound to see how far you can hear it, play a whisper walk, and make a paper cone to send your voice one way.",
+  "text": "How does a sound get from a ringing tumbler to your ears, and why does thunder come after the lightning? In this lesson you will walk away from a sound to see how far you can hear it, play a whisper walk, and make a paper cone to send your voice one way.",
   "art": "A grown-up rubbing her fingers beside her ear at one end of a hallway, and a child standing a few steps away with eyes closed, with small sound lines that fade out before they reach her."
  },
  "intro": {
   "hook": "Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?",
-  "text": "You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this unit you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.",
+  "text": "You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this lesson you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.",
   "art": "A girl sitting on the floor with eyes closed, pointing towards a grown-up, who is tapping a steel tumbler with a spoon across the room."
  },
  "outcomes": [
@@ -1884,8 +1884,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/sound.md, 'How sound travels' and 'Sound waves': the paper cone megaphone became the Paper Cone experiment. The human wave relay and passing a shoulder squeeze became Be the Air. Hearing through a closed door versus an open one became the cooker map and the round-the-door listening. The whisper relay became Whisper Walk. Distant thunder became Count After the Lightning. The string telephone, knocking on materials, echo timing and the vacuum jar belong to the Level 4 and Level 5 units, so this unit does not use them.",
-   "Curriculum entry sci.sound.sound-moves.L1 (Sounds move from the source to our ears), Cambridge Stage 1 unit 6.3 'Sounds move': how far loud and quiet sounds go (Activity 6.3) and the megaphone. The Level 1 unit sci.sound.sources-of-sound.L1 teaches sound sources and loud and soft, and this unit leads on from it. The Level 3 unit sci.sound.sources-of-sound.L3 uses the coin line for air passing on a sound, and the hearing unit uses ear covers and pitch tests, so this unit does not repeat them."
+   "ideas/by_topic/sound.md, 'How sound travels' and 'Sound waves': the paper cone megaphone became the Paper Cone experiment. The human wave relay and passing a shoulder squeeze became Be the Air. Hearing through a closed door versus an open one became the cooker map and the round-the-door listening. The whisper relay became Whisper Walk. Distant thunder became Count After the Lightning. The string telephone, knocking on materials, echo timing and the vacuum jar belong to the Level 4 and Level 5 units, so this lesson does not use them.",
+   "Curriculum entry sci.sound.sound-moves.L1 (Sounds move from the source to our ears), Cambridge Stage 1 unit 6.3 'Sounds move': how far loud and quiet sounds go (Activity 6.3) and the megaphone. The Level 1 unit sci.sound.sources-of-sound.L1 teaches sound sources and loud and soft, and this lesson leads on from it. The Level 3 unit sci.sound.sources-of-sound.L3 uses the coin line for air passing on a sound, and the hearing unit uses ear covers and pitch tests, so this lesson does not repeat them."
   ],
   "science": [
    "Inverse-square spreading: sound intensity from a small source in open air falls with the square of distance (about 6 decibels per doubling of distance). Indoors, reflections from walls make the fall-off slower.",

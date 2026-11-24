@@ -3,12 +3,12 @@
  "title": "Choosing materials: no material is best, so how do we choose?",
  "level": 4,
  "summary": {
-  "text": "Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this unit you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.",
+  "text": "Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this lesson you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.",
   "art": "A kitchen table with four dried bars of paper and paste laid across two piles of books, a hanging cup of water on one bar, and a jar of soil with scraps in it beside a notebook with a scoring table."
  },
  "intro": {
   "hook": "A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?",
-  "text": "There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this unit you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.",
+  "text": "There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this lesson you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.",
   "art": "Four cups on a kitchen table in a row, steel, paper, clay and plastic, each with a small tag that says what it is good at and what it is bad at."
  },
  "outcomes": [
@@ -3701,7 +3701,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.",
+  "context": "In this lesson you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.",
   "deep_truth": {
    "truth": "A strip of paper bends easily. A bar of dried paste snaps. Glue four layers of paper together with that paste, and the bar holds many times more than either one alone. The strength comes from how the parts are joined.",
    "habit": "We name what a thing is made of, 'it is paper' or 'it is paste', and think that tells us what it can do. But this leaves out how the parts are put together. The same ingredients, put together in two ways, can give two very different things.",
@@ -3712,7 +3712,7 @@
    "what_is_life": "Where two fig roots touch, they can join and grow into one thicker root. A living root bridge is mended by the same roots that make it, and not by anything brought in from outside.",
    "what_is_this_world": "Mud with straw, steel in concrete, copper with tin: the world's most useful things are mixtures. What each mixture can do depends on how the parts are put together, as well as on the parts."
   },
-  "thread": "Every question in this unit came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.",
+  "thread": "Every question in this lesson came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6, an Indian text more than 2,500 years old",
@@ -3769,9 +3769,9 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this unit goes beyond.",
-   "DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this unit builds on. No experiment or story is repeated.",
-   "Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this unit."
+   "Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this lesson goes beyond.",
+   "DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this lesson builds on. No experiment or story is repeated.",
+   "Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this lesson."
   ],
   "science": [
    "Per-Ingvar Brånemark, work on osseointegration of titanium in bone, from the 1950s, and the clinical use of titanium implants from the 1960s",

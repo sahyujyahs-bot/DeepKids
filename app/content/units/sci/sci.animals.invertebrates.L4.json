@@ -3,12 +3,12 @@
  "title": "Animals without backbones: how they breathe with no lungs",
  "level": 4,
  "summary": {
-  "text": "A worm has no lungs, and a prawn has no lungs either. So how do they breathe? In this unit you will watch colour creep into jelly, test whether more outside dissolves sugar faster, and walk like an oxygen particle on its way to the middle of a body.",
+  "text": "A worm has no lungs, and a prawn has no lungs either. So how do they breathe? In this lesson you will watch colour creep into jelly, test whether more outside dissolves sugar faster, and walk like an oxygen particle on its way to the middle of a body.",
   "art": "A cutaway of an ant, an earthworm and a crab side by side, with thin lines showing air reaching each body in a different way."
  },
  "intro": {
   "hook": "Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has no lungs and no nose. All three breathe all day long. How?",
-  "text": "Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this unit you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.",
+  "text": "Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this lesson you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.",
   "art": "A child with a magnifying glass looking at an ant on a table, with a thought bubble that shows a tiny lung with a question mark."
  },
  "outcomes": [
@@ -336,7 +336,7 @@
   {
    "q": "In Colour Cubes, the colour crept only a few millimetres into a big jelly cube. What would a worm as thick as a tree trunk have to do to stay alive?",
    "kind": "deep",
-   "hint": "Think about tubes, folds and pumps, and which ones the animals in this unit already use."
+   "hint": "Think about tubes, folds and pumps, and which ones the animals in this lesson already use."
   },
   {
    "q": "Your blood carries oxygen to your cells. An ant's blood does not. How can an ant be so fast and strong?",
@@ -3396,7 +3396,7 @@
    "Founder's notebook item bio:177, 'Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)', used as the outline for which groups to visit",
    "ideas/by_topic/evolution-the-tree-of-life.md and how-life-began.md: the founder's ideas on the first animals and the rise of oxygen, used in the oxygen explanation and the open questions",
    "Combined lesson app/content/combined/sci-C3-kinds-of-living-things-and-sorting-them.json: the minibeast key and the yes or no question game, which led to the Air Route card game",
-   "The Class 3 unit sci.animals.invertebrates.L3, which this unit builds on: it covered how soft bodies hold their shape, and this unit asks how they get air",
+   "The Class 3 unit sci.animals.invertebrates.L3, which this lesson builds on: it covered how soft bodies hold their shape, and this lesson asks how they get air",
    "PHILOSOPHY.md: the stance that animals feel, remember and decide, used in the roots card and the story"
   ],
   "science": [
@@ -3421,7 +3421,7 @@
   "when": "1669",
   "wrong_idea": "Aristotle thought breathing cools the heart, and that insects were 'bloodless' animals. Malpighi's microscope showed that insects have air tubes reaching every part, and later work showed that every cell uses oxygen."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Cubes is the key test, so it was worked out carefully. Agar jelly set with 2 teaspoons of powder in 500 millilitres of water holds a cut cube, and food colour moves in about 2 to 3 millimetres in 40 minutes and about 1 to 2 millimetres in 10 minutes. The exact numbers will vary, and the steps say to write what you see. If the colour is too pale, add more food colour. If a cube is coloured right through, cut the next one earlier. Wobbly Walk was run many times on a computer: with a coin, the average number of flips is about 6 for a 2-square body, 20 for 4 squares and 72 for 8 squares, and about 14 flips for 8 squares with the pump. Sugar cube dissolving times depend on the water temperature, so the steps use the same glass and water for every test. Facts to check before this unit goes live: that air holds about 30 times more oxygen than the same amount of water, that the coconut crab lives on the Andaman and Nicobar Islands, that Meganeura wings were about 65 to 70 centimetres across, that Krogh's 1919 paper made the diffusion point, that the 2003 X-ray study of beetles is correctly described, and that the Marine Biodiversity Museum in Kochi is open to visitors. Colour Cubes takes about 90 minutes from start to finish, because the jelly must set and the colour needs 40 minutes, but only about 50 minutes are hands-on, and the waiting time suits Ring or Core. Cut the jelly with one clean press, not a sawing movement, and wipe the knife between cuts, or the knife drags colour across the clear middle. The videos have no address yet.",
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Cubes is the key test, so it was worked out carefully. Agar jelly set with 2 teaspoons of powder in 500 millilitres of water holds a cut cube, and food colour moves in about 2 to 3 millimetres in 40 minutes and about 1 to 2 millimetres in 10 minutes. The exact numbers will vary, and the steps say to write what you see. If the colour is too pale, add more food colour. If a cube is coloured right through, cut the next one earlier. Wobbly Walk was run many times on a computer: with a coin, the average number of flips is about 6 for a 2-square body, 20 for 4 squares and 72 for 8 squares, and about 14 flips for 8 squares with the pump. Sugar cube dissolving times depend on the water temperature, so the steps use the same glass and water for every test. Facts to check before this lesson goes live: that air holds about 30 times more oxygen than the same amount of water, that the coconut crab lives on the Andaman and Nicobar Islands, that Meganeura wings were about 65 to 70 centimetres across, that Krogh's 1919 paper made the diffusion point, that the 2003 X-ray study of beetles is correctly described, and that the Marine Biodiversity Museum in Kochi is open to visitors. Colour Cubes takes about 90 minutes from start to finish, because the jelly must set and the colour needs 40 minutes, but only about 50 minutes are hands-on, and the waiting time suits Ring or Core. Cut the jelly with one clean press, not a sawing movement, and wipe the knife between cuts, or the knife drags colour across the clear middle. The videos have no address yet.",
  "warm": {
   "words": [
    "GILLS",

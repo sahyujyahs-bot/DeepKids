@@ -3,12 +3,12 @@
   "title": "Science in the kitchen: why food browns, bread rises and onions make us cry",
   "level": 4,
   "summary": {
-    "text": "Why does a chopped onion make your eyes sting when a whole one does not? In this unit you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.",
+    "text": "Why does a chopped onion make your eyes sting when a whole one does not? In this lesson you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.",
     "art": "A girl of nine at a kitchen counter holding a whole onion close to her eyes, while beside her a woman chops an onion on a board and wipes her eye with the back of her hand."
   },
   "intro": {
     "hook": "A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?",
-    "text": "The gas was not in the onion. The onion made the gas after the knife went in. In this unit you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.",
+    "text": "The gas was not in the onion. The onion made the gas after the knife went in. In this lesson you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.",
     "art": "A woman walking home from a market in Madurai with a cloth bag full of onions, smiling, with dry eyes."
   },
   "outcomes": [
@@ -113,7 +113,7 @@
       "concept": "A cell keeps its chemicals in separate parts",
       "status": "defined",
       "definition": "A cell is the tiny living unit that plants and animals are built from. Inside a plant cell, different chemicals are stored in separate parts.",
-      "description": "An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this unit. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.",
+      "description": "An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this lesson. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.",
       "examples": [
         "A whole apple stays white inside for weeks. A cut apple browns within the hour.",
         "A whole clove of garlic has little smell. A crushed clove smells strong at once.",
@@ -2637,7 +2637,7 @@
       "title": "Why the Maillard Reaction Makes Everything Delicious",
       "channel": "Reactions",
       "mins": 3,
-      "why": "The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this unit.",
+      "why": "The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this lesson.",
       "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
     },
     {
@@ -2645,7 +2645,7 @@
       "title": "Green Tea vs. Black Tea: Same Plant, Different Drink",
       "channel": "History of Simple Things",
       "mins": 3,
-      "why": "The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this unit.",
+      "why": "The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this lesson.",
       "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
     }
   ],
@@ -2843,7 +2843,7 @@
       "title": "Tea processing (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Tea_processing",
       "kind": "interactive",
-      "why": "For the parent: how one leaf becomes green, oolong or black tea, as in the unit's story."
+      "why": "For the parent: how one leaf becomes green, oolong or black tea, as in the lesson's story."
     },
     {
       "title": "Leavening agent (Wikipedia)",
@@ -3107,7 +3107,7 @@
     "art": "A scientist in a white coat in a laboratory holding up two small glass tubes of onion juice, with a halved onion on the bench in front of him."
   },
   "roots": {
-    "context": "In this unit you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.",
+    "context": "In this lesson you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.",
     "deep_truth": {
       "truth": "In the Onion Sting, a whole onion near your eyes did nothing, and a chopped onion stung. A whole onion holds no tear gas. Each cell stores two chemicals in separate parts, and a knife makes them meet. So the sting is made after the cut, by the onion's own cells.",
       "habit": "We speak as if the sting, the smell and the colour of a food are stored inside it. Some of them do not exist until the cells are broken. What the plant holds is the means to make them.",

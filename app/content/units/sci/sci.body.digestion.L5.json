@@ -3,12 +3,12 @@
  "title": "The digestive system: what teeth, enzymes and gut microbes each do to your food",
  "level": 5,
  "summary": {
-  "text": "A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this unit you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.",
+  "text": "A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this lesson you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.",
   "art": "A girl kneeling beside a big steel plate propped on two books, watching four blobs of white paste, one of which has run far down the plate, while her mother holds a ruler."
  },
  "intro": {
   "hook": "A cow lives on grass. If you ate only grass, you would starve. You and the cow both have teeth, a stomach and intestines. So what does the cow have that you do not have?",
-  "text": "Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this unit you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.",
+  "text": "Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this lesson you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.",
   "art": "A girl and a cow looking at each other over a low wall, the cow chewing grass and the girl holding a plate of rice and dal."
  },
  "outcomes": [
@@ -1576,7 +1576,7 @@
        ]
       }
      ],
-     "parent": "Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the unit shows.",
+     "parent": "Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the lesson shows.",
      "think": "A cube of 2 centimetres is cut into eight cubes of 1 centimetre. Has the amount of food changed? Has the amount of outside changed?",
      "context": "This is the last step of Whole or Crushed. You compare the three times and say why chewing helps digestion."
     }
@@ -3408,7 +3408,7 @@
   "art": "A laboratory bench in 1897 with a heavy press, a bowl of pale yeast, a glass flask of bubbling juice and a man in a dark coat writing in a notebook."
  },
  "roots": {
-  "context": "In this unit you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.",
+  "context": "In this lesson you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.",
   "deep_truth": {
    "truth": "In Starch or Fibre, saliva made the starch paste runny and left the fibre gel thick. Both are chains of sugar units, and an enzyme cuts only the joins it fits. We have no enzyme for the joins in fibre, but gut microbes have. So whether a plant counts as food depends on the enzymes the eater has or can borrow from microbes.",
    "habit": "We talk about food as if being food were a property of the thing itself, like its colour. But grass is food for a cow and her microbes together, and it is not food for a person alone. Whether something is food depends on whether the eater has the right enzymes for it.",

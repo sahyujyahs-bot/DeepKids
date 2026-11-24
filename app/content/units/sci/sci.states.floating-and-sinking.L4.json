@@ -3,12 +3,12 @@
  "title": "Floating and sinking: why a steel ship floats and a pebble sinks",
  "level": 4,
  "summary": {
-  "text": "A steel ship floats, but a small pebble sinks. A ball of foil sinks, but the same foil folded into a boat floats. Why? In this unit you will build foil boats that carry coins, sort ten kitchen things, and find when a potato floats in salty water.",
+  "text": "A steel ship floats, but a small pebble sinks. A ball of foil sinks, but the same foil folded into a boat floats. Why? In this lesson you will build foil boats that carry coins, sort ten kitchen things, and find when a potato floats in salty water.",
   "art": "A bucket of water on a kitchen floor with a foil ball sunk at the bottom and a small foil boat on the surface carrying a few coins."
  },
  "intro": {
   "hook": "Drop a ball of kitchen foil into a bucket of water. It sinks. Now fold the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?",
-  "text": "Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this unit you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.",
+  "text": "Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this lesson you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.",
   "art": "Two photographs side by side: a crumpled foil ball sunk in a bucket of water, and an open foil boat floating on the same water."
  },
  "outcomes": [
@@ -392,7 +392,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you tested foil boats, a potato in salty water and a bottle diver, and learned what makes things float. This part asks what floating shows about things, and about us.",
+  "context": "In this lesson you tested foil boats, a potato in salty water and a bottle diver, and learned what makes things float. This part asks what floating shows about things, and about us.",
   "deep_truth": {
    "truth": "In the Potato and the Salt test, the same potato sank in tap water and floated in salty water. The potato had not changed at all. The liquid had. So floating describes the potato and the liquid together.",
    "habit": "We say 'this floats' and 'that sinks' as if floating belonged to the thing alone, like its colour. That leaves out the liquid.",
@@ -2739,7 +2739,7 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/forces-and-movement.md: floating objects in water to test buoyancy, and watching boats to see buoyancy in action, used in the foil boat test and the spotted items",
-   "The Class 2 unit on floating and sinking, which this unit builds on: the idea that what a thing is made of decides, now extended to density, shape and the liquid",
+   "The Class 2 unit on floating and sinking, which this lesson builds on: the idea that what a thing is made of decides, now extended to density, shape and the liquid",
    "NCERT Class 4, Chapter 7, 'How Things Work', and Cambridge Stage 4 materials on floating and sinking, for coverage only. Their text is not copied"
   ],
   "science": [

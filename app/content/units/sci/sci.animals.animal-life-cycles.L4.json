@@ -3,12 +3,12 @@
  "title": "Animal life cycles compared: how many young, how much care, how long a life",
  "level": 4,
  "summary": {
-  "text": "Do big animals really live longer than small ones, and do all animals begin life the same way? In this unit you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.",
+  "text": "Do big animals really live longer than small ones, and do all animals begin life the same way? In this lesson you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.",
   "art": "A long string laid across a floor with a tiny cut piece for a mouse at one end, a longer piece for an elephant, and the longest for a tortoise, each with a small animal card at the end."
  },
  "intro": {
   "hook": "A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?",
-  "text": "Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.",
+  "text": "Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this lesson you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.",
   "art": "Three animals in a row: a mayfly on a reed, a hen on a doorstep and a giant tortoise in a garden, each with a small egg drawn in front of it."
  },
  "outcomes": [
@@ -2964,7 +2964,7 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/growing-up-and-having-young.md: the Nest Watch idea (looking at nests and discussing egg care), used in the Moult and Shell Hunt; the Lifecycle Board Game idea and the stage-matching cards, used in The Waiting Line; the Tree Rings Talk idea, used in the rings-and-age claim",
-   "The Class 3 unit on animal life cycles, which this unit builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This unit does not repeat its experiments or its story",
+   "The Class 3 unit on animal life cycles, which this lesson builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This lesson does not repeat its experiments or its story",
    "The notebook entry for animal life cycles, which asks for a comparison of mammals, birds, insects and amphibians and of how long animals live",
    "NCERT and Cambridge materials on animal life cycles, for coverage only. Their text is not copied"
   ],

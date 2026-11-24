@@ -3,12 +3,12 @@
  "title": "Heat and temperature: how a thermometer works, and why hot things cool down",
  "level": 3,
  "summary": {
-  "text": "Can your hands tell exactly how hot something is? In this unit you will try your hands in bowls of water, measure five things at home with a thermometer, and watch where a hot tumbler and a cold tumbler both end up.",
+  "text": "Can your hands tell exactly how hot something is? In this lesson you will try your hands in bowls of water, measure five things at home with a thermometer, and watch where a hot tumbler and a cold tumbler both end up.",
   "art": "Two steel tumblers side by side on a wooden table, one with a wisp of steam and one with drops of water on the outside, a red-liquid thermometer standing in each, and arrows showing heat leaving the hot one and entering the cold one."
  },
  "intro": {
   "hook": "Put one hand in a bowl of warm water and the other in a bowl of ice water for one minute. Then put both hands into one bowl of tap water. One hand says the water is warm. The other hand says it is cold. Which hand is right?",
-  "text": "Neither hand is right, because your skin compares the water with how warm it was a moment ago. To know how hot something really is, we need a thermometer. In this unit you learn to read one. You watch hot water and cold water change, minute by minute, and find out where they stop. You make a thermometer from a bottle and a straw. And you find out what really moves when a hot thing cools down.",
+  "text": "Neither hand is right, because your skin compares the water with how warm it was a moment ago. To know how hot something really is, we need a thermometer. In this lesson you learn to read one. You watch hot water and cold water change, minute by minute, and find out where they stop. You make a thermometer from a bottle and a straw. And you find out what really moves when a hot thing cools down.",
   "art": "Three steel bowls in a row on a kitchen counter: warm water with a little steam on the left, ice cubes on the right, and plain tap water in the middle, with a child's two hands about to go into the middle bowl."
  },
  "outcomes": [
@@ -79,7 +79,7 @@
   {
    "term": "Laboratory thermometer",
    "meaning": "A thermometer for measuring water, air and other things. It usually reads from about minus 10 to 110 degrees Celsius.",
-   "example": "We use a laboratory thermometer to measure the hot and cold tumblers in this unit.",
+   "example": "We use a laboratory thermometer to measure the hot and cold tumblers in this lesson.",
    "art": "A long glass thermometer standing in a steel tumbler of water."
   }
  ],
@@ -124,7 +124,7 @@
    ],
    "perspectives": [],
    "art": "A short white digital fever thermometer and a long glass laboratory thermometer lying side by side, with their ranges written underneath.",
-   "context": "This card explains why a fever thermometer will not work for the experiments in this unit."
+   "context": "This card explains why a fever thermometer will not work for the experiments in this lesson."
   },
   {
    "concept": "Heat moves from warmer to cooler",
@@ -2064,7 +2064,7 @@
        "says": "It is the same thing. Saying cold goes in or heat goes out are two ways of saying it."
       }
      ],
-     "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
+     "ask": "Which idea do you agree with most? Use something from this lesson as evidence. Then say what another friend has right.",
      "lines": 6,
      "a": "A strong answer usually agrees with the second child: a thermometer shows the hand cooling and the tumbler warming, and Prévost showed that only heat moves. It admits the third child has a point, since both words describe the same change, but explains that scientists measure the heat, and cold is just less of it.",
      "why": "There is a real argument here. The third child's view is not silly, and scientists in the 1790s argued about it. A strong answer gives evidence and is fair to another side."
@@ -2143,7 +2143,7 @@
      "p": "In 1790, a thermometer fell when a flask of snow stood in front of a mirror across the room. Why was it sensible to think the snow was sending out cold?",
      "lines": 4,
      "a": "The thermometer really did get colder when the snow was there, and it looked as if something travelled from the snow to the thermometer. Pierre Prévost showed that the same result fits another idea: the thermometer was sending out more heat than it got back.",
-     "why": "A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this unit."
+     "why": "A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this lesson."
     },
     {
      "t": "mcq",
@@ -2565,7 +2565,7 @@
     "c1",
     "c2"
    ],
-   "why": "Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break."
+   "why": "Every experiment in this lesson needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break."
   }
  ],
  "warmup": [

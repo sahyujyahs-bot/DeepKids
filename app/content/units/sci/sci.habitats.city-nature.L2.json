@@ -3,12 +3,12 @@
  "title": "Nature in the city: the birds, trees and animals who share our streets",
  "level": 2,
  "summary": {
-  "text": "On a quiet holiday morning you hear birds you never notice on a busy school day. In this unit you will test whether a soft voice can be heard over traffic noise, call across a noisy game, and watch from a window to see who shares your street.",
+  "text": "On a quiet holiday morning you hear birds you never notice on a busy school day. In this lesson you will test whether a soft voice can be heard over traffic noise, call across a noisy game, and watch from a window to see who shares your street.",
   "art": "A busy city road in the morning with buses and autos, and above it a neem tree with a crow on a nest, a koel calling, a squirrel on the trunk and a street dog asleep in the shade below."
  },
  "intro": {
   "hook": "On a quiet holiday morning, you may hear birds you never hear on a busy school day. Were the birds hiding on the busy days?",
-  "text": "The birds were not hiding. The noise of buses, autos and horns covered their songs, so we did not hear them. A town or a city is a habitat, a place where living beings find what they need. Crows, pigeons, squirrels, street dogs, bees and trees all live in it with us. In this unit we meet them, and we test what noise does to a voice. Then we find out what many city birds do about the noise.",
+  "text": "The birds were not hiding. The noise of buses, autos and horns covered their songs, so we did not hear them. A town or a city is a habitat, a place where living beings find what they need. Crows, pigeons, squirrels, street dogs, bees and trees all live in it with us. In this lesson we meet them, and we test what noise does to a voice. Then we find out what many city birds do about the noise.",
   "art": "Two pictures side by side: a quiet early morning street with a girl at a window hearing birds in a tree, and the same street at nine o'clock full of traffic, with the birds still there but their songs drawn very faint."
  },
  "outcomes": [
@@ -1720,7 +1720,7 @@
  "ask_kids": [
   "Which bird did you hear first this morning? Was the road quiet or busy?",
   "Which birds have you heard near our building? Which call do you like best?",
-  "Which animal on our road did you notice for the first time in this unit?",
+  "Which animal on our road did you notice for the first time in this lesson?",
   "Who uses the tree outside our building at night?",
   "If our road had no horns for one day, who do you think we would hear?"
  ],
@@ -1921,7 +1921,7 @@
   "founder": [
    "ideas/by_topic/habitats-and-adaptation.md: the activities there are about oceans, weather and the monsoon, which fit other units. Nothing there on city nature.",
    "The curriculum entry lists no board chapters for this subtopic. The founder's notebook item bio:206 was not found in the ideas files.",
-   "Ladder: sci.habitats.local-environments.L1 (homes under a stone, plants in cracks) and sci.habitats.habitats.L2 (the diya and stone test) come before. This unit moves from small homes to the whole street, and to how city animals change what they do. It leads to sci.habitats.city-nature.L4 (how cities change habitats, designing greener towns)."
+   "Ladder: sci.habitats.local-environments.L1 (homes under a stone, plants in cracks) and sci.habitats.habitats.L2 (the diya and stone test) come before. This lesson moves from small homes to the whole street, and to how city animals change what they do. It leads to sci.habitats.city-nature.L4 (how cities change habitats, designing greener towns)."
   ],
   "science": [
    "Derryberry E. P. and others (2020). Singing in a silent spring: birds respond to a half-century soundscape reversion during the COVID-19 shutdown. Science. White-crowned sparrows in San Francisco sang more softly in the quiet, and their songs could be heard about twice as far.",

@@ -3,12 +3,12 @@
  "title": "One bowl, six tastes: how traditional and festival meals balance a diet",
  "level": 4,
  "summary": {
-  "text": "Is there one perfect plate, or one magic food? In this unit you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.",
+  "text": "Is there one perfect plate, or one magic food? In this lesson you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.",
   "art": "A steel bowl of Ugadi pachadi on a banana leaf, with six small piles beside it: jaggery, tamarind, salt, neem flowers, black pepper and raw mango pieces."
  },
  "intro": {
   "hook": "Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?",
-  "text": "Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this unit you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.",
+  "text": "Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this lesson you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.",
   "art": "A Kerala sadya on a banana leaf seen from above, with many small dishes in rows, and a girl pointing at the bitter pavakka dish."
  },
  "outcomes": [
@@ -404,7 +404,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.",
+  "context": "In this lesson we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.",
   "deep_truth": {
    "truth": "Your tongue does not measure goodness. It only reports a taste. Sweet once pointed to energy, salty to minerals, sour to ripe fruit, bitter to danger and umami to protein. A sweet drink can give the sweet report with none of the fruit. So wanting a taste is not the same as needing the food.",
    "habit": "We say 'it tastes good, so it is good for me', and we say 'I crave it, so my body needs it'. But taste is only a signal made by the food's chemicals. It was a good guide for whole foods, and a food made in a factory can copy the signal without the goodness.",
@@ -2831,11 +2831,11 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the unit never to blame a child or a family for what they eat",
+   "Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the lesson never to blame a child or a family for what they eat",
    "DeepKids Combined Class 4 lesson 'Food for health' (app/content/combined/sci-C4-food-and-a-balanced-diet.json): its food festival project became Our Family Feast, its Kamala Sohonie and Swaminathan voices informed the card on fairness, its millet question informed the card on millets, and its Food Festival Trail game informed Feast Builder. Its story was not reused",
    "NCERT Class 4 Chapter 5 'Food for Health' (app/content/ncert/sci-L4-05.json): coverage of shad rasa and the six tastes in the Ugadi pachadi, millets, food groups, the food diary, the balanced plate, a regional thali, and how scientists corrected wrong ideas about taste. Its text is not copied",
-   "DeepKids unit sci.food.balanced-diet.L3: this unit builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods",
-   "DeepKids unit sci.food.nutrients.L4: this unit shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story",
+   "DeepKids unit sci.food.balanced-diet.L3: this lesson builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods",
+   "DeepKids unit sci.food.nutrients.L4: this lesson shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story",
    "DeepKids unit sci.microorganisms.helpful-microbes.L4: the card on fermented foods points to it"
   ],
   "science": [

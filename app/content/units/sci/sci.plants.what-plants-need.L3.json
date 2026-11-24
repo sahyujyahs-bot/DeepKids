@@ -3,12 +3,12 @@
  "title": "What plants need, and how to test it fairly",
  "level": 3,
  "summary": {
-  "text": "Moong grown in a dark cupboard grows taller than moong on a windowsill, yet it is pale and weak. So what does a plant need? In this unit you will grow moong in light and in dark, test water and warmth, and measure with a paper-strip chart.",
+  "text": "Moong grown in a dark cupboard grows taller than moong on a windowsill, yet it is pale and weak. So what does a plant need? In this lesson you will grow moong in light and in dark, test water and warmth, and measure with a paper-strip chart.",
   "art": "Three rows of paper cups of moong seedlings on a windowsill: one row green and sturdy in the sun, one row tall and yellow under a lifted cardboard box, one row drooping beside a dish of water, with a child measuring one seedling with a school ruler."
  },
  "intro": {
   "hook": "Have you seen moong sprouts grown in a closed box, or a potato that has sat in a dark kitchen basket? Their shoots are white or pale yellow, not green. Why?",
-  "text": "Sprouts grown in a closed tiffin, and potato shoots in a dark basket, come out long and pale. They are alive, and they grow fast. The only thing they were missing was light. So what does a plant really need? Is it light, water, warmth or soil? And how could you find out for sure, without guessing? In this unit you find out with fair tests, changing one thing at a time.",
+  "text": "Sprouts grown in a closed tiffin, and potato shoots in a dark basket, come out long and pale. They are alive, and they grow fast. The only thing they were missing was light. So what does a plant really need? Is it light, water, warmth or soil? And how could you find out for sure, without guessing? In this lesson you find out with fair tests, changing one thing at a time.",
   "art": "A kitchen basket tipped open to show a potato with long, pale, thin shoots, beside an open steel tiffin of moong sprouts with white shoots."
  },
  "outcomes": [
@@ -600,7 +600,7 @@
   "title": "A Stripe of Sun",
   "mins": 12,
   "read_aloud": true,
-  "note": "Zoya, Nani, Rukmini Mami, Arjun, Kavitha and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.",
+  "note": "Zoya, Nani, Rukmini Mami, Arjun, Kavitha and the contest are made up. What happens to Zoya's moong is real: you can see it in this lesson's light test.",
   "text": [
    "In Zoya's lane in Triplicane, in Chennai, the buildings stood very close together. Neighbours could pass a bowl of kesari from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.",
    "In the May holidays, Rukmini Mami from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from her own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' she said. She held up a mango so ripe that it smelt like a festival. 'A Malgova, from Salem. One.'",
@@ -1214,7 +1214,7 @@
        "says": "Keep a saucer of water under the pot all the time. Then the plant can drink whenever they need to."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from the tests in this unit. Then say one thing that another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from the tests in this lesson. Then say one thing that another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with evidence. The first child's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.",
      "why": "There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day."
@@ -1676,7 +1676,7 @@
      "p": "Astronauts plan to grow food on the Moon. List what the plants will need, and say where the astronauts could get each one.",
      "lines": 5,
      "a": "Light: from the Sun during the long Moon day, or from lamps. Water: brought from Earth, or made from ice near the Moon's poles. Air: made and pumped into a sealed greenhouse. Warmth: heaters and covers, because Moon nights are freezing. Minerals: from Moon soil, with extra added.",
-     "why": "A strong answer covers every need from this unit, and notices that Earth gives most of them for free."
+     "why": "A strong answer covers every need from this lesson, and notices that Earth gives most of them for free."
     },
     {
      "t": "write",
@@ -4119,7 +4119,7 @@
    "answer": "6 and a half centimetres, which is 65 millimetres.",
    "explain": "The arrow is past the 6, halfway to the 7. Halfway is 5 tiny millimetre marks. So the seedling is 6 centimetres and 5 millimetres. Each centimetre is 10 millimetres, so 6 centimetres is 60 millimetres. 60 + 5 = 65 millimetres.",
    "math_unit": "math.measurement-basics.standard-units.L3",
-   "context": "In this unit you measure seedlings with a ruler every day. The big numbers on a ruler are centimetres. The tiny marks between them are millimetres. Ten millimetres make one centimetre.",
+   "context": "In this lesson you measure seedlings with a ruler every day. The big numbers on a ruler are centimetres. The tiny marks between them are millimetres. Ten millimetres make one centimetre.",
    "chart": {
     "type": "scale",
     "title": "A ruler, measuring in centimetres",

@@ -3,12 +3,12 @@
  "title": "Cleaning and saving water: why mud sinks, and how to waste less",
  "level": 3,
  "summary": {
-  "text": "Muddy water can turn clear if you drop in a crystal of phitkari. How? In this unit you will shake mud in water to see which bits sink first, test phitkari on muddy water, and measure how much water different ways of washing a plate use.",
+  "text": "Muddy water can turn clear if you drop in a crystal of phitkari. How? In this lesson you will shake mud in water to see which bits sink first, test phitkari on muddy water, and measure how much water different ways of washing a plate use.",
   "art": "Two glasses of muddy water side by side: one still cloudy brown, the other clear with a layer of brown mud at the bottom and a small white phitkari crystal next to it. Behind them, a girl pours rice-washing water from a bowl into a potted tulsi plant."
  },
  "intro": {
   "hook": "Stir a spoon of soil into a glass of water and leave it on the table. The sand sinks in seconds. But the water above it can stay cloudy all day. Clay is heavier than water, so why doesn't it sink?",
-  "text": "Barbers and grandmothers across India keep a white crystal called phitkari, or padikaram in Tamil. In this unit you rub a little of it in muddy water and watch what happens to the cloudiness. You find out why the tiniest bits of dirt stay up, and how cities clean river water for millions of homes. Then you look at your own home and find where clean water is lost, and how to use it twice.",
+  "text": "Barbers and grandmothers across India keep a white crystal called phitkari, or padikaram in Tamil. In this lesson you rub a little of it in muddy water and watch what happens to the cloudiness. You find out why the tiniest bits of dirt stay up, and how cities clean river water for millions of homes. Then you look at your own home and find where clean water is lost, and how to use it twice.",
   "art": "A child's hand holding a glass of cloudy brown water up to a window, with a few grains of sand already lying at the bottom."
  },
  "outcomes": [
@@ -185,7 +185,7 @@
    "concept": "Clear is not the same as safe",
    "status": "defined",
    "definition": "Clumping, settling and filtering make water clear. But germs are far too small to see, and many can pass through cloth or a home sand filter. To make water safe to drink, it must also be purified.",
-   "description": "Water that looks clear can still hold germs, and things dissolved in it, like salt. After using phitkari or a filter, families boil drinking water for at least one minute, or use a purifier that kills germs. Clearing first still helps, because boiling and purifiers work better on clear water. In this unit, never drink the water from any test.",
+   "description": "Water that looks clear can still hold germs, and things dissolved in it, like salt. After using phitkari or a filter, families boil drinking water for at least one minute, or use a purifier that kills germs. Clearing first still helps, because boiling and purifiers work better on clear water. In this lesson, never drink the water from any test.",
    "examples": [
     "A glass of clear well water can carry germs that cause diarrhoea.",
     "Boiling water for one minute kills the germs that cause cholera and typhoid."
@@ -3053,7 +3053,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/water.md: the topic is 'Water: sources, water cycle and saving it'. Its rows are about clouds, the monsoon, underwater sound and light, so none were directly about saving or cleaning water. Its playful spirit is kept in the games and the building walk.",
+   "ideas/by_topic/water.md: the idea is 'Water: sources, water cycle and saving it'. Its rows are about clouds, the monsoon, underwater sound and light, so none were directly about saving or cleaning water. Its playful spirit is kept in the games and the building walk.",
    "NCERT Class 3 Chapter 7 'Water: A Precious Gift' pack (home water audit, reusing vegetable water for plants, why clear water may not be safe), built on and not repeated here.",
    "NIOS Level A Lesson 5 'Conservation of Environment' pack (ways to save water at home).",
    "Sibling units checked so nothing repeats: sci.water.water-sources-and-uses.L3 (Invisible Ring, Family Water Count, Drip Detective, John Snow story, arsenic), sci.states.dissolving.L3 (Clean the Muddy Water challenge), sci.water.water-cycle.L3, sci.health.hygiene.L3 (tippy-tap)."

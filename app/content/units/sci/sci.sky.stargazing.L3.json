@@ -3,12 +3,12 @@
  "title": "Constellations and nakshatras: the star patterns people see from Earth",
  "level": 3,
  "summary": {
-  "text": "The seven stars of the Saptarishi look like a ladle. Are they really close together? In this unit you will build a thread model to find out, test how long your eyes take to see faint stars, and play a game that follows the Moon through the nakshatras.",
+  "text": "The seven stars of the Saptarishi look like a ladle. Are they really close together? In this lesson you will build a thread model to find out, test how long your eyes take to see faint stars, and play a game that follows the Moon through the nakshatras.",
   "art": "A child on a city terrace at night pointing at the seven stars of the Saptarishi. Beside it, the same seven stars drawn from the side, five in a group and two far behind, joined by dotted lines back to the Earth."
  },
  "intro": {
   "hook": "Look at a picture of the Saptarishi, the seven bright stars that make a ladle in the northern sky. They look like seven lamps hanging side by side. Are they really side by side, or could some be much further away than others? How could we tell from down here?",
-  "text": "Every culture has looked at the night sky and joined the stars into pictures. In this unit you build a model of the Saptarishi with thread, using the real distances of its stars, and look at it from the side. You learn the nakshatras, the 27 star groups that the Moon passes through each month. You also find out how an astronomer showed, about 300 years ago, that the stars are moving.",
+  "text": "Every culture has looked at the night sky and joined the stars into pictures. In this lesson you build a model of the Saptarishi with thread, using the real distances of its stars, and look at it from the side. You learn the nakshatras, the 27 star groups that the Moon passes through each month. You also find out how an astronomer showed, about 300 years ago, that the stars are moving.",
   "art": "Seven paper stars hanging on threads at different distances in a dark room, with a child's eye at one end looking along the threads."
  },
  "outcomes": [
@@ -804,7 +804,7 @@
      "do": "1. Set the four alarms and switch off the light, leaving only a thin line of light under the door. A grown-up sits in the room. 2. When each alarm sounds (1, 5, 10 and 15 minutes), your child counts the stars and says the number aloud. 3. The grown-up remembers the number or writes it down by the line of light.",
      "say": "Now count. How many stars can you see? We'll count again in a few minutes.",
      "kid": "Count the stars you can see. Say the number when the alarm sounds. Then wait for the next alarm.",
-     "parent": "If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. Your numbers will not match the example chart. What matters is whether the count goes up. While you wait, chat quietly or tell the Arundhati story from this unit."
+     "parent": "If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. Your numbers will not match the example chart. What matters is whether the count goes up. While you wait, chat quietly or tell the Arundhati story from this lesson."
     },
     {
      "id": "s4",
@@ -1431,7 +1431,7 @@
        ]
       }
      ],
-     "parent": "No app or star map? Use Orion, Krittika and the Saptarishi from this unit, and call the rest 'bright star' or 'planet'."
+     "parent": "No app or star map? Use Orion, Krittika and the Saptarishi from this lesson, and call the rest 'bright star' or 'planet'."
     }
    ],
    "setup": [
@@ -1617,7 +1617,7 @@
    "youtube": "pqis3gZwVaY",
    "mins": 10,
    "why": "A children's introduction to what constellations are and how to find some of them. It uses the Western names, so pause to give the Indian names too.",
-   "check": "Preview it first, and check any myths it tells against this unit."
+   "check": "Preview it first, and check any myths it tells against this lesson."
   }
  ],
  "quiz": [

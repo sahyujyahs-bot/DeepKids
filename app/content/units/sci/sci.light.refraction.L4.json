@@ -3,7 +3,7 @@
  "title": "Refraction: the rule of the bend, and how light gets trapped",
  "level": 4,
  "summary": {
-  "text": "A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this unit you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.",
+  "text": "A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this lesson you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.",
   "art": "A rectangular tank of milky water on white paper with a torch beam entering at a slant and turning toward a dotted upright line, and a protractor lying beside it."
  },
  "intro": {
@@ -157,7 +157,7 @@
    ],
    "perspectives": [],
    "art": "A water surface with a dotted normal line, a ray coming in from the upper left at 60 degrees and bending to 41 degrees below the surface, with both angles marked.",
-   "context": "This card explains the main rule of this unit: which way light bends when it crosses from one material into another, and by how much."
+   "context": "This card explains the main rule of this lesson: which way light bends when it crosses from one material into another, and by how much."
   },
   {
    "concept": "How much slower: the refractive index",
@@ -3136,8 +3136,8 @@
  "sources": {
   "founder": [
    "Founder's notebook, Light, seeing and shadows: the experiment to refract light through a water-filled glass, and the activity to make rainbow patterns, used in the bend test and the rainbow card",
-   "Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this unit extends to measuring the bend, total internal reflection and telescopes",
-   "The Class 3 refraction unit, which this unit builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes"
+   "Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this lesson extends to measuring the bend, total internal reflection and telescopes",
+   "The Class 3 refraction unit, which this lesson builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes"
   ],
   "science": [
    "Ibn al-Haytham, Kitab al-Manazir (Book of Optics), about 1011 to 1021, on refraction and the eye",

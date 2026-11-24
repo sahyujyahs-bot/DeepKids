@@ -3,12 +3,12 @@
  "title": "Chemistry detectives: how ink and flames show what things are made of",
  "level": 3,
  "summary": {
-  "text": "A black pen looks like it holds one black ink. Is it really just one colour? In this unit you will make ink spread on wet paper, work out which pen wrote a secret note, and test flames to see what salt does to their colour.",
+  "text": "A black pen looks like it holds one black ink. Is it really just one colour? In this lesson you will make ink spread on wet paper, work out which pen wrote a secret note, and test flames to see what salt does to their colour.",
   "art": "A paper strip hanging into a steel tumbler of water, with a black dot that has spread into blue, purple and yellow bands. Beside it, a blue gas flame flashing yellow-orange as a few grains of salt fall in."
  },
  "intro": {
   "hook": "Try this. Make a fat dot with a black sketch pen near the bottom of a strip of kitchen towel. Dip the very end of the strip in water, below the dot. Watch for five minutes. The water climbs, and the black dot starts to turn into other colours. Why would black ink turn into other colours?",
-  "text": "Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this unit you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.",
+  "text": "Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this lesson you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.",
   "art": "A child's hand dipping the end of a kitchen-towel strip into a steel tumbler of water, with a black dot just above the water line and the first blue colour creeping out of it."
  },
  "outcomes": [
@@ -911,7 +911,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up lights the stove and holds the spoons in the flame. The child stands at least one metre away. Tie back long hair, and keep dupattas and loose sleeves away from the stove. The spoon gets hot: cool it in the sink. Homes with induction cooktops have no flame. Instead, watch the coloured flames video in this unit.",
+   "safety": "Only a grown-up lights the stove and holds the spoons in the flame. The child stands at least one metre away. Tie back long hair, and keep dupattas and loose sleeves away from the stove. The spoon gets hot: cool it in the sink. Homes with induction cooktops have no flame. Instead, watch the coloured flames video in this lesson.",
    "schedule": [
     {
      "day": 1,
@@ -1053,7 +1053,7 @@
      "id": "s3",
      "mins": 1,
      "do": "Lift the strip out and lay it on a plate.",
-     "say": "Where did the colours come from? Keep that question in your head. The Which Pen test later in this unit will help us answer it.",
+     "say": "Where did the colours come from? Keep that question in your head. The Which Pen test later in this lesson will help us answer it.",
      "kid": "Lift the strip out and lay it on a plate. Point to each colour you can see.",
      "check": {
       "t": "mcq",
@@ -1124,7 +1124,7 @@
      "do": "1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Run a kitchen-towel strip with a dot of the same pen beside it. 4. Watch for about 10 minutes, until the water is near the top.",
      "say": "Watch the ring. Do the colours move the same way as on the paper strip?",
      "kid": "Stand the chalk in the water. The ring stays above the water. Watch.",
-     "parent": "Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk."
+     "parent": "Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the lesson: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk."
     },
     {
      "id": "s3",

@@ -3,12 +3,12 @@
  "title": "Diseases and medicines: what causes an illness, what a medicine does, and how we know it works",
  "level": 5,
  "summary": {
-  "text": "Limp coriander stems stand up just as well in plain water as in sugar water. A cold also ends in a week with or without a remedy. So how do we know a medicine works? In this unit you will run a fair trial on wilted stems, and track doses of tea in a glass.",
+  "text": "Limp coriander stems stand up just as well in plain water as in sugar water. A cold also ends in a week with or without a remedy. So how do we know a medicine works? In this lesson you will run a fair trial on wilted stems, and track doses of tea in a glass.",
   "art": "Two clear glasses on a kitchen counter, each holding six coriander stems standing upright, with a spoon of sugar beside one glass and a notebook tally between them."
  },
  "intro": {
   "hook": "A cold goes away about a week after you take a remedy. A cold also goes away about a week after you take nothing. So how can anyone find out whether a remedy works?",
-  "text": "People have used remedies for thousands of years, and many of them did nothing. For about two thousand years, doctors let blood out of ill people, and it harmed far more than it helped. Nobody could tell, because many ill people get better whatever is done to them. In this unit you find out how people learned to tell a real medicine from a useless one. First you learn that every disease has a cause, and that a treatment must fit the cause. You use a glass of water and spoons of tea as a model of a body. You see how a medicine builds up there and leaves. You run a fair trial on wilted coriander stems, with a remedy group and a comparison group. You test whether a label changes how sweet a drink tastes. No real medicine is used anywhere in this unit. Medicines are only for a grown-up to give, in the way a doctor says. By the end you can say what a medicine can do and what only the body can do. You can also say what counts as evidence that a medicine works.",
+  "text": "People have used remedies for thousands of years, and many of them did nothing. For about two thousand years, doctors let blood out of ill people, and it harmed far more than it helped. Nobody could tell, because many ill people get better whatever is done to them. In this lesson you find out how people learned to tell a real medicine from a useless one. First you learn that every disease has a cause, and that a treatment must fit the cause. You use a glass of water and spoons of tea as a model of a body. You see how a medicine builds up there and leaves. You run a fair trial on wilted coriander stems, with a remedy group and a comparison group. You test whether a label changes how sweet a drink tastes. No real medicine is used anywhere in this lesson. Medicines are only for a grown-up to give, in the way a doctor says. By the end you can say what a medicine can do and what only the body can do. You can also say what counts as evidence that a medicine works.",
   "art": "A child looking at two glasses of coriander stems on a table, one glass marked A and one marked B on slips of paper tucked under them."
  },
  "outcomes": [
@@ -2727,7 +2727,7 @@
        "says": "The cold will end in a week whatever you do. So a remedy is a waste of effort."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. The grandmother is right that easing a symptom is a real help. The neighbour is right that the cold is not shortened. The doctor adds the limit: some illnesses do not end by themselves.",
      "why": "All three speakers say something true. A strong answer keeps apart two things: shortening the illness and easing the symptoms.",
      "outcome": 4
@@ -3138,7 +3138,7 @@
        "says": "Old remedies are good guesses by careful observers. Most will fail a trial. A few will become great medicines, as sarpagandha did."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. For the first: bloodletting lasted two thousand years. For the second: a trial can compare whole treatments too, if two groups are made by chance. For the third: sarpagandha and artemisinin both came from old texts, after testing.",
      "why": "This is a real disagreement in India today. A strong answer says what evidence each side would accept.",
      "outcome": 7
@@ -3874,7 +3874,7 @@
   "art": "A doctor in an 1830s coat sitting at a desk covered with patient notes, drawing up two long columns of tally marks by lamplight."
  },
  "roots": {
-  "context": "In this unit you ran a trial on wilted stems and watched a cut potato grow a new skin. Now we ask what healing tells us about ourselves and about living beings.",
+  "context": "In this lesson you ran a trial on wilted stems and watched a cut potato grow a new skin. Now we ask what healing tells us about ourselves and about living beings.",
   "deep_truth": {
    "truth": "In the Wilted Stems Trial, stems in plain water stood up as well as stems in sugar water. The stems recovered by drawing water back into their own cells. A body ends most colds and closes most cuts in the same way, by its own repair. A medicine removes a cause or supplies what is missing, and the body does the mending.",
    "habit": "We say 'the medicine cured me', and give the bottle all the credit. People have done this for thousands of years, which is how useless remedies such as bloodletting lasted so long. A medicine does one exact job. The living cells of the body do the rest, and in many illnesses they do all of it.",
@@ -3890,14 +3890,14 @@
    {
     "source": "Tirukkural 948, by Thiruvalluvar, in the chapter on medicine",
     "teaching": "Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits.",
-    "link": "This couplet is the first rule of this unit, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.",
+    "link": "This couplet is the first rule of this lesson, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.",
     "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
     "verse_lang": "ta"
    },
    {
     "source": "Charaka Samhita, Sutra Sthana, chapter 9",
     "teaching": "Treatment stands on four legs: the physician, the medicine, the attendant and the patient. All four must be sound for the treatment to succeed.",
-    "link": "Charaka counts the patient as one of the four supports of a cure, beside the medicine. In this unit, too, the medicine does one job and the patient's own body does the mending."
+    "link": "Charaka counts the patient as one of the four supports of a cure, beside the medicine. In this lesson, too, the medicine does one job and the patient's own body does the mending."
    },
    {
     "source": "Hippocratic writings, Epidemics, book 6, section 5",

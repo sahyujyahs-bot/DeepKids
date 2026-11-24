@@ -3,7 +3,7 @@
  "title": "Magnetic materials: what a magnet attracts, and why only some things",
  "level": 3,
  "summary": {
-  "text": "Two steel things can look alike, yet one sticks to a magnet and the other does not. Why? In this unit you will test what a magnet attracts, see if it works through paper, make a nail into a magnet, and sort a pile of scrap.",
+  "text": "Two steel things can look alike, yet one sticks to a magnet and the other does not. Why? In this lesson you will test what a magnet attracts, see if it works through paper, make a nail into a magnet, and sort a pile of scrap.",
   "art": "A split picture: on the left a fridge magnet holding a drawing on a steel fridge door, with a steel nail stuck beside it. On the right the same magnet beside a wooden cupboard door, an aluminium foil ball and a brass key, none of them stuck to it."
  },
  "intro": {
@@ -307,7 +307,7 @@
    "concept": "Heat can stop a material being magnetic",
    "status": "defined",
    "definition": "Every magnetic material stops being magnetic when it gets hot enough. The temperature at which this happens is called its Curie point.",
-   "description": "Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Making iron red-hot needs a gas flame and a grown-up, so in this unit we only read about it.",
+   "description": "Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Making iron red-hot needs a gas flame and a grown-up, so in this lesson we only read about it.",
    "examples": [
     "A magnet does not attract a red-hot nail. When the nail cools, the magnet attracts it again.",
     "A magnet left on a hot stove gets weaker.",
@@ -422,7 +422,7 @@
    "concept": "Super-strong magnets and why they are dangerous",
    "status": "defined",
    "definition": "The strongest everyday magnets are made from a mixture of the metals neodymium, iron and boron. They can pinch skin, and two swallowed ones can badly hurt a child.",
-   "description": "In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other very strongly. If a child swallows two, they can clamp together through the walls of the gut. That makes holes in the gut, and the child needs an operation. That is why this unit uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.",
+   "description": "In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other very strongly. If a child swallows two, they can clamp together through the walls of the gut. That makes holes in the gut, and the child needs an operation. That is why this lesson uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.",
    "examples": [
     "Neodymium magnets are in earphones and the motors of electric cars.",
     "A tiny neodymium magnet can lift a heavy steel tool. A fridge magnet cannot."
@@ -3994,7 +3994,7 @@
    "Combined Class 3 Materials and their properties (e2 'Which materials are magnetic?', the alloy and kabadiwala ideas, the stainless-steel tumbler surprise)",
    "Combined Class 1 and Class 2 Materials and their properties (the magnet test, and 'a magnet can prove iron but not name a metal')",
    "Cambridge Stage 3 5.5 Magnetic materials (Sunil's fridge magnet and the cupboard door, the model recycling plant, does magnetism pass through materials, William Gilbert and the garlic claim)",
-   "The SCI Cards in the materials notebook (underdog scientists first), this unit follows the same lens with Inge Lehmann and Salvatore Bellini"
+   "The SCI Cards in the materials notebook (underdog scientists first), this lesson follows the same lens with Inge Lehmann and Salvatore Bellini"
   ],
   "science": [
    "Weiss, Journal de Physique, 1907 (magnetic domains)",

@@ -3,12 +3,12 @@
  "title": "The edge of life: deciding whether a tricky case is alive",
  "level": 3,
  "summary": {
-  "text": "A candle flame moves, grows and takes in air, but it is not alive. A dry seed does nothing, but it is alive. How can that be? In this unit you will grow a crystal garden, test whether dry seeds and dried yeast are alive, and act out a virus.",
+  "text": "A candle flame moves, grows and takes in air, but it is not alive. A dry seed does nothing, but it is alive. How can that be? In this lesson you will grow a crystal garden, test whether dry seeds and dried yeast are alive, and act out a virus.",
   "art": "A kitchen table with a row of tricky cases: a candle flame, a salt crystal, a dry seed, a tiny eight-legged water bear, a toy robot and a spiky virus ball, and a child with a magnifying glass and a checklist."
  },
  "intro": {
   "hook": "A candle flame moves. It grows. It needs air, and it can light a new flame. A dry seed does none of these things. Yet scientists say the seed is alive and the flame is not. Why?",
-  "text": "In this unit you test six puzzling things against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. Each one shows some signs and lacks others. By the end you will know which signs matter most, and why scientists still argue about where life begins.",
+  "text": "In this lesson you test six puzzling things against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. Each one shows some signs and lacks others. By the end you will know which signs matter most, and why scientists still argue about where life begins.",
   "art": "A lit candle on a steel plate next to a dry moong seed on an open palm, with a big question mark between them.",
   "context": "This is the way into the unit: a puzzle about what makes a thing alive."
  },
@@ -144,7 +144,7 @@
    ],
    "perspectives": [],
    "art": "A checklist on a clipboard with nine ticks: move, energy, sense, grow, young, waste, food, cells, instructions.",
-   "context": "This card gives the list of tests we will use on every tricky case in this unit."
+   "context": "This card gives the list of tests we will use on every tricky case in this lesson."
   },
   {
    "concept": "Fire: it does many things, but it is not alive",
@@ -484,7 +484,7 @@
   {
    "q": "If we found something strange on Mars, how would we know if it was alive?",
    "kind": "big",
-   "hint": "Which tests from this unit could a robot do on Mars?"
+   "hint": "Which tests from this lesson could a robot do on Mars?"
   },
   {
    "q": "Could a robot or a computer ever be alive? Would it matter to you if it was?",
@@ -1151,7 +1151,7 @@
        "says": "If someone built a robot that could find its own food, repair itself and build copies of itself, then it would be alive."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing that another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, the girl is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
      "why": "Scientists really do disagree about whether a machine could ever be alive. There is no single right answer. A strong answer names signs of life and is fair to the other side."
@@ -1271,7 +1271,7 @@
     },
     {
      "t": "match",
-     "p": "Match each result from this unit to what it shows.",
+     "p": "Match each result from this lesson to what it shows.",
      "pairs": [
       [
        "Seeds grew but pebbles did not, on the same wet cotton",
@@ -1336,7 +1336,7 @@
        "says": "A virus is alive only while inside a cell, when the cell is busy making copies. Outside, the virus is like a seed waiting."
       }
      ],
-     "ask": "Which scientist do you side with? Give your evidence from this unit. Then say what one of the other scientists has right.",
+     "ask": "Which scientist do you side with? Give your evidence from this lesson. Then say what one of the other scientists has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with facts: copies, evolution and the flu vaccine for 'yes', or doing nothing on a table for 'no'. It also admits the best point of the other side.",
      "why": "This is a real, unsettled argument. There is no single right answer. A strong answer uses evidence, not just feelings.",
@@ -1414,7 +1414,7 @@
        "says": "We need a rule we can test. Life is a chemical system that keeps itself going and can evolve. It is a working rule, not a perfect one."
       }
      ],
-     "ask": "Which view helps most with the tricky cases in this unit? Test it on a virus and a dry seed. Then say where it struggles.",
+     "ask": "Which view helps most with the tricky cases in this lesson? Test it on a virus and a dry seed. Then say where it struggles.",
      "lines": 5,
      "a": "A strong answer tries the view on real cases. The biologists' rule puts the dry seed in, but struggles with the virus, who has no cells. The NASA rule fits viruses better, because they evolve. Bose's view explains why the cases are tricky at all, but does not tell you where to stop.",
      "why": "There is no single right answer. A strong answer tests each view on cases rather than just choosing one."
@@ -1554,7 +1554,7 @@
     },
     {
      "t": "write",
-     "p": "A scientist finds a tiny new speck in a hot spring. Nobody knows whether the speck is alive. Choose three tests from this unit to try first. For each one, say what result would make you think 'alive'.",
+     "p": "A scientist finds a tiny new speck in a hot spring. Nobody knows whether the speck is alive. Choose three tests from this lesson to try first. For each one, say what result would make you think 'alive'.",
      "lines": 5,
      "a": "For example: 1. Look under a microscope for cells; alive if I see cells. 2. Give the specks warm sugar water; alive if gas starts slowly and keeps growing, and stops if the specks were boiled first. 3. Put a few in fresh water with food; alive if there are more of them the next day, made by the specks themselves and not only inside other cells.",
      "why": "A strong answer uses tests from the unit (cells, feeding with a boiled comparison, making copies), says what result would count, and does not trust a single sign alone."
@@ -2154,7 +2154,7 @@
      "do": "Lay the three labels on the floor. Your child sorts each thing onto one label.",
      "say": "Put each thing on a label: alive, not alive, or once alive. Once alive means it was part of a living thing, but is not alive now. Put a question mark on any you are not sure about.",
      "kid": "Sort each thing. Alive, not alive, or once alive. Once alive means it used to be part of something living. Mark the hard ones with a question mark.",
-     "parent": "Do not correct anything yet. Most children put the seed with the pebble, and many put the candle near 'alive' because it can burn. Both are perfect puzzles for this unit. Bread is made from wheat, which was alive, and from dough that rose with yeast, which was alive until the bread was baked."
+     "parent": "Do not correct anything yet. Most children put the seed with the pebble, and many put the candle near 'alive' because it can burn. Both are perfect puzzles for this lesson. Bread is made from wheat, which was alive, and from dough that rose with yeast, which was alive until the bread was baked."
     },
     {
      "id": "s3",
@@ -2174,7 +2174,7 @@
       "a": 1,
       "why": "The dry seed is alive but resting. Give the seed water and a root grows. A pebble never can grow one. Picking the toy car usually means 'it can move, so it might be alive'. But moving alone tells us nothing."
      },
-     "think": "Keep your tray. At the end of this unit, sort it again. Will you change anything?"
+     "think": "Keep your tray. At the end of this lesson, sort it again. Will you change anything?"
     }
    ]
   },
@@ -2374,7 +2374,7 @@
      "do": "Next day, squeeze the moss over the dark plate. Use the dropper to spread the water in small drops. Search each drop slowly with the phone microscope or lens.",
      "say": "Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time. You may also see other tiny animals.",
      "kid": "Squeeze the moss onto the plate. Look at each drop slowly. Look for a chubby animal with eight short legs.",
-     "parent": "Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. Finding nothing is normal. Try moss from another place, and watch the water bear video in this unit to see one walking."
+     "parent": "Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. Finding nothing is normal. Try moss from another place, and watch the water bear video in this lesson to see one walking."
     },
     {
      "id": "s3",

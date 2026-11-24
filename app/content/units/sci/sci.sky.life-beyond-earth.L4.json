@@ -3,12 +3,12 @@
  "title": "Life beyond Earth: how scientists look for signs of life on faraway worlds",
  "level": 4,
  "summary": {
-  "text": "No telescope can see a creature on a planet trillions of kilometres away. So how do scientists look for life there? In this unit you will tell which bottles hold living yeast from the gas they make, test how warm curd bacteria need it, and find planets from dips in starlight.",
+  "text": "No telescope can see a creature on a planet trillions of kilometres away. So how do scientists look for life there? In this lesson you will tell which bottles hold living yeast from the gas they make, test how warm curd bacteria need it, and find planets from dips in starlight.",
   "art": "Four bottles in a row with balloons on top, the balloon on the first bottle swollen and the other three flat, and a small telescope looking at a faraway planet with a faint glowing ring of air."
  },
  "intro": {
   "hook": "Two bottles stand on a table. They are sealed, and you cannot see through them. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?",
-  "text": "You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this unit you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.",
+  "text": "You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this lesson you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.",
   "art": "A child looking at two sealed bottles with balloons, and behind them a drawing of a distant planet with a thin ring of air."
  },
  "outcomes": [
@@ -288,7 +288,7 @@
    "status": "idea",
    "context": "This card brings the ideas together in one real planetary system, about 40 light-years from us.",
    "definition": "TRAPPIST-1 is a small red dwarf star with seven Earth-sized planets going round it. Three of them lie in the habitable zone.",
-   "description": "In 2017, astronomers led by Michael Gillon in Belgium reported seven planets going round TRAPPIST-1, a dim red star about 40 light-years from Earth. The star is only a little bigger than Jupiter, and all seven planets orbit closer to it than Mercury does to our Sun. Their years last only from 1.5 to about 19 days. Planets e, f and g are often named as lying in the habitable zone. But a red dwarf sends out strong flares, and the planets are probably locked so that one side always faces the star. In 2023 the James Webb Space Telescope looked at the two inner planets and reported that they seem to have no thick atmosphere. Nobody yet knows if any of the outer planets has air, or water. This is a good place to test the methods in this unit.",
+   "description": "In 2017, astronomers led by Michael Gillon in Belgium reported seven planets going round TRAPPIST-1, a dim red star about 40 light-years from Earth. The star is only a little bigger than Jupiter, and all seven planets orbit closer to it than Mercury does to our Sun. Their years last only from 1.5 to about 19 days. Planets e, f and g are often named as lying in the habitable zone. But a red dwarf sends out strong flares, and the planets are probably locked so that one side always faces the star. In 2023 the James Webb Space Telescope looked at the two inner planets and reported that they seem to have no thick atmosphere. Nobody yet knows if any of the outer planets has air, or water. This is a good place to test the methods in this lesson.",
    "examples": [
     "One of the TRAPPIST-1 planets is so close to the star that its year lasts less than two Earth days.",
     "The James Webb Space Telescope has begun to study the air of the TRAPPIST-1 planets.",
@@ -3328,7 +3328,7 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/how-life-began.md and living-and-non-living-signs-of-life.md: signs of life and how life could begin, used as background for the biosignature and what-counts-as-life parts",
-   "The Class 3 unit Life beyond Earth, which this unit builds on: liquid water, extremophiles, Europa, Enceladus and Mars, now taken to the habitable zone, chemosynthesis, biosignatures and claims",
+   "The Class 3 unit Life beyond Earth, which this lesson builds on: liquid water, extremophiles, Europa, Enceladus and Mars, now taken to the habitable zone, chemosynthesis, biosignatures and claims",
    "The curd and idli batter examples reuse the everyday fermentation ideas of the Class 3 units on microbes and signs of life, here used as a model of a habitable zone and a biosignature"
   ],
   "science": [
@@ -3353,7 +3353,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you tested bottles of yeast and cups of curd, and learned how scientists read the air of other worlds. This part asks two things: why living things can be found by the changes they make, and how sure anyone can be about something they cannot see.",
+  "context": "In this lesson you tested bottles of yeast and cups of curd, and learned how scientists read the air of other worlds. This part asks two things: why living things can be found by the changes they make, and how sure anyone can be about something they cannot see.",
   "deep_truth": {
    "truth": "In the Bottle Biosignature test, only the bottle with living yeast and sugar made gas and blew up its balloon. From outside, you could not see the yeast, only the gas they kept making. On a far planet, life might show up in the same way, as gases that would fade away unless living things kept making them. So we may find life by what it keeps changing, long before we see a creature.",
    "habit": "We expect to find life by seeing a creature. But from far away, the first sign would be a change in the air.",

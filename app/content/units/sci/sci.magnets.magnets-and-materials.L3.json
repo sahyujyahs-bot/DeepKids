@@ -3,12 +3,12 @@
  "title": "Magnets: how they attract iron without touching it",
  "level": 3,
  "summary": {
-  "text": "A magnet pulls an iron nail without touching it, but ignores a brass key. Why only some things? In this unit you will guess and test what a magnet attracts, make a floating needle compass, and compare magnets with a paper clip chain.",
+  "text": "A magnet pulls an iron nail without touching it, but ignores a brass key. Why only some things? In this lesson you will guess and test what a magnet attracts, make a floating needle compass, and compare magnets with a paper clip chain.",
   "art": "A child holding a magnet over a safety pin that is jumping up to it, with faint curved lines around the magnet showing its magnetic field. Behind, the Earth with field lines looping from pole to pole and a sea turtle swimming along them."
  },
  "intro": {
   "hook": "Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did the magnet move the pin?",
-  "text": "People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this unit you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.",
+  "text": "People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this lesson you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.",
   "art": "A child's hand holding a dark magnet stone a finger-width above a safety pin that is just lifting off a table, with a dotted line showing the gap."
  },
  "outcomes": [
@@ -261,7 +261,7 @@
    "description": "In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. The iron fish was heated red-hot and left to cool while pointing north and south. This made it a magnet. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.",
    "examples": [
     "Lodestones were set in brass or silver caps, so people could carry them and rub needles with them.",
-    "Iron fish compasses floated in a bowl of water, like the needle compass in this unit's experiment."
+    "Iron fish compasses floated in a bowl of water, like the needle compass in this lesson's experiment."
    ],
    "perspectives": [],
    "art": "A world map with little pictures: a lodestone in Greece, a floating iron fish in China, a surgeon with a magnet in India, a ship with a bowl of water in the Arabian Sea.",
@@ -3455,7 +3455,7 @@
    "id": "b-magnets",
    "item": "A set of school magnets: bar magnets and round ceramic magnets",
    "kind": "tool",
-   "why": "Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this unit.",
+   "why": "Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this lesson.",
    "url": "https://www.amazon.in/s?k=bar+magnet+set+school",
    "used_in": [
     "e1",

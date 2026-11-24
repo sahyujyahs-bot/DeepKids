@@ -4,12 +4,12 @@
  "level": 3,
  "playtest": "Checked every hands-on part as if done at home today. Hold Your Nose: sugar with a pinch of ground elaichi, dalchini or saunf tastes 'just sweet' with the nose pinched. The spice appears the moment you let go. Lumps of spice can give it away, so mix finely. Two-Point Test: both toothpicks must stick out equally. The steps now say a grown-up pokes the holes and checks each tester on a palm first. The forearm and back often feel 4 cm as one point, and the example chart shows that. Point at the Sound: a hand over the ear blocks only part of the sound. So a cotton-wool tip was added, with softer clicks to try if both scores come out the same. Feel the Sound: the cling-film drum only works if the film is tight and the plate is banged close. The steps now give the distance, one hand's length, and use light sugar grains. A phone bass note is the back-up. Blue Mango: a blue mango with a pink leaf gives a clear yellow mango with a green leaf. It needs thick colouring, good light and a full 30 seconds of staring. Fading Coin: some children never lose the coin, and the note says that is normal. Train Your Nose: day 1 scores of 2 or 3 out of 6 are normal. Testing a family member who did not practise helps rule out luck. Super-Sense Pairs works alone, by counting turns. Kim's Game needs a second person to set up each round. Everything uses things found in most Indian kitchens. Check for food allergies before any tasting. Never sniff spices hard, and never put anything inside the ear canal. Senses You Forgot You Had: standing on one foot is much harder with the eyes shut for almost every child, so the steps put a wall and a grown-up close by. The three-bowl test works when the warm and cold bowls are clearly different from the middle one. A grown-up checks the warm bowl with an elbow first, so it is never hot.",
  "summary": {
-  "text": "Pinch your nose and a spoon of elaichi sugar tastes only sweet. Where did the elaichi go? In this unit you will test taste with and without smell, find senses you forgot you had, and test where touch is sharpest and whether two ears beat one.",
+  "text": "Pinch your nose and a spoon of elaichi sugar tastes only sweet. Where did the elaichi go? In this lesson you will test taste with and without smell, find senses you forgot you had, and test where touch is sharpest and whether two ears beat one.",
   "art": "A child in the middle of a kitchen with many glowing paths running into her ear, fingertip, tongue, nose, eye, inner ear and tummy, all turning into the same little sparks as they reach her head."
  },
  "intro": {
   "hook": "Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.",
-  "text": "When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this unit, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.",
+  "text": "When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this lesson, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.",
   "art": "A child with eyes shut, pinching her nose with one hand and holding a spoon of sugar with the other, a little cloud of cardamom smell waiting outside her nostrils."
  },
  "outcomes": [
@@ -174,7 +174,7 @@
    "concept": "What a sense is",
    "status": "defined",
    "definition": "A sense is a way the body detects something from the world, or from inside itself, and turns it into a message for the brain. Each sense has its own receptors.",
-   "description": "Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects that thing, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This unit starts with the five well-known senses, then meets the others.",
+   "description": "Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects that thing, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This lesson starts with the five well-known senses, then meets the others.",
    "examples": [
     "Hearing: shaking air reaches your ear, hair cells detect it, and a nerve carries the signal to your brain.",
     "Smell: molecules of hot payasam float up your nose, smell receptors detect them, and your brain says 'payasam'.",
@@ -486,7 +486,7 @@
     }
    ],
    "art": "A ripe mango, then a line of sparks going into a brain, then a big glowing question mark where the colour yellow and the sweet smell should appear.",
-   "context": "This unit followed each sense down to electric signals. This card asks the question nobody can answer yet: how signals become the taste of a mango."
+   "context": "This lesson followed each sense down to electric signals. This card asks the question nobody can answer yet: how signals become the taste of a mango."
   }
  ],
  "agreed": [
@@ -1248,7 +1248,7 @@
       "The ear signal is bigger"
      ],
      "a": 1,
-     "why": "No light or sound reaches the brain. Every sense sends the same kind of electric signal. The brain knows which is which by where it arrives. Picking 'one is light' is the most common idea, and it is the surprise of this unit."
+     "why": "No light or sound reaches the brain. Every sense sends the same kind of electric signal. The brain knows which is which by where it arrives. Picking 'one is light' is the most common idea, and it is the surprise of this lesson."
     },
     {
      "t": "order",
@@ -1305,7 +1305,7 @@
        "says": "There may be a sixth taste-bud taste: fat. In my tests, people could pick out the taste of fat even when they could not feel or smell it."
       }
      ],
-     "ask": "Which answer do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which answer do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it up. For example, siding with the taste scientist: chilli feels hot even when it is cold, so it must be heat nerves, not taste buds. It then says what another person has right: the grandmother is right that pungent and astringent are real feelings when we eat, and Mattes shows the list of five may grow.",
      "why": "This is a real disagreement about what to count as a 'taste'. Taste buds detect five basic tastes for sure. Scientists still argue about fat. Ayurveda counts what we feel in the whole mouth, not only on taste buds."
@@ -3048,7 +3048,7 @@
    "channel": "TEDx Talks",
    "youtube": "ob-P2a6Mrjs",
    "mins": 15,
-   "why": "Daniel Kish, who is blind, shows how he uses tongue clicks and echoes to find his way, filmed at a TEDx event in Mumbai. It goes with this unit's story. Parents can watch first and show a few minutes.",
+   "why": "Daniel Kish, who is blind, shows how he uses tongue clicks and echoes to find his way, filmed at a TEDx event in Mumbai. It goes with this lesson's story. Parents can watch first and show a few minutes.",
    "check": "Video id checked with YouTube's oembed service: it returns this title from TEDx Talks. The length is approximate. A parent should preview it."
   }
  ],
@@ -3711,7 +3711,7 @@
  },
  "sources": {
   "founder": [
-   "DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position, warm and cold, and the inner senses are introduced here with home tests, and go deeper in the next unit.",
+   "DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position, warm and cold, and the inner senses are introduced here with home tests, and go deeper in the next lesson.",
    "Cambridge Stage 3 pack 4 (Our five senses): pointing at sounds, the touch test, the spice box smell game and the eye test.",
    "Founder's notebook, Senses: SCI Cards for Obaid Siddiqi (fruit-fly genetics of taste and smell) and Ibn al-Haytham. Grade 3 concept grid ('perception constructs experience'). weekly journey 'All Perception Is Subjective'.",
    "Founder's sheets: afterimages ('stare at red dot, see green blur, retina fatigue'), sound through solids ('ear to table when pencil taps'), feeling music through a balloon held to a phone speaker, describing an object with the five senses on a nature walk, and the teachpsych.org list of sensation and perception activities.",
@@ -3758,7 +3758,7 @@
    {
     "source": "Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All')",
     "teaching": "The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All.",
-    "link": "This unit found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this unit, the brain joined the signals from the nose and tongue into one flavour.",
+    "link": "This lesson found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this lesson, the brain joined the signals from the nose and tongue into one flavour.",
     "verse": ["Kiñca, bhikkhave, sabbaṁ?", "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca", "idaṁ vuccati, bhikkhave, sabbaṁ."],
     "verse_lang": "pi"
    },

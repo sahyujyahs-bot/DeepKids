@@ -3,12 +3,12 @@
  "title": "Making a circuit: how a cell, two wires and a bulb make light",
  "level": 2,
  "summary": {
-  "text": "A small bulb lights with just a cell and two wires, but only if they are joined the right way. In this unit you will build your own circuit, test whether coiled, crossed or knotted wires still light it, and look inside a bulb to see which part glows.",
+  "text": "A small bulb lights with just a cell and two wires, but only if they are joined the right way. In this lesson you will build your own circuit, test whether coiled, crossed or knotted wires still light it, and look inside a bulb to see which part glows.",
   "art": "A child's hands on a table holding two wires that join an AA cell to a small glowing torch bulb in a holder, one wire coiled like a spring."
  },
  "intro": {
   "hook": "Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?",
-  "text": "Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.",
+  "text": "Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this lesson you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.",
   "art": "A cell, a small bulb in a holder and two red and black wires lying apart on a wooden table, with a child's hand reaching for them."
  },
  "outcomes": [
@@ -2021,7 +2021,7 @@
    "id": "b-kit",
    "item": "A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires",
    "kind": "tool",
-   "why": "Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires.",
+   "why": "Every experiment in this lesson needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires.",
    "url": "https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder",
    "used_in": [
     "e1",
@@ -2173,7 +2173,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/electricity-and-staying-safe-with-it.md, Electricity: 'build a simple circuit with battery, wires and bulb' became Your First Circuit (a1) and the Shape Test (e1); 'card-matching symbols to components' and 'quiz on circuit components' became the Light or Dark drawing game (g2); 'draw circuit diagrams as art' became the drawing steps.",
-   "Cambridge Primary Science Stage 2, Unit 6.3 'Making a circuit': the parts of a circuit, tracing the flow with a finger, and why some circuits do not work. The Level 3 unit (Simple circuits) already has the one-wire bulb challenge, the conductor test, where the gap is, two cells, a torch taken apart and a paper clip switch, so this unit uses the shape of the wires, which way round, a close look at the bulb, counting metal ends and a fault-finding game instead."
+   "Cambridge Primary Science Stage 2, Unit 6.3 'Making a circuit': the parts of a circuit, tracing the flow with a finger, and why some circuits do not work. The Level 3 unit (Simple circuits) already has the one-wire bulb challenge, the conductor test, where the gap is, two cells, a torch taken apart and a paper clip switch, so this lesson uses the shape of the wires, which way round, a close look at the bulb, counting metal ends and a fault-finding game instead."
   ],
   "science": [
    "Mains supply in India is about 230 volts. An AA cell gives 1.5 volts.",

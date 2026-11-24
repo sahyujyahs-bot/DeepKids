@@ -3,12 +3,12 @@
   "title": "Two pushes make a steady level: sugar, breath, pulse and pupils",
   "level": 4,
   "summary": {
-    "text": "Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this unit you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.",
+    "text": "Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this lesson you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.",
     "art": "A boy on a tightrope-style wire in a living room, leaning left, with a small bottle of cola on a table below and a single teaspoon of sugar on a saucer beside it."
   },
   "intro": {
     "hook": "Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?",
-    "text": "Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.",
+    "text": "Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this lesson you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.",
     "art": "A child standing on one leg in a kitchen, with thin arrows drawn on the ankle pointing left and right, and a faint wobbly outline of the foot around it."
   },
   "outcomes": [
@@ -668,7 +668,7 @@
           "do": "Set out the board. Put the marker on 5. The team has 3 hearts. Shuffle the event cards in one pile and the response cards in another. Deal 3 response cards to the team.",
           "say": "We play as one body. The marker is your blood sugar. The green squares are just right. Put the marker on five. We have three hearts. Everyone gets a look at the three response cards.",
           "kid": "Put the marker on 5. You have 3 hearts. Look at your 3 response cards.",
-          "parent": "The cards, the board and the tokens are printed from this unit. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.",
+          "parent": "The cards, the board and the tokens are printed from this lesson. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.",
           "context": "This is the first step of Sugar See-Saw. You set up the board and the cards."
         },
         {
@@ -926,7 +926,7 @@
               "says": "The line is flat because two things are working hard against each other all the time."
             }
           ],
-          "ask": "Whose view do you agree with more? What did you see in this unit that supports it?",
+          "ask": "Whose view do you agree with more? What did you see in this lesson that supports it?",
           "a": "Answers vary. A strong answer picks a side and gives evidence, such as the Level Bottle staying flat while water flowed, or the ankle wobbling to stay up.",
           "why": "Karthik's view matches the evidence. A flat line can hide two opposite pushes. Anita's view fits if you think of steady as still.",
           "outcome": 0
@@ -1283,7 +1283,7 @@
         },
         {
           "t": "mcq",
-          "p": "The Sun stays almost the same size for billions of years. Which explanation fits the idea of this unit?",
+          "p": "The Sun stays almost the same size for billions of years. Which explanation fits the idea of this lesson?",
           "opts": [
             "Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal",
             "The Sun is simply not moving",
@@ -1344,7 +1344,7 @@
         },
         {
           "t": "write",
-          "p": "Give a new example, not from this unit, of something that stays steady because two opposite pushes balance. Say what the two pushes are.",
+          "p": "Give a new example, not from this lesson, of something that stays steady because two opposite pushes balance. Say what the two pushes are.",
           "lines": 3,
           "a": "A person riding a bicycle: they lean left and steer right, then lean right and steer left. Or a hanging mobile, a swing at rest, or a floating boat. The answer must name two opposite pushes.",
           "why": "A strong answer names two pushes in opposite directions that keep a level or a position steady.",
@@ -3086,7 +3086,7 @@
     "founder": [
       "ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis': Pulse Party (dance, check pulse, breathe down) became the Recovery Race. Sugar Steady (a snack, then notice energy) shaped One Teaspoon and Sugar See-Saw. Card Dial (a card game that keeps a meter at 5) became the board in Sugar See-Saw. Set-Point Relay and Feedback Flip fed the pairs and the late-response rule. Feedback Arrows (blue to cool, red to warm) became the up and down arrows on the cards.",
       "Founder's philosophy line in the same notes: 'Balance is not stillness; it is gentle adjusting, like a surfer staying on a wave.' This became the starting point of the One-Leg Wobble and the deep truth.",
-      "The Class 3 unit on keeping balance, which this unit builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.",
+      "The Class 3 unit on keeping balance, which this lesson builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.",
       "Combined lesson sci-C4-body-parts-and-skeleton and sci-C5-health-hygiene-exercise-and-illness, for coverage only."
     ],
     "science": [
@@ -3111,7 +3111,7 @@
     ]
   },
   "roots": {
-    "context": "In this unit you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.",
+    "context": "In this lesson you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.",
     "deep_truth": {
       "truth": "A steady level is not a place where nothing happens. It is two opposite pushes working against each other all the time. Insulin pulls sugar out of your blood while glucagon puts it back. Where they balance, the level stays flat.",
       "habit": "We treat 'steady' and 'still' as if they meant the same thing, so a flat line looks like nothing is going on. But a flat line can hide a great deal of work.",

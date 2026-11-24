@@ -3,12 +3,12 @@
  "title": "Animal body plans: rings, two halves, spirals and segments",
  "level": 4,
  "summary": {
-  "text": "A starfish has five arms in a ring, while a cat has two matching sides. Why do animals have such different body shapes? In this unit you will test whether matching sides help a roller go straight, collect animals with the same plan, and find four tissues in your hand.",
+  "text": "A starfish has five arms in a ring, while a cat has two matching sides. Why do animals have such different body shapes? In this lesson you will test whether matching sides help a roller go straight, collect animals with the same plan, and find four tissues in your hand.",
   "art": "A crow, a fish, an ant and a child seen from above, each with a faint line down the middle, and beside them a jellyfish seen from above as a ring with the mouth in the centre."
  },
  "intro": {
   "hook": "A starfish has five arms and no head. So which way is forwards for a starfish?",
-  "text": "Any way is forwards for a starfish. She can walk with any arm in front. You are built differently. Your eyes, nose and mouth are all at one end, and you walk that end first. Your left side matches your right, but your front does not match your back. Animal bodies are laid out in a few ways: in rings, in two halves, in spirals and in rows of repeated parts. In this unit you find out what each layout is good for. You roll a lopsided roller made of dough and a pencil. You tilt a tall dough shell and a coiled one. You also find four kinds of tissue in your own hand.",
+  "text": "Any way is forwards for a starfish. She can walk with any arm in front. You are built differently. Your eyes, nose and mouth are all at one end, and you walk that end first. Your left side matches your right, but your front does not match your back. Animal bodies are laid out in a few ways: in rings, in two halves, in spirals and in rows of repeated parts. In this lesson you find out what each layout is good for. You roll a lopsided roller made of dough and a pencil. You tilt a tall dough shell and a coiled one. You also find four kinds of tissue in your own hand.",
   "art": "A five-armed starfish on a rock pool floor seen from above, with five small arrows pointing outwards along the five arms."
  },
  "outcomes": [
@@ -107,7 +107,7 @@
    "concept": "A body plan is the basic layout of a body",
    "status": "defined",
    "definition": "A body plan is the basic layout of an animal's body: which parts there are, and how they are arranged.",
-   "description": "Scientists have named more than a million kinds of animals. Yet almost all of them are built on a few layouts. Three questions sort most animals. Does the body have a front end? Do the left and right sides match? Are there parts that repeat in a row? A jellyfish has no front end, and her parts are arranged in a ring. A fish has a front end and two matching sides. An earthworm has a front end, matching sides and about a hundred repeated rings. A snail has a front end and matching sides, and she carries a shell that coils in a spiral. Humans are animals too. We have a front end, matching sides and a row of repeated bones down the back. This unit takes the plans one at a time. It also looks inside, at the tissues that every plan is built from.",
+   "description": "Scientists have named more than a million kinds of animals. Yet almost all of them are built on a few layouts. Three questions sort most animals. Does the body have a front end? Do the left and right sides match? Are there parts that repeat in a row? A jellyfish has no front end, and her parts are arranged in a ring. A fish has a front end and two matching sides. An earthworm has a front end, matching sides and about a hundred repeated rings. A snail has a front end and matching sides, and she carries a shell that coils in a spiral. Humans are animals too. We have a front end, matching sides and a row of repeated bones down the back. This lesson takes the plans one at a time. It also looks inside, at the tissues that every plan is built from.",
    "examples": [
     "Rings: a sea anemone on a rock at Rameswaram.",
     "Two halves: a crow, a rohu fish, a house gecko and you.",
@@ -2037,7 +2037,7 @@
        "says": "Head genes are switched on along every arm, and trunk genes are mostly missing. So most of a starfish's body is built like a head, with almost no trunk."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. One reason is that the adult shape is what we can see and count. Another is that the larva shows where starfish came from. Another is that genes show what each part is built as.",
      "why": "Each view uses real evidence. A strong answer says what kind of evidence it trusts most, and takes one other view seriously.",
      "outcome": 7
@@ -2909,7 +2909,7 @@
   "art": "A scientist of the 1840s at a table by a window over the sea, looking through a brass microscope, with a glass dish of sea water and a fine net beside him."
  },
  "roots": {
-  "context": "In this unit you rolled a lopsided roller, tilted dough shells and found four tissues in your hand. Here we ask what the shape of a body tells us about the life that body leads.",
+  "context": "In this lesson you rolled a lopsided roller, tilted dough shells and found four tissues in your hand. Here we ask what the shape of a body tells us about the life that body leads.",
   "deep_truth": {
    "truth": "In the Lopsided Roller test, the roller with unequal balls curved the same way on every roll. An animal who travels needs equal pushes on her left and right, so those two sides match. Her top and bottom differ, and her front and back differ, because gravity and travel treat them differently. So the layout of a body shows which directions matter in that animal's life.",
    "habit": "We treat an animal's shape as a fact about the animal alone, like a name. The shape also describes the animal's world: where food comes from, which way gravity pulls, and which way she travels.",

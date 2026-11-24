@@ -3,12 +3,12 @@
  "title": "Storing food safely: how microbes spoil it, and when to take extra care",
  "level": 5,
  "summary": {
-  "text": "A small pot of dal is usually fine in the morning, but a big wedding pot of the same dal can make a hundred guests ill. Why? In this unit you will heap hot rice and spread it out and time how long each stays hot, and watch what spoils food in sealed bags.",
+  "text": "A small pot of dal is usually fine in the morning, but a big wedding pot of the same dal can make a hundred guests ill. Why? In this lesson you will heap hot rice and spread it out and time how long each stays hot, and watch what spoils food in sealed bags.",
   "art": "A very large covered cooking vessel beside a small pot on a kitchen floor at night, with a faint wisp of steam still rising from under the lid of the large one."
  },
  "intro": {
   "hook": "Two pots of dal are boiled for the same time and covered. By morning the small pot is safe and the big pot may not be. What did the size of the pot change?",
-  "text": "Most people think that food is safe if it was cooked well and covered. Cooking kills most microbes, but a few kinds survive boiling as tough spores. When the food cools to a warm temperature, the spores wake up and multiply. How long the food stays warm then matters more than how well it was cooked. In this unit you time how long the middle of a heap of rice stays hot. You work out how many bacteria ten bacteria become in six hours at three temperatures. You find out which microbes spoil which foods, and how damp grain grows a mould that makes a poison. You also plan a meal for a baby, a grandmother and a pregnant aunt at one table.",
+  "text": "Most people think that food is safe if it was cooked well and covered. Cooking kills most microbes, but a few kinds survive boiling as tough spores. When the food cools to a warm temperature, the spores wake up and multiply. How long the food stays warm then matters more than how well it was cooked. In this lesson you time how long the middle of a heap of rice stays hot. You work out how many bacteria ten bacteria become in six hours at three temperatures. You find out which microbes spoil which foods, and how damp grain grows a mould that makes a poison. You also plan a meal for a baby, a grandmother and a pregnant aunt at one table.",
   "art": "A child pushing a digital thermometer into the middle of a bowl heaped with steaming rice, with a flat plate of spread rice beside the bowl."
  },
  "outcomes": [
@@ -2399,7 +2399,7 @@
        "says": "It depends on the amount. A katori can go in warm. A big pot must be divided and stood in cold water first."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. For the officer: bacteria double every 20 minutes in warm food. For the grandmother: a big hot pot does warm a fridge. A strong answer may say that the amount of food decides.",
      "why": "This is a real disagreement between kitchens and food safety agencies. A strong answer uses the two-hour rule and says what a big pot does to a fridge.",
      "outcome": 3
@@ -2593,7 +2593,7 @@
        "says": "No. Babies and old people are here, and boiling it again may not remove every toxin."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. Against serving: the middle of a big pot stays in the danger zone all night, and some toxins survive heat. For serving: food is precious, and nobody can show that this dal is unsafe. A strong answer weighs who would be harmed.",
      "why": "This is a real choice that cooks face. A strong answer uses the science of cooling, and is honest that nobody can be sure about this one pot.",
      "outcome": 3
@@ -3496,7 +3496,7 @@
   "art": "A farm worker in the 1960s holding a scoop of brown groundnut meal over a feed trough, with young turkeys behind a wire fence and a sack marked with a ship's stamp."
  },
  "roots": {
-  "context": "In this unit you timed how long the middle of a heap of hot rice stayed hot. Here we ask what that test says about food, about microbes and about your own body.",
+  "context": "In this lesson you timed how long the middle of a heap of hot rice stayed hot. Here we ask what that test says about food, about microbes and about your own body.",
   "deep_truth": {
    "truth": "In Deep or Shallow, the spread rice cooled in minutes, but the middle of the heap stayed hot. Heat leaves food only through the surface, and the middle of a heap is far from the surface. Microbes multiply fastest in food that stays warm for hours. So the shape and size of a heap of food help decide how safe the food stays.",
    "habit": "We think that safety is inside the food: it is clean or dirty, fresh or stale, cooked or raw. But two helpings of the same rice from the same pot can end up different. What happens to food also depends on its shape, its size and the hours it has spent warm.",
@@ -3507,7 +3507,7 @@
    "what_is_life": "A bacterium is so small that every part of them is close to their surface. Food gets in quickly and waste gets out quickly. That is one reason the smallest living beings multiply the fastest.",
    "what_is_this_world": "The same rule works for a planet. The Earth is so big that its middle is still hot after four and a half billion years. A small asteroid cooled long ago."
   },
-  "thread": "The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. This unit shows one exact case of that idea. The middle of a heap is what it is because of all the rice around it.",
+  "thread": "The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. This lesson shows one exact case of that idea. The middle of a heap is what it is because of all the rice around it.",
   "teachings": [
    {
     "source": "Bhagavad Gita 17.10",

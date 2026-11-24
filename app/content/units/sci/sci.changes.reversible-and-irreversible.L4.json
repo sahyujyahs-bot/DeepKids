@@ -3,12 +3,12 @@
  "title": "Changes that go back and changes that do not: what cooking does to food for ever",
  "level": 4,
  "summary": {
-  "text": "You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this unit you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.",
+  "text": "You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this lesson you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.",
   "art": "Two clear glasses side by side on a kitchen counter, one with a white layer settled under clear water and one filled with a smooth cloudy paste, with a spoon standing in the paste."
  },
  "intro": {
   "hook": "A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?",
-  "text": "Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this unit you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.",
+  "text": "Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this lesson you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.",
   "art": "A black tawa on a gas stove with a pool of clear melted ghee on one half and a round golden dosa cooking on the other half."
  },
  "outcomes": [
@@ -119,7 +119,7 @@
    "concept": "Three piles: back easily, back with work, and no way back",
    "status": "defined",
    "definition": "A reversible change can be undone, so that you have the starting substance again. An irreversible change cannot be undone.",
-   "description": "Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this unit uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.",
+   "description": "Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this lesson uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.",
    "examples": [
     "Back easily: ice melts, and the water freezes again in the freezer.",
     "Back with work: salt dissolves in water, and comes back when the water evaporates.",
@@ -1688,7 +1688,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Read the problem together. Look at a real seal at home, such as the ring on a water bottle cap. Ask how it shows that the bottle was opened.",
-     "say": "Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this unit have no way back? Which could a seal use?",
+     "say": "Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this lesson have no way back? Which could a seal use?",
      "kid": "Look closely at a bottle cap ring.",
      "ask": [
       {
@@ -2331,7 +2331,7 @@
        "says": "Rice and rajma must be cooked. Cucumber and guava are best raw. A good meal has both kinds."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. One reason is that heat denatures the harmful protein in rajma for good. Another is that the loss of vitamin C also has no way back.",
      "why": "Each speaker is right about something. A strong answer sees that cooking makes irreversible changes, and that some of them help and some cost.",
      "outcome": 7
@@ -2731,7 +2731,7 @@
    "title": "Batik (Wikipedia)",
    "url": "https://en.wikipedia.org/wiki/Batik",
    "kind": "interactive",
-   "why": "For the parent: how wax and dye are used on cloth, as in the unit's story, The Blue Drop on the White Sari."
+   "why": "For the parent: how wax and dye are used on cloth, as in the lesson's story, The Blue Drop on the White Sari."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
@@ -2966,8 +2966,8 @@
  "sources": {
   "founder": [
    "Founder's notebook, Changing materials: the concept sheet 'Materials Under Heat' (substances change when heated; bake bread and note the dough; melt chocolate and observe the change; the idea that heat transforms and reveals hidden properties) and the concept sheet 'Fire' (toast bread and observe browning). The Toast Ladder grows from the toast idea.",
-   "The curriculum entry for this unit: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.",
-   "The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This unit goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.",
+   "The curriculum entry for this lesson: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.",
+   "The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This lesson goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.",
    "Other units were checked for overlap. Baking soda and vinegar, rust and the five signs of a reaction are in sci.changes.chemical-reactions.L4. Apple browning is in sci.chemistry.reaction-speed.L4 and the how-we-know units. Rice in boiling water, butter into ghee and curd are in sci.changes.kitchen-science.L2. Splitting hot milk is in sci.food.nutrients.L3. None of these is used as an experiment here."
   ],
   "science": [
@@ -2992,7 +2992,7 @@
   "art": "A laboratory bench from the 1930s with glass flasks and a notebook, and above it a drawing of a long thread folded into a ball, opened out, and folded again."
  },
  "roots": {
-  "context": "In this unit you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.",
+  "context": "In this lesson you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.",
   "deep_truth": {
    "truth": "In The Toast Ladder, every square of bread could still be toasted darker. No square could be made paler again. So with a change that goes only one way, too little can be fixed and too much cannot. That is why a careful cook heats in small steps and checks each time.",
    "habit": "We treat 'a bit too much' and 'a bit too little' as mistakes of the same size. With a change that has no way back, they are different kinds of mistake. After too little, the right amount can still be reached. After too much, it cannot.",
@@ -3003,7 +3003,7 @@
    "what_is_life": "A living being uses both kinds of change. A dry seed can soak, dry and wait again. Once they grow a root, they have chosen a change with no way back.",
    "what_is_this_world": "The world uses the same water again and again through changes that go back. But the world also has a past and a future, because some changes never go back."
   },
-  "thread": "Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this unit adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.",
+  "thread": "Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this lesson adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.",
   "teachings": [
    {
     "source": "Tirukkural 481",
@@ -3015,7 +3015,7 @@
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering.",
-    "link": "The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.",
+    "link": "The verse says that nothing made stays as it is. This lesson agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.",
     "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
     "verse_lang": "pi"
    },

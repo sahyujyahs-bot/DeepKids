@@ -3,12 +3,12 @@
  "title": "Can animals count, wait and plan?",
  "level": 4,
  "summary": {
-  "text": "Can a chick, a bee or a crow tell which pile is bigger, or wait for a better reward? In this unit you will flash dots to find where your own quick counting stops, compare piles of different sizes, and play a game about waiting for more seeds.",
+  "text": "Can a chick, a bee or a crow tell which pile is bigger, or wait for a better reward? In this lesson you will flash dots to find where your own quick counting stops, compare piles of different sizes, and play a game about waiting for more seeds.",
   "art": "A fluffy yellow chick standing between two cloth screens, one screen with five yellow balls peeking out on one side and two balls on the other, with a child watching through a gap."
  },
  "intro": {
   "hook": "I will show a card for one second. It has three dots. How many did you see? Now a card with nine dots. How many now? Which answer came without counting?",
-  "text": "Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this unit you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.",
+  "text": "Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this lesson you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.",
   "art": "A child's hand lifting a paper card with three black dots for a moment, while a bee hovers near a window and a chick peeps from a box."
  },
  "outcomes": [
@@ -261,7 +261,7 @@
   {
    "concept": "Too much or too little: reading animal minds fairly",
    "status": "defined",
-   "description": "In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this unit, each result is labelled by what the test really showed.",
+   "description": "In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this lesson, each result is labelled by what the test really showed.",
    "examples": [
     "A dog may be following her owner's eyes and not her words, so the test hides the owner's eyes.",
     "A scientist asks a helper who does not know the answer to run the trial.",
@@ -2752,7 +2752,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/thinking-and-memory.md: the grade concept grid (the debated question 'do animals think like us?', the mirror test animals, octopuses solving puzzles, collective intelligence in flocks and hives), and the note that thought is older than neurons, used to frame this unit",
+   "ideas/by_topic/thinking-and-memory.md: the grade concept grid (the debated question 'do animals think like us?', the mirror test animals, octopuses solving puzzles, collective intelligence in flocks and hives), and the note that thought is older than neurons, used to frame this lesson",
    "ideas/by_topic/the-world-of-birds.md and the notebook items on animal memory and problem solving (bio:103, bio:104), for the crows and other clever birds",
    "ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card",
    "combined/sci-C3-thinking-and-memory.json and combined/sci-C5-thinking-and-memory.json: the clever animals material, reworked here into a Class 4 unit about number, waiting and planning, with none of the Level 3 experiments repeated"

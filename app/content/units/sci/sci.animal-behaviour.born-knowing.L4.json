@@ -3,12 +3,12 @@
  "title": "Reflexes, instincts and imprinting: what animals can do without lessons",
  "level": 4,
  "summary": {
-  "text": "A newly hatched duckling follows the first moving thing it sees, with no lessons. How can an animal know things it was never taught? In this unit you will find three reflexes in yourself, test what cold water on the face does to your heartbeat, and judge which drawn face is cuter.",
+  "text": "A newly hatched duckling follows the first moving thing it sees, with no lessons. How can an animal know things it was never taught? In this lesson you will find three reflexes in yourself, test what cold water on the face does to your heartbeat, and judge which drawn face is cuter.",
   "art": "A man walking across a meadow with a line of six grey goslings close behind his boots, and an adult goose standing alone in the distance."
  },
  "intro": {
   "hook": "A goose is rolling a stray egg back to her nest with her beak. A scientist takes the egg away halfway. The goose goes on with the rolling movement, all the way to the nest, with no egg under her beak. Why did she not stop?",
-  "text": "The goose was born able to make this rolling movement. A round thing lying near her nest sets the movement off. Once the movement starts, it runs to the end. Your body has patterns like this too. A blink, a swallow and a yawn each wait for a trigger. In this unit you find the triggers for three of your own reflexes. You test whether cold water on your face changes your heartbeat. You also meet the ducklings who follow the first moving thing they see.",
+  "text": "The goose was born able to make this rolling movement. A round thing lying near her nest sets the movement off. Once the movement starts, it runs to the end. Your body has patterns like this too. A blink, a swallow and a yawn each wait for a trigger. In this lesson you find the triggers for three of your own reflexes. You test whether cold water on your face changes your heartbeat. You also meet the ducklings who follow the first moving thing they see.",
   "art": "A grey goose on a nest of reeds stretching her neck out and drawing her beak back towards her feet, with a single egg lying apart on the grass and a hand lifting it away."
  },
  "outcomes": [
@@ -37,7 +37,7 @@
   },
   {
    "term": "Stimulus",
-   "meaning": "The thing that sets off a response. In this unit we also call it the trigger.",
+   "meaning": "The thing that sets off a response. In this lesson we also call it the trigger.",
    "example": "A drop of lemon juice on your tongue is a stimulus. It makes your mouth water.",
    "art": "A drop of juice falling from a lemon wedge onto a child's tongue."
   },
@@ -2234,7 +2234,7 @@
        "says": "Both are right. She inherits a body that learns this from her own voice, almost every time."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then say what test could help to decide.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then say what test could help to decide.",
      "a": "Any view with a reason. One reason is that Gottlieb's ducklings failed to pick the call when they heard nothing in the egg. A useful test is to change what the embryo hears and see which call the duckling later prefers.",
      "why": "Working scientists hold each of these views. A strong answer uses the egg test, and suggests changing one thing before hatching.",
      "outcome": 7
@@ -2425,7 +2425,7 @@
    "channel": "",
    "youtube": "7PcteKRA3zs",
    "mins": 3,
-   "why": "To see the fixed action pattern from the start of this unit on a real goose.",
+   "why": "To see the fixed action pattern from the start of this lesson on a real goose.",
    "check": "Found by YouTube search: Goose egg-rolling, Rachel Doyle Title checked automatically; a parent may still preview it."
   }
  ],
@@ -2861,9 +2861,9 @@
  },
  "sources": {
   "founder": [
-   "Founder's notebook, Biology list, items 92 to 98: behavioural biology and ethology, innate and learned behaviours, fixed action patterns, imprinting, reflexes and instincts, habituation. The items are titles only. This unit takes fixed action patterns, imprinting, reflexes and instincts. Habituation is left for level 5, and it is taught in sci.animal-behaviour.animal-learning.L4.",
+   "Founder's notebook, Biology list, items 92 to 98: behavioural biology and ethology, innate and learned behaviours, fixed action patterns, imprinting, reflexes and instincts, habituation. The items are titles only. This lesson takes fixed action patterns, imprinting, reflexes and instincts. Habituation is left for level 5, and it is taught in sci.animal-behaviour.animal-learning.L4.",
    "Curriculum entry sci.animal-behaviour.born-knowing.L4: 'Instincts, reflexes and fixed patterns; ducklings that follow the first thing they see (imprinting, Konrad Lorenz).' No board chapters are mapped, and there is no ideas/by_topic file for animal behaviour.",
-   "The Class 2 unit sci.animal-behaviour.born-knowing.L2 was read so that nothing repeats. It has the knee kick Stop Test, the spider web, the newborn grip, turtle hatchlings, the baya weaver and the story The Grip and the Web. This unit goes on to stimulus and response, the diving reflex, fixed action patterns, sign stimuli, supernormal stimuli and imprinting.",
+   "The Class 2 unit sci.animal-behaviour.born-knowing.L2 was read so that nothing repeats. It has the knee kick Stop Test, the spider web, the newborn grip, turtle hatchlings, the baya weaver and the story The Grip and the Web. This lesson goes on to stimulus and response, the diving reflex, fixed action patterns, sign stimuli, supernormal stimuli and imprinting.",
    "Other units were checked for overlap: sci.animal-behaviour.animal-learning.L3 and L4 (copying, habituation, the Spoon Test), sci.body.keeping-balance.L4 (the pupil test), sci.gravity.falling.L3 (the falling ruler) and sci.body.heart-blood-breath.L4 (pulse tests, which mention the diving reflex but do not test it)."
   ],
   "science": [
@@ -2925,7 +2925,7 @@
    {
     "source": "Yoga Sutras of Patanjali 2.9, with the old commentary of Vyasa",
     "teaching": "The sutra says that the will to go on living flows by itself, even in the wise. Vyasa adds that even a newborn worm shrinks from danger, though nothing in this life has taught them to.",
-    "link": "These thinkers noticed what this unit tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.",
+    "link": "These thinkers noticed what this lesson tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.",
     "verse": ["स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः"],
     "verse_lang": "sa"
    },

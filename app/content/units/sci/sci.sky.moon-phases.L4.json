@@ -3,12 +3,12 @@
   "title": "Reading the Moon: where day meets night, why half Moons show mountains, and how to predict any phase",
   "level": 4,
   "summary": {
-    "text": "The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this unit you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.",
+    "text": "The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this lesson you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.",
     "art": "A half Moon with long dark shadows inside craters along the line between light and dark, next to a flat-looking full Moon."
   },
   "intro": {
     "hook": "You have a pair of binoculars and one night to look at the Moon's mountains and craters. Do you pick the full Moon, which is the brightest, or a half Moon, which looks dimmer? Most people pick the full Moon. Galileo found out in 1609 that the half Moon is the better choice.",
-    "text": "The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this unit you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.",
+    "text": "The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this lesson you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.",
     "art": "A child at a window with binoculars, looking at a half Moon whose craters show dark shadows along its edge of day and night."
   },
   "outcomes": [
@@ -1700,7 +1700,7 @@
             "why": "Light from a low angle makes long shadows, and the shadows show the bump. Light from behind the viewer makes almost none, so the bump looks flat."
           },
           "think": "If a mountain makes a long shadow when the Sun is low, what will its shadow be like at midday?",
-          "context": "In this step, you decide which light shows shape and meet the puzzle of this unit."
+          "context": "In this step, you decide which light shows shape and meet the puzzle of this lesson."
         }
       ]
     },
@@ -2654,7 +2654,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "These numbers come from the experiments and explanations in the unit. A strong answer could say how each was measured."
+          "why": "These numbers come from the experiments and explanations in the lesson. A strong answer could say how each was measured."
         },
         {
           "t": "odd",
@@ -3402,7 +3402,7 @@
     "founder": [
       "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on shadows and the Sun's movement, and the activity of watching the Moon through the month, used in the dough Moon and the Terminator Log",
       "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Card for Galileo Galilei (his telescope work on the Moon's craters), used in how we found out",
-      "The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This unit adds the terminator, Moon age, tides, size and the lunar day"
+      "The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This lesson adds the terminator, Moon age, tides, size and the lunar day"
     ],
     "science": [
       "Galileo Galilei, Sidereus Nuncius, Venice, March 1610",

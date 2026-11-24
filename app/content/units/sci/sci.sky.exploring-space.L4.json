@@ -3,12 +3,12 @@
  "title": "Exploring space: why a satellite never lands, and what it costs to put one up",
  "level": 4,
  "summary": {
-  "text": "A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this unit you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.",
+  "text": "A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this lesson you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.",
   "art": "A marble rolling off a table edge in three curved paths of different lengths, and above the table a faint picture of the Earth with a satellite circling it and a cannon on a mountain."
  },
  "intro": {
   "hook": "Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?",
-  "text": "It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this unit you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.",
+  "text": "It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this lesson you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.",
   "art": "A child at a table edge letting a marble roll down a folded card ramp, with a sheet of newspaper on the floor below showing three wet marble marks at different distances."
  },
  "outcomes": [
@@ -2470,7 +2470,7 @@
        "says": "Space belongs to everyone. All countries should share the cost of tracking and cleaning up the junk."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that someone else has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing that someone else has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses a fact, such as: junk moves at 8 kilometres a second, so even tiny pieces cause damage, or old satellites at 36,000 kilometres stay for ages. It then admits a fair point from another side, such as the cost to small companies.",
      "why": "This is a real argument. Safety and shared use are set against cost and fairness, and no one answer settles it.",
@@ -3490,7 +3490,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Cards for Katherine Johnson (orbit calculations for America's first crewed flights), Galileo (the telescope and falling things) and Jocelyn Bell Burnell (radio astronomy), used in the explanations and the credit to women",
-   "Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this unit goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here",
+   "Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this lesson goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here",
    "Checked against the nearby units so nothing repeats: the balloon rocket is used here for its weight and distance (the push-and-pull unit used it for action and reaction), and falling with sideways speed is new to this subtopic"
   ],
   "science": [

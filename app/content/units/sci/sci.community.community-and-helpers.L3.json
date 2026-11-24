@@ -3,12 +3,12 @@
  "title": "Community helpers and shared things: how a neighbourhood keeps going",
  "level": 3,
  "summary": {
-  "text": "Who keeps your building going when you do not see them? And what happens to a pond everyone shares? In this unit you will list the helpers you hardly see, interview a worker near home, and test whether agreeing a rule stops a shared pond running out.",
+  "text": "Who keeps your building going when you do not see them? And what happens to a pond everyone shares? In this lesson you will list the helpers you hardly see, interview a worker near home, and test whether agreeing a rule stops a shared pond running out.",
   "art": "An Indian apartment building seen from the street in the morning, with a milk delivery person, a woman sweeping, a postwoman with a bag and a water lorry at the gate, and a shared water tank on the roof."
  },
  "intro": {
   "hook": "Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?",
-  "text": "A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.",
+  "text": "A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this lesson you test what keeps a shared thing going, with a bowl of chana and your own family.",
   "art": "A girl on the terrace of a flat looking into an open water tank, with water tank pipes going down the side of the building."
  },
  "outcomes": [
@@ -2264,7 +2264,7 @@
     },
     {
      "t": "odd",
-     "p": "Three of these helped a shared thing last in the stories and tests of this unit. Which one is the odd one out?",
+     "p": "Three of these helped a shared thing last in the stories and tests of this lesson. Which one is the odd one out?",
      "a": 2,
      "why": "Agreeing a rule, a water keeper and a caretaker's notebook all helped. Choosing in silence is what made the pond run out.",
      "opts": [
@@ -2597,7 +2597,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/society-community-culture-and-festivals.md: SCI Card for Gagandeep Kang (the Rotavac vaccine for Indian children, now in India's national vaccination programme), used in the agreed card on free vaccines at public health centres",
-   "NIOS Open Basic Education, Environmental Studies Level A, Lesson 2, Our Social Environment: the board chapter for professions, public services and Sonia's village, used for the topics of Meet a Helper, the emergency card, the services map and the Postcard Test"
+   "NIOS Open Basic Education, Environmental Studies Level A, Lesson 2, Our Social Environment: the board chapter for professions, public services and Sonia's village, used for the ideas of Meet a Helper, the emergency card, the services map and the Postcard Test"
   ],
   "science": [
    "Hardin, The Tragedy of the Commons, Science 162, 1968",

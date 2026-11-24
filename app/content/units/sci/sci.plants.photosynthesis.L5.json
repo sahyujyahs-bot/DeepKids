@@ -3,7 +3,7 @@
  "title": "Chlorophyll and starch: how a leaf catches sunlight and keeps it as food",
  "level": 5,
  "summary": {
-  "text": "Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this unit you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.",
+  "text": "Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this lesson you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.",
   "art": "Two leaves that look the same lying on a white plate, one labelled sunset and one labelled sunrise, with a dropper of brown iodine above them."
  },
  "intro": {
@@ -1560,7 +1560,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep the comic strip. Read it aloud to someone who has not done this unit, and see whether they can follow it.",
+   "record": "Keep the comic strip. Read it aloud to someone who has not done this lesson, and see whether they can follow it.",
    "setup": [
     {
      "art": "A sheet of paper ruled into six boxes, with the first box showing the Sun and a small dot of light leaving it.",
@@ -2197,7 +2197,7 @@
        "says": "The whole living leaf makes the food. Chlorophyll alone in a jar makes nothing."
       }
      ],
-     "ask": "Whose view do you agree with most? Use one test from this unit as evidence. Then say what one of the others has right.",
+     "ask": "Whose view do you agree with most? Use one test from this lesson as evidence. Then say what one of the others has right.",
      "lines": 5,
      "outcome": 0
     },
@@ -2445,7 +2445,7 @@
      "t": "write",
      "p": "Name one thing about chlorophyll or starch that scientists still argue about.",
      "a": "One answer: how a plant sets the speed of starch use at night. Another: whether green sea slugs really live on the chloroplasts they take from algae.",
-     "why": "Any open question from this unit is right, as long as it is truly unsettled.",
+     "why": "Any open question from this lesson is right, as long as it is truly unsettled.",
      "lines": 2,
      "outcome": 7
     },
@@ -3178,7 +3178,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/plants.md, the row 'Photosynthesis and vision': 'place leaves in sunlight, then test starch with iodine' (Dawn Leaf, Dusk Leaf and the White Patch), 'chlorophyll absorbs photons' (the explanations), 'draw a photon's journey' and 'story of a Sunbeam's journey' (A Photon's Journey), 'make chlorophyll prints on paper' (Leaf Prints That Fade), 'take a nature walk noting plant colours' (Green Under Red and the spotted list), the board game idea of gathering photons to feed plants (Starch Bank), and the thought 'light is life's bridge, turning energy into food' (the roots).",
    "Founder's notes in plants.md on cyanobacteria, chloroplasts and algae, used for 'Almost all food starts with caught sunlight'.",
-   "The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this unit builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.",
+   "The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this lesson builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.",
    "DeepKids Combined sci-C3-plants.json (the idea that food chains begin with a leaf), for coverage only. Its story was not reused.",
    "Open textbooks listed for this subtopic (Biology 2e and Concepts of Biology, the sections on photosynthesis), for facts only."
   ],
@@ -3234,7 +3234,7 @@
    {
     "source": "Bhagavad Gita 15.12 to 15.13",
     "teaching": "The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source.",
-    "link": "The science in this unit finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.",
+    "link": "The science in this lesson finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.",
     "verse": ["यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।", "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।", "गामाविश्य च भूतानि धारयाम्यहमोजसा।", "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"],
     "verse_lang": "sa"
    },
@@ -3275,5 +3275,5 @@
   ],
   "art": "A child with eyes closed holding one grain of rice on her palm, with a faint dotted line running from the grain back to a paddy leaf and on to the Sun."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts and times as a starting point. Dawn Leaf, Dusk Leaf (core) needs a plant with thin leaves that gets direct sun, a sunny day, surgical spirit and povidone-iodine. A grown-up must do every step with hot water and spirit, and spirit must never be near a flame. The dusk leaves usually go much darker than the dawn leaves. Some plants do not empty their leaves in one night, so both pairs can look dark. The step says to add a leaf wrapped in foil for two days in that case. If no leaf goes dark, the plant had too little sun or stores little starch, and another plant is needed. Money plant and other thick leaves work badly. The White Patch needs one leaf with truly white patches. Pale yellow-green patches hold some chlorophyll and come out grey. The Banana Clock needs bananas at three stages, and a cooking banana serves as the raw one. Tested slices must not be eaten. The Red Glow works best with a small ultraviolet torch, which is optional to buy. With a white torch the red glow is faint. Green Under Red needs red amaranth, which most vegetable shops sell. Leaf Prints That Fade needs a window that gets direct sun. Behind glass the fading is slower, so the step allows three more days. Starch Bank was played through on paper with two players. With only three nights each way, the die can hide the gain from the working clock. Back to the Sun uses simplified chains. No part of the core path needs a garden. Facts checked on 18 Nov 2026 against memory of the cited papers, not against the papers themselves. A person should check these points: that albino jackfruit seedlings are imagined for the story (albino seedlings are well documented in maize and rice), the 300 grams of rice from one square metre, and the dates in 'Who worked this out'. The three video addresses were confirmed through YouTube's public lookup."
+ "playtest": "The experiments and activities in this lesson were reasoned through step by step. They have not yet been tried at home. Please treat the amounts and times as a starting point. Dawn Leaf, Dusk Leaf (core) needs a plant with thin leaves that gets direct sun, a sunny day, surgical spirit and povidone-iodine. A grown-up must do every step with hot water and spirit, and spirit must never be near a flame. The dusk leaves usually go much darker than the dawn leaves. Some plants do not empty their leaves in one night, so both pairs can look dark. The step says to add a leaf wrapped in foil for two days in that case. If no leaf goes dark, the plant had too little sun or stores little starch, and another plant is needed. Money plant and other thick leaves work badly. The White Patch needs one leaf with truly white patches. Pale yellow-green patches hold some chlorophyll and come out grey. The Banana Clock needs bananas at three stages, and a cooking banana serves as the raw one. Tested slices must not be eaten. The Red Glow works best with a small ultraviolet torch, which is optional to buy. With a white torch the red glow is faint. Green Under Red needs red amaranth, which most vegetable shops sell. Leaf Prints That Fade needs a window that gets direct sun. Behind glass the fading is slower, so the step allows three more days. Starch Bank was played through on paper with two players. With only three nights each way, the die can hide the gain from the working clock. Back to the Sun uses simplified chains. No part of the core path needs a garden. Facts checked on 18 Nov 2026 against memory of the cited papers, not against the papers themselves. A person should check these points: that albino jackfruit seedlings are imagined for the story (albino seedlings are well documented in maize and rice), the 300 grams of rice from one square metre, and the dates in 'Who worked this out'. The three video addresses were confirmed through YouTube's public lookup."
 }

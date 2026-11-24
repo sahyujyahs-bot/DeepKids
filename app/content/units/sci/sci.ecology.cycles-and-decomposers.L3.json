@@ -3,12 +3,12 @@
  "title": "Decomposers: how worms, moulds and bacteria turn dead things into soil",
  "level": 3,
  "summary": {
-  "text": "Dead leaves and old food slowly turn into soil. Who does the work, and what does mould need to grow? In this unit you will test damp and dry chapatis, look at mould up close through a closed box, and see if salt keeps it away.",
+  "text": "Dead leaves and old food slowly turn into soil. Who does the work, and what does mould need to grow? In this lesson you will test damp and dry chapatis, look at mould up close through a closed box, and see if salt keeps it away.",
   "art": "A cut-away picture of a heap of fallen leaves on soil, with an earthworm, white mould threads, a small mushroom and tiny dots for bacteria, and a young plant growing out of the dark soil at the bottom."
  },
  "intro": {
   "hook": "Look in your fruit basket or vegetable tray. Is there an onion with a black spot, a soft tomato, or a lemon with a green patch? Don't touch the patch. Just look. Something is eating that food. Who is it, and where did they come from?",
-  "text": "Rotting is not food falling apart by itself. Living things called decomposers are eating it. On a soft tomato they are mostly moulds and bacteria. In the soil, earthworms, fungi and bacteria do the same work with fallen leaves and dead animals. In this unit you find out who the decomposers are, what they need, and how their meals become new soil.",
+  "text": "Rotting is not food falling apart by itself. Living things called decomposers are eating it. On a soft tomato they are mostly moulds and bacteria. In the soil, earthworms, fungi and bacteria do the same work with fallen leaves and dead animals. In this lesson you find out who the decomposers are, what they need, and how their meals become new soil.",
   "art": "A steel vegetable basket with one tomato gone soft and wrinkled, a small white fuzzy patch on it, and a magnifying glass lying next to the basket."
  },
  "outcomes": [
@@ -2305,7 +2305,7 @@
        "says": "Compost smells only when the heap is too wet. We can cover each layer with dry leaves."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses a fact: compost smells when it is too wet and has no air, and dry leaves fix that. It then gives another side its due, such as that a badly kept heap really can smell and attract flies.",
      "why": "There is a real trade-off. Compost gives soil back, but a heap that is too wet smells and brings flies."
@@ -2501,7 +2501,7 @@
        "says": "The smoke makes children cough. Please do not burn."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then say what another person has right.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then say what another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses a fact: stubble left in the field is eaten by decomposers and returns nutrients to the soil, but rotting takes weeks and the farmer has little time. It then gives another side its due.",
      "why": "This is a real trade-off between time, the soil and the village's health. Decomposers need weeks, and many farmers need a fast way to clear the field."
@@ -2575,7 +2575,7 @@
     },
     {
      "t": "write",
-     "p": "Ask a question about decomposers that this unit did not answer. How could you test it at home?",
+     "p": "Ask a question about decomposers that this lesson did not answer. How could you test it at home?",
      "lines": 3,
      "a": "Any honest question with a test. For example: does mould grow faster on rice or on chapati? Put a damp spoonful of each in two boxes on the same shelf and watch.",
      "why": "Good scientists finish one test with a new question."

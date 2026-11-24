@@ -3794,9 +3794,6 @@ a.btn {
   align-items: center;
   flex-wrap: wrap;
 }
-.qtypes {
-  flex-wrap: wrap;
-}
 .qtypes small {
   opacity: 0.7;
 }
@@ -5294,7 +5291,9 @@ strong {
 /* a segmented switch: the choices sit in one soft track, the chosen one is a white tab */
 .seg {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
   background: var(--track);
   border-radius: 14px;
   padding: 4px;
@@ -7204,9 +7203,6 @@ header.top #backTop {
 /* a page's tabs stay on one line at every width: when they do not all fit they scroll sideways, and the fading right edge
    shows there are more */
 .segmain {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  scrollbar-width: none;
   padding-right: 44px;
   mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 44px), transparent);
 }
@@ -7597,9 +7593,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 class="fs6">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" class="col"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="0e0e7d38f1b9919f79";window.DK_APPV="0e0e7d38f1";window.DK_DATAV="b9914f6788"</script>
-<script src="/config.js?v=0e0e7d38f1b9919f79"></script>
+<script>window.DK_BUILD="b4c198b74024ee9f79";window.DK_APPV="b4c198b740";window.DK_DATAV="24ee80b6db"</script>
+<script src="/config.js?v=b4c198b74024ee9f79"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=0e0e7d38f1b9919f79"></script>
+<script src="/platform.js?v=b4c198b74024ee9f79"></script>
 </body>
 </html>

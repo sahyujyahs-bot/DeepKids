@@ -3,7 +3,7 @@
  "title": "Fractals and spirals: how rough a coast is, and how leaves turn round a plant stem",
  "level": 4,
  "summary": {
-  "text": "How long is a crinkly coast, and what number says how rough it is? In this unit you will count the squared-paper boxes a drawn coast touches as the boxes get smaller, grow a Koch curve, and measure how far each leaf turns round a real plant stem.",
+  "text": "How long is a crinkly coast, and what number says how rough it is? In this lesson you will count the squared-paper boxes a drawn coast touches as the boxes get smaller, grow a Koch curve, and measure how far each leaf turns round a real plant stem.",
   "art": "A crinkly hand-drawn coastline on squared paper beside a potted plant with numbered paper tags on the leaves and a coiled snail shell."
  },
  "intro": {
@@ -36,7 +36,7 @@
   },
   {
    "term": "Roughness number",
-   "meaning": "Another name used in this unit for the dimension of a rough edge, such as a coast. A straight line has roughness number 1 and a very crinkly coast has a roughness number above 1, but always less than 2.",
+   "meaning": "Another name used in this lesson for the dimension of a rough edge, such as a coast. A straight line has roughness number 1 and a very crinkly coast has a roughness number above 1, but always less than 2.",
    "example": "The west coast of Britain has a roughness number of about 1.25.",
    "art": "A scale from 1 to 2 with a straight line at the left end, a gentle coast in the middle and a very crinkly coast near the right end."
   },
@@ -1943,7 +1943,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These five words are the vocabulary of this unit. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.",
+     "why": "These five words are the vocabulary of this lesson. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.",
      "outcome": 3
     },
     {
@@ -3102,7 +3102,7 @@
   "founder": [
    "ideas/by_topic/patterns-and-symmetry.md: Crystalline Structures row (grow salt or sugar crystals, branching frost, order emerging from chaos) and science journal pages p38 (Mandalas: count the shapes, fractals) and p39 (crystal growing, fractals), used for the random-walker cluster game and the branching ideas",
    "ideas/by_topic/order-chaos-and-chance.md: Grade 3 row naming fractals among patterns made by simple rules, used for the chaos game and the dragon curve",
-   "The Class 3 fractals and spirals unit, which this unit builds on: it measured a coast with strips, counted pineapple spirals and drew a Fibonacci spiral. Level 4 gives roughness a number, grows curves by rule and measures leaf turns. Its experiments and story are not reused"
+   "The Class 3 fractals and spirals unit, which this lesson builds on: it measured a coast with strips, counted pineapple spirals and drew a Fibonacci spiral. Level 4 gives roughness a number, grows curves by rule and measures leaf turns. Its experiments and story are not reused"
   ],
   "science": [
    "Mandelbrot, B., 'How Long Is the Coast of Britain?', Science 156, 1967 (using Richardson's data; a dimension of about 1.25 for the west coast)",

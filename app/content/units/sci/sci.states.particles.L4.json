@@ -3,12 +3,12 @@
  "title": "Particles: one picture that explains why solids hold, liquids pour and gases squash",
  "level": 4,
  "summary": {
-  "text": "Press a syringe full of air and it squashes to less than half. Press one full of water and it will not move. Why? In this unit you will thin one drop of colour through a row of cups, squeeze air and water, and build a picture of particles.",
+  "text": "Press a syringe full of air and it squashes to less than half. Press one full of water and it will not move. Why? In this lesson you will thin one drop of colour through a row of cups, squeeze air and water, and build a picture of particles.",
   "art": "A row of six clear cups on a white paper, the water going from deep pink on the left to almost clear on the right, with a syringe of air and a syringe of water beside them."
  },
  "intro": {
   "hook": "Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?",
-  "text": "The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.",
+  "text": "The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this lesson you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.",
   "art": "A child at a kitchen table with a row of cups of fading pink water, a teaspoon and a small bottle of red food colour."
  },
  "outcomes": [
@@ -410,7 +410,7 @@
   {
    "q": "Nobody has ever seen a gas particle with their eyes. How can we be sure that they are there?",
    "kind": "big",
-   "hint": "Think about what you tested in this unit, and what it would mean if there were no particles."
+   "hint": "Think about what you tested in this lesson, and what it would mean if there were no particles."
   },
   {
    "q": "A model is a picture that is not exactly true but is very useful. Can you think of other models in life, such as a map?",
@@ -1565,7 +1565,7 @@
      "qty": 1
     },
     {
-     "item": "your results and drawings from the other tests in this unit",
+     "item": "your results and drawings from the other tests in this lesson",
      "qty": 1
     },
     {
@@ -2975,7 +2975,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/matter-and-particles.md: the particles grade grid (everything is made of tiny bits we cannot see, air looks empty but has particles, particles move), used for the squeeze test and the gaps activity",
-   "The Class 3 unit on particles, which this unit builds on: the idea that things are made of particles, now extended to the three states, empty space, pressure and models",
+   "The Class 3 unit on particles, which this lesson builds on: the idea that things are made of particles, now extended to the three states, empty space, pressure and models",
    "Neighbour units the-very-small.atoms, evaporation-and-condensation and dissolving, which are built on and not repeated: Brownian motion, smell races, colour spreading in hot and cold water, and dissolving are left there"
   ],
   "science": [

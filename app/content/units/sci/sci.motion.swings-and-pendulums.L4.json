@@ -3,12 +3,12 @@
  "title": "Swings and pendulums: how a swing trades height for speed",
  "level": 4,
  "summary": {
-  "text": "A bag of coins on a thread never swings back higher than where it started, even when a pencil stops the thread halfway. In this unit you will test this, see how far a box slides when a bag falls from higher up, and time many swings with a stopwatch.",
+  "text": "A bag of coins on a thread never swings back higher than where it started, even when a pencil stops the thread halfway. In this lesson you will test this, see how far a box slides when a bag falls from higher up, and time many swings with a stopwatch.",
   "art": "A bag of coins on a thread swinging past a pencil peg stuck out from a wall, with a horizontal pencil line on the wall showing that the bag rises to the same height on both sides."
  },
  "intro": {
   "hook": "Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now put a pencil in the way of the thread, so the thread catches on it halfway down. Will the bag still climb as high?",
-  "text": "An earlier unit on pendulums showed that the length of the thread sets the beat. This unit asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.",
+  "text": "An earlier unit on pendulums showed that the length of the thread sets the beat. This lesson asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.",
   "art": "A child's hand letting go of a bag of coins on a thread beside a wall with a pencil line marked at the starting height."
  },
  "outcomes": [
@@ -125,7 +125,7 @@
    "status": "defined",
    "context": "This card gives the two words you need to talk about a swing: height energy and movement energy.",
    "definition": "A thing high up has height energy, because it can fall. A moving thing has movement energy. A swing keeps swapping one for the other.",
-   "description": "Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.",
+   "description": "Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this lesson we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.",
    "examples": [
     "A cricket ball held on the roof has height energy. After it falls, the same energy is in its movement.",
     "A water tank on a roof has height energy. The water falls through the pipe and arrives at the tap with speed.",
@@ -2736,7 +2736,7 @@
    "answer": "16 seconds.",
    "explain": "Twice 0.8 is 1.6, so one swing takes 1.6 seconds. Ten swings take 10 times 1.6, which is 16 seconds.",
    "math_unit": "math.multiplication.multi-digit.L4",
-   "context": "In this unit you met a rule for how long a pendulum takes to swing, using the square root of its length.",
+   "context": "In this lesson you met a rule for how long a pendulum takes to swing, using the square root of its length.",
    "why_maths": "A rule lets you predict a time before you test, and then you can check the prediction against your stopwatch."
   },
   {
@@ -2788,7 +2788,7 @@
    "explain": "The period is twice the square root of the length, so the square root is half the period, which is 1.5. The length is 1.5 times 1.5, which is 2.25 metres.",
    "math_unit": "math.multiplication.multi-digit.L4",
    "how": "e3",
-   "context": "In this unit you used a rule that links the length of a pendulum to its time for a full swing.",
+   "context": "In this lesson you used a rule that links the length of a pendulum to its time for a full swing.",
    "why_maths": "Turning the rule around lets you work out the length you need for a swing time you want."
   }
  ],
@@ -2948,7 +2948,7 @@
    "ideas/by_topic/energy.md: 'swing a pendulum to see energy swap between kinetic and potential' and 'mime of a pendulum's swing' (used in Swap Shop and the Peg Test)",
    "ideas/by_topic/gravity.md: 'measure pendulum period to see gravity's effect' and 'build a DIY Foucault pendulum' (used in the project on the pull of the Earth and in the explanations)",
    "ideas/by_topic/forces-and-movement.md: 'use a pendulum to measure length and period' and 'create double pendulum to show chaos' (used in the timing test and in the open questions)",
-   "The Class 3 unit on swings and pendulums, which this unit builds on: the idea that length sets the beat, now extended to energy, the period rule and timing error"
+   "The Class 3 unit on swings and pendulums, which this lesson builds on: the idea that length sets the beat, now extended to energy, the period rule and timing error"
   ],
   "science": [
    "Galileo Galilei, Discourses and Mathematical Demonstrations Relating to Two New Sciences, 1638 (the pendulum with a nail, rising to the same height)",
@@ -2963,7 +2963,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you followed energy through a swing and tested how high a bob climbs. This part asks what the swap between height and speed tells us about the world, and about ourselves.",
+  "context": "In this lesson you followed energy through a swing and tested how high a bob climbs. This part asks what the swap between height and speed tells us about the world, and about ourselves.",
   "deep_truth": {
    "truth": "In the Peg Test, a pencil peg shortened the thread, yet the bag still climbed to the same height. How high a bob climbs depends on how far it fell, not on the path. Its height turned into speed on the way down, and the speed turned back into height on the way up. So the path can change a lot while the height stays the same.",
    "habit": "We think the path decides where something ends up, so a tighter, quicker curve should fling the bob higher. In a swing the path does not matter. Only the height it fell from sets the height it reaches.",

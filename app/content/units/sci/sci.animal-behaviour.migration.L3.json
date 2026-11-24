@@ -3,12 +3,12 @@
  "title": "Migration: the animals that travel across the world every year",
  "level": 3,
  "summary": {
-  "text": "How do animals that travel far every year find their way? In this unit you will walk to a bowl and then try again from a new start, test how far a tailwind carries a paper butterfly, and sort animals into those that go and those that stay.",
+  "text": "How do animals that travel far every year find their way? In this lesson you will walk to a bowl and then try again from a new start, test how far a tailwind carries a paper butterfly, and sort animals into those that go and those that stay.",
   "art": "A world map with three dotted journey lines: an Arctic tern from the far north to Antarctica, a humpback whale from a cold sea to a warm one, and a monarch butterfly from Canada to Mexico."
  },
  "intro": {
   "hook": "Each winter, a small grey bird called a curlew sandpiper lands on a mudflat at Kodiakkarai, at the tip of Tamil Nadu. She has flown there from the far north of Russia, more than 6,000 kilometres away. Some of these birds are only a few months old. They have never seen Kodiakkarai, and no grown-up bird showed them the way. So how did they know where to go?",
-  "text": "Animals of every kind make long journeys each year: birds, whales, butterflies, dragonflies, turtles, fish, and people too. In this unit you will meet the record travellers, find out why they go, and test two ways of finding your way in your own home.",
+  "text": "Animals of every kind make long journeys each year: birds, whales, butterflies, dragonflies, turtles, fish, and people too. In this lesson you will meet the record travellers, find out why they go, and test two ways of finding your way in your own home.",
   "art": "A small grey sandpiper with a long, thin, curved beak, standing on wet mud at the edge of the sea at sunrise, with a lighthouse far behind."
  },
  "outcomes": [
@@ -1493,7 +1493,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.",
+     "do": "Help your child choose one traveller from this lesson (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.",
      "say": "Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's mark both on a map.",
      "kid": "Choose your traveller. Find both homes on the map. Mark them and join them with a line.",
      "context": "This is the first day of My Migration Book, a 3-day project about one migrating animal."
@@ -2135,7 +2135,7 @@
        "says": "We can build on the land near the road and keep the shallow water, where the birds feed, untouched."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing someone from another side would say back.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing someone from another side would say back.",
      "a": "Any side, argued with a reason from the unit, then a fair answer from another side.",
      "why": "A strong answer uses a fact from the unit: birds need stopovers and wintering grounds, and losing one can harm birds from far away. It also takes the families who need homes seriously."
     },
@@ -2298,7 +2298,7 @@
        "says": "Trackers are fine if they are very light and fall off later. Then we learn and the cranes are not harmed for long."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing someone from another side would say back.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing someone from another side would say back.",
      "a": "Any side, argued with a reason, then a fair answer from another side.",
      "why": "A strong answer weighs what we learn, which can protect the route, against the cost to each bird, and mentions how light a tracker must be."
     },

@@ -3,12 +3,12 @@
  "title": "How your body gets rid of waste: kidneys, breath and sweat",
  "level": 4,
  "summary": {
-  "text": "Your body makes waste that must leave, and kidneys give most of it back to the body first. How can a filter do that? In this unit you will find your kidneys, test what three different filters hold back, and play a sorting game on how waste leaves.",
+  "text": "Your body makes waste that must leave, and kidneys give most of it back to the body first. How can a filter do that? In this lesson you will find your kidneys, test what three different filters hold back, and play a sorting game on how waste leaves.",
   "art": "A child drinking water from a steel tumbler, with a see-through view of two bean-shaped kidneys in her lower back joined by two thin tubes to a small bladder."
  },
  "intro": {
   "hook": "You drink clear water, pale buttermilk and brown tea. Yet your urine is always some shade of yellow. Where does the yellow come from, and what else is leaving with it?",
-  "text": "Urine is made from your blood, by your two kidneys. The yellow is a waste left over when old red blood cells are broken down. Urine also carries a waste called urea, which your body makes when it uses protein. Your lungs and your skin remove waste too. In this unit you find your kidneys with your thumbs. Then you pour salty tea with flour in it through three filters. You find out what a filter can hold back, and what the kidneys must do after filtering.",
+  "text": "Urine is made from your blood, by your two kidneys. The yellow is a waste left over when old red blood cells are broken down. Urine also carries a waste called urea, which your body makes when it uses protein. Your lungs and your skin remove waste too. In this lesson you find your kidneys with your thumbs. Then you pour salty tea with flour in it through three filters. You find out what a filter can hold back, and what the kidneys must do after filtering.",
   "art": "A steel tumbler of water, a tumbler of buttermilk and a tumbler of tea in a row, with an arrow leading to a question mark coloured pale yellow."
  },
  "outcomes": [
@@ -2985,8 +2985,8 @@
  },
  "sources": {
   "founder": [
-   "The curriculum entry for this unit, which comes from the notebook's Biology list (item bio:24): kidneys clean the blood, and sweat, breath and urine are ways of removing waste. Balancing water and salt in fish and desert animals is left for sci.body.kidneys-and-waste.L5, as the curriculum says.",
-   "The notebook page for the body topic (homeostasis: Sweat Lab, Salty Sip, Thirsty Planet) was read. Its sweat and thirst ideas are already used in sci.body.keeping-balance.L3, so this unit uses new activities.",
+   "The curriculum entry for this lesson, which comes from the notebook's Biology list (item bio:24): kidneys clean the blood, and sweat, breath and urine are ways of removing waste. Balancing water and salt in fish and desert animals is left for sci.body.kidneys-and-waste.L5, as the curriculum says.",
+   "The notebook page for the body topic (homeostasis: Sweat Lab, Salty Sip, Thirsty Planet) was read. Its sweat and thirst ideas are already used in sci.body.keeping-balance.L3, so this lesson uses new activities.",
    "Other units were checked for overlap. The pee colour diary is in sci.body.keeping-balance.L3, the Hidden Water Test and the breath-holding activity are in sci.basic-needs.basic-needs.L3, and the limewater breath tests are in sci.animals.animal-bodies.L3 and sci.body.heart-blood-breath.L3. None of these is repeated here. After Two Tumblers goes beyond the colour diary by timing how soon the kidneys answer."
   ],
   "science": [
@@ -3016,7 +3016,7 @@
   "art": "A laboratory bench of the 1920s with a microscope, and a very fine glass pipette held in a brass stand above a small dish."
  },
  "roots": {
-  "context": "In this unit you poured salty tea through three filters and learned how the kidneys clean the blood. Here we ask what it means to clean something, and where a waste goes after it leaves you.",
+  "context": "In this lesson you poured salty tea through three filters and learned how the kidneys clean the blood. Here we ask what it means to clean something, and where a waste goes after it leaves you.",
   "deep_truth": {
    "truth": "In the Three Filters Test, every filter let the salt and the tea colour pass with the water. The filters in your kidneys also let salt, sugar and urea out of the blood together. Then the kidneys take back the water, salt and sugar that your body needs. Whatever they do not take back leaves as urine, even a waste your body has never met.",
    "habit": "We think of cleaning as finding the dirt and taking it out. To do that, the cleaner must know every kind of dirt. The kidneys clean the blood by knowing what the body needs, and they let everything else go.",

@@ -3,12 +3,12 @@
  "title": "Signs of life: how we tell what is alive",
  "level": 3,
  "summary": {
-  "text": "A dry moong seed does nothing, while a car moves and puffs out smoke. Yet the seed is alive and the car is not. In this unit you will test a seed, a cloud and a car against seven signs of life, wake up seeds, and blow up a balloon with yeast.",
+  "text": "A dry moong seed does nothing, while a car moves and puffs out smoke. Yet the seed is alive and the car is not. In this lesson you will test a seed, a cloud and a car against seven signs of life, wake up seeds, and blow up a balloon with yeast.",
   "art": "A child at a table with a magnifying glass, looking at three things in a row: a green moong seed, a toy car and a fluffy cloud drawn on card, with seven small icons floating above them (a plate, a puff of breath, a sprout, running feet, an ear, a drop leaving a leaf, a mother hen with a chick)."
  },
  "intro": {
   "hook": "Hold a dry moong seed in your palm. The seed does not move, does not eat and does not seem to breathe. Now push a toy car across the floor. It zooms. Which one is alive?",
-  "text": "Most people say the seed is alive. But ask them why, and it gets hard. The car moves, and the seed does not. A real car even drinks petrol, sucks in air and puffs out smoke. So what does a living thing do that a car never can? Scientists have a list of seven things to look for. In this unit you will test every one of them, on a seed, a cloud and a car.",
+  "text": "Most people say the seed is alive. But ask them why, and it gets hard. The car moves, and the seed does not. A real car even drinks petrol, sucks in air and puffs out smoke. So what does a living thing do that a car never can? Scientists have a list of seven things to look for. In this lesson you will test every one of them, on a seed, a cloud and a car.",
   "art": "A child's open palm holding one green moong seed, next to a toy car zooming across a tiled floor, with a big question mark between them."
  },
  "outcomes": [
@@ -649,7 +649,7 @@
     "Everyone chooses the sign cards they think this thing shows, and holds them up at the same time. For a living thing, count any sign it does at some time in its life.",
     "The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why. A thing can show some signs and still be never alive. A living thing does all seven over its life.",
     "Score 1 point for each sign card you held up and can explain in one sentence. The player whose turn it is also scores 2 points for a verdict with a good reason.",
-    "Anyone can challenge a verdict by giving better evidence. If the other players agree, the challenger scores the 2 points instead. If you cannot agree, put the card to one side and nobody scores for the verdict. Look it up in this unit afterwards.",
+    "Anyone can challenge a verdict by giving better evidence. If the other players agree, the challenger scores the 2 points instead. If you cannot agree, put the card to one side and nobody scores for the verdict. Look it up in this lesson afterwards.",
     "Play 12 cards, not all 24. Keep the rest for another game. The player with the most points wins. If points are equal, you share the win."
    ],
    "setup": [
@@ -738,7 +738,7 @@
      "do": "Add up the points. Then look at the three mats together.",
      "say": "Look at the ALIVE mat. What do all these things have in common?",
      "kid": "Count your points. Then look at the ALIVE mat together.",
-     "think": "Is there a card you are still not sure about? Keep it to one side. Scientists also have things they are not sure about, such as viruses. Look at that card again when you have finished this unit."
+     "think": "Is there a card you are still not sure about? Keep it to one side. Scientists also have things they are not sure about, such as viruses. Look at that card again when you have finished this lesson."
     }
    ]
   },
@@ -866,7 +866,7 @@
     "Everyone acts out each card as it is called.",
     "In round two, the caller turns over one living-thing card and one action card, and calls both, for example, 'Movement: a neem tree!'",
     "Players act out how that living thing does that sign, and say it in one sentence.",
-    "Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit.",
+    "Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this lesson.",
     "Round two ends when all 14 living-thing cards have been used once. If the card is 'A baby' and the sign is Reproduction, act out a grown-up of that kind. Then finish with the fast round."
    ],
    "setup": [
@@ -1734,7 +1734,7 @@
      "do": "Look at the first leaf every 5 minutes. Stop the timer when it is fully open again. Write down the minutes.",
      "say": "Now we wait. Plants recover slowly. Let's check every 5 minutes. Meanwhile, why do you think the plant folds their leaves?",
      "kid": "Look at the first leaf every 5 minutes. Stop the timer when it is open. Write down the minutes.",
-     "parent": "It often takes 10 to 30 minutes to open again. If the leaf is still folded after 15 minutes, leave it and look again later. In the evening, or when it is cold, the plant folds without a touch and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this unit instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
+     "parent": "It often takes 10 to 30 minutes to open again. If the leaf is still folded after 15 minutes, leave it and look again later. In the evening, or when it is cold, the plant folds without a touch and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this lesson instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
     },
     {
      "id": "s5",
@@ -2784,7 +2784,7 @@
        "says": "There are living beings in earth, water, fire and air, each with one sense, touch."
       }
      ],
-     "ask": "Which view do you agree with most? Use evidence from this unit. Then say what one of the other views gets right.",
+     "ask": "Which view do you agree with most? Use evidence from this lesson. Then say what one of the other views gets right.",
      "lines": 5,
      "a": "A strong answer uses the seven signs as evidence and is fair. For the biologists: a wire never feeds or grows. For Bose: the wire and the plant really did tire in the same way. For the Jain view: it reminds us that where we draw the line is partly a choice.",
      "why": "There is no single right answer. A strong answer weighs at least two views with evidence."

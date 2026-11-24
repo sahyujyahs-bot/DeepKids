@@ -3,7 +3,7 @@
   "title": "Testing materials: how sure can a test make us?",
   "level": 4,
   "summary": {
-    "text": "A rubber ball dropped ten times from the same height bounces to ten slightly different heights. So when a marble bounces lower, is it really worse, or is that just the usual wobble? In this unit you will drop balls again and again, plot every bounce as a dot, and test wear and secret-coded materials.",
+    "text": "A rubber ball dropped ten times from the same height bounces to ten slightly different heights. So when a marble bounces lower, is it really worse, or is that just the usual wobble? In this lesson you will drop balls again and again, plot every bounce as a dot, and test wear and secret-coded materials.",
     "art": "A kitchen floor with a ruler taped to a wall, a rubber ball at the top of its bounce, and a sheet of paper on the floor covered in rows of dots, one row for each ball."
   },
   "intro": {
@@ -2575,7 +2575,7 @@
       ],
       "general": [
         "Write the recipe as numbered steps, with every size and amount.",
-        "Draw a picture for each step, like the step pictures in this unit.",
+        "Draw a picture for each step, like the step pictures in this lesson.",
         "Add a results table to the recipe so the friend writes in the same format."
       ],
       "creative": [
@@ -2811,7 +2811,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "Each word names one idea in the unit: how far results spread, the middle of the results, a steady fault in a tool, a test that stops hopes from pushing, and a sample that shows what happens anyway."
+          "why": "Each word names one idea in the lesson: how far results spread, the middle of the results, a steady fault in a tool, a test that stops hopes from pushing, and a sample that shows what happens anyway."
         },
         {
           "t": "write",
@@ -3988,7 +3988,7 @@
     ]
   },
   "roots": {
-    "context": "In this unit you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.",
+    "context": "In this lesson you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.",
     "deep_truth": {
       "truth": "Drop one ball ten times and you get ten different heights. Often the wobble in one ball is wider than the gap between two balls. So a ball does not have one single bounce height. It has a usual way of bouncing, which shows up as a range of heights.",
       "habit": "We say 'this ball bounces 31 centimetres' or 'this paper holds 14 coins' as if one number belonged to the thing, like its colour. That leaves out the wobble every test shows.",
@@ -3999,7 +3999,7 @@
       "what_is_life": "Seeds from one packet sprout on different days, in the same pot. Because of this variation, some of a group of living beings can get through a late monsoon, a new disease or a hot summer.",
       "what_is_this_world": "Even a ball, which makes no choices, does not do exactly the same thing twice. Many tiny causes, such as a speck of dust or a slightly different touch, add up. The world repeats its patterns, but never exactly."
     },
-    "thread": "Every test in this unit gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a usual way of behaving, which shows up as a range of numbers. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the usual result, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
+    "thread": "Every test in this lesson gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a usual way of behaving, which shows up as a range of numbers. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the usual result, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
     "teachings": [
       {
         "source": "Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers)",
@@ -4056,7 +4056,7 @@
     "founder": [
       "Founder's notes in ideas/by_topic/materials-and-their-properties.md: the SCI card for Dan Shechtman (an odd result that was right, and the quarrel over it), used in the challenging view about odd results. The notes on testing sound and light through different materials, used as the idea of comparing materials by measuring.",
       "Founder's SCI card for Agnes Pockels, used in the Class 3 unit and not repeated here.",
-      "DeepKids Combined Class 4 lessons on Materials and the Class 3 unit on testing materials: the fair test, repeating, the middle value and the results table, which this unit builds on and goes beyond. No experiment or story is repeated."
+      "DeepKids Combined Class 4 lessons on Materials and the Class 3 unit on testing materials: the fair test, repeating, the middle value and the results table, which this lesson builds on and goes beyond. No experiment or story is repeated."
     ],
     "science": [
       "Oskar Pfungst, Clever Hans (The Horse of Mr. von Osten), 1907",

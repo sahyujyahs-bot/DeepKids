@@ -3,12 +3,12 @@
  "title": "Bulbs in a row and bulbs side by side: how the layout of a circuit changes what each part gets",
  "level": 4,
  "summary": {
-  "text": "Take one bulb out of a string of bulbs and either all go dark or the rest stay lit. Which, and why? In this unit you will build bulbs in a row and side by side, draw circuit diagrams, and test a bulb and an LED both ways round.",
+  "text": "Take one bulb out of a string of bulbs and either all go dark or the rest stay lit. Which, and why? In this lesson you will build bulbs in a row and side by side, draw circuit diagrams, and test a bulb and an LED both ways round.",
   "art": "Two small circuits on a table side by side: on the left two dim bulbs in one loop, on the right two bright bulbs each with its own wires to the cell holder."
  },
  "intro": {
   "hook": "Try this with a grown-up. Light one torch bulb with two AA cells. Now put a second bulb into the same loop, one after the other. Both bulbs still glow, but each one is much dimmer than the single bulb was. The cells did not change. Where did the brightness go?",
-  "text": "The way the wires are laid out decides how the push of the cells is shared between the bulbs. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747. That guess is why the arrow in every circuit diagram points the opposite way to the electrons.",
+  "text": "The way the wires are laid out decides how the push of the cells is shared between the bulbs. In this lesson you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747. That guess is why the arrow in every circuit diagram points the opposite way to the electrons.",
   "art": "A hand unscrewing one of two bulbs: in the circuit on the left both bulbs go dark, and in the circuit on the right the other bulb keeps glowing."
  },
  "outcomes": [
@@ -2038,7 +2038,7 @@
        "says": "Use small groups of bulbs in a row, and put the groups side by side."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a view and backs it with a fact, such as: a row breaks all at once, side by side stays lit, a mix saves wire and limits the damage. It also gives one fair point for another view.",
      "why": "There is no single right answer. Each wiring has a price. Series needs less wire but fails together. Parallel is steady but uses more wire and drains the cells faster.",
@@ -2505,7 +2505,7 @@
    "id": "b-kit",
    "item": "A school electric circuit kit: a holder for 2 AA cells, wires with crocodile clips, and a switch",
    "kind": "tool",
-   "why": "Every experiment in this unit needs cells in a holder and wires with clips. Stationery shops, science shops and online sellers have them, and an electrical shop sells loose wire.",
+   "why": "Every experiment in this lesson needs cells in a holder and wires with clips. Stationery shops, science shops and online sellers have them, and an electrical shop sells loose wire.",
    "url": "https://www.amazon.in/s?k=electric+circuit+kit+for+school+crocodile+clips",
    "used_in": [
     "e1",
@@ -2646,7 +2646,7 @@
    "ideas/by_topic/electricity-and-staying-safe-with-it.md: SCI Cards for Rajeshwari Chatterjee and Michael Faraday (credit and context)",
    "combined/sci-C4-electricity-and-staying-safe-with-it.json: the Class 4 combined lesson on circuits, switches and safety, used for the idea of circuit diagrams, the symbols, and the series and parallel changes. Its story is not reused",
    "Cambridge Primary Science Stage 4 Unit 6 pack (cambridge/sci-L4-06.json): coverage only on switches and on changing the number of components in a circuit. No text copied",
-   "The Class 3 unit on simple circuits, which this unit builds on: a complete loop, conductors, a switch. This unit does not repeat its tests"
+   "The Class 3 unit on simple circuits, which this lesson builds on: a complete loop, conductors, a switch. This lesson does not repeat its tests"
   ],
   "science": [
    "Franklin, B., letter to Peter Collinson, 1747, printed in Experiments and Observations on Electricity, London, 1751 (plus and minus, and the guessed direction)",
@@ -2718,7 +2718,7 @@
   ],
   "art": "A lane at night with a string of bulbs, and a soft drawn loop of light running from each bulb through the wires back to a single cell."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home, so the brightness scores below are what the physics predicts. Bulb Teams: with 2.5 volt bulbs on two fresh AA cells, one bulb is bright, two in a row glow dull orange, three in a row glow faintly or not at all, and bulbs side by side are as bright as one. The steps say what to do if nothing glows, and to score by eye in a dim room. Cells run down fast in the side-by-side layouts, so the steps say to disconnect after each test. Which Way Round: an LED lights from a CR2032 coin cell with no resistor. Never use two AA cells on an LED without a resistor. A grown-up holds the coin cell. Pencil Dimmer: this is the least certain activity. Soft pencils (4B, 6B) carry more current than hard ones. If the bulb never lights, use a softer pencil, and if the glow barely changes, use a harder one. It may need two or three tries. Fuse Test: a grown-up only, with a 9 volt battery and fine steel wool on a metal tray with water nearby. Festival String: keep the two rails apart, or the cells will short out and get hot. Facts to check before this unit goes live: Latimer's patent number and date, Poynting's paper (1884), the Böhm 2016 flytrap counting result (two touches in about 20 seconds), the 2012 grid failure figure of about 600 million people (reports say 600 to 620 million), the 2013 joining of the southern grid to the national grid, Hertha Ayrton joining the Institution of Electrical Engineers in 1899, Rajeshwari Chatterjee's dates, and the museum addresses. The three videos have no address yet.",
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home, so the brightness scores below are what the physics predicts. Bulb Teams: with 2.5 volt bulbs on two fresh AA cells, one bulb is bright, two in a row glow dull orange, three in a row glow faintly or not at all, and bulbs side by side are as bright as one. The steps say what to do if nothing glows, and to score by eye in a dim room. Cells run down fast in the side-by-side layouts, so the steps say to disconnect after each test. Which Way Round: an LED lights from a CR2032 coin cell with no resistor. Never use two AA cells on an LED without a resistor. A grown-up holds the coin cell. Pencil Dimmer: this is the least certain activity. Soft pencils (4B, 6B) carry more current than hard ones. If the bulb never lights, use a softer pencil, and if the glow barely changes, use a harder one. It may need two or three tries. Fuse Test: a grown-up only, with a 9 volt battery and fine steel wool on a metal tray with water nearby. Festival String: keep the two rails apart, or the cells will short out and get hot. Facts to check before this lesson goes live: Latimer's patent number and date, Poynting's paper (1884), the Böhm 2016 flytrap counting result (two touches in about 20 seconds), the 2012 grid failure figure of about 600 million people (reports say 600 to 620 million), the 2013 joining of the southern grid to the national grid, Hertha Ayrton joining the Institution of Electrical Engineers in 1899, Rajeshwari Chatterjee's dates, and the museum addresses. The three videos have no address yet.",
  "how_we_found_out": {
   "story": "In 1747, Benjamin Franklin in Philadelphia studied how rubbing made things pull on each other. He pictured one invisible fluid of electricity that flowed into some things and out of others. He called having too much 'plus' and too little 'minus'. He could not tell which way the fluid really moved, so he guessed that it moved from plus to minus. Everyone after him drew their arrows that way. In 1897, J. J. Thomson in Cambridge bent beams in glass tubes with magnets and charged plates. He showed the beams were tiny particles carrying the kind of charge Franklin had called minus. These are electrons. Later work showed that the moving charges in a metal wire are electrons too. So in a wire they move from minus to plus, opposite to the arrows. Engineers kept Franklin's arrow, because every diagram and rule already used it, and the sums come out right.",
   "who": "Benjamin Franklin in Philadelphia, and J. J. Thomson in Cambridge",

@@ -9,12 +9,12 @@
  ],
  "playtest": "Walked through every card, game, activity and experiment as a parent reading aloud in a flat. Fixed: the three videos had no checked address, so they are left out. The hand wash now has the same six parts everywhere. Wash Time now says who keeps a tied card and what happens with no cards. The Back Teeth Race has a paper substitute for a dice and plain wording. The tongue test schedule matches its steps and its check. The cloth test uses a new square for each place. A repeated 20-second check, a second biscuit question, a plaque fill-in and a doubled crow joke were replaced. Nothing needs to be bought.",
  "summary": {
-  "text": "After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this unit you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.",
+  "text": "After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this lesson you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.",
   "art": "A child holding a small mirror and a torch, looking at their own back teeth, with a half-eaten biscuit and a toothbrush on the table."
  },
  "intro": {
   "hook": "Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?",
-  "text": "Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this unit we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.",
+  "text": "Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this lesson we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.",
   "art": "A child with a wide-open mouth in front of a bathroom mirror, a torch lighting up their bumpy back teeth."
  },
  "outcomes": [
@@ -2029,9 +2029,9 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this unit tells the tooth-worm story instead.",
+   "ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this lesson tells the tooth-worm story instead.",
    "combined/sci-C2-health-hygiene-exercise-and-illness.json: the ideas of milk teeth and grown-up teeth, plaque bacteria making acid from sugar, and brushing twice a day with fluoride toothpaste. Its experiments and story were not reused.",
-   "The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this unit does not repeat their experiments, stories or deep truths."
+   "The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this lesson does not repeat their experiments, stories or deep truths."
   ],
   "science": [
    "Leeuwenhoek's letter to the Royal Society of 17 September 1683 describing 'animalcules' in plaque from his teeth, mixed with clean rain water.",

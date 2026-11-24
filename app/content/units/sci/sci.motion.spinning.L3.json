@@ -3,12 +3,12 @@
  "title": "Spinning tops and wheels: why a spinning top stays up",
  "level": 3,
  "summary": {
-  "text": "Why does a top fall over when it is still, but stand up when it spins? In this unit you will make coin tops with the weight at the edge or the middle, spin a coin on different floors, and play a spinning game from the mela.",
+  "text": "Why does a top fall over when it is still, but stand up when it spins? In this lesson you will make coin tops with the weight at the edge or the middle, spin a coin on different floors, and play a spinning game from the mela.",
   "art": "A wooden top spinning upright on a steel plate with a curved arrow round it and a dotted line through its middle for the axis. Beside it, the same top lying on its side, still. Behind, a small merry-go-round with a girl on the outside horse and a boy near the middle."
  },
  "intro": {
   "hook": "Try this. Stand a top, or a pencil stuck through a cardboard circle, on its point. Let go. It falls over at once. Now spin it hard and let go. It stands on the same tiny point for many seconds. Why does spinning keep it up?",
-  "text": "Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this unit you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.",
+  "text": "Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this lesson you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.",
   "art": "A child's hand letting go of a cardboard top with a pencil through it. In one picture it is falling over; in the other it is spinning upright, with a blur round the cardboard."
  },
  "outcomes": [
@@ -2303,7 +2303,7 @@
     },
     {
      "t": "write",
-     "p": "The Earth spins once a day. Its axis also slowly circles round, once in about 26,000 years. Which toy in this unit does something like that?",
+     "p": "The Earth spins once a day. Its axis also slowly circles round, once in about 26,000 years. Which toy in this lesson does something like that?",
      "lines": 3,
      "a": "A spinning top. When it leans, its axis slowly circles round. This is called precession.",
      "why": "A strong answer names precession and links it to the top's circling head."
@@ -2679,7 +2679,7 @@
    "id": "b-top",
    "item": "A wooden string top (a bambaram or lattu), with its string",
    "kind": "tool",
-   "why": "Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the unit. Toy shops, melas and Channapatna toy sellers also have them.",
+   "why": "Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the lesson. Toy shops, melas and Channapatna toy sellers also have them.",
    "url": "https://www.amazon.in/s?k=wooden+spinning+top+lattu",
    "used_in": [
     "a2",

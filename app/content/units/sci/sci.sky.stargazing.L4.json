@@ -3,12 +3,12 @@
  "title": "Reading the night sky: why the stars turn, how the Pole Star shows where you are, and how astronomers measure how far away a star is",
  "level": 4,
  "summary": {
-  "text": "The Pole Star stands about 13 degrees high in Chennai but about 29 degrees in Delhi. What does its height tell you? In this unit you will use a ball and a straw to find out, measure how far the sky turns, and judge distance with the jump of your thumb.",
+  "text": "The Pole Star stands about 13 degrees high in Chennai but about 29 degrees in Delhi. What does its height tell you? In this lesson you will use a ball and a straw to find out, measure how far the sky turns, and judge distance with the jump of your thumb.",
   "art": "A child on a terrace at night with a straw taped to a protractor, aiming at a faint star above the northern rooftops, with a long exposure of circling star trails drawn in the sky above."
  },
  "intro": {
   "hook": "On a clear night, look north and find the Saptarishi, the seven stars shaped like a ladle. Two of them, Kratu and Pulaha, point at a star called Dhruva, the Pole Star. Watch for an hour, and all the other stars swing slowly round it, like the spokes of a wheel round the hub. What is the sky turning around, and why does that one star stay still?",
-  "text": "In this unit you find out. You build a model with a ball and a straw that shows why the Pole Star stands higher in the sky the further north you go. You measure with your fist how far the stars move in an hour. You use the jump of your thumb to measure distances, which is how astronomers first measured the distance to a star. You also learn why Orion and Scorpius never share a night sky, how a star's colour shows its temperature, and how sailors crossed oceans with nothing but the stars.",
+  "text": "In this lesson you find out. You build a model with a ball and a straw that shows why the Pole Star stands higher in the sky the further north you go. You measure with your fist how far the stars move in an hour. You use the jump of your thumb to measure distances, which is how astronomers first measured the distance to a star. You also learn why Orion and Scorpius never share a night sky, how a star's colour shows its temperature, and how sailors crossed oceans with nothing but the stars.",
   "art": "A hand-drawn night sky with the seven stars of the Saptarishi, a dotted line from the two pointer stars to a lone star in the middle, and curved arrows showing other stars circling around it."
  },
  "outcomes": [
@@ -433,7 +433,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you measure how the sky turns, how high the Pole Star stands, and how the jump of a pencil shows its distance. This part asks what those measurements show about how we see.",
+  "context": "In this lesson you measure how the sky turns, how high the Pole Star stands, and how the jump of a pencil shows its distance. This part asks what those measurements show about how we see.",
   "deep_truth": {
    "truth": "In the Jump of Your Thumb experiment, you looked at a pencil with one eye and then the other, and it seemed to jump against the wall. The size of that jump told you how far away the pencil was. So a difference between two viewpoints is not a mistake to remove. It is how distance is measured. Astronomers look at a star from two places on the Earth's yearly path round the Sun, the way you used your two eyes.",
    "habit": "We often think that when two people see the same thing differently, one of them must be wrong, and that there is one correct view that does not depend on where you stand. But the difference between two views can tell us something that neither view tells us alone.",
@@ -3102,7 +3102,7 @@
   "founder": [
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook's ideas for stargazing, constellations and the moving sky, used in the Turning Sky experiment and the Year in a Room activity",
    "ideas/by_topic/space-time-and-dimensions.md: the idea that where you stand shapes what you see, used in the thumb test and in the roots",
-   "The Class 3 unit on constellations and nakshatras, which this unit builds on: star patterns seen from Earth, the nakshatras, the Moon's steps and getting used to the dark are left to it, and this unit goes on to the turning sky, the Pole Star, the seasons of the stars and the measuring of distance"
+   "The Class 3 unit on constellations and nakshatras, which this lesson builds on: star patterns seen from Earth, the nakshatras, the Moon's steps and getting used to the dark are left to it, and this lesson goes on to the turning sky, the Pole Star, the seasons of the stars and the measuring of distance"
   ],
   "science": [
    "Bessel, 'Bestimmung der Entfernung des 61sten Sterns des Schwans', Astronomische Nachrichten 16, 1838 (the first parallax of a star)",

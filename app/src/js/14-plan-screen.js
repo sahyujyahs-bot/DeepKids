@@ -470,7 +470,7 @@ function qItems(t, s) {
         ref: "les:" + u.k,
         u,
         title: chT(u),
-        sub: `${u.board === "gen" ? "DeepKids topic" : u.book} · ${sessionsFor(u)} days`,
+        sub: `${u.board === "gen" ? "DeepKids track" : u.book} · ${sessionsFor(u)} days`,
         open: `data-act="chapter" data-k="${u.k}"`,
         rm: ex.includes(u.k),
       }));

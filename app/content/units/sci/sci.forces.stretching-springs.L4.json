@@ -3,12 +3,12 @@
  "title": "Springs that keep time: stiffness, bouncing and the favourite beat",
  "level": 4,
  "summary": {
-  "text": "Hang four times the load on a spring and it bounces half as fast, but a bigger bounce does not change the time. In this unit you will time bounces fairly, find which shake builds the biggest bounce, and rank stretchy things by how stiff they are.",
+  "text": "Hang four times the load on a spring and it bounces half as fast, but a bigger bounce does not change the time. In this lesson you will time bounces fairly, find which shake builds the biggest bounce, and rank stretchy things by how stiff they are.",
   "art": "A bottle hanging from a chain of two rubber bands on a stick across two chairs, a hand at the top moving up and down, and a ruler beside the bottle showing a big bounce."
  },
  "intro": {
   "hook": "Hang a bottle on a rubber band and pull it down a little. Let go and count ten bounces. Now pull it down much further and count ten bounces again. Which takes longer, the small bounces or the big bounces?",
-  "text": "Most people guess that the big bounces take longer, because the bottle has further to go. You will find out for yourself. This is a clue to something strange about springs. They keep time. Each spring, with its load, has its own beat, and nothing you do to start it changes that beat. In this unit, you will time bounces, learn what does change the beat, and find out what happens when you push a spring in time with its beat, and out of time with it.",
+  "text": "Most people guess that the big bounces take longer, because the bottle has further to go. You will find out for yourself. This is a clue to something strange about springs. They keep time. Each spring, with its load, has its own beat, and nothing you do to start it changes that beat. In this lesson, you will time bounces, learn what does change the beat, and find out what happens when you push a spring in time with its beat, and out of time with it.",
   "art": "Two bottles on rubber bands side by side, one pulled down a little and one pulled down a lot, with a stopwatch between them."
  },
  "outcomes": [
@@ -3256,7 +3256,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/forces-and-movement.md, the energy section ('stretch a rubber band and feel the pull as stored energy', 'compress a spring and watch it push back', 'record the sound of a stretched rubber band snapping'): used in the Hot Lip activity and the explanations on stored energy",
    "Founder's notes in the same file, the section on kinds of motion ('use a spring-mass system for simple harmonic motion', 'hang a pendulum to show periodic swing'): the root of the Bounce Time test and the Favourite Beat test",
-   "The Class 3 unit on stretching and springs, which this unit builds on: the elastic limit, two bands in a row and side by side, and Hooke's rule, now taken on to stiffness numbers, bounce time, resonance, damping and fatigue. The Class 3 experiments, activities and story are not repeated"
+   "The Class 3 unit on stretching and springs, which this lesson builds on: the elastic limit, two bands in a row and side by side, and Hooke's rule, now taken on to stiffness numbers, bounce time, resonance, damping and fatigue. The Class 3 experiments, activities and story are not repeated"
   ],
   "science": [
    "Bounce time of a mass on a spring, T equals 2 pi times the square root of mass over stiffness (any university physics textbook)",

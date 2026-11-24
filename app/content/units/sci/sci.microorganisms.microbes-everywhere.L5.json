@@ -8,12 +8,12 @@
   "sci.health.hygiene.L3"
  ],
  "summary": {
-  "text": "The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this unit you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.",
+  "text": "The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this lesson you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.",
   "art": "A child sitting on the floor looking at her own forearm through a magnifying glass, with four sealed bags holding potato slices beside her."
  },
  "intro": {
   "hook": "Your forearm and the gap between your toes are less than a metre apart, and both are covered by your own skin. Yet different microbes live in each. How can one body be so many different homes?",
-  "text": "A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this unit you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.",
+  "text": "A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this lesson you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.",
   "art": "A child's body drawn as a simple map, with the forearm coloured like dry sand, the forehead shiny yellow and the toe gaps deep green."
  },
  "outcomes": [
@@ -3375,7 +3375,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/microorganisms.md: the founder's picture of single cells as whole individuals who sense, decide, signal to each other and form partnerships. It is used for the way microbes are written about as someones, for the explanation of quorum sensing, and for the Roots thread about single cells and bodies meeting again. Her SCI Cards for Lynn Margulis and Barry Marshall are used in the explanations.",
-   "combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this unit. Its roti test, curd and yeast tests and its story are not reused.",
+   "combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this lesson. Its roti test, curd and yeast tests and its story are not reused.",
    "Other units were checked so that nothing repeats: the potato slices touched by fingers and soil (microbes everywhere L2), the bread test for washed hands (hygiene L3), the Morning Coat tooth film test, the tissue blot map of the skin and the story of the ten-to-one count (cells L5), gut microbes and fibre (digestion L5), fermented foods and probiotics (helpful microbes L5). The Three Lands Test compares body places, which none of them does, and Hold the Space is new.",
    "This subtopic has no board chapter. NCERT Class 5 Chapter 3 (ncert/sci-L5-03.json) was read for coverage of 'good bacteria' only."
   ],
@@ -3445,7 +3445,7 @@
    {
     "source": "Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse)",
     "teaching": "This body is called the field. The one who knows the field is called the knower of the field.",
-    "link": "The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this unit found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.",
+    "link": "The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this lesson found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.",
     "verse": ["इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।", "एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।"],
     "verse_lang": "sa"
    },
@@ -3459,7 +3459,7 @@
    {
     "source": "John Donne, Devotions upon Emergent Occasions (1624), Meditation 17",
     "teaching": "No man is an island, entire of itself. Every man is a piece of the continent, a part of the main.",
-    "link": "Donne meant that people's lives are joined to each other. The science in this unit found that bodies are joined too. People in one home share skin microbes with each other and with their dog."
+    "link": "Donne meant that people's lives are joined to each other. The science in this lesson found that bodies are joined too. People in one home share skin microbes with each other and with their dog."
    }
   ],
   "science": [

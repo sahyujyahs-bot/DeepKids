@@ -3,12 +3,12 @@
  "title": "Living things need each other: how plants and animals help each other live",
  "level": 3,
  "summary": {
-  "text": "Why do seeds not sprout inside a tomato? In this unit you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.",
+  "text": "Why do seeds not sprout inside a tomato? In this lesson you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.",
   "art": "A ripe tomato cut open on a steel plate, a bulbul on the window sill eating a red fruit, a bee on a mustard flower, and a tiny wasp entering a peepal fig, all joined by soft dotted lines."
  },
  "intro": {
   "hook": "Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?",
-  "text": "The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this unit you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.",
+  "text": "The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this lesson you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.",
   "art": "A child's hands holding half a red tomato over a steel plate, looking closely at the seeds sitting in the green jelly."
  },
  "outcomes": [
@@ -1988,7 +1988,7 @@
        "says": "Each bee does what keeps her and her colony alive. Flowers and bees that fitted each other well left more young, so they fit more and more closely."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with a fact, such as: the bee visits to get nectar for her colony, and the pollen she carries is a side effect. It then admits a fair point from another side, such as: the flower still gets her pollen carried.",
      "why": "Scientists still argue about whether partners know they are helping. A good answer gives something true on each side."
@@ -2545,7 +2545,7 @@
    {
     "source": "Tattvartha Sutra 5.21, a Jain text by Umaswati",
     "teaching": "Parasparopagraho jivanam: living beings support and serve one another.",
-    "link": "In this unit, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.",
+    "link": "In this lesson, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.",
     "verse": ["परस्परोपग्रहो जीवानाम्"],
     "verse_lang": "sa"
    },

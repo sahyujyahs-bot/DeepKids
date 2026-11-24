@@ -3,12 +3,12 @@
  "title": "How animals learn: by trying, and by copying others",
  "level": 3,
  "summary": {
-  "text": "A young chimpanzee learns to fish for termites by watching. Do people copy only what works, or every step? In this unit you will run a fair test to see whether people copy a step that does nothing, and play a game about how animals learn.",
+  "text": "A young chimpanzee learns to fish for termites by watching. Do people copy only what works, or every step? In this lesson you will run a fair test to see whether people copy a step that does nothing, and play a game about how animals learn.",
   "art": "A child tapping the lid of a clear plastic box with a steel spoon while an adult watches. Around them, small pictures: a dog watching her owner, two crows on a railing, and a young chimpanzee watching her mother poke a stick into a termite mound."
  },
  "intro": {
   "hook": "Try this with a grown-up. Put a sweet inside a clear box and close the lid. Tap the lid twice with a spoon, then open it and take the sweet out. Put the sweet back and say, 'Your turn.' Did they tap the lid too? The tap did nothing, so why would anyone copy it?",
-  "text": "Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this unit you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.",
+  "text": "Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this lesson you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.",
   "art": "A grown-up's hand tapping the lid of a clear plastic box with a spoon, a toffee visible inside, and a child watching closely."
  },
  "outcomes": [
@@ -1945,7 +1945,7 @@
        "says": "Tell her the rules: pedal fast, look ahead, don't look down."
       }
      ],
-     "ask": "Which way of learning do you think works best for a cycle? Give a reason from this unit. Then say when one of the other ways would be better.",
+     "ask": "Which way of learning do you think works best for a cycle? Give a reason from this lesson. Then say when one of the other ways would be better.",
      "lines": 5,
      "a": "A strong answer names a way, such as trying, and gives a reason, such as 'balance is something you feel, so you must try it'. It then says when another way helps, for example watching first to see where to put your feet, as the chimpanzee daughters watched their mothers.",
      "why": "Animals use all three ways. The best one depends on the skill."
@@ -2067,7 +2067,7 @@
        "says": "Those are traditions, but people build on each other's ideas for thousands of years. Only that should be called culture."
       }
      ],
-     "ask": "Which scientist do you agree with? Give evidence from this unit. Then say what the other scientist has right.",
+     "ask": "Which scientist do you agree with? Give evidence from this lesson. Then say what the other scientist has right.",
      "lines": 6,
      "a": "A strong answer uses real examples, such as the great tits keeping their door into the next year, or people building from the wheel to the cycle. It sees that the two scientists agree on the facts and disagree about the word 'culture'.",
      "why": "This is a real debate. Both sides use true evidence."
@@ -2207,7 +2207,7 @@
      "p": "Zoos hide food in puzzle feeders. Which way of learning does a puzzle feeder help an animal use, and why?",
      "lines": 3,
      "a": "Working it out or trial and error: the animal must try and solve a new problem to get the food.",
-     "why": "A strong answer links the feeder to a way of learning from this unit."
+     "why": "A strong answer links the feeder to a way of learning from this lesson."
     }
    ]
   }
@@ -2485,7 +2485,7 @@
  },
  "sources": {
   "founder": [
-   "Founder's notebook, Biology list: items 98 to 104 (habituation; learning and cognition; classical conditioning, Pavlov; operant conditioning, Skinner; observational learning and imitation; problem-solving and tool use; animal memory). Pavlov and Thorndike are taught in sci.animals.animal-minds.L3, so this unit builds on observational learning, imitation and tool learning.",
+   "Founder's notebook, Biology list: items 98 to 104 (habituation; learning and cognition; classical conditioning, Pavlov; operant conditioning, Skinner; observational learning and imitation; problem-solving and tool use; animal memory). Pavlov and Thorndike are taught in sci.animals.animal-minds.L3, so this lesson builds on observational learning, imitation and tool learning.",
    "Curriculum entry sci.animal-behaviour.animal-learning.L3: 'Dogs learn tricks; crows solve puzzles; chimps use tools.' No board chapters are mapped.",
    "Nearby units checked so nothing repeats: sci.animals.animal-minds.L3 (thirsty crow, Clever Hans, pointing test, clap training game, Betty the crow), sci.animals.animals-around-us.L3 (Jane Goodall's first tool sighting), sci.mind.thinking-and-memory.L3."
   ],

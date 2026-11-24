@@ -3,12 +3,12 @@
  "title": "Magnetic materials: the magnet that sorts metals, even the ones it does not attract",
  "level": 4,
  "summary": {
-  "text": "A magnet ignores an aluminium can on the table, yet the can rolls after a magnet swished quickly past it. Why? In this unit you will test where a magnet sticks on kitchen steel, make a can follow a magnet, and swing a magnet over four plates to see which one stops it.",
+  "text": "A magnet ignores an aluminium can on the table, yet the can rolls after a magnet swished quickly past it. Why? In this lesson you will test where a magnet sticks on kitchen steel, make a can follow a magnet, and swing a magnet over four plates to see which one stops it.",
   "art": "An aluminium cold-drink can lying on a table rolling towards a strong magnet that is being swished past it, with a plastic bottle beside it that does not move."
  },
  "intro": {
   "hook": "Hold a magnet against an aluminium cold-drink can. Nothing happens, because aluminium is not magnetic. Now lay the can on its side and swish a strong magnet quickly past it, without touching. The can rolls after the magnet. If the can is not magnetic, what is pushing it?",
-  "text": "In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This unit goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.",
+  "text": "In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This lesson goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.",
   "art": "A hand swishing a silver magnet past an aluminium can on a wooden table, with the can starting to roll after it."
  },
  "outcomes": [
@@ -1509,7 +1509,7 @@
     }
    ],
    "record": "The notebook with the five questions and the answers, and one sentence about a way of telling metals apart that you did not know before. You may add a drawing.",
-   "context": "In this activity, you ask someone who sorts metal for a living how they tell iron, aluminium, brass and copper apart. You compare their ways with the magnet tests in this unit.",
+   "context": "In this activity, you ask someone who sorts metal for a living how they tell iron, aluminium, brass and copper apart. You compare their ways with the magnet tests in this lesson.",
    "setup": [
     {
      "art": "A child with a notebook asking questions to a scrap dealer at a shop with heaps of metal.",
@@ -1558,7 +1558,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "At home, wash hands. Compare what the sorter said with what this unit says. Which of their ways use a magnet? Which use sound, weight or colour? Which ways did they know that we did not?",
+     "do": "At home, wash hands. Compare what the sorter said with what this lesson says. Which of their ways use a magnet? Which use sound, weight or colour? Which ways did they know that we did not?",
      "say": "What did they say that you did not know? Which of their ways match what we learned about magnets? Which are completely different?",
      "kid": "What did the sorter tell you? Which ways use a magnet? Which do not?",
      "check": {
@@ -1572,7 +1572,7 @@
       "a": 0,
       "why": "Different metals and shapes ring differently when tapped. People who handle metal every day learn to hear the difference. A magnet is one way, and sound is another. 'Only magnets' comes from the mistaken idea that a magnet is the only test."
      },
-     "context": "In this step you compare the sorter's ways with the magnet tests in this unit."
+     "context": "In this step you compare the sorter's ways with the magnet tests in this lesson."
     },
     {
      "id": "s4",
@@ -1946,7 +1946,7 @@
     }
    ],
    "record": "The table of 20 kitchen things and their results, and the poster.",
-   "context": "In this project, you test twenty things in your kitchen with a magnet and make a poster of what sticks, so that the whole family can use it. It brings together what this unit says about steel, aluminium and brass.",
+   "context": "In this project, you test twenty things in your kitchen with a magnet and make a poster of what sticks, so that the whole family can use it. It brings together what this lesson says about steel, aluminium and brass.",
    "setup": [
     {
      "art": "A table with twenty rows of kitchen things and columns for guess and result.",
@@ -3535,7 +3535,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you mapped where a magnet sticks on kitchen steel, made an aluminium can follow a magnet, and swung a magnet over four plates. Now we ask what these tests tell us about materials, and about ourselves.",
+  "context": "In this lesson you mapped where a magnet sticks on kitchen steel, made an aluminium can follow a magnet, and swung a magnet over four plates. Now we ask what these tests tell us about materials, and about ourselves.",
   "deep_truth": {
    "truth": "A still magnet ignores an aluminium can. A magnet swished past it makes the can roll. So what a material does near a magnet depends on what the magnet is doing, as well as on the material.",
    "habit": "We say a material is magnetic or is not magnetic, as if that were a fixed label like its colour. But the label only reports how the material answered one test, with a still magnet.",
@@ -3604,7 +3604,7 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/materials-and-their-properties.md: the magnet test on household metals and the idea that materials show their nature when tested. Used here to go deeper: three kinds of response, steel as a family, and sorting by magnets and eddy currents",
-   "The Class 3 unit on magnetic materials, which this unit builds on and does not repeat: its sixteen-object magnet test, the brass-plate story and the court game are not used again",
+   "The Class 3 unit on magnetic materials, which this lesson builds on and does not repeat: its sixteen-object magnet test, the brass-plate story and the court game are not used again",
    "Founder's notes in ideas/by_topic/magnets.md on forces that act without touching, and the SCI Card for Michael Faraday, used for the moving magnet and induction"
   ],
   "science": [

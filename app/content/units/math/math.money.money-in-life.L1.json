@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "Which hand holds more money, A or B?",
-  "text": "Hand B holds more. Hand A has seven coins, but each one is ₹1, so that is ₹7. Hand B has only two coins, but each one is ₹5, so that is ₹10. Counting coins tells you how many coins there are. It does not tell you how much money there is. For that, you read the number on each coin and count the rupees. In this unit you will test this yourself with real coins and a plate of chana.",
+  "text": "Hand B holds more. Hand A has seven coins, but each one is ₹1, so that is ₹7. Hand B has only two coins, but each one is ₹5, so that is ₹10. Counting coins tells you how many coins there are. It does not tell you how much money there is. For that, you read the number on each coin and count the rupees. In this lesson you will test this yourself with real coins and a plate of chana.",
   "art": "Two open hands side by side, the left holding seven small silver ₹1 coins and the right holding two golden ₹5 coins.",
   "chart": {
    "type": "dots",
@@ -240,7 +240,7 @@
   {
    "concept": "Counting a heap of coins",
    "status": "defined",
-   "context": "This card shows a quick way to count the rupees in a heap of mixed coins. You need it in every game in this unit.",
+   "context": "This card shows a quick way to count the rupees in a heap of mixed coins. You need it in every game in this lesson.",
    "definition": "To count mixed coins, start with the coin of the biggest value and count on for each of the other coins.",
    "description": "Here is a worked example. You have a ₹1 coin, a ₹5 coin and two ₹2 coins. First put them in order, biggest value first: ₹5, ₹2, ₹2, ₹1. Now touch each coin and count on. Touch the ₹5 and say 5. Touch a ₹2 and say 7. Touch the next ₹2 and say 9. Touch the ₹1 and say 10. The last number you say is the amount: ₹10. Starting with the biggest coin means you count on by small steps at the end, which is easier. If you forget where you are, push each coin away as you count it. Now you try: ₹10, ₹5, ₹2.",
    "examples": [
@@ -3139,7 +3139,7 @@
    "channel": "Donut Trivia",
    "youtube": "mrCV_TiSVxE",
    "mins": 5,
-   "why": "For the child: a second look at notes and coins, made for Class 1. It also talks about paise, which this unit leaves for a later level.",
+   "why": "For the child: a second look at notes and coins, made for Class 1. It also talks about paise, which this lesson leaves for a later level.",
    "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
   },
   {
@@ -3622,7 +3622,7 @@
    {
     "source": "Tao Te Ching 33",
     "teaching": "The Tao Te Ching, an old Chinese book, says: the one who knows they have enough is rich.",
-    "link": "In this unit you asked 'Do I have enough?' and answered it by counting. Enough is not the biggest heap. It is the amount that meets the need."
+    "link": "In this lesson you asked 'Do I have enough?' and answered it by counting. Enough is not the biggest heap. It is the amount that meets the need."
    },
    {
     "source": "Thirukkural 247",

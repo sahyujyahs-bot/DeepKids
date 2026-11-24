@@ -3,12 +3,12 @@
  "title": "How plants are grouped: by the way they make new plants",
  "level": 5,
  "summary": {
-  "text": "Ferns and mosses never make a flower or a seed, yet new ones keep appearing on wet walls. How? In this unit you will fan spores and seeds to see which travel farther, split a dhania seed, and build a key and a family tree for the main plant groups.",
+  "text": "Ferns and mosses never make a flower or a seed, yet new ones keep appearing on wet walls. How? In this lesson you will fan spores and seeds to see which travel farther, split a dhania seed, and build a key and a family tree for the main plant groups.",
   "art": "A wet wall in the monsoon with green moss and a small fern in a crack, a deodar branch with a cone, and a hibiscus flower, each with a small label: spores, seeds on a cone, seeds in a fruit."
  },
  "intro": {
   "hook": "Look under the leaf of a fern, if you can find one in a pot or on an old wall. You may see rows of brown dots. A fern never makes a flower, a fruit or a seed. So how does a new fern grow?",
-  "text": "The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this unit you find out why these differences matter so much that scientists use them to group all plants.",
+  "text": "The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this lesson you find out why these differences matter so much that scientists use them to group all plants.",
   "art": "A child's hand turning over a fern leaf to show neat rows of brown dots underneath."
  },
  "outcomes": [
@@ -3280,7 +3280,7 @@
   "founder": [
    "ideas/by_topic/plants.md: the evolution timeline notes (fungi first on land, plants colonise land, plants take root, flowering plants), used for the timeline maths, the family tree activity and the open question on fungi",
    "Cambridge Primary Science Learner's Book 5, Unit 1.1 'Flowering and non-flowering plants', for coverage only",
-   "Level 3 unit of this subtopic (tree, shrub, herb, climber, creeper; Theophrastus to de Jussieu), so this unit leads on from it without repeating"
+   "Level 3 unit of this subtopic (tree, shrub, herb, climber, creeper; Theophrastus to de Jussieu), so this lesson leads on from it without repeating"
   ],
   "science": [
    "Christenhusz and Byng, Phytotaxa 2016, on the number of known plant species in the world",

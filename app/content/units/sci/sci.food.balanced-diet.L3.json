@@ -3,12 +3,12 @@
  "title": "A balanced diet: why your body needs many kinds of food",
  "level": 3,
  "summary": {
-  "text": "A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this unit you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.",
+  "text": "A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this lesson you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.",
   "art": "A steel thali seen from above, half green with poriyal and fruit, a quarter golden with rice and chapati, a quarter red-brown with dal and curd, a glass of water beside it, and faint dotted lines running from each part to a tiny glowing cell."
  },
  "intro": {
   "hook": "Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?",
-  "text": "Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
+  "text": "Almost all our food starts as plants growing in sunlight. In this lesson we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
   "art": "A girl breathing out onto her palm, a faint curl of warm breath, and inside a dotted outline of her body a tiny chapati breaking into sparkling specks that flow to her lungs."
  },
  "outcomes": [
@@ -1222,7 +1222,7 @@
        "says": "No single food is good or bad. It depends on how much you eat, and what else is on your plate."
       }
      ],
-     "ask": "Whose idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Whose idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives evidence. For example, fat helps the body take in vitamin A from carrots. Or, scientists still argue about which fats are best for the heart. It then gives a fair point from another side, and may say that the amount and the whole diet matter.",
      "why": "This is a real argument. Fat is needed, ghee helps take in some vitamins, and scientists still disagree about how much saturated fat is too much."
@@ -3593,7 +3593,7 @@
    "DeepKids HomeSchooling Track, STEM Activities websites: Exploratorium Science Snacks (links).",
    "DeepKids Combined Class 5 lesson 'Digestion: the long tube that turns a chapati into you' (app/content/combined/sci-C5-digestion.json): its enzymes-as-scissors idea, the gut microbes 'one and many' day and the Marshall and Warren voice, simplified for Class 3 in the Paper-Clip Journey (a3), the fibre and microbes card and Roots. Its story was not reused.",
    "DeepKids Combined Class 3 lesson 'Caring for the body you live in' (app/content/combined/sci-C3-health-hygiene-exercise-and-illness.json): the 'old friends' idea about microbes, used in the microbes card and Roots.",
-   "DeepKids unit sci.food.where-food-comes-from.L3: this unit builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).",
+   "DeepKids unit sci.food.where-food-comes-from.L3: this lesson builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).",
    "Cambridge Primary Science Stage 3, 2.2 'A healthy diet' and 2.3 'An unhealthy diet' (app/content/cambridge/sci-L3-02.json): coverage of food groups, the food triangle and balanced thali, water, sugar on drink labels and the paper spot test for fat (e1), and the voices of C. Gopalan, James Lind and John Yudkin."
   ],
   "science": [

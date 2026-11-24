@@ -3,12 +3,12 @@
  "title": "Our Sun: why its light warms things, and why we never look at it",
  "level": 3,
  "summary": {
-  "text": "Sunlight feels gentle on your skin, yet a magnifying glass can make paper smoke. Why? In this unit you will run the magnifying glass test with a grown-up, see whether ice melts faster on black or white paper, and make a safe picture of the Sun on your wall.",
+  "text": "Sunlight feels gentle on your skin, yet a magnifying glass can make paper smoke. Why? In this lesson you will run the magnifying glass test with a grown-up, see whether ice melts faster on black or white paper, and make a safe picture of the Sun on your wall.",
   "art": "A child on a sunny balcony holding a steel plate with a sheet of black paper, while her mother holds a magnifying glass above it and a thin thread of smoke rises from a tiny bright dot. In the sky above, the Sun is drawn as a glowing ball, with a small Earth beside it for size."
  },
  "intro": {
   "hook": "Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?",
-  "text": "The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.",
+  "text": "The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this lesson you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.",
   "art": "A girl standing half in a bright patch of sunlight on a tiled floor by a window and half in the shade, holding out both hands, one lit and one in shadow."
  },
  "outcomes": [
@@ -222,7 +222,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away eye with the Sun's light entering and meeting in one tiny dot on the retina at the back, next to a magnifying glass making a dot on paper.",
-   "context": "This card explains the rule that matters most in this unit: never look straight at the Sun, and why."
+   "context": "This card explains the rule that matters most in this lesson: never look straight at the Sun, and why."
   },
   {
    "concept": "The light we cannot see: infrared and ultraviolet",
@@ -2906,7 +2906,7 @@
   "founder": [
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row 'Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement' (light bounces and bends; visit a solar observatory; Sun salutations and sunrise music, used here as the sunlight-on-your-back practice)",
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Mária Telkes, the Sun Queen (sun ovens, used in the sun cooker challenge), Maria Mitchell (sunspot photography) and Ruby Payne-Scott (radio bursts from the Sun)",
-   "Prerequisite unit sci.sky.sun-moon-stars.L3 (built on, not repeated: the Sun as a star by distance, pinhole viewer and Cecilia Payne's story are there; this unit adds absorption, focusing, eye safety and how the Sun is not a fire)",
+   "Prerequisite unit sci.sky.sun-moon-stars.L3 (built on, not repeated: the Sun as a star by distance, pinhole viewer and Cecilia Payne's story are there; this lesson adds absorption, focusing, eye safety and how the Sun is not a fire)",
    "Neighbouring units checked so as not to repeat their tests: sci.energy.energy-around-us.L3 (water in sun and shade), sci.sky.solar-system.L3 (light spreading with distance, ice under a sunshade), sci.day-night-seasons.day-and-night.L3 (shadow stick, sundial)"
   ],
   "science": [

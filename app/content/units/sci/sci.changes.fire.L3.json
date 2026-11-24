@@ -3,12 +3,12 @@
  "title": "Fire: what a flame needs, how to stay safe, and how people learned to use it",
  "level": 3,
  "summary": {
-  "text": "A match only melts a lump of wax, yet a candle burns for hours. What is the flame really burning? In this unit you will test a candle flame, walk round your home to spot fire dangers, and learn what to do if clothes catch fire or skin gets burned.",
+  "text": "A match only melts a lump of wax, yet a candle burns for hours. What is the flame really burning? In this lesson you will test a candle flame, walk round your home to spot fire dangers, and learn what to do if clothes catch fire or skin gets burned.",
   "art": "A lit candle on a steel plate with three labels around the flame: wax for fuel, air for oxygen, and the flame's own heat, with a small matchbox beside it."
  },
  "intro": {
   "hook": "Watch with a grown-up. A candle is blown out, and a thin line of white smoke rises. A lit match is held in the smoke, a few centimetres above the wick. The flame runs down the smoke and lights the candle again, without touching it. How did the flame travel down the smoke?",
-  "text": "Fire seems to eat wood, wax and oil. But a flame is really burning gas. In this unit you test what a candle really burns. You find out the three things every fire needs, and how taking away one of them puts a fire out. You learn the fire safety rules for a home with a gas stove, lamps and crackers. And you find out how people first tamed fire, and how a scientist made a lamp that could not set fire to the gas in coal mines.",
+  "text": "Fire seems to eat wood, wax and oil. But a flame is really burning gas. In this lesson you test what a candle really burns. You find out the three things every fire needs, and how taking away one of them puts a fire out. You learn the fire safety rules for a home with a gas stove, lamps and crackers. And you find out how people first tamed fire, and how a scientist made a lamp that could not set fire to the gas in coal mines.",
   "art": "A candle just blown out, a thin white ribbon of smoke rising from the wick, and a grown-up's hand holding a lit match in the smoke above it, with a small flame running down the smoke."
  },
  "outcomes": [
@@ -1256,13 +1256,13 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Ask your child to tell you what the flame looks like, or to draw it. 2. Ask for one 'I wonder' question and write it at the top of the page.",
-     "say": "Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.",
+     "say": "Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this lesson.",
      "kid": "Tell your grown-up what the flame looks like, or draw it. What do you wonder about it?",
      "parent": "Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.",
      "think": "The candle gets shorter as it burns. Where does the wax go?"
     }
    ],
-   "context": "This is a quick starting activity. You look closely at a candle flame and write down what you wonder. You will end with a question about fire that this unit helps answer.",
+   "context": "This is a quick starting activity. You look closely at a candle flame and write down what you wonder. You will end with a question about fire that this lesson helps answer.",
    "setup": [
     {
      "art": "A child and a grown-up sitting an arm's length from a lit candle on a steel plate, watching it.",
@@ -2223,7 +2223,7 @@
        "says": "I can put the lamp on the steel plate and fill the oil. A grown-up can do the match."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5
     },
     {
@@ -2469,7 +2469,7 @@
        "says": "The mesh cools the flame so it cannot get out. Used carefully, the lamp is safe."
       }
      ],
-     "ask": "Who do you agree with most? Give evidence from this unit. Then say what one other person had right.",
+     "ask": "Who do you agree with most? Give evidence from this lesson. Then say what one other person had right.",
      "lines": 6
     },
     {
@@ -2535,7 +2535,7 @@
     },
     {
      "t": "write",
-     "p": "Many people think a candle burns its wick, like a slow fuse. Use two results from this unit to show what really burns.",
+     "p": "Many people think a candle burns its wick, like a slow fuse. Use two results from this lesson to show what really burns.",
      "a": "In The Jumping Flame, the flame lit the smoke and ran down to the wick, so wax gas burns. In Dry Wick or Oiled Wick?, the wick in oil hardly got shorter in 10 minutes, but the dry wick burned away in under a minute. So the fuel is the wax or oil, burning as a gas.",
      "why": "A strong answer uses two pieces of evidence and says what each one shows.",
      "lines": 5

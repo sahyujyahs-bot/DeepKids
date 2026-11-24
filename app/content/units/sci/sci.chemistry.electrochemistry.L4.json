@@ -3,12 +3,12 @@
  "title": "Batteries, electrolysis and rust: what happens when a metal gives away electrons",
  "level": 4,
  "summary": {
-  "text": "A lemon with two bits of metal in it can make electricity. How? In this unit you will build a lemon battery and try different pairs of metals, read the volts on batteries at home, and rust nails with a cell to see why iron rusts.",
+  "text": "A lemon with two bits of metal in it can make electricity. How? In this lesson you will build a lemon battery and try different pairs of metals, read the volts on batteries at home, and rust nails with a cell to see why iron rusts.",
   "art": "Half a lemon on a plate with a grey nail and a copper wire pushed into it, and a pair of white earphones whose plug touches the nail."
  },
  "intro": {
   "hook": "A lemon has no battery inside it. So how can a lemon make a pair of earphones crackle?",
-  "text": "A lemon alone does nothing to a pair of earphones. A lemon with two copper wires does nothing either. But a lemon with one copper wire and one zinc-coated nail makes the earphones crackle. In this unit you find out why the two metals must be different. You also make a steel nail rust in ten minutes, and split water with four AA cells. All three happen for the same reason. The cells you use are small ones, and you never use electricity from a wall socket.",
+  "text": "A lemon alone does nothing to a pair of earphones. A lemon with two copper wires does nothing either. But a lemon with one copper wire and one zinc-coated nail makes the earphones crackle. In this lesson you find out why the two metals must be different. You also make a steel nail rust in ten minutes, and split water with four AA cells. All three happen for the same reason. The cells you use are small ones, and you never use electricity from a wall socket.",
   "art": "A child with earphones in her ears touching the earphone plug to a nail that sticks out of half a lemon, looking surprised."
  },
  "outcomes": [
@@ -146,7 +146,7 @@
    "concept": "Volts say how hard a cell pushes, not how much it can give",
    "status": "defined",
    "definition": "A volt is the unit for how hard a cell pushes electrons. The number of electrons that pass each second is called the current.",
-   "description": "A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this unit uses only small cells.",
+   "description": "A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this lesson uses only small cells.",
    "examples": [
     "One lemon cell gives about 0.9 volts. Four lemon cells joined in a row give about 3.6 volts.",
     "A red LED needs about 1.8 volts and very few electrons each second, so lemons can light it.",
@@ -750,7 +750,7 @@
      "qty": 2
     },
     {
-     "item": "galvanised nails about 5 centimetres long. A galvanised nail is a steel nail with a coat of zinc, and this unit calls it a zinc nail. If you have none, fold four strips of kitchen foil, each 8 centimetres by 6, three times lengthwise",
+     "item": "galvanised nails about 5 centimetres long. A galvanised nail is a steel nail with a coat of zinc, and this lesson calls it a zinc nail. If you have none, fold four strips of kitchen foil, each 8 centimetres by 6, three times lengthwise",
      "qty": 4,
      "buy": "b-zinc"
     },
@@ -2387,7 +2387,7 @@
        "says": "The mine uses our water. Count that cost before you buy thousands of batteries."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. One reason is that splitting water and joining it again loses more than half the energy. Another is that every battery's metals must be mined.",
      "why": "Each view is partly right. A strong answer uses what the unit says about batteries and electrolysis, and takes the other costs seriously.",
      "outcome": 4
@@ -2586,7 +2586,7 @@
        "says": "A battery bus must stop for hours to charge. I need a bus that runs all day."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then say what you would measure to decide.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then say what you would measure to decide.",
      "a": "Any view with a reason. One reason is that splitting water uses more energy than the hydrogen gives back. A good measurement is how far each bus goes on the same amount of solar power.",
      "why": "Working engineers hold each of these views. A strong answer uses what electrolysis costs in energy, and suggests a fair comparison.",
      "outcome": 4
@@ -3101,7 +3101,7 @@
    "id": "b-meter",
    "item": "A small digital multimeter",
    "kind": "tool",
-   "why": "It shows the volts of each cell as a number. Everything in this unit works without one, so buy it only if you want the numbers.",
+   "why": "It shows the volts of each cell as a number. Everything in this lesson works without one, so buy it only if you want the numbers.",
    "url": "https://www.amazon.in/s?k=digital+multimeter",
    "used_in": [
     "e1",
@@ -3307,7 +3307,7 @@
   "founder": [
    "Founder's notebook, Chemistry list, the Electrochemistry items: redox reactions and half-cells, galvanic and electrolytic cells, electrolysis and corrosion, and corrosion science and coatings. The Nernst equation and electrode potentials as numbers are left for later levels. Lithium-ion cells, electroplating and the full story of Volta and Faraday are left for sci.chemistry.electrochemistry.L5, as the curriculum says.",
    "Founder's notebook, Electricity topic: 'use a lemon battery to light a LED' and 'build a potato battery'. Both are used, in the Lemon Battery test and in Not Only Lemons.",
-   "Other units were read so that nothing repeats. Split Water with a Pencil and a Battery and its bubble counts are in sci.chemistry.bonds.L3, so this unit asks a new question of split water (Give It Back). Rust Uses Up Air and the Rust Survey are in sci.changes.chemical-reactions.L4, the Rust Race with five nails is in sci.chemistry.reaction-speed.L4, and nails under oil are in sci.evolution.story-of-life.L3. The rust tests here use a cell pack and a second metal. Galvani and Volta's quarrel is told in sci.electricity.simple-circuits.L3, so the discovery story here starts after it."
+   "Other units were read so that nothing repeats. Split Water with a Pencil and a Battery and its bubble counts are in sci.chemistry.bonds.L3, so this lesson asks a new question of split water (Give It Back). Rust Uses Up Air and the Rust Survey are in sci.changes.chemical-reactions.L4, the Rust Race with five nails is in sci.chemistry.reaction-speed.L4, and nails under oil are in sci.evolution.story-of-life.L3. The rust tests here use a cell pack and a second metal. Galvani and Volta's quarrel is told in sci.electricity.simple-circuits.L3, so the discovery story here starts after it."
   ],
   "science": [
    "Volta A. (1800). On the electricity excited by the mere contact of conducting substances of different kinds. Philosophical Transactions of the Royal Society 90: 403-431.",
@@ -3337,7 +3337,7 @@
   "art": "A tall pile of grey and copper-coloured discs in a wooden frame on a table, with two wires from it dipping into a glass of water where bubbles rise from each wire."
  },
  "roots": {
-  "context": "In this unit you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.",
+  "context": "In this lesson you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.",
   "deep_truth": {
    "truth": "In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is a kind of corrosion in which the electrons are first sent through a wire.",
    "habit": "We put batteries with useful things that people make, and rust with damage and decay. They are one change. The only difference is whether the electrons pass through a wire, where they can do some work on the way.",
@@ -3353,14 +3353,14 @@
    {
     "source": "Chandogya Upanishad 6.1.6",
     "teaching": "Uddalaka tells his son that by knowing one small tool of iron, all that is made of iron is known. The different forms are only names, and the truth is that all of them are iron.",
-    "link": "The verse is about the one reality behind all things, and it uses iron as its picture. This unit found a small case of it. 'Battery', 'electrolysis' and 'rust' are three names. The passing of electrons is what all three are.",
+    "link": "The verse is about the one reality behind all things, and it uses iron as its picture. This lesson found a small case of it. 'Battery', 'electrolysis' and 'rust' are three names. The passing of electrons is what all three are.",
     "verse": ["यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं कृष्णायसमित्येव सत्यम्"],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 40",
     "teaching": "The chapter begins by saying that returning is how the Way moves.",
-    "link": "The text is about nature as a whole, and it is not about chemistry. Yet every change in this unit could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.",
+    "link": "The text is about nature as a whole, and it is not about chemistry. Yet every change in this lesson could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.",
     "verse": ["反者道之動。"],
     "verse_lang": "zh"
    },

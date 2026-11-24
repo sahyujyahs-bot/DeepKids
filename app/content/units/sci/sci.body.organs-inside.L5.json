@@ -3,12 +3,12 @@
   "title": "Organ systems: how the organs inside you share parts and work together",
   "level": 5,
   "summary": {
-    "text": "Sitting still, you can count aloud for about 20 seconds on one breath. Straight after step-ups, you manage far fewer. Your lungs have not shrunk, so why? In this unit you will time your own voice before and after exercise, share out 100 beans as blood, and sort organs into the systems they work in.",
+    "text": "Sitting still, you can count aloud for about 20 seconds on one breath. Straight after step-ups, you manage far fewer. Your lungs have not shrunk, so why? In this lesson you will time your own voice before and after exercise, share out 100 beans as blood, and sort organs into the systems they work in.",
     "art": "A girl sitting on a step with a hand on her chest, counting aloud, while her mother holds a phone stopwatch. A faint outline inside the girl shows her lungs, windpipe and voice box."
   },
   "intro": {
     "hook": "Say 'aaaa' in one long, steady sound. In the middle of it, swallow. Your voice stops, every time. Why can you not make a sound and swallow at the same moment?",
-    "text": "Your throat is one passage with two jobs. Air passes through it to the lungs, and food passes through it to the stomach. Your voice box sits at the top of the windpipe, so your voice needs the same air as your breathing. In this unit you learn the organ systems of the body and the organs in each one. You also find the places where two systems share one part. You time how long you can count on one breath, at rest and after exercise. You share out 100 beans to see where the blood goes when you run.",
+    "text": "Your throat is one passage with two jobs. Air passes through it to the lungs, and food passes through it to the stomach. Your voice box sits at the top of the windpipe, so your voice needs the same air as your breathing. In this lesson you learn the organ systems of the body and the organs in each one. You also find the places where two systems share one part. You time how long you can count on one breath, at rest and after exercise. You share out 100 beans to see where the blood goes when you run.",
     "art": "A child with two fingers resting on the front of her throat, mouth open in a long 'aaaa', with a small arrow showing the bump in her throat moving up."
   },
   "outcomes": [
@@ -161,7 +161,7 @@
       "concept": "Cells, tissues, organs and organ systems",
       "status": "defined",
       "definition": "An organ system is a group of organs that work together on one big job for the whole body.",
-      "description": "Your body is built in levels. The smallest living unit is the cell, and a grown-up has about 30 trillion of them. Cells of one kind form a tissue, such as muscle tissue or nerve tissue. Several tissues together form an organ, such as the heart. Several organs together form an organ system. Books usually list about ten systems. This unit uses nine: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone and reproductive. Doctors call the hormone system the endocrine system. The skin, hair and nails are often counted as one more system. No organ system can keep the body alive without the others.",
+      "description": "Your body is built in levels. The smallest living unit is the cell, and a grown-up has about 30 trillion of them. Cells of one kind form a tissue, such as muscle tissue or nerve tissue. Several tissues together form an organ, such as the heart. Several organs together form an organ system. Books usually list about ten systems. This lesson uses nine: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone and reproductive. Doctors call the hormone system the endocrine system. The skin, hair and nails are often counted as one more system. No organ system can keep the body alive without the others.",
       "examples": [
         "Level 1 is a cell. One example is a single heart muscle cell.",
         "Level 2 is a tissue. One example is heart muscle tissue.",
@@ -1806,7 +1806,7 @@
           "qty": 1
         },
         {
-          "item": "the picture cards in this unit, or any school book with pictures of the organs, to copy from",
+          "item": "the picture cards in this lesson, or any school book with pictures of the organs, to copy from",
           "qty": 1
         }
       ],
@@ -2412,7 +2412,7 @@
               "says": "The lists are useful either way. I need them to find out what has gone wrong."
             }
           ],
-          "ask": "Which view do you agree with most? Give a reason from this unit. Then say one thing another view has right.",
+          "ask": "Which view do you agree with most? Give a reason from this lesson. Then say one thing another view has right.",
           "a": "Any view with a reason. For example, in the card game Which System?, 10 of 24 organs belonged on two mats, which supports the philosopher. The joined tubes of the gut support the anatomist.",
           "why": "This is a real disagreement with no single winner. A strong answer uses a named organ as evidence and gives the other side a fair point.",
           "outcome": 4,
@@ -3295,7 +3295,7 @@
     "art": "A nineteenth-century laboratory bench with a glass dish holding a liver, a jug of water and a row of test tubes, and a man in a dark apron writing in a notebook."
   },
   "roots": {
-    "context": "In this unit you learned the organ systems, and you found organs that work in two systems. Here we ask what those shared parts tell us about a body.",
+    "context": "In this lesson you learned the organ systems, and you found organs that work in two systems. Here we ask what those shared parts tell us about a body.",
     "deep_truth": {
       "truth": "In the One Breath Count, you could count for far less time straight after the step-ups. Your voice and your breathing use the same stream of air, so your voice had to wait. Your throat is shared too, by air and by food. So one body part can work in two systems, and the two must take turns.",
       "habit": "We learn the organ systems as separate lists, as if each organ belonged to one list only. People made the lists, to make the body easier to study. The body uses one throat for air and food, and one stream of air for breathing and speaking.",
@@ -3318,7 +3318,7 @@
       {
         "source": "Marcus Aurelius, Meditations, Book 2, section 1",
         "teaching": "We were born to work together, like the feet, the hands, the eyelids, and the rows of upper and lower teeth.",
-        "link": "He was writing about how people should treat each other. He chose the body as his example of parts that need one another. This unit shows that his example holds. No organ system can keep a body alive without the others.",
+        "link": "He was writing about how people should treat each other. He chose the body as his example of parts that need one another. This lesson shows that his example holds. No organ system can keep a body alive without the others.",
         "verse": ["γεγόναμεν γὰρ πρὸς συνεργίαν ὡς πόδες, ὡς χεῖρες, ὡς βλέφαρα, ὡς οἱ στοῖχοι τῶν ἄνω καὶ κάτω ὀδόντων."],
         "verse_lang": "grc"
       }

@@ -3,7 +3,7 @@
  "title": "Weight and mass: what a scale really measures",
  "level": 3,
  "summary": {
-  "text": "A bottle of water with holes stops leaking while it falls, even though gravity still pulls on it. Why? In this unit you will weigh things with a forcemeter, weigh a stone in water, hang a forcemeter in a lift, and find out who is really holding you up.",
+  "text": "A bottle of water with holes stops leaking while it falls, even though gravity still pulls on it. Why? In this lesson you will weigh things with a forcemeter, weigh a stone in water, hang a forcemeter in a lift, and find out who is really holding you up.",
   "art": "A child standing on a bathroom scale, with a long arrow from the child down to the centre of the Earth labelled 'pull', and a short arrow from the floor up into the child's feet labelled 'push'."
  },
  "intro": {
@@ -154,7 +154,7 @@
    "concept": "Weight is the pull of gravity",
    "status": "defined",
    "definition": "Weight is the pull of the Earth's gravity on a thing. It is a force, so it is measured in newtons.",
-   "description": "Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. How a forcemeter works is explained in the unit on measuring forces. This unit is about what a forcemeter measures.",
+   "description": "Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. How a forcemeter works is explained in the lesson on measuring forces. This lesson is about what a forcemeter measures.",
    "examples": [
     "A mango drops from the tree because the Earth pulls the mango.",
     "A heavy school bag pulls down on your shoulders.",
@@ -215,7 +215,7 @@
    "concept": "Mass and weight are not the same",
    "status": "defined",
    "definition": "Mass is how much matter a thing has. Weight is how hard gravity pulls on that matter. Mass is measured in kilograms. Weight is measured in newtons.",
-   "description": "In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. A later card in this unit shows what you would weigh on other planets.",
+   "description": "In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. A later card in this lesson shows what you would weigh on other planets.",
    "examples": [
     "A kilogram of cotton and a kilogram of iron have the same mass. On Earth, they also have the same weight. The cotton just takes up much more space.",
     "An astronaut's mass is the same on the Moon. Her weight there is about one sixth of her weight on Earth.",
@@ -373,7 +373,7 @@
    "concept": "Astronauts float, but gravity is still there",
    "status": "defined",
    "definition": "Astronauts float in the International Space Station because they and the station are falling together, all the time. Gravity up there is still about 90 out of every 100 parts as strong as on the ground.",
-   "description": "The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next unit, on orbits, explains this falling round and missing.",
+   "description": "The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next lesson, on orbits, explains this falling round and missing.",
    "examples": [
     "Kalpana Chawla, from Karnal in Haryana, flew in space in 1997. She became the first woman of Indian origin in space.",
     "Astronauts drink from pouches with straws. Water will not pour out of a glass up there. It floats out in wobbly balls."
@@ -3598,7 +3598,7 @@
    "youtube": "XRr1kaXKBsU",
    "mins": 17,
    "why": "For the parent, and curious older children. It explains why a falling person feels weightless. It also shows Einstein's idea that the floor's push is what we feel as weight. It links to the three meanings of weight.",
-   "check": "Watch the first 10 minutes. The end goes further than this unit needs."
+   "check": "Watch the first 10 minutes. The end goes further than this lesson needs."
   },
   {
    "title": "A tour of the International Space Station, with Sunita Williams",

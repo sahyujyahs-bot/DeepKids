@@ -3,12 +3,12 @@
  "title": "Sun, Moon and stars: what lights and warms our sky",
  "level": 1,
  "summary": {
-  "text": "Where do the stars go in the daytime? In this unit you will look at the sky from a window, test stars hiding in daylight with a torch, see which ice cube melts first in sun or shade, and sort cards into day sky and night sky.",
+  "text": "Where do the stars go in the daytime? In this lesson you will look at the sky from a window, test stars hiding in daylight with a torch, see which ice cube melts first in sun or shade, and sort cards into day sky and night sky.",
   "art": "A sky split in two: on the left a bright blue day sky with the Sun and a girl warming her hands at a window, on the right a dark night sky with a half Moon and many small stars over a block of flats."
  },
  "intro": {
   "hook": "Hold your hand in a patch of sunshine for a slow count of twenty. Now hold it in the shade. What do you feel?",
-  "text": "In the sunshine your hand gets warm. In the shade it stays cooler. The Sun is very, very far away, but its light still reaches your hand and warms it. At night that sunlight is gone from our sky, and the Moon and the stars show up. But where are the stars in the daytime? In this unit you find out.",
+  "text": "In the sunshine your hand gets warm. In the shade it stays cooler. The Sun is very, very far away, but its light still reaches your hand and warms it. At night that sunlight is gone from our sky, and the Moon and the stars show up. But where are the stars in the daytime? In this lesson you find out.",
   "art": "A child's hand held in a bright patch of sunlight on a tiled floor by a window, and the same hand in the shade next to it.",
   "parent": "If no sunlight comes into your home, stand at a window or on a balcony in the day and let your child feel the sunlit glass or railing, and then a shaded part. Never let your child look straight at the Sun."
  },
@@ -1981,7 +1981,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the founder's notes on tracking the Sun and the circle dance for the Sun's daily path fed the Sun Up, Sun Down moving game. Her deeper grids (galaxies, the expansion of the universe) and her scientist cards (Khana, Williamina Fleming, Wang Zhenyi) belong to later levels.",
-   "Curriculum entry sci.sky.sun-moon-stars.L1 (The Sun gives light and heat; the Moon and stars at night). No board chapter is listed for this level. The Level 3 unit goes on to why the Sun is a star and the stars look small, the Moon's reflected light in a model, and pinhole Sun viewing, so this unit does not repeat those experiments. The Level 1 light sources unit already teaches that the Sun is a star and what a light source is."
+   "Curriculum entry sci.sky.sun-moon-stars.L1 (The Sun gives light and heat; the Moon and stars at night). No board chapter is listed for this level. The Level 3 unit goes on to why the Sun is a star and the stars look small, the Moon's reflected light in a model, and pinhole Sun viewing, so this lesson does not repeat those experiments. The Level 1 light sources unit already teaches that the Sun is a star and what a light source is."
   ],
   "science": [
    "The day sky is bright because air scatters sunlight (Rayleigh scattering), which hides the much fainter starlight. During totality in a total solar eclipse, bright stars and planets become visible.",

@@ -3,12 +3,12 @@
  "title": "Liquids up close: why water pushes harder the deeper you go",
  "level": 4,
  "summary": {
-  "text": "Poke three holes in a bottle of water and the lowest hole squirts the farthest. Why does water push harder the deeper you go? In this unit you will test three jets, find how a push spreads through water, and mark a level line along a wall with a hose.",
+  "text": "Poke three holes in a bottle of water and the lowest hole squirts the farthest. Why does water push harder the deeper you go? In this lesson you will test three jets, find how a push spreads through water, and mark a level line along a wall with a hose.",
   "art": "A plastic bottle on a stool in a bathroom with three jets of water arching from three holes at different heights, the lowest jet landing farthest."
  },
  "intro": {
   "hook": "Poke three holes in a plastic bottle, one near the top, one in the middle and one near the bottom. Fill the bottle with water. All three jets start at once. Which one will squirt the farthest?",
-  "text": "Many people guess the top hole, because it is higher. The answer comes from something you cannot see: the push that water makes on everything it touches. In this unit you measure that push with a bottle, and with a hose that is longer than a room. You find out why the push grows with depth, why it does not depend on how much water there is, and why the water in a hose always settles to the same level. You also build a machine from two syringes, and see why the top-floor tap runs slowly and why a dam is thickest at the bottom.",
+  "text": "Many people guess the top hole, because it is higher. The answer comes from something you cannot see: the push that water makes on everything it touches. In this lesson you measure that push with a bottle, and with a hose that is longer than a room. You find out why the push grows with depth, why it does not depend on how much water there is, and why the water in a hose always settles to the same level. You also build a machine from two syringes, and see why the top-floor tap runs slowly and why a dam is thickest at the bottom.",
   "art": "A child crouching beside a stool in a bathroom, watching three arcs of water from a plastic bottle land on a strip of wet newspaper."
  },
  "outcomes": [
@@ -3029,7 +3029,7 @@
   "founder": [
    "ideas/by_topic/forces-and-movement.md: a drama about a dam holding back water, a visit to a hydroelectric dam and pressure and buoyant forces, used for the dam activity and the spotted items",
    "ideas/by_topic/matter-and-particles.md: matter as particles that attract each other in different ways, used for the particle picture of a liquid",
-   "The Class 3 unit on liquids up close, which this unit builds on: viscosity and surface tension, now extended to the push of a liquid at depth, levels and hydraulics",
+   "The Class 3 unit on liquids up close, which this lesson builds on: viscosity and surface tension, now extended to the push of a liquid at depth, levels and hydraulics",
    "Neighbour units floating-and-sinking and plants water-transport, which are built on and not repeated: density and weight, and how water climbs a plant, are left there"
   ],
   "science": [
@@ -3045,7 +3045,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you measure the push of water at different depths, and watch water find its level in a hose. One rule is behind both: a spot in water is pushed only by the water above it. This part looks at that rule, and at where it shows up in your own body.",
+  "context": "In this lesson you measure the push of water at different depths, and watch water find its level in a hose. One rule is behind both: a spot in water is pushed only by the water above it. This part looks at that rule, and at where it shows up in your own body.",
   "deep_truth": {
    "truth": "In the Three Jets experiment, the lowest hole squirted farthest, though all three holes were in the same bottle of water. In the Same Level experiment, the water stood at the same height in the thin hose and in the wide funnel. A spot in water is pushed only by the water above it. How much water lies around it makes no difference.",
    "habit": "We think more water means more push, so that a big tank beats a small one and a wide lake beats a thin tube. The Three Jets and Same Level experiments show that depth matters, and the amount does not.",

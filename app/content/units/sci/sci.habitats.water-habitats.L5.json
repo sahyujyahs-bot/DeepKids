@@ -3,12 +3,12 @@
  "title": "Life in water: lakes, rivers and the deep sea, and where their light and food come from",
  "level": 5,
  "summary": {
-  "text": "Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this unit you will lower a white disc into cloudy water to see how fast light fades, and follow the Kaveri from the hills to the sea.",
+  "text": "Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this lesson you will lower a white disc into cloudy water to see how fast light fades, and follow the Kaveri from the hills to the sea.",
   "art": "A cut-away side view of water from a hill stream on the left, through a lake and a wide river, to a deep dark sea on the right with small glowing animals near the bottom."
  },
  "intro": {
   "hook": "The Ganga river dolphin's eyes have no lens. She can tell light from dark, and that is all. Yet she catches fast fish every day in water as brown as tea. How does she find them?",
-  "text": "She uses sound. She makes quick clicks and listens for the echoes that come back from fish, sandbanks and boats. Her river is full of fine mud, and light cannot pass far through muddy water. Eyes are of little use there, so her kind came to depend on ears. Light fades in clear water too, only more slowly. Even in the clearest sea, the water below about 200 metres is too dim for any plant to grow. Most of the sea is much deeper than that. In this unit you measure how light fades in water. Then you find out what that means for everyone who lives in a lake, a river or the deep sea.",
+  "text": "She uses sound. She makes quick clicks and listens for the echoes that come back from fish, sandbanks and boats. Her river is full of fine mud, and light cannot pass far through muddy water. Eyes are of little use there, so her kind came to depend on ears. Light fades in clear water too, only more slowly. Even in the clearest sea, the water below about 200 metres is too dim for any plant to grow. Most of the sea is much deeper than that. In this lesson you measure how light fades in water. Then you find out what that means for everyone who lives in a lake, a river or the deep sea.",
   "art": "A grey-brown river dolphin with a long thin snout and tiny eyes swimming on her side in muddy brown water, with faint rings of sound spreading from her head towards a small fish."
  },
  "outcomes": [
@@ -2020,7 +2020,7 @@
      "id": "s3",
      "mins": 15,
      "do": "On page 3 your child writes six living beings of the place on small slips of paper, from yesterday's notes. They lay the slips on the floor so that each food sits next to the one who eats it. They stick them on the page, or take a photo. Then they circle any food that comes from outside the water.",
-     "say": "Who lives here? Who eats whom? Now think of this unit. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?",
+     "say": "Who lives here? Who eats whom? Now think of this lesson. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?",
      "kid": "Write six living beings of your place on slips. Lay each food next to who eats it. Circle the food that comes from outside.",
      "ask": [
       {
@@ -3583,7 +3583,7 @@
   "art": "Sailors on the deck of an old sailing ship emptying a dredge net of starfish and sea lilies onto the planks while a man in a long coat bends to look."
  },
  "roots": {
-  "context": "In this unit you watched light fade in cloudy water, and you followed food from the top of the sea to the bottom. Here we ask what that says about where any home ends.",
+  "context": "In this lesson you watched light fade in cloudy water, and you followed food from the top of the sea to the bottom. Here we ask what that says about where any home ends.",
   "deep_truth": {
    "truth": "In the Vanishing Disc Test, a few spoons of milk hid the disc one hand's depth down. Light fades fast in water, so food can be made only near the top. Yet fish live at the bottom of the deepest lake and sea. They eat food that was made far above and sank to them. So most of a water home is fed from somewhere else.",
    "habit": "We think of a habitat as a place with edges that looks after itself: this pond, this river, the deep sea. But the deep sea eats what the surface made, and a hill stream eats leaves from the forest. A habitat's food and oxygen often come from outside its edges.",
@@ -3599,7 +3599,7 @@
    {
     "source": "Chandogya Upanishad 6.10",
     "teaching": "The teacher Uddalaka tells his son that the rivers of the east flow east and the rivers of the west flow west. They rise from the sea and go back to the sea, and become the sea. There, they do not know 'I am this river' or 'I am that river'.",
-    "link": "This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this unit the science is plainer. The mud, the food and the fish of a river really do become part of the sea.",
+    "link": "This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this lesson the science is plainer. The mud, the food and the fish of a river really do become part of the sea.",
     "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
     "verse_lang": "sa"
    },

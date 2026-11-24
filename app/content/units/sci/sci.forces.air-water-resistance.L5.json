@@ -3,12 +3,12 @@
  "title": "Air resistance, water resistance and upthrust: what slows a thing down, and what holds it up",
  "level": 5,
  "summary": {
-  "text": "A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this unit you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.",
+  "text": "A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this lesson you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.",
   "art": "A plastic lunch box full of rice floating in a bucket, pulled by a thread that runs over the rim to one hanging paper clip, beside the same box on a table pulled by a hanging cup of rice."
  },
  "intro": {
   "hook": "A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.",
-  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
+  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this lesson you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
   "art": "A child looking at a rice-filled lunch box floating in a bucket, holding up one paper clip on a thread, with a question mark above the bucket."
  },
  "outcomes": [
@@ -1686,7 +1686,7 @@
    "title": "Balanced or Not? Draw the forces on six things",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you show the forces on six things from this unit, with paper-strip arrows or a drawing. Some rest on a table, some float, some sink and one falls. For each one you say whether the forces are balanced. You will find out what is the same about every balanced thing.",
+   "context": "In this activity you show the forces on six things from this lesson, with paper-strip arrows or a drawing. Some rest on a table, some float, some sink and one falls. For each one you say whether the forces are balanced. You will find out what is the same about every balanced thing.",
    "materials": [
     {
      "item": "a notebook, a pencil and a ruler",
@@ -2709,7 +2709,7 @@
        "says": "Drag is different. It is zero on a still boat, and it grows with speed, not with weight."
       }
      ],
-     "ask": "Pick a side. Give two pieces of evidence from this unit. Then say what the other side has right.",
+     "ask": "Pick a side. Give two pieces of evidence from this lesson. Then say what the other side has right.",
      "lines": 5,
      "outcome": 1
     },
@@ -3593,7 +3593,7 @@
    "Founder's notes in ideas/by_topic/forces-and-movement.md, 'Concept activities: Buoyant Force' and 'Drag & Lift': float objects to test buoyancy, run with an umbrella to feel drag, make a simple parachute, and the thought 'resistance and support come from the same medium; motion shapes the forces we feel'. Used in Three Bottles, Newspaper on Your Chest, A Hole in the Parachute, the Parachute Trial and the roots.",
    "Founder's notebook items phy:179 (buoyant force) and phy:180 (drag, lift), and the Air Resistance activities 'drop crumpled and normal paper' and 'make a paper parachute'.",
    "Cambridge Primary Science Learner's Book 5, Unit 5.3 'Friction, air resistance, water resistance and upthrust', for coverage only: the four forces, force diagrams, the race of clay shapes through water, and the fair test of two parachutes with repeats and a mean.",
-   "The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This unit's parachute test changes the vent, which none of them tests."
+   "The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This lesson's parachute test changes the vent, which none of them tests."
   ],
   "science": [
    "Archimedes, On Floating Bodies, about 250 BCE (the upthrust on a body equals the weight of the fluid it displaces)",
@@ -3679,5 +3679,5 @@
   ],
   "art": "A child sitting beside a bucket with one hand resting loosely in the water, eyes closed, with a small arrow under the hand pointing up."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. Table or Tub (core) needs a light plastic lunch box, raw rice, thread, a bucket and a few paper clips. The number of spoons depends on your table and your box. Expect about 4 to 9 spoons for one katori and about twice as many for two. One paper clip should start the floating box within a few seconds. If it does not, dry the thread and the rim. Start the box in the middle of the bucket and switch off the fan. The Sinking Race (core) uses stiff atta dough. Dough with air in it floats, so knead it well. The ball and the carrot sink in under a second, so they are raced side by side and not timed. Only the pancake is slow enough for a stopwatch. A Hole in the Parachute (core) needs a grown-up to cut and to drop. Small polythene parachutes vary a lot from drop to drop. A small vent usually steadies the fall. With a canopy this small, the difference in landing place can be slight. The unit asks the child to report honestly if the means are too close to tell apart. Three Bottles and the Bag of Water wet the floor, so do them in the bathroom. In the Bag of Water, squeeze every bubble of air out of the bag, or it will float. Newspaper on Your Chest needs about 5 metres of clear floor and still air. The Quiet Dive wets several sheets of newspaper. Watch a Bird Land depends on a bird arriving, so you may need a second try at dawn or dusk. No part needs a garden. Facts checked on 17 Nov 2026 against NASA/JPL, ESA, ISRO, Crossref and the Clay Mathematics Institute: the Garnerin and Labrosse dates, the Perseverance, Huygens and Chandrayaan-3 dates, the Perseverance parachute width, the 2000 prize, the journal citations and the museum and PhET links. Softened: the height and cloth of Garnerin's parachute, Lalande's vent (said to be his idea) and the Navier-Stokes prize, which has a claimed answer being checked. The rest of the playtest notes (amounts, floating garden, round figures, paraphrases) stand."
+ "playtest": "The experiments and activities in this lesson were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. Table or Tub (core) needs a light plastic lunch box, raw rice, thread, a bucket and a few paper clips. The number of spoons depends on your table and your box. Expect about 4 to 9 spoons for one katori and about twice as many for two. One paper clip should start the floating box within a few seconds. If it does not, dry the thread and the rim. Start the box in the middle of the bucket and switch off the fan. The Sinking Race (core) uses stiff atta dough. Dough with air in it floats, so knead it well. The ball and the carrot sink in under a second, so they are raced side by side and not timed. Only the pancake is slow enough for a stopwatch. A Hole in the Parachute (core) needs a grown-up to cut and to drop. Small polythene parachutes vary a lot from drop to drop. A small vent usually steadies the fall. With a canopy this small, the difference in landing place can be slight. The unit asks the child to report honestly if the means are too close to tell apart. Three Bottles and the Bag of Water wet the floor, so do them in the bathroom. In the Bag of Water, squeeze every bubble of air out of the bag, or it will float. Newspaper on Your Chest needs about 5 metres of clear floor and still air. The Quiet Dive wets several sheets of newspaper. Watch a Bird Land depends on a bird arriving, so you may need a second try at dawn or dusk. No part needs a garden. Facts checked on 17 Nov 2026 against NASA/JPL, ESA, ISRO, Crossref and the Clay Mathematics Institute: the Garnerin and Labrosse dates, the Perseverance, Huygens and Chandrayaan-3 dates, the Perseverance parachute width, the 2000 prize, the journal citations and the museum and PhET links. Softened: the height and cloth of Garnerin's parachute, Lalande's vent (said to be his idea) and the Navier-Stokes prize, which has a claimed answer being checked. The rest of the playtest notes (amounts, floating garden, round figures, paraphrases) stand."
 }

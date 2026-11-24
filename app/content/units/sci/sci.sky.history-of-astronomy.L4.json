@@ -3,12 +3,12 @@
  "title": "History of astronomy: how people changed their minds about who moves, the Earth or the sky",
  "level": 4,
  "summary": {
-  "text": "In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this unit you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.",
+  "text": "In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this lesson you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.",
   "art": "A child in a swivel chair with her eyes shut in the middle of a room, and around the walls faint pictures of a Jaipur stone sundial, a telescope, a brass quadrant and a planet making a loop among the stars."
  },
  "intro": {
   "hook": "Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?",
-  "text": "For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this unit you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.",
+  "text": "For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this lesson you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.",
   "art": "A girl on a swivel chair with a scarf over her eyes, a parent holding the back of the chair, and sheets of paper stuck on the walls all around the room."
  },
  "outcomes": [
@@ -2449,7 +2449,7 @@
        "says": "Both matter. Use the better tables for work, and keep testing the new idea to see if it explains more."
       }
      ],
-     "ask": "Which person do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
+     "ask": "Which person do you agree with most? Give a reason from this lesson. Then say one thing that another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, such as the idea explaining loops simply, or the lack of any star shift. It then admits a fair point from another side.",
      "why": "This is a real question about how to treat new ideas that are not yet proved. Each view has a good point.",
@@ -2706,7 +2706,7 @@
        "says": "Before choosing, test the readings again. If they hold up, the circle must go, however beautiful it is."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing that another person has right.",
      "lines": 5,
      "a": "A strong answer uses Kepler and the 8 arcminutes: the readings had been tested and were more reliable than the circle. It then admits that a difference can sometimes be a mistake, so the readings should be checked first.",
      "why": "This is how Kepler decided. It balances trust in careful measurement against love of a beautiful idea.",
@@ -3512,8 +3512,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the topic's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named",
-   "Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this unit goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here",
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the idea's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named",
+   "Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this lesson goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here",
    "Checked against the nearby units so nothing repeats: the lamp-and-ball test is about Venus and two models (the Moon phases units use a lamp for the Moon), and the two-viewpoint idea of parallax is only named here, since the stargazing unit tests it"
   ],
   "science": [

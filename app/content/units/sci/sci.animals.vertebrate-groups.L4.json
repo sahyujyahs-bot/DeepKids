@@ -4,12 +4,12 @@
  "level": 4,
  "cards_mins": 20,
  "summary": {
-  "text": "A fish can feel ripples with her skin, and some snakes can sense the heat of a mouse. Do all animals sense the same world? In this unit you will test how far round you can see, feel ripples with your hands, and guess an animal group from its sense.",
+  "text": "A fish can feel ripples with her skin, and some snakes can sense the heat of a mouse. Do all animals sense the same world? In this lesson you will test how far round you can see, feel ripples with your hands, and guess an animal group from its sense.",
   "art": "A pond at dusk with five animals around it: a fish under the surface with faint ripple lines reaching her sides, a python on a branch with glowing heat pits on her lips, a pigeon on a wall with a faint rainbow halo around her eyes, a frog on a leaf with a round eardrum, and a dog with a nose lifted into a visible scent trail."
  },
  "intro": {
   "hook": "A barn owl sits on a beam in a granary with every light switched off. She hears a rat nibble ragi on the floor, drops silently, and catches him. She never needed to see him. How can an animal hunt well in complete darkness, and what other senses do animals have that we do not?",
-  "text": "People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this unit you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.",
+  "text": "People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this lesson you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.",
   "art": "A dark granary with a barn owl on a beam, her heart-shaped face turned towards a small rat on the floor, and faint curved sound lines going from the rat to the owl's ears."
  },
  "outcomes": [
@@ -3100,8 +3100,8 @@
   "founder": [
    "Founder's notebook items bio:28 to bio:31 and bio:178 (fish, amphibians, reptiles, birds and mammals), used as the unit's outline",
    "Founder's picture of a bee seeing a red fruit as black and ultraviolet while a child sees red (PHILOSOPHY.md), used in the big questions, the deep truth and the open questions",
-   "The Combined lesson sci-C3-senses (animal senses we do not have, and each animal's own sense-world), which this unit builds on and goes deeper into, without reusing its story",
-   "The Class 3 vertebrate-groups unit (breathing, warmth and young), which this unit follows on from without repeating its experiments"
+   "The Combined lesson sci-C3-senses (animal senses we do not have, and each animal's own sense-world), which this lesson builds on and goes deeper into, without reusing its story",
+   "The Class 3 vertebrate-groups unit (breathing, warmth and young), which this lesson follows on from without repeating its experiments"
   ],
   "science": [
    "Spallanzani, L., experiments on bats, 1793, and Griffin, D. R. and Galambos, R., 'The sensory basis of obstacle avoidance by flying bats', Journal of Experimental Zoology, 1941 (echolocation)",

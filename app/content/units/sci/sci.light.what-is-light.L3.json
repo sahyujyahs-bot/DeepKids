@@ -3,12 +3,12 @@
  "title": "What is light, and how fast does it travel?",
  "level": 3,
  "summary": {
-  "text": "The sunlight you see right now left the Sun about 8 minutes ago. How do we know light takes time to travel? In this unit you will test what you notice about light, work out how old some light is, and act out how Rømer found a late moon.",
+  "text": "The sunlight you see right now left the Sun about 8 minutes ago. How do we know light takes time to travel? In this lesson you will test what you notice about light, work out how old some light is, and act out how Rømer found a late moon.",
   "art": "A beam of sunlight going from the Sun to a child's face in an Indian courtyard, with a small clock beside the beam showing 8 minutes, and the beam drawn half as a wavy line and half as a row of tiny dots."
  },
  "intro": {
   "hook": "Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?",
-  "text": "It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.",
+  "text": "It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this lesson, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.",
   "art": "A child in a dark room pointing a torch at a far wall, a question mark hanging in the beam between the torch and the bright circle."
  },
  "outcomes": [
@@ -1096,7 +1096,7 @@
        "says": "Light is like water poured out of the bulb. It flows out and fills the whole room."
       }
      ],
-     "ask": "Which picture fits best with what you saw in this unit? Give one piece of evidence. Then say one thing another picture gets right.",
+     "ask": "Which picture fits best with what you saw in this lesson? Give one piece of evidence. Then say one thing another picture gets right.",
      "lines": 5,
      "a": "A strong answer picks a picture and backs it with evidence. Sharp shadows and the Glow Star Test fit the tiny balls. Ripples that add up and cancel out, as in the Ripples in an Uruli activity, fit the ripples. It then says what another picture gets right. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.",
      "why": "There is no single right answer. Each picture explains some things about light and not others. Scientists argued about this for hundreds of years."
@@ -1169,7 +1169,7 @@
        "says": "Light moves. It has a speed, and it goes slower through thicker materials like water and glass."
       }
      ],
-     "ask": "Imagine you live before anyone has measured light. Whose idea would you back? Give a reason from this unit. Then say why Aristotle's idea seemed sensible to people at the time.",
+     "ask": "Imagine you live before anyone has measured light. Whose idea would you back? Give a reason from this lesson. Then say why Aristotle's idea seemed sensible to people at the time.",
      "lines": 5,
      "a": "A strong answer picks an idea and gives evidence, for example that light slows down in water, which only makes sense if light is moving. It then treats Aristotle fairly: when you light a lamp, the whole room seems to brighten at once, and nobody could see a delay. The best answers say that 'too fast to notice' and 'instant' look exactly the same until you can measure.",
      "why": "All three were careful thinkers. Without a measurement, the evidence could not decide. Rømer's measurement in 1676 finally settled it."
@@ -3524,7 +3524,7 @@
    {
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",
     "teaching": "King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light.",
-    "link": "This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?",
+    "link": "This lesson follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?",
     "verse": ["याज्ञवल्क्य किंज्योतिरयं पुरुष इति", "आदित्यज्योतिः सम्राडिति होवाच", "अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति", "चन्द्रमा एवास्य ज्योतिर्भवतीति", "आत्मैवास्य ज्योतिर्भवतीति"],
     "verse_lang": "sa"
    },

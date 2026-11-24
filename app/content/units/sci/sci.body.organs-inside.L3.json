@@ -3,12 +3,12 @@
  "title": "Organs inside you: where they sit and what they do",
  "level": 3,
  "summary": {
-  "text": "Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this unit you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.",
+  "text": "Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this lesson you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.",
   "art": "A friendly see-through outline of a child, showing a pink brain in the head, two spongy lungs and a red fist-sized heart in the chest, and a J-shaped stomach under the left ribs."
  },
  "intro": {
   "hook": "Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?",
-  "text": "Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this unit you find out where each organ sits, what it does and how the organs help each other.",
+  "text": "Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this lesson you find out where each organ sits, what it does and how the organs help each other.",
   "art": "A child with one hand on the chest and eyes closed, with a dotted outline of a heart glowing faintly under the hand."
  },
  "outcomes": [
@@ -149,7 +149,7 @@
    "concept": "What an organ is",
    "status": "defined",
    "definition": "An organ is a body part with a special job. It is made of different tissues, and each tissue is made of many cells of one kind.",
-   "description": "Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This unit looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.",
+   "description": "Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This lesson looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.",
    "examples": [
     "The heart is an organ. Its job is pumping blood.",
     "The eye is an organ. Its job is seeing.",
@@ -1252,7 +1252,7 @@
        "says": "There is no boss. The organs are a team, and each one needs the others."
       }
      ],
-     "ask": "Pick one girl. Give one piece of evidence from this unit for her side. Then say what one of the other girls would answer back.",
+     "ask": "Pick one girl. Give one piece of evidence from this lesson for her side. Then say what one of the other girls would answer back.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with a real fact. For Kavya: the brain speeds up the heart when you run or are scared. For Lakshmi: the brain dies within minutes without blood, and the heart starts its own beat. For Zoya: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
      "why": "Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence."
@@ -3448,7 +3448,7 @@
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on.",
-    "link": "In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.",
+    "link": "In this lesson, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.",
     "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
     "verse_lang": "sa"
    },

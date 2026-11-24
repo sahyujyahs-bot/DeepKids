@@ -3,12 +3,12 @@
   "title": "One cell, many jobs: how a baby's body gets built",
   "level": 4,
   "summary": {
-    "text": "Every cell in your body holds the same instructions, yet some become skin and some become brain. How do they choose? In this unit you will use a colour map to see how cells can know where they are, see how a hand is made by taking away, and test how fast practice works.",
+    "text": "Every cell in your body holds the same instructions, yet some become skin and some become brain. How do they choose? In this lesson you will use a colour map to see how cells can know where they are, see how a hand is made by taking away, and test how fast practice works.",
     "art": "A flat paper strip dipped at one end in red dye, dark at the dipped end and fading to pale at the far end, with a tiny embryo hand drawn above it."
   },
   "intro": {
     "hook": "Spread your fingers wide and look at the gaps between them. Before you were born, there were no gaps. Your hand was a flat paddle, like a tiny oar. What made the gaps?",
-    "text": "Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this unit you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.",
+    "text": "Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this lesson you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.",
     "art": "A child's open hand beside a drawing of a tiny embryo hand shaped like a flat paddle with faint finger lines."
   },
   "outcomes": [
@@ -2013,7 +2013,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "Each situation is a small piece of evidence for one idea in this unit.",
+          "why": "Each situation is a small piece of evidence for one idea in this lesson.",
           "outcome": 2
         },
         {

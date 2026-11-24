@@ -3,12 +3,12 @@
  "title": "Heat on the move: why smoke rises and the Sun warms you across empty space",
  "level": 4,
  "summary": {
-  "text": "The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this unit you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.",
+  "text": "The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this lesson you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.",
   "art": "A lit diya on a steel plate, with a child's palm held beside it and another palm held above it, and a thin card standing between the flame and the side palm."
  },
  "intro": {
   "hook": "Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?",
-  "text": "Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this unit you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.",
+  "text": "Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this lesson you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.",
   "art": "A child at a table with a lit diya, a thin card standing upright between the flame and one hand, and the other hand held above the flame."
  },
  "outcomes": [
@@ -1608,8 +1608,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.",
-     "say": "Show me with your finger where the sunlight goes. Which two ideas from this unit made the oven work? How could we make it hotter next time?",
+     "do": "Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this lesson made the oven work. Ask how they could make it hotter.",
+     "say": "Show me with your finger where the sunlight goes. Which two ideas from this lesson made the oven work? How could we make it hotter next time?",
      "kid": "Trace the sunlight with your finger. What made it work? How can we make it hotter?",
      "parent": "Good answers are that the foil reflects radiation onto a dark surface, and that the cling film traps warm air so convection cannot carry the heat away. To make it hotter, use a bigger reflector, a better seal, or a black pot with a lid.",
      "think": "Why do real solar cookers in India often have a black pot and a curved mirror?",
@@ -2539,7 +2539,7 @@
        "says": "Buy air coolers for every room."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right, and who might not be able to afford each idea.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right, and who might not be able to afford each idea.",
      "lines": 5,
      "a": "A strong answer picks one and uses a fact, such as white roofs reflecting radiation or high and low openings making a loop of air. It also admits a fair point from another idea, such as cost or electricity.",
      "why": "There is no single right answer. Each choice uses a real idea, and a strong answer is fair about cost and who can afford what.",
@@ -3019,8 +3019,8 @@
   "founder": [
    "ideas/by_topic/energy.md: the 'Heat Flow' and 'Heat transfer (conduction, convection, radiation)' rows, and the 'Energy balance of Earth' row (tinted warm water to watch convection, wrapping jars in black and white paper, kitchen foil against a dark surface, standing near a heater to feel radiation, the sea breeze, a dance and a skit of rising and falling currents, and card-matching of heat transfer types)",
    "combined/sci-C4-energy.json: the paper spiral over a diya with its safe height of 25 centimetres, and the black and white cloth in the Sun, both rebuilt here as new tests with new measurements",
-   "The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this unit builds on without repeating its experiments or story",
-   "curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this unit takes convection and radiation as the step between conduction and the full picture in Level 5)"
+   "The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this lesson builds on without repeating its experiments or story",
+   "curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this lesson takes convection and radiation as the step between conduction and the full picture in Level 5)"
   ],
   "science": [
    "William Herschel, 'Experiments on the refrangibility of the invisible rays of the Sun', Philosophical Transactions of the Royal Society, 1800",
@@ -3058,7 +3058,7 @@
    {
     "source": "Chandogya Upanishad 6.2.3 and 6.2.4",
     "teaching": "This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms.",
-    "link": "Heat is where this unit starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.",
+    "link": "Heat is where this lesson starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.",
     "verse": ["तत्तेजोऽसृजत", "तदपोऽसृजत", "ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति", "ता अन्नमसृजन्त"],
     "verse_lang": "sa"
    }

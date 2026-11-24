@@ -3,12 +3,12 @@
  "title": "Where our water comes from, and when it is safe to drink",
  "level": 3,
  "summary": {
-  "text": "Clear water is not always clean to drink. How can you tell? In this unit you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.",
+  "text": "Clear water is not always clean to drink. How can you tell? In this lesson you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.",
   "art": "A cut-away picture: rain falling on a village and a city, water soaking into the ground between pebbles, a borewell pipe reaching down, a river flowing to a tank, and a child at a kitchen tap holding a glass of water."
  },
  "intro": {
   "hook": "Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?",
-  "text": "Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this unit you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.",
+  "text": "Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this lesson you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.",
   "art": "A glass of water on a kitchen counter, with a dotted trail behind it going back through a pipe, a tank on the roof, a borewell, and up to a rain cloud."
  },
  "outcomes": [
@@ -288,7 +288,7 @@
    ],
    "perspectives": [],
    "art": "A bar chart drawn on a kitchen wall, with little pictures: a bucket, a toilet, a washing machine, a cooking pot and a glass, the glass bar tiny.",
-   "context": "How much water does your family use in one day? This card explains where most of it goes. Here are made-up results from a family water count, like the one in this unit.",
+   "context": "How much water does your family use in one day? This card explains where most of it goes. Here are made-up results from a family water count, like the one in this lesson.",
    "how": "a3",
    "chart": {
     "type": "bar",
@@ -3332,7 +3332,7 @@
    "channel": "Vox",
    "youtube": "VJ86D_DtyWg",
    "mins": 7,
-   "why": "For the parent and curious older children. It tells the true story behind this unit's story: John Snow, the Broad Street pump and the map of cholera deaths.",
+   "why": "For the parent and curious older children. It tells the true story behind this lesson's story: John Snow, the Broad Street pump and the map of cholera deaths.",
    "check": "It talks about deaths and illness, so a parent should watch it first."
   },
   {

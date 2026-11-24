@@ -3,12 +3,12 @@
  "title": "How animals learn: getting used to things, linking things, and teaching",
  "level": 4,
  "summary": {
-  "text": "A sparrow runs from a new scarecrow on Monday and sits on its head by Friday. Has she become careless, or has she learned? In this unit you will run the Spoon Test on two volunteers, play a bee game about which flower pays, and see how meerkats teach.",
+  "text": "A sparrow runs from a new scarecrow on Monday and sits on its head by Friday. Has she become careless, or has she learned? In this lesson you will run the Spoon Test on two volunteers, play a bee game about which flower pays, and see how meerkats teach.",
   "art": "A sparrow sitting on the clay-pot head of a scarecrow in a rice field, with small pictures around it: a sea slug, a bee at a blue flower, a meerkat helper with a pup, and two nerve cells joined by a tiny gap."
  },
  "intro": {
   "hook": "Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?",
-  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.",
+  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this lesson you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.",
   "art": "A child sitting very still in a living room with a ceiling fan, a fridge and a wall clock, each with faint sound waves that the child has stopped noticing."
  },
  "outcomes": [
@@ -2522,7 +2522,7 @@
    "answer": "About 4,300,000 times as many, or about four million.",
    "explain": "86,000,000,000 divided by 20,000 is 4,300,000. So a human brain has more than four million times as many nerve cells. Yet the slug shows the same kind of change at one connection.",
    "math_unit": "math.number-sense.big-numbers.L4",
-   "context": "In this unit you learned that a sea slug with a very small nervous system can still show a simple kind of learning.",
+   "context": "In this lesson you learned that a sea slug with a very small nervous system can still show a simple kind of learning.",
    "why_maths": "Comparing big numbers shows how small the slug's nervous system is, and why it was easier to trace one pathway there."
   },
   {
@@ -2700,8 +2700,8 @@
   "founder": [
    "Founder's notes for this topic, Thinking and memory: the section 'Thought Predates Neurons' (a bacterium moving towards food, ions flowing, patterns of use becoming memory, and neurons as faster tunnels for the same process), used for the 'learning without a brain' explanation and the roots.",
    "Combined lessons sci-C3-thinking-and-memory and sci-C5-thinking-and-memory: the subconcepts on spaced practice, practice strengthening connections, and thinking without a brain, used as the base for the spaced-practice experiment and the explanations on connections.",
-   "Notebook items bio:99 to bio:103 (habituation, learning and cognition, classical conditioning, operant conditioning, observational learning). Pavlov and Thorndike are taught in the Class 3 animal minds unit, and this unit goes deeper into habituation, sensitisation, association, spaced practice and teaching.",
-   "Class 3 unit on animal learning: checked so that this unit does not repeat its Useless Step Test, Pass It On, Chaser or the tap-on-the-plate story. Other nearby units checked: animals around us (ant trails), animal societies (ants), cells (slime mould habituation, Dussutour), consciousness (attention)."
+   "Notebook items bio:99 to bio:103 (habituation, learning and cognition, classical conditioning, operant conditioning, observational learning). Pavlov and Thorndike are taught in the Class 3 animal minds unit, and this lesson goes deeper into habituation, sensitisation, association, spaced practice and teaching.",
+   "Class 3 unit on animal learning: checked so that this lesson does not repeat its Useless Step Test, Pass It On, Chaser or the tap-on-the-plate story. Other nearby units checked: animals around us (ant trails), animal societies (ants), cells (slime mould habituation, Dussutour), consciousness (attention)."
   ],
   "science": [
    "Thompson and Spencer (1966), Habituation: a model phenomenon for the study of neuronal substrates of behavior, Psychological Review 73 (the signs that separate habituation from fatigue)",

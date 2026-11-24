@@ -3,12 +3,12 @@
  "title": "Light sources: why the Moon is not one, and what darkness is",
  "level": 2,
  "summary": {
-  "text": "The Moon shines in the night sky, so is it a lamp? In this unit you will make a paper Moon and see if bounced torchlight can light up a picture in a dark room. You will also test whether darkness comes out of a door, and play a game tracing light back to its source.",
+  "text": "The Moon shines in the night sky, so is it a lamp? In this lesson you will make a paper Moon and see if bounced torchlight can light up a picture in a dark room. You will also test whether darkness comes out of a door, and play a game tracing light back to its source.",
   "art": "A night sky with a bright Moon over a city of flats, and a thin dotted line drawn from the Sun, below the edge of the Earth, up to the Moon and down to a girl's window."
  },
  "intro": {
   "hook": "On a full-Moon night, the Moon can be bright enough to light up a terrace. So is the Moon a light source, like a lamp?",
-  "text": "The Moon looks like a big lamp in the sky. But the Moon is a ball of rock, and rock makes no light. So where does the Moon's light come from? And what is the dark that comes back when a cloud covers the Moon? In this unit you make a paper Moon in a dark room, and find out.",
+  "text": "The Moon looks like a big lamp in the sky. But the Moon is a ball of rock, and rock makes no light. So where does the Moon's light come from? And what is the dark that comes back when a cloud covers the Moon? In this lesson you make a paper Moon in a dark room, and find out.",
   "art": "A girl and her grandmother on the terrace of a flat at night, looking up at a bright full Moon, with their shadows on the floor."
  },
  "outcomes": [
@@ -2052,8 +2052,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/light-seeing-and-shadows.md: the founder's ideas of using mirrors to bounce light into dark corners and moonlight reflected off water grew into the Paper Moon test, the Hidden Picture challenge and the Brahmaputra spotted card. Her trataka idea was used at Level 1, so this unit's practice is tracing the light instead. Her deeper ideas (photons, the speed of light, the dark box) belong to the Level 3 light units.",
-   "Curriculum entry sci.light.light-sources.L2, with Cambridge Primary Science Stage 2, 5.1 Light sources and 5.2 Darkness. This unit leads on from Level 1, where the child found which things make their own light, to the Moon as a reflector and darkness as the absence of light."
+   "ideas/by_topic/light-seeing-and-shadows.md: the founder's ideas of using mirrors to bounce light into dark corners and moonlight reflected off water grew into the Paper Moon test, the Hidden Picture challenge and the Brahmaputra spotted card. Her trataka idea was used at Level 1, so this lesson's practice is tracing the light instead. Her deeper ideas (photons, the speed of light, the dark box) belong to the Level 3 light units.",
+   "Curriculum entry sci.light.light-sources.L2, with Cambridge Primary Science Stage 2, 5.1 Light sources and 5.2 Darkness. This lesson leads on from Level 1, where the child found which things make their own light, to the Moon as a reflector and darkness as the absence of light."
   ],
   "science": [
    "The Moon's albedo is about 0.11 to 0.12: it reflects roughly a tenth of the sunlight falling on it, similar to worn asphalt. Full moonlight is roughly 400,000 times fainter than sunlight (apparent magnitude about -12.7 against -26.7).",

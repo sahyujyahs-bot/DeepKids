@@ -3,12 +3,12 @@
  "title": "Fertilisers, medicines, fuels and paints: how chemistry makes them, and why the amount matters",
  "level": 4,
  "summary": {
-  "text": "A tablet that cures a grown-up can harm a small child. Why does the amount matter so much? In this unit you will find a fuel, a medicine, a paint and a plant food at home, test three paints, and compare one dose in two bodies.",
+  "text": "A tablet that cures a grown-up can harm a small child. Why does the amount matter so much? In this lesson you will find a fuel, a medicine, a paint and a plant food at home, test three paints, and compare one dose in two bodies.",
   "art": "A white sack of urea fertiliser standing in a paddy field, with a dotted arrow drawn from the open sky down into the sack."
  },
  "intro": {
   "hook": "A farmer's urea, a paracetamol tablet, the gas in a cylinder and the paint on a wall look nothing alike. Where does each of them come from?",
-  "text": "None of the four is dug up or picked ready to use. People make each one by chemical reactions, starting from air, rock, crude oil or a plant. In this unit you find a fuel, a medicine, a paint and a plant food in your own home. You mix three paints and test which one stays on. You line up things made from crude oil, from cooking gas to candle wax. You also test why the same dose is weak in a big body and strong in a small one.",
+  "text": "None of the four is dug up or picked ready to use. People make each one by chemical reactions, starting from air, rock, crude oil or a plant. In this lesson you find a fuel, a medicine, a paint and a plant food in your own home. You mix three paints and test which one stays on. You line up things made from crude oil, from cooking gas to candle wax. You also test why the same dose is weak in a big body and strong in a small one.",
   "art": "Four things side by side on a kitchen counter: a small sack of white urea grains, a strip of tablets, an LPG cylinder and an open tin of blue paint with a brush."
  },
  "outcomes": [
@@ -125,7 +125,7 @@
    "concept": "Where fertilisers, medicines, fuels and paints come from",
    "status": "defined",
    "definition": "The chemical industry takes a few raw materials from nature. It changes them, by chemical reactions, into substances that people use.",
-   "description": "A chemical reaction changes substances into new substances. The atoms stay the same, and they join up in a new way. A chemical factory does this in very large amounts. It starts with raw materials. There are only a few kinds: air, water, rocks and salts, crude oil and natural gas, and living beings such as plants and moulds. The substance the factory sets out to make is its product. Most reactions also make other substances, called by-products. A factory needs energy too, and most of that energy still comes from burning fuel. Four families of products are in this unit. Fertilisers feed crops. Medicines treat illness. Fuels give energy. Paints colour and protect surfaces. Each one reaches your home after many steps. The paracetamol in a tablet is made in a few reactions from a substance called phenol. Phenol itself is made from crude oil.",
+   "description": "A chemical reaction changes substances into new substances. The atoms stay the same, and they join up in a new way. A chemical factory does this in very large amounts. It starts with raw materials. There are only a few kinds: air, water, rocks and salts, crude oil and natural gas, and living beings such as plants and moulds. The substance the factory sets out to make is its product. Most reactions also make other substances, called by-products. A factory needs energy too, and most of that energy still comes from burning fuel. Four families of products are in this lesson. Fertilisers feed crops. Medicines treat illness. Fuels give energy. Paints colour and protect surfaces. Each one reaches your home after many steps. The paracetamol in a tablet is made in a few reactions from a substance called phenol. Phenol itself is made from crude oil.",
    "examples": [
     "The nitrogen in urea comes from the air.",
     "The white pigment in wall paint is made from a black beach sand.",
@@ -2872,7 +2872,7 @@
    "Founder's notebook, chemistry pages: 'Industrial Chemistry: petrochemicals, fertilizers, pharmaceuticals' (chem:63), 'Fertilizer chemistry: Haber-Bosch' (chem:104), 'Medicinal Chemistry' (chem:69, chem:98) and 'Green Chemistry' (chem:96). These gave the four families and the section on by-products and waste. 'High-Energy Chemistry: explosives' (chem:111) is left for Level 5.",
    "Curriculum entry sci.chemistry.chemistry-in-industry.L4: fertilisers, medicines, fuels and paints all come from chemistry. The Haber-Bosch process in detail, petrochemicals, medicines by design, explosives and green chemistry in depth are left for sci.chemistry.chemistry-in-industry.L5, as the curriculum says.",
    "The founder's SCI Card list: Asima Chatterjee is among the scientists whose facts were checked.",
-   "Other units were checked so that nothing repeats. Rust tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The dilution ladder is in sci.chemistry.acids-and-bases.L4. A fertiliser test on seedlings is in sci.plants.what-plants-need.L4, so this unit uses a game for fertiliser. Milk plastic is in sci.materials.what-is-it-made-of.L3. Flame and soot tests are in sci.changes.fire.L4. The experiments, games and story here are new."
+   "Other units were checked so that nothing repeats. Rust tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The dilution ladder is in sci.chemistry.acids-and-bases.L4. A fertiliser test on seedlings is in sci.plants.what-plants-need.L4, so this lesson uses a game for fertiliser. Milk plastic is in sci.materials.what-is-it-made-of.L3. Flame and soot tests are in sci.changes.fire.L4. The experiments, games and story here are new."
   ],
   "science": [
    "Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 88: 253-256.",
@@ -2900,7 +2900,7 @@
   "art": "A young chemist in clothes of the 1820s holding up a glass dish of white crystals in a small laboratory, with a letter and a quill pen on the bench."
  },
  "roots": {
-  "context": "In this unit you saw how chemistry makes fertilisers, medicines, fuels and paints. Here we ask what makes one substance a help at one time and a harm at another.",
+  "context": "In this lesson you saw how chemistry makes fertilisers, medicines, fuels and paints. Here we ask what makes one substance a help at one time and a harm at another.",
   "deep_truth": {
    "truth": "In One Dose, Two Bodies, two drops made the small glass dark and left the big pot pale. The drops were the same, and only the amount of water around them changed. A medicine spreads through a body in the same way, and plant food through the water in soil. So a substance helps or harms depending on its amount and on the size of the body.",
    "habit": "We sort substances into good ones and bad ones: medicine and poison, plant food and pollution. The sorting leaves out the amount. Urea feeds a paddy field and kills the fish in the pond below.",

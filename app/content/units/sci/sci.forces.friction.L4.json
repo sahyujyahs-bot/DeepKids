@@ -3,12 +3,12 @@
  "title": "Friction: how hard is the grip, and what decides it?",
  "level": 4,
  "summary": {
-  "text": "Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this unit you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.",
+  "text": "Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this lesson you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.",
   "art": "A split picture: on the left a box on a floor with a magnifying glass showing two rough surfaces touching at only a few peaks, on the right a thread wound three times round a pencil holding up a water bottle."
  },
  "intro": {
   "hook": "Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?",
-  "text": "At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this unit you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.",
+  "text": "At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this lesson you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.",
   "art": "A hand pressing flat on a wooden table, with small arrows pointing down for the press and sideways for the slide, and a faint iron post with a rope wound round it in the background."
  },
  "outcomes": [
@@ -416,7 +416,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.",
+  "context": "In this lesson we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.",
   "deep_truth": {
    "truth": "Two surfaces that look like they touch all over really touch at only a few tiny spots. Press harder, and more spots touch. The grip of friction is the sum of all those tiny touching spots. So touching is not a matter of yes or no. It is a matter of how much.",
    "habit": "We say two things 'touch' as if the whole face of one meets the whole face of the other. But every surface is a mountain range under a microscope, and only the peaks meet. When we say 'touching', we really mean 'looks like it touches'.",
@@ -2017,7 +2017,7 @@
     },
     {
      "t": "mcq",
-     "p": "An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this unit does that match?",
+     "p": "An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this lesson does that match?",
      "opts": [
       "Stick-slip",
       "Rolling friction",
@@ -2754,7 +2754,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/forces-and-movement.md, the Friction section: slide blocks on different surfaces and measure the pull, rolling against sliding with toy cars, kitchen cloths with a glass, and the thought 'resistance gives us grip and control'. Used in the Press Harder test, Rollers and Marbles and the roots.",
    "The Combined Class 4 forces lesson (combined/sci-C4-forces-and-movement.json): ideas on force arrows and friction in a lesson on pushes and pulls, used for the Lower the Load challenge and the game cards.",
-   "The Class 3 Friction unit (sci.forces.friction.L3), which this unit builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated."
+   "The Class 3 Friction unit (sci.forces.friction.L3), which this lesson builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated."
   ],
   "science": [
    "Amontons, G., Histoire de l'Academie Royale des Sciences, 1699 (the first two laws of friction)",

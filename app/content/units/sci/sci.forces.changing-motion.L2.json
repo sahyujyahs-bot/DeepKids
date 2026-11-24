@@ -3,12 +3,12 @@
  "title": "Three things a force can change: shape, speed and direction",
  "level": 2,
  "summary": {
-  "text": "A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this unit you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.",
+  "text": "A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this lesson you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.",
   "art": "A girl of 7 kneeling on a tiled floor, watching a marble roll round the inside of a curved card wall and shoot off straight where the wall ends, with a dotted line showing the straight path."
  },
  "intro": {
   "hook": "Roll a ball across the floor. Without touching the ball, can you make it turn a corner?",
-  "text": "A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this unit you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.",
+  "text": "A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this lesson you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.",
   "art": "A rubber ball rolling across a kitchen floor towards a book standing on its edge at a slant, with a curved arrow showing the ball turning away after it touches the book."
  },
  "outcomes": [
@@ -1723,7 +1723,7 @@
     },
     {
      "t": "write",
-     "p": "Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this unit shows what really happens? What does it show?",
+     "p": "Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this lesson shows what really happens? What does it show?",
      "lines": 3,
      "a": "The Bend Wall test. When the wall ended, the marble went straight on. It does not keep curving.",
      "why": "A strong answer names the test and the evidence, and says that the ball goes straight once nothing pushes it sideways.",
@@ -2114,7 +2114,7 @@
    "what_is_life": "Animals turn by pushing on something. A crow pushes the air, an ant pushes the ground, a fish pushes the water, and you push the floor. The crow chooses when to turn, and the air pushes back on her wings.",
    "what_is_this_world": "The Moon goes round the Earth, and the Earth goes round the Sun, because something pulls them all the time. Without that pull, each would fly off in a straight line."
   },
-  "thread": "Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this unit came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.",
+  "thread": "Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this lesson came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.",
   "teachings": [
    {
     "source": "Prashastapada, Padarthadharmasangraha (Vaisheshika school, India)",
@@ -2124,7 +2124,7 @@
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change.",
-    "link": "In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.",
+    "link": "In every test in this lesson, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.",
     "verse": ["Sabbe saṅkhārā aniccā,"],
     "verse_lang": "pi"
    }
@@ -2220,7 +2220,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/forces-and-movement.md, Motion in 1D, 2D, 3D: 'draw curved paths on the floor and roll balls' became the Bend Wall test and the Round the Bend challenge. Everyday forces and Friction: 'mime of brakes slowing a bicycle' became the cyclist questions. The founder's gravity notes on moving straight on forever in empty space are behind the card on why moving things keep going straight.",
-   "Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this unit uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall."
+   "Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this lesson uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall."
   ],
   "science": [
    "Newton's first and second laws; circular motion needs a centripetal force (here the normal force of the wall or rim). Any introductory physics text.",

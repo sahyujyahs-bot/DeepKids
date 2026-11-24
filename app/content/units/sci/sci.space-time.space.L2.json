@@ -3,12 +3,12 @@
  "title": "What is space? Near, far, and whether space goes on for ever",
  "level": 2,
  "summary": {
-  "text": "Walk away from a bottle and it looks smaller, though it has not changed. Why? In this unit you will hunt for the space between things, test how big a bottle looks from far away, step out near, nearer and nearest, and look into a mirror tunnel to ask if a row goes on for ever.",
+  "text": "Walk away from a bottle and it looks smaller, though it has not changed. Why? In this lesson you will hunt for the space between things, test how big a bottle looks from far away, step out near, nearer and nearest, and look into a mirror tunnel to ask if a row goes on for ever.",
   "art": "A girl in a flat holding a pencil up at arm's length, one eye closed, measuring a water bottle on a stool across the room."
  },
  "intro": {
   "hook": "Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?",
-  "text": "A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.",
+  "text": "A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this lesson you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.",
   "art": "A child's hand held out with the thumb up, covering a tall building far across the roofs, and the child's one closed eye."
  },
  "outcomes": [
@@ -1234,7 +1234,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are the four words the child needs for this unit. Distance is a way of saying how much space is between things."
+     "why": "These are the four words the child needs for this lesson. Distance is a way of saying how much space is between things."
     },
     {
      "t": "mcq",
@@ -1814,7 +1814,7 @@
   },
   {
    "q": "Is space a thing of its own, or only the gaps between things?",
-   "why_open": "Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this unit, but you will meet it later. Thinkers still disagree about what space really is."
+   "why_open": "Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this lesson, but you will meet it later. Thinkers still disagree about what space really is."
   },
   {
    "q": "What is past the farthest galaxies we can see?",

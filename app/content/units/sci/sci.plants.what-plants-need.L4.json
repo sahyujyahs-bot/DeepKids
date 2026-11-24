@@ -3,12 +3,12 @@
   "title": "What plants need underground: air, minerals and helpers in the soil",
   "level": 4,
   "summary": {
-    "text": "A brinjal plant in a big pot droops and turns yellow, and watering it more and adding fertiliser makes it worse. What is wrong? In this unit you will find out how much air hides in soil, grow cuttings in boiled water with and without air, and play plant doctor.",
+    "text": "A brinjal plant in a big pot droops and turns yellow, and watering it more and adding fertiliser makes it worse. What is wrong? In this lesson you will find out how much air hides in soil, grow cuttings in boiled water with and without air, and play plant doctor.",
     "art": "A brinjal plant with yellow leaves in a pot standing in a saucer of water, and a cutaway of the pot showing pale roots drowning in soaked soil."
   },
   "intro": {
     "hook": "You water a drooping plant, and they droop more. You water again, and they get worse. How can more water make a thirsty-looking plant sicker?",
-    "text": "A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this unit you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil. The plant needs only small amounts of them, but cannot do without them. Last, you look at the bacteria and fungi that help the plant get them.",
+    "text": "A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this lesson you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil. The plant needs only small amounts of them, but cannot do without them. Last, you look at the bacteria and fungi that help the plant get them.",
     "art": "A hand pouring water from a jug onto dry soil in a clear glass, with silver bubbles of air rising from the soil."
   },
   "outcomes": [
@@ -1641,7 +1641,7 @@
         },
         {
           "t": "write",
-          "p": "A neighbour says, 'Roots are just pipes for water.' Give two pieces of evidence from this unit that roots are alive and need air.",
+          "p": "A neighbour says, 'Roots are just pipes for water.' Give two pieces of evidence from this lesson that roots are alive and need air.",
           "lines": 3,
           "a": "A strong answer gives two pieces of evidence. First, roots drown in waterlogged soil even though water is plentiful, because they need oxygen. Second, cuttings grow fewer roots in water with the air boiled out, and seedlings in water need an air gap. Or: bubbles of air come out of soil when you pour water on it, and the root lives in those gaps.",
           "why": "The answer should give evidence from tests or observations, and link it to roots respiring.",
@@ -3864,8 +3864,8 @@
   "sources": {
     "founder": [
       "Founder's notes in ideas/by_topic/plants.md: the story of fungi as partners of plants, which shaped the fungus roots card and the Underground Market game",
-      "The Class 3 unit on what plants need, which this unit builds on: the idea that light, water and warmth set how a plant grows, now extended to air in the soil, minerals and helpers underground, with new experiments, games and a new story",
-      "The Class 3 unit on photosynthesis, which this unit builds on: the idea that a leaf makes food from air and water, now extended to the minerals that roots must supply"
+      "The Class 3 unit on what plants need, which this lesson builds on: the idea that light, water and warmth set how a plant grows, now extended to air in the soil, minerals and helpers underground, with new experiments, games and a new story",
+      "The Class 3 unit on photosynthesis, which this lesson builds on: the idea that a leaf makes food from air and water, now extended to the minerals that roots must supply"
     ],
     "science": [
       "Sachs, J., about 1860, and Knop, W., about 1861 (growing plants in water with mineral salts, water culture)",

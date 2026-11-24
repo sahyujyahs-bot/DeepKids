@@ -3,12 +3,12 @@
  "title": "A forest floor holds the rain: how living things build a place together",
  "level": 4,
  "summary": {
-  "text": "Why does a forest floor of dead leaves hold rain better than bare soil? In this unit you will run a fair test with plates of soil and leaves, follow a nature trail from your window, and read signs like a nibbled leaf to see which links they show.",
+  "text": "Why does a forest floor of dead leaves hold rain better than bare soil? In this lesson you will run a fair test with plates of soil and leaves, follow a nature trail from your window, and read signs like a nibbled leaf to see which links they show.",
   "art": "Two plates tilted on a stack of books, one with bare brown soil and a brown stream running off it into a glass, one with soil under a loose layer of dead leaves and a thin clear trickle running into a glass."
  },
  "intro": {
   "hook": "Walk along a forest trail in the monsoon and the ground is soft, dark and wet under a thick carpet of dead leaves. Walk across a swept, cleared field in the same rain and the water runs off in brown streams. The rain is the same. Why does the ground behave so differently?",
-  "text": "Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this unit you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature and still let it grow back.",
+  "text": "Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this lesson you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature and still let it grow back.",
   "art": "A forest path in the monsoon with a thick layer of brown leaves on the ground and clear water trickling beside it, next to a bare cleared slope with muddy streams running down."
  },
  "outcomes": [
@@ -1247,7 +1247,7 @@
     }
    ],
    "record": "Write down the rule or custom, who made it, what it looks after, and whether it still works today.",
-   "context": "In this activity, you ask an older person about one rule that looks after nature. You think about how old rules and the science in this unit fit together.",
+   "context": "In this activity, you ask an older person about one rule that looks after nature. You think about how old rules and the science in this lesson fit together.",
    "setup": [
     {
      "art": "A child and a grandmother sitting together on a verandah, with a notebook and a cup of tea between them.",
@@ -2146,7 +2146,7 @@
     },
     {
      "t": "mcq",
-     "p": "A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this unit explains this best?",
+     "p": "A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this lesson explains this best?",
      "opts": [
       "Concrete stops water sinking in, so all of it runs off",
       "Concrete makes the rain heavier",

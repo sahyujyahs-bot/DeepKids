@@ -3,12 +3,12 @@
  "title": "Antibodies, allergies and HIV: how the defence remembers, and three ways it goes wrong",
  "level": 5,
  "summary": {
-  "text": "A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this unit you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.",
+  "text": "A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this lesson you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.",
   "art": "A girl holding up a white ice tray in which the wells run from deep red at one end to yellow at the other, with a jar of turmeric and a tumbler of water beside her on a kitchen counter."
  },
  "intro": {
   "hook": "A mosquito bites you and flies away. Ten minutes later a bump rises and itches. The mosquito has gone, so who made the bump?",
-  "text": "Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this unit you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.",
+  "text": "Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this lesson you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.",
   "art": "A close view of a child's forearm with one small round mosquito bump, and the child looking at it with a magnifying glass while a mosquito flies off through the window."
  },
  "outcomes": [
@@ -210,7 +210,7 @@
    "examples": [
     "The ELISA test that found the first HIV cases in India in 1986 showed a yellow colour where antibodies were present.",
     "Before a child gets some vaccines again, a doctor can measure the titre to see whether the first dose still protects.",
-    "Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C."
+    "Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C."
    ],
    "perspectives": [],
    "art": "A white plastic plate with rows of small wells, some wells yellow and some clear, with a gloved hand adding a drop to one well from a thin dropper."
@@ -2343,7 +2343,7 @@
        "says": "Mice who had made IgE against venom survived a bigger dose. The reaction is a real defence against poisons, aimed at the wrong things today."
       }
      ],
-     "ask": "Which view do you agree with more? Give a reason from this unit.",
+     "ask": "Which view do you agree with more? Give a reason from this lesson.",
      "a": "Answers vary. A strong answer picks a side and gives evidence. For the scientist: the mouse studies, and the way sneezing and vomiting push things out of the body. For the doctor: most allergens are not poisons, and the reaction can kill.",
      "why": "Both can be true together. A defence that once protected against venoms can still be an error when it fires at peanuts.",
      "outcome": 3
@@ -2493,7 +2493,7 @@
        "says": "The healers of West Africa, India and China, and Onesimus. They knew that a small dose protects, long before Jenner."
       }
      ],
-     "ask": "Which view do you agree with more? Give a reason from this unit.",
+     "ask": "Which view do you agree with more? Give a reason from this lesson.",
      "a": "Answers vary. A strong answer picks a side and gives evidence. For the historian: inoculation was used in Boston in 1721, and Jenner himself was inoculated as a boy. For the book: cowpox was far safer, and Jenner tested it and wrote it down so that others could check.",
      "why": "Both did something real. The first group found that protection is possible. Jenner found a much safer way and tested it openly.",
      "outcome": 6
@@ -2711,11 +2711,11 @@
    "youtube": "0TipTogQT3E",
    "mins": 5,
    "why": "To see how HIV enters helper T cells, joins the cell's DNA and hides, and why medicines hold the virus back but do not cure. It speaks plainly about how HIV passes between people.",
-   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this unit."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this lesson."
   }
  ],
  "applications": [
-  "Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.",
+  "Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.",
   "Rapid test strips for dengue, malaria and pregnancy have antibodies fixed to the paper. A line appears where the antibodies catch what the test is looking for.",
   "Before a blood transfusion, a laboratory mixes a drop of blood with antibodies. If the red cells clump, the blood group is known.",
   "Snake antivenom is made of antibodies. Horses are given tiny, safe doses of venom, and the antibodies from their blood are given to people who have been bitten. Irula snake catchers near Chennai collect much of the venom used in India.",
@@ -3219,10 +3219,10 @@
  },
  "sources": {
   "founder": [
-   "DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this unit takes them, with antibodies and memory in more depth.",
+   "DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this lesson takes them, with antibodies and memory in more depth.",
    "Combined lesson sci-C5-health-hygiene-exercise-and-illness: the subconcept 'spread by touch and blood: how HIV does and doesn't spread', used in the explanation on living with HIV and in the poster project. Its idea of testing a claim with counts is used in Boylston's Count. Its story was not reused.",
    "ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Cards for Gagandeep Kang, Soumya Swaminathan and Sunetra Gupta (Indian women in infection science, and germs that change shape to escape memory). The same thread is followed here through Suniti Solomon and Sellappan Nirmala, and through HIV's fast changes.",
-   "The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this unit builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated."
+   "The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this lesson builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated."
   ],
   "science": [
    "Porter, R. R., 'The hydrolysis of rabbit gamma-globulin and antibodies with crystalline papain', Biochemical Journal 73, 1959 (the antibody cut into three pieces)",
@@ -3313,5 +3313,5 @@
   ],
   "art": "A girl touching the small round scar on her upper arm, and beside her a tree stump showing its rings and a row of five small bowls that run from red to yellow."
  },
- "playtest": "Every experiment, activity, game and challenge in this unit was reasoned through step by step as a family in a city flat would do it. None has yet been tried at home, so please treat times and amounts as a starting point. The Titre Test (in the core path) depends on your washing powder and your tap water. Turmeric turns red in alkaline water, and washing powder and washing soap are alkaline, but a bath soap or a liquid hand wash may be too mild. Check one spoonful first, as the first step says. If every katori turns red, use half a pinch. If only the first turns red, use more. Rinsing the spoon between katoris matters more than anything else. The Red Line Test is gentle and uses only a blunt spoon handle. Most people show a line that spreads and fades within fifteen minutes. On brown skin the mark may look darker and not red, so use light from the side. Some people show almost nothing, which the test treats as a real result. Peg Antibodies was checked by counting: seven double pegs join eight cards in a chain. The Helper Count loses one and a half beans a year on average, so most runs take 8 to 13 rolls. Boylston's Count and the maths were checked by arithmetic. Facts checked through web searches while writing: the Boston numbers of 1721, the Rose and Witebsky and the Roitt and Doniach papers of 1956, the discovery of IgE, the 2025 Nobel Prize, the antibody half-lives, the 1918 flu survivors, Cipla's price in 2001, the UNAIDS and NACO counts, and the title and channel of the three videos. The story of Sellappan Nirmala follows published accounts of her work. How she travelled to Vellore, and every conversation, are imagined, and the story's note says so. HIV is explained plainly, including that HIV passes in sex between grown-ups. Please read the explanation on living with HIV and preview the third video before sharing them with your child."
+ "playtest": "Every experiment, activity, game and challenge in this lesson was reasoned through step by step as a family in a city flat would do it. None has yet been tried at home, so please treat times and amounts as a starting point. The Titre Test (in the core path) depends on your washing powder and your tap water. Turmeric turns red in alkaline water, and washing powder and washing soap are alkaline, but a bath soap or a liquid hand wash may be too mild. Check one spoonful first, as the first step says. If every katori turns red, use half a pinch. If only the first turns red, use more. Rinsing the spoon between katoris matters more than anything else. The Red Line Test is gentle and uses only a blunt spoon handle. Most people show a line that spreads and fades within fifteen minutes. On brown skin the mark may look darker and not red, so use light from the side. Some people show almost nothing, which the test treats as a real result. Peg Antibodies was checked by counting: seven double pegs join eight cards in a chain. The Helper Count loses one and a half beans a year on average, so most runs take 8 to 13 rolls. Boylston's Count and the maths were checked by arithmetic. Facts checked through web searches while writing: the Boston numbers of 1721, the Rose and Witebsky and the Roitt and Doniach papers of 1956, the discovery of IgE, the 2025 Nobel Prize, the antibody half-lives, the 1918 flu survivors, Cipla's price in 2001, the UNAIDS and NACO counts, and the title and channel of the three videos. The story of Sellappan Nirmala follows published accounts of her work. How she travelled to Vellore, and every conversation, are imagined, and the story's note says so. HIV is explained plainly, including that HIV passes in sex between grown-ups. Please read the explanation on living with HIV and preview the third video before sharing them with your child."
 }

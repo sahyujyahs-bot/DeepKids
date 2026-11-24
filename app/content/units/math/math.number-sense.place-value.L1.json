@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "Each full row is one bundle of ten sticks. How many sticks are there in all?",
-  "text": "There are 23 sticks. You did not have to count every stick. Two bundles of ten make twenty, and three loose sticks make twenty-three. Now look at how we write it: 23. The 2 is the two bundles. The 3 is the three loose sticks. Every number from 10 to 99 is written this way. In this unit you will tie your own bundles and find this out with your hands.",
+  "text": "There are 23 sticks. You did not have to count every stick. Two bundles of ten make twenty, and three loose sticks make twenty-three. Now look at how we write it: 23. The 2 is the two bundles. The 3 is the three loose sticks. Every number from 10 to 99 is written this way. In this lesson you will tie your own bundles and find this out with your hands.",
   "art": "Two bundles of ten sticks tied with rubber bands and three loose sticks beside them on a steel plate.",
   "chart": {
    "type": "dots",
@@ -46,7 +46,7 @@
   },
   {
    "term": "Bundle",
-   "meaning": "Things tied together so that they can be held and counted as one. In this unit a bundle always has ten.",
+   "meaning": "Things tied together so that they can be held and counted as one. In this lesson a bundle always has ten.",
    "example": "Ten sticks with a rubber band around them make one bundle.",
    "art": "Ten thin sticks tied with a rubber band."
   },
@@ -3455,17 +3455,17 @@
   "founder": [
    "MATHS.md, the four threads: the human-chosen side (Roots, the card 'Why ten? People chose it', the dozen questions), the universe and everyday life (ten fingers, money, egg trays, calendar dates, 'Stretch: ten tens make one hundred'), maths in life (a3 market, a4 bead string), everyone does maths (the desert ant card, spotted).",
    "curriculum/math.json, math.number-sense.place-value.L1: numbers 10 to 20 and up to 99, tens and ones with bundles of sticks (NCERT Class 1 chapters 8 and 13, Cambridge Stage 1 Np).",
-   "The counting pilot (math.number-sense.counting.L1): this unit builds on its ten-frame activity and its big-heap challenge, and reuses its song title."
+   "The counting pilot (math.number-sense.counting.L1): this lesson builds on its ten-frame activity and its big-heap challenge, and reuses its song title."
   ],
   "science": [
    "Wittlinger, M., Wehner, R. and Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science 312, 1965-1967. (Cataglyphis fortis, 10-metre runway; stilts made ants overshoot, shortened legs made them stop short.)",
-   "Ross, S. H. (1989). Parts, wholes, and place value: a developmental view. Arithmetic Teacher 36(6), 47-51. (Digit-correspondence tasks; many children read each digit at face value. The original paper was not read for this unit, only later papers that describe it.)",
+   "Ross, S. H. (1989). Parts, wholes, and place value: a developmental view. Arithmetic Teacher 36(6), 47-51. (Digit-correspondence tasks; many children read each digit at face value. The original paper was not read for this lesson, only later papers that describe it.)",
    "Unicode Technical Note 21, Tamil Numbers: traditional Tamil numerals had separate signs for 10 (௰), 100 and 1000 and no place value; its example 3782 ends in 'eight, ten-sign, two' for eighty-two.",
    "Shukla Yajurveda (Vajasaneyi Samhita) 17.2: the list eka, dasha, shata, sahasra, ayuta and onward. Sources differ on how far the last name reaches, so the unit names only the first five.",
    "Aryabhatiya, Ganitapada 2: 'from place to place each is ten times the preceding' (499 CE). Verse numbering can differ between editions.",
    "Gwalior, Chaturbhuj temple inscription, 876 CE: the number 270 with a zero (taken from the place-value Level 5 unit, where it was checked).",
-   "Waggle dance: the length of a honeybee's waggle run grows with the distance to the food (Karl von Frisch). Stated from general knowledge, not looked up again for this unit.",
-   "Maya numerals were base twenty. The 60-minute hour comes from Babylonian base-sixty counting. Both are standard history, not looked up again for this unit.",
+   "Waggle dance: the length of a honeybee's waggle run grows with the distance to the food (Karl von Frisch). Stated from general knowledge, not looked up again for this lesson.",
+   "Maya numerals were base twenty. The 60-minute hour comes from Babylonian base-sixty counting. Both are standard history, not looked up again for this lesson.",
    "Wiktionary, Tamil pathinonru (eleven): from pathin (ten) and onru (one), as checked for the counting unit. Tamil irupathu (twenty): iru (two) and pathu (ten)."
   ]
  },

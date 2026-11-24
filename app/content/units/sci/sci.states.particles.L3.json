@@ -3,12 +3,12 @@
  "title": "Particles: where sugar goes when it dissolves",
  "level": 3,
  "summary": {
-  "text": "You stir sugar into water and it vanishes. Is it still there? In this unit you will weigh a glass before and after the sugar dissolves, find out whether a lump, grains or powder dissolves fastest, and draw where you think the sugar went.",
+  "text": "You stir sugar into water and it vanishes. Is it still there? In this lesson you will weigh a glass before and after the sugar dissolves, find out whether a lump, grains or powder dissolves fastest, and draw where you think the sugar went.",
   "art": "A clear steel-rimmed glass of water with a spoon of sugar pouring in, and beside it a zoomed-in circle showing tiny round water particles with a few sugar particles spread among them."
  },
  "intro": {
   "hook": "Drop a spoon of sugar into a clear glass of water and stir. In a minute the grains are gone, and the water looks just like plain water. Is the sugar still in there? If it is, where is it?",
-  "text": "Most people say the sugar has 'melted' or 'gone'. Neither is right. In this unit you find out what really happens. You test it three ways: by tasting, by weighing, and by asking ants. You also find out that sugar, water and everything else are made of tiny pieces called particles, and why some sugar dissolves faster than other sugar.",
+  "text": "Most people say the sugar has 'melted' or 'gone'. Neither is right. In this lesson you find out what really happens. You test it three ways: by tasting, by weighing, and by asking ants. You also find out that sugar, water and everything else are made of tiny pieces called particles, and why some sugar dissolves faster than other sugar.",
   "art": "A child's face close to a clear glass of water, looking hard for the sugar that just disappeared, with a spoon still in the glass."
  },
  "outcomes": [
@@ -157,7 +157,7 @@
    "art": "A tall glass of water with a thick, clear, shimmering layer at the bottom, and a straw dipping into it."
   },
   {
-   "context": "This card asks what particles are made of, which goes beyond this unit.",
+   "context": "This card asks what particles are made of, which goes beyond this lesson.",
    "concept": "What is inside a particle?",
    "status": "idea",
    "definition": "",
@@ -248,7 +248,7 @@
   {
    "q": "If something is too small for anyone to see, how can we be sure it is there?",
    "kind": "big",
-   "hint": "In this unit you used your tongue, a balance and some ants. What other ways can you think of?"
+   "hint": "In this lesson you used your tongue, a balance and some ants. What other ways can you think of?"
   },
   {
    "q": "Ants found the sugar water and left the plain water alone. What else might be around us that other living beings notice and we do not?",
@@ -1044,7 +1044,7 @@
      "do": "Ask where the sugar went, and listen to the whole answer.",
      "say": "Where do you think the sugar went? Why do you think so?",
      "kid": "Where do you think the sugar went? Is it still in the glass?",
-     "parent": "Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this unit will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water."
+     "parent": "Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this lesson will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water."
     },
     {
      "id": "s3",
@@ -1886,7 +1886,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about particles."
+     "why": "Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about particles."
     },
     {
      "t": "sort",

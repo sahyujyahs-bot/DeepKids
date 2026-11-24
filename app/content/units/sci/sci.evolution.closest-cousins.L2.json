@@ -3,7 +3,7 @@
  "title": "Apes, our closest cousins: how they live, play and care for each other",
  "level": 2,
  "summary": {
-  "text": "A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this unit you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.",
+  "text": "A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this lesson you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.",
   "art": "A young chimpanzee rolling on their back with an open, laughing mouth while an older chimpanzee tickles their tummy, and a girl laughing in the same pose on a mat beside them."
  },
  "intro": {
@@ -1466,7 +1466,7 @@
        "says": "The chimpanzee is laughing. The laugh just sounds different from ours."
       }
      ],
-     "ask": "Who do you agree with? Give one reason from the laugh test or this unit. Then say one thing the other person noticed that is true.",
+     "ask": "Who do you agree with? Give one reason from the laugh test or this lesson. Then say one thing the other person noticed that is true.",
      "lines": 3,
      "a": "A strong answer agrees with the second person: young apes pant-laugh when tickled and playing, and scientists recorded it. It also says the first person is right that the sound is like fast breathing, in and out.",
      "why": "The first person noticed something true about the sound. But the pant comes in play and tickling, just as our laugh does, so scientists call it laughter."
@@ -2230,8 +2230,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this unit's true story is Dian Fossey's gorillas instead.",
-   "This unit has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test)."
+   "ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this lesson's true story is Dian Fossey's gorillas instead.",
+   "This lesson has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test)."
   ],
   "science": [
    "Galdikas, B. M. F. (1995). Reflections of Eden: My Years with the Orangutans of Borneo. Little, Brown. She began her orangutan study at Tanjung Puting, Borneo, in 1971 (Orangutan Foundation International; Encyclopaedia Britannica).",

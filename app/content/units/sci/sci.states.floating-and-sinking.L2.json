@@ -3,12 +3,12 @@
  "title": "Floating and sinking: why a heavy rolling pin floats and a light coin sinks",
  "level": 2,
  "summary": {
-  "text": "A heavy wooden rolling pin floats, but a light coin sinks. What decides it? In this unit you will line up kitchen things by how heavy they feel, guess first, then test them in a bucket of water, and push things down to feel the water push back.",
+  "text": "A heavy wooden rolling pin floats, but a light coin sinks. What decides it? In this lesson you will line up kitchen things by how heavy they feel, guess first, then test them in a bucket of water, and push things down to feel the water push back.",
   "art": "A steel bucket of water on a kitchen floor, with a wooden rolling pin and a lemon floating on top, and a one-rupee coin, a steel spoon and a potato lying on the bottom."
  },
  "intro": {
   "hook": "Hold a wooden rolling pin in one hand and a one-rupee coin in the other. Which one is heavier? Now guess: which one will sink in a bucket of water?",
-  "text": "Most people guess that the heavy rolling pin will sink and the light coin will float. You are going to drop them in and see. Then you will test many more things from the kitchen. If weight does not decide what sinks, what does? This unit answers that question, and your own test will show you.",
+  "text": "Most people guess that the heavy rolling pin will sink and the light coin will float. You are going to drop them in and see. Then you will test many more things from the kitchen. If weight does not decide what sinks, what does? This lesson answers that question, and your own test will show you.",
   "art": "A child holding a wooden rolling pin in one hand and a small coin in the other, looking at a bucket of water, with a thinking bubble showing the rolling pin at the bottom."
  },
  "outcomes": [
@@ -1339,7 +1339,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are the main words in this unit. A floater comes back up, a sinker stays down, and we guess before we test."
+     "why": "These are the main words in this lesson. A floater comes back up, a sinker stays down, and we guess before we test."
     },
     {
      "t": "mcq",

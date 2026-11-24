@@ -3,12 +3,12 @@
  "title": "Food safety: why food that looks and smells fine can still make you ill",
  "level": 4,
  "summary": {
-  "text": "Food can look and smell fine and still make you ill. How? In this unit you will grow yeast in four places to see how temperature changes how fast microbes grow, find the cause of an outbreak from who ate what, and see what salt does to a cucumber slice.",
+  "text": "Food can look and smell fine and still make you ill. How? In this lesson you will grow yeast in four places to see how temperature changes how fast microbes grow, find the cause of an outbreak from who ate what, and see what salt does to a cucumber slice.",
   "art": "A picnic cloth with idli, a bowl of coconut chutney, a lemon rice dabba and cut papaya, and a child with a notebook ticking a table beside it."
  },
  "intro": {
   "hook": "Stir a spoon of yeast into sugary water and share it between four glasses. Put one in the fridge, one on the counter and one in a bowl of warm water. Heat the fourth until it steams, let it cool, and put it on the counter too. Two hours later, the warm glass is foaming up to the brim, the counter glass has foamed a little, more slowly, and the other two have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?",
-  "text": "Yeast is a microbe, a living being too small to see. The yeast in the warm water had the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this unit you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.",
+  "text": "Yeast is a microbe, a living being too small to see. The yeast in the warm water had the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this lesson you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.",
   "art": "Four glasses in a row: one in a fridge, one on a counter, one in a bowl of warm water and one beside a pan, with the warm one overflowing with foam."
  },
  "outcomes": [
@@ -499,7 +499,7 @@
   "wrong_idea": "Many people thought only people who looked sick could pass on typhoid. Tracing the illness from home to home, and testing a cook who felt perfectly well, showed that a healthy carrier can spread it."
  },
  "roots": {
-  "context": "In this unit you grew yeast in four glasses, pressed fingers onto potato slices, and read how a table of who ate what led to a bowl of chutney. This part asks what microbes show us about what 'harmful' means, and about ourselves.",
+  "context": "In this lesson you grew yeast in four glasses, pressed fingers onto potato slices, and read how a table of who ate what led to a bowl of chutney. This part asks what microbes show us about what 'harmful' means, and about ourselves.",
   "deep_truth": {
    "truth": "The same kind of microbe can live quietly in your gut and make you ill in your food. Whether a microbe harms us depends on where she is, how many there are, and who meets her. So 'harmful' describes a meeting, not a kind of microbe.",
    "habit": "We sort germs into good germs and bad germs, as if each microbe carried the label inside her. We also sort people into clean people and unclean people, though a healthy cook can carry typhoid.",
@@ -529,7 +529,7 @@
    {
     "source": "Tirukkural 942",
     "teaching": "A person needs no medicine if they eat only after the last meal has been digested.",
-    "link": "Timing is part of health. In this unit we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.",
+    "link": "Timing is part of health. In this lesson we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.",
     "verse": ["மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது", "அற்றது போற்றி உணின்."],
     "verse_lang": "ta"
    }
@@ -3419,7 +3419,7 @@
  },
  "sources": {
   "founder": [
-   "The Class 3 unit on food safety, which this unit builds on: from washing, covering, cooking and the dal-water test to temperature, toxins, carriers and tracing an outbreak",
+   "The Class 3 unit on food safety, which this lesson builds on: from washing, covering, cooking and the dal-water test to temperature, toxins, carriers and tracing an outbreak",
    "NIOS Level A Lesson 8 (Food) and Level B Lesson 12 (Food and Health), used to map the coverage of food safety and storage",
    "Founder's notes in ideas/by_topic/health-hygiene-exercise-and-illness.md on hygiene, and in ideas/by_topic/food-and-a-balanced-diet.md on microbes and food"
   ],

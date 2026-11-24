@@ -3,12 +3,12 @@
  "title": "Fair tests, step two: repeat, average and say only what you found",
  "level": 4,
  "summary": {
-  "text": "Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this unit you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.",
+  "text": "Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this lesson you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.",
   "art": "Three paper spinners of different wing lengths falling past a ruler on a wall, with a hand holding a phone stopwatch."
  },
  "intro": {
   "hook": "Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.",
-  "text": "If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this unit you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.",
+  "text": "If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this lesson you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.",
   "art": "A paper spinner at three moments in its fall beside a stopwatch showing three slightly different times."
  },
  "outcomes": [
@@ -3216,7 +3216,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/how-we-know.md: the grade concept grid on fringe science (replication, blinding, belief tracking evidence, anomalies that sometimes evaporate), used for 'Hoping can bend a test', the odd-result explanation and the challenging claims",
    "The founder's SCI card for Tu Youyou, an underdog scientist whose old-text clue led to artemisinin, used for the how-we-found-out story",
-   "The Class 3 unit on fair tests, which this unit builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion"
+   "The Class 3 unit on fair tests, which this lesson builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion"
   ],
   "science": [
    "Tu Youyou, Nobel Lecture, Artemisinin: A Gift from Traditional Chinese Medicine to the World, 2015",

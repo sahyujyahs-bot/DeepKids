@@ -3,12 +3,12 @@
  "title": "Refraction: why light bends in water and lenses",
  "level": 3,
  "summary": {
-  "text": "Why does a pencil in a glass of water look broken when it is really straight? In this unit you will test whether the broken pencil is bent, find which water drop makes letters look biggest, and make a hidden coin appear.",
+  "text": "Why does a pencil in a glass of water look broken when it is really straight? In this lesson you will test whether the broken pencil is bent, find which water drop makes letters look biggest, and make a hidden coin appear.",
   "art": "A split picture: on the left a straight pencil in a steel tumbler of water that looks snapped at the water line, on the right a child's eye huge behind a magnifying glass held over an ant."
  },
  "intro": {
   "hook": "Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. Why does the pencil look broken in the water, when it is not?",
-  "text": "About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this unit you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.",
+  "text": "About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this lesson you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.",
   "art": "A steel tumbler of water on a kitchen table with a pencil that looks broken at the surface, and a child's hand pulling a whole pencil out of it."
  },
  "outcomes": [
@@ -1287,7 +1287,7 @@
     },
     {
      "t": "write",
-     "p": "Name another time, outside this unit's tests, when your eyes could be fooled because light bends. How would you check what is really there?",
+     "p": "Name another time, outside this lesson's tests, when your eyes could be fooled because light bends. How would you check what is really there?",
      "lines": 4,
      "a": "For example: my feet look close to the top when I stand in a pool, or the road far ahead looks wet on a hot day. I could check by touching, by measuring with a stick, or by looking from straight above or walking closer.",
      "why": "A strong answer gives a real example of bending light and a check that does not rely on the same view. That is how science tests the senses."
@@ -2296,7 +2296,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Show your child a photograph of a gravitational lens, from the NASA Hubble link in this unit or the Einstein ring video. Compare it with the glass.",
+     "do": "Show your child a photograph of a gravitational lens, from the NASA Hubble link in this lesson or the Einstein ring video. Compare it with the glass.",
      "say": "This is a real photo from a space telescope. The bright arcs are a galaxy far behind. Its light was bent by the gravity of the galaxies in front. Do you see the same shapes as in our glass?",
      "kid": "Look at the space photo. Find the bright arcs. Do they look like your glass shapes? In space, gravity bends the light.",
      "check": {
@@ -3166,7 +3166,7 @@
    "DeepKids HomeSchooling Track, Physics: 'Gravitational bending of light' row (recreate lensing with a wine-glass base, a clear marble over a page, use a magnifying glass to distort a printed image)",
    "Founder sheets: 'Magnifying glass: big versus small view', 'Particles: lens on dust', and 'Magnifying glass burns paper: dangerous unsupervised, demo only' (kept as a safety warning)",
    "ideas/by_topic/light-seeing-and-shadows.md: gravitational lensing concept grid, Priyamvada Natarajan's SCI card ('you can map something you cannot see by watching how it bends the light')",
-   "Combined lesson sci-C4-light-seeing-and-shadows: light travels in straight lines, used as the starting point that this unit bends"
+   "Combined lesson sci-C4-light-seeing-and-shadows: light travels in straight lines, used as the starting point that this lesson bends"
   ],
   "science": [
    "Dyson, Eddington and Davidson, Philosophical Transactions of the Royal Society A, 1920 (1919 eclipse and the bending of starlight)",

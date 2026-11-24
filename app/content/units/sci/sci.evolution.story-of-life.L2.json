@@ -3,12 +3,12 @@
  "title": "Life began in water: from the first tiny cells to us",
  "level": 2,
  "summary": {
-  "text": "Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this unit you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.",
+  "text": "Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this lesson you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.",
   "art": "A steel katori of white powder fizzing with bubbles where a few drops of water have landed, beside a dry katori where nothing happens."
  },
  "intro": {
   "hook": "Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?",
-  "text": "Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this unit you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.",
+  "text": "Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this lesson you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.",
   "art": "A girl kneeling at a kitchen counter, watching two small heaps of white powder on a steel plate, with a dry spoon in her hand."
  },
  "outcomes": [
@@ -1332,7 +1332,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are the four words the child needs most in this unit."
+     "why": "These are the four words the child needs most in this lesson."
     },
     {
      "t": "mcq",
@@ -2153,7 +2153,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/evolution-the-tree-of-life.md: 'The First Mother' and 'The Great Great Grandmother', the founder's picture of the first cells as everyone's oldest grandmother, a drop of ocean inside her. Used for the first-cells explanation, the ancestor term and the roots card. The RNA picture book chemistry suits higher levels and is used in sci.evolution.story-of-life.L3.",
-   "Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this unit does not repeat."
+   "Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this lesson does not repeat."
   ],
   "science": [
    "Patterson, C. (1956). Age of meteorites and the earth. Geochimica et Cosmochimica Acta 10: 230-237.",

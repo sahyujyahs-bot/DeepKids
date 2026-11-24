@@ -3,12 +3,12 @@
  "title": "Inertia: why moving things keep moving and still things stay still",
  "level": 3,
  "summary": {
-  "text": "Why do rolled socks dropped while you walk land past the plate instead of on it? In this unit you will drop socks while walking at different speeds, roll a ball over a towel, a doormat and a bare floor, and play a game of keep going or change.",
+  "text": "Why do rolled socks dropped while you walk land past the plate instead of on it? In this lesson you will drop socks while walking at different speeds, roll a ball over a towel, a doormat and a bare floor, and play a game of keep going or change.",
   "art": "A child walking across a tiled room in Chennai, letting go of a rolled pair of socks above a steel plate on the floor. A dotted curved line shows the socks falling forward and landing past the plate. In a small corner picture, a ball slides across shiny ice."
  },
  "intro": {
   "hook": "Try this. Put a card on top of a steel tumbler and a coin on the card. Pull the card away slowly. Now set it up again and flick the card away hard and fast with your finger. Where did the coin go each time? Nothing pushed the coin down into the tumbler. So why did it end up inside?",
-  "text": "The coin was sitting still, and it went on sitting still while the card shot out from under it. Then gravity pulled it straight down into the tumbler. This is inertia: things keep doing what they are already doing until a force changes it. In this unit you test it with your own body, with socks, eggs, water and marbles. You find out why a rolling ball on Earth always stops, why a ball on ice slides so far, and why a spacecraft launched in 1977 is still travelling today.",
+  "text": "The coin was sitting still, and it went on sitting still while the card shot out from under it. Then gravity pulled it straight down into the tumbler. This is inertia: things keep doing what they are already doing until a force changes it. In this lesson you test it with your own body, with socks, eggs, water and marbles. You find out why a rolling ball on Earth always stops, why a ball on ice slides so far, and why a spacecraft launched in 1977 is still travelling today.",
   "art": "A steel tumbler with a square of card on top and a five-rupee coin on the card. A finger flicks the card sideways, the card flies off, and the coin drops straight into the tumbler."
  },
  "outcomes": [
@@ -217,7 +217,7 @@
    "concept": "Newton's three laws of motion",
    "status": "defined",
    "definition": "Newton wrote three laws of motion in his book Principia in 1687. The first is inertia. The second says a bigger force changes motion more, and more mass needs more force. The third says forces come in pairs: when you push something, it pushes back on you just as hard.",
-   "description": "This unit is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France. In 1749, the French scientist Emilie du Chatelet finished translating the Principia into French, with her own notes, so that many more people could read it.",
+   "description": "This lesson is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France. In 1749, the French scientist Emilie du Chatelet finished translating the Principia into French, with her own notes, so that many more people could read it.",
    "examples": [
     "First law: a coin stays still when a card is flicked from under it.",
     "Second law: the same push speeds up an empty trolley more than a full one.",
@@ -1919,7 +1919,7 @@
    "channel": "Veritasium",
    "youtube": "7LGi-Dlb8Vs",
    "mins": 3,
-   "why": "The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this unit.",
+   "why": "The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this lesson.",
    "check": "Preview it first and check its length."
   },
   {
@@ -3032,7 +3032,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/forces-and-movement.md: 'Concept activities: Newton's Laws of Motion' (slide a book to show inertia, push a chair and feel resistance, watch cars start and stop, balloon rocket; 'motion obeys universal order'; meditative walking feeling inertia, used in the Roots practice); notebook item phy:186",
-   "Prerequisite unit sci.forces.changing-motion.L3 (built on, not repeated: its Galileo ramp story is not retold here; this unit uses Aryabhata and Gassendi instead)",
+   "Prerequisite unit sci.forces.changing-motion.L3 (built on, not repeated: its Galileo ramp story is not retold here; this lesson uses Aryabhata and Gassendi instead)",
    "Nearby units checked so experiments are new: sci.forces.push-and-pull.L3 (third law, balloon rocket), sci.forces.friction.L3 (slope test), sci.sound.sources-of-sound.L3 (line of coins), sci.gravity.falling.L3 (drop race)"
   ],
   "science": [

@@ -3,12 +3,12 @@
  "title": "Transparent, translucent and opaque: why more layers let less light through",
  "level": 2,
  "summary": {
-  "text": "One sheet of paper over a drawing still shows it, but a pile hides it, and a torch still glows through the pile. In this unit you will sort things from home by how much light they let through, and count how many layers of polythene, tissue and paper hide a drawing.",
+  "text": "One sheet of paper over a drawing still shows it, but a pile hides it, and a torch still glows through the pile. In this lesson you will sort things from home by how much light they let through, and count how many layers of polythene, tissue and paper hide a drawing.",
   "art": "A girl at a kitchen table laying white paper squares one by one over a drawing of a sun, with a pile of clear plastic squares and tissue squares beside her and a torch ready."
  },
  "intro": {
   "hook": "Hold one paper napkin up to a window, and light shines through it. Hold up a whole packet of napkins, and it looks dark. Where did the light go?",
-  "text": "Some things let light through, and some things block it. But the same paper can do both. One sheet glows in the light. A thick pile looks dark. In this unit you find out which things let light through, and you count how many layers it takes to stop it.",
+  "text": "Some things let light through, and some things block it. But the same paper can do both. One sheet glows in the light. A thick pile looks dark. In this lesson you find out which things let light through, and you count how many layers it takes to stop it.",
   "art": "A boy holding one paper napkin up to a bright window, glowing, and a girl beside him holding up a whole thick packet of napkins, dark."
  },
  "outcomes": [
@@ -2066,7 +2066,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/light-seeing-and-shadows.md: the founder's idea of shining a torch through different plastics and layered transparent sheets grew into the Three Plates sort and the Layer Test. Her note on C.V. Raman and light passing through transparent materials is kept for the Level 3 light units, since the colour of the sea is already told at Level 1.",
-   "Curriculum entry sci.light.transparent-opaque.L2 (covers: which materials let light through), with Cambridge Primary Science Stage 2 Unit 5, where children count sheets of paper in front of a torch. This unit leads on from Light sources (Level 2) and leads to Transparent, translucent and opaque (Level 3), which explains scattering and the gap test."
+   "Curriculum entry sci.light.transparent-opaque.L2 (covers: which materials let light through), with Cambridge Primary Science Stage 2 Unit 5, where children count sheets of paper in front of a torch. This lesson leads on from Light sources (Level 2) and leads to Transparent, translucent and opaque (Level 3), which explains scattering and the gap test."
   ],
   "science": [
    "Light is attenuated exponentially with thickness in an absorbing or scattering medium (the Beer-Lambert law for absorption). In clear ocean water, the sunlit zone reaches about 200 metres and essentially no sunlight remains below about 1,000 metres.",

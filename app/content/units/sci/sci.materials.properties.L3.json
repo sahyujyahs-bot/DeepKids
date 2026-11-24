@@ -3,12 +3,12 @@
  "title": "Properties of materials: what a material is like, and how to test it",
  "level": 3,
  "summary": {
-  "text": "Does water make a material weaker? In this unit you will find out what a property is, then test whether a material snaps or bends, how flexible it is, whether damp makes it weaker, and how fast a drop soaks in.",
+  "text": "Does water make a material weaker? In this lesson you will find out what a property is, then test whether a material snaps or bends, how flexible it is, whether damp makes it weaker, and how fast a drop soaks in.",
   "art": "A split picture: on the left a child's hands testing a steel spoon, a cotton cloth and a glass bangle on a table; on the right a magnified view of the same three materials, showing a crowd of atoms in each, arranged differently."
  },
  "intro": {
   "hook": "Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.",
-  "text": "Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cotton cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. The spinners found that their thread held best in the damp early morning. In the dry heat of noon, it kept snapping. Was the cotton bad? Were the spinners tired? Or does the strength of a thread change with the air? In this unit you will find out, by testing paper and thread at home.",
+  "text": "Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cotton cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. The spinners found that their thread held best in the damp early morning. In the dry heat of noon, it kept snapping. Was the cotton bad? Were the spinners tired? Or does the strength of a thread change with the air? In this lesson you will find out, by testing paper and thread at home.",
   "art": "A river village at dawn, mist on the water. A woman and a girl sit on a mat, spinning cotton into thread so thin it can barely be seen against the light. A long piece of fine cloth lies on the grass beside them, the grass showing through it."
  },
  "outcomes": [
@@ -201,7 +201,7 @@
    "concept": "Hard and soft: the scratch ladder",
    "status": "defined",
    "definition": "A material is hard if it is hard to scratch. If material A scratches material B, then A is harder than B.",
-   "description": "You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is about 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order. Scratching is only one way to test hardness, and the full scratch test is in the unit Sorting materials.",
+   "description": "You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is about 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order. Scratching is only one way to test hardness, and the full scratch test is in the lesson Sorting materials.",
    "examples": [
     "Your fingernail scratches soap and chalk, so it is harder than both.",
     "A diamond scratches everything, so it sits at the top of the ladder.",
@@ -1621,7 +1621,7 @@
     },
     {
      "t": "write",
-     "p": "Look back at every test you did in this unit. Which result surprised you most? Write what you guessed, what really happened, and what you think now.",
+     "p": "Look back at every test you did in this lesson. Which result surprised you most? Write what you guessed, what really happened, and what you think now.",
      "lines": 5,
      "a": "A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more cups of water. Now I think water weakens paper but helps cotton.'",
      "why": "Changing your mind because of evidence is what scientists do. A guess that turns out wrong is useful, because it shows you what you did not know."

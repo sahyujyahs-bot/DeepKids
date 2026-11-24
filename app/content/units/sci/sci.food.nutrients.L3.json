@@ -3,12 +3,12 @@
  "title": "Nutrients: what food is made of, and what each part does",
  "level": 3,
  "summary": {
-  "text": "Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this unit you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.",
+  "text": "Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this lesson you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.",
   "art": "A steel tumbler of milk splitting into two parts: white curds in a cloth on one side and a pale yellow-green liquid in a glass on the other, with small labels around them: protein, fat, water, milk sugar, minerals."
  },
  "intro": {
   "hook": "Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?",
-  "text": "Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.",
+  "text": "Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this lesson you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.",
   "art": "A child at a kitchen table holding a spoon of yellow toor dal up to their eye, with a small chart behind them showing boxes labelled carbohydrate, protein, fat, vitamins, minerals and water."
  },
  "outcomes": [
@@ -1161,7 +1161,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are the people and the institute named in this unit."
+     "why": "These are the people and the institute named in this lesson."
     },
     {
      "t": "write",
@@ -2852,7 +2852,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this unit's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)",
+   "ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this lesson's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)",
    "Cambridge Primary Science Stage 3, Unit 2 'Looking after ourselves' pack (five food groups, water, sugar on labels)",
    "NIOS Level A, Lesson 8 'Food'",
    "Nearby units read and not repeated: sci.food.balanced-diet.L3 (paper fat test, vitamin C iodine test, yeast balloons, beriberi story), sci.food.where-food-comes-from.L3 (curd bacteria, sprouting moong, iodine starch test), sci.what-is-life.cells.L3 (curd bowls)"

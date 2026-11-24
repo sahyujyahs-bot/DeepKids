@@ -3,12 +3,12 @@
  "title": "Life beyond Earth: where living things could survive",
  "level": 3,
  "summary": {
-  "text": "Why does very salty water stay liquid in cold that freezes plain water, and why does that matter for finding life in space? In this unit you will lift an ice cube with a thread, test salty water in a freezer, and play a card game about where life could live.",
+  "text": "Why does very salty water stay liquid in cold that freezes plain water, and why does that matter for finding life in space? In this lesson you will lift an ice cube with a thread, test salty water in a freezer, and play a card game about where life could live.",
   "art": "A split picture: on the left a steaming hot spring ringed with orange and green microbe mats, on the right a cracked white ice sheet with dark salty water below, and above both a starry sky with Jupiter's icy moon Europa."
  },
  "intro": {
   "hook": "Lay a thread across an ice cube. Lift the thread, and the ice stays behind. Now sprinkle a pinch of salt on the ice and wait one minute. Lift again, and the ice cube comes up hanging on the thread. What did the salt do to the ice?",
-  "text": "Salt makes ice melt, even in the cold, and that small trick matters a great deal for life. Every living thing needs liquid water. In this unit you find out which tiny living things survive in boiling water, in ice and in salt. You test, in your own freezer, how cold salty water can get before it freezes. Then you use what you found to ask the big question: could there be life on other worlds, and where should we look?",
+  "text": "Salt makes ice melt, even in the cold, and that small trick matters a great deal for life. Every living thing needs liquid water. In this lesson you find out which tiny living things survive in boiling water, in ice and in salt. You test, in your own freezer, how cold salty water can get before it freezes. Then you use what you found to ask the big question: could there be life on other worlds, and where should we look?",
   "art": "A child's hand lifting an ice cube out of a steel bowl by a cotton thread, with a few grains of salt on the ice."
  },
  "outcomes": [
@@ -360,7 +360,7 @@
    "Arjun was thinking hard. \"Are there penguins in it?\"",
    "\"No penguins,\" said Lakshmi Chithi, smiling. \"Just microbes. But here is a bigger question. Far away, going round the planet Jupiter, there is a moon called Europa. Europa is covered in ice, kilometres thick. Under the ice, scientists are fairly sure there is a huge ocean of salty water. It is so far from the Sun that it should be frozen solid. But the salt, and heat from inside the moon, may keep it liquid.\"",
    "\"So there could be microbes in it,\" said Kavya slowly. \"Like in Lake Vida.\"",
-   "\"There could be,\" said Lakshmi Chithi. \"Nobody knows yet. A spacecraft called Europa Clipper is on its way there now, to find out what the ice and the water are made of. Maybe when you are grown up, you will know the answer.\"",
+   "\"There could be,\" said Lakshmi Chithi. \"Nobody knows yet. A spacecraft called Europa Clipper is on its way there now, to find out what the ice and the water are made of. Maybe you will help find the answer.\"",
    "After the call, Kavya took a clean katori from the kitchen. She filled it with water, and stirred in salt, spoon after spoon, until no more would dissolve. She put it in the freezer, right at the back where it was coldest.",
    "\"What are you doing?\" asked Arjun.",
    "\"Making a tiny Europa,\" said Kavya. \"Let's see if it freezes by morning.\"",
@@ -1331,7 +1331,7 @@
      "qty": 1
     },
     {
-     "item": "the Grand Prismatic Spring video from the videos in this unit, on a phone or tablet",
+     "item": "the Grand Prismatic Spring video from the videos in this lesson, on a phone or tablet",
      "qty": 1
     }
    ],
@@ -1399,7 +1399,7 @@
      "qty": 1
     },
     {
-     "item": "the explanation cards from this unit, to look facts up",
+     "item": "the explanation cards from this lesson, to look facts up",
      "qty": 1
     }
    ],
@@ -2098,7 +2098,7 @@
        "says": "Enceladus. It sprays its ocean into space, so we can fly through the jets and test the water without drilling through ice."
       }
      ],
-     "ask": "Which mission would you choose? Give a reason from this unit. Then say one good point that another person made.",
+     "ask": "Which mission would you choose? Give a reason from this lesson. Then say one good point that another person made.",
      "lines": 5,
      "a": "A strong answer picks one and gives a reason. For example: Europa, because every living thing needs liquid water, and the freezer test showed that salty water can stay liquid in deep cold. It then admits a fair point from someone else, such as that Enceladus's jets make it easier to test the water.",
      "why": "This is a real argument among space scientists. Each place has strengths, and the money for missions is limited."
@@ -2226,7 +2226,7 @@
        "says": "On Earth, microbes lived alone for about 3 billion years before animals appeared. Animals may need a long run of lucky events. Microbes may be common but animals rare."
       }
      ],
-     "ask": "Which scientist do you agree with more? Use a fact from this unit. Then say what evidence would change your mind.",
+     "ask": "Which scientist do you agree with more? Use a fact from this lesson. Then say what evidence would change your mind.",
      "lines": 6,
      "a": "A strong answer picks a side with a fact, for example the 3 billion years of microbes on Earth, and names evidence that would settle it, such as finding oxygen in a faraway planet's air, or a signal.",
      "why": "This is a real, open argument. Nobody knows the answer, and both scientists use real evidence."
@@ -2704,7 +2704,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit we froze salty water, tasted sea ice, and read about microbes who live in boiling springs and in Antarctic brine. Now we ask what this tells us about life, and whether Earth is the only world that has it.",
+  "context": "In this lesson we froze salty water, tasted sea ice, and read about microbes who live in boiling springs and in Antarctic brine. Now we ask what this tells us about life, and whether Earth is the only world that has it.",
   "deep_truth": {
    "truth": "In the freezer test, the plain water froze hard, but the very salty water stayed liquid. Salt keeps water liquid in cold that freezes plain water solid. Living things need liquid water, and microbes live in salty water trapped in Antarctic ice. So the salty oceans under the ice of moons like Europa could hold life too.",
    "habit": "We think of icy places as dead, because cold feels deadly to us. But what life needs is liquid water, not warmth, and salt keeps water liquid far below zero.",

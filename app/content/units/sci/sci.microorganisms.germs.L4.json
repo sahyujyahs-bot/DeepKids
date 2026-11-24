@@ -8,12 +8,12 @@
   "sci.health.diseases-and-medicines.L4"
  ],
  "summary": {
-  "text": "Two children have a sore throat, and the doctor gives tablets to only one. Why? In this unit you will test which kitchen things slow a living microbe, play a rice and dal game in which a medicine leaves a few tough germs behind, and see how a vaccine prepares the body.",
+  "text": "Two children have a sore throat, and the doctor gives tablets to only one. Why? In this lesson you will test which kitchen things slow a living microbe, play a rice and dal game in which a medicine leaves a few tough germs behind, and see how a vaccine prepares the body.",
   "art": "A doctor's table with two children: one holding a strip of tablets, the other holding a cup of warm water, and above them a small drawing of a bacterium and a virus."
  },
  "intro": {
   "hook": "A child in a class has measles. Most of the other children sit in the same room and do not catch it. Their bodies were ready for the germ before the germ arrived. What made them ready?",
-  "text": "In this unit you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.",
+  "text": "In this lesson you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.",
   "art": "A child's arm with a small round plaster on it, and beside the arm a faint drawing of the same arm with tiny defenders standing guard in the blood."
  },
  "outcomes": [
@@ -3638,7 +3638,7 @@
    "ideas/by_topic/microorganisms.md: the founder's picture of bacteria as beings who sense, decide and act, and who pass genes to each other by horizontal gene transfer, used in the explanation of resistance",
    "SCI Cards in ideas/scientists.json: Esther Lederberg (replica plating, her credit left out), Gagandeep Kang (an Indian rotavirus vaccine) and Katalin Karikó (modified mRNA), used in how_we_found_out and the vaccine cards",
    "Curriculum entry sci.microorganisms.germs.L4: infectious diseases, medicines and when to use them, vaccines in simple words; Cambridge Stage 4 1.5 Medicines and infectious diseases",
-   "The Level 3 unit on germs, which this unit builds on: the idea of a chain of germs is carried on to rings of vaccinated people, and the doubling of bacteria is carried on to survivors of a medicine"
+   "The Level 3 unit on germs, which this lesson builds on: the idea of a chain of germs is carried on to rings of vaccinated people, and the doubling of bacteria is carried on to survivors of a medicine"
   ],
   "science": [
    "Luria and Delbrück, 'Mutations of bacteria from virus sensitivity to virus resistance', Genetics 28, 1943",
@@ -3663,5 +3663,5 @@
   "when": "1943 (the numbers test) and 1952 (the velvet stamp)",
   "wrong_idea": "Many scientists thought that bacteria become resistant because of the medicine, as if the medicine changed them. Esther Lederberg's velvet stamp showed that the resistant bacteria were already there, on a dish that had never met the medicine."
  },
- "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Yeast Test: the amounts (half a teaspoon of yeast and a teaspoon of sugar in about 100 millilitres of hand-warm water) usually foam within 10 to 15 minutes, but yeast and room warmth vary. The steps tell the parent what to do if the Plain glass stays flat, and say that the child's own result is the real one. Rice and Dal: the numbers were played out on paper and by computer many times. On Plate A the tough grains typically reach about 4 to 12 after three days, and on Plate B they stay near 2, but about one game in four loses the dal on Plate B by chance, and the steps say so. Ring the Germ: a ring at once ends at 2 to 4 houses, one week late ends near 17 to 23, and a plain spread reaches 31 of 36 houses after four weeks, as the steps state. Medicine or Not? is general learning and not medical advice, and says so. Facts to verify before release: the date and wording of Pasteur's Lille lecture, the wording of Tao Te Ching 64 and Thirukkural 948, the 1975 date for India's last smallpox case, the January 2011 date and place for India's last polio case, the 2014 polio-free date, and the exact length of the videos. Medicine doses in the unit are made-up examples for maths practice only."
+ "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Yeast Test: the amounts (half a teaspoon of yeast and a teaspoon of sugar in about 100 millilitres of hand-warm water) usually foam within 10 to 15 minutes, but yeast and room warmth vary. The steps tell the parent what to do if the Plain glass stays flat, and say that the child's own result is the real one. Rice and Dal: the numbers were played out on paper and by computer many times. On Plate A the tough grains typically reach about 4 to 12 after three days, and on Plate B they stay near 2, but about one game in four loses the dal on Plate B by chance, and the steps say so. Ring the Germ: a ring at once ends at 2 to 4 houses, one week late ends near 17 to 23, and a plain spread reaches 31 of 36 houses after four weeks, as the steps state. Medicine or Not? is general learning and not medical advice, and says so. Facts to verify before release: the date and wording of Pasteur's Lille lecture, the wording of Tao Te Ching 64 and Thirukkural 948, the 1975 date for India's last smallpox case, the January 2011 date and place for India's last polio case, the 2014 polio-free date, and the exact length of the videos. Medicine doses in the lesson are made-up examples for maths practice only."
 }

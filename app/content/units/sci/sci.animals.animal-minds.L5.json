@@ -3,12 +3,12 @@
  "title": "Do other animals feel? Bee dances, elephant rumbles and the question of consciousness",
  "level": 5,
  "summary": {
-  "text": "A hermit crab in a good shell puts up with a small electric shock, but one in a poor shell climbs out. What does that tell us about what the crab feels? In this unit you will read a bee's dance, test a prize against an ice cube on yourself, and watch one animal.",
+  "text": "A hermit crab in a good shell puts up with a small electric shock, but one in a poor shell climbs out. What does that tell us about what the crab feels? In this lesson you will read a bee's dance, test a prize against an ice cube on yourself, and watch one animal.",
   "art": "A hermit crab half out of a small plain shell on wet sand, looking towards a larger, better shell, with a child crouching nearby holding an ice cube over a bowl."
  },
  "intro": {
   "hook": "Someone taps just below your kneecap and your leg kicks. Someone offers you the last piece of mysore pak and you stop to think about your sister. Both are things your body did. What is the difference between them?",
-  "text": "The kick happens the same way every time, whatever else is going on. The sweet is different. You weigh how much you want it against how your sister will feel. Scientists use this difference to study other animals. They cannot ask a bee or a crab how they feel. But they can watch whether the animal weighs one thing against another. In this unit you will run that test on yourself. You will also learn two ways animals send detailed messages: the dance of the honeybee and the low rumble of the elephant.",
+  "text": "The kick happens the same way every time, whatever else is going on. The sweet is different. You weigh how much you want it against how your sister will feel. Scientists use this difference to study other animals. They cannot ask a bee or a crab how they feel. But they can watch whether the animal weighs one thing against another. In this lesson you will run that test on yourself. You will also learn two ways animals send detailed messages: the dance of the honeybee and the low rumble of the elephant.",
   "art": "A child at a table with one piece of mysore pak on a plate between her and her younger sister, both looking at it."
  },
  "outcomes": [
@@ -568,7 +568,7 @@
    {
     "source": "Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789), chapter 17, in a footnote",
     "teaching": "On how we should treat other animals, he wrote: 'The question is not, Can they reason? nor, Can they talk? but, Can they suffer?'",
-    "link": "Bentham said that what matters is feeling, and that cleverness and speech are beside the point. The trade-off tests and mood tests in this unit are ways of putting his question to a crab or a bee."
+    "link": "Bentham said that what matters is feeling, and that cleverness and speech are beside the point. The trade-off tests and mood tests in this lesson are ways of putting his question to a crab or a bee."
    }
   ],
   "science": [
@@ -1777,7 +1777,7 @@
      "say": "Show me your test, in a drawing or with the bowls. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?",
      "kid": "Draw your test, or set out the bowls and tell it. Fix each problem on your list. Then make the favourite food harder to get.",
      "context": "In this step of Ask Without Words you draw a plan and add a cost to one choice.",
-     "parent": "A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this unit's trade-off tests."
+     "parent": "A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this lesson's trade-off tests."
     },
     {
      "id": "s3",
@@ -2519,7 +2519,7 @@
   "Vets now give painkillers and anaesthetics to fish, and some aquariums do the same for octopuses.",
   "Britain's Animal Welfare (Sentience) Act of 2022 requires the government to consider how its decisions affect animals who can feel, including crabs and octopuses.",
   "Engineers have copied the way honeybee colonies share news of good flower patches, to write computer methods that search for good answers.",
-  "Nurses and doctors judge pain in babies, who cannot speak, from the face, the cry, the heartbeat and how the baby moves. They work out a feeling from outside, as this unit does for other animals."
+  "Nurses and doctors judge pain in babies, who cannot speak, from the face, the cry, the heartbeat and how the baby moves. They work out a feeling from outside, as this lesson does for other animals."
  ],
  "spotted": [
   {
@@ -2723,7 +2723,7 @@
    "title": "Nature Conservation Foundation",
    "url": "https://www.ncf-india.org/",
    "kind": "interactive",
-   "why": "For the parent: the Indian group whose elephant warning system on the Valparai plateau appears in this unit's story."
+   "why": "For the parent: the Indian group whose elephant warning system on the Valparai plateau appears in this lesson's story."
   },
   {
    "title": "The New York Declaration on Animal Consciousness",
@@ -2880,7 +2880,7 @@
    "ideas/by_topic/our-closest-cousins.md and combined/sci-C5-our-closest-cousins.json: feelings (play, laughter and grief), Valparai, and the idea of a non-human person, reworked here for elephants, bees and crabs",
    "combined/sci-C5-thinking-and-memory.json: the subconcepts on whether emotions are built in or constructed, animal consciousness, and what consciousness is (emergence, panpsychism), used for the perspectives. None of its experiments or its story is reused",
    "ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card",
-   "The Level 3 and Level 4 units of this subtopic and the Level 4 units on animal communication and animal societies, read so that nothing is repeated: this unit adds the tests for feeling, the dance controversy and dialects, elephant rumbles and the consciousness debate"
+   "The Level 3 and Level 4 units of this subtopic and the Level 4 units on animal communication and animal societies, read so that nothing is repeated: this lesson adds the tests for feeling, the dance controversy and dialects, elephant rumbles and the consciousness debate"
   ],
   "science": [
    "von Frisch, K., The Dance Language and Orientation of Bees, Harvard University Press, 1967",

@@ -3,12 +3,12 @@
  "title": "Energy by the numbers: how much there is, and how fast it comes",
  "level": 4,
  "summary": {
-  "text": "A small bulb left on all night can use more energy than a big heater used for a few minutes. How? In this unit you will work out your own joules and watts on a staircase, hunt for rating plates at home, and time the blinks on your electricity meter.",
+  "text": "A small bulb left on all night can use more energy than a big heater used for a few minutes. How? In this lesson you will work out your own joules and watts on a staircase, hunt for rating plates at home, and time the blinks on your electricity meter.",
   "art": "A steel plate with one chapati on it beside a phone on charge, with a thin line of golden numbers joining them, and a ceiling fan turning above."
  },
  "intro": {
   "hook": "Switch on a ceiling fan and a kettle. The kettle is much more powerful, yet the fan can cost you more in a night. How can a gentle fan use more than a fierce kettle?",
-  "text": "To answer that, you need to ask two different questions. How much energy is there? And how fast does it move? In this unit you climb a staircase against a stopwatch, and you turn your own climb into numbers. You watch the little light on the electricity meter blink as appliances switch on. Then you find out how a chapati, a battery and a sunny window can all be counted in one unit.",
+  "text": "To answer that, you need to ask two different questions. How much energy is there? And how fast does it move? In this lesson you climb a staircase against a stopwatch, and you turn your own climb into numbers. You watch the little light on the electricity meter blink as appliances switch on. Then you find out how a chapati, a battery and a sunny window can all be counted in one unit.",
   "art": "A child at the bottom of a staircase holding a phone stopwatch, while a parent waits at the top, and a ceiling fan and an electric kettle are drawn small in the corner."
  },
  "outcomes": [
@@ -1463,7 +1463,7 @@
     "your results from the stairs, the lifts and the bill"
    ],
    "general": [
-    "Use things from this unit: an apple lift, a bottle lift, a cell, a phone battery, a chapati, an electricity unit and a litre of petrol.",
+    "Use things from this lesson: an apple lift, a bottle lift, a cell, a phone battery, a chapati, an electricity unit and a litre of petrol.",
     "Put your stair climb on the ladder, at the rung nearest to your joules.",
     "Write the number of zeros beside each rung."
    ],
@@ -1472,7 +1472,7 @@
     "Add a second ladder beside it for watts, from a phone charger to the whole Sun.",
     "Add the energy of something nobody has measured at home, such as a lightning flash or a small earthquake, and say where you found it."
    ],
-   "your_turn": "Build your ladder with the rungs you choose. Which rung was hardest to fill? Which was the biggest surprise? Add one thing of your own that is not in this unit.",
+   "your_turn": "Build your ladder with the rungs you choose. Which rung was hardest to fill? Which was the biggest surprise? Add one thing of your own that is not in this lesson.",
    "context": "This is a design challenge about the size of energy. You build a ladder that shows how much energy things hold, from one joule to a hundred million. You will see how a chapati, a bottle lift and your stair climb compare.",
    "setup": [
     {
@@ -1511,7 +1511,7 @@
     {
      "id": "c1s2",
      "mins": 15,
-     "do": "Find a real thing for each rung. Some are in this unit. Others you must work out or look up. A bottle lift is 10 joules. A cell is about 10 kilojoules. Write each beside its rung.",
+     "do": "Find a real thing for each rung. Some are in this lesson. Others you must work out or look up. A bottle lift is 10 joules. A cell is about 10 kilojoules. Write each beside its rung.",
      "say": "Find something real for each rung. Lifting a bottle is about 10 joules. A small cell is about 10 kilojoules. A chapati is about 0.4 megajoule, so two or three make 1 megajoule. What else can you find?",
      "kid": "Find a real thing for each rung. Write it beside the rung.",
      "parent": "Helpful rungs: 1 J is an apple lift. 10 J is a bottle lift. 100 J is lifting a 10 kilogram bag of rice 1 metre. 1 kJ is 100 bottle lifts. 10 kJ is about an AA cell. 100 kJ is about two phone batteries. 1 MJ is about two and a half chapatis. 10 MJ is about a day of food for a grown-up. 100 MJ is about three litres of petrol. Treat the figures as rough. A tenth rung of 1,000 megajoules is about 30 litres of petrol. Look up what you cannot work out, with a grown-up, and say where you found it. With 2 to 4 children, give each child some rungs, then join the strips. Use sticky notes or paper, not tape on a painted wall.",
@@ -2609,7 +2609,7 @@
    "ideas/by_topic/energy.md: the Work, energy, power concept row (time how long it takes to carry a load upstairs to calculate power, measure how fast different people climb stairs), used for Stair Power",
    "ideas/by_topic/energy.md: the First law row (track daily household energy uses, measure the electricity meter before and after an appliance), used for Meter Blink, Rating Plate Hunt and the Bill Detective",
    "The Combined Class 4 energy lesson (sci-C4-energy): the energy hunt, the idea of useful and wasted energy in a fan and a bulb, and the shrinking bounce, reworked here into the joule and watt ladder",
-   "The Class 3 unit Energy around us, which this unit builds on: from 'energy makes things happen' to 'energy can be counted in joules and its speed in watts'",
+   "The Class 3 unit Energy around us, which this lesson builds on: from 'energy makes things happen' to 'energy can be counted in joules and its speed in watts'",
    "Cambridge Stage 4 2.1 Energy around us, for coverage only. Its text is not copied"
   ],
   "science": [

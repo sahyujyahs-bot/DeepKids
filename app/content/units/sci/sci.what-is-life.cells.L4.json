@@ -3,12 +3,12 @@
   "title": "Inside a cell: the skin, the jelly and the instruction room",
   "level": 4,
   "summary": {
-    "text": "A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this unit you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.",
+    "text": "A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this lesson you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.",
     "art": "Two potato strips held side by side: one stiff and straight from a cup of plain water, the other drooping over a finger from a cup of salty water."
   },
   "intro": {
     "hook": "Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?",
-    "text": "Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this unit you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.",
+    "text": "Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this lesson you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.",
     "art": "A limp coriander bunch on the left and the same bunch standing straight in a steel tumbler of water on the right, with a zoomed-in circle showing round, full cells in the standing leaf."
   },
   "outcomes": [
@@ -3006,7 +3006,7 @@
       "Founder's RNA picture book in ideas/by_topic/microorganisms.md (single-celled life that senses, decides and signals; the prokaryote mother who splits into two), used in the single-cell explanation and the roots",
       "DeepKids notebook items bio:71 to bio:73 (cell biology, cell theory, prokaryotic and eukaryotic cells)",
       "Existing DeepKids lesson sci-C3-living-and-non-living-signs-of-life (cells, bacteria and viruses), improved on, with a different story",
-      "Level 3 unit sci.what-is-life.cells.L3, which this unit goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied"
+      "Level 3 unit sci.what-is-life.cells.L3, which this lesson goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied"
     ],
     "science": [
       "Pfeffer, W., Osmotische Untersuchungen, 1877 (osmosis and the man-made membrane)",

@@ -14,7 +14,7 @@ const genUnit = (g) => ({
   board: "gen",
   subj: g.subj,
   level: g.level || 1,
-  book: "DeepKids topic",
+  book: "DeepKids track",
   n: "★",
   title: g.name,
   dk: [],

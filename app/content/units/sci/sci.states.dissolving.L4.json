@@ -3,12 +3,12 @@
   "title": "Dissolving: what water takes, what oil takes, and where the fizz hides",
   "level": 4,
   "summary": {
-    "text": "Turmeric stains a plastic box and will not wash out with water, yet food colour spreads into water at once. Why? In this unit you will test which colours go into water and which into oil, see where the fizz in soda comes from, and make ice colder with salt.",
+    "text": "Turmeric stains a plastic box and will not wash out with water, yet food colour spreads into water at once. Why? In this lesson you will test which colours go into water and which into oil, see where the fizz in soda comes from, and make ice colder with salt.",
     "art": "A kitchen counter with two jars side by side, water on the left with red food colour spread through it and oil on the right with golden turmeric colour in it, and a cold soda bottle with a thread of bubbles rising beside them."
   },
   "intro": {
     "hook": "Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?",
-    "text": "Water dissolves some things and not others. In this unit you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.",
+    "text": "Water dissolves some things and not others. In this lesson you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.",
     "art": "A white plastic tiffin box with a yellow turmeric stain, a bottle of coconut oil beside it, and a cotton cloth with a yellow smear lifting the stain off."
   },
   "outcomes": [
@@ -1335,7 +1335,7 @@
       "title": "Fizz Watch: where does the fizz come from?",
       "mins": 15,
       "days": 1,
-      "context": "This is the first thing to do in the unit. You watch a cold soda being poured and look for where the bubbles begin. You will find out where the gas was hiding before the bottle was opened.",
+      "context": "This is the first thing to do in the lesson. You watch a cold soda being poured and look for where the bubbles begin. You will find out where the gas was hiding before the bottle was opened.",
       "materials": [
         {
           "item": "one chilled bottle of soda water or a fizzy drink",
@@ -3290,7 +3290,7 @@
     "founder": [
       "ideas/by_topic/gases-evaporation-condensation-solutions.md: the solutions and gases rows, with the idea that unseen things are held in balance, which shaped the soda tests and the idea that gas hides in a clear liquid",
       "ideas/by_topic/matter-and-particles.md: matter is made of particles that attract each other in different ways, used for why water and oil take different things",
-      "The Class 3 unit on dissolving, which this unit builds on: the idea that a dissolved thing is still there, now extended to which liquid takes which thing, gases, and cold",
+      "The Class 3 unit on dissolving, which this lesson builds on: the idea that a dissolved thing is still there, now extended to which liquid takes which thing, gases, and cold",
       "The combined lesson sci-C5-gases-evaporation-condensation-solutions: its parts Gases dissolve too and The dissolving race inspired the fizz tests. Its story and worksheets were not reused",
       "PHILOSOPHY.md library: Chandogya Upanishad 6.13 on salt in water, and Kabir on the drop and the ocean"
     ],

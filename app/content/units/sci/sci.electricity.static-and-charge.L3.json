@@ -3,12 +3,12 @@
  "title": "Static electricity: why a rubbed balloon sticks to the wall, and what lightning is",
  "level": 3,
  "summary": {
-  "text": "Why does a rubbed balloon stick to the wall and lift your hair? In this unit you will test which cloth charges a balloon best, bend a stream of water with a rubbed object, and make a safety plan for a thunderstorm.",
+  "text": "Why does a rubbed balloon stick to the wall and lift your hair? In this lesson you will test which cloth charges a balloon best, bend a stream of water with a rubbed object, and make a safety plan for a thunderstorm.",
   "art": "A girl lifting a rubbed balloon slowly away from her head, her hair rising up towards it, with a storm cloud and a lightning bolt seen through the window behind her."
  },
  "intro": {
   "hook": "Rub a balloon on your hair, or on a woollen shawl, about ten times. Now hold it against the wall and let go. It stays there, with no tape and no glue. What is holding it up?",
-  "text": "Nothing you can see is holding the balloon. The rubbing has given it an electric charge, and the charge attracts the wall. In this unit you rub balloons, combs and rulers with different cloths, and find out which ones work best. You make paper jump, water bend and an empty can roll without touching them. You find out why it all works badly on a damp monsoon day. And you learn how a storm cloud does the same thing until it makes lightning, and how to stay safe when it does.",
+  "text": "Nothing you can see is holding the balloon. The rubbing has given it an electric charge, and the charge attracts the wall. In this lesson you rub balloons, combs and rulers with different cloths, and find out which ones work best. You make paper jump, water bend and an empty can roll without touching them. You find out why it all works badly on a damp monsoon day. And you learn how a storm cloud does the same thing until it makes lightning, and how to stay safe when it does.",
   "art": "A blue balloon stuck to a painted wall at a child's head height, with no tape, and a child's hand just letting go of it."
  },
  "outcomes": [
@@ -2343,7 +2343,7 @@
      "ask": "Who do you agree with? Give your evidence. Then say what the other person got right.",
      "lines": 5,
      "a": "A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.",
-     "why": "This tests the hardest idea in the unit: how a charged thing attracts a neutral one."
+     "why": "This tests the hardest idea in the lesson: how a charged thing attracts a neutral one."
     },
     {
      "t": "mcq",

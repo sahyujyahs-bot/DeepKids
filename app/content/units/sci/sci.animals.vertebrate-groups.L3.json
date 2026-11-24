@@ -3,7 +3,7 @@
  "title": "Animals with a backbone: the five groups and how they keep warm",
  "level": 3,
  "summary": {
-  "text": "Why does a lizard sit on a sunny wall, while you do not need to? In this unit you will test whether a fur coat keeps warmth in, watch a lizard in sun and shade, sort animals into the five backbone groups, and see why frogs lay eggs in water.",
+  "text": "Why does a lizard sit on a sunny wall, while you do not need to? In this lesson you will test whether a fur coat keeps warmth in, watch a lizard in sun and shade, sort animals into the five backbone groups, and see why frogs lay eggs in water.",
   "art": "Five animals a city child can meet, in a row: a fish on ice at the market, a frog by a monsoon puddle, a house lizard on a wall, a puffed-up pigeon on a window ledge, and a dog lying in the shade, each with a small sun or flame symbol above them."
  },
  "intro": {
@@ -1486,7 +1486,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask the question below. Then say that this unit is about animals that make their own heat and animals that do not.",
+     "do": "Ask the question below. Then say that this lesson is about animals that make their own heat and animals that do not.",
      "say": "Some animals are like your hand. They make their own heat. Others are more like the spoon. They warm up only when something warm is near them, like the sun. Which animals do you think are like the spoon?",
      "kid": "Your hand made heat. The spoon only got heat from your hand. Think about which animals are like the spoon.",
      "context": "This is the last step of the spoon in your fist. It links the spoon to animals that make their own heat and animals that do not.",
@@ -3364,7 +3364,7 @@
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is called the self of everything that moves and everything that stays still.",
-    "link": "In this unit, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.",
+    "link": "In this lesson, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.",
     "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
     "verse_lang": "sa"
    },

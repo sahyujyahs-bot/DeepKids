@@ -3,12 +3,12 @@
   "title": "Solids, liquids and gases: why a gas has mass and fills any container",
   "level": 5,
   "summary": {
-    "text": "A balloon of air seems to weigh nothing, so does air have mass at all? In this unit you will weigh two balloons on a hanger to compare gases, watch smoke fill two jars, pour air upwards to catch it, and build a plate of air from 100 grains.",
+    "text": "A balloon of air seems to weigh nothing, so does air have mass at all? In this lesson you will weigh two balloons on a hanger to compare gases, watch smoke fill two jars, pour air upwards to catch it, and build a plate of air from 100 grains.",
     "art": "A red cooking gas cylinder on a platform scale in an Indian kitchen, with a girl reading the number painted inside its top ring."
   },
   "intro": {
     "hook": "A full cooking gas cylinder is 14.2 kilograms heavier than an empty one. You cannot see the gas that burns at the stove. So how can something you cannot see have so much mass?",
-    "text": "The gas is a real substance, made of particles, just as water and steel are. Its particles are far apart and fly about freely, so we see straight through it. In the cylinder the gas is squeezed until its particles touch, and it becomes a liquid. Air is a gas too, and air has mass. A bedroom holds about 40 kilograms of it. In this unit you catch a gas, pour it, make a new one, and hang two gases on a balance. You also find out why air seems to weigh nothing at all.",
+    "text": "The gas is a real substance, made of particles, just as water and steel are. Its particles are far apart and fly about freely, so we see straight through it. In the cylinder the gas is squeezed until its particles touch, and it becomes a liquid. Air is a gas too, and air has mass. A bedroom holds about 40 kilograms of it. In this lesson you catch a gas, pour it, make a new one, and hang two gases on a balance. You also find out why air seems to weigh nothing at all.",
     "art": "A child looking through an empty-looking glass tumbler, with faint dots drawn inside it to show the particles of air."
   },
   "outcomes": [
@@ -1320,7 +1320,7 @@
       "title": "Pour Air Upwards: catch a gas and move it",
       "mins": 10,
       "days": 1,
-      "context": "This is the first thing to do in the unit. You trap air in a tumbler under water, and then pour that air upwards into a second tumbler.",
+      "context": "This is the first thing to do in the lesson. You trap air in a tumbler under water, and then pour that air upwards into a second tumbler.",
       "materials": [
         {
           "item": "a bucket or deep tub, three-quarters full of water",

@@ -4,12 +4,12 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts once the piece is shorter than 2 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of chapati dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone. The torch extra round in Catch the Electron needs three or more people. The mustard-seed atom needs open space, so that activity is outside the core path, and the gas-stove flame is optional in the staircase activity.",
  "summary": {
-  "text": "Everything you can touch is made of atoms, but how do scientists know they are there if nobody can see them? In this unit you will cut paper in half again and again, roll marbles at a hidden centre like Rutherford, and draw an electron cloud with pencil dots.",
+  "text": "Everything you can touch is made of atoms, but how do scientists know they are there if nobody can see them? In this lesson you will cut paper in half again and again, roll marbles at a hidden centre like Rutherford, and draw an electron cloud with pencil dots.",
   "art": "A zoom in five circles: a child's hand on a wooden table, the wood's fibres, a cluster of molecules, one atom drawn as a soft glowing cloud, and a tiny bright dot at its centre."
  },
  "intro": {
   "hook": "Take a piece of paper. Tear it in half. Tear one half in half again. Keep going. Can you go on for ever? Or will you reach a piece so small it cannot be cut?",
-  "text": "More than 2,000 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny particles, far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called them atoms. Neither of them had a microscope. They worked it out by thinking. In this unit you test their idea yourself, with a strip of paper and a pair of scissors.",
+  "text": "More than 2,000 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny particles, far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called them atoms. Neither of them had a microscope. They worked it out by thinking. In this lesson you test their idea yourself, with a strip of paper and a pair of scissors.",
   "art": "A thinker in simple cotton clothes kneeling in a harvested rice field at sunset, holding a single grain of rice up to his eye."
  },
  "outcomes": [
@@ -1123,7 +1123,7 @@
        "says": "Water looks smooth all the way through. I think you could split it smaller and smaller forever."
       }
      ],
-     "ask": "Which idea do you agree with? Give evidence from this unit. Then say why the other idea made sense.",
+     "ask": "Which idea do you agree with? Give evidence from this lesson. Then say why the other idea made sense.",
      "lines": 5,
      "a": "A strong answer sides with the first idea, using evidence: colour spreading by itself in still water shows tiny moving molecules, and today's microscopes can picture single atoms. It is fair to the second idea: water really does look smooth, and great thinkers such as Aristotle believed this for about 2,000 years. A very strong answer adds that the smallest piece of water, a molecule, can be split into hydrogen and oxygen atoms, but then it is no longer water.",
      "why": "Both ideas were argued over for a very long time. The evidence from the last 200 years shows that water is made of tiny molecules."
@@ -1224,7 +1224,7 @@
     },
     {
      "t": "match",
-     "p": "Each model in this unit stands for something real. Match each model to what it stands for.",
+     "p": "Each model in this lesson stands for something real. Match each model to what it stands for.",
      "pairs": [
       [
        "The small battery in the marble test",

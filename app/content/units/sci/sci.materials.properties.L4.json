@@ -3,12 +3,12 @@
  "title": "Properties of materials: why the same paper tears straight one way and crooked the other",
  "level": 4,
  "summary": {
-  "text": "Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this unit you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.",
+  "text": "Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this lesson you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.",
   "art": "A sheet of newspaper torn in two ways on a kitchen table, one tear running straight and neat, the other crooked and ragged, with a paper clip snapped in two beside it."
  },
  "intro": {
   "hook": "Take a sheet of newspaper. Tear it from top to bottom, along the columns of print. Now take another sheet and tear it from side to side. One tear runs straight as a ruled line. The other wanders and rips. It is the same newspaper, the same hands and the same effort. What is different?",
-  "text": "Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this unit you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.",
+  "text": "Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this lesson you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.",
   "art": "Two hands tearing two sheets of newspaper side by side, one along the columns of print and one across them, with the straight and the crooked tear shown clearly."
  },
  "outcomes": [
@@ -1431,7 +1431,7 @@
     },
     {
      "t": "write",
-     "p": "Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this unit.",
+     "p": "Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this lesson.",
      "lines": 4,
      "a": "A strong answer gives two reasons, such as: one plank has its grain running across the span, and the other along it. Or one plank has a knot or a tiny crack, and a crack can grow and break it. It may also say that one plank was damp. It must be clear that the reasons come from the inside of the wood.",
      "why": "The inside of a plank decides how it breaks: the direction of the grain, tiny cracks and knots. Two planks that look alike can differ inside.",
@@ -3234,7 +3234,7 @@
   }
  ],
  "roots": {
-  "context": "In this unit we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.",
+  "context": "In this lesson we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.",
   "deep_truth": {
    "truth": "A sheet of newspaper tears straight one way and crooked the other. The paper did not change. Its fibres lie mostly one way, so it has a direction built in. One number for how strong paper is leaves out which way you pull.",
    "habit": "We write one value for a material, such as 'paper is weak' or 'wood is strong', as if the direction did not matter. That hides the direction of the pull.",
@@ -3375,7 +3375,7 @@
  },
  "sources": {
   "founder": [
-   "The Level 3 unit on properties of materials, which this unit goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.",
+   "The Level 3 unit on properties of materials, which this lesson goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.",
    "Founder's topic notes on Materials Under Heat (heat reveals hidden properties), which led to the warm bend of the paper clip, and on Transparent, Translucent and Opaque (clarity and obscurity), whose idea of hidden structure shaped the roots card.",
    "Founder's SCI Card for Robert Hooke (elasticity), used as background to the cards on stiffness and the stretching of cloth. The Combined lessons for this topic were not reopened. The experiments here are new."
   ],

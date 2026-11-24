@@ -3,12 +3,12 @@
  "title": "More than five senses: balance, body position, warmth, cold and pain",
  "level": 3,
  "summary": {
-  "text": "Why does a steel plate feel colder than a wooden board when both are the same temperature? In this unit you will race ice cubes on steel and wood, spin round to feel dizzy, and try tricks that show how your body senses position and cold.",
+  "text": "Why does a steel plate feel colder than a wooden board when both are the same temperature? In this lesson you will race ice cubes on steel and wood, spin round to feel dizzy, and try tricks that show how your body senses position and cold.",
   "art": "A child's hand resting on a steel plate on one side and a wooden chopping board on the other, with an ice cube on each. The cube on the steel sits in a big puddle, and the cube on the wood is still almost whole."
  },
  "intro": {
   "hook": "Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?",
-  "text": "The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this unit you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.",
+  "text": "The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this lesson you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.",
   "art": "A girl sitting on a mat after spinning, holding her head, with the walls of the room drawn slightly tilted. A small cut-away picture shows three liquid-filled loops inside her ear."
  },
  "outcomes": [
@@ -290,7 +290,7 @@
   {
    "claim": "People have exactly five senses.",
    "who": "Aristotle, about 2,350 years ago, and many school books since",
-   "for": "Each of the five senses has an organ you can point to, so the list is easy to teach.",
+   "for": "Each of the five best-known senses has an organ you can point to, so the list is easy to teach.",
    "against": "Balance, body position, warmth, cold and pain each have their own receptors. Anyone can test them, as you did in Spin and Stop, Find the Dot and the Ice Race.",
    "status": "rejected",
    "context": "This card is about the old idea that there are only five senses."
@@ -2490,7 +2490,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each test in this unit picked out one hidden sense."
+     "why": "Each test in this lesson picked out one hidden sense."
     },
     {
      "t": "write",
@@ -2544,7 +2544,7 @@
     },
     {
      "t": "write",
-     "p": "Make up a new test of a hidden sense, one that is not in this unit. Say what you would change, what you would keep the same, and what you would measure.",
+     "p": "Make up a new test of a hidden sense, one that is not in this lesson. Say what you would change, what you would keep the same, and what you would measure.",
      "lines": 5,
      "a": "For example: does standing on one foot get easier after a week of practice? Change the day, keep the same foot, the same floor and eyes open, and measure seconds with a stopwatch.",
      "why": "A strong answer changes one thing, keeps the rest the same, and measures a number."
@@ -2863,7 +2863,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/senses.md: the 'Reality' grade grid (Grade 3: perception constructs experience; what we don't see can still exist), the 'All Perception Is Subjective' week, and the SCI Card for Obaid Siddiqi (temperature-sensitive fly mutants, the genetics of sensing). Used as the background for the big questions and the deep truth about what the skin really reports.",
-   "Prerequisite unit sci.senses.five-senses.L3 was read so that this unit does not repeat its experiments (pinched-nose taste, two-point touch, three bowls of water, one-foot balance, nose touch), its Aristotle story or its deep truth."
+   "Prerequisite unit sci.senses.five-senses.L3 was read so that this lesson does not repeat its experiments (pinched-nose taste, two-point touch, three bowls of water, one-foot balance, nose touch), its Aristotle story or its deep truth."
   ],
   "science": [
    "Magnus Blix, papers of 1882 to 1884 on separate cold and warm spots in the skin",

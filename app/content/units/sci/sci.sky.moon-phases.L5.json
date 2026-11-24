@@ -3,12 +3,12 @@
  "title": "Moon phases and eclipses: how much of the Moon is lit, and where a shadow ends",
  "level": 5,
  "summary": {
-  "text": "The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this unit you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.",
+  "text": "The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this lesson you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.",
   "art": "A table at night under one round bulb: a child lifts a peppercorn on a thin stick above white paper, and the small shadow below has a dark middle with a pale grey ring round it."
  },
  "intro": {
   "hook": "The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?",
-  "text": "In this unit you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.",
+  "text": "In this lesson you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.",
   "art": "A child with one eye closed holding a coin at arm's length, so that the coin exactly covers a round steel plate propped on a shelf across the room."
  },
  "outcomes": [
@@ -2182,7 +2182,7 @@
      "qty": 1
     },
     {
-     "item": "your graph from How Much of the Moon Is Lit, or the angle rule from this unit",
+     "item": "your graph from How Much of the Moon Is Lit, or the angle rule from this lesson",
      "qty": 1
     },
     {
@@ -2719,7 +2719,7 @@
        "says": "Each one teaches something different. The solar eclipse shows the Sun's outer layer. The lunar eclipse shows the Earth's shadow and the state of the Earth's air."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
      "a": "Any view with a reason. For the first: the corona shows only in totality. For the second: everyone on the night side of the Earth can see a lunar eclipse. For the third: the red colour of the eclipsed Moon comes from the Earth's air.",
      "why": "A strong answer uses a fact about how each eclipse works, and treats the other views fairly. There is no single right choice.",
      "outcome": 5

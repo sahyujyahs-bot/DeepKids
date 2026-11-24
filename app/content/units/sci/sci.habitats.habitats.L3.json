@@ -3,7 +3,7 @@
  "title": "Habitats: the places that give living things what they need",
  "level": 3,
  "summary": {
-  "text": "Is there anywhere that nothing can live? In this unit you will set out three bowls of milk to see where curd bacteria make a home, play a game of who lives where, test whether a tree gives water to the air, and plan a habitat corner.",
+  "text": "Is there anywhere that nothing can live? In this lesson you will set out three bowls of milk to see where curd bacteria make a home, play a game of who lives where, test whether a tree gives water to the air, and plan a habitat corner.",
   "art": "Four windows in one wall: a pond with a lotus and a frog, a forest with a hornbill, a desert with a camel and a khejri tree, and the blue sea with a turtle; in the corner, a small steel bowl of set white curd."
  },
  "intro": {
@@ -178,7 +178,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away pond showing three levels: a water strider and duckweed on top, fish and tadpoles in the middle, snails and worms in the mud at the bottom.",
-   "context": "This card is about the pond, one of the four big habitats in this unit, and what it gives the living things there."
+   "context": "This card is about the pond, one of the four big habitats in this lesson, and what it gives the living things there."
   },
   {
    "concept": "The forest: homes at every level",
@@ -192,7 +192,7 @@
    ],
    "perspectives": [],
    "art": "A tall forest drawn like a building with floors: hornbills and monkeys in the canopy, a tailorbird's leaf nest in the middle, a frog, beetle and mushrooms on the dark floor.",
-   "context": "This card is about the forest, one of the four big habitats in this unit, and the homes it has at every level."
+   "context": "This card is about the forest, one of the four big habitats in this lesson, and the homes it has at every level."
   },
   {
    "concept": "The desert: little water, lots of life",
@@ -206,7 +206,7 @@
    ],
    "perspectives": [],
    "art": "A desert at noon and the same desert at night: empty-looking sand by day with a burrow entrance; at night, a fox, a lizard, beetles and a desert gerbil out under the stars.",
-   "context": "This card is about the desert, one of the four big habitats in this unit. It explains why a desert is not empty."
+   "context": "This card is about the desert, one of the four big habitats in this lesson. It explains why a desert is not empty."
   },
   {
    "concept": "The sea: the biggest habitat on Earth",
@@ -220,7 +220,7 @@
    ],
    "perspectives": [],
    "art": "A tall cut-away of the sea: a turtle and fish in the bright top, a dolphin lower down, a glowing fish in the dark middle and crabs and worms on the black bottom.",
-   "context": "This card is about the sea, the biggest of the four habitats in this unit, and the different places to live inside it."
+   "context": "This card is about the sea, the biggest of the four habitats in this lesson, and the different places to live inside it."
   },
   {
    "concept": "Comparing the four habitats",
@@ -494,7 +494,7 @@
    "hint": "Think about the Bishnoi, the women of Reni, and the hornbill nesting in a tree."
   },
   {
-   "q": "If you could choose any habitat in this unit to live in as an animal, which would you choose, and what would be hard for you there?",
+   "q": "If you could choose any habitat in this lesson to live in as an animal, which would you choose, and what would be hard for you there?",
    "kind": "big",
    "hint": "Every habitat gives some things easily and makes other things hard."
   },
@@ -2113,7 +2113,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Decide together what to add or change: a plant with flowers, more shade, a second bowl.",
-     "say": "If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng, from this unit's story: he made a place that gives, and life came.",
+     "say": "If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng, from this lesson's story: he made a place that gives, and life came.",
      "kid": "What could you add? Flowers for food? More shade? Make your corner give more.",
      "think": "Your corner gives water and shelter. What would it need to become a whole habitat for one bird?"
     }
@@ -2758,7 +2758,7 @@
       "Thermometers do not work outside"
      ],
      "a": 0,
-     "why": "For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. In this unit's story, snakes died in the hot sun on Jadav Payeng's bare sandbar. The mistake is to treat a small number as a small effect.",
+     "why": "For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. In this lesson's story, snakes died in the hot sun on Jadav Payeng's bare sandbar. The mistake is to treat a small number as a small effect.",
      "context": "The five worlds test is an outdoor experiment: you measure five small places in one garden. Here are made-up results from it.",
      "how": "e2"
     },
@@ -3139,7 +3139,7 @@
    "channel": "A 2013 film by William Douglas McMaster",
    "youtube": "HkZDSqyE1do",
    "mins": 16,
-   "why": "Shows the real Molai forest and the man who planted it, from the story in this unit. Good for the family to watch together.",
+   "why": "Shows the real Molai forest and the man who planted it, from the story in this lesson. Good for the family to watch together.",
    "check": ""
   },
   {
@@ -3472,7 +3472,7 @@
    "url": "https://en.wikipedia.org/wiki/Molai_forest",
    "kind": "place",
    "where": "near Jorhat, Assam",
-   "why": "The forest Jadav Payeng planted on a Brahmaputra sandbar, from this unit's story."
+   "why": "The forest Jadav Payeng planted on a Brahmaputra sandbar, from this lesson's story."
   },
   {
    "title": "Sundarbans National Park",

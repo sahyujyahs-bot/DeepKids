@@ -3,7 +3,7 @@
  "title": "How animals breathe and find their food",
  "level": 3,
  "summary": {
-  "text": "Why do you breathe faster after you run, and how does a fish breathe under water? In this unit you will count your breaths before and after jumping, make a bottle lung, test your breath with limewater made from chuna, and find hidden smells like an animal does.",
+  "text": "Why do you breathe faster after you run, and how does a fish breathe under water? In this lesson you will count your breaths before and after jumping, make a bottle lung, test your breath with limewater made from chuna, and find hidden smells like an animal does.",
   "art": "A split picture: on the left a child breathing out a little cloud onto a cold steel tumbler, a fish with red gills and a frog with shiny wet skin. On the right, a dog sniffing, a bat sending out sound waves and an ant on a sugar trail."
  },
  "intro": {
@@ -1176,7 +1176,7 @@
        "says": "Having two ways is best, like a frog. Lungs work on land, and damp skin works in the pond."
       }
      ],
-     "ask": "Which way do you think is best? Give a reason from this unit. Then say one thing another view has right.",
+     "ask": "Which way do you think is best? Give a reason from this lesson. Then say one thing another view has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.",
      "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp."
@@ -3756,7 +3756,7 @@
    {
     "source": "Taittiriya Upanishad 3.2 and 3.3",
     "teaching": "The boy Bhrigu asks his father Varuna what the source of everything is. Bhrigu first understands that food is that source: from food all beings are born, by food they live, and into food they return. Then he understands that breath, prana, is the source too.",
-    "link": "In this unit, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath.",
+    "link": "In this lesson, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath.",
     "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
     "verse_lang": "sa"
    },

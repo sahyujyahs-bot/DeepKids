@@ -3,7 +3,7 @@
  "title": "Magnet poles: the invisible field that pulls, pushes and cancels",
  "level": 4,
  "summary": {
-  "text": "A paper clip starts sliding towards a magnet before anything touches it. How does the magnet reach across the gap? In this unit you will measure how far a magnet pulls a clip, walk a small compass around a magnet to draw its field, and test what blocks the pull.",
+  "text": "A paper clip starts sliding towards a magnet before anything touches it. How does the magnet reach across the gap? In this lesson you will measure how far a magnet pulls a clip, walk a small compass around a magnet to draw its field, and test what blocks the pull.",
   "art": "A bar magnet on a sheet of paper with small compass needles all around it, each pointing along a curved path from one end of the magnet to the other."
  },
  "intro": {
@@ -2999,7 +2999,7 @@
   "founder": [
    "ideas/by_topic/magnets.md: 'use a fridge magnet to move a paperclip without touching', 'observe fridge magnets' different strengths', 'sprinkle iron filings around a bar magnet to reveal field lines' and 'draw field lines around magnets' (used in the Floating Clip, the Home Magnet Survey, the iron filings picture and the field map)",
    "The Combined Class 5 lesson on magnets: testing the strength of magnets fairly with repeated readings, a magnet's force acting across a gap, and an iron sheet blocking it (used in the reach tests and What Stands Between)",
-   "The Class 3 units on poles and on magnets and materials, which this unit builds on: poles, attract and repel, domains and the needle compass, now extended to fields, distance and cancelling"
+   "The Class 3 units on poles and on magnets and materials, which this lesson builds on: poles, attract and repel, domains and the needle compass, now extended to fields, distance and cancelling"
   ],
   "science": [
    "Michael Faraday, 'On the physical character of the lines of magnetic force', Philosophical Magazine, 1852",

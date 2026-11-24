@@ -3,12 +3,12 @@
  "title": "How we see: light comes into our eyes",
  "level": 3,
  "summary": {
-  "text": "Is it light going into your eye that lets you see, or something coming out of it? In this unit you will try to see inside a dark box, watch your pupils change, find your blind spot, and draw the path light takes into your eye.",
+  "text": "Is it light going into your eye that lets you see, or something coming out of it? In this lesson you will try to see inside a dark box, watch your pupils change, find your blind spot, and draw the path light takes into your eye.",
   "art": "A sunlit kitchen: a dotted line of light runs from the window to a mango on the table, bounces off it, and goes into a child's eye, with a small glowing brain behind the eye."
  },
  "intro": {
   "hook": "Close your eyes. Now open them. Did something go out of your eyes to the room? Or did something come into your eyes from the room?",
-  "text": "Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this unit you will know what your eyes need, and what really happens when you look at something.",
+  "text": "Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this lesson you will know what your eyes need, and what really happens when you look at something.",
   "art": "A child standing in a pitch-dark room with wide-open eyes, their hand held up in front of their face but invisible, only a faint outline drawn."
  },
  "outcomes": [
@@ -1060,7 +1060,7 @@
        "says": "Light comes from things into the eye. In a dark room we see nothing, even with our eyes wide open."
       }
      ],
-     "ask": "Which one do you agree with? Give a reason from a test you did in this unit. Then say what Euclid got right.",
+     "ask": "Which one do you agree with? Give a reason from a test you did in this lesson. Then say what Euclid got right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with evidence, for example the dark box: with no light, open eyes saw nothing. It then gives Euclid a fair point: we do see only what our eyes point towards, and his straight lines between eye and thing were right. Only the direction was wrong.",
      "why": "Euclid's idea was sensible for his time, and his straight-line drawings still work. Ibn al-Haytham tested which way the light goes, and the tests showed it comes into the eye."
@@ -1228,7 +1228,7 @@
        "says": "The eye is not like a camera. The brain fills in the blind spot, and people have to learn to make sense of what they see. A camera just records."
       }
      ],
-     "ask": "Who do you agree with more? Give evidence from an activity in this unit. Then say one thing the other person has right.",
+     "ask": "Who do you agree with more? Give evidence from an activity in this lesson. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence, for example the Eye in a Box (a hole and a screen, like a camera) or the blind spot test (the brain filled in the gap, which a camera cannot do). It then gives the other side a fair point. The front of the eye really does work like a camera, but the seeing is finished in the brain.",
      "why": "Both are partly right. The camera idea fits the front of the eye well. It leaves out what the brain does with the signals."
@@ -1453,7 +1453,7 @@
        "says": "The light reaching your eyes already carries rich information about the world. As you move around, you pick it up directly. You do not need a guessed picture inside your head."
       }
      ],
-     "ask": "Which idea fits better with what you found in this unit? Give one piece of evidence. Then give one piece of evidence for the other side.",
+     "ask": "Which idea fits better with what you found in this lesson? Give one piece of evidence. Then give one piece of evidence for the other side.",
      "lines": 5,
      "a": "A strong answer uses real evidence for each side. For Seth: in the Find Your Blind Spot activity, the brain filled in a gap with white that the eye never caught. For Gibson: in the Ibn al-Haytham's Lamps activity, each torch's light arrived on its own spot, carrying real information about where that torch was. It may say both can be partly true.",
      "why": "Scientists still argue about this. There is good evidence that the brain fills in and guesses, and also good evidence that light carries a lot of real information."
@@ -2476,7 +2476,7 @@
      "do": "Put both drawings side by side and talk about what changed.",
      "say": "Look at both drawings. What's different? What made you change your mind?",
      "kid": "Put your two drawings side by side. What changed? What made you change your mind?",
-     "think": "Scientists change their ideas when they find new evidence. What did you see or do in this unit that changed your drawing?",
+     "think": "Scientists change their ideas when they find new evidence. What did you see or do in this lesson that changed your drawing?",
      "parent": "A good answer names one test. For example, in the dark box nothing could be seen with no light, so eyes cannot be sending out rays."
     }
    ],

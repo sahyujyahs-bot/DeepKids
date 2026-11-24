@@ -3,12 +3,12 @@
  "title": "Seasons: how plants, animals and people change through the year",
  "level": 3,
  "summary": {
-  "text": "Why is summer hotter than winter, and why do leaves turn yellow? In this unit you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.",
+  "text": "Why is summer hotter than winter, and why do leaves turn yellow? In this lesson you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.",
   "art": "A round picture split into three parts: a hot summer street in Chennai with a mango seller and a neer mor pot, a monsoon street with umbrellas and frogs in a puddle, and a cool winter morning with a kolam, a shawl and ducks on a lake."
  },
  "intro": {
   "hook": "A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?",
-  "text": "The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.",
+  "text": "The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this lesson you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.",
   "art": "A neem tree beside a block of flats, half her branches bare with yellow leaves falling and half with fresh light-green leaves and tiny white flowers, and a girl watching from a balcony."
  },
  "outcomes": [
@@ -2104,7 +2104,7 @@
        "says": "We can't be sure from one look. Let's watch the tree for a month and see if new leaves come."
       }
      ],
-     "ask": "Whose idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Whose idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the girl is probably right. It then gives another view its due: the mother's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.",
      "why": "There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time."
@@ -2845,7 +2845,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.",
+  "context": "In this lesson you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the Hidden Colours test, a paper strip shows a yellow band from a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.",
    "habit": "We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. But in the dry season, the yellow is a colour that was in the leaf all along. It shows once the tree has broken down the green.",
@@ -2861,7 +2861,7 @@
    {
     "source": "Ecclesiastes 3:1-2 (the Bible)",
     "teaching": "There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted.",
-    "link": "In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.",
+    "link": "In this lesson, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.",
     "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם", "עֵת לָלֶדֶת וְעֵת לָמוּת", "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"],
     "verse_lang": "he"
    },
@@ -2875,7 +2875,7 @@
    {
     "source": "Kalidasa, Ritusamhara (The Gathering of the Seasons)",
     "teaching": "The poet Kalidasa wrote a long poem about India's six seasons, from summer to spring. In each one, he describes the weather, the plants, the animals and how people live.",
-    "link": "Kalidasa watched the same things this unit asks you to watch: what changes in the plants, the animals and the people as each season comes."
+    "link": "Kalidasa watched the same things this lesson asks you to watch: what changes in the plants, the animals and the people as each season comes."
    }
   ],
   "science": [

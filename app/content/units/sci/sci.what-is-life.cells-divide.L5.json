@@ -3,7 +3,7 @@
  "title": "Two ways to divide, cells with no job yet, and cells that die on time",
  "level": 5,
  "summary": {
-  "text": "Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this unit you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.",
+  "text": "Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this lesson you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.",
   "art": "A tumbler of water on a window sill holding a pudina cutting with new white roots, beside a child's open hand with the fingers spread."
  },
  "intro": {
@@ -2045,7 +2045,7 @@
        "says": "The cell got a signal and obeyed. Is that giving, or just following orders?"
       }
      ],
-     "ask": "Whose view do you agree with most? Use two examples from this unit. Then say what one of the others has right.",
+     "ask": "Whose view do you agree with most? Use two examples from this lesson. Then say what one of the others has right.",
      "lines": 5,
      "outcome": 6
     },
@@ -2447,7 +2447,7 @@
    "youtube": "zrKdz93WlVk",
    "mins": 7,
    "why": "To see mitosis and meiosis drawn next to each other, step by step, after doing them with paper strips.",
-   "check": "Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this unit leaves out."
+   "check": "Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this lesson leaves out."
   },
   {
    "title": "What are stem cells? - Craig A. Kohn",
@@ -2968,7 +2968,7 @@
    "DeepKids notebook items bio:80 and bio:81 (cells copy themselves), which this subtopic is mapped to in the curriculum.",
    "Founder's SCI Cards in ideas/by_topic/genes-and-inheriting-features.md: Nettie Stevens (chromosomes and sex), Marthe Gautier (the extra chromosome 21, and the credit taken from her) and Barbara McClintock. Used in the explanations and the agreed facts.",
    "Founder's SCI Card for Lynn Margulis in ideas/by_topic/living-and-non-living-signs-of-life.md, used in the explanation of why a cell would die for others.",
-   "The Level 4 unit sci.what-is-life.cells-divide.L4, which this unit builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.",
+   "The Level 4 unit sci.what-is-life.cells-divide.L4, which this lesson builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.",
    "There is no founder's topic note or combined lesson for this subtopic, and no open-textbook entry in knowledge/by_subtopic.json. The activities here are new."
   ],
   "science": [
@@ -3072,5 +3072,5 @@
   ],
   "art": "A child's open hand held up against a bright window, with light coming through the gaps between the fingers."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home, so please treat times and amounts as a starting point. The Pudina Pieces Test (core) needs a fresh bunch of pudina with firm stems, a tumbler and three katoris, and it runs for nine days. Pudina usually shows white root bumps at the nodes in three to five days in warm weather, and takes up to twelve days in a cool room. The between-node pieces are short and may rot, so the water must be shallow and changed every two days. A slimy piece is thrown out and written down as a result. If a between-node piece roots, look for a node hidden at one end. Money plant or karpooravalli can be used if there is no pudina, but money plant takes two to three weeks. Paddle to Hand (core) needs only atta dough and an ice cream stick. The Shuffle Test needs four different coins, and most families see 7 or 8 of the 8 results in 24 tosses. In Double Trouble, a random pick of seven slips nearly always misses a number, but about 1 pick in 27 does not, so the step says to pick again. Two Dances needs eight paper strips and paper clips, and a coin for the chance sharing. Kitchen Regrowers needs a grown-up for the knife, and a potato whose eyes have begun to swell, or the potato needs two to three weeks. Blind Share needs two people. The card game has 24 cards and works for one player against the pile. No part needs a garden. Facts to check: the dates and places for bone marrow transplants in India and for the eye stem cell work at L V Prasad Eye Institute were written from memory. The verses from the Tao Te Ching, the Thirukkural and the Bhagavad Gita are paraphrases. The three videos were confirmed by title only, and nobody has watched them through yet."
+ "playtest": "The experiments and activities in this lesson were reasoned through step by step. They have not yet been tried at home, so please treat times and amounts as a starting point. The Pudina Pieces Test (core) needs a fresh bunch of pudina with firm stems, a tumbler and three katoris, and it runs for nine days. Pudina usually shows white root bumps at the nodes in three to five days in warm weather, and takes up to twelve days in a cool room. The between-node pieces are short and may rot, so the water must be shallow and changed every two days. A slimy piece is thrown out and written down as a result. If a between-node piece roots, look for a node hidden at one end. Money plant or karpooravalli can be used if there is no pudina, but money plant takes two to three weeks. Paddle to Hand (core) needs only atta dough and an ice cream stick. The Shuffle Test needs four different coins, and most families see 7 or 8 of the 8 results in 24 tosses. In Double Trouble, a random pick of seven slips nearly always misses a number, but about 1 pick in 27 does not, so the step says to pick again. Two Dances needs eight paper strips and paper clips, and a coin for the chance sharing. Kitchen Regrowers needs a grown-up for the knife, and a potato whose eyes have begun to swell, or the potato needs two to three weeks. Blind Share needs two people. The card game has 24 cards and works for one player against the pile. No part needs a garden. Facts to check: the dates and places for bone marrow transplants in India and for the eye stem cell work at L V Prasad Eye Institute were written from memory. The verses from the Tao Te Ching, the Thirukkural and the Bhagavad Gita are paraphrases. The three videos were confirmed by title only, and nobody has watched them through yet."
 }

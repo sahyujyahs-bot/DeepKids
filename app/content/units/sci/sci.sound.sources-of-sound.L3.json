@@ -2,14 +2,14 @@
  "id": "sci.sound.sources-of-sound.L3",
  "title": "Sources of sound: every sound starts with a vibration",
  "level": 3,
- "playtest": "Every hands-on part was checked as if done at home today, with things most Indian homes have. Twanging Ruler: a 30 cm plastic or steel ruler works if one palm presses it hard on the table edge. With 5 cm sticking out it buzzes. With 20 to 25 cm out you see it wobble but hear only a soft flap, because it now vibrates fewer than about 20 times a second. The wobbles are too fast to count, so the table asks only whether you see and hear it, and whether the sound is high or low. Catch the Ring: a steel plate or big steel bowl hit with a steel spoon rings long enough, and a foil ball on a thread jumps clearly. The ripples on a bowl of water are small and last a second or two, so a torch shines on the water from the side. The Atta Trick: a balloon skin over a steel tumbler or tin gives a clear tap note. A coin-sized blob of atta dough in the centre makes it lower. A very loose balloon gives no note, so pull it tight. Coin Line: use same-size coins on a smooth table, all touching. For the gaps, leave a palm's width, so the hit coin stops before the next one. Straw Shehnai: plastic straws work, but single-use ones are no longer sold in India, so the step uses any a family already has and offers another activity instead. Paper straws go soggy and fail. Many children need 5 or more tries before the reed buzzes. Rubber-band Veena: thin and thick bands on an open tiffin or shoebox. The pencil bridge is needed. Kitchen Orchestra: tap gently with a spoon, never hard. Glass tumblers can crack, so steel tumblers are given first. What Is Vibrating? works alone, with a parent, or with friends. Sound and Pose needs a second person. How the ear works is in the unit Our senses (sci.senses.five-senses.L3), so this unit links to it instead of repeating it. Keep all banging at a moderate loudness and away from ears.",
+ "playtest": "Every hands-on part was checked as if done at home today, with things most Indian homes have. Twanging Ruler: a 30 cm plastic or steel ruler works if one palm presses it hard on the table edge. With 5 cm sticking out it buzzes. With 20 to 25 cm out you see it wobble but hear only a soft flap, because it now vibrates fewer than about 20 times a second. The wobbles are too fast to count, so the table asks only whether you see and hear it, and whether the sound is high or low. Catch the Ring: a steel plate or big steel bowl hit with a steel spoon rings long enough, and a foil ball on a thread jumps clearly. The ripples on a bowl of water are small and last a second or two, so a torch shines on the water from the side. The Atta Trick: a balloon skin over a steel tumbler or tin gives a clear tap note. A coin-sized blob of atta dough in the centre makes it lower. A very loose balloon gives no note, so pull it tight. Coin Line: use same-size coins on a smooth table, all touching. For the gaps, leave a palm's width, so the hit coin stops before the next one. Straw Shehnai: plastic straws work, but single-use ones are no longer sold in India, so the step uses any a family already has and offers another activity instead. Paper straws go soggy and fail. Many children need 5 or more tries before the reed buzzes. Rubber-band Veena: thin and thick bands on an open tiffin or shoebox. The pencil bridge is needed. Kitchen Orchestra: tap gently with a spoon, never hard. Glass tumblers can crack, so steel tumblers are given first. What Is Vibrating? works alone, with a parent, or with friends. Sound and Pose needs a second person. How the ear works is in the lesson Our senses (sci.senses.five-senses.L3), so this lesson links to it instead of repeating it. Keep all banging at a moderate loudness and away from ears.",
  "summary": {
-  "text": "What is moving when a tabla, a veena string or your own throat makes a sound? In this unit you will hunt for vibrations around the house, twang a ruler to see what changes the sound, and make a rubber-band veena.",
+  "text": "What is moving when a tabla, a veena string or your own throat makes a sound? In this lesson you will hunt for vibrations around the house, twang a ruler to see what changes the sound, and make a rubber-band veena.",
   "art": "A girl tapping a tabla, with a zoomed-in circle beside it showing the skin bulging and tiny air molecules bunching up and spreading out, passing the push towards a listening cat."
  },
  "intro": {
   "hook": "Put your fingers gently on the front of your throat. Now hum a long 'mmmm'. What do your fingers feel? Now stop humming. What happens to the feeling, and to the sound?",
-  "text": "Every sound you have ever heard started with something vibrating: a temple bell, a pressure cooker whistle, a crow, your own voice. Usually the vibration is too fast and too small to see. In this unit you will catch it with your fingers, with rice, with a ruler and with a foil ball. Then you will find out how it travels through the air to your ear, and why it cannot cross empty space.",
+  "text": "Every sound you have ever heard started with something vibrating: a temple bell, a pressure cooker whistle, a crow, your own voice. Usually the vibration is too fast and too small to see. In this lesson you will catch it with your fingers, with rice, with a ruler and with a foil ball. Then you will find out how it travels through the air to your ear, and why it cannot cross empty space.",
   "art": "A child with eyes closed, fingers on her throat, humming, with soft rings of vibration spreading from her throat into the room."
  },
  "outcomes": [
@@ -266,7 +266,7 @@
    "concept": "Your voice: a sound source inside you",
    "status": "defined",
    "definition": "Your voice is made when air from your lungs makes your vocal folds vibrate. Your mouth, tongue and lips then shape the sound into words.",
-   "description": "Deep in your throat are two soft flaps called vocal folds. When you breathe quietly, they stay open. When you speak, they close, and air from your lungs pushes them apart again and again, very fast. This vibration makes a buzz. Your throat, mouth and nose shape the buzz, the way a veena's body shapes its string's sound. Your tongue and lips turn it into 'ka', 'ma' and 'sa'. When you whisper, your vocal folds do not vibrate. The sound comes from air swirling as it rushes past your tongue, teeth and lips. How the sound gets into your ear is in the unit Our senses.",
+   "description": "Deep in your throat are two soft flaps called vocal folds. When you breathe quietly, they stay open. When you speak, they close, and air from your lungs pushes them apart again and again, very fast. This vibration makes a buzz. Your throat, mouth and nose shape the buzz, the way a veena's body shapes its string's sound. Your tongue and lips turn it into 'ka', 'ma' and 'sa'. When you whisper, your vocal folds do not vibrate. The sound comes from air swirling as it rushes past your tongue, teeth and lips. How the sound gets into your ear is in the lesson Our senses.",
    "examples": [
     "Hum, then whisper, with your fingers on your throat. The buzz is there for the hum, not the whisper.",
     "Hum 'mmm' with your lips closed, then pinch your nose. The hum soon stops, because the air was coming out through your nose."
@@ -3472,7 +3472,7 @@
   "founder": [
    "Founder's notebook, Sound topic (ideas/by_topic/sound.md), 'Sources of sound' and 'Sound & Vibration' rows: rubber-band box guitar, straw reed whistle, rice on a drum, tapping kitchen utensils, water glasses, a sound scavenger hunt, and 'everything has a voice; vibration is the hidden language of matter'. Used in the Vibration Hunt, Atta Trick, Rubber-band Veena, Straw Shehnai, Kitchen Orchestra and the Roots card.",
    "Founder's sheets, String Theory row: the Sound and Pose game, and Om chanting to feel vibration in the body. Singularity row: 'Silence Singularity', making many sounds then stopping to notice silence. Used in the game g2 and the Roots practice.",
-   "Founder's sheets, Energy row: a balloon held to a phone speaker. Already in the unit Our senses (sci.senses.five-senses.L3), so linked, not repeated.",
+   "Founder's sheets, Energy row: a balloon held to a phone speaker. Already in the lesson Our senses (sci.senses.five-senses.L3), so linked, not repeated.",
    "Founder's notebook, 'How sound travels' row ('emptiness is silent'; vacuum jar or video) and 'Ultrasound seed: bats and dolphins see with sound'. Used for space, the Royal Institution video and the animals card.",
    "Founder's SCI Cards: C.V. Raman (an accountant doing physics in his spare time at the Indian Association for the Cultivation of Science).",
    "DeepKids Combined lessons sci-C1-sound and sci-C5-sound: dancing rice, Boyle, Hooke and Kircher on the vacuum, Katy Payne and elephant infrasound, Raman and the syahi, the tabla maker and Evelyn Glennie perspectives, plant clicks, the tree-in-the-forest puzzle, and the space-explosion challenge. Reworked for Class 3 sources of sound. Their stories were not reused.",
@@ -3510,7 +3510,7 @@
    {
     "source": "Mandukya Upanishad, verse 1",
     "teaching": "The syllable Om is all this. What was, what is and what will be are all Om. And what is beyond time is Om too.",
-    "link": "Many families chant Om and feel it buzz in the chest. In this unit you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.",
+    "link": "Many families chant Om and feel it buzz in the chest. In this lesson you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.",
     "verse": ["ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव", "यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव"],
     "verse_lang": "sa"
    },
@@ -3522,7 +3522,7 @@
    {
     "source": "Surangama Sutra, chapter 6, Avalokiteshvara's account of his practice",
     "teaching": "He listened to sounds, then turned his listening around, to notice the awareness that hears. Sounds came and went, but the hearing stayed.",
-    "link": "Every sound in this unit starts, travels and fades. The Sutra asks you to notice the hearing itself, which is there before, during and after each sound."
+    "link": "Every sound in this lesson starts, travels and fades. The Sutra asks you to notice the hearing itself, which is there before, during and after each sound."
    }
   ],
   "science": [

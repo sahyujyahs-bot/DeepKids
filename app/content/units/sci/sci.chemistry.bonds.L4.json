@@ -3,12 +3,12 @@
  "title": "Ionic, covalent and metallic bonds: why salt shatters, wax melts and metal bends",
  "level": 4,
  "summary": {
-  "text": "A paper clip bends, but a salt crystal shatters. What is different inside them? In this unit you will test three solids by pressing, wetting and heating, build a row model to see why they behave differently, and check when salt carries electricity.",
+  "text": "A paper clip bends, but a salt crystal shatters. What is different inside them? In this lesson you will test three solids by pressing, wetting and heating, build a row model to see why they behave differently, and check when salt carries electricity.",
   "art": "A steel plate seen from above with a cracked salt crystal in several pieces on one side and a flattened disc of aluminium foil on the other, and a steel spoon between them."
  },
  "intro": {
   "hook": "Sodium is a soft metal that can catch fire in water. Chlorine is a poisonous green gas. Joined together, they are the salt in your sambar. How can joining change two things so much?",
-  "text": "A bond is the way atoms hold on to each other. The kind of bond decides how a material behaves. In this unit you press a salt crystal and a ball of foil, and see one break and one bend. You heat salt, wax and foil over a candle with a grown-up. You build a tester from a battery and two pencils. With it you find out when salt carries electricity. By the end you can say what happened to the sodium and the chlorine.",
+  "text": "A bond is the way atoms hold on to each other. The kind of bond decides how a material behaves. In this lesson you press a salt crystal and a ball of foil, and see one break and one bend. You heat salt, wax and foil over a candle with a grown-up. You build a tester from a battery and two pencils. With it you find out when salt carries electricity. By the end you can say what happened to the sodium and the chlorine.",
   "art": "A small heap of white table salt on a banana leaf beside a bowl of sambar, with a faint drawing above it of a grey lump of metal and a pale green cloud joined by an arrow to the salt."
  },
  "outcomes": [
@@ -313,7 +313,7 @@
    "claim": "Salt water has no ions until an electric current makes them.",
    "who": "Michael Faraday and most chemists before the 1880s.",
    "for": "Ions were first noticed only when a current was flowing.",
-   "against": "Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every unit of salt.",
+   "against": "Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every lesson of salt.",
    "status": "rejected"
   },
   {
@@ -326,7 +326,7 @@
   {
    "claim": "Ionic, covalent and metallic are three separate kinds of bond.",
    "who": "Many school books.",
-   "for": "The three types explain the tests in this unit well.",
+   "for": "The three types explain the tests in this lesson well.",
    "against": "Linus Pauling showed in 1932 that sharing shades into giving with no sharp line. Graphite is covalent and still carries electricity. The three types are corners, and most bonds lie between them.",
    "status": "debated"
   },
@@ -3080,7 +3080,7 @@
    "Founder's notebook, chemistry pages: 'Chemical Bonding' and 'Ionic, covalent, metallic' (chem:12, chem:13). The items on orbital theory and on forces between molecules (chem:14, chem:15, chem:180 to chem:189, bio:34) are left for sci.chemistry.bonds.L5, as the curriculum says.",
    "Curriculum entry sci.chemistry.bonds.L4: salt, water and metals hold together in different ways (ionic, covalent, metallic).",
    "ideas/by_topic/matter-and-particles.md and the-very-small.md: 'Diversity arises from simple building blocks arranged in patterns', used in the roots.",
-   "sci.chemistry.bonds.L3 was read first. It splits water with two pencils and a 9-volt battery, heats wax and sugar, and compares plain, sugar and soda water. This unit reuses the pencil-and-battery setup only as a tester, and asks new questions: solid salt against wet salt, and salt against wax and metal.",
+   "sci.chemistry.bonds.L3 was read first. It splits water with two pencils and a 9-volt battery, heats wax and sugar, and compares plain, sugar and soda water. This lesson reuses the pencil-and-battery setup only as a tester, and asks new questions: solid salt against wet salt, and salt against wax and metal.",
    "Other units were checked so that nothing repeats. Crack a Crystal and the crystal-growing tests are in sci.states.crystals.L3. The Full Glass Test is in sci.states.dissolving.L3. Bend Until It Snaps is in sci.materials.properties.L4. The rust and fizz tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The experiments, games and story here are new."
   ],
   "science": [
@@ -3109,7 +3109,7 @@
   "art": "A young man in the clothes of 1913 holding a photographic plate covered in a regular pattern of dark spots, with a cube-shaped model of balls and rods on the bench beside him."
  },
  "roots": {
-  "context": "In this unit you found three ways that atoms hold on to each other. Here we ask what salt, water and metal tell us about what a thing is.",
+  "context": "In this lesson you found three ways that atoms hold on to each other. Here we ask what salt, water and metal tell us about what a thing is.",
   "deep_truth": {
    "truth": "In Dry Salt, Wet Salt, dry salt carried no electricity. The same salt carried it once water was added, and water alone carried almost none. So the charged ions were in the dry salt all along, each held in place by its neighbours. Whether salt carries electricity depends on whether its ions are free to move.",
    "habit": "We sort materials into conductors and insulators, as if each label were fixed inside the material. Salt is an insulator when dry and a conductor when wet. The label describes how the particles are held at that moment.",
@@ -3120,7 +3120,7 @@
    "what_is_life": "A living body uses covalent bonds and ionic bonds together. Long covalent chains make up its flesh. Ionic crystals make up bones and shells. Free ions carry messages along the nerves.",
    "what_is_this_world": "A salt pan, a river and a copper mine are all built from atoms. Each atom has a plus centre with minus electrons around it. They are very different because the outer electrons sit in different places."
   },
-  "thread": "Every bond in this unit is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.",
+  "thread": "Every bond in this lesson is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",

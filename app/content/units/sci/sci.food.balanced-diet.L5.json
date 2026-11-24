@@ -3,12 +3,12 @@
   "title": "A balanced diet: different plates for different people, and what a missing nutrient does",
   "level": 5,
   "summary": {
-    "text": "A child can eat until she is full every day and still fall ill, because one nutrient is missing. How can a tiny amount matter so much? In this unit you will time how long your eyes take to see in a dim room, and boil cabbage to see where the vitamin C goes.",
+    "text": "A child can eat until she is full every day and still fall ill, because one nutrient is missing. How can a tiny amount matter so much? In this lesson you will time how long your eyes take to see in a dim room, and boil cabbage to see where the vitamin C goes.",
     "art": "A steel plate of rice, dal and greens beside a tiny speck of chalk dust on a dark cloth, with a magnifying glass over the speck."
   },
   "intro": {
     "hook": "The iodine your body needs in a whole day is a tiny amount. It weighs about the same as a speck of chalk dust the size of a full stop. Why would a body fall ill for want of something so small?",
-    "text": "Most people think a good diet means enough food. Enough food stops hunger, but it does not always stop illness. Sailors with full stomachs lost their teeth, because their food had no vitamin C. Families who ate plenty of white rice lost the strength in their legs. The polished rice had lost its vitamin B1. These are called deficiency diseases. In this unit you weigh out one day's needs, starting with two spoons of protein, which is a lot, and ending with a tiny amount of iodine. To see how tiny, you will put a speck of chalk dust beside it, because the two weigh about the same. You time your own eyes in a dark room. You test what boiling does to the vitamin C in cabbage. You also find out why your plate should not look like your grandmother's plate.",
+    "text": "Most people think a good diet means enough food. Enough food stops hunger, but it does not always stop illness. Sailors with full stomachs lost their teeth, because their food had no vitamin C. Families who ate plenty of white rice lost the strength in their legs. The polished rice had lost its vitamin B1. These are called deficiency diseases. In this lesson you weigh out one day's needs, starting with two spoons of protein, which is a lot, and ending with a tiny amount of iodine. To see how tiny, you will put a speck of chalk dust beside it, because the two weigh about the same. You time your own eyes in a dark room. You test what boiling does to the vitamin C in cabbage. You also find out why your plate should not look like your grandmother's plate.",
     "art": "A child's hand placing a speck of chalk dust beside a heap of sugar on a dark steel plate."
   },
   "outcomes": [
@@ -2593,7 +2593,7 @@
               "says": "People at risk need tablets now, in measured doses. But a country cannot live on tablets. Diets must change too."
             }
           ],
-          "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
+          "ask": "Which view do you agree with most? Give a reason from this lesson. Then answer one of the other views.",
           "a": "Any view with a reason. For tablets: a pregnant woman needs more iron than food easily gives. For food: it carries many nutrients together, and too much iron in tablets is harmful. A strong answer may say both are needed for different people.",
           "why": "This is a real question that health planners argue about. A strong answer says who needs what, and why.",
           "outcome": 5
@@ -2755,7 +2755,7 @@
         },
         {
           "t": "write",
-          "p": "India grows enough grain for everyone, yet many people are anaemic. Give two reasons from this unit.",
+          "p": "India grows enough grain for everyone, yet many people are anaemic. Give two reasons from this lesson.",
           "lines": 4,
           "a": "Grain gives energy but little iron that the body can absorb. Pulses, greens and millets cost more or are grown less than before. Tea with meals reduces the iron absorbed. In many families women and girls eat last and least.",
           "why": "A strong answer separates enough energy from enough micronutrients, and gives reasons about food, cost or habits.",
@@ -2778,7 +2778,7 @@
               "says": "Ragi and jowar need little water and hold more calcium and iron. Yet prices and ration shops favoured rice and wheat, so fewer people grew millets."
             }
           ],
-          "ask": "Which view do you agree with most? Give a reason. Then answer one of the other views with a fact from this unit.",
+          "ask": "Which view do you agree with most? Give a reason. Then answer one of the other views with a fact from this lesson.",
           "a": "Any view with a reason. The farmer is right that famine ended. The scientist is right that more than half of India's women are still anaemic. The millet farmer is right that ragi has about three times the calcium of milk.",
           "why": "All three speakers describe something true. A strong answer weighs ending famine against ending hidden hunger.",
           "outcome": 2
@@ -3479,7 +3479,7 @@
     "art": "A doctor in a hill village in the 1950s weighing out salt from a sack marked with a painted sign, while women with cloth bags wait in a line."
   },
   "roots": {
-    "context": "In this unit you timed your eyes in a dark room. You learned that vitamin A lets them see in dim light. Here we ask where that vitamin A came from, and what that says about you.",
+    "context": "In this lesson you timed your eyes in a dark room. You learned that vitamin A lets them see in dim light. Here we ask where that vitamin A came from, and what that says about you.",
     "deep_truth": {
       "truth": "In the Dark Room Test, the dark book showed up only after several minutes. In that time, your eyes rebuilt a light-catching substance from vitamin A. All vitamin A begins as carotene, an orange colour that plants and algae make. So your eyes see in dim light with a colour that a plant made.",
       "habit": "We think of seeing as something our eyes do by themselves. We think of food as fuel that is burned and gone. Some food is never burned. Its molecules become working parts of the body, and the body has no other way to get them.",
@@ -3502,7 +3502,7 @@
       {
         "source": "Tirukkural 942 and 943, by Thiruvalluvar",
         "teaching": "A body needs no medicine if a person eats only after the last meal is digested. Eat in the measure that suits your body.",
-        "link": "Thiruvalluvar ties health to a measure of food that fits one body. This unit shows that the measure differs: a girl of ten, a pregnant woman and a grandmother each need a different plate. The couplets give advice. They do not name nutrients.",
+        "link": "Thiruvalluvar ties health to a measure of food that fits one body. This lesson shows that the measure differs: a girl of ten, a pregnant woman and a grandmother each need a different plate. The couplets give advice. They do not name nutrients.",
         "verse": ["மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது", "அற்றது போற்றி உணின்.", "அற்றால் அளவறிந்து உண்க அஃதுடம்பு", "பெற்றான் நெடிதுய்க்கும் ஆறு."],
         "verse_lang": "ta"
       },

@@ -3,12 +3,12 @@
  "title": "Where humans came from: many kinds of humans, and what old bones and DNA tell us",
  "level": 5,
  "summary": {
-  "text": "Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this unit you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?",
+  "text": "Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this lesson you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?",
   "art": "A girl at a table colouring rows of squares red and white, with a coin and a cup of paper chits beside her, and behind her five faint outlines of different human heads in a row."
  },
  "intro": {
   "hook": "If you had walked across Asia 100,000 years ago, you could have met at least five different kinds of humans. Today you would meet only one kind, us. What happened to the other four?",
-  "text": "For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this unit you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.",
+  "text": "For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this lesson you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.",
   "art": "A map of Africa, Europe and Asia with five small figures of different heights and builds standing in different regions, and a child of today looking at them from the corner."
  },
  "outcomes": [
@@ -2750,7 +2750,7 @@
    "youtube": "dGiQaabX3_o",
    "mins": 10,
    "why": "A fast animated overview of the human family, including the other kinds of humans who lived beside our ancestors.",
-   "check": "Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this unit. Not watched from here: a parent should preview it."
+   "check": "Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this lesson. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2940,7 +2940,7 @@
    "title": "Smithsonian National Museum of Natural History: Human Origins",
    "url": "https://humanorigins.si.edu",
    "kind": "interactive",
-   "why": "Pictures, three-dimensional skulls and short pages for each kind of human in this unit."
+   "why": "Pictures, three-dimensional skulls and short pages for each kind of human in this lesson."
   },
   {
    "title": "eFossils",
@@ -3236,7 +3236,7 @@
    "Curriculum entry sci.evolution.human-origins.L5: many human species (Neanderthals, Denisovans), what fossils and DNA tell us, and what makes us human.",
    "The founder's notebook for this topic (ideas/by_topic/where-humans-came-from.md): evolution as a branching tree and not a straight line, every step still open to revision, and the note that intelligence is not unique to humans.",
    "DeepKids Combined lesson sci-C5-where-humans-came-from: the other kinds of humans, Neanderthal DNA in living people, the 'human bush' poster (improved here as p1, with mixing arrows and an India box), the big questions on 'us' and 'them', and the archaeologist's point that India has old tools and almost no bones.",
-   "DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This unit builds on it and does not repeat its experiments or its story.",
+   "DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This lesson builds on it and does not repeat its experiments or its story.",
    "The Level 5 units of the same topic (inheritance, natural selection, the story of life), for the shared song title and so that DNA, chromosomes and species are built on and not taught again."
   ],
   "science": [

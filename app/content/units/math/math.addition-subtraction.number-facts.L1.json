@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "There are 10 beans. You can see 7. How many are hiding under the cup?",
-  "text": "3 beans are hiding. 7 and 3 make 10. You did not need to lift the cup, because you know the whole is 10 and you can see one part. Two numbers that join to make 10 are called a bond of 10. In this unit you will find all of them yourself, with beans. You will also meet the doubles, such as 4 and 4.",
+  "text": "3 beans are hiding. 7 and 3 make 10. You did not need to lift the cup, because you know the whole is 10 and you can see one part. Two numbers that join to make 10 are called a bond of 10. In this lesson you will find all of them yourself, with beans. You will also meet the doubles, such as 4 and 4.",
   "art": "Seven beans in a row on a table next to an upturned steel tumbler, with a small question mark drawn on the tumbler.",
   "chart": {
    "type": "dots",
@@ -304,7 +304,7 @@
   {
    "concept": "Why do we practise making ten?",
    "status": "debated",
-   "context": "This card asks why this unit is about ten, and not about eight or twelve.",
+   "context": "This card asks why this lesson is about ten, and not about eight or twelve.",
    "description": "Count your fingers. You have ten. Most people on Earth group things in tens, and the most likely reason is our ten fingers. We also write numbers in tens: 13 means one ten and three more. That is why making ten is so useful to us. But ten is our choice. Other people chose other groups. The Yuki people of California counted in eights. They counted the four gaps between the fingers of each hand. The Maya of Central America counted in twenties. In India and other parts of Asia, many people count on the joints of their fingers with the thumb. Each finger has three joints, so one hand counts to twelve. The beans do not care. Eight beans split into pairs of parts just as ten beans do. People do not all agree on how much of this is chosen.",
    "examples": [
     "The bonds of 8 are 8 and 0, 7 and 1, 6 and 2, 5 and 3, 4 and 4, and their turn-arounds.",
@@ -1645,7 +1645,7 @@
      "say": "I rolled 6. Double 5 is 10, and one more on each side makes 12. Now you roll.",
      "kid": "Roll the dice. Say the double. Cover that number with a bean.",
      "context": "This is step 2 of Double It, a dice game for learning doubles. Here you practise one turn each.",
-     "parent": "Double 6 is past the doubles of this unit. It is in the game because a dice has a 6. Let your child use beans for it.",
+     "parent": "Double 6 is past the doubles of this lesson. It is in the game because a dice has a 6. Let your child use beans for it.",
      "check": {
       "t": "mcq",
       "q": "In Double It you roll a 3. Which number do you cover?",

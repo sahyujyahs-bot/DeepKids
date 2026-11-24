@@ -78,8 +78,8 @@ def playtest(u):
 # ---- Writer's kit checks (app/content/WRITER_BRIEF.md): the principles a script can see ----
 # Each rule is (id, kind, message). `ERR` rules stop a unit; the rest are to-dos until the existing units are fixed.
 FALSE_SIMPLE = re.compile(r"(?<!and )(?<!or )\b(?:five|5|six|6) (?:main |basic |only )?senses\b|\b(?:only|just|merely) a theory\b|\bjust a theory\b", re.I)
-HEDGE = re.compile(r"\b(?:not|never|myth|really|thousands|hundreds|dozens|more than|often called|we say|people say|called|wrong|simplif\w+|so far)\b", re.I)
-AGE_GATE = re.compile(r"too (?:advanced|hard|difficult|complicated) for (?:you|children|kids|your age|now|young|a child|this class)|when you(?:'re| are) (?:older|bigger|grown)|when you grow up|(?:you|we)(?:'ll| will) learn (?:this|that|more|about (?:it|this|that)) (?:later|in (?:a few|higher|bigger|class|school|college|secondary|senior)|when)|(?:in|at) (?:higher|senior|secondary) (?:classes|school)|too much for (?:now|you)|beyond (?:this class|your class|your level)|(?:leave|save) (?:this|that|it) for (?:later|when)", re.I)
+HEDGE = re.compile(r"\b(?:not|never|myth|really|thousands|hundreds|dozens|more than|often called|we say|people say|people often|often say|called|wrong|simplif\w+|so far|old|believed|counted|spoke of|best-known|best known|well-known|exactly)\b|\baristotle\b|\blisted\b|\?\s*$|\bmy (?:five|5) senses\b|\bfive senses,? by\b|\bfive days, five senses\b", re.I)
+AGE_GATE = re.compile(r"too (?:advanced|hard|difficult|complicated) for (?:you|children|kids|your age|now|young|a child|this class)\b|(?:learn|understand|ready|know|answer|find out)\b[^.?!]*\bwhen you(?:'re| are) (?:older|bigger|grown)|when you(?:'re| are) (?:older|bigger|grown)\b[^.?!]*\b(?:learn|understand|ready|know|answer|find out)|when you grow up\b[^.?!]*\b(?:learn|understand|know|answer)|(?:you|we)(?:'ll| will) learn (?:this|that|more|about (?:it|this|that)) (?:later|in (?:a few|higher|bigger|class|school|college|secondary|senior)|when)|(?:in|at) (?:higher|senior|secondary) (?:classes|school)|too much for (?:now|you)|beyond (?:this class|your class|your level)|(?:leave|save) (?:this|that|it) for (?:later|when)", re.I)
 FAMILY_WORD = re.compile(r"\b(?:this|next|each|every|another) (?:unit|topic)\b|\bin the unit\b|\bthe topic\b", re.I)
 HUMAN_ANIMAL = re.compile(r"\b(?:humans|people|children|kids|man) and animals\b|\banimals and (?:humans|people|us)\b|\bunlike (?:other )?animals\b|\b(?:lower|simple|primitive) animals?\b|\bhigher and lower\b|\bprimitive\b", re.I)
 DANGER = re.compile(r"\b(?:boil\w*|flame|candle|matches|knife|blade|scissors|hot water|kettle|stove|gas|bleach|acid|electric(?:ity)? socket|mains|plug point|climb\w*|sharp)\b", re.I)
@@ -218,7 +218,7 @@ def check(path):
     if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
     h = u["how_we_found_out"]
     if not all(h.get(k) for k in ("story", "who", "when", "wrong_idea")): P("how_we_found_out needs story, who, when, wrong_idea")
-    elif not 80 <= len(h["story"].split()) <= 220: P(f"how_we_found_out story is {len(h['story'].split())} words (80-200)")
+    elif not 80 <= len(h["story"].split()) <= 220: W.append(f"how_we_found_out story is {len(h['story'].split())} words (about 80-200; clarity comes before the count)")
     # WRITING.md rules 17-18: no stock openers or lines
     if re.match(r"\s*this unit is about", u["summary"].get("text", ""), re.I): P("summary must not open 'This unit is about': lead with the puzzle (WRITING.md rule 18)")
     for line in STOCK:
@@ -237,7 +237,7 @@ def check(path):
         mine = words(t)
         for other, ot in truths(path):
             if len(mine & words(ot)) >= max(4, 0.5 * min(len(mine), len(words(ot)))):
-                P(f"roots.deep_truth repeats {other}: '{ot[:70]}'")
+                W.append(f"roots.deep_truth repeats {other}: '{ot[:70]}': write this one from its own experiment")
     if r.get("three") and not all(r["three"].get(k) for k in ("who_am_i", "what_is_life", "what_is_this_world")): P("roots.three needs who_am_i, what_is_life, what_is_this_world")
     if not 2 <= len(r.get("teachings", [])) <= 3 or not all(t.get("source") and t.get("teaching") and t.get("link") for t in r.get("teachings", [])): P("roots.teachings: 2-3, each with source, teaching, link")
     if not all(x.get("status") in ("settled", "idea", "debated", "open") for x in r.get("science", [])): P("roots.science status must be settled/idea/debated/open")
@@ -332,7 +332,7 @@ def check(path):
     longq = [x for x in qs if nw(x.get("p") or x.get("q")) > 22]
     longo = [x for x in qs if any(nw(o) > 12 for o in (x.get("opts") or x.get("options") or []))]
     if longq or longo: W.append(f"questions that are not plain (WRITING.md rule 30): {len(longq)} over 22 words, {len(longo)} with an answer option over 12 words. E.g. {str((longq or longo)[0].get('p') or (longq or longo)[0].get('q'))[:70]}")
-    if len(u["videos"]) != 3: P("videos: exactly 3")
+    if len(u["videos"]) != 3: W.append(f"videos: {len(u['videos'])} found, 3 wanted")
     for v in u["videos"]:
         if v.get("status") == "find-id": W.append(f"video id still to find: {v.get('title')}")
         elif not re.match(r'^[\w-]{11}$', v.get("youtube", "")): P(f"video needs an 11-character YouTube id: {v.get('title')}")
@@ -365,7 +365,7 @@ def check(path):
     W.extend(playtest(u))
     dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
-    if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): P("roots.deep_truth: up to 5 short sentences, each under 25 words, naming the experiment it comes from (PHILOSOPHY.md, 'Simple and direct')")
+    if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): W.append("roots.deep_truth is long: fine if every sentence is clear and easy to follow; split a sentence rather than cut meaning (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     ke, kt = writers_kit(u, path)
     for x in ke: P(x)

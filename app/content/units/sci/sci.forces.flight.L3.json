@@ -3,7 +3,7 @@
  "title": "How things fly: wings push air down, and the air pushes them up",
  "level": 3,
  "summary": {
-  "text": "A cheel can circle over a city for an hour, held up by air you cannot see. How? In this unit you will show that air is real, test how tilting a hand wing changes the push of the air, and fly paper planes and seed spinners in fair tests.",
+  "text": "A cheel can circle over a city for an hour, held up by air you cannot see. How? In this lesson you will show that air is real, test how tilting a hand wing changes the push of the air, and fly paper planes and seed spinners in fair tests.",
   "art": "A rooftop at sunset: a paper kite on a tight string, a black kite bird circling above the paper kite, a paper plane gliding past, and a winged mahogany seed spinning down, with faint arrows showing air being pushed downwards under each."
  },
  "intro": {
@@ -196,7 +196,7 @@
    ],
    "perspectives": [],
    "art": "A wing seen from the side, tilted slightly, smooth airflow lines curving down behind it, and a big up arrow on the wing.",
-   "context": "This is the most important card in the unit. It explains, simply and correctly, how anything with wings stays up."
+   "context": "This is the most important card in the lesson. It explains, simply and correctly, how anything with wings stays up."
   },
   {
    "concept": "Why the air speeds up over a wing: a famous puzzle",
@@ -375,7 +375,7 @@
    ],
    "perspectives": [],
    "art": "A small helicopter with long blades hovering above red Martian rocks, a rover watching from nearby, a pale Sun in a dusty pink sky.",
-   "context": "Everything in this unit flies by pushing on air. This card asks what happens on worlds with thin air, or none at all.",
+   "context": "Everything in this lesson flies by pushing on air. This card asks what happens on worlds with thin air, or none at all.",
    "chart": {
     "type": "bar",
     "title": "How much air fills the same box, on Earth and on Mars",
@@ -2079,7 +2079,7 @@
      "kid": "Pick your favourite flyer. Tell someone why."
     }
    ],
-   "context": "In this dance you will find out how each flyer in this unit moves, and what a gentle wind feels like. You move like each flyer, then breathe out softly like the wind."
+   "context": "In this dance you will find out how each flyer in this lesson moves, and what a gentle wind feels like. You move like each flyer, then breathe out softly like the wind."
   }
  ],
  "projects": [
@@ -2950,7 +2950,7 @@
      "lines": 4,
      "a": "A strong answer says no. The wind pushes the kite back, away from the flyer, and the string holds it against that push. The tilted kite turns the push upwards. Straight overhead, the wind would blow flat along the kite's face instead of against it, so there would be almost no push to hold it up. So a kite always stays a little downwind of the flyer, with the string slanting.",
      "why": "A kite is held up by the wind pushing against a string. It needs the wind to hit its face, so it can never sit directly above the flyer.",
-     "context": "In this unit's story, a girl called Farah can't fly her kite until she stands still and pulls the string tight. The wind pushes the kite, the string holds it, and so it rises."
+     "context": "In this lesson's story, a girl called Farah can't fly her kite until she stands still and pulls the string tight. The wind pushes the kite, the string holds it, and so it rises."
     },
     {
      "t": "draw",

@@ -3,12 +3,12 @@
  "title": "Chance, mixing and new species: how whole populations change",
  "level": 5,
  "summary": {
-  "text": "In one forest in Odisha, many tigers have wide black stripes that almost hide the orange. Scientists have found no wild tigers like this anywhere else, and the dark coat does not seem to help them. So why is it common there? In this unit you shake beans in a steel tumbler and watch a colour take over a small group by chance alone. You find out how a few travellers keep two groups alike. You also find out how groups that stop mixing become new species.",
+  "text": "In one forest in Odisha, many tigers have wide black stripes that almost hide the orange. Scientists have found no wild tigers like this anywhere else, and the dark coat does not seem to help them. So why is it common there? In this lesson you shake beans in a steel tumbler and watch a colour take over a small group by chance alone. You find out how a few travellers keep two groups alike. You also find out how groups that stop mixing become new species.",
   "art": "A tiger with very wide black stripes walking through sal forest, with a steel tumbler of dark and pale beans drawn small in one corner."
  },
  "intro": {
   "hook": "Natural selection makes useful features common. But some features are common in one place and do no good at all. If nothing chose them, how did they spread?",
-  "text": "You may already know natural selection. Members whose features suit the place leave more young, so those features spread. That is one way a population changes. This unit is about three other ways. First you draw beans from a tumbler with your eyes shut, and find out what chance does to a small group. Then you compare a group of 8 with a group of 40. You pass a narrow bottleneck, and read the real case of the black tigers of Similipal. You open a bridge between two islands of beans and send one traveller across in each round. Last, you lay out paper chromosomes and find out how the wheat in a chapati became a new species in one step.",
+  "text": "You may already know natural selection. Members whose features suit the place leave more young, so those features spread. That is one way a population changes. This lesson is about three other ways. First you draw beans from a tumbler with your eyes shut, and find out what chance does to a small group. Then you compare a group of 8 with a group of 40. You pass a narrow bottleneck, and read the real case of the black tigers of Similipal. You open a bridge between two islands of beans and send one traveller across in each round. Last, you lay out paper chromosomes and find out how the wheat in a chapati became a new species in one step.",
   "art": "A child with her eyes shut, taking one bean out of a steel tumbler, with small bowls of marked and plain beans beside her."
  },
  "outcomes": [
@@ -142,7 +142,7 @@
    "concept": "A population is counted in shares, not in single members",
    "status": "defined",
    "definition": "A population changes when the shares of its gene versions change. A share is the fraction of all the copies that are one version.",
-   "description": "One tiger never changes her stripes. So to find out how tigers change, scientists do not watch one tiger. They count the gene versions in a whole population. Think of one gene with two versions. Count every copy of that gene in the population, and find what fraction is each version. Those fractions are the shares. If the shares are the same in the next generation, the population has not changed for that gene. If the shares have moved, the population has evolved a little. In 1908 the English mathematician G. H. Hardy and the German doctor Wilhelm Weinberg each showed something important. The shares stay the same if four things hold. The population is very large. No version helps survival. Nobody arrives or leaves. No new mutation appears. Real populations break these rules all the time, so real shares keep moving. This unit is about what moves them.",
+   "description": "One tiger never changes her stripes. So to find out how tigers change, scientists do not watch one tiger. They count the gene versions in a whole population. Think of one gene with two versions. Count every copy of that gene in the population, and find what fraction is each version. Those fractions are the shares. If the shares are the same in the next generation, the population has not changed for that gene. If the shares have moved, the population has evolved a little. In 1908 the English mathematician G. H. Hardy and the German doctor Wilhelm Weinberg each showed something important. The shares stay the same if four things hold. The population is very large. No version helps survival. Nobody arrives or leaves. No new mutation appears. Real populations break these rules all the time, so real shares keep moving. This lesson is about what moves them.",
    "examples": [
     "In the Lucky Tumbler Test, you begin with 4 dark beans and 4 pale beans. The share of dark is 4 out of 8, which is one half.",
     "Among 12 tigers tested in Similipal, 58 of every 100 copies of the stripe gene were the wide-stripe version. Among 395 wild tigers from other forests, none were.",
@@ -3281,7 +3281,7 @@
    "Founder's SCI Card for J. B. S. Haldane (ideas/scientists.json): evolution described as changing shares of gene versions. Used in the first explanation, which counts a population in shares.",
    "ideas/by_topic/evolution-the-tree-of-life.md: the statement that new species keep forming within old families, and that evolution is a branching tree. Used in the explanations of speciation and in the roots thread.",
    "Combined lessons sci-C2 and sci-C4 on evolution were checked for reuse. They do not cover drift, gene flow or chromosome doubling, so the experiments, games and story here are new.",
-   "Other units were checked so that nothing repeats. sci.evolution.natural-selection.L5 gives the outline of one species becoming two, with the sholakili and the ring of warblers. sci.habitats.where-life-lives.L5 has a line-copying test of groups kept apart. sci.ecology.biodiversity.L5 has a coin test of small groups dying out. This unit adds inherited chance in a breeding group, bottlenecks, founders, measured gene flow, the kinds of barrier and chromosome doubling.",
+   "Other units were checked so that nothing repeats. sci.evolution.natural-selection.L5 gives the outline of one species becoming two, with the sholakili and the ring of warblers. sci.habitats.where-life-lives.L5 has a line-copying test of groups kept apart. sci.ecology.biodiversity.L5 has a coin test of small groups dying out. This lesson adds inherited chance in a breeding group, bottlenecks, founders, measured gene flow, the kinds of barrier and chromosome doubling.",
    "Facts checked by web search on 19 Nov 2026 against: the PNAS paper and NCBS release on Similipal tigers, summaries of Buri (1956), reports of the Florida panther genetic rescue, the 2024 elephant seal genome study, Mills and Allendorf (1996), reports of Sharma and others (2013), Wildlife Institute of India reports on National Highway 44, Levy and Feldman (2022) on wheat, Flora of North America and Washington State University on Tragopogon, Knowlton and others (1993), Nakatsuka and others (2017), Xu and others (2016), and news reports of the 2024 tigress translocation."
   ],
   "science": [
@@ -3333,7 +3333,7 @@
    {
     "source": "Zhuangzi, chapter 4 (the oak at the village shrine)",
     "teaching": "A carpenter passes a huge old oak and calls the oak useless, because the wood is good for nothing. That night the oak speaks to him in a dream. The fruit trees are stripped and broken because they are useful, says the oak. Being useless is what let me grow old.",
-    "link": "The carpenter judged the oak by what the wood could do for him. This unit's science shows that a feature needs no use to be there. 'What is it for?' is our question, and nature does not always have an answer to it.",
+    "link": "The carpenter judged the oak by what the wood could do for him. This lesson's science shows that a feature needs no use to be there. 'What is it for?' is our question, and nature does not always have an answer to it.",
     "verse": ["散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"],
     "verse_lang": "zh"
    },

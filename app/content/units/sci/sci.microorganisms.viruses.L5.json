@@ -3,12 +3,12 @@
  "title": "Viruses, vaccines, prions and viroids: how a cell is taken over, and how a body gets ready",
  "level": 5,
  "summary": {
-  "text": "A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this unit you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.",
+  "text": "A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this lesson you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.",
   "art": "A cut-away drawing of a round cell with small work stations inside, most of them building tiny virus particles and only a few building the cell's own parts."
  },
  "intro": {
   "hook": "A polio virus particle is a small ball of protein with one strand of instructions inside. They cannot move by themselves, and they cannot build anything. Yet four to six hours after one particle enters a cell, that cell can release up to 10,000 new ones. Who built them?",
-  "text": "The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this unit you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.",
+  "text": "The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this lesson you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.",
   "art": "One tiny ball-shaped virus particle beside a large cell on the left, and on the right the same cell with thousands of identical tiny balls pouring out."
  },
  "outcomes": [
@@ -3411,7 +3411,7 @@
    "ideas/by_topic/microorganisms.md, the SCI Card on Gagandeep Kang and Rotavac. Used in the explanation 'Four kinds of vaccine'. Her role is given only as it could be checked: one of three lead investigators of the large trial.",
    "ideas/by_topic/microorganisms.md, the SCI Card on Emmanuelle Charpentier and Jennifer Doudna ('Bacteria have an ancient immune system'). Used in the explanation 'Bacteria remember viruses too: CRISPR'.",
    "ideas/by_topic/microorganisms.md, the notebook's picture of prokaryotes who 'built the first immune system, with enzymes to keep away rogue DNAs', and the note that nobody knows where viruses came from. Used in the CRISPR explanation and the open questions.",
-   "The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this unit builds on. Their experiments, games and stories are not repeated.",
+   "The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this lesson builds on. Their experiments, games and stories are not repeated.",
    "knowledge/by_subtopic.json: Microbiology (OpenStax), 'Viroids, Virusoids, and Prions', and Biology 2e, 'Other Acellular Entities: Prions and Viroids', used as a guide to what to cover. Facts were checked online, as listed in the play-test note."
   ],
   "science": [

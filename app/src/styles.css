@@ -3766,9 +3766,6 @@ a.btn {
   align-items: center;
   flex-wrap: wrap;
 }
-.qtypes {
-  flex-wrap: wrap;
-}
 .qtypes small {
   opacity: 0.7;
 }
@@ -5266,7 +5263,9 @@ strong {
 /* a segmented switch: the choices sit in one soft track, the chosen one is a white tab */
 .seg {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
   background: var(--track);
   border-radius: 14px;
   padding: 4px;
@@ -7176,9 +7175,6 @@ header.top #backTop {
 /* a page's tabs stay on one line at every width: when they do not all fit they scroll sideways, and the fading right edge
    shows there are more */
 .segmain {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  scrollbar-width: none;
   padding-right: 44px;
   mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 44px), transparent);
 }

@@ -3,12 +3,12 @@
  "title": "Weather: sun, rain, wind and clouds, and what to wear",
  "level": 1,
  "summary": {
-  "text": "A thick sweater keeps you warm, but does it stop the wind? In this unit you will look for weather clues indoors, test sweaters and other clothes against a fan, play a game choosing what to wear, and use a torch to see why shadows are soft under a cloud.",
+  "text": "A thick sweater keeps you warm, but does it stop the wind? In this lesson you will look for weather clues indoors, test sweaters and other clothes against a fan, play a game choosing what to wear, and use a torch to see why shadows are soft under a cloud.",
   "art": "A child with one bare arm held out in front of a table fan, a steel tumbler standing in the same wind, and a pile of clothes on the floor: a sweater, a dupatta and a raincoat."
  },
  "intro": {
   "hook": "Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?",
-  "text": "Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.",
+  "text": "Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this lesson we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.",
   "art": "A child's hand touching a steel tumbler in front of a table fan, with a puzzled face, and a second tumbler on a shelf across the room."
  },
  "outcomes": [
@@ -1645,7 +1645,7 @@
   "founder": [
    "No by_topic file exists for weather. Used ideas/by_topic/caring-for-the-environment.md ('Keep a notebook of daily weather'), turned into the window doll project for Class 1.",
    "ideas/by_topic/body-parts-and-skeleton.md art idea 'Draw you in three weathers', used as worksheet drawing items.",
-   "Ladder: Level 3 (sci.weather.weather.L3) measures weather with a thermometer, rain gauge and wind vane, with a sun-or-shade thermometer test. This unit does no measuring and repeats none of its experiments. It leads on to it by noticing the four weathers and what wind does."
+   "Ladder: Level 3 (sci.weather.weather.L3) measures weather with a thermometer, rain gauge and wind vane, with a sun-or-shade thermometer test. This lesson does no measuring and repeats none of its experiments. It leads on to it by noticing the four weathers and what wind does."
   ],
   "science": [
    "Wind chill: moving air increases heat loss from a body warmer than the air (forced convection). It does not lower the air temperature, and a dry object at room temperature is not cooled below it. A fan adds a little heat to a room.",

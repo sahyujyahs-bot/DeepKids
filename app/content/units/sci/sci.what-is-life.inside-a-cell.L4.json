@@ -3,12 +3,12 @@
  "title": "Inside a cell: the power stations, the recipe book and the workshops",
  "level": 4,
  "summary": {
-  "text": "A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this unit you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.",
+  "text": "A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this lesson you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.",
   "art": "A beetroot cube in a clear glass of hot water, with red colour streaming out of it, next to a second glass of cold water that stays clear."
  },
  "intro": {
   "hook": "Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.",
-  "text": "Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.",
+  "text": "Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this lesson you open the cell and look at the rooms, one by one.",
   "art": "A child with a hand on their chest after running, and beside them a zoomed-in muscle cell full of small bean-shaped rooms."
  },
  "outcomes": [
@@ -1445,7 +1445,7 @@
     }
    ],
    "record": "Take a photo or draw the finished city with every room labelled. Write the path of a protein from the nucleus to the outside. Write three things the model gets wrong.",
-   "context": "In this project, you find out how the rooms of a cell work together to make a protein. You build a model of a cell on a tray, with the rooms from this unit, and walk a protein through it.",
+   "context": "In this project, you find out how the rooms of a cell work together to make a protein. You build a model of a cell on a tray, with the rooms from this lesson, and walk a protein through it.",
    "setup": [
     {
      "art": "A steel thali with a rope of dough around the rim as the membrane and a round dough ball in the middle with holes in it as the nucleus.",
@@ -2311,7 +2311,7 @@
    "answer": "About 333,000 times.",
    "explain": "Two metres is 2,000,000 micrometres. Dividing 2,000,000 by 6 gives about 333,000. So the DNA is about 333,000 times as long as the room it is kept in.",
    "math_unit": "math.number-sense.big-numbers.L4",
-   "context": "In this unit you learn that a cell folds two metres of DNA into a nucleus a few micrometres wide.",
+   "context": "In this lesson you learn that a cell folds two metres of DNA into a nucleus a few micrometres wide.",
    "why_maths": "Two big numbers are hard to compare just by looking at them. Dividing one by the other shows how tightly the DNA is packed."
   },
   {

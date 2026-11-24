@@ -3,12 +3,12 @@
  "title": "Chemical bonds: how atoms hold on to each other",
  "level": 3,
  "summary": {
-  "text": "Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this unit you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.",
+  "text": "Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this lesson you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.",
   "art": "A glass of water with two pencils standing in it, wires going to a small battery, and streams of tiny bubbles rising from both pencil tips."
  },
  "intro": {
   "hook": "Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.",
-  "text": "So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this unit you will split water yourself, with a pencil and a battery, and find out what it is made of.",
+  "text": "So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this lesson you will split water yourself, with a pencil and a battery, and find out what it is made of.",
   "art": "A steel lid held up over a pot of rice, with drops of water hanging on its underside and a child's finger touching one."
  },
  "outcomes": [
@@ -317,7 +317,7 @@
   "title": "Bubbles That Were Not Steam",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. The water-splitting test in it is the one in this unit.",
+  "note": "A made-up story. The water-splitting test in it is the one in this lesson.",
   "text": [
    "It was the morning of Pongal in Madurai. On the balcony of the flat, Paati had tied fresh turmeric leaves round the neck of the new pot. The milk in it was rising. Kavya, who was ten, held her little brother Arjun back from the stove.",
    "The milk frothed over the side. 'Pongalo pongal!' everyone shouted. Paati added the rice and covered the pot with a steel lid.",
@@ -1678,7 +1678,7 @@
    "channel": "Exploratorium Teacher Institute",
    "youtube": "LWwGfQ8fBwA",
    "mins": 4,
-   "why": "Shows how to set up a small water-splitting test, like the one in this unit, with a 9-volt battery.",
+   "why": "Shows how to set up a small water-splitting test, like the one in this lesson, with a 9-volt battery.",
    "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Its materials differ a little from ours. Length is approximate."
   },
   {

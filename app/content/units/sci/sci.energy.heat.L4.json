@@ -3,12 +3,12 @@
  "title": "Heat and temperature: why the same heat warms oil faster than water",
  "level": 4,
  "summary": {
-  "text": "Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this unit you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.",
+  "text": "Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this lesson you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.",
   "art": "Two steel tumblers standing in a pan of hot water, one holding golden oil and one holding clear water, each with a thermometer, and the oil thermometer reading higher."
  },
  "intro": {
   "hook": "Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?",
-  "text": "The pan gives the same heat to both tumblers, yet they do not end up the same. In this unit you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.",
+  "text": "The pan gives the same heat to both tumblers, yet they do not end up the same. In this lesson you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.",
   "art": "A child with a notebook looking at two thermometers standing in two tumblers in a pan of hot water, with a question mark above the tumblers."
  },
  "outcomes": [
@@ -2538,7 +2538,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each of these comes from one idea in this unit. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.",
+     "why": "Each of these comes from one idea in this lesson. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.",
      "outcome": 6
     },
     {
@@ -2586,7 +2586,7 @@
        "says": "Heat and temperature are two words for the same thing."
       }
      ],
-     "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
+     "ask": "Which idea do you agree with most? Use something from this lesson as evidence. Then say what another friend has right.",
      "lines": 6,
      "a": "A strong answer usually agrees with the second child: the Katori and the Bowl test showed that a cooler bowl can melt more ice. It admits that the first child has a point, since between two equal amounts of the same thing, the hotter one does hold more heat. It explains that heat and temperature are different, which the third child's idea misses.",
      "why": "There is a real argument here. Scientists once agreed with the first child and the third child, until Joseph Black showed that temperature and the amount of heat are different. A strong answer uses evidence and is fair to the other friends.",
@@ -2733,7 +2733,7 @@
        "says": "The drums help a small closed shed. They could not save a whole field in the open."
       }
      ],
-     "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another person has right.",
+     "ask": "Which idea do you agree with most? Use something from this lesson as evidence. Then say what another person has right.",
      "lines": 6,
      "a": "A strong answer usually agrees with Meera, and uses the idea that water needs a lot of heat to warm up, so it also gives out a lot as it cools. It admits that Sreedevi is right too, since an open field loses heat to the sky far faster than a closed shed can be warmed. Gopan's idea would be dangerous in a closed shed, because burning charcoal makes poisonous smoke.",
      "why": "There is a real choice here. A strong answer uses the science of heat stores and is fair to the limits Sreedevi names, and to the danger of Gopan's idea.",
@@ -3109,7 +3109,7 @@
     "p1",
     "c1"
    ],
-   "why": "Every test in this unit reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other."
+   "why": "Every test in this lesson reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other."
   },
   {
    "id": "b-scale",
@@ -3218,7 +3218,7 @@
   "founder": [
    "ideas/by_topic/energy.md: the grade 2 and grade 3 concept rows (friction and 'perpetual' toys convert movement to heat; thermal energy; energy as a measurable capacity to transfer heat), used for the heat-from-movement activity and the calorie units",
    "ideas/by_topic/energy.md: the Heat Flow and Heat transfer rows (hot-and-cold race ideas, wrapped bottles, sea breeze), used for the sea and sand explanation and the wet-and-dry activity",
-   "The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this unit builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling",
+   "The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this lesson builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling",
    "The Combined lesson sci-C4-energy: the fair-test habit and the idea that energy is moved and spread out, used in the structure of the experiments"
   ],
   "science": [

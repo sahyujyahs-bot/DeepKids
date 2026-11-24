@@ -3,7 +3,7 @@
  "title": "Inside a cell: why your cells need a transport system and a bacterium does not",
  "level": 5,
  "summary": {
-  "text": "Your cells need a transport system inside them, but a tiny bacterium does not. Why? In this unit you will time how far colour drifts into a potato over 1, 4 and 16 hours, walk a coin to see wandering against walking straight, and send proteins to the right place in a cell.",
+  "text": "Your cells need a transport system inside them, but a tiny bacterium does not. Why? In this lesson you will time how far colour drifts into a potato over 1, 4 and 16 hours, walk a coin to see wandering against walking straight, and send proteins to the right place in a cell.",
   "art": "A small rod-shaped bacterium beside a much larger animal cell cut open to show folded bags, a stack of flat bags, round parcels moving along thin tracks, and bean-shaped mitochondria the same size as the bacterium."
  },
  "intro": {
@@ -2363,7 +2363,7 @@
      "t": "match",
      "p": "Match each thing you saw to its explanation.",
      "a": "pairs as given",
-     "why": "Each result in this unit has a reason at the level of molecules. A strong answer could explain any pair in a full sentence.",
+     "why": "Each result in this lesson has a reason at the level of molecules. A strong answer could explain any pair in a full sentence.",
      "pairs": [
       [
        "Boiled potato does not fizz",
@@ -3024,7 +3024,7 @@
    "Founder's notebook items bio:74 to bio:79 (organelles and structures: nucleus, mitochondria, chloroplasts; ER and Golgi apparatus; lysosomes and peroxisomes; cytoskeleton; cell membranes): each named part has an explanation here, and peroxisomes have their own experiment.",
    "Founder's notes in ideas/by_topic/how-life-began.md, plants.md and microorganisms.md on the first eukaryotes and on cells taking in other cells: used for the explanation of endosymbiosis and the debate about the host cell. The founder's note has the host and the guest the other way round, so the accepted order is used here.",
    "Founder's SCI Cards in ideas/scientists.json for Lynn Margulis and Yellapragada SubbaRow: used for the evidence card on mitochondria and the credit for ATP.",
-   "The Level 4 unit sci.what-is-life.inside-a-cell.L4, which this unit builds on without repeating its experiments, story or deep truth."
+   "The Level 4 unit sci.what-is-life.inside-a-cell.L4, which this lesson builds on without repeating its experiments, story or deep truth."
   ],
   "science": [
    "Einstein, A., on the movement of small particles suspended in liquids, Annalen der Physik 17, 1905. Perrin, J., Brownian movement and molecular reality, 1909",
@@ -3074,7 +3074,7 @@
    {
     "source": "Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased)",
     "teaching": "Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly.",
-    "link": "We call our own cells advanced and bacteria simple. The science in this unit shows two designs, each fitted to a size. The ranking comes from us.",
+    "link": "We call our own cells advanced and bacteria simple. The science in this lesson shows two designs, each fitted to a size. The ranking comes from us.",
     "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
     "verse_lang": "zh"
    },
@@ -3117,5 +3117,5 @@
   ],
   "art": "A child sitting with legs stretched out, one hand on the lower back, with a single thin line drawn from the back to the big toe and tiny parcels moving along it."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home, so please treat the amounts and times as a starting point. The Potato Colour Test (core) needs one large potato, strong food colour and two days. The first cut comes after 1 hour, when the coloured rim is only 1 or 2 millimetres deep and hard to measure. If you cannot measure it, compare the 4 hour and 16 hour blocks: the later one should be about twice as deep. Real potatoes give between one and a half and three times, not exactly double. The rim fades at its inner edge, so always measure to where the colour is about half as strong. Weak colour gives a rim too pale to see, so use at least 2 teaspoons in half a tumbler. A grown-up does every cut. The Coin Walk (core) depends on chance, so five runs can give a mean far from 9 or 36. The step says to do five more runs if the two means are less than three times apart. The Fizzing Potato needs 3 percent hydrogen peroxide from a chemist. Old bottles lose their strength: if grated raw potato does not foam, the bottle is the cause. The raw cube makes only a slow stream of bubbles, and the foam layer is clear only on the grated potato. A Film That Mends needs a pencil that is really wet with the soap solution, and still air. Fold It In works with any full newspaper sheet: fold it into a long strip as tall as the tumbler before you pleat it. In A Cell on a Plate at True Scale, measure your own beans and seeds, because sizes vary. In the Thread Line, the thread must be smooth and tight, or the straw sticks. Both games need the cards cut out, and the answer slips and place slips are written by hand. No part needs a garden, a microscope or anything alive except a potato. The three video addresses were confirmed with YouTube on 18 Nov 2026, but the videos were not watched from here. The numbers for drifting times in cells are rounded estimates, and the two teachings in Roots are paraphrases."
+ "playtest": "The experiments and activities in this lesson were reasoned through step by step. They have not yet been tried at home, so please treat the amounts and times as a starting point. The Potato Colour Test (core) needs one large potato, strong food colour and two days. The first cut comes after 1 hour, when the coloured rim is only 1 or 2 millimetres deep and hard to measure. If you cannot measure it, compare the 4 hour and 16 hour blocks: the later one should be about twice as deep. Real potatoes give between one and a half and three times, not exactly double. The rim fades at its inner edge, so always measure to where the colour is about half as strong. Weak colour gives a rim too pale to see, so use at least 2 teaspoons in half a tumbler. A grown-up does every cut. The Coin Walk (core) depends on chance, so five runs can give a mean far from 9 or 36. The step says to do five more runs if the two means are less than three times apart. The Fizzing Potato needs 3 percent hydrogen peroxide from a chemist. Old bottles lose their strength: if grated raw potato does not foam, the bottle is the cause. The raw cube makes only a slow stream of bubbles, and the foam layer is clear only on the grated potato. A Film That Mends needs a pencil that is really wet with the soap solution, and still air. Fold It In works with any full newspaper sheet: fold it into a long strip as tall as the tumbler before you pleat it. In A Cell on a Plate at True Scale, measure your own beans and seeds, because sizes vary. In the Thread Line, the thread must be smooth and tight, or the straw sticks. Both games need the cards cut out, and the answer slips and place slips are written by hand. No part needs a garden, a microscope or anything alive except a potato. The three video addresses were confirmed with YouTube on 18 Nov 2026, but the videos were not watched from here. The numbers for drifting times in cells are rounded estimates, and the two teachings in Roots are paraphrases."
 }

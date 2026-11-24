@@ -3,12 +3,12 @@
  "title": "Maps and directions: how to map a place you cannot see, and find where you are from three distances",
  "level": 4,
  "summary": {
-  "text": "How can you draw a map of hills you cannot see? In this unit you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.",
+  "text": "How can you draw a map of hills you cannot see? In this lesson you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.",
   "art": "A shoebox with a lid full of small holes, a child pushing a thin stick through one hole, and beside the box a squared-paper map with numbers and coloured squares."
  },
  "intro": {
   "hook": "Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?",
-  "text": "A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this unit you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.",
+  "text": "A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this lesson you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.",
   "art": "A child in a field holding up a phone with a blue dot on its map, and three faint dotted lines running up from the phone to three small satellites in the sky."
  },
  "outcomes": [
@@ -2721,7 +2721,7 @@
        "says": "A good map team uses both. The photograph shows what is there and the map says what it means."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say what another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say what another person has right.",
      "lines": 5,
      "a": "A strong answer picks a view with a reason, such as the photograph's detail or the map's choices, and admits a fair point from another view.",
      "why": "There is no single right answer. A photograph shows more, but a map picks what the reader needs, and many mapmakers use both."
@@ -3720,7 +3720,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/planet-earth.md: the founder's notes on maps, used for the map drawing and surveying activities",
-   "The Level 3 unit on maps and directions, which this unit builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances",
+   "The Level 3 unit on maps and directions, which this lesson builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances",
    "Board chapter NCERT Class 4, Exploring Our Neighbourhood: coverage only, for the neighbourhood and services parts"
   ],
   "science": [

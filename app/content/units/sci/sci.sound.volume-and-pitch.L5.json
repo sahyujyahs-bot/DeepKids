@@ -3,12 +3,12 @@
  "title": "Volume and pitch: what makes a sound loud or quiet, high or low",
  "level": 5,
  "summary": {
-  "text": "Pluck a string harder and it sounds louder, but the note stays the same. Hang a heavier weight on it and the note rises, but the loudness hardly changes. In this unit you will find three ways to change a string's pitch, and test what makes a ringing phone quietest.",
+  "text": "Pluck a string harder and it sounds louder, but the note stays the same. Hang a heavier weight on it and the note rises, but the loudness hardly changes. In this lesson you will find three ways to change a string's pitch, and test what makes a ringing phone quietest.",
   "art": "One string drawn twice between two pencils: on the left as a narrow blur and a wide blur with the same musical note above both, on the right hung with a small bottle and a large bottle with a low note and a high note above them."
  },
  "intro": {
   "hook": "A mosquito near your ear is quiet, and her whine is high. A chenda drum across a temple yard is loud, and its beat is low. If you hit the chenda harder, will its note go higher? If the mosquito comes closer, will her whine go lower?",
-  "text": "Both answers are no. Hitting harder makes the drum louder, and its note stays where it was. Coming closer makes the whine louder, and it stays just as high. Loud and high are two different things, and different changes move them. In this unit you build one string on a table and test it with a bottle of water. You measure its loudness in decibels and its note in hertz. Then you wrap a ringing phone in a towel and find what the towel changes and what it leaves alone.",
+  "text": "Both answers are no. Hitting harder makes the drum louder, and its note stays where it was. Coming closer makes the whine louder, and it stays just as high. Loud and high are two different things, and different changes move them. In this lesson you build one string on a table and test it with a bottle of water. You measure its loudness in decibels and its note in hertz. Then you wrap a ringing phone in a towel and find what the towel changes and what it leaves alone.",
   "art": "A small mosquito beside a child's ear on the left and a large chenda drum far across a temple yard on the right, with a small high note above the mosquito and a large low note above the drum."
  },
  "outcomes": [
@@ -449,7 +449,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.",
+  "context": "In this lesson you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.",
   "deep_truth": {
    "truth": "In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So the pitch you hear is the same pitch the source made, however far the sound has travelled. That is how you can tell what made a sound from a long way off.",
    "habit": "We usually treat loudness and pitch as two equal facts about a sound. In one way they are not equal. Loudness changes on the way to you, because distance and walls make a sound weaker. Pitch is set once, at the source, and it arrives just as it left.",
@@ -465,7 +465,7 @@
    {
     "source": "Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona)",
     "teaching": "Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way.",
-    "link": "The talk rests on the science of this unit: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.",
+    "link": "The talk rests on the science of this lesson: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.",
     "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."],
     "verse_lang": "pi"
    },
@@ -2531,7 +2531,7 @@
        "says": "Birds roosting in the trees and other animals hear it too. They cannot shut a window or move to another room."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from what you found in this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from what you found in this lesson. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. One reason is that sound above 85 decibels harms hearing over hours. Another is that every 10 decibels less means only a tenth of the energy. So turning down a little helps a lot. A third is that the music can go on at a lower volume.",
      "why": "Each view has something right in it. A strong answer uses a fact about decibels, and it looks for a way that meets more than one need.",
      "outcome": 2
@@ -2729,7 +2729,7 @@
        "says": "Close the gaps round the door first. Even a small gap lets a lot of sound through, however thick the wall is."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from what you found in this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from what you found in this lesson. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. In the Muffle Test, four layers of towel absorbed more than one layer. A gap of one finger-width in the dabba's lid let a lot of sound out. Making less sound at the source helps every listener.",
      "why": "Each view works on a different part of the path: the source, the room and the leaks. A strong answer uses evidence from the Muffle Test and may combine two fixes.",
      "outcome": 5,
@@ -2914,7 +2914,7 @@
        "says": "A strong low sound can be felt through the floor and in the chest. A body meets sound in more ways than by hearing."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from what you found in this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from what you found in this lesson. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. The meter in the Muffle Test gave numbers with nobody listening closely. A dog whistle is strong in the air and silent to a human. A low hum and a high beep with the same reading do not sound equally loud.",
      "why": "No view is simply wrong. A strong answer separates what a meter measures from what someone hears, and gives one example.",
      "outcome": 7

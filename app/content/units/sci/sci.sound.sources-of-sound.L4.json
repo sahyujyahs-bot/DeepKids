@@ -3,12 +3,12 @@
   "title": "Sources of sound: shaking, blowing, popping and rubbing",
   "level": 4,
   "summary": {
-    "text": "Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this unit you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.",
+    "text": "Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this lesson you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.",
     "art": "A row of glass bottles with different amounts of water on a kitchen table, a spoon tapping one, a child blowing across another, and a damp finger squeaking on a window."
   },
   "intro": {
     "hook": "Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?",
-    "text": "When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this unit you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.",
+    "text": "When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this lesson you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.",
     "art": "Three glass bottles with different water levels, a spoon tapping one and a child blowing across the mouth of another."
   },
   "outcomes": [
@@ -460,7 +460,7 @@
     ]
   },
   "roots": {
-    "context": "This unit found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.",
+    "context": "This lesson found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.",
     "deep_truth": {
       "truth": "In the Whisper Vowels activity, the listener could still tell 'ee' from 'oo' with no buzz from the throat. Only a hiss left the throat, and the mouth shaped it. In the Tap or Blow test, tapping and blowing gave opposite orders of notes from the same bottles. So a sound comes from what starts it and also from the space that shapes it.",
       "habit": "We say a sound comes from its source: the drum, the string or the throat. But the same source sounds different when the space around it changes. So the source alone does not fix the sound.",
@@ -483,7 +483,7 @@
       {
         "source": "Brihadaranyaka Upanishad 2.4.7",
         "teaching": "When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina.",
-        "link": "This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.",
+        "link": "This lesson finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.",
         "verse": ["स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय", "दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"],
         "verse_lang": "sa"
       },
@@ -3086,7 +3086,7 @@
   "sources": {
     "founder": [
       "Founder's notebook, Sound: the concept activities on Sound and Vibration and on Waves and Oscillation. Used ideas include tapping glasses with different water levels, straw panpipes, rubbing a glass rim for a tone, and the Chladni plate with sand, which became the bottle test, the squeak test and the section on plates.",
-      "The Class 3 unit on where sounds come from, which this unit builds on. It showed that every sound starts with a vibration. This unit asks how many different ways the air can be pushed, and what shapes the note.",
+      "The Class 3 unit on where sounds come from, which this lesson builds on. It showed that every sound starts with a vibration. This lesson asks how many different ways the air can be pushed, and what shapes the note.",
       "The founder's idea that a sound belongs to its source and to the space around it, used for the deep truth and the Roots card."
     ],
     "science": [

@@ -3,12 +3,12 @@
  "title": "The immune system: the defence that learns and remembers",
  "level": 4,
  "summary": {
-  "text": "The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this unit you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.",
+  "text": "The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this lesson you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.",
   "art": "A child's outline with a quick row of round cells at the skin on one side, and on the other side a long shelf of tiny Y-shaped keys, with one key glowing and copying itself."
  },
  "intro": {
   "hook": "Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?",
-  "text": "That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.",
+  "text": "That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this lesson you find out how a body can learn without a teacher, and how doctors found a way to use that.",
   "art": "A child's upper arm with a small round scar, and a magnifying circle showing tiny cells standing guard around it."
  },
  "outcomes": [
@@ -1320,7 +1320,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the unit. Cards differ by state and year. If your child's card is hard to find, ask a clinic.",
+     "parent": "Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the lesson. Cards differ by state and year. If your child's card is hard to find, ask a clinic.",
      "context": "This is the first step of Read the vaccination card. You look and wonder before anything is explained."
     },
     {
@@ -2791,7 +2791,7 @@
    "channel": "Kurzgesagt: In a Nutshell",
    "youtube": "zQGOcOUBi6s",
    "mins": 7,
-   "why": "A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it shows the body's defence as a battle.",
+   "why": "A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the idea of this lesson. Parents should watch first, because it shows the body's defence as a battle.",
    "check": "The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children."
   },
   {
@@ -3193,11 +3193,11 @@
  },
  "sources": {
   "founder": [
-   "DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.",
+   "DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.",
    "ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Gagandeep Kang (vaccines tested in the place they will be used), Charaka (disease has causes that can be studied) and Sunetra Gupta (flu viruses change their shape to slip past memory).",
    "ideas/by_topic/microorganisms.md: SCI Cards for Katalin Karikó (mRNA vaccines), Emmanuelle Charpentier and Jennifer Doudna, and the note that bacteria have their own immune system, which is used in the Roots card.",
    "Combined lessons sci-C4-health-hygiene-exercise-and-illness and sci-C3-health-hygiene-exercise-and-illness: the idea of self and not-self and the germ tag game, adapted here into the Shield the Town game. Their stories were not reused.",
-   "The Class 3 unit sci.body.immune-system.L3, which this unit builds on. Its experiments and story were not repeated."
+   "The Class 3 unit sci.body.immune-system.L3, which this lesson builds on. Its experiments and story were not repeated."
   ],
   "science": [
    "Edward Jenner, An Inquiry into the Causes and Effects of the Variolae Vaccinae (1798): the account of Sarah Nelmes, Blossom the cow and James Phipps, and the date 14 May 1796.",

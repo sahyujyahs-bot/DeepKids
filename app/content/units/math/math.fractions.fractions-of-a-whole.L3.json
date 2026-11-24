@@ -3,12 +3,12 @@
  "title": "Unit fractions: one equal part of a whole, or of a group",
  "level": 3,
  "summary": {
-  "text": "Which is bigger, one third of a dosa or one eighth of the same dosa? Many people pick one eighth, because 8 is bigger than 3. In this unit you cut paper strips and share out groundnuts to find the real answer. You learn to name and write fractions such as 1/3 and 1/8, and to find a fraction of a group, such as one quarter of 12. You also find out that a fraction has no size at all until someone says what the whole is.",
+  "text": "Which is bigger, one third of a dosa or one eighth of the same dosa? Many people pick one eighth, because 8 is bigger than 3. In this lesson you cut paper strips and share out groundnuts to find the real answer. You learn to name and write fractions such as 1/3 and 1/8, and to find a fraction of a group, such as one quarter of 12. You also find out that a fraction has no size at all until someone says what the whole is.",
   "art": "Two round dosas side by side on banana leaves, one cut into 3 equal pieces and one cut into 8 equal pieces, with one piece of each lifted out so the big piece and the small piece can be compared."
  },
  "intro": {
   "hook": "Which is more: half of a laddu, or a quarter of a laddu? Think first. Then open the box below.",
-  "text": "Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose? A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this unit you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.",
+  "text": "Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose? A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this lesson you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.",
   "art": "A child looking at two closed steel boxes, one labelled 'one half of a laddu' and one labelled 'one quarter of a laddu', with a thought bubble holding a tiny laddu and a huge laddu.",
   "chart": {
    "type": "strip",
@@ -1472,7 +1472,7 @@
        "says": "Fractions were always there. Two quarters made a half before any person lived. A chick can pick out a proportion with no words at all."
       }
      ],
-     "ask": "Who do you agree with more? Give a reason from something you did in this unit. Then say what the other person has right.",
+     "ask": "Who do you agree with more? Give a reason from something you did in this lesson. Then say what the other person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses evidence. For the first: we chose the whole each time, 24 groundnuts or 12, and we chose how to write 1/4. For the second: once the whole was chosen, one quarter of 24 was 6 whoever counted. It then says what the other side has right. Some children say both: the names and the wholes are chosen, and what follows is not.",
      "why": "This is a real disagreement among mathematicians and philosophers, and nobody has settled it. What matters is using evidence and answering the other side fairly."
@@ -3221,7 +3221,7 @@
    "title": "Math Learning Center: Fractions app",
    "url": "https://www.mathlearningcenter.org/apps/fractions",
    "kind": "interactive",
-   "why": "Free fraction bars and circles on screen. Choose the number of equal parts and shade them, like the paper strips in this unit."
+   "why": "Free fraction bars and circles on screen. Choose the number of equal parts and shade them, like the paper strips in this lesson."
   },
   {
    "title": "Polypad fraction bars",
@@ -3416,7 +3416,7 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "The verse is about the whole of everything, not about dosas. The small parallel in this unit is that a part taken from a whole can itself be treated as a whole. In the story, the last quarter of the jaggery became the new whole and was cut into fifths."
+    "link": "The verse is about the whole of everything, not about dosas. The small parallel in this lesson is that a part taken from a whole can itself be treated as a whole. In the story, the last quarter of the jaggery became the new whole and was cut into fifths."
    },
    {
     "source": "Zhuangzi, chapter 33 (paraphrased)",
@@ -3458,5 +3458,5 @@
   "when": "About 1550 BCE to 1585 CE",
   "wrong_idea": "Greek mathematicians held that the one cannot be divided, so a fraction is not a number. People gave this up because fractions can be added, compared and put in order just like whole numbers. It was a change in what people agreed to call a number."
  },
- "playtest": "What was checked, and how. These facts were looked up on the web while writing. The Rhind papyrus and Egyptian unit fractions, with the special sign for two thirds. Brahmagupta's way of writing fractions, and the later Arab fraction line (MacTutor). Mahavira's unit-fraction rules. The Tamil fraction names (Unicode documents). The nazhigai of 24 minutes. The 12 day hours and 12 night hours of ancient Egypt. The 1981 chimpanzee study and the 2016 chick study (journal records and summaries, not the full papers). Adi tala as 4, 2 and 2 beats with a clap, finger counts and waves. The stick saying in Zhuangzi chapter 33. Why a half-lit Moon is called a quarter Moon. Water covering about 71 percent of the Earth. Kuttanad lying below sea level. These were not looked up: that the rupee had 16 annas until 1957, that about one fifth of air is oxygen, that a lady's finger usually has 5 chambers and a star fruit 5 ridges, and that newspaper folds in half only about 6 or 7 times. The three videos were confirmed by title and channel only. Nobody has watched them for this unit, and their lengths are estimates. Everything hands-on was followed step by step on paper, not done with real materials. The strip lengths work out exactly because 24 divides by 2, 3, 4, 6 and 8. In A Quarter of the Water, the result is clear only in a pan with a properly round bottom. In a flat-bottomed bowl with sloping sides the difference is a few millimetres, and the step says so. Both games were played through on paper for 1, 2 and 4 players. The dice game needs about 8 turns each to reach 20. The card game has 32 cards, so it deals evenly to 2 or 4 players. With 3 players, put 2 cards aside."
+ "playtest": "What was checked, and how. These facts were looked up on the web while writing. The Rhind papyrus and Egyptian unit fractions, with the special sign for two thirds. Brahmagupta's way of writing fractions, and the later Arab fraction line (MacTutor). Mahavira's unit-fraction rules. The Tamil fraction names (Unicode documents). The nazhigai of 24 minutes. The 12 day hours and 12 night hours of ancient Egypt. The 1981 chimpanzee study and the 2016 chick study (journal records and summaries, not the full papers). Adi tala as 4, 2 and 2 beats with a clap, finger counts and waves. The stick saying in Zhuangzi chapter 33. Why a half-lit Moon is called a quarter Moon. Water covering about 71 percent of the Earth. Kuttanad lying below sea level. These were not looked up: that the rupee had 16 annas until 1957, that about one fifth of air is oxygen, that a lady's finger usually has 5 chambers and a star fruit 5 ridges, and that newspaper folds in half only about 6 or 7 times. The three videos were confirmed by title and channel only. Nobody has watched them for this lesson, and their lengths are estimates. Everything hands-on was followed step by step on paper, not done with real materials. The strip lengths work out exactly because 24 divides by 2, 3, 4, 6 and 8. In A Quarter of the Water, the result is clear only in a pan with a properly round bottom. In a flat-bottomed bowl with sloping sides the difference is a few millimetres, and the step says so. Both games were played through on paper for 1, 2 and 4 players. The dice game needs about 8 turns each to reach 20. The card game has 32 cards, so it deals evenly to 2 or 4 players. With 3 players, put 2 cards aside."
 }

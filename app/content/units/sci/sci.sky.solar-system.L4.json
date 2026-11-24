@@ -3,12 +3,12 @@
  "title": "The solar system: why a rocky planet and a gas giant are so different, and how we know",
  "level": 4,
  "summary": {
-  "text": "Mercury is closest to the Sun, yet Venus is hotter, and Saturn is lighter than water. Why are the planets so different? In this unit you will drop marbles into flour to make craters, shake a planet in a jar, and walk a scale model of the solar system.",
+  "text": "Mercury is closest to the Sun, yet Venus is hotter, and Saturn is lighter than water. Why are the planets so different? In this lesson you will drop marbles into flour to make craters, shake a planet in a jar, and walk a scale model of the solar system.",
   "art": "A kitchen table with a tray of flour full of marble craters, a jar with layers of steel nuts, sand, water and oil, and a row of eight planets drawn on a long strip of paper behind them."
  },
  "intro": {
   "hook": "Four of the eight planets have solid ground. If you dropped a stone on Jupiter, it would never land, because there is no ground to land on. All eight planets formed from the same cloud of gas and dust, around the same young Sun. So why did they turn out as two quite different kinds of world?",
-  "text": "In this unit you find out. You drop marbles into a tray of flour and learn how scientists read the age of a planet from its craters. You sort heavy things from light things in a jar, the way a young planet sorted itself. You work out how long sunlight takes to reach each planet, and why that makes driving a rover on Mars so slow. You also meet Inge Lehmann, a Danish scientist who found out what is inside the Earth without ever digging a hole.",
+  "text": "In this lesson you find out. You drop marbles into a tray of flour and learn how scientists read the age of a planet from its craters. You sort heavy things from light things in a jar, the way a young planet sorted itself. You work out how long sunlight takes to reach each planet, and why that makes driving a rover on Mars so slow. You also meet Inge Lehmann, a Danish scientist who found out what is inside the Earth without ever digging a hole.",
   "art": "A cut-open Earth showing a bright core, a mantle and a thin crust next to a cut-open Jupiter that is mostly swirling gas, both drawn as if they were fruit sliced in half."
  },
  "outcomes": [
@@ -3049,7 +3049,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook items on the solar system (phy:45 and phy:60) and the idea of building the solar system to scale at home, used in the Walk the Solar System activity",
-   "The Class 3 unit on the solar system, which this unit builds on: the planets in order, sunlight spreading out and the marble orbit are left to it, and this unit goes deeper into what the planets are made of, what their surfaces show, and how far apart they are",
+   "The Class 3 unit on the solar system, which this lesson builds on: the planets in order, sunlight spreading out and the marble orbit are left to it, and this lesson goes deeper into what the planets are made of, what their surfaces show, and how far apart they are",
    "ideas/by_topic/planet-earth.md: the Earth's layers and how scientists know them, used in the Planet in a Jar activity and the Cut-Open Planets project"
   ],
   "science": [

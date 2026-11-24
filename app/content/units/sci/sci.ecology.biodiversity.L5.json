@@ -3,12 +3,12 @@
  "title": "Endemic species and extinction: why rare living beings need protected places",
  "level": 5,
  "summary": {
-  "text": "All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this unit you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.",
+  "text": "All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this lesson you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.",
   "art": "A small green island alone in a blue sea with one hornbill flying above the trees, and a map of India in the corner with a dot marking the island."
  },
  "intro": {
   "hook": "All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?",
-  "text": "A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this unit you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.",
+  "text": "A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this lesson you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.",
   "art": "A lion-tailed macaque with a silver mane sitting high in a rainforest tree, looking out over misty hills."
  },
  "outcomes": [
@@ -2430,7 +2430,7 @@
        "says": "Places with fewer species still hold species found nowhere else. If we leave them out, we lose them for ever."
       }
      ],
-     "ask": "Which scientist do you agree with? Give a reason from this unit. Then say one thing the other scientist has right.",
+     "ask": "Which scientist do you agree with? Give a reason from this lesson. Then say one thing the other scientist has right.",
      "a": "A strong answer picks one side and uses a fact, such as 'hotspots hold more than half the world's plant species on a tiny share of the land'. It also gives the other side its due, for example that grassland species are unique and have fewer defenders.",
      "why": "Both views are real. Hotspots give the most species for each rupee, and other places hold species who are found nowhere else. Neither answer is wrong.",
      "lines": 5
@@ -3469,7 +3469,7 @@
   "founder": [
    "Notebook items bio:200 (conservation biology, biodiversity, climate change impact) and bio:261 (conservation biology: endangered species, habitat loss, restoration), from the curriculum entry",
    "NCERT Class 5 Chapter 6 'Some Unique Places' and NIOS Open Basic Education Environmental Studies Level B Lesson 7 'Life of Plants and Animals', for coverage only",
-   "The sibling Level 5 unit on food webs, so that this unit does not repeat its experiments, story or deep truth"
+   "The sibling Level 5 unit on food webs, so that this lesson does not repeat its experiments, story or deep truth"
   ],
   "science": [
    "Myers, The Environmentalist 1988, 'Threatened biotas: hotspots in tropical forests', and Myers and others, Nature 2000, 'Biodiversity hotspots for conservation priorities'",

@@ -3,12 +3,12 @@
   "title": "Mass extinctions: how most kinds of life ended five times, how life came back, and what is happening now",
   "level": 5,
   "summary": {
-    "text": "Five times, most of the kinds of living beings on Earth died out in a short time. Yet after each of those times, life filled the world again. How did so few survivors do that, and how long did it take? In this unit you wipe out a paper world with coins and refill it with a die. You also roll for fossils in a paper cliff, to see why a sudden ending can look slow in the rocks. Then you compare the extinctions of today with the five great ones.",
+    "text": "Five times, most of the kinds of living beings on Earth died out in a short time. Yet after each of those times, life filled the world again. How did so few survivors do that, and how long did it take? In this lesson you wipe out a paper world with coins and refill it with a die. You also roll for fossils in a paper cliff, to see why a sudden ending can look slow in the rocks. Then you compare the extinctions of today with the five great ones.",
     "art": "A paper grid of 36 squares on a table, most squares rubbed out, with a coin, a die and a pencil beside it, and a crow watching from the window grill."
   },
   "intro": {
     "hook": "Big dinosaurs filled the land for more than 130 million years. Mammals lived beside them all that time, and almost all stayed smaller than a cat. Then the big dinosaurs ended, and within about ten million years there were mammals as big as cows. Why did the mammals wait so long, and what let them change so fast?",
-    "text": "You already know that fossils are traces of old life, and that the big dinosaurs died out. In this unit you go further. You find out that dying out is normal, and that most kinds that ever lived are gone. You learn about the five times when most kinds ended together. These are called mass extinctions. You test with coins and a die how a nearly empty world fills up again, and who fills it. You find out why the last fossil of an animal is almost never the last animal. Then you look at today. Kinds are ending faster now than is normal, and scientists argue about how to name what is happening.",
+    "text": "You already know that fossils are traces of old life, and that the big dinosaurs died out. In this lesson you go further. You find out that dying out is normal, and that most kinds that ever lived are gone. You learn about the five times when most kinds ended together. These are called mass extinctions. You test with coins and a die how a nearly empty world fills up again, and who fills it. You find out why the last fossil of an animal is almost never the last animal. Then you look at today. Kinds are ending faster now than is normal, and scientists argue about how to name what is happening.",
     "art": "A child drawing a long paper time line on the floor, with five red marks along it and a small sketch of a trilobite, an ammonite and a dinosaur above three of the marks."
   },
   "outcomes": [
@@ -2747,7 +2747,7 @@
       "channel": "TED-Ed",
       "youtube": "ujKL1pUHDfo",
       "mins": 4,
-      "why": "The fish from this unit's story: how coelacanths were known only as fossils until one was caught in 1938.",
+      "why": "The fish from this lesson's story: how coelacanths were known only as fossils until one was caught in 1938.",
       "check": "Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. Not watched from here: a parent should preview it. The length in minutes is approximate."
     }
   ],
@@ -3308,8 +3308,8 @@
       "Founder's SCI Card for Mary Anning (ideas/scientists.json): the line 'Extinction is not failure, it is the normal fate of species.' It shaped the first explanation, the roots habit and the first pick-a-side question.",
       "ideas/evolution.json, entry 'Dinosaurs Extinction (K-Pg Event, 66 Mya)': the notes that small size, shelter and quick breeding helped the survivors, and that survivors then spread into empty niches. Used in the explanation of who lived through the strike, in Three Rules for Survival and in the Empty Board Test.",
       "ideas/by_topic/evolution-the-tree-of-life.md: the time list of groups (trilobites, dinosaurs, mammals, birds) used for the bars in Five Marks on a Paper Road.",
-      "Combined lesson sci-C4-evolution-the-tree-of-life.json, day 7 'Partners and endings': the lines that each extinction closes some branches and the survivors branch out into the space left, and that extinction is the normal end of a species. This unit builds its main experiment on that idea. Its story is not reused.",
-      "Other units were read so that nothing repeats. sci.evolution.fossils-and-extinction.L2 covers what a fossil is, layers, dinosaurs, Cuvier and a simple asteroid or volcano question. sci.animals.birds.L4 covers birds as dinosaurs. sci.ecology.biodiversity.L5 covers the five causes of loss today, the Red List steps and the Coin Years Test on small populations. This unit keeps to deep time: the five mass extinctions, recovery, reading the end of a species in rock, and measuring today's rate against the fossil record.",
+      "Combined lesson sci-C4-evolution-the-tree-of-life.json, day 7 'Partners and endings': the lines that each extinction closes some branches and the survivors branch out into the space left, and that extinction is the normal end of a species. This lesson builds its main experiment on that idea. Its story is not reused.",
+      "Other units were read so that nothing repeats. sci.evolution.fossils-and-extinction.L2 covers what a fossil is, layers, dinosaurs, Cuvier and a simple asteroid or volcano question. sci.animals.birds.L4 covers birds as dinosaurs. sci.ecology.biodiversity.L5 covers the five causes of loss today, the Red List steps and the Coin Years Test on small populations. This lesson keeps to deep time: the five mass extinctions, recovery, reading the end of a species in rock, and measuring today's rate against the fossil record.",
       "Facts checked on 19 Nov 2026 by web search against: the Wikipedia articles on the Chicxulub crater, the Permian-Triassic and Cretaceous-Paleogene extinctions, the Holocene extinction, the dodo, the coelacanth and Marjorie Courtenay-Latimer; Our World in Data on mass extinctions; news reports of Lyson and others (2019); abstracts of Kirchner and Weil (2000), Schoene and Sprain (2019) and Hull (2020); Bhandari and Shukla's papers on Anjar and Um Sohryngkew; the IUCN release of 10 Oct 2025; reports on Jerdon's courser from the Bombay Natural History Society, Mongabay India and Discover Wildlife; the Perambalur and Ariyalur district websites; and Gujarat Tourism."
     ],
     "science": [

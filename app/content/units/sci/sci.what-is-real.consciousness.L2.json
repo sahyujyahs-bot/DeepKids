@@ -3,7 +3,7 @@
  "title": "Being aware: how you notice the world, and what it is like to be you",
  "level": 2,
  "summary": {
-  "text": "The fan hums all evening, yet most of the time you do not hear it. Why not? In this unit you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.",
+  "text": "The fan hums all evening, yet most of the time you do not hear it. Why not? In this lesson you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.",
   "art": "A girl of 7 sitting still on a mat in a flat with her eyes shut, one hand raised with fingers counting, while a ceiling fan turns, a crow sits on the window ledge and a gecko rests on the wall."
  },
  "intro": {
@@ -1087,7 +1087,7 @@
  "projects": [
   {
    "id": "p1",
-   "title": "My Noticing Diary: five days, five senses",
+   "title": "My Noticing Diary: five days of noticing with our senses",
    "mins": 50,
    "days": 5,
    "context": "In this project you spend ten minutes a day noticing with one sense, and keep a five-page diary of what you find. You will find out how many things at home you had never noticed.",
@@ -1461,7 +1461,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These three words are the heart of this unit."
+     "why": "These three words are the heart of this lesson."
     },
     {
      "t": "sort",
@@ -2129,7 +2129,7 @@
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three.",
-    "link": "In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.",
+    "link": "In this lesson you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.",
     "verse": ["जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः", "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः", "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्", "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्", "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"],
     "verse_lang": "sa"
    },

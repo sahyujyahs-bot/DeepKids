@@ -3,12 +3,12 @@
   "title": "How we see: light goes straight, a lens makes a sharp picture, and two eyes build depth",
   "level": 4,
   "summary": {
-    "text": "Close one eye and judging distance gets harder. Why? In this unit you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.",
+    "text": "Close one eye and judging distance gets harder. Why? In this lesson you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.",
     "art": "A child at a table holding one finger up in front of a plain wall, with two dotted copies of the finger showing where it seems to be with the left eye and the right eye."
   },
   "intro": {
     "hook": "Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?",
-    "text": "The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this unit you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.",
+    "text": "The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this lesson you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.",
     "art": "Two panels of the same child's view, one with the left eye closed and one with the right eye closed, with a finger in different places against a wall."
   },
   "outcomes": [
@@ -1041,7 +1041,7 @@
               "says": "Several effects probably work together. No single idea explains all the tests."
             }
           ],
-          "ask": "Which view do you find more convincing? Use one fact from this unit. Then say what the other view has right.",
+          "ask": "Which view do you find more convincing? Use one fact from this lesson. Then say what the other view has right.",
           "lines": 5,
           "a": "A strong answer picks a view and uses a fact. For example: a lentil at arm's length covers the Moon in both places, so the Moon is the same size and the difference is in the brain. It then gives the other view a fair point.",
           "why": "Scientists still do not agree. What everyone accepts is that the Moon does not change size. Both views try to say why the brain guesses wrongly."
@@ -3159,7 +3159,7 @@
       "answer": "1 metre. A fielder's brain is working with a picture in which the ball is already 1 metre behind its true place, so she must predict where the ball will be.",
       "explain": "A tenth of a second is one tenth of one second. One tenth of 10 metres is 1 metre. So the ball has moved 1 metre by the time the picture is used. The fielder has to guess ahead.",
       "math_unit": "math.fractions.decimals-and-percentages.L4",
-      "context": "In this unit, you learn that what the brain uses to see is a little old, so a fielder has to predict where a ball will be.",
+      "context": "In this lesson, you learn that what the brain uses to see is a little old, so a fielder has to predict where a ball will be.",
       "why_maths": "Dividing by 10 shows how big the delay really is for a fast ball, and why prediction is needed."
     },
     {
@@ -3363,7 +3363,7 @@
   "sources": {
     "founder": [
       "Founder's notes in ideas/by_topic/light-seeing-and-shadows.md: make a pinhole camera or camera obscura to mimic the optics of the eye, watch the eyes adapt when the lights go off, a drama of a photon travelling to the eye, and a mime of an eye capturing an image",
-      "The Class 3 unit How we see, which this unit builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain",
+      "The Class 3 unit How we see, which this lesson builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain",
       "Combined lesson sci-C4-light-seeing-and-shadows.json: rays and ray diagrams, light travels in straight lines, the pinhole picture, and sunlight being about 8 minutes old"
     ],
     "science": [

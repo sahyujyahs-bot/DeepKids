@@ -3,12 +3,12 @@
  "title": "Illusions: how your brain can be fooled about what you see",
  "level": 3,
  "summary": {
-  "text": "Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this unit you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.",
+  "text": "Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this lesson you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.",
   "art": "A child in a Chennai flat holding a ruler against two lines drawn in a notebook, one with arrowheads and one with open fins, looking surprised. Behind, faint drawings of railway tracks meeting in the distance and a butterfly with large eyespots."
  },
  "intro": {
   "hook": "Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.",
-  "text": "Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this unit you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.",
+  "text": "Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this lesson you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.",
   "art": "Two horizontal lines of equal length drawn one above the other in a notebook. The top line has arrowheads pointing outwards at both ends, the bottom one has fins opening outwards like arrow tails. A ruler lies under them, showing both are 10 cm."
  },
  "outcomes": [
@@ -1538,7 +1538,7 @@
      "qty": 1
     },
     {
-     "item": "the drawings you made in this unit, to copy: railway tracks, bumps and dents, the ring of circles and the arrow lines",
+     "item": "the drawings you made in this lesson, to copy: railway tracks, bumps and dents, the ring of circles and the arrow lines",
      "qty": 1
     },
     {
@@ -1583,7 +1583,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Choose 4 or 5 illusions from this unit. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.",
+     "do": "1. Choose 4 or 5 illusions from this lesson. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.",
      "say": "A museum needs good exhibits. Let's make each illusion neat, because a messy drawing might give the trick away.",
      "kid": "Pick 4 or 5 illusions. Draw each one neatly, or use a card you made for the game. Write a question for each. Put the answer on the back.",
      "context": "This is the first day of Our Illusion Museum. You make the exhibits: neat illusions, each with a question card."

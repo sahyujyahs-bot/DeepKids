@@ -3,12 +3,12 @@
  "title": "Living light: how a glow is made, how it is read, and why eyes need the dark",
  "level": 4,
  "summary": {
-  "text": "How does a firefly make light with no heat and no flame? In this unit you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.",
+  "text": "How does a firefly make light with no heat and no flame? In this lesson you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.",
   "art": "A child sitting in a dark room beside a glow stick under a stack of paper sheets, with a faint blue glow showing through the top sheets and a few tiny fireflies in the window."
  },
  "intro": {
   "hook": "Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?",
-  "text": "Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this unit you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.",
+  "text": "Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this lesson you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.",
   "art": "A child stepping from a sunny doorway into a dark room, with a firefly glowing faintly at the far end of the room."
  },
  "outcomes": [
@@ -3141,7 +3141,7 @@
     "Neither, because only a leader can line them up"
    ],
    "a": 0,
-   "why": "A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this unit shows: no leader is needed.",
+   "why": "A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this lesson shows: no leader is needed.",
    "outcome": 6
   },
   {
@@ -3153,7 +3153,7 @@
     "Both make light"
    ],
    "a": 0,
-   "why": "In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this unit shows: no leader is needed.",
+   "why": "In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this lesson shows: no leader is needed.",
    "outcome": 6
   },
   {
@@ -3664,7 +3664,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/light-seeing-and-shadows.md, 'Bioluminescence & fluorescence': shine a UV lamp on tonic water, highlighter ink under blacklight, collect things that fluoresce under a UV torch (white clothes), glowing scorpions, card game matching organisms to their type of luminescence and a quiz on the difference between fluorescence and bioluminescence (used in e3, g2), candle-gazing and dark-room breathing (roots practice), glow tag and night games (c1)",
    "Founder's notes on the philosophy 'Life creates its own light; darkness can reveal hidden glow; energy transformation is universal', which the unit takes further with the eye that reads the light and the crowd that flashes as one",
-   "The Class 3 unit Living light, which this unit builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd"
+   "The Class 3 unit Living light, which this lesson builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd"
   ],
   "science": [
    "McElroy, W. D., Proceedings of the National Academy of Sciences 1947: the energy source for firefly bioluminescence is ATP",

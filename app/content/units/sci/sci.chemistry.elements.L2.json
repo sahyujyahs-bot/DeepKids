@@ -3,12 +3,12 @@
  "title": "Elements: things made of just one kind of atom",
  "level": 2,
  "summary": {
-  "text": "A black silver anklet can shine again without any rubbing. How? In this unit you will lay dark silver on foil in hot water with cooking soda and watch the shine come back, hunt at home for things made of just one element, and play a card sorting game.",
+  "text": "A black silver anklet can shine again without any rubbing. How? In this lesson you will lay dark silver on foil in hot water with cooking soda and watch the shine come back, hunt at home for things made of just one element, and play a card sorting game.",
   "art": "A steel bowl lined with shiny foil, with a silver anklet lying in steaming water. One half of the anklet is black and the other half is bright silver."
  },
  "intro": {
   "hook": "Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?",
-  "text": "Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this unit you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.",
+  "text": "Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this lesson you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.",
   "art": "A girl of seven holding a dark silver anklet in one hand and looking at her grandmother's shiny gold earring."
  },
  "outcomes": [
@@ -193,7 +193,7 @@
    "for": "Water looks the same everywhere, and boiling or freezing it only gives you more water.",
    "against": "Water can be split into two gases, hydrogen and oxygen, using electricity. So water is two elements joined, not one element.",
    "status": "rejected",
-   "context": "In this unit, an element is a substance made of just one kind of atom. This card is about an old idea, from long before anyone knew about atoms, that water was one of the basic things everything is made of."
+   "context": "In this lesson, an element is a substance made of just one kind of atom. This card is about an old idea, from long before anyone knew about atoms, that water was one of the basic things everything is made of."
   },
   {
    "claim": "Water kept in a copper pot overnight has fewer germs.",
@@ -2093,7 +2093,7 @@
  },
  "sources": {
   "founder": [
-   "Notebook item bio:33 (atoms, elements and compounds). The other notebook items for this subtopic (chem:4, chem:44, chem:115, chem:171, chem:172, chem:176 to chem:179: the periodic table, element blocks and group chemistry) are for sci.chemistry.elements.L4 and L5. At Class 2 this unit keeps to atoms, elements and elements joined together.",
+   "Notebook item bio:33 (atoms, elements and compounds). The other notebook items for this subtopic (chem:4, chem:44, chem:115, chem:171, chem:172, chem:176 to chem:179: the periodic table, element blocks and group chemistry) are for sci.chemistry.elements.L4 and L5. At Class 2 this lesson keeps to atoms, elements and elements joined together.",
    "ideas/by_topic/matter-and-particles.md: the founder's idea to colour-code kitchen items by the elements they contain shaped the Element Hunt. The note on Kanada's paramanu shaped the Vaisheshika teaching in Roots.",
    "This is the first elements level. It leads on from sci.materials.what-is-it-made-of.L1 (sorting materials such as metal and glass) to the idea that some metals are elements and some are mixes. It leads to sci.chemistry.elements.L4 (118 elements, elements in the body, metals and non-metals). Rusting nails (sci.evolution.story-of-life.L3), splitting water (sci.chemistry.bonds.L3) and cutting paper down to atoms (sci.the-very-small.atoms.L3) are not repeated here."
   ],

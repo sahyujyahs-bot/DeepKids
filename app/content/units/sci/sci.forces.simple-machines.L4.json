@@ -3,12 +3,12 @@
   "title": "Pulleys, gears and screws: how a machine trades a smaller pull for a longer distance",
   "level": 4,
   "summary": {
-    "text": "A pulley can make a heavy lift feel easier, but what does it cost you? In this unit you will count the ropes on a pulley and measure the pull and the distance, wind a paper ramp round a pencil to make a screw, and find the machines inside scissors and a peeler.",
+    "text": "A pulley can make a heavy lift feel easier, but what does it cost you? In this lesson you will count the ropes on a pulley and measure the pull and the distance, wind a paper ramp round a pencil to make a screw, and find the machines inside scissors and a peeler.",
     "art": "A glass bottle of water hanging from two thread reels on a broomstick between two chairs, with a rubber band at the loose end of the string stretched to a ruler."
   },
   "intro": {
     "hook": "A rope is wound several times round two broom handles. A strong grown-up holds the handles apart. A child pulls the end of the rope, and the handles slide together, however hard the grown-up pushes. How can a child beat a grown-up?",
-    "text": "The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this unit you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.",
+    "text": "The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this lesson you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.",
     "art": "A child pulling the end of a rope wound four times round two broom handles, while a grown-up at the other end tries to hold the handles apart."
   },
   "outcomes": [
@@ -244,13 +244,13 @@
       ],
       "perspectives": [],
       "art": "A bicycle with its levers, gears, wheels and axle, and screws labelled in different colours.",
-      "context": "This card shows how everyday tools are put together from the simple machines in this unit."
+      "context": "This card shows how everyday tools are put together from the simple machines in this lesson."
     },
     {
       "concept": "Machines smaller than a speck: motors inside living cells",
       "status": "defined",
       "definition": "Living cells contain tiny machines made of protein. One of them is a rotary motor that turns like a wheel on an axle.",
-      "description": "A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed part of one to glass, joined a tiny glowing filament to its axle, and watched it turn under a microscope. The rule of this unit still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.",
+      "description": "A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed part of one to glass, joined a tiny glowing filament to its axle, and watched it turn under a microscope. The rule of this lesson still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.",
       "examples": [
         "The bacterium's flagellar motor spins a thread to swim.",
         "ATP synthase turns like a wheel and makes the fuel ATP in your cells, and in every plant.",
@@ -264,7 +264,7 @@
       "concept": "Why machines can never give out more: energy and time",
       "status": "defined",
       "definition": "Energy is never made from nothing or destroyed, only moved or changed. In 1918 Emmy Noether showed that this follows from the laws of nature not changing from one day to the next.",
-      "description": "Everything in this unit leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is what gets passed on. It can change from a pull into height, or into warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
+      "description": "Everything in this lesson leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is what gets passed on. It can change from a pull into height, or into warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
       "examples": [
         "A pulley, a lever and a ramp all show the same total work in and out.",
         "A swing swings lower each time as friction turns its energy into warmth, but the total stays the same.",
@@ -2809,8 +2809,8 @@
   "sources": {
     "founder": [
       "Founder's notes in ideas/by_topic/forces-and-movement.md: Archimedes and the law of the lever ('give me a place to stand'), used in the challenging ideas and the maths",
-      "The Class 4 Forces and movement lesson (combined/sci-C4-forces-and-movement.json): wheel and axle and pulleys, the ramp, the wedge and the screw, 'no free work' and the simple machine hunt, which this unit takes much further",
-      "The Class 3 unit on simple machines, which this unit builds on: the lever, the ramp and the trade-off, now extended to pulleys, gears, screws, efficiency and why the rule holds",
+      "The Class 4 Forces and movement lesson (combined/sci-C4-forces-and-movement.json): wheel and axle and pulleys, the ramp, the wedge and the screw, 'no free work' and the simple machine hunt, which this lesson takes much further",
+      "The Class 3 unit on simple machines, which this lesson builds on: the lever, the ramp and the trade-off, now extended to pulleys, gears, screws, efficiency and why the rule holds",
       "NCERT and Cambridge Stage 4 and 5 materials on simple machines, for coverage only. Their text is not copied"
     ],
     "science": [

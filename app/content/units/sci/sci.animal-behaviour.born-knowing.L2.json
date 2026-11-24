@@ -3,12 +3,12 @@
  "title": "Born knowing and learning: what animals can do from birth, and what they learn",
  "level": 2,
  "summary": {
-  "text": "Can you stop your own knee from kicking when it is tapped, just by trying? In this unit you will test it and count your results, play a game of a baby turtle finding the sea in the dark, and race through what a baby knows from birth and what it must learn.",
+  "text": "Can you stop your own knee from kicking when it is tapped, just by trying? In this lesson you will test it and count your results, play a game of a baby turtle finding the sea in the dark, and race through what a baby knows from birth and what it must learn.",
   "art": "A small brown spider spinning a round web on a balcony grill at dusk, and inside the flat a girl holding out her finger to a newborn baby who grips her finger tight."
  },
  "intro": {
   "hook": "Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?",
-  "text": "Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?",
+  "text": "Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this lesson you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?",
   "art": "Two halves of one picture: on the left a newborn baby gripping a grown-up's finger, on the right the same child, now seven, wobbling on a cycle with a grown-up holding the seat."
  },
  "outcomes": [
@@ -1427,7 +1427,7 @@
        "says": "It is both."
       }
      ],
-     "ask": "Who do you agree with? Use one fact from this unit. Then say what the others got right.",
+     "ask": "Who do you agree with? Use one fact from this lesson. Then say what the others got right.",
      "a": "Many children agree with Farhan: the weaver is born ready to weave, and his nests get neater with practice. Meera is right that nobody teaches him, and Thenmozhi is right that practice helps.",
      "why": "A strong answer uses a fact, such as young weavers' nests getting neater, and gives each view its fair part."
     },
@@ -1941,7 +1941,7 @@
  },
  "sources": {
   "founder": [
-   "There is no ideas/by_topic notebook file for animal behaviour. The notebook items for this subtopic (bio:92 Behavioral Biology and Ethology, bio:94 Innate vs learned behaviours, bio:95 Fixed action patterns, bio:96 Imprinting, bio:97 Reflexes and instincts, bio:98 Habituation) are titles only. At level 2 this unit takes innate and learned behaviour and reflexes, and leaves imprinting and fixed action patterns for level 4 and habituation for level 5.",
+   "There is no ideas/by_topic notebook file for animal behaviour. The notebook items for this subtopic (bio:92 Behavioral Biology and Ethology, bio:94 Innate vs learned behaviours, bio:95 Fixed action patterns, bio:96 Imprinting, bio:97 Reflexes and instincts, bio:98 Habituation) are titles only. At level 2 this lesson takes innate and learned behaviour and reflexes, and leaves imprinting and fixed action patterns for level 4 and habituation for level 5.",
    "No board chapters are listed. Nearby units were checked so nothing repeats: sci.evolution.inheritance.L2 (practice test with throws and a thumb, born or learned sort, seven-day kolam), sci.animal-behaviour.animal-learning.L3 (useless step test, born-or-learned sort game, termite fishing), sci.animals.animal-babies.L2 (chick mouths in a dark nest, walking line), sci.animals.insects.L2 (crumb test, web builder on a hanger), sci.animals.animals-around-us.L2 (dough legs)."
   ],
   "science": [

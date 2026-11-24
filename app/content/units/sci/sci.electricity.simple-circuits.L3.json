@@ -3,12 +3,12 @@
  "title": "Simple circuits: why a bulb lights only in a complete loop",
  "level": 3,
  "summary": {
-  "text": "Why does a bulb light only when the wires make a complete loop? In this unit you will light a bulb with one cell and one wire, test which household things let electricity through, and find the gap in a loop that will not light.",
+  "text": "Why does a bulb light only when the wires make a complete loop? In this lesson you will light a bulb with one cell and one wire, test which household things let electricity through, and find the gap in a loop that will not light.",
   "art": "A child's hands holding an AA cell in a holder, two wires and a small glowing torch bulb, with a dotted arrow running round the loop from the cell, through the bulb and back to the cell."
  },
  "intro": {
   "hook": "Try this with a grown-up. Stand a torch bulb on top of an AA cell. It does not light. Now add one wire, in the right place, and it shines. Why does the bulb need that one extra wire?",
-  "text": "Electricity must go out of the cell, through the bulb, and come back to the cell. It needs a full loop. In this unit you build loops with cells, wires, foil and paper clips. You find out which things let electricity through and which stop it. You make your own switch. You learn why the sockets on the wall are never for experiments. And you find out what is really moving inside a wire.",
+  "text": "Electricity must go out of the cell, through the bulb, and come back to the cell. It needs a full loop. In this lesson you build loops with cells, wires, foil and paper clips. You find out which things let electricity through and which stop it. You make your own switch. You learn why the sockets on the wall are never for experiments. And you find out what is really moving inside a wire.",
   "art": "A torch bulb balanced on top of an AA cell, dark, and next to it the same bulb glowing, with a short wire joining the bulb's metal side to the bottom of the cell."
  },
  "outcomes": [
@@ -138,7 +138,7 @@
    "concept": "Mains electricity and cells",
    "status": "defined",
    "definition": "Mains electricity is made in power stations and comes to our homes along wires. In India it is 230 volts. A cell is a small, portable store of energy, usually 1.5 volts.",
-   "description": "Power stations make electricity from burning coal, falling water, wind, sunlight or the heat of splitting atoms. Thick wires on tall towers carry it across the country to every town. Smaller wires bring it into your home, to the switches and sockets in the wall. This is mains electricity. It pushes very hard, at 230 volts. That is strong enough to push electricity through a person's body, and it can kill. A cell works differently. Chemicals inside it react and push electricity round a circuit. An AA cell pushes at only 1.5 volts. It is too weak to push enough electricity through your dry skin for you to notice anything. That is why all the experiments in this unit use AA cells, and never the wall socket.",
+   "description": "Power stations make electricity from burning coal, falling water, wind, sunlight or the heat of splitting atoms. Thick wires on tall towers carry it across the country to every town. Smaller wires bring it into your home, to the switches and sockets in the wall. This is mains electricity. It pushes very hard, at 230 volts. That is strong enough to push electricity through a person's body, and it can kill. A cell works differently. Chemicals inside it react and push electricity round a circuit. An AA cell pushes at only 1.5 volts. It is too weak to push enough electricity through your dry skin for you to notice anything. That is why all the experiments in this lesson use AA cells, and never the wall socket.",
    "examples": [
     "The Shivanasamudra power station on the Kaveri river in Karnataka began making electricity from falling water in 1902.",
     "A wall clock uses one AA cell for many months.",
@@ -254,7 +254,7 @@
   },
   {
    "text": "Metals are good conductors. Plastic, rubber, wood, glass and paper are insulators.",
-   "evidence": "Testing materials with a circuit tester, as in this unit, gives the same result every time. Scientists have measured how well thousands of materials conduct."
+   "evidence": "Testing materials with a circuit tester, as in this lesson, gives the same result every time. Scientists have measured how well thousands of materials conduct."
   },
   {
    "text": "In a metal wire, the electric current is carried by electrons.",
@@ -2054,7 +2054,7 @@
    "youtube": "mc979OhitAg",
    "mins": 10,
    "why": "For the parent: a clear animated explanation of electrons, conductors, insulators and circuits, to help you answer your child's questions.",
-   "check": "A parent should preview it first. It goes further than this unit."
+   "check": "A parent should preview it first. It goes further than this lesson."
   }
  ],
  "quiz": [
@@ -2576,7 +2576,7 @@
        "says": "I can change big AA cells myself, but button cells should stay with a grown-up."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with a fact: an AA cell is only 1.5 volts, so it is safe to touch, but a swallowed button cell can badly burn a child's food pipe within two hours. It then admits a fair point from another side.",
      "why": "There is a real trade-off here. Children learn by doing, and AA cells are safe to touch. But button cells are dangerous for babies, so where they are kept matters."
@@ -3027,7 +3027,7 @@
    "id": "b-kit",
    "item": "A school electric circuit kit: two single AA cell holders with wires, two torch bulbs (1.5 V or 2.5 V) with holders, connecting wires, and a switch",
    "kind": "tool",
-   "why": "Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires.",
+   "why": "Every experiment in this lesson needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires.",
    "url": "https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder",
    "used_in": [
     "e1",

@@ -3,12 +3,12 @@
  "title": "Muscles in pairs, joints, and skeletons of shell and water: how muscles that can only pull move a body",
  "level": 5,
  "summary": {
-  "text": "A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this unit you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.",
+  "text": "A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this lesson you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.",
   "art": "A girl sticking her tongue out at a mirror while rolling a long rope of chapati dough on a steel plate, with a ruler beside it and an earthworm drawn in her notebook."
  },
  "intro": {
   "hook": "Bend your arm. A muscle pulled it. Now stick out your tongue. No muscle can push. So what moved your tongue forward, out of your mouth?",
-  "text": "Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this unit you will be able to say exactly how they do it.",
+  "text": "Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this lesson you will be able to say exactly how they do it.",
   "art": "A split picture: on one side a child's bent arm with the upper-arm muscle bulging, on the other the same child with her tongue stretched out, and a question mark between them."
  },
  "outcomes": [
@@ -143,7 +143,7 @@
    "concept": "A muscle can only pull",
    "status": "defined",
    "definition": "A muscle works by contracting, which means getting shorter. A muscle that gets shorter pulls. No muscle can push, and no muscle can make itself long again.",
-   "description": "This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this unit is about the different ways bodies solve this one problem.",
+   "description": "This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this lesson is about the different ways bodies solve this one problem.",
    "examples": [
     "Your biceps pulls your forearm up. It cannot push the forearm down again.",
     "A rope works the same way. You can pull a bucket up from a well with a rope, but you cannot push the bucket down with the rope.",
@@ -2278,7 +2278,7 @@
        "says": "Neither is better. There are far more kinds of insect than kinds of animal with bones."
       }
      ],
-     "ask": "Which view do you agree with most? Give one reason from this unit. Then say one thing that is right in another view.",
+     "ask": "Which view do you agree with most? Give one reason from this lesson. Then say one thing that is right in another view.",
      "a": "Any view with a reason from the unit. For example: an exoskeleton must be moulted, and the animal is soft and in danger each time. But a tube on the outside is strong for its weight.",
      "why": "Each view has something right. A strong answer names a real gain and a real cost, such as armour and moulting.",
      "outcome": 4
@@ -2662,7 +2662,7 @@
    "channel": "Amoeba Sisters",
    "youtube": "dpxalWACO7k",
    "mins": 8,
-   "why": "To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this unit, so watch it together.",
+   "why": "To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this lesson, so watch it together.",
    "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
@@ -3145,9 +3145,9 @@
   "founder": [
    "Founder's notebook, item bio:20, 'Musculoskeletal system', which this subtopic is mapped to.",
    "Founder's topic notes for body parts and skeleton (ideas/by_topic/body-parts-and-skeleton.md): the evolution picture book pages on the first animals to swim using muscles and on the first exoskeletons, and the SCI Card for Gerty Cori on how muscles use energy.",
-   "DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This unit takes each of these further and does not reuse their stories or experiments.",
+   "DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This lesson takes each of these further and does not reuse their stories or experiments.",
    "Curriculum entry sci.body.skeleton.L5: muscles work in pairs, joints, exoskeletons and hydrostatic skeletons.",
-   "The Level 2 and Level 4 units of this subtopic, read so that this unit builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4)."
+   "The Level 2 and Level 4 units of this subtopic, read so that this lesson builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4)."
   ],
   "science": [
    "Huxley A. F., Niedergerke R. (1954). Structural changes in muscle during contraction: interference microscopy of living muscle fibres. Nature 173: 971-973.",
@@ -3175,7 +3175,7 @@
   "art": "A woman in 1950s clothes looking down a microscope beside a drawing of a striped muscle fibre shown long and then short, with the dark stripes the same width in both."
  },
  "roots": {
-  "context": "In this unit you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.",
+  "context": "In this lesson you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.",
   "deep_truth": {
    "truth": "A muscle can only shorten, and it cannot make itself long again. In the Dough Worm, the dough grew four times as long when it was squeezed to half its width. An earthworm's ring muscles squeeze their own body like that, and the lengthening stretches the lengthwise muscles for their next pull. Bone, shell and liquid all do this one job: they carry one muscle's pull across to stretch another. So a skeleton is whatever lets muscles undo each other, and it need not be hard.",
    "habit": "We say 'my biceps bends my arm', as if one muscle did the job alone. We also use the word skeleton to mean bones. Both habits hide the same fact. A muscle is useless without a partner, and a skeleton is defined by what it does for the pair, not by what it is made of.",
@@ -3196,7 +3196,7 @@
    {
     "source": "Bhagavad Gita 3.27",
     "teaching": "The verse says that all actions are carried out by the qualities of nature. A person confused by the sense of 'I' thinks, 'I am the doer.'",
-    "link": "The verse is about a person and their actions, not about muscles. But the science of this unit shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together."
+    "link": "The verse is about a person and their actions, not about muscles. But the science of this lesson shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together."
    },
    {
     "source": "Tao Te Ching 76",

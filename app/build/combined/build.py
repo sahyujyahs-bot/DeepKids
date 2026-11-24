@@ -166,7 +166,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
     sub = SUB.get(u['id'], {})
     data['items'].append({"k": "unit|" + u['id'], "board": "unit", "subj": t['subject'], "level": t['level'],
-        "book": f"DeepKids track · subtopic unit · Class {t['level']}", "n": sub.get('subtopic', u['id'].split('.')[2]), "title": u['title'], "dk": [],
+        "book": f"DeepKids track · Class {t['level']}", "n": sub.get('subtopic', u['id'].split('.')[2]), "title": u['title'], "dk": [],
         "c": {"covers": " · ".join([t['name'], sub.get('name', ''), sub.get('covers', ''), u['summary']['text'], ", ".join(x['term'] for x in u['terms'])]), "unit": u['id']}})
     # 2. every board chapter that teaches this subtopic (or its topic, at this class) links to it
     chap = CUR.get('chapters', {})

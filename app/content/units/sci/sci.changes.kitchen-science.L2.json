@@ -3,12 +3,12 @@
  "title": "Science in the kitchen: how cooking changes rice, butter and milk",
  "level": 2,
  "summary": {
-  "text": "Ten boiled grains of rice make a longer line than ten dry ones. Why? In this unit you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.",
+  "text": "Ten boiled grains of rice make a longer line than ten dry ones. Why? In this lesson you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.",
   "art": "A strip of paper on a kitchen counter with three lines of ten rice grains each: a short line of dry grains, a slightly longer line of white soaked grains, and a long line of fat, soft boiled grains."
  },
  "intro": {
   "hook": "Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?",
-  "text": "Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this unit you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.",
+  "text": "Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this lesson you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.",
   "art": "A girl of seven looking through a magnifying glass at one dry rice grain and one cooked rice grain on a steel plate."
  },
  "outcomes": [
@@ -2147,7 +2147,7 @@
  },
  "sources": {
   "founder": [
-   "Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this unit keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.",
+   "Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this lesson keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.",
    "ideas/by_topic/changing-materials.md: the founder's idea to melt chocolate in the kitchen and watch the texture change shaped the butter and ghee activity. Melting races are not repeated here, because sci.states.melting-and-solidifying.L2 has them.",
    "This is the first kitchen-science level. It leads to sci.changes.kitchen-science.L4 (browning, rising bread, onions). Curd-setting tests already in sci.microorganisms.microbes-everywhere.L2, sci.food.where-food-comes-from.L3 and sci.habitats.habitats.L3 are not repeated: curd here is a sensory comparison only."
   ],

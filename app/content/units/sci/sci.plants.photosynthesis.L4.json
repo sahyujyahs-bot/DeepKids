@@ -3,12 +3,12 @@
  "title": "Photosynthesis and breathing: how plants and other living beings share one breath",
  "level": 4,
  "summary": {
-  "text": "Every dawn, fish in a green pond gulp at the surface, though the pond is full of plants that make oxygen. Why do they run short? In this unit you will use colour-changing water to see what a plant does to the air in light and dark, and graph a pond's oxygen.",
+  "text": "Every dawn, fish in a green pond gulp at the surface, though the pond is full of plants that make oxygen. Why do they run short? In this lesson you will use colour-changing water to see what a plant does to the air in light and dark, and graph a pond's oxygen.",
   "art": "A green pond at first light with a few fish mouths at the surface, a cloud-covered sky, and a thin line of orange on the horizon."
  },
  "intro": {
   "hook": "A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?",
-  "text": "You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.",
+  "text": "You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this lesson you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.",
   "art": "A jar of blue-purple water with a green sprig in it on a sunny windowsill, and an identical jar wrapped in foil next to it."
  },
  "outcomes": [
@@ -1537,7 +1537,7 @@
     },
     {
      "t": "match",
-     "p": "Match each tool to what it tells you in this unit's tests.",
+     "p": "Match each tool to what it tells you in this lesson's tests.",
      "pairs": [
       [
        "A thermometer",
@@ -3677,8 +3677,8 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/plants.md: the idea of using a prism to split light and see how plants respond to colours, which became the Engelmann story, and the cyanobacteria and chloroplast story, which shaped the card on the two old guests",
-   "The Class 3 unit on photosynthesis, which this unit builds on: the idea that a leaf makes food from light, now extended to the leaf also spending food, with new experiments, games and a new story",
-   "The Class 3 unit on what plants need, which this unit builds on: the idea that light, water and warmth set how a plant grows, now extended to the idea of a limiting factor"
+   "The Class 3 unit on photosynthesis, which this lesson builds on: the idea that a leaf makes food from light, now extended to the leaf also spending food, with new experiments, games and a new story",
+   "The Class 3 unit on what plants need, which this lesson builds on: the idea that light, water and warmth set how a plant grows, now extended to the idea of a limiting factor"
   ],
   "science": [
    "Engelmann, T. W., Botanische Zeitung, 1882 (bacteria and the spectrum: which light a green alga uses)",

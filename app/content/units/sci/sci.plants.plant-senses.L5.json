@@ -3,12 +3,12 @@
  "title": "How plants send and receive signals, and whether plants feel, learn and remember",
  "level": 5,
  "summary": {
-  "text": "When a caterpillar chews a maize leaf, tiny wasps arrive and lay eggs in it, though nobody can see it. How do the wasps find it? In this unit you will sniff for a torn leaf, stroke moong seedlings every day to see if they grow differently, and trace how plant signals travel.",
+  "text": "When a caterpillar chews a maize leaf, tiny wasps arrive and lay eggs in it, though nobody can see it. How do the wasps find it? In this lesson you will sniff for a torn leaf, stroke moong seedlings every day to see if they grow differently, and trace how plant signals travel.",
   "art": "A young maize plant with a ragged hole in one leaf, a faint trail of smell drifting from the hole on the wind, and two tiny black wasps flying along the trail towards the plant."
  },
  "intro": {
   "hook": "A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. Nerves are one kind of wiring, and a plant has her own kind. So how did the far leaves get the news?",
-  "text": "Scientists filmed the answer in 2018, and you will read it in this unit. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.",
+  "text": "Scientists filmed the answer in 2018, and you will read it in this lesson. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.",
   "art": "A small plant drawn in outline with one leaf bitten by a caterpillar, and a glowing wave travelling along the leaf veins towards a leaf on the other side."
  },
  "outcomes": [
@@ -251,7 +251,7 @@
    "description": "Plants learn. In 2014 Monica Gagliano dropped potted touch-me-nots 15 centimetres on to foam, again and again. At first the plants folded their leaves. After many drops, they stopped folding. Were the plants just worn out? She tested that by shaking the same plants sideways, and they folded at once. So they still had the energy to fold. They had stopped only for the harmless drop. Many plants still did not fold for a drop 28 days later. This fits the definition of habituation, the simplest kind of learning. In 2016 Gagliano reported a harder kind of learning. Pea seedlings were given a breeze from a fan and then light from the same side, many times. Afterwards, she reported, the seedlings grew towards the fan even with no light. In 2020 Kasey Markel repeated that test with more plants and did not get the same result. So the first kind of learning has good evidence, and the second kind is in doubt until someone replicates it.",
    "examples": [
     "You stop noticing a ticking clock. That is habituation, and it shows that even the simplest learning is useful: it saves effort.",
-    "In the Drop Test in this unit, you can repeat Monica Gagliano's first experiment if you have a touch-me-not.",
+    "In the Drop Test in this lesson, you can repeat Monica Gagliano's first experiment if you have a touch-me-not.",
     "In the activity Learned or Tired?, you work out which results fit each explanation."
    ],
    "perspectives": [
@@ -1633,7 +1633,7 @@
    "title": "Three Chairs: do plants feel?",
    "mins": 15,
    "days": 1,
-   "context": "This activity is a short debate about a question that scientists have not settled. Three chairs stand for three views. You sit in each chair in turn and argue for that view, using evidence from this unit.",
+   "context": "This activity is a short debate about a question that scientists have not settled. Three chairs stand for three views. You sit in each chair in turn and argue for that view, using evidence from this lesson.",
    "materials": [
     {
      "item": "chairs or cushions",
@@ -1659,7 +1659,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this unit on five slips, one fact on each. 3. Read the slips aloud.",
+     "do": "1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this lesson on five slips, one fact on each. 3. Read the slips aloud.",
      "say": "A debate needs evidence. Write five things that plants have been shown to do. We will use the same facts in every chair.",
      "kid": "Label three chairs. Write five facts about what plants do, one on each slip.",
      "parent": "Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant sends signals with electrical and chemical wiring of her own, not with a brain or nerve cells.",
@@ -3317,7 +3317,7 @@
    "Founder's notes in ideas/by_topic/plants.md: the J.C. Bose SCI Card (plants respond to stimuli, electrical signals in plants resemble those in animal tissue, 'plants feel, respond, and communicate'). Used in the explanations on signals inside a plant and on feeling, and in the Growth Magnifier.",
    "Founder's RNA story pages in the same notes: fungi as beings made of hyphae that 'cover hundreds of acres', with 'decentralized intelligence', using the same chemical pathways, ion changes and electrical impulses as neurons. Used in See the Threads, in the mycorrhiza explanation and in 'Why plants and animals signal in similar ways'.",
    "The Combined lesson combined/sci-C3-plants.json: Station 6 'are plants clever?', the voice of Monica Gagliano and her critics, the voice of Charles and Francis Darwin, and the unknown 'the wood-wide web story may be bigger than the evidence'. Used in the Drop Test, Learned or Tired?, Three Chairs and the debated explanations. Its story is not reused.",
-   "The Class 2 unit sci.plants.plant-senses.L2, which this unit builds on. Its window test, root box, touch-me-not tests and story are not repeated."
+   "The Class 2 unit sci.plants.plant-senses.L2, which this lesson builds on. Its window test, root box, touch-me-not tests and story are not repeated."
   ],
   "science": [
    "Toyota, M. and others (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. Science 361: 1112-1115.",
@@ -3388,7 +3388,7 @@
    {
     "source": "Mahabharata, Shanti Parva, section 184 (the sage Bhrigu answers Bharadvaja)",
     "teaching": "Bharadvaja asks whether trees are alive and aware. Bhrigu answers that trees feel heat and touch, drink through their roots, and know pleasure and pain. He gives what he has seen as his reasons: leaves wither in heat, and a creeper finds a way round a tree.",
-    "link": "Bhrigu argued from what he could see, and had no instruments. The experiments in this unit test the same question with rulers, controls and repeats."
+    "link": "Bhrigu argued from what he could see, and had no instruments. The experiments in this lesson test the same question with rulers, controls and repeats."
    }
   ],
   "science": [
@@ -3423,5 +3423,5 @@
   ],
   "art": "A child with closed eyes smelling a torn leaf, with the same faint trail of smell also reaching a potted plant on a windowsill and a tiny wasp outside the window."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home, so please treat amounts and times as a starting point. The Torn Leaf Test (core) works best with curry leaves, tulsi, mint or coriander. Palak and grass smell fainter, so hold the katori close. The Touch Test (core) takes 11 days and needs soil, because seedlings on cotton fall over when they are stroked. Shoots must be 3 to 4 centimetres tall before the first stroke, which can take longer than three days in cold weather. Stroked seedlings usually end 1 to 3 centimetres shorter on average, and single seedlings overlap. If the two means differ by less than half a centimetre, the step says to report that and run four more days. The Drop Test needs a touch-me-not, so it is outside the core path. Tie the marking threads an hour ahead, and expect results to vary from plant to plant. See the Threads grows mould, so the bag stays sealed and goes in the dustbin. Packaged bread can take ten days, and a chapati or an idli is faster. Stroke a Tendril needs a climber and is outside the core path. Old tendrils do not respond. In the Growth Magnifier the torch must not move, and it is switched on only to make each mark, because a shoot leans towards a steady light. The Music Claim will most likely show no clear difference, and the step says that this is a real result. Under the Forest was played through on paper. Without sharing, both seedlings die in round 4. With sharing in moves of three or four beans, all six trees can last eight rounds. A big tree stripped twice in the first two rounds can die, and then the game is played again. The game shows a debated idea, and its last step says so. Which Path? needs 20 cards and four tokens for each player. No part of the core path needs a garden. The dates, names and numbers come from published papers. They were written from memory of those papers and have not yet been checked against them by a person. The three videos were confirmed by title and channel but not watched."
+ "playtest": "The experiments and activities in this lesson were reasoned through step by step. They have not yet been tried at home, so please treat amounts and times as a starting point. The Torn Leaf Test (core) works best with curry leaves, tulsi, mint or coriander. Palak and grass smell fainter, so hold the katori close. The Touch Test (core) takes 11 days and needs soil, because seedlings on cotton fall over when they are stroked. Shoots must be 3 to 4 centimetres tall before the first stroke, which can take longer than three days in cold weather. Stroked seedlings usually end 1 to 3 centimetres shorter on average, and single seedlings overlap. If the two means differ by less than half a centimetre, the step says to report that and run four more days. The Drop Test needs a touch-me-not, so it is outside the core path. Tie the marking threads an hour ahead, and expect results to vary from plant to plant. See the Threads grows mould, so the bag stays sealed and goes in the dustbin. Packaged bread can take ten days, and a chapati or an idli is faster. Stroke a Tendril needs a climber and is outside the core path. Old tendrils do not respond. In the Growth Magnifier the torch must not move, and it is switched on only to make each mark, because a shoot leans towards a steady light. The Music Claim will most likely show no clear difference, and the step says that this is a real result. Under the Forest was played through on paper. Without sharing, both seedlings die in round 4. With sharing in moves of three or four beans, all six trees can last eight rounds. A big tree stripped twice in the first two rounds can die, and then the game is played again. The game shows a debated idea, and its last step says so. Which Path? needs 20 cards and four tokens for each player. No part of the core path needs a garden. The dates, names and numbers come from published papers. They were written from memory of those papers and have not yet been checked against them by a person. The three videos were confirmed by title and channel but not watched."
 }

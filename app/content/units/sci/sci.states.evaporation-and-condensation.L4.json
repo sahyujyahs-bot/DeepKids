@@ -3,12 +3,12 @@
  "title": "Evaporation and condensation: why some liquids leave fast, where the heat goes, and what salt does to the air",
  "level": 4,
  "summary": {
-  "text": "A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this unit you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.",
+  "text": "A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this lesson you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.",
   "art": "A steel plate with six wet streaks in a ring, some already dry, with a hand beside it holding a drop of sanitiser, and a small dish of damp salt beside a closed jar of dry salt."
  },
  "intro": {
   "hook": "Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?",
-  "text": "Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this unit you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.",
+  "text": "Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this lesson you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.",
   "art": "A child holding two hands out, a droplet of clear liquid on the back of each, with tiny wavy arrows rising from one drop quickly and from the other slowly."
  },
  "outcomes": [
@@ -1358,7 +1358,7 @@
    "title": "Fridge Fog: watch a cloud fall out of the freezer",
    "mins": 12,
    "days": 1,
-   "context": "This is the first thing to do in the unit. You open the freezer door and watch what pours out, then guess what it is. You will find out where the water in that fog comes from.",
+   "context": "This is the first thing to do in the lesson. You open the freezer door and watch what pours out, then guess what it is. You will find out where the water in that fog comes from.",
    "materials": [
     {
      "item": "a fridge with a freezer compartment that has been running for a while",
@@ -3247,7 +3247,7 @@
   "founder": [
    "ideas/by_topic/gases-evaporation-condensation-solutions.md: the Temperature, Humidity, Pressure rows (a homemade humidity check and the idea of balance between unseen forces), which led to the Thirsty Things test and the salt box story",
    "The combined lesson sci-C5-gases-evaporation-condensation-solutions: its parts The cool wrist, The cooker and the hills and Condensation hunt informed the feel test in the Drop Race and the boiling and pressure card. Its story and worksheets were not reused",
-   "The Class 3 unit on evaporation and condensation, which this unit builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated",
+   "The Class 3 unit on evaporation and condensation, which this lesson builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated",
    "Nearby units read so as not to repeat them: the Class 4 unit on heat and temperature (its wet thermometer and clay matka test), the Class 3 unit on the water cycle, and the Class 4 unit on reaction speed (its pressure cooker activity)",
    "PHILOSOPHY.md library: Bhagavad Gita 9.19 and Tirukkural 20"
   ],

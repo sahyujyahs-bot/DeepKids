@@ -3,12 +3,12 @@
  "title": "From one living being to the whole Earth: how the levels of life depend on each other",
  "level": 5,
  "summary": {
-  "text": "The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this unit you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.",
+  "text": "The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this lesson you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.",
   "art": "Three planets in a row seen from space, Venus cloudy yellow, the Earth blue and green, Mars red, with a small bar under each showing what its air is made of."
  },
  "intro": {
   "hook": "Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.",
-  "text": "Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this unit you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.",
+  "text": "Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this lesson you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.",
   "art": "A child at an open window taking a breath, with faint lines leading from the breath to a tree, to the sea and to a tiny green cell."
  },
  "outcomes": [
@@ -275,7 +275,7 @@
    "concept": "The Daisy Planet: what a model can show, and what it cannot",
    "status": "idea",
    "definition": "",
-   "description": "Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this unit is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.",
+   "description": "Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this lesson is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.",
    "examples": [
     "In the Daisy Planet Test, the bare planet warms from 8 to 47 degrees. The planet with daisies stays between 20 and 27 degrees for twelve rounds.",
     "The model has a limit. When every square is full of pale daisies, the daisies can cool the planet no further, and the temperature starts to climb."
@@ -515,7 +515,7 @@
    "what_is_life": "Life does not only live on the Earth. Life has changed the Earth's air, soil and rain, and those changes have changed life in turn.",
    "what_is_this_world": "The world around you is partly made by the living. The air in this room would be a different air if nothing had ever lived on the Earth."
   },
-  "thread": "A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this unit say the Earth is a system and not a mind.",
+  "thread": "A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this lesson say the Earth is a system and not a mind.",
   "teachings": [
    {
     "source": "Atharva Veda 12.1.12",
@@ -1863,7 +1863,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this unit. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.",
+     "do": "1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this lesson. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.",
      "say": "Choose a voice to speak for. I will take someone who disagrees. Use evidence: the three planets, the Daisy Planet, the frozen Earth. Afterwards we swap sides.",
      "kid": "Choose one voice. Your partner takes a voice who disagrees. Speak for 2 minutes with evidence. Ask each other one question. Then swap sides.",
      "ask": [
@@ -3640,7 +3640,7 @@
    "The same notes: 'build a cooperative board game where players must keep Earth's energy budget stable' and 'story of a planet that lost its balance', the starting points for the Daisy Planet Test and When the Daisies Run Out of Room",
    "The same notes: 'host a balance the planet role-play council', the starting point for the Gaia Council; and the line 'harmony requires give and take; too much imbalance brings instability; invisible flows maintain life', used for the feedback explanation",
    "The Combined lesson sci-C5-living-in-harmony.json: its ideas 'energy flows through once, but atoms go round and round' and 'balance in nature is movement, not stillness' are taken further here",
-   "The Level 5 units on food webs and biodiversity of the same topic, read so that this unit leads on from them without repeating"
+   "The Level 5 units on food webs and biodiversity of the same topic, read so that this lesson leads on from them without repeating"
   ],
   "science": [
    "Lovelock, Nature 207, 1965, 'A physical basis for life detection experiments'",

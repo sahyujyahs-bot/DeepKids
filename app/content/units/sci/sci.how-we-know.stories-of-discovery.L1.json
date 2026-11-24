@@ -3,12 +3,12 @@
  "title": "Curious people: how discoveries begin with a question",
  "level": 1,
  "summary": {
-  "text": "A yellow haldi stain on a white shirt can turn red in the wash. Why? In this unit you will test which kitchen liquids turn haldi red, hear about curious people like Tu Youyou, and play a true-or-false game about who found out what.",
+  "text": "A yellow haldi stain on a white shirt can turn red in the wash. Why? In this lesson you will test which kitchen liquids turn haldi red, hear about curious people like Tu Youyou, and play a true-or-false game about who found out what.",
   "art": "A white school shirt on a washing stone with a bright red spot where a yellow haldi stain was, a bar of soap beside it, and a girl peering at the spot with a puzzled face."
  },
  "intro": {
   "hook": "Here is an old cloth with a yellow haldi stain. When a stain like this is washed, it can turn red. What do you think turns it red?",
-  "text": "Many grown-ups have seen a haldi stain turn red in the wash, but most never ask why. Asking why, and then trying things to find out, is what scientists do. In this unit you become a scientist in your own kitchen. You also hear true stories of curious people who found out new things.",
+  "text": "Many grown-ups have seen a haldi stain turn red in the wash, but most never ask why. Asking why, and then trying things to find out, is what scientists do. In this lesson you become a scientist in your own kitchen. You also hear true stories of curious people who found out new things.",
   "art": "A child holding up an old white cloth with a yellow haldi stain, looking at it closely, with a bucket and a bar of soap nearby."
  },
  "outcomes": [
@@ -24,7 +24,7 @@
   {
    "term": "Curious",
    "meaning": "Being curious means wanting to know more about something. A curious person asks lots of questions.",
-   "example": "Meenakshi, a girl in this unit's story, was curious about why the haldi stain went red, so she asked her grandmother.",
+   "example": "Meenakshi, a girl in this lesson's story, was curious about why the haldi stain went red, so she asked her grandmother.",
    "art": "A girl crouching to look closely at a red spot on a shirt, with a big question mark floating above her head."
   },
   {
@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card explains why soap turned the haldi red in the Haldi Test.",
    "definition": "Haldi has a yellow colouring in it. Soap and cooking soda change this colouring to red. Lemon juice changes it back to yellow.",
-   "description": "The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call things like soap and cooking soda 'bases'. A base changes the colour of curcumin. They call sour things like lemon 'acids'. An acid changes it back. You will learn more about bases and acids when you are older. Some mild liquid hand washes do not turn haldi red. That is a real result too.",
+   "description": "The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call things like soap and cooking soda 'bases'. A base changes the colour of curcumin. They call sour things like lemon 'acids'. An acid changes it back. There is much more to find out about bases and acids. Some mild liquid hand washes do not turn haldi red. That is a real result too.",
    "examples": [
     "A haldi stain on a white shirt turns red when you rub soap on it.",
     "A drop of soap water on haldi paper makes a red spot.",
@@ -396,7 +396,7 @@
       "Notice: say one thing that smells good at home.",
       "Wonder: ask one question about the sky.",
       "Try: hold a steel spoon and a wooden spoon. Which feels colder?",
-      "Story: name one curious person from this unit.",
+      "Story: name one curious person from this lesson.",
       "Notice: find something that is round.",
       "Wonder: ask one question about an animal you know.",
       "Try: put a drop of water on a steel plate and on a cloth. What happens to each?",
@@ -1419,7 +1419,7 @@
        "says": "Anyone who asks questions and tests them is a scientist."
       }
      ],
-     "ask": "Who do you agree with? Use the haldi test or a story from this unit. Then say one thing the other friend got right.",
+     "ask": "Who do you agree with? Use the haldi test or a story from this lesson. Then say one thing the other friend got right.",
      "a": "Many children agree with the second child, because they did the haldi test at home and found something out. The first child is right that many scientists work in laboratories and learn a lot.",
      "why": "A strong answer uses evidence, like Mary Anning on the beach or the haldi test in the kitchen. It is also fair to the other side."
     }
@@ -1767,7 +1767,7 @@
    "ideas/by_topic/how-we-know.md, 'Stories of science and the True/False card game': the founder's true-or-false fact cards. Used for game g1, rewritten for age 6, with each answer saying how people found out. 'Trees don't talk to each other' was left out because it needs more than one line to explain fairly.",
    "ideas/by_topic/how-we-know.md, 'Grade concept grid: Fringe Science', Grade 1: new ideas must be tested, not just imagined, and some strange ideas later succeed. Used for the 'challenging' cards and for the guess-then-test thread.",
    "ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (low-heat clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.",
-   "Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This unit repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit."
+   "Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This lesson repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit."
   ],
   "science": [
    "Curcumin, the yellow colouring of turmeric, changes from yellow to red-brown as the solution becomes alkaline (above about pH 7.5 to 8.6), and returns to yellow in acid. Bar soap and washing powder are alkaline (about pH 9 to 11). Sodium bicarbonate solution is about pH 8.3 and gives an orange-red. Some mild liquid hand washes are near neutral and give little change. Turmeric paper as an indicator is a standard school activity (NCERT Class 7 Science, acids, bases and salts).",

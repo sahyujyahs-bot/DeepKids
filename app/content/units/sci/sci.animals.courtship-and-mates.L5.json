@@ -3,12 +3,12 @@
  "title": "Who cares for the young? Sexual selection, family systems and fathers who carry the eggs",
  "level": 5,
  "summary": {
-  "text": "On a lotus pond in India, the bird sitting on the eggs is the father, and a seahorse father carries the eggs in a pouch. Who looks after the young, and why? In this unit you will guess first, run the Warm Egg Test with steel tumblers of warm water, and play a game.",
+  "text": "On a lotus pond in India, the bird sitting on the eggs is the father, and a seahorse father carries the eggs in a pouch. Who looks after the young, and why? In this lesson you will guess first, run the Warm Egg Test with steel tumblers of warm water, and play a game.",
   "art": "A lotus pond with a small bronze-winged jacana father sitting on a floating nest, a larger female jacana walking on the leaves nearby, and a child with a notebook watching from the bank."
  },
  "intro": {
   "hook": "A seahorse mother places her eggs in a pouch on the father's belly. He carries them for weeks, and then he gives birth. On Indian ponds, a jacana father sits on the eggs alone. Why does the father do the caring in some animals, and the mother in others?",
-  "text": "Animals raise their young in many ways. Two pigeons share one nest and take turns. One male elephant seal lives with dozens of females and looks after no pups at all. A turtle mother buries her eggs and never sees them hatch. In this unit you first guess who looks after the young in eight animal families. Then you test, with warm water in steel tumblers, what an egg needs from the ones who sit on it. The result explains a lot about bird families. After that you meet the idea that explains the rest. It is called sexual selection.",
+  "text": "Animals raise their young in many ways. Two pigeons share one nest and take turns. One male elephant seal lives with dozens of females and looks after no pups at all. A turtle mother buries her eggs and never sees them hatch. In this lesson you first guess who looks after the young in eight animal families. Then you test, with warm water in steel tumblers, what an egg needs from the ones who sit on it. The result explains a lot about bird families. After that you meet the idea that explains the rest. It is called sexual selection.",
   "art": "A pregnant-looking seahorse father holding a blade of seagrass with his tail, with a few tiny young seahorses drifting out of the pouch on his belly."
  },
  "outcomes": [
@@ -406,7 +406,7 @@
   {
    "concept": "Does the size of the sex cells decide the roles?",
    "status": "debated",
-   "description": "Scientists agree on what female and male mean. They disagree on how much follows from it. One side says the size of the sex cells pushes females and males in different directions in nearly all animals. Females start out having spent more on each young, so they tend to care and to choose, and males tend to compete. In 2016 Tim Janicke and his team put together 72 studies of 66 kinds of animals. On average, competition for partners was stronger among males. The other side says the push is weak, and that surroundings decide most of it. Hanna Kokko and Michael Jennions pointed out in 2008 that having spent more in the past is no reason, in itself, to spend more in future. They say care goes to whoever gains most by giving it, and that depends on things such as how many partners are free and how sure a parent is of being the parent. Patricia Gowaty showed in 2012 that a famous experiment behind the first view had a flaw. Both sides accept the facts in this unit. They differ on how strong the pull of the sex cells is.",
+   "description": "Scientists agree on what female and male mean. They disagree on how much follows from it. One side says the size of the sex cells pushes females and males in different directions in nearly all animals. Females start out having spent more on each young, so they tend to care and to choose, and males tend to compete. In 2016 Tim Janicke and his team put together 72 studies of 66 kinds of animals. On average, competition for partners was stronger among males. The other side says the push is weak, and that surroundings decide most of it. Hanna Kokko and Michael Jennions pointed out in 2008 that having spent more in the past is no reason, in itself, to spend more in future. They say care goes to whoever gains most by giving it, and that depends on things such as how many partners are free and how sure a parent is of being the parent. Patricia Gowaty showed in 2012 that a famous experiment behind the first view had a flaw. Both sides accept the facts in this lesson. They differ on how strong the pull of the sex cells is.",
    "examples": [
     "For the first view: in most kinds of mammals, mothers do the caring and males compete.",
     "For the second view: jacanas, seahorses and hyenas have the same two sizes of sex cell as cows, yet they have very different roles."
@@ -605,7 +605,7 @@
    "what_is_life": "No life goes on to the next generation unless someone gives up part of their own energy for the young. Different animals share out that giving in different ways.",
    "what_is_this_world": "The world has no single correct family. A pond, a beach, a tree hollow and a herd each led to a different one."
   },
-  "thread": "The first living beings that mixed their instructions made sex cells of one size. From that one kind came two kinds, large and small. From those two kinds came every family in this unit: the pair of pigeons, the seal harem, the jacana mother with four mates, the seahorse father with a pouch and the elephant grandmother. They look very different. Under each of them are the same two cells and the same need, which is that someone must spend energy on the young.",
+  "thread": "The first living beings that mixed their instructions made sex cells of one size. From that one kind came two kinds, large and small. From those two kinds came every family in this lesson: the pair of pigeons, the seal harem, the jacana mother with four mates, the seahorse father with a pouch and the elephant grandmother. They look very different. Under each of them are the same two cells and the same need, which is that someone must spend energy on the young.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 1.4.3",
@@ -1224,7 +1224,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess yet. Most children write 'mother' for most of the list, and that is the starting point this unit needs."
+     "parent": "Do not correct any guess yet. Most children write 'mother' for most of the list, and that is the starting point this lesson needs."
     },
     {
      "id": "s2",
@@ -2034,7 +2034,7 @@
        "says": "No. Care goes to whoever gains most by giving it. Look at jacanas and seahorses."
       }
      ],
-     "ask": "Which view fits the evidence in this unit better? What would you want to count to find out?",
+     "ask": "Which view fits the evidence in this lesson better? What would you want to count to find out?",
      "a": "Answers vary. A strong answer picks a side with a reason, and names something to count, such as how many kinds of animals fit each pattern.",
      "why": "Both views accept the same facts. They differ on whether the exceptions are rare or whether surroundings decide most of it. Scientists still argue about this.",
      "outcome": 3
@@ -2798,10 +2798,10 @@
  },
  "sources": {
   "founder": [
-   "Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice and competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. The Class 4 unit covered courtship and mate choice. This unit takes competition, the theory of sexual selection, parental investment and the named family systems.",
-   "sci.animals.courtship-and-mates.L4: read in full so that nothing repeats. Its widowbird and peafowl experiments, baya weaver story and Darwin-to-Andersson history are not reused. This unit starts where its explanation 'Many ways to pair and raise young' stops.",
+   "Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice and competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. The Class 4 unit covered courtship and mate choice. This lesson takes competition, the theory of sexual selection, parental investment and the named family systems.",
+   "sci.animals.courtship-and-mates.L4: read in full so that nothing repeats. Its widowbird and peafowl experiments, baya weaver story and Darwin-to-Andersson history are not reused. This lesson starts where its explanation 'Many ways to pair and raise young' stops.",
    "combined/sci-C1-growing-up-and-having-young.json: the card that asks who looks after the young (pheasant-tailed jacana father, seahorse father, elephant grandmother and aunts, turtle mother who leaves). It is the seed of the activity Who Looks After the Young. The story here is new.",
-   "sci.animals.animal-life-cycles.L5 and sci.animals.animal-minds.L5 were checked. The Egg Budget activity (many small eggs or few big ones) is in the life cycles unit, so this unit treats egg cells against sperm instead. The song title is the one those units use.",
+   "sci.animals.animal-life-cycles.L5 and sci.animals.animal-minds.L5 were checked. The Egg Budget activity (many small eggs or few big ones) is in the life cycles unit, so this lesson treats egg cells against sperm instead. The song title is the one those units use.",
    "PHILOSOPHY.md: the roots card, and 'humans are animals, 100%'."
   ],
   "science": [

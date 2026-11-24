@@ -3,12 +3,12 @@
  "title": "The water cycle: where rain comes from and where it goes",
  "level": 3,
  "summary": {
-  "text": "Rain is fresh water, yet the sea is salty. Where does the rain come from? In this unit you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.",
+  "text": "Rain is fresh water, yet the sea is salty. Where does the rain come from? In this lesson you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.",
   "art": "A cut-away picture of India's west coast: the Arabian Sea with wavy lines rising from it, clouds drifting to the Western Ghats, rain falling on green hills, a river flowing back to the sea, and a big round arrow joining it all."
  },
  "intro": {
   "hook": "Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.",
-  "text": "In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This unit follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.",
+  "text": "In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This lesson follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.",
   "art": "A wet child's handprint on a sunny floor tile, fading at the edges, with faint wavy lines rising from it towards a window full of sky."
  },
  "outcomes": [
@@ -1307,7 +1307,7 @@
        "says": "The amount of rain is not the problem. Rain that falls all at once on hard ground runs off. The same rain spread over many days would soak in."
       }
      ],
-     "ask": "Pick the person you agree with most. Give a reason from this unit. Then say what one of the others would say back to you.",
+     "ask": "Pick the person you agree with most. Give a reason from this lesson. Then say what one of the others would say back to you.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason from the water cycle. For example: the person in Chennai is right, because cement and tar cannot soak up rain, so it all runs into the street at once. It then answers back from another side, for example the rice farmer: the same rain refills groundwater that the city also drinks.",
      "why": "There is no single right answer. The same rain helps or hurts depending on the ground it falls on and how fast it comes."
@@ -1411,7 +1411,7 @@
        "says": "Since the forest above our valley was cut, the rain comes later and the streams dry up sooner."
       }
      ],
-     "ask": "Which view do you think is best supported? Give a reason from this unit. Then say what one of the others would answer back. What could people measure to settle it?",
+     "ask": "Which view do you think is best supported? Give a reason from this lesson. Then say what one of the others would answer back. What could people measure to settle it?",
      "lines": 6,
      "a": "A strong answer picks a side and gives a reason, for example: trees really do put water into the air, as Leaves in a Bag showed. It answers back fairly, for example: one valley is not proof, because the rain might have changed for another reason. It suggests a fair way to test, such as comparing rain over many years in places that differ only in having a forest.",
      "why": "This is a real argument among scientists. Everyone agrees that trees give off water. They disagree about how much forests change where the rain falls."
@@ -3048,7 +3048,7 @@
      "do": "Read out these two ideas. Villages in dry hills hang big nets to catch fog. Desert beetles catch fog drops on their backs and drink them. Then compare them with your design.",
      "say": "Villages and beetles have solved this problem before you.",
      "kid": "Which of these two ideas would you copy for a real village?",
-     "think": "A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?"
+     "think": "A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this lesson did tiny drops join into bigger ones?"
     }
    ],
    "setup": [
@@ -3592,7 +3592,7 @@
    "url": "",
    "kind": "place",
    "where": "Kutch, Gujarat",
-   "why": "Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this unit's story. Visit in winter, when salt is made."
+   "why": "Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this lesson's story. Visit in winter, when salt is made."
   },
   {
    "title": "Nehru Planetarium",
@@ -3826,7 +3826,7 @@
    "Founder's sheets, HomeSchooling Track, STEM Activities websites: Exploratorium, used in links.",
    "DeepKids Combined Class 5 Water (combined, sci-C5-water.json): the sweating steel glass, the salt pans, the water cycle that has no start or end, clouds as drops on specks of dust, transpiration, the voices of Palissy, Perrault and Halley, and 'Water's Many Lives' card game. Improved here into e4, e1, the explanations, the challenging views and the bead game. Its story was not reused.",
    "DeepKids Combined Class 3 Water (combined, sci-C3-water.json): the sun-and-shade drying plates, improved here into the Evaporation Race. Its rain gauge and Drop's Journey game are already in the sibling unit on water sources, so they were not repeated.",
-   "Sibling unit sci.water.water-sources-and-uses.L3 was read so this unit does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this unit's deep truth is about water that is in the air though we cannot see it."
+   "Sibling unit sci.water.water-sources-and-uses.L3 was read so this lesson does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this lesson's deep truth is about water that is in the air though we cannot see it."
   ],
   "science": [
    "Aitken, J. On dust, fogs, and clouds. Transactions of the Royal Society of Edinburgh, 1880 (cloud drops need specks)",

@@ -3,12 +3,12 @@
  "title": "Hearing: how two ears find where a sound is, and why noise can hide a voice",
  "level": 4,
  "summary": {
-  "text": "Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this unit you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.",
+  "text": "Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this lesson you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.",
   "art": "A girl sitting blindfolded in the middle of a room pointing at a spoon being clinked on a steel katori, with two faint curved lines from the katori reaching her two ears at slightly different lengths."
  },
  "intro": {
   "hook": "Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?",
-  "text": "With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this unit you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.",
+  "text": "With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this lesson you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.",
   "art": "A child in the middle of a room with a scarf over her eyes, one ear covered by a cap, pointing in the wrong direction while a parent stands to her left holding a steel katori and spoon."
  },
  "outcomes": [
@@ -3004,7 +3004,7 @@
    "youtube": "PeTriGTENoc",
    "mins": 7,
    "why": "For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches.",
-   "check": "Title and channel confirmed. Preview it first. It goes into more detail than this unit."
+   "check": "Title and channel confirmed. Preview it first. It goes into more detail than this lesson."
   },
   {
    "title": "How do cochlear implants work? | Boston Children's Hospital",
@@ -3394,7 +3394,7 @@
    "ideas/by_topic/sound.md: 'Sound waves' and 'Underwater sound' rows (sound crossing from air to water, a tuning fork heard in water, a simple stethoscope). Used in the explanation of why the middle ear is needed.",
    "ideas/by_topic/sound.md: 'Materials and sound' row (using a smartphone decibel app and covering a ticking clock). Used in Doubling the Distance and Hiding a Whisper.",
    "ideas/by_topic/sound.md: 'Sound and vibration' row (feeling vibration, humming to feel the skull, a drum circle). Used in Feel the Music.",
-   "The Class 3 unit on hearing, which this unit builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help."
+   "The Class 3 unit on hearing, which this lesson builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help."
   ],
   "science": [
    "Georg von Békésy, Experiments in Hearing, 1960 (the travelling wave in the cochlea, Nobel Prize in Physiology or Medicine 1961)",

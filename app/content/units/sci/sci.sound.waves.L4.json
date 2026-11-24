@@ -3,12 +3,12 @@
  "title": "Waves: why shaking faster makes the waves closer together",
  "level": 4,
  "summary": {
-  "text": "Tap a tray of water faster and the ripples sit closer together, yet they travel just as fast. Why? In this unit you will count the swings of a pendulum, tap ripples at different speeds, and work out the rule that links how often, how fast and how far apart.",
+  "text": "Tap a tray of water faster and the ripples sit closer together, yet they travel just as fast. Why? In this lesson you will count the swings of a pendulum, tap ripples at different speeds, and work out the rule that links how often, how fast and how far apart.",
   "art": "A steel tray of water with two sets of ripples: wide-spaced rings on the left from slow taps, and close-spaced rings on the right from fast taps, with a small washer pendulum hanging above and a star with a beam in the night sky behind."
  },
  "intro": {
   "hook": "Tie a washer to a thread and let it swing. Now pull it back much further and let it swing again. Does the wide swing take longer, or the same time? Most people say longer. Count the swings and find out.",
-  "text": "The wide swing takes the same time as the narrow one. A pendulum keeps its own beat, and only its length changes it. The same idea sits inside every wave. Whatever starts a wave sets how often the waves come. What the wave travels through sets how fast it goes. Put the two together and you can predict how far apart the crests will be. In this unit you count swings, tap ripples in a tray, and follow the rule from a bucket of water all the way out to radio, light and the stars.",
+  "text": "The wide swing takes the same time as the narrow one. A pendulum keeps its own beat, and only its length changes it. The same idea sits inside every wave. Whatever starts a wave sets how often the waves come. What the wave travels through sets how fast it goes. Put the two together and you can predict how far apart the crests will be. In this lesson you count swings, tap ripples in a tray, and follow the rule from a bucket of water all the way out to radio, light and the stars.",
   "art": "A child holding a stopwatch beside a washer on a thread swinging in front of a door frame, with a faint dotted arc showing a wide swing and a narrow swing taking the same time."
  },
  "outcomes": [
@@ -2909,7 +2909,7 @@
    "youtube": "JppViHtLNlc",
    "mins": 8,
    "why": "For the parent: a teacher explains wavelength, frequency and amplitude, and the difference between push waves and shake waves, to help you answer your child's questions.",
-   "check": "Title and channel confirmed. Preview it first, because it goes further than this unit."
+   "check": "Title and channel confirmed. Preview it first, because it goes further than this lesson."
   },
   {
    "title": "Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four",
@@ -3294,7 +3294,7 @@
   "founder": [
    "ideas/by_topic/sound.md: 'Waves and oscillation' row (a pendulum experiment timing swings, a metronome to explore frequency, a resonance relay). Used in Counting Swings, Hertz Hunt and Tiny Taps, Big Swing.",
    "ideas/by_topic/sound.md: 'Wave basics' and 'Sound waves' rows (crest, trough, wavelength, amplitude, the water ripple tank, a stadium wave). Used in Tap Faster and the Wave Grid.",
-   "The Class 3 unit on waves, which this unit builds on: the idea that the material sets the wave speed, now extended to frequency, wavelength and the full family of waves."
+   "The Class 3 unit on waves, which this lesson builds on: the idea that the material sets the wave speed, now extended to frequency, wavelength and the full family of waves."
   ],
   "science": [
    "Galileo Galilei, Discorsi e dimostrazioni matematiche intorno a due nuove scienze, 1638 (pendulums of lead and cork that swing together)",

@@ -3,12 +3,12 @@
  "title": "Things fall: everything drops when we let go",
  "level": 1,
  "summary": {
-  "text": "Let go of a spoon and it falls. Does everything fall, even a feather? In this unit you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.",
+  "text": "Let go of a spoon and it falls. Does everything fall, even a feather? In this lesson you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.",
   "art": "A girl standing in a kitchen with her hand open, and a steel spoon, a feather, a jasmine flower and a balloon all falling towards a steel plate on the floor."
  },
  "intro": {
   "hook": "Hold a spoon up high. Open your hand. What happens? Now try it with a feather or a balloon. Does that fall too?",
-  "text": "Try the spoon first. Then try a feather and a balloon. Do they all fall? In this unit you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.",
+  "text": "Try the spoon first. Then try a feather and a balloon. Do they all fall? In this lesson you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.",
   "art": "A child's open hand high above a steel plate, with a steel spoon just leaving the fingers."
  },
  "outcomes": [
@@ -148,7 +148,7 @@
    "for": "Air is all around us, and we cannot see what is pulling the spoon.",
    "against": "The air does the opposite: it slows falling things down. On the Moon there is no air, and dropped things still fall. It is the pull of the ground below, gravity, that makes things fall.",
    "status": "rejected",
-   "context": "This card is about what makes a spoon fall. Some children say the air pushes it down. Other people say the Earth pulls it down. In this unit you find out which one is true."
+   "context": "This card is about what makes a spoon fall. Some children say the air pushes it down. Other people say the Earth pulls it down. In this lesson you find out which one is true."
   },
   {
    "claim": "Smoke, air and fire go up by nature. The Earth does not pull them down.",
@@ -2074,7 +2074,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/gravity.md, Grade 1 concept: gravity keeps your feet on the floor, every jump comes back down, falling leaves and raindrops, and birds and balloons that seem to escape the pull but are using the air. These became the Let-Go Test, Fall Like a Leaf, the Falling Watch and the kite bird in the story.",
-   "ideas/by_topic/gravity.md: the note that the ground holds you up became Take Away the Holder and the toy challenge. The heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this unit uses the let-go sort, the dot drop, the holder hunt and the marble run instead."
+   "ideas/by_topic/gravity.md: the note that the ground holds you up became Take Away the Holder and the toy challenge. The heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this lesson uses the let-go sort, the dot drop, the holder hunt and the marble run instead."
   ],
   "science": [
    "Aristotle, On the Heavens (De Caelo), Book 4: earth and water move down by nature, fire and air move up.",

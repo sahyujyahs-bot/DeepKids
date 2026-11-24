@@ -3,7 +3,7 @@
  "title": "How a new person begins: egg cell, sperm cell, the first week, and families of many kinds",
  "level": 5,
  "summary": {
-  "text": "Only one sperm cell joins the egg cell. So why do many millions set out? In this unit you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.",
+  "text": "Only one sperm cell joins the egg cell. So why do many millions set out? In this lesson you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.",
   "art": "A large pale round egg cell with a single tiny sperm cell touching the edge, and far behind, a long fading trail of thousands of other tiny sperm cells that did not arrive."
  },
  "intro": {
@@ -2127,7 +2127,7 @@
        "says": "There is no single moment. The egg cell was already alive, and the embryo becomes a baby slowly."
       }
      ],
-     "ask": "Whose view do you agree with more? What from this unit supports it?",
+     "ask": "Whose view do you agree with more? What from this lesson supports it?",
      "a": "Answers vary. For Yazhini: the zygote is the first cell with this person's own set of 46 chromosomes. For Ananya: both cells were alive before, the embryo is not attached for a week, and one embryo can still split into twins.",
      "why": "Both girls are using the science. The facts do not settle it, because the answer depends on what we mean by 'a person'.",
      "outcome": 7
@@ -2203,7 +2203,7 @@
        "says": "The woman's body and the egg cell do much of the work. The race story came from ideas about men and women, not from the evidence."
       }
      ],
-     "ask": "Which telling fits the evidence in this unit better? Give two pieces of evidence.",
+     "ask": "Which telling fits the evidence in this lesson better? Give two pieces of evidence.",
      "a": "Answers vary, but the evidence favours the second. The womb's squeezes carry the sperm cells, the neck of the womb filters them, the egg cell releases chemicals that attract them, and the egg cell's coat shuts after one enters.",
      "why": "A strong answer uses evidence about what the woman's body and the egg cell actually do.",
      "outcome": 7
@@ -2737,7 +2737,7 @@
    "title": "Miriam Menkin (Wikipedia)",
    "url": "https://en.wikipedia.org/wiki/Miriam_Menkin",
    "kind": "interactive",
-   "why": "For the parent: the life of the woman in this unit's story, and her 1944 experiment."
+   "why": "For the parent: the life of the woman in this lesson's story, and her 1944 experiment."
   },
   {
    "title": "Subhash Mukhopadhyay (Wikipedia)",
@@ -3008,11 +3008,11 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this unit.",
+   "Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this lesson.",
    "From the same notes: 'Family Tree (inclusive)' became the Family Map. 'Consent Poster: Ask, Respect, Tell', 'Consent Charades' and 'My Body, My Rules' became Ask, Respect, Tell. 'Family Story Book: co-author an origin story' became the project. 'Lifecycle Wheel spinner' became the Cycle Wheel. 'Matching Pairs: cards of stages' shaped the board game The First Week. The parent scripts ('proper names', 'different families grow in different ways, all are real families') are used in the parent notes.",
-   "The curriculum entry for this unit (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.",
-   "sci.body.how-babies-grow.L3 and L4, which this unit builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This unit adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.",
-   "Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this unit's investigation is the Two Gates Test, and those ideas are only recalled briefly.",
+   "The curriculum entry for this lesson (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.",
+   "sci.body.how-babies-grow.L3 and L4, which this lesson builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This lesson adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.",
+   "Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this lesson's investigation is the Two Gates Test, and those ideas are only recalled briefly.",
    "The Combined lessons sci-C1 and sci-C2 'growing-up-and-having-young' were read. They cover growth and life cycles at Class 1 and 2 level and were not reused."
   ],
   "science": [
@@ -3057,7 +3057,7 @@
    {
     "source": "Tao Te Ching 6",
     "teaching": "The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out.",
-    "link": "Laozi pictured the source of everything as a mother who never stops giving birth. The science of this unit found something close to it in every body: a line of living cells, and of mothers, that has not stopped.",
+    "link": "Laozi pictured the source of everything as a mother who never stops giving birth. The science of this lesson found something close to it in every body: a line of living cells, and of mothers, that has not stopped.",
     "verse": ["谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。"],
     "verse_lang": "zh"
    },
@@ -3103,5 +3103,5 @@
   ],
   "art": "A child sitting cross-legged with one hand on their belly, and behind them a long line of faint seated figures, each lit by a small flame passed from the one behind."
  },
- "playtest": "Every experiment, activity, game and challenge in this unit was reasoned through step by step as a family in a city flat would do it. None has yet been tried at home, so please treat times as a starting point. A parent should read the explanation 'How the sperm cells reach the egg cell' and the card on puberty before the child does, and decide how much to add. The Two Gates Test (in the core path) needs 72 beans and one die. The chances were worked out exactly: with 6 starters a bean arrives in about one run in six, with 18 in about two runs in five, and with 72 in about seven runs in eight. So a family will sometimes see 72 beans fail, and the parent note says what to do. Rolling for all seven runs is about 170 rolls and takes about 15 minutes if two people share it. The Due Date Survey depends on relatives remembering. Eight births are enough to see the pattern, and births whose date was chosen by doctors should be marked. In A Salt Grain and a Steel Plate, salt grains vary in size, so the comparison is rough. In Carry the Bump the measurement is rough too, and the lean is small. Look for the direction of the change, and use no more than 3 kilograms. In Move the Egg a mustard seed rolls easily, so slow strokes work best. The Cycle Wheel uses a 28-day cycle as an example, and real cycles vary. The Family Map, Three Bowls and the family story book are written so that adopted children and children who do not know their birth families can do them fully. The board game The First Week was read through for one, two and three players. Its odds are made up and the rules say so. Facts checked against published sources while writing: the counts of egg cells at 20 weeks, at birth and at puberty, the length of a sperm cell and the size of an egg cell, the estimate of how many sperm cells reach the egg tube, the timing of implantation, the estimate of early embryo loss, the zinc spark study of 2016, the 2020 study of egg cells attracting sperm cells, Miriam Menkin's 1944 experiment, the births of Louise Brown and of Durga in 1978 and the later recognition of Subhash Mukhopadhyay, Jean Purdy's part, the discovery of the SRY gene in 1990, the 1994 law in India on telling a baby's sex, the usual ages of puberty, how mitochondria are inherited, the twins of Kodinhi, the 2007 study of pregnant women's spines, Remak and Virchow, the frog experiments of Spallanzani and Hertwig's sea urchin work, the 1956 chromosome count, and the share of babies born on the due date. Not checked afresh and taken from standard textbooks: that an egg cell lives about a day after ovulation, sex chromosomes in birds, nest temperature in sea turtles, Nettie Stevens's work of 1905, and the Childline number 1098. The titles and channels of the three videos were confirmed through YouTube's public lookup, but the videos were not watched."
+ "playtest": "Every experiment, activity, game and challenge in this lesson was reasoned through step by step as a family in a city flat would do it. None has yet been tried at home, so please treat times as a starting point. A parent should read the explanation 'How the sperm cells reach the egg cell' and the card on puberty before the child does, and decide how much to add. The Two Gates Test (in the core path) needs 72 beans and one die. The chances were worked out exactly: with 6 starters a bean arrives in about one run in six, with 18 in about two runs in five, and with 72 in about seven runs in eight. So a family will sometimes see 72 beans fail, and the parent note says what to do. Rolling for all seven runs is about 170 rolls and takes about 15 minutes if two people share it. The Due Date Survey depends on relatives remembering. Eight births are enough to see the pattern, and births whose date was chosen by doctors should be marked. In A Salt Grain and a Steel Plate, salt grains vary in size, so the comparison is rough. In Carry the Bump the measurement is rough too, and the lean is small. Look for the direction of the change, and use no more than 3 kilograms. In Move the Egg a mustard seed rolls easily, so slow strokes work best. The Cycle Wheel uses a 28-day cycle as an example, and real cycles vary. The Family Map, Three Bowls and the family story book are written so that adopted children and children who do not know their birth families can do them fully. The board game The First Week was read through for one, two and three players. Its odds are made up and the rules say so. Facts checked against published sources while writing: the counts of egg cells at 20 weeks, at birth and at puberty, the length of a sperm cell and the size of an egg cell, the estimate of how many sperm cells reach the egg tube, the timing of implantation, the estimate of early embryo loss, the zinc spark study of 2016, the 2020 study of egg cells attracting sperm cells, Miriam Menkin's 1944 experiment, the births of Louise Brown and of Durga in 1978 and the later recognition of Subhash Mukhopadhyay, Jean Purdy's part, the discovery of the SRY gene in 1990, the 1994 law in India on telling a baby's sex, the usual ages of puberty, how mitochondria are inherited, the twins of Kodinhi, the 2007 study of pregnant women's spines, Remak and Virchow, the frog experiments of Spallanzani and Hertwig's sea urchin work, the 1956 chromosome count, and the share of babies born on the due date. Not checked afresh and taken from standard textbooks: that an egg cell lives about a day after ovulation, sex chromosomes in birds, nest temperature in sea turtles, Nettie Stevens's work of 1905, and the Childline number 1098. The titles and channels of the three videos were confirmed through YouTube's public lookup, but the videos were not watched."
 }

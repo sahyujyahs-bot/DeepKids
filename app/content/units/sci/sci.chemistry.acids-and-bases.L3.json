@@ -3,12 +3,12 @@
  "title": "Acids and bases: how red cabbage water tells sour things from soapy things",
  "level": 3,
  "summary": {
-  "text": "Lemon juice tastes sour and soap feels slippery. How can you tell which is which without tasting? In this unit you will make a colour-changing liquid from red cabbage, test kitchen liquids with it, and watch lemon juice fizz on cooking soda.",
+  "text": "Lemon juice tastes sour and soap feels slippery. How can you tell which is which without tasting? In this lesson you will make a colour-changing liquid from red cabbage, test kitchen liquids with it, and watch lemon juice fizz on cooking soda.",
   "art": "A row of clear glasses on a white sheet of paper, coloured pink, pink-purple, purple, blue and green, with a lemon at the pink end and a bar of soap at the green end."
  },
  "intro": {
   "hook": "Blend two red cabbage leaves with water and strain it. The water is deep purple. Now squeeze in a few drops of lemon juice. It turns pink at once. Why does a sour lemon change the colour of cabbage water?",
-  "text": "Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this unit you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong acids and bases are never used in experiments.",
+  "text": "Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this lesson you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong acids and bases are never used in experiments.",
   "art": "A child's hand squeezing half a lemon over a clear glass of purple cabbage water, with a pink swirl spreading where the drops land."
  },
  "outcomes": [
@@ -2271,7 +2271,7 @@
        "says": "Acids are about tiny charged particles of hydrogen. Taste and health are just what those particles do."
       }
      ],
-     "ask": "Which way of thinking about acids do you find most useful? Give a reason from this unit. Then say what one other person adds that yours leaves out.",
+     "ask": "Which way of thinking about acids do you find most useful? Give a reason from this lesson. Then say what one other person adds that yours leaves out.",
      "lines": 6,
      "a": "A strong answer picks one view and gives evidence, such as: 'Priya's view, because it explains why every acid turns cabbage water pink.' Then it says what another view adds: 'But Shabana's view explains why people cared about acids long before chemistry.'",
      "why": "Each view sees a true part of acids. A good answer uses facts from the unit and shows how the views fit together."
@@ -2615,7 +2615,7 @@
    "id": "b-cabbage",
    "item": "One red cabbage",
    "kind": "material",
-   "why": "Red cabbage water is the indicator for almost every test in this unit. It is sold in supermarkets, bigger vegetable shops and online grocery apps. One small cabbage is enough for the whole unit: keep it in the fridge and use two or three leaves each time. If you cannot find it, blue butterfly pea flowers, fresh or dried, also work.",
+   "why": "Red cabbage water is the indicator for almost every test in this lesson. It is sold in supermarkets, bigger vegetable shops and online grocery apps. One small cabbage is enough for the whole unit: keep it in the fridge and use two or three leaves each time. If you cannot find it, blue butterfly pea flowers, fresh or dried, also work.",
    "url": "https://www.bigbasket.com/ps/?q=red%20cabbage",
    "used_in": [
     "a1",

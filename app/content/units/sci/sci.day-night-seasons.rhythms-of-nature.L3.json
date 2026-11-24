@@ -3,12 +3,12 @@
  "title": "Rhythms of nature: how plants and birds keep time",
  "level": 3,
  "summary": {
-  "text": "A bean plant folds its leaves at night. Does it need to see the morning to know when? In this unit you will grow beans and record their leaves through the day, test them in a dark box, and make a flower clock.",
+  "text": "A bean plant folds its leaves at night. Does it need to see the morning to know when? In this lesson you will grow beans and record their leaves through the day, test them in a dark box, and make a flower clock.",
   "art": "A split picture: on the left, a bean seedling on a windowsill at noon with leaves held flat, and at night with leaves hanging down. On the right, a line of swallows on an electric wire against a winter sky over a city."
  },
  "intro": {
   "hook": "Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant tell when morning is coming, without seeing the sky?",
-  "text": "People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this unit you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.",
+  "text": "People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this lesson you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.",
   "art": "A child kneeling by a windowsill, looking at a small bean seedling in a cup whose two leaves hang down in the evening light, with a cardboard box waiting beside the cup."
  },
  "outcomes": [
@@ -2840,7 +2840,7 @@
     },
     {
      "t": "write",
-     "p": "Many people think plants only react: light comes, then the leaves open. What from this unit challenges that idea?",
+     "p": "Many people think plants only react: light comes, then the leaves open. What from this lesson challenges that idea?",
      "lines": 4,
      "a": "In the dark box, bean leaves lifted in the morning before any light could reach them. A reaction comes after the thing it reacts to. These leaves moved with no light at all, so the plant was keeping time and getting ready.",
      "why": "A strong answer uses the evidence from the bean test to argue against a popular belief.",
@@ -3322,7 +3322,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit, bean leaves rise and fall, jasmine opens in the evening and swallows come for the winter. Now we ask what these clocks in living things tell us about ourselves and the world.",
+  "context": "In this lesson, bean leaves rise and fall, jasmine opens in the evening and swallows come for the winter. Now we ask what these clocks in living things tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the Sleeping Bean Leaves experiment, the bean plant in the dark box still lifted their leaves in the morning. No light reached them, so the timing came from inside the plant. Earlier days on the windowsill had set that inside clock. So a plant expects the morning, and gets ready before it comes.",
    "habit": "We think of plants as only reacting: light comes, then leaves open. But a reaction comes after its cause. The bean plant in the dark box moved before any light came, so they were expecting the day, not reacting to it.",

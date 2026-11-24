@@ -3,12 +3,12 @@
  "title": "Questions we can test: guess first, then try it",
  "level": 2,
  "summary": {
-  "text": "Can a pencil lift a bottle of rice? Thinking will not tell you, but a test will. In this unit you will sort questions into ones you can test and ones you cannot, guess first and give a reason, then try the pencil and rice bottle and see if you were right.",
+  "text": "Can a pencil lift a bottle of rice? Thinking will not tell you, but a test will. In this lesson you will sort questions into ones you can test and ones you cannot, guess first and give a reason, then try the pencil and rice bottle and see if you were right.",
   "art": "A girl holding up a pencil with a plastic bottle full of rice hanging from it, her mouth open in surprise, while a woman beside her claps."
  },
  "intro": {
   "hook": "Here is a bottle full of rice and one pencil. Push the pencil into the rice. Can you lift the whole bottle by the pencil? What do you think, and why?",
-  "text": "You just made a prediction. A prediction is what you think will happen, and why, said before you try. Some questions can be answered by trying, like this one. Others cannot, like 'Is rice nicer than roti?' In this unit you learn to tell the two kinds apart. You make predictions, test them, and count what happens. A wrong prediction is useful too: it shows you which idea to change.",
+  "text": "You just made a prediction. A prediction is what you think will happen, and why, said before you try. Some questions can be answered by trying, like this one. Others cannot, like 'Is rice nicer than roti?' In this lesson you learn to tell the two kinds apart. You make predictions, test them, and count what happens. A wrong prediction is useful too: it shows you which idea to change.",
   "art": "A plastic bottle filled to the top with rice on a steel tray, a pencil lying beside it, and a child's hand hovering over it with a question mark above."
  },
  "outcomes": [
@@ -1930,7 +1930,7 @@
    "ideas/by_topic/how-we-know.md: the Grade 1 and 2 grid ('New ideas must be tested, not just imagined'; 'Progress = openness + skepticism'), used in the Lucky Blow test and the challenging views.",
    "The founder's sheets: the Prediction Game (coin toss and dice roll, predict, note down, count the right ones), used in Sure or Not Sure and the Lucky Blow test.",
    "combined/sci-C1-how-we-know.json: the 'lucky blow' on a die and the Wonder Wall sorting into 'I can test it', 'I need to ask or read' and 'Nobody knows yet', adapted for the test-it card game and the matching question.",
-   "This unit avoids what the other levels use: Level 1 uses mystery dabbas, an elaichi pod, question games and Inge Lehmann; Level 3 uses the brown apple watch, window watches and Tycho Brahe; the fair-tests unit uses apple slices, brinjal, throws and James Lind. So this unit uses the Rice Bottle Lift, coin and die predictions, quick test cards, batter tumblers in the story, and Halley's comet with Nicole-Reine Lepaute."
+   "This lesson avoids what the other levels use: Level 1 uses mystery dabbas, an elaichi pod, question games and Inge Lehmann; Level 3 uses the brown apple watch, window watches and Tycho Brahe; the fair-tests unit uses apple slices, brinjal, throws and James Lind. So this lesson uses the Rice Bottle Lift, coin and die predictions, quick test cards, batter tumblers in the story, and Halley's comet with Nicole-Reine Lepaute."
   ],
   "science": [
    "Edmond Halley, A Synopsis of the Astronomy of Comets (1705): the comets of 1531, 1607 and 1682 were one comet, expected back around 1758.",

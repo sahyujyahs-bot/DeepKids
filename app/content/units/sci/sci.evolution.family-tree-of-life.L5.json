@@ -3,12 +3,12 @@
  "title": "The family tree of life: how scientists work out who is related to whom, and how long ago their lines split",
  "level": 5,
  "summary": {
-  "text": "A dolphin looks like a shark, yet the dolphin's closest relatives are hippos and cows. How can anyone know that, when nobody was there to watch the family lines split? In this unit you build trees from bodies and from DNA, and you choose between trees by counting changes. Then you roll a die to find out whether chance copying mistakes can tell time. You use your own dice clock to date a split that a grown-up keeps secret.",
+  "text": "A dolphin looks like a shark, yet the dolphin's closest relatives are hippos and cows. How can anyone know that, when nobody was there to watch the family lines split? In this lesson you build trees from bodies and from DNA, and you choose between trees by counting changes. Then you roll a die to find out whether chance copying mistakes can tell time. You use your own dice clock to date a split that a grown-up keeps secret.",
   "art": "A dolphin, a shark and a cow drawn in a row, with a forked line joining the dolphin and the cow first, and a die and a strip of thirty squares below them."
  },
  "intro": {
   "hook": "A hippo stands in an African river. A blue whale swims in the open sea. Scientists say these two are closer relatives than a hippo and a pig. Nobody saw their family lines split. So how do scientists know, and how do they know when it happened?",
-  "text": "Nobody has a birth record for a whale. What we have are bodies, fossils and DNA. DNA is the long molecule that carries the instructions for building a body, written in four chemical letters. The cells of every living being hold DNA. In this unit you first guess who is whose cousin from looks alone, and keep your guesses. You count the changes that three different trees would need, and pick the tree that needs the fewest. You roll a die seventy times to see whether chance mistakes add up steadily enough to work as a clock. Then you follow the case of the whale, where teeth, DNA and ankle bones each pointed somewhere. You also meet a purple frog from Kerala whose nearest relatives live on islands far across the Indian Ocean.",
+  "text": "Nobody has a birth record for a whale. What we have are bodies, fossils and DNA. DNA is the long molecule that carries the instructions for building a body, written in four chemical letters. The cells of every living being hold DNA. In this lesson you first guess who is whose cousin from looks alone, and keep your guesses. You count the changes that three different trees would need, and pick the tree that needs the fewest. You roll a die seventy times to see whether chance mistakes add up steadily enough to work as a clock. Then you follow the case of the whale, where teeth, DNA and ankle bones each pointed somewhere. You also meet a purple frog from Kerala whose nearest relatives live on islands far across the Indian Ocean.",
   "art": "A child at a table rolling a die beside a steel tumbler of numbered paper chits and a paper strip with some squares coloured in."
  },
  "outcomes": [
@@ -2937,7 +2937,7 @@
    "url": "",
    "kind": "place",
    "where": "Kolkata",
-   "why": "Its fossil galleries hold bones from the Siwalik Hills, where the fossil apes in this unit's history card were found."
+   "why": "Its fossil galleries hold bones from the Siwalik Hills, where the fossil apes in this lesson's history card were found."
   }
  ],
  "buy": [
@@ -3180,7 +3180,7 @@
    "Curriculum entry sci.evolution.family-tree-of-life.L5: how scientists build the tree of life from bodies and DNA (phylogeny), molecular clocks, and surprising cousins. Notebook items bio:48 (phylogeny and cladistics) and bio:155 (molecular evolution).",
    "ideas/by_topic/evolution-the-tree-of-life.md: the statement that evolution is a branching, ever-changing tree and not a progression, and that new evidence keeps refuting earlier understanding. Used in the first explanation, the game Tree Talk and the Whale Case. The founder's species list places whales among the even-toed hoofed mammals and tree shrews nearer to primates than to rodents. Both are used in Cousins by Looks and Who Split First?.",
    "Combined lesson sci-C4-evolution-the-tree-of-life: the experiment 'Copy, change, branch', where a die decides when a copied DNA row mutates, and the card game 'Who is closer?'. The Dice Clock Test keeps the die and asks a new question, whether the changes keep time. The story and games here are new.",
-   "Other units were checked so that nothing repeats. Counting letters to rebuild a hidden tree is in sci.classification.keys-and-kingdoms.L5, nested boxes and the chicken wing are in sci.animals.body-plans.L5, and the feature ladder is in sci.animals.vertebrate-groups.L5. This unit adds the counting of changes on rival trees, the clock and its calibration, fast and slow genes, bracket trees and time trees.",
+   "Other units were checked so that nothing repeats. Counting letters to rebuild a hidden tree is in sci.classification.keys-and-kingdoms.L5, nested boxes and the chicken wing are in sci.animals.body-plans.L5, and the feature ladder is in sci.animals.vertebrate-groups.L5. This lesson adds the counting of changes on rival trees, the clock and its calibration, fast and slow genes, bracket trees and time trees.",
    "Facts looked up on 19 Nov 2026: split dates from the TimeTree database (timetree.org), the Sarich and Wilson paper and the Ramapithecus history, the 2001 and 2007 whale papers, the purple frog paper, the Afrotheria and langur papers, the gorilla and chimpanzee genome papers, the 2012 Iceland mutation study, the 2023 comb jelly paper, the Canterbury Tales study, the Palk Bay dugong reserve, and the three video addresses."
   ],
   "science": [
@@ -3219,7 +3219,7 @@
   "context": "We have learned how family trees are built, and how chance changes in DNA can tell time. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the Dice Clock Test, nobody could say which roll would bring the next change. Yet over seventy rolls the changes piled up at a steady rate, and you told time with them. Copying mistakes in DNA arrive by chance in the same way. So the differences between your DNA and a crow's are a rough count of years. They record how long your two family lines have been apart.",
-   "habit": "We set chance against order, as if what happens by chance could never be relied on. We also treat a mistake as damage and nothing more. In this unit, each change is a chance mistake, and a large number of them is steady enough to measure time with. The steadiness belongs to the large number, not to any single event.",
+   "habit": "We set chance against order, as if what happens by chance could never be relied on. We also treat a mistake as damage and nothing more. In this lesson, each change is a chance mistake, and a large number of them is steady enough to measure time with. The steadiness belongs to the large number, not to any single event.",
    "evidence": "Strips rolled for 10, 20 and 40 rounds ended with about 3, 6 and 11 coloured squares, though no single roll could be predicted. Human and chimpanzee DNA differ at about 1.2 places in every 100, and the clock built on such counts gave a date that later fossils fitted."
   },
   "three": {

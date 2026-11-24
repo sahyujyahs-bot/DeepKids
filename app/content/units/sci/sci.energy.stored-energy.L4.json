@@ -3,12 +3,12 @@
   "title": "Stored energy: pull a band back twice as far and it stores more than twice the energy, but lift a ball twice as high and it stores only twice the energy",
   "level": 4,
   "summary": {
-    "text": "Pull a rubber band back twice as far and a bar of soap slides far more than twice as far, yet a ball dropped from twice the height only bounces twice as high. Why? In this unit you will measure both, play a card game about stores and triggers, and trace energy back to the Sun.",
+    "text": "Pull a rubber band back twice as far and a bar of soap slides far more than twice as far, yet a ball dropped from twice the height only bounces twice as high. Why? In this lesson you will measure both, play a card game about stores and triggers, and trace energy back to the Sun.",
     "art": "A bar of soap on a tiled floor in front of two pencils standing in lumps of clay with a rubber band stretched between them, and a measuring tape laid beside the soap."
   },
   "intro": {
     "hook": "Stand two pencils in clay with a rubber band round them. Put a bar of soap against the band, and pull the soap back 2 centimetres. Let go, and the soap slides away. Now pull it back 4 centimetres, twice as far. How far will it slide?",
-    "text": "Most people guess twice as far. Try it and see. Before you let go, the pulled band was holding energy. Energy that is held like this is called stored energy, and the thing that holds it is called a store. A longer pull put more energy in. In this unit you measure how much more, for a band and for a lifted ball. You also find out what holds stored energy in place, where it first came from, and why a ball bounces lower every time.",
+    "text": "Most people guess twice as far. Try it and see. Before you let go, the pulled band was holding energy. Energy that is held like this is called stored energy, and the thing that holds it is called a store. A longer pull put more energy in. In this lesson you measure how much more, for a band and for a lifted ball. You also find out what holds stored energy in place, where it first came from, and why a ball bounces lower every time.",
     "art": "A child kneeling on a tiled floor pulling a bar of soap back against a stretched rubber band between two pencils, with a ruler beside it."
   },
   "outcomes": [
@@ -2936,7 +2936,7 @@
       "ideas/by_topic/energy.md: the Potential Energy and Force Relations row (stretch a rubber band and feel the pull as stored energy, lift a weight and drop it, compress a spring, a dam holding back water, a catapult, a stretched bow, the idea that forces arise from stored potential) and the Conservation laws row (track energy changes and watch a pendulum swap height and movement). Used in the Hanging Water, Table or Floor, Soap Slider and Beat the Drop activities and in the deep truth",
       "ideas/by_topic/energy.md: the Binding energy, Fission and Fusion rows, and the SCI Card for Lise Meitner, used in the explanation on the energy in matter and in the big question on credit",
       "combined/sci-C4-energy.json: the bouncing ball that bounces lower each time, the idea that the Sun is the source of nearly all stored energy, and energy never made or destroyed. The tests, story and games here are new",
-      "The Class 3 unit on stored energy (roll-back jar, tired cell) is the base this unit goes deeper from. Its experiments and story are not repeated",
+      "The Class 3 unit on stored energy (roll-back jar, tired cell) is the base this lesson goes deeper from. Its experiments and story are not repeated",
       "No board chapter is mapped to this subtopic at Class 4. Coverage was checked against the Class 3 and Class 5 entries of the curriculum only"
     ],
     "science": [

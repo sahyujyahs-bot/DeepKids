@@ -3,12 +3,12 @@
  "title": "Soil: made from broken rock and dead plants, and mixed by worms",
  "level": 3,
  "summary": {
-  "text": "What is a handful of soil really made of? In this unit you will look at, feel and smell soil, shake it in a jar and watch it settle into layers, and test whether worm tunnels help rain soak into packed soil.",
+  "text": "What is a handful of soil really made of? In this lesson you will look at, feel and smell soil, shake it in a jar and watch it settle into layers, and test whether worm tunnels help rain soak into packed soil.",
   "art": "A child's cupped hands holding damp brown soil, with a few sand grains, a bit of dead leaf and a small pink earthworm showing, on a balcony with potted plants behind."
  },
  "intro": {
   "hook": "Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?",
-  "text": "Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this unit you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.",
+  "text": "Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this lesson you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.",
   "art": "A glass of water on a kitchen counter, half cloudy brown, with grains at the bottom and tiny dark bits floating at the top, and a steel spoon beside it."
  },
  "outcomes": [
@@ -2148,7 +2148,7 @@
     },
     {
      "t": "write",
-     "p": "Someone says, \"Rocks never change.\" Give one piece of evidence from your home or this unit that rocks do slowly change.",
+     "p": "Someone says, \"Rocks never change.\" Give one piece of evidence from your home or this lesson that rocks do slowly change.",
      "lines": 3,
      "a": "Old stone steps are worn smooth in the middle. Chalk pieces shaken in a box lost their corners and made powder. River pebbles are round.",
      "why": "A strong answer gives something the child can see, and says how it shows the rock is wearing away."
@@ -2232,7 +2232,7 @@
        "says": "Build low stone walls across the slope, so the water slows down. It is hard work, but it lasts for years."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with a reason about erosion, such as roots holding soil or walls slowing water, and admits a fair point from another side, such as the need to plant on time.",
      "why": "There is no single right answer. Each idea weighs work, time and the risk of losing topsoil."
@@ -2399,7 +2399,7 @@
        "says": "Compost them in a corner of the park, so the paths stay clean and the soil still gets them."
       }
      ],
-     "ask": "Which idea do you agree with most? Use evidence from this unit. Then say what the other side has right.",
+     "ask": "Which idea do you agree with most? Use evidence from this lesson. Then say what the other side has right.",
      "lines": 5,
      "a": "A strong answer uses humus as evidence: fallen leaves become humus that holds water and feeds the soil, and burning sends them into the air as smoke. It also admits a real point on the other side, such as tidy paths.",
      "why": "This is a real choice that cities make. Each view balances tidiness, smoke and soil."
@@ -2904,7 +2904,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/rocks-and-soil.md: SCI Card for Charles Darwin (earthworms). Darwin's worm work is told in this unit's explanations; his story is the how_we_found_out of the Decomposers unit, so this unit tells Dokuchaev's instead.",
+   "ideas/by_topic/rocks-and-soil.md: SCI Card for Charles Darwin (earthworms). Darwin's worm work is told in this lesson's explanations; his story is the how_we_found_out of the Decomposers unit, so this lesson tells Dokuchaev's instead.",
    "ideas/by_topic/planet-earth.md: experiment row (compare soil samples from different places), used for the two-jar option in the Soil Jar.",
    "Curriculum entry sci.planet-earth.soil-and-crops.L3 (covers: soil is made from rocks and dead things; worms in soil). No board chapter is listed for this level, so no board pack text was used."
   ],

@@ -3,13 +3,13 @@
  "title": "Animal life cycles: how young animals grow into adults",
  "level": 3,
  "summary": {
-  "text": "A caterpillar becomes a butterfly, but a hen's chick just grows bigger. What is the difference? In this unit you will open an egg like a scientist, look for bubbles from a shell, make life cycle wheels, and play a card game of who comes next.",
+  "text": "A caterpillar becomes a butterfly, but a hen's chick just grows bigger. What is the difference? In this lesson you will open an egg like a scientist, look for bubbles from a shell, make life cycle wheels, and play a card game of who comes next.",
   "art": "Three circles side by side: an egg, a chick and a hen. Frogspawn, a tadpole, a froglet and a frog. An egg on a curry leaf, a caterpillar, a chrysalis and a butterfly, each circle with arrows going round.",
   "context": "This card sums up the whole unit on animal life cycles in a few lines."
  },
  "intro": {
   "hook": "Here is a puzzle. A small animal lives in water. They breathe with gills, like a fish. They have a long tail and no legs. They scrape algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped them. What happened?",
-  "text": "The animal is a tadpole, and they became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.",
+  "text": "The animal is a tadpole, and they became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this lesson you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.",
   "art": "A monsoon puddle with black tadpoles wriggling in it, and on a stone at the edge, a tiny froglet with a stub of a tail.",
   "context": "This is the way into the unit: a puzzle about an animal that changes their whole body."
  },
@@ -1119,7 +1119,7 @@
        "says": "Just growing is better. A chick can run and peck from the first day. They never spend days stuck in a chrysalis, where a bird can eat them."
       }
      ],
-     "ask": "Which way of growing up do you think works better? Give a reason from this unit. Then say one thing the other view has right.",
+     "ask": "Which way of growing up do you think works better? Give a reason from this lesson. Then say one thing the other view has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, such as young and adults using different food, or a chick being ready to move at once. It also names a real cost of its own side, such as a chrysalis that cannot run away, or a hen who must find food for her chicks.",
      "why": "Both ways work, which is why both are common. Each has a cost and a benefit. Scientists still argue about why metamorphosis first began."
@@ -1963,7 +1963,7 @@
      "kid": "With a grown-up, scoop a few tadpoles into pond water. Add a slimy stone and a stick. Keep it in the shade. You are borrowing them.",
      "adult": true,
      "context": "This is the first step of Tadpole Watch. You collect a few tadpoles and set up a home for them in pond water.",
-     "parent": "Use only pond water. Tap water has chlorine, which can harm tadpoles. Five tadpoles in 5 litres is plenty, because more will dirty the water. If you cannot find tadpoles, watch the tadpole video in this unit instead, and read the story 'Where the Tails Go'."
+     "parent": "Use only pond water. Tap water has chlorine, which can harm tadpoles. Five tadpoles in 5 litres is plenty, because more will dirty the water. If you cannot find tadpoles, watch the tadpole video in this lesson instead, and read the story 'Where the Tails Go'."
     },
     {
      "id": "s2",
@@ -2747,7 +2747,7 @@
      "kid": "With a grown-up, find an egg or a tiny caterpillar. Put them with fresh leaves in a cage. You are borrowing them.",
      "adult": true,
      "context": "This is the first step of Raise a Lime Butterfly. You find a young caterpillar and set up a home for them.",
-     "parent": "Look on the newest leaves of a curry leaf, lemon or orange plant. Nursery plants often carry eggs or tiny caterpillars. If you find none, try again after a week, or watch the butterfly video in this unit instead."
+     "parent": "Look on the newest leaves of a curry leaf, lemon or orange plant. Nursery plants often carry eggs or tiny caterpillars. If you find none, try again after a week, or watch the butterfly video in this lesson instead."
     },
     {
      "id": "s2",
@@ -3689,7 +3689,7 @@
   "deep_truth": {
    "truth": "In Open an Egg like a Scientist, the egg held a yolk, a white and a spot, but no chick. If the egg is fertilised and kept warm, a chick takes shape in that spot. Their heart beats on day 2, their eyes form next, and their feathers grow from about day 9. A chick is built part by part over 21 days, from an egg that held none of those parts.",
    "habit": "We picture a tiny chick curled up in every egg, only waiting to grow bigger and hatch. Many scientists believed this too, in the 1600s and 1700s. In fact the egg holds the chick's food and a tiny spot, and the chick's parts are made one after another.",
-   "evidence": "In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this unit shows the same."
+   "evidence": "In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this lesson shows the same."
   },
   "three": {
    "who_am_i": "You also began as one tiny cell. Your body was built from the food your mother ate, and since then from your own food.",

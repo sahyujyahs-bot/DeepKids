@@ -3,12 +3,12 @@
  "title": "The pH scale, stomach acid and antacids: why does the burning go away?",
  "level": 4,
  "summary": {
-  "text": "Your stomach makes strong acid, so why does a spoonful of antacid stop the burning? In this unit you will test which powder cancels the same acid with the fewest scoops, find out if fruit salt is an acid or a base, and place liquids on the pH ladder.",
+  "text": "Your stomach makes strong acid, so why does a spoonful of antacid stop the burning? In this lesson you will test which powder cancels the same acid with the fewest scoops, find out if fruit salt is an acid or a base, and place liquids on the pH ladder.",
   "art": "A glass of pink cabbage-water acid with a hand adding a scoop of white powder, and the colour turning purple in a row of four glasses beside it."
  },
  "intro": {
   "hook": "After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The burning is in the chest, but the tablet goes down into the stomach. So how did it stop the burn?",
-  "text": "A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this unit you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.",
+  "text": "A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this lesson you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.",
   "art": "A grown-up at a wedding feast table with a banana-leaf plate, holding a hand to the chest and chewing a white tablet, with a glass of water nearby."
  },
  "outcomes": [
@@ -2743,7 +2743,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/digestion.md: the SCI Card for Barry Marshall, used for the discovery story, the challenging view about ulcers and the deep question about experts and young doctors",
    "DeepKids notebook items chem:33 (pH and titration) and chem:216 to chem:219 (foundations of acids and bases): used for pH, tenfold steps and neutralising, told simply. Strong and weak acids and buffers are left for Class 5",
-   "The Class 3 unit on acids and bases: its cabbage colour line, Lemon or Buttermilk test, Lemon and soda fizz and Lémery story are not repeated. This unit goes on to numbers, the stomach and antacids",
+   "The Class 3 unit on acids and bases: its cabbage colour line, Lemon or Buttermilk test, Lemon and soda fizz and Lémery story are not repeated. This lesson goes on to numbers, the stomach and antacids",
    "No Combined lesson on acids exists for this topic, so none was reused. Books marked reference in the open-textbook list (Chemistry 2e, Organic Chemistry) were used for facts only, and none of their text was copied"
   ],
   "science": [

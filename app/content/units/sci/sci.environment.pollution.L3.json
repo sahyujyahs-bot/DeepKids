@@ -3,12 +3,12 @@
  "title": "Pollution: what makes air, water and land dirty, and where it comes from",
  "level": 3,
  "summary": {
-  "text": "What is in the air at your window that you cannot see? In this unit you will wipe a window grill with a white cloth, catch dust on a sticky card and count the specks, and see where dust sits on a leaf.",
+  "text": "What is in the air at your window that you cannot see? In this lesson you will wipe a window grill with a white cloth, catch dust on a sticky card and count the specks, and see where dust sits on a leaf.",
   "art": "A white card with a pencil square on a window sill in a city flat, grey with tiny dark specks. Behind it, a busy road with autos and a bus, a building site with dust, and a distant haze over the buildings."
  },
  "intro": {
   "hook": "Wet a white cloth and wipe the window grill on the side that faces the road. Then wipe a shelf inside a closed cupboard. Look at the two cloths. Where did the black on the first cloth come from?",
-  "text": "Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this unit you find out what those specks are, where they come from, and where else they land, including inside your own nose.",
+  "text": "Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this lesson you find out what those specks are, where they come from, and where else they land, including inside your own nose.",
   "art": "A child's hand holding two white cloths side by side: one with a dark grey streak from a window grill, one almost clean from a cupboard shelf."
  },
  "outcomes": [
@@ -610,7 +610,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards."
+     "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this lesson's explanation cards."
     }
    ],
    "problem": "Air that looks clear still carries tiny specks. You will catch them on sticky cards and count them. One card goes in a closed dabba, so you can tell that the specks came from the air."
@@ -1895,7 +1895,7 @@
        "says": "We used to sleep under a net. No mosquitoes and no smoke."
       }
      ],
-     "ask": "Who do you agree with? Give a reason from this unit. Then say what the others have right.",
+     "ask": "Who do you agree with? Give a reason from this lesson. Then say what the others have right.",
      "lines": 5,
      "a": "A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.",
      "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. The first child is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work."
@@ -1985,7 +1985,7 @@
        "says": "Let's keep the fire small and burn only dry leaves and wood, never tyres or plastic."
       }
      ],
-     "ask": "Whose plan would you choose? Use evidence from this unit. Then say what each of the other two has right.",
+     "ask": "Whose plan would you choose? Use evidence from this lesson. Then say what each of the other two has right.",
      "lines": 6,
      "a": "A strong answer weighs the meaning of the tradition, the evidence from the sticky cards, and the smaller harm of a small, clean fire. It might choose a smokeless Bhogi or Farhan's middle way, and it respects Lakshmi's feeling for the tradition.",
      "why": "This is a real disagreement. Traditions matter to people. Smoke harms people. A small fire with no tyres or plastic makes far less harm, and a fire-free Bhogi makes none."
@@ -2121,7 +2121,7 @@
     },
     {
      "t": "write",
-     "p": "Pick one fix from this unit that costs money and one that costs nothing. Which would more families really do? Why?",
+     "p": "Pick one fix from this lesson that costs money and one that costs nothing. Which would more families really do? Why?",
      "lines": 4,
      "a": "For example: a net costs money but switching off the engine at a signal costs nothing. A strong answer weighs cost, habit and how much smoke each one really stops.",
      "why": "A strong answer is honest about what families can afford and still keeps the smoke or dust in mind."
@@ -2343,7 +2343,7 @@
    "title": "US EPA: Particulate Matter (PM) Basics",
    "url": "https://www.epa.gov/pm-pollution/particulate-matter-pm-basics",
    "kind": "interactive",
-   "why": "For the parent. A clear explanation of PM10 and PM2.5, with the hair comparison used in this unit."
+   "why": "For the parent. A clear explanation of PM10 and PM2.5, with the hair comparison used in this lesson."
   },
   {
    "title": "AirNow: AQI Basics",
@@ -2467,7 +2467,7 @@
   "founder": [
    "ideas/by_topic/caring-for-the-environment.md: Human impact (anthropogenic forcing, aerosols) row: make a DIY air filter and check collected particles (the Window Dust Filter challenge), compare air on a busy street and in a park, photograph haze at sunrise and midday (Haze Watch), 'breath audit' of indoor air (Your Nose, the Dust Catcher), 'Pollution tag' physical game, interview elders about how local air has changed",
    "ideas/by_topic/caring-for-the-environment.md: SCI Card for Rachel Carson (Silent Spring, 1962), used for the 'In nature nothing exists alone' teaching",
-   "Prerequisite unit sci.environment.caring.L3 and nearby units (sci.waste.*, sci.water.*, sci.air.air-around-us.L3) read so that experiments, stories and deep truths are not repeated: this unit's sticky cards, leaf wipe and soil filter are new"
+   "Prerequisite unit sci.environment.caring.L3 and nearby units (sci.waste.*, sci.water.*, sci.air.air-around-us.L3) read so that experiments, stories and deep truths are not repeated: this lesson's sticky cards, leaf wipe and soil filter are new"
   ],
   "science": [
    "Patterson, 'Age of meteorites and the earth', Geochimica et Cosmochimica Acta, 1956",

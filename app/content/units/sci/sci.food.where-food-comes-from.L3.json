@@ -3,12 +3,12 @@
  "title": "Where food comes from: tracing a meal back to plants and the Sun",
  "level": 3,
  "summary": {
-  "text": "Curd comes from milk, milk comes from a cow, and a cow eats grass. So where does your dinner really start? In this unit you will sort foods by where they come from, turn milk into curd, sprout moong, and trace a meal back to the Sun.",
+  "text": "Curd comes from milk, milk comes from a cow, and a cow eats grass. So where does your dinner really start? In this lesson you will sort foods by where they come from, turn milk into curd, sprout moong, and trace a meal back to the Sun.",
   "art": "A child's steel thali in the middle of the page, with dotted lines running out from each food to where it came from: a rice field, a cow, a mango tree, a beehive, a tiny curd bacterium under a magnifier, a salt pan by the sea, and at the top of every line, the Sun."
  },
  "intro": {
   "hook": "Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?",
-  "text": "Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This unit follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.",
+  "text": "Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This lesson follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.",
   "art": "A chapati on a plate with a long winding path behind it going back through a shop, a flour mill, a wheat field and a single wheat seed, ending at a bright Sun."
  },
  "outcomes": [
@@ -1389,7 +1389,7 @@
        "says": "Curd is a plant food, because the cow made the milk from grass."
       }
      ],
-     "ask": "Which person do you agree with most? Give a reason from this unit. Then say what another person has right.",
+     "ask": "Which person do you agree with most? Give a reason from this lesson. Then say what another person has right.",
      "lines": 5,
      "a": "A strong answer picks one and backs it up, for example with the Milk to Curd test, where milk with no curd added stayed runny. It then admits that the others are right too, because curd needs a plant, an animal and microbes.",
      "why": "All three are partly right. Curd needs grass that grew in sunlight, a cow who made milk, and bacteria who turned the milk sour and thick. The strength is in the reasons."
@@ -3830,7 +3830,7 @@
    {
     "source": "Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli)",
     "teaching": "The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.'",
-    "link": "In this unit, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.",
+    "link": "In this lesson, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.",
     "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति", "अहमन्नमहमन्नमहमन्नम्"],
     "verse_lang": "sa"
    },

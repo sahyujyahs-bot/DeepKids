@@ -3,12 +3,12 @@
  "title": "Day and night: why the Sun reaches Guwahati before Mumbai",
  "level": 4,
  "summary": {
-  "text": "The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this unit you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.",
+  "text": "The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this lesson you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.",
   "art": "A map of India with five glowing clock faces from Guwahati in the east to Mumbai in the west, each showing a time a little later than the one before."
  },
  "intro": {
   "hook": "Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?",
-  "text": "The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this unit you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.",
+  "text": "The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this lesson you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.",
   "art": "A phone screen showing two sunrise times, Guwahati and Mumbai, more than an hour apart, held in front of a globe of India."
  },
  "outcomes": [
@@ -638,7 +638,7 @@
    "title": "Night Shift: how does this animal find the way in the dark?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a guessing game about animals that are awake at night. Each card names an animal and a problem. You guess which of six senses or tools solves it.",
+   "context": "This is a guessing game about animals that are awake at night. Each card names an animal and a problem. You guess which of your senses or tools solves it.",
    "setup": [
     {
      "art": "Twenty cards in a shuffled pile in the middle of a table, with six tokens in front of each player.",
@@ -2926,7 +2926,7 @@
  "song": {
   "topic_level": "sci.day-night-seasons.L4",
   "title": "Turning Into the Light",
-  "note": "Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the topic."
+  "note": "Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the idea."
  },
  "links": [
   {
@@ -3104,7 +3104,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/day-night-seasons-and-rhythms-of-nature.md: the ideas of keeping a record over time, photographing the same view, tracking the Sun and stars, and the science journal pages 'Time Tracker - India, Countries' (journal pages 119 and 120), used in the Five Noons test and the Star Gate project",
    "The Combined Class 4 lesson sci-C4-day-night-seasons-and-rhythms-of-nature, reworked here: the speed of the spin, days on other planets, the lengthening day and fossil corals, the night watch and light pollution",
-   "The Class 3 unit on Day and night, which this unit builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock",
+   "The Class 3 unit on Day and night, which this lesson builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock",
    "Cambridge Stage 4 section 5.5 'Day and night', for coverage only. Its text is not copied"
   ],
   "science": [

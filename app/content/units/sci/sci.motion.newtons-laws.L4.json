@@ -3,12 +3,12 @@
  "title": "Newton's second law: why the same push moves a light cart fast and a heavy cart slowly",
  "level": 4,
  "summary": {
-  "text": "A cart pulled by a heavy bag shoots across the table, but the same pull moves a loaded cart slowly. In this unit you will test a cart pulled by a hanging bag, time a cart on a ramp, and drop a book and paper to see how heavy and light things fall.",
+  "text": "A cart pulled by a heavy bag shoots across the table, but the same pull moves a loaded cart slowly. In this lesson you will test a cart pulled by a hanging bag, time a cart on a ramp, and drop a book and paper to see how heavy and light things fall.",
   "art": "A toy cart on a table with a thread running over the table edge to a hanging bag of water, and a water bottle strapped on the cart. Two arrows show the pull and the load."
  },
  "intro": {
   "hook": "Give a toy cart one small tug, and it rolls a little way. Give it a tug four times as big, and it zooms. Now strap a full water bottle on the cart and tug as before. It hardly moves. The cart, the floor and your hand are the same. What made the difference, and can you work out how much?",
-  "text": "The size of the tug changed how quickly the cart's motion changed. The load changed it too, in the opposite way. In this unit you measure both with a cart pulled by a hanging bag of water. Then you find the rule Isaac Newton wrote in 1687, called his second law of motion. You use it to see why a heavy lorry needs a long road to stop, why a feather and a hammer fall together on the Moon, why pulling your hands back makes a catch gentler, and why a rocket speeds up faster as it gets lighter.",
+  "text": "The size of the tug changed how quickly the cart's motion changed. The load changed it too, in the opposite way. In this lesson you measure both with a cart pulled by a hanging bag of water. Then you find the rule Isaac Newton wrote in 1687, called his second law of motion. You use it to see why a heavy lorry needs a long road to stop, why a feather and a hammer fall together on the Moon, why pulling your hands back makes a catch gentler, and why a rocket speeds up faster as it gets lighter.",
   "art": "A child holding a thread that pulls a small cart with a water bottle on it across a table, while an empty cart zooms ahead with the same thread."
  },
  "outcomes": [
@@ -3239,7 +3239,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/forces-and-movement.md, 'Concept activities: Newton's Laws of Motion': measure acceleration of a toy car with different weights (the Hanging Bag Cart and the Ramp Surprise), throw balls of different masses and note the effort (Empty or Full), push a chair and feel resistance (Empty or Full), watch rockets (the rocket explanation); notebook item phy:186",
-   "The Level 3 unit on inertia (sci.motion.newtons-laws.L3), which this unit builds on and does not repeat: its walking drop, egg, rolling distance and train stories are not used here",
+   "The Level 3 unit on inertia (sci.motion.newtons-laws.L3), which this lesson builds on and does not repeat: its walking drop, egg, rolling distance and train stories are not used here",
    "Nearby units checked so the experiments are new: sci.forces.changing-motion.L3, sci.forces.push-and-pull.L3 (third law), sci.gravity.falling.L3 (falling together), sci.gravity.weight-and-mass.L3 (mass and weight)"
   ],
   "science": [

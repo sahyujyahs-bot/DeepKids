@@ -3,12 +3,12 @@
  "title": "Friction: the grip that works against sliding",
  "level": 3,
  "summary": {
-  "text": "Why does your chappal not slip on the road, and why does a rolling ball stop? In this unit you will test which shoe sole grips best on a slope, pull stacked books apart, find what makes a surface slippery, and hunt for friction at home.",
+  "text": "Why does your chappal not slip on the road, and why does a rolling ball stop? In this lesson you will test which shoe sole grips best on a slope, pull stacked books apart, find what makes a surface slippery, and hunt for friction at home.",
   "art": "A split picture: on the left a child's shoe gripping a stone step (tiny zigzag bumps meeting under a magnifying glass); on the right the same shoe sliding on wet ice, arms flailing."
  },
  "intro": {
   "hook": "Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?",
-  "text": "Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.",
+  "text": "Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this lesson, you will know. It has to do with friction, the grip between things that touch.",
   "art": "The tomb painting idea: rows of men pulling ropes, a giant statue on a sledge, one small figure at the front pouring water from a jar onto the sand."
  },
  "outcomes": [
@@ -589,7 +589,7 @@
    "hint": "Try the same chappal on two different floors. Then try two different chappals on the same floor."
   },
   {
-   "q": "In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The pullers laugh at the man who pours water on the sand. Yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
+   "q": "In this lesson's story, workers in ancient Egypt drag a giant statue across the sand. The pullers laugh at the man who pours water on the sand. Yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
    "kind": "big",
    "hint": "Think of your family or school today. Whose small job made everything easier?"
   },
@@ -2055,7 +2055,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: just-damp sand is easiest for the sledge. What I saw: dry sand needed 6 newtons and piled up in front of the box. Damp sand needed only 3 newtons. Soaked sand turned to mud. Why: a little water holds the sand grains together, so the box slides on top instead of digging in."
     }
    ],
-   "context": "In this unit's story, a giant stone statue is dragged on a sledge in ancient Egypt. A man walks ahead of it pouring water on the sand in front of it. In this experiment, you test whether wet sand really helps.",
+   "context": "In this lesson's story, a giant stone statue is dragged on a sledge in ancient Egypt. A man walks ahead of it pouring water on the sand in front of it. In this experiment, you test whether wet sand really helps.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: pull needed on three kinds of sand",
@@ -3455,7 +3455,7 @@
    "url": "https://nehruplanetarium.org/",
    "kind": "place",
    "where": "New Delhi",
-   "why": "Shows about the Moon, the Earth and the sky. Good for the part of this unit about tides and the slowing Earth."
+   "why": "Shows about the Moon, the Earth and the sky. Good for the part of this lesson about tides and the slowing Earth."
   }
  ],
  "buy": [

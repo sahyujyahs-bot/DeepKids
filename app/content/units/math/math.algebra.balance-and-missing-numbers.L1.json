@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "Left pan: 3 coins and 2 coins. Right pan: 4 coins and 1 coin. Will the balance tip?",
-  "text": "No. The balance stays level. 3 and 2 make 5. 4 and 1 also make 5. The two sides look different, but they are the same amount. We write it like this: 3 + 2 = 4 + 1. The sign = is called the equals sign. It means 'is the same as'. In this unit you will test this yourself, with a balance made from a clothes hanger.",
+  "text": "No. The balance stays level. 3 and 2 make 5. 4 and 1 also make 5. The two sides look different, but they are the same amount. We write it like this: 3 + 2 = 4 + 1. The sign = is called the equals sign. It means 'is the same as'. In this lesson you will test this yourself, with a balance made from a clothes hanger.",
   "art": "A pan balance drawn from the front, with a group of 3 coins and a group of 2 coins in the left pan and a group of 4 coins and 1 coin in the right pan.",
   "chart": {
    "type": "dots",

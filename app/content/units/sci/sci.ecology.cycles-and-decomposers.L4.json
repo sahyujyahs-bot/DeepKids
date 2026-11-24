@@ -3,12 +3,12 @@
  "title": "Where does the log go? How dead things return to the air and the soil",
  "level": 4,
  "summary": {
-  "text": "A fallen log slowly vanishes. Where does it go? In this unit you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.",
+  "text": "A fallen log slowly vanishes. Where does it go? In this lesson you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.",
   "art": "A fallen coconut palm trunk in a Kerala yard, half soft and covered with mushrooms, with a young banana plant growing beside it."
  },
  "intro": {
   "hook": "A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?",
-  "text": "A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.",
+  "text": "A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this lesson you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.",
   "art": "A child kneeling by a rotting palm trunk with a notebook, and a mushroom shelf growing out of the wood."
  },
  "outcomes": [
@@ -1232,7 +1232,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this unit: scavenger, detritivore, decomposer.",
+     "do": "For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this lesson: scavenger, detritivore, decomposer.",
      "say": "Who would eat this? Is it a scavenger, a detritivore or a decomposer? What would be left at the end?",
      "kid": "Guess who eats each leftover, then fill in the table.",
      "ask": [
@@ -1301,7 +1301,7 @@
    ],
    "record": "A tally chart of every creature who came to eat, with their name or a photo, and how many times.",
    "safety": "Watch from a window or a safe distance. Do not lean out of a balcony or window. Never feed or touch street animals, and do not go near a bin or dropped food outdoors. Do not put food where monkeys or stray dogs can come into the house.",
-   "context": "In this activity, you watch one spot for ten minutes and count who comes to clean up the food. You will find out who cleans up outside when no one is looking. You sort them into the crews from this unit.",
+   "context": "In this activity, you watch one spot for ten minutes and count who comes to clean up the food. You will find out who cleans up outside when no one is looking. You sort them into the crews from this lesson.",
    "setup": [
     {
      "art": "A window view of a street corner with a scatter of vegetable waste and a rubbish bin.",
@@ -1952,7 +1952,7 @@
        "says": "A rotting peel is a meal. Flies, mould and bacteria are eating it, and the rest will feed the soil."
       }
      ],
-     "ask": "Whose view do you agree with more? What evidence from this unit supports your choice?",
+     "ask": "Whose view do you agree with more? What evidence from this lesson supports your choice?",
      "a": "Answers vary. A strong answer picks a side, says why, and uses a fact such as: the peel is a meal for decomposers, or it can carry germs, so wash hands.",
      "why": "Both views are true in a way. The peel is a meal for the cleanup crew, and it can carry germs that make people ill. The idea of waste depends on who is looking.",
      "outcome": 2
@@ -2687,9 +2687,9 @@
  "sources": {
   "founder": [
    "ideas/by_topic/microorganisms.md: the founder's notes on fungi (threads that grow at the tip, fungi among the first life on land), used for the fungus explanations",
-   "The Class 3 unit on decomposers, which this unit builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew",
+   "The Class 3 unit on decomposers, which this lesson builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew",
    "The Class 3 units on photosynthesis and on respiration in animals, whose limewater method is reused for the Breathing Soil test",
-   "curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this unit prepares for"
+   "curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this lesson prepares for"
   ],
   "science": [
    "Oaks, J. L. and 12 others, 'Diclofenac residues as the cause of vulture population decline in Pakistan', Nature 427, 630-633 (2004)",

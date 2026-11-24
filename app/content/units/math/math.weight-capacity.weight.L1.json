@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "One lemon. Five groundnuts. Look at the balance. Which side is heavier?",
-  "text": "The lemon is heavier. Its side of the balance has gone down. There are more groundnuts, but more things does not always mean heavier. A balance does not count. It only shows which side is pulled down harder. In this unit you will make a balance from a clothes hanger. You will guess with your hands first, and then let the balance check.",
+  "text": "The lemon is heavier. Its side of the balance has gone down. There are more groundnuts, but more things does not always mean heavier. A balance does not count. It only shows which side is pulled down harder. In this lesson you will make a balance from a clothes hanger. You will guess with your hands first, and then let the balance check.",
   "art": "A balance drawn from the front, tipped down on the left, with one lemon in the low left pan and five groundnuts in the high right pan.",
   "chart": {
    "type": "balance",
@@ -2879,7 +2879,7 @@
    "channel": "TheDadLab",
    "youtube": "tK8mSIEtTUw",
    "mins": 3,
-   "why": "For the parent: shows how to make a balance from a clothes hanger, like the one in this unit.",
+   "why": "For the parent: shows how to make a balance from a clothes hanger, like the one in this lesson.",
    "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Its balance may be built a little differently from ours."
   }
  ],
@@ -3403,7 +3403,7 @@
  "sources": {
   "founder": [
    "MATHS.md, the four threads: the human side of measuring (Roots, a1 the Two Boxes Surprise, the card 'Your hands can be fooled'), maths in life (a2 dough in the kitchen, a3 two bags from the market, the story), everyone does maths (a4 Pick Like a Squirrel, the squirrel and crow card, spotted), the universe and everyday life (the card 'On the Moon, a level balance stays level', maths problem 5, applications).",
-   "curriculum/math.json, math.weight-capacity.weight.L1: heavier and lighter, balancing. The Level 2 unit orders three or more things and weighs with units, so this unit stays with pairs and saves ordering for one stretch puzzle."
+   "curriculum/math.json, math.weight-capacity.weight.L1: heavier and lighter, balancing. The Level 2 unit orders three or more things and weighs with units, so this lesson stays with pairs and saves ordering for one stretch puzzle."
   ],
   "science": [
    "Charpentier, A. (1891), the first tests of what is now called the size-weight illusion. English translation and commentary: Murray, D. J., Ellis, R. R., Bandomir, C. A. and Ross, H. E. (1999). Charpentier (1891) on the size-weight illusion. Perception and Psychophysics 61. (Found on PubMed. Author list of the translation written from memory.)",

@@ -3,12 +3,12 @@
  "title": "Nerves and hormones: the body's fast messages and slow messages",
  "level": 4,
  "summary": {
-  "text": "Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this unit you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.",
+  "text": "Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this lesson you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.",
   "art": "A child of nine pulling her hand back from a hot steel pot, with a thin yellow line drawn from her fingertip up her arm to her backbone and back to her arm muscle."
  },
  "intro": {
   "hook": "You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?",
-  "text": "A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this unit you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.",
+  "text": "A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this lesson you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.",
   "art": "A bare foot lifting off a small plastic toy brick on a dark floor, with a child's surprised face above."
  },
  "outcomes": [
@@ -3000,7 +3000,7 @@
  },
  "sources": {
   "founder": [
-   "Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This unit takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.",
+   "Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This lesson takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.",
    "Founder's SCI Card on Candace Pert (receptors as locks that only certain molecules fit) gave the lock and key picture used for hormone receptors here.",
    "Other units were read so that nothing repeats. The Ruler Drop and the Helmholtz story are in sci.senses.five-senses.L4. The knee kick Stop Test is in sci.animal-behaviour.born-knowing.L2. Pulse after a fright or exercise is in sci.body.heart-blood-breath.L4, sci.body.organs-inside.L4 and sci.body.keeping-balance.L4. The pupil tests are in the light units. Insulin and the Sugar See-Saw are in sci.body.keeping-balance.L4. None of these is used here."
   ],
@@ -3037,7 +3037,7 @@
   "art": "A laboratory of 1902 with two men in waistcoats at a bench, glass tubes and a brass clock, and a drawing on the wall of a loop of gut joined to the body only by blood vessels."
  },
  "roots": {
-  "context": "In this unit you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.",
+  "context": "In this lesson you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.",
   "deep_truth": {
    "truth": "In the Lemon Test, your mouth watered within seconds of the juice touching your tongue. In the Water Message Test, your kidneys answered the drink many minutes later. So the parts of your body get news at different times. There is no single moment when all of you knows something.",
    "habit": "We picture ourselves as one knower in the head. This knower learns each thing at one moment and then tells the body. But the saliva glands, the spinal cord and the kidneys each receive messages and answer on their own time.",
@@ -3053,7 +3053,7 @@
    {
     "source": "Chandogya Upanishad 5.1.6 to 5.1.15",
     "teaching": "Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay.",
-    "link": "The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This unit found the same thing in the way the parts send and answer messages.",
+    "link": "The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This lesson found the same thing in the way the parts send and answer messages.",
     "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
     "verse_lang": "sa"
    },

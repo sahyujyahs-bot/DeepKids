@@ -3,12 +3,12 @@
  "title": "What plants need: light and water",
  "level": 1,
  "summary": {
-  "text": "Why is the inside of a cabbage pale when the outside is green? In this unit you will look at a cabbage, grow three plates of methi (dry, in light and in the dark) and watch for a few days, and play a green or yellow game.",
+  "text": "Why is the inside of a cabbage pale when the outside is green? In this lesson you will look at a cabbage, grow three plates of methi (dry, in light and in the dark) and watch for a few days, and play a green or yellow game.",
   "art": "Three steel plates on a sunny windowsill: one with dry methi seeds, one with small green sprouts, and one half-hidden under an upturned steel bowl."
  },
  "intro": {
   "hook": "Peel a cabbage, one leaf at a time. The outside leaves are green. The leaves deep inside are pale, almost white. Why?",
-  "text": "It is the same cabbage, and the same plant. But the inside leaves grew wrapped up in the dark. The outside leaves grew in the sunlight. So does a plant need light to be green? And what else does a plant need? In this unit we grow methi seeds in the light and in the dark, and with and without water, and we watch what happens.",
+  "text": "It is the same cabbage, and the same plant. But the inside leaves grew wrapped up in the dark. The outside leaves grew in the sunlight. So does a plant need light to be green? And what else does a plant need? In this lesson we grow methi seeds in the light and in the dark, and with and without water, and we watch what happens.",
   "art": "A child's hands holding a cabbage cut in half, with green outer leaves and pale yellow-white leaves in the middle."
  },
  "outcomes": [
@@ -1743,7 +1743,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this unit already has a seedling dance."
+   "ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this lesson already has a seedling dance."
   ],
   "science": [
    "Etiolation and de-etiolation: seedlings grown in the dark are pale yellow with long stems and closed seed leaves, and turn green within hours to a day in light. Any plant physiology textbook (for example Taiz and Zeiger, Plant Physiology).",

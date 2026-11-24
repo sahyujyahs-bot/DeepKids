@@ -3,12 +3,12 @@
  "title": "Adaptations: how living things are suited to heat, cold, water and darkness",
  "level": 3,
  "summary": {
-  "text": "A camel can go for days in the Thar Desert without a drink. How? In this unit you will test which wet paper towel keeps its water longest, see if ice cubes melt slower when huddled together, and play a game of which animal survives which place.",
+  "text": "A camel can go for days in the Thar Desert without a drink. How? In this lesson you will test which wet paper towel keeps its water longest, see if ice cubes melt slower when huddled together, and play a game of which animal survives which place.",
   "art": "A picture split into four: a camel resting in Thar sand under a hot sun, a snow leopard on a snowy Ladakh rock with their long tail wrapped round them, a duck paddling with webbed feet, and a pale cave fish in a dark cave pool."
  },
  "intro": {
   "hook": "Look at the washing on your line. A shirt pegged out flat dries by lunch. A towel left bundled up in a bucket is still damp at night. Both got just as wet. So why does one dry so much more slowly? What do you think?",
-  "text": "A cactus in a hot desert has the same problem as the washing. Water slowly escapes from the cactus into the dry air. A cactus that loses water too fast dries up and dies. In this unit you find out how a cactus keeps their water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.",
+  "text": "A cactus in a hot desert has the same problem as the washing. Water slowly escapes from the cactus into the dry air. A cactus that loses water too fast dries up and dies. In this lesson you find out how a cactus keeps their water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.",
   "art": "A balcony washing line with a shirt pegged out flat in the sun, and below it a bucket with a damp towel bundled up inside."
  },
  "outcomes": [
@@ -205,7 +205,7 @@
    "description": "A snow leopard's body is warm inside, and the air around it in winter can be far below freezing. Heat always moves from a warm place to a cold place. So the snow leopard's problem is that heat escapes from their body all the time, through their skin. Their thick fur is insulation. The fur traps still air between its hairs, and the still air slows the heat down. Their long, thick tail is almost as long as their body. When they rest, they wrap the tail round their body and face like a scarf. Their wide, furry paws spread their weight on the snow, and fur under the paws keeps them warm. Their ears are small and round, so little heat escapes from them. Yaks in Ladakh have long, shaggy hair that hangs almost to the ground, with soft wool underneath. Changthangi goats on the cold Changthang plateau of Ladakh grow a fine, soft underwool in winter. People comb it out in spring and spin it into pashmina. Whales and seals have blubber, a thick layer of fat under the skin. Curling up and huddling help too. A dog sleeping on a cold night curls into a ball and tucks their nose under their tail. Emperor penguins in the Antarctic winter crowd together in a huddle. The middle of a huddle can be warmer than 20 degrees Celsius while the wind outside is far below freezing. The birds keep shuffling, so each one takes turns on the cold outside.",
    "examples": [
     "Pigeons puff up their feathers on a cold morning. The thicker coat traps more still air.",
-    "In the huddle test in this unit, ice cubes huddled together melted more slowly than ice cubes spread apart.",
+    "In the huddle test in this lesson, ice cubes huddled together melted more slowly than ice cubes spread apart.",
     "Mountain animals, like the Himalayan marmot, sleep through the coldest months in burrows. This deep winter sleep is called hibernation."
    ],
    "perspectives": [],
@@ -1595,7 +1595,7 @@
      "do": "Read out the five places and let your child pick one. The places are the Thar Desert at noon, a Ladakh winter night, a mangrove, a cave and a pond.",
      "say": "Pick a place. What problems would a living thing have there? Let's list them first.",
      "kid": "Pick a place: desert, snowy mountain, mangrove, cave or pond.",
-     "context": "This is the first step of Design an Animal. You invent a living thing for one of the hard places in this unit."
+     "context": "This is the first step of Design an Animal. You invent a living thing for one of the hard places in this lesson."
     },
     {
      "id": "s2",
@@ -1662,7 +1662,7 @@
     {
      "day": 3,
      "mins": 20,
-     "what": "Add three living things from books or this unit, from hot, cold, water and dark places. Make a page for each and share your notebook."
+     "what": "Add three living things from books or this lesson, from hot, cold, water and dark places. Make a page for each and share your notebook."
     }
    ],
    "record": "One page for each living thing: their name, their problem, their feature, and how the feature helps. Add a drawing or a photo if you like.",
@@ -1687,9 +1687,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Choose three more living things from this unit, from hot, cold, wet or dark places. 2. Make a page for each. 3. Share the whole notebook with someone at home.",
+     "do": "1. Choose three more living things from this lesson, from hot, cold, wet or dark places. 2. Make a page for each. 3. Share the whole notebook with someone at home.",
      "say": "Now let's add three from far away. Can you explain each one, starting with their problem?",
-     "kid": "Add three more from this unit. Hot, cold, water or dark. Then show your notebook to someone.",
+     "kid": "Add three more from this lesson. Hot, cold, water or dark. Then show your notebook to someone.",
      "check": {
       "t": "mcq",
       "q": "Which is the best way to explain an adaptation?",
@@ -2414,7 +2414,7 @@
     },
     {
      "t": "write",
-     "p": "Choose one animal from this unit. Write their problem first, then their feature, then how the feature helps.",
+     "p": "Choose one animal from this lesson. Write their problem first, then their feature, then how the feature helps.",
      "a": "For example: Ladakh is freezing. The snow leopard has thick fur. The fur traps still air, which slows down heat escaping from their body.",
      "why": "A full answer has all three parts: problem, feature and how it helps.",
      "lines": 4
@@ -2473,7 +2473,7 @@
        "says": "Plant both. The cactus survives when water is short, and the neem gives shade when there is enough water."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses the idea that every adaptation has a cost: a cactus saves water but gives no shade and grows slowly, while a neem tree needs more water. It then admits a fair point from another view.",
      "why": "There is a real trade-off. Saving water and giving shade pull in different directions, so the best choice depends on how much water the school has."
@@ -3001,8 +3001,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/habitats-and-adaptation.md: read for this unit; its rows are mostly about ocean and air, so little was taken. Notebook items bio:124 and bio:125 are listed in the curriculum mapping.",
-   "DeepKids Combined lesson sci-C4-habitats-and-adaptation, experiment 'Three leaves in the sun' (flat, rolled and coated paper towels): taken as this unit's main investigation, with a milk-packet plastic coat in place of petroleum jelly on wet paper, and the tissue touch test.",
+   "ideas/by_topic/habitats-and-adaptation.md: read for this lesson; its rows are mostly about ocean and air, so little was taken. Notebook items bio:124 and bio:125 are listed in the curriculum mapping.",
+   "DeepKids Combined lesson sci-C4-habitats-and-adaptation, experiment 'Three leaves in the sun' (flat, rolled and coated paper towels): taken as this lesson's main investigation, with a milk-packet plastic coat in place of petroleum jelly on wet paper, and the tissue touch test.",
    "DeepKids Combined lessons sci-C2 and sci-C5 habitats-and-adaptation (cactus, lotus, camel, snow leopard; adaptation versus acclimatisation; every adaptation is a trade-off): ideas reworked here.",
    "Nearby units read so as not to repeat them: sci.habitats.habitats.L3 (curd bacteria, hydrothermal vents), sci.animals.vertebrate-groups.L3 (fur coat test, big and small bottles), sci.body.keeping-balance.L3 (sweaty tumbler, matka), sci.making-things.biomimicry.L3 (lotus leaf), sci.materials.using-materials.L3 (woollen sock)."
   ],

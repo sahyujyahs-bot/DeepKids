@@ -3,12 +3,12 @@
  "title": "Lungs, gills, air tubes and hearts: how different animal bodies bring oxygen to their cells",
  "level": 5,
  "summary": {
-  "text": "A litre of air holds about 26 times as much oxygen as a litre of pond water. So why does a fish die in air, with so much oxygen all round? And why can you never breathe out all the air in your lungs? In this unit you will watch a paintbrush to see what air does to a gill. You will run the Half-Breath Test with two tumblers to find how many breaths it takes to change the air in a lung. You will also compare the hearts of a fish, a frog and a human, and meet animals whose blood is not shut inside tubes.",
+  "text": "A litre of air holds about 26 times as much oxygen as a litre of pond water. So why does a fish die in air, with so much oxygen all round? And why can you never breathe out all the air in your lungs? In this lesson you will watch a paintbrush to see what air does to a gill. You will run the Half-Breath Test with two tumblers to find how many breaths it takes to change the air in a lung. You will also compare the hearts of a fish, a frog and a human, and meet animals whose blood is not shut inside tubes.",
   "art": "A girl holding a wet paintbrush over a tumbler of water, with two tumblers of brown and clear water on the table and a notebook sketch of a fish and a pair of lungs."
  },
  "intro": {
   "hook": "Air has far more oxygen in it than water has. A fish lifted out of a pond is surrounded by oxygen. So why does the fish suffocate?",
-  "text": "Every cell of every animal needs oxygen, and every animal has to bring that oxygen in from outside. A fish takes oxygen from water with gills. You take it from air with lungs. A grasshopper takes air in through small holes along the sides of the body, and the blood plays almost no part. These are different answers to one problem. In this unit you will test a model gill and a model lung with your own hands. Then you will follow the oxygen into the blood and round the body, in your own body and in the bodies of other animals.",
+  "text": "Every cell of every animal needs oxygen, and every animal has to bring that oxygen in from outside. A fish takes oxygen from water with gills. You take it from air with lungs. A grasshopper takes air in through small holes along the sides of the body, and the blood plays almost no part. These are different answers to one problem. In this lesson you will test a model gill and a model lung with your own hands. Then you will follow the oxygen into the blood and round the body, in your own body and in the bodies of other animals.",
   "art": "A split picture: a rohu fish under water with red gills showing behind an open gill cover, and the same kind of fish lying on a wet banana leaf with a large question mark above."
  },
  "outcomes": [
@@ -2347,7 +2347,7 @@
        "says": "It depends on the life the animal leads. A four-chambered heart suits a warm, busy body on land."
       }
      ],
-     "ask": "Which view do you agree with most? Give one reason from this unit. Then say one thing that is right in another view.",
+     "ask": "Which view do you agree with most? Give one reason from this lesson. Then say one thing that is right in another view.",
      "a": "Any view with a reason from the unit. For example: blood loses its push in the gills, which matters little to a fish in water. But a bird could not fly over mountains with a single loop.",
      "why": "Each view has something right. A strong answer names what the second pump gives and what it costs, and says for whom.",
      "outcome": 4
@@ -2553,7 +2553,7 @@
        "says": "Counting breaths tells me how ill a child is. Whatever happens to the air inside, the count is real and useful."
       }
      ],
-     "ask": "Which view do you agree with most? Give one reason from this unit. Then say one thing that is right in another view.",
+     "ask": "Which view do you agree with most? Give one reason from this lesson. Then say one thing that is right in another view.",
      "a": "Any view with a reason from the unit. For example: in the Half-Breath Test the water never came from one pour only, so the air inside is shared between breaths. But the movements of the chest can still be counted.",
      "why": "Each view has something right. The movements of breathing are separate, and the air inside is mixed. A strong answer says which of the two it is talking about.",
      "outcome": 1
@@ -3259,8 +3259,8 @@
   "founder": [
    "Founder's notebook, items bio:21, 'Circulatory systems (open vs closed, vertebrate heart)', and bio:22, 'Respiratory systems', which this subtopic is mapped to.",
    "Founder's topic notes for body parts and skeleton (ideas/by_topic/body-parts-and-skeleton.md): the 'Pulse Party' and 'Cooling Cloud' breath activities, which are the root of the breath-watching practice in Roots, and the evolution pages on early animals whose bodies let water circulate through them.",
-   "DeepKids Combined lesson sci-C5 on body parts and skeleton: lungs, the diaphragm and the alveoli, the heart pumping blood round in a circle, arteries and veins. This unit takes those as known and goes on to other animals' bodies.",
-   "The Level 3 and Level 4 units of this subtopic, and the Level 4 unit on invertebrates, were read so that this unit builds on them. The pulse tests, the bottle lung, the surface-area tests and the jelly cubes are not repeated here."
+   "DeepKids Combined lesson sci-C5 on body parts and skeleton: lungs, the diaphragm and the alveoli, the heart pumping blood round in a circle, arteries and veins. This lesson takes those as known and goes on to other animals' bodies.",
+   "The Level 3 and Level 4 units of this subtopic, and the Level 4 unit on invertebrates, were read so that this lesson builds on them. The pulse tests, the bottle lung, the surface-area tests and the jelly cubes are not repeated here."
   ],
   "science": [
    "Krogh A., Krogh M. (1910). On the tensions of gases in the arterial blood. Skandinavisches Archiv für Physiologie 23: 179-192. One of the seven papers of 1910.",
@@ -3289,7 +3289,7 @@
   "art": "A woman in a long skirt and a man in a waistcoat in a 1910 laboratory, one breathing into a glass tube while the other reads a fine glass instrument on the bench."
  },
  "roots": {
-  "context": "In this unit you found that one breath changes only part of the air in a lung. Here we ask what that tells us about breathing, and about counting things as separate.",
+  "context": "In this lesson you found that one breath changes only part of the air in a lung. Here we ask what that tells us about breathing, and about counting things as separate.",
   "deep_truth": {
    "truth": "In the Half-Breath Test, the tumbler was still brown after one pour, and after five. Each pour took out only part of the old water and stirred new water in. Your lungs have one opening too, and a quiet breath changes only about one seventh of their air. So the air deep in your lungs is always a mixture of many breaths.",
    "habit": "We count breaths as separate things, one after another, each going in and then coming out. We picture a lung as a bag that fills with new air and then empties. But a lung never empties, so every breath is stirred into the ones before it.",
@@ -3315,7 +3315,7 @@
    {
     "source": "Anapanasati Sutta, Majjhima Nikaya 118",
     "teaching": "The Buddha teaches a person to breathe with full attention. Breathing in long, the person knows, 'I am breathing in long.' Breathing out short, the person knows, 'I am breathing out short.'",
-    "link": "The teaching asks you to know each breath closely, without changing it. When you try, you can look for the exact moment where one breath ends and the next begins. The science of this unit says that inside the lungs there is no such sharp line."
+    "link": "The teaching asks you to know each breath closely, without changing it. When you try, you can look for the exact moment where one breath ends and the next begins. The science of this lesson says that inside the lungs there is no such sharp line."
    }
   ],
   "science": [

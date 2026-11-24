@@ -3,12 +3,12 @@
   "title": "Soil, water and crops: how soil holds water for roots, and why a field of beans feeds the next crop",
   "level": 4,
   "summary": {
-    "text": "Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this unit you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.",
+    "text": "Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this lesson you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.",
     "art": "A kitchen counter with three clear cups of sand, gravel and fine soil standing in a shallow tray of blue water, with the water line climbing different heights in each cup, and a bean plant with knobbly roots lying beside them."
   },
   "intro": {
     "hook": "Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?",
-    "text": "Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this unit you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.",
+    "text": "Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this lesson you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.",
     "art": "A child's hand dipping the corner of a dry cloth into a steel bowl of water, with a dark wet line climbing up the cloth, and a pot of soil with a mulch of dry leaves beside the bowl."
   },
   "outcomes": [
@@ -508,7 +508,7 @@
     ]
   },
   "roots": {
-    "context": "In this unit water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.",
+    "context": "In this lesson water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.",
     "deep_truth": {
       "truth": "Beans do not only take from a field. Tiny bacteria in swellings on their roots pull nitrogen out of the air, and the bean pays them in sugar. So a bean's food is made by two kinds of life working together. That is why a field can end a season richer than it began.",
       "habit": "We think of a plant as one being on her own, and of soil as a bank that she empties and a farmer refills. A nodule is part bean and part bacteria, and the giving goes both ways.",
@@ -524,7 +524,7 @@
       {
         "source": "Bhagavad Gita 3.14",
         "teaching": "From food, living beings come into being. From rain, food is born.",
-        "link": "The verse follows the chain backwards from the body to the rain. This unit adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.",
+        "link": "The verse follows the chain backwards from the body to the rain. This lesson adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.",
         "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।"],
         "verse_lang": "sa"
       },
@@ -3906,7 +3906,7 @@
     "founder": [
       "ideas/by_topic/rocks-and-soil.md: the founder's notes on soil, used for the soil texture and mulch activities",
       "ideas/by_topic/planet-earth.md: the experiment row on comparing soil samples from different places, used for the texture and water tests",
-      "The Level 3 unit on soil, which this unit builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients"
+      "The Level 3 unit on soil, which this lesson builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients"
     ],
     "science": [
       "Hellriegel and Wilfarth, work on the nitrogen nutrition of grasses and legumes, announced 1886 and published 1888",

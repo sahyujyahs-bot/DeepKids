@@ -3,12 +3,12 @@
  "title": "Photosynthesis: how leaves make food from air, water and light",
  "level": 3,
  "summary": {
-  "text": "A huge tree grows from a small seed, yet the soil it grows in hardly gets lighter. So where does the tree come from? In this unit you will watch leaf discs rise in light, test a leaf for starch with iodine, and play a leaf kitchen game.",
+  "text": "A huge tree grows from a small seed, yet the soil it grows in hardly gets lighter. So where does the tree come from? In this lesson you will watch leaf discs rise in light, test a leaf for starch with iodine, and play a leaf kitchen game.",
   "art": "A neem tree in sunshine with arrows: sunlight arriving from the Sun, an invisible puff of air going into a leaf, water rising from the roots, and tiny bubbles of oxygen floating out to a child breathing in."
  },
  "intro": {
   "hook": "Pick up a mango stone. This seed fits in your palm, yet the mango tree they grow into can weigh more than a lorry. Where does all that tree come from?",
-  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in the pot and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where the tree did come from.",
+  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in the pot and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this lesson, you will find out where the tree did come from.",
   "art": "A child holding a small mango seed in an open palm, with a huge mango tree towering behind, and a question mark drawn in the air between them."
  },
  "outcomes": [
@@ -168,7 +168,7 @@
    "concept": "Why leaves are green: chlorophyll catches light",
    "status": "defined",
    "definition": "Chlorophyll is the green colouring in leaves. It soaks up mostly red and blue light, and uses that light's energy to make food. It bounces most of the green light back, so leaves look green to us.",
-   "description": "Sunlight looks white, but it is really a mix of all the colours of the rainbow. You can see them when sunlight shines through a glass of water or onto a CD. When light hits something, some colours are soaked up and some bounce off. The colours that bounce off reach your eyes, and that is the colour you see. Chlorophyll soaks up red and blue light very well. It soaks up much less green. So green light bounces back from leaves, and we see green. Leaves also have yellow and orange colourings. They help catch light too, and protect the leaf from too much sun. When a leaf gets old, the green chlorophyll breaks down first. Then the hidden yellow shows through. How a leaf's flat, wide shape helps it catch light is in the unit 'Parts of a plant and their jobs'.",
+   "description": "Sunlight looks white, but it is really a mix of all the colours of the rainbow. You can see them when sunlight shines through a glass of water or onto a CD. When light hits something, some colours are soaked up and some bounce off. The colours that bounce off reach your eyes, and that is the colour you see. Chlorophyll soaks up red and blue light very well. It soaks up much less green. So green light bounces back from leaves, and we see green. Leaves also have yellow and orange colourings. They help catch light too, and protect the leaf from too much sun. When a leaf gets old, the green chlorophyll breaks down first. Then the hidden yellow shows through. How a leaf's flat, wide shape helps it catch light is in the lesson 'Parts of a plant and their jobs'.",
    "examples": [
     "An old leaf on a peepal tree turns yellow before the leaf falls.",
     "A strip of chalk dipped in leaf juice and spirit shows a green band and a yellow band.",
@@ -182,7 +182,7 @@
    "concept": "Stomata: how the air gets into a leaf",
    "status": "defined",
    "definition": "Carbon dioxide gets into a leaf through tiny holes called stomata, mostly on the leaf's underside. Oxygen leaves through the same holes.",
-   "description": "A leaf looks solid, but its skin has many tiny holes called stomata. Each stoma is a gap between two curved cells shaped like beans, called guard cells. When the plant has plenty of water, the guard cells swell and the stoma opens. Carbon dioxide spreads in, and oxygen spreads out. Water also escapes through the stomata, as invisible water vapour. On a hot, dry day, the plant may close their stomata to save water. Then less carbon dioxide gets in, and the leaf makes less food. So every leaf balances two needs: letting air in, and keeping water. How water climbs up from the roots to replace what escapes is told in the unit 'How water travels through a plant'.",
+   "description": "A leaf looks solid, but its skin has many tiny holes called stomata. Each stoma is a gap between two curved cells shaped like beans, called guard cells. When the plant has plenty of water, the guard cells swell and the stoma opens. Carbon dioxide spreads in, and oxygen spreads out. Water also escapes through the stomata, as invisible water vapour. On a hot, dry day, the plant may close their stomata to save water. Then less carbon dioxide gets in, and the leaf makes less food. So every leaf balances two needs: letting air in, and keeping water. How water climbs up from the roots to replace what escapes is told in the lesson 'How water travels through a plant'.",
    "examples": [
     "Paint clear nail polish on the underside of a leaf, let it dry, and peel it off with clear tape. Under a toy microscope you can see the shapes of the stomata.",
     "Many desert plants open their stomata only at night, when it is cooler, to save water."
@@ -1269,7 +1269,7 @@
     },
     {
      "t": "write",
-     "p": "Most people guess that a tree is built from soil. Give two pieces of evidence from this unit that it is not.",
+     "p": "Most people guess that a tree is built from soil. Give two pieces of evidence from this lesson that it is not.",
      "lines": 4,
      "a": "Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In Van Helmont's Willow, in Five Weeks, my plants got heavier but the soil did not get lighter.",
      "why": "A strong answer gives real evidence, with numbers where it can, and says what each one shows."
@@ -1400,7 +1400,7 @@
      "lines": 3,
      "a": "A strong answer says the soil would have sunk far below the line, because nine years of leaves and stems would have used it up. In the story the soil stayed on the line, which fits. But the story is made up, and real soil in a pot settles a little. The real evidence is Van Helmont's weighed willow.",
      "why": "This asks the child to say what the evidence would look like if the wrong idea were true. That is how a test tells two ideas apart. It also reminds us that a made-up story is not proof.",
-     "context": "In this unit's story, A Pinch of Soil, Malar lives in the village of Kalpatti with her mother and a nine-year-old tulsi plant."
+     "context": "In this lesson's story, A Pinch of Soil, Malar lives in the village of Kalpatti with her mother and a nine-year-old tulsi plant."
     },
     {
      "t": "write",
@@ -1596,7 +1596,7 @@
     },
     {
      "t": "match",
-     "p": "Match each test in this unit to what it showed.",
+     "p": "Match each test in this lesson to what it showed.",
      "pairs": [
       [
        "the Rising Leaf Discs",
@@ -3150,7 +3150,7 @@
    "channel": "Veritasium",
    "youtube": "2KZb2_vcNTg",
    "mins": 6,
-   "why": "Derek Muller asks people in the street where a tree's wood comes from. Almost everyone says the soil. A perfect match for the big surprise of this unit.",
+   "why": "Derek Muller asks people in the street where a tree's wood comes from. Almost everyone says the soil. A perfect match for the big surprise of this lesson.",
    "check": "Opened and confirmed on YouTube: the title and channel match."
   },
   {

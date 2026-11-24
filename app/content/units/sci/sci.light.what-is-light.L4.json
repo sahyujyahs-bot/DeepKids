@@ -3,12 +3,12 @@
  "title": "What is light? Energy that spreads out, warms things and has a family you cannot see",
  "level": 4,
  "summary": {
-  "text": "A tar road is too hot to walk on at noon, but a whitewashed wall beside it stays cool. Why? In this unit you will measure how a torch beam thins out, race ice cubes on black and white paper, and find a TV remote's invisible light with a phone camera.",
+  "text": "A tar road is too hot to walk on at noon, but a whitewashed wall beside it stays cool. Why? In this lesson you will measure how a torch beam thins out, race ice cubes on black and white paper, and find a TV remote's invisible light with a phone camera.",
   "art": "A tar road and a whitewashed wall side by side in strong sunshine, a phone held up to a TV remote showing a purple glow, and a small lamp far down the street looking dim."
  },
  "intro": {
   "hook": "A tar road at noon is hot enough to burn bare feet (do not try it). A whitewashed wall beside it stays cool. The same Sun shines on both. Why is the road so hot? Where did the light go when it landed on the road?",
-  "text": "Light does not just let us see. It carries energy, and when a surface takes the light in, that energy turns into heat. A lamp far away looks dim for a different reason. Its light spreads out over a wider and wider space, so each patch of your eye gets less. In this unit you will measure how fast a torch beam thins out, race ice cubes on black paper and white paper, and use a phone camera to catch light your eyes cannot see. You will also meet the long family of waves that light belongs to, from radio to X-rays.",
+  "text": "Light does not just let us see. It carries energy, and when a surface takes the light in, that energy turns into heat. A lamp far away looks dim for a different reason. Its light spreads out over a wider and wider space, so each patch of your eye gets less. In this lesson you will measure how fast a torch beam thins out, race ice cubes on black paper and white paper, and use a phone camera to catch light your eyes cannot see. You will also meet the long family of waves that light belongs to, from radio to X-rays.",
   "art": "A child in a dark room holding a torch toward squared paper on a wall, with the beam shown widening like a cone, and a bar of coloured light at the side labelled the family of light."
  },
  "outcomes": [
@@ -571,7 +571,7 @@
    {
     "source": "Katha Upanishad 2.2.15",
     "teaching": "The Katha Upanishad speaks of a place where the Sun does not shine, nor the moon, nor the stars, nor lightning, much less a fire. It says that everything else shines only because that one thing shines first, and that by its light all this is lit.",
-    "link": "This unit followed sunlight to its end, to heat and to the waves our eyes cannot see. The Upanishad points to something behind all lights. Science cannot test that. It can only show that the light we see is one slice among many.",
+    "link": "This lesson followed sunlight to its end, to heat and to the waves our eyes cannot see. The Upanishad points to something behind all lights. Science cannot test that. It can only show that the light we see is one slice among many.",
     "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
     "verse_lang": "sa"
    }
@@ -3614,7 +3614,7 @@
   "founder": [
    "Founder's notebook, Light, seeing and shadows: the idea to draw the electromagnetic spectrum as a rainbow ladder, and the card and board games on matching wavelengths, used in Family Line",
    "Founder's notebook: sunlight energy ideas (a solar dehydrator to show sunlight energy) and the infrared filter idea, used in the Ice Race and the Invisible Flicker test",
-   "Combined lesson sci-C4-light-seeing-and-shadows: light travelling in straight lines and how bright a lamp looks with distance, and the Class 4 coverage of light reflecting off surfaces, which this unit sets up for the Reflection unit"
+   "Combined lesson sci-C4-light-seeing-and-shadows: light travelling in straight lines and how bright a lamp looks with distance, and the Class 4 coverage of light reflecting off surfaces, which this lesson sets up for the Reflection unit"
   ],
   "science": [
    "Herschel, Investigation of the powers of the prismatic colours to heat and illuminate objects, Philosophical Transactions of the Royal Society, 1800",

@@ -1,18 +1,18 @@
 {
  "id": "sci.senses.five-senses.L1",
- "title": "Our five senses: which work from far away, and which need touching",
+ "title": "Our five best-known senses: which work from far away, and which need touching",
  "level": 1,
  "summary": {
-  "text": "How close do you have to stand to smell an orange? In this unit you will find which body part tells you about things on a tray, test your nose step by step, play a game to hop to the right sense, and see which senses work in the dark.",
+  "text": "How close do you have to stand to smell an orange? In this lesson you will find which body part tells you about things on a tray, test your nose step by step, play a game to hop to the right sense, and see which senses work in the dark.",
   "art": "A girl with her eyes shut, taking small steps towards a steel plate with a peeled orange, while her mother walks beside her counting on her fingers."
  },
  "intro": {
   "hook": "Close your eyes. Someone in the kitchen is frying mustard seeds and curry leaves. You know it, without seeing a thing. How?",
-  "text": "Your ears hear the pop of the mustard seeds. Your nose smells the curry leaves. Nobody told you, and you did not look. Your body found out by itself. The ways your body finds out about the world are called your senses. In this unit you test them. You find which senses can tell you about a thing from far away, and which ones need to touch it.",
+  "text": "Your ears hear the pop of the mustard seeds. Your nose smells the curry leaves. Nobody told you, and you did not look. Your body found out by itself. The ways your body finds out about the world are called your senses. In this lesson you test them. You find which senses can tell you about a thing from far away, and which ones need to touch it.",
   "art": "A child sitting in a living room with eyes closed and a smile, while in the kitchen behind, a woman tips mustard seeds and curry leaves into a small steel kadai."
  },
  "outcomes": [
-  "By the end I can name the five senses and the sense organ for each: eyes, ears, nose, tongue and skin.",
+  "By the end I can name the five best-known senses and the sense organ for each: eyes, ears, nose, tongue and skin.",
   "By the end I can say which senses tell me about a thing from far away (seeing, hearing, smelling) and which need touching (tasting, touching).",
   "By the end I can say that when I smell something, tiny bits of it have floated through the air into my nose.",
   "By the end I can say how one other living being senses the world in their own way.",
@@ -22,7 +22,7 @@
  "terms": [
   {
    "term": "Sense",
-   "meaning": "A sense is a way your body finds out about the world. Seeing, hearing, smelling, tasting and touching are five senses.",
+   "meaning": "A sense is a way your body finds out about the world. Seeing, hearing, smelling, tasting and touching are five best-known senses.",
    "example": "You hear the pressure cooker whistle with your sense of hearing.",
    "art": "A child in the middle of a ring of five small drawings: an eye, an ear, a nose, a tongue and a hand."
   },
@@ -47,9 +47,9 @@
  ],
  "explanations": [
   {
-   "concept": "Five senses, five sense organs",
+   "concept": "Five best-known senses, five sense organs",
    "status": "defined",
-   "definition": "We have five main senses: seeing, hearing, smelling, tasting and touching. Each one has a sense organ: eyes, ears, nose, tongue and skin.",
+   "definition": "We have five best-known senses: seeing, hearing, smelling, tasting and touching. Each one has a sense organ: eyes, ears, nose, tongue and skin.",
    "description": "Your eyes tell you colours and shapes. Your ears tell you sounds. Your nose tells you smells. Your tongue tells you tastes: sweet, sour, salty and bitter. Your skin tells you if a thing is hard or soft, warm or cold. Each sense organ sends messages to your brain, and then you know.",
    "examples": [
     "Eating a dosa, you see it is golden, hear it crunch, smell the ghee, taste the salt and feel that it is hot.",
@@ -57,7 +57,7 @@
     "Spinning round and round makes you dizzy. That is your sense of balance, one of your other senses."
    ],
    "perspectives": [],
-   "context": "This card names the five senses and the body part for each.",
+   "context": "This card names the five best-known senses and the body part for each.",
    "art": "A girl eating a crispy dosa on a banana leaf, with five small labels pointing to her eyes, ears, nose, tongue and fingers."
   },
   {
@@ -143,12 +143,12 @@
    "context": "The tongue map is a drawing that shows sweet only at the tip of the tongue and bitter only at the back. Many school books printed it. This card asks if it is true."
   },
   {
-   "claim": "We have only five senses.",
+   "claim": "We have five best-known senses, and many more.",
    "who": "A very old idea, from the Greek thinker Aristotle",
-   "for": "Each of the five senses has a sense organ you can point to.",
+   "for": "Each of the five best-known senses has a sense organ you can point to.",
    "against": "We also sense balance, warmth and cold, pain, and where our arms and legs are. Scientists count many more than five.",
    "status": "rejected",
-   "context": "This card is about the idea that there are only five senses."
+   "context": "This card is about the idea that we have only five best-known senses. That idea is not true: our bodies have many more."
   }
  ],
  "big_questions": [
@@ -314,7 +314,7 @@
       },
       {
        "f": "A mango",
-       "b": "All five senses can tell you something"
+       "b": "All five best-known senses can tell you something"
       }
      ]
     }
@@ -343,7 +343,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the five sense cards on the floor, a big step apart. 2. Read each card to your child.",
-     "say": "These cards are your five senses. Which part of your body goes with each card?",
+     "say": "These cards are your five best-known senses. Which part of your body goes with each card?",
      "kid": "Look at the five cards. Touch the body part that goes with each one."
     },
     {
@@ -573,7 +573,7 @@
      "what": "Guess first. Look and listen from the start line. Take the smell steps with an empty plate, then with a peeled orange. Swap, so the grown-up takes the steps too. Then touch and taste the orange."
     }
    ],
-   "record": "Write the five senses in a list: eyes, ears, nose, tongue, skin. Next to each, write a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.",
+   "record": "Write the five best-known senses in a list: eyes, ears, nose, tongue, skin. Next to each, write a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1114,7 +1114,7 @@
  "projects": [
   {
    "id": "p1",
-   "title": "My Five Senses Book: one sense each day",
+   "title": "My Senses Book: one sense each day",
    "mins": 25,
    "days": 5,
    "context": "You will notice how much your senses tell you in one ordinary week. You make a small book with five pages, one for each sense. Each day, you put one thing you sensed on that sense's page.",
@@ -1316,7 +1316,7 @@
  "worksheets": [
   {
    "id": "ws-core",
-   "title": "My Five Senses (core)",
+   "title": "My Five Best-Known Senses (core)",
    "tier": "core",
    "mins": 15,
    "items": [
@@ -1429,7 +1429,7 @@
       "Tongue"
      ],
      "a": 2,
-     "why": "The nose, ears and tongue are sense organs. The knee helps your leg bend, but it is not the sense organ for any of the five senses."
+     "why": "The nose, ears and tongue are sense organs. The knee helps your leg bend, but it is not the sense organ for any of the five best-known senses."
     },
     {
      "t": "write",
@@ -1678,14 +1678,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which one is NOT one of the five senses?",
+   "p": "Which one is NOT one of the five best-known senses?",
    "opts": [
     "Seeing",
     "Smelling",
     "Jumping"
    ],
    "a": 2,
-   "why": "Jumping is something your body does. Seeing, hearing, smelling, tasting and touching are the five senses.",
+   "why": "Jumping is something your body does. Seeing, hearing, smelling, tasting and touching are the five best-known senses.",
    "outcome": 0
   },
   {
@@ -1885,7 +1885,7 @@
   },
   {
    "problem": "You eat a crunchy dosa. You see it, hear it crunch, smell it, taste it and feel that it is hot. How many senses did you use?",
-   "answer": "5 senses.",
+   "answer": "5 best-known senses.",
    "explain": "Count one finger for each sense: seeing, hearing, smelling, tasting and touching. That is 5.",
    "math_unit": "math.number-sense.counting.L1",
    "context": "This is about using all your senses on one food.",
@@ -2007,7 +2007,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/senses.md: the Grade 1 reality grid ('what's real is what we see, touch, hear'), used in the big question on whether the smell is in the orange or in you, and the Obaid Siddiqi card (fruit flies and the genetics of taste and smell), used in the explanation on other living beings. The Ibn al-Haytham card fits the light units better, and the electricity safety activities do not fit this topic. The Level 3 unit uses the nose-pinch flavour test, the two-point test, the mystery bag and Kim's game, so this unit uses smell steps, a senses tray, a dark room and shaker pairs instead."
+   "ideas/by_topic/senses.md: the Grade 1 reality grid ('what's real is what we see, touch, hear'), used in the big question on whether the smell is in the orange or in you, and the Obaid Siddiqi card (fruit flies and the genetics of taste and smell), used in the explanation on other living beings. The Ibn al-Haytham card fits the light units better, and the electricity safety activities do not fit this topic. The Level 3 unit uses the nose-pinch flavour test, the two-point test, the mystery bag and Kim's game, so this lesson uses smell steps, a senses tray, a dark room and shaker pairs instead."
   ],
   "science": [
    "Jess Porter, Noam Sobel and colleagues, 'Mechanisms of scent-tracking in humans', Nature Neuroscience 10 (2007): blindfolded people followed a chocolate scent trail across a field and improved with practice.",
@@ -2019,7 +2019,7 @@
   ]
  },
  "roots": {
-  "context": "We have tested our five senses, and found which ones reach far and which need touching. Now we ask what the Smell Steps test tells us about us and the world.",
+  "context": "We have tested our five best-known senses, and found which ones reach far and which need touching. Now we ask what the Smell Steps test tells us about us and the world.",
   "deep_truth": {
    "truth": "In the Smell Steps test, with your eyes shut, you smelled the orange a few steps away, before you touched it. Tiny bits of the peel had floated through the air into your nose. Your tongue could taste the orange only by touching it. So when you smell something, a little of that thing has already reached you.",
    "habit": "We think of smelling like looking: the thing stays over there, and we notice it from here. But the Smell Steps test shows that bits of the orange travel and come into us. Smelling happens when bits of the orange reach your body.",
@@ -2049,7 +2049,7 @@
    {
     "source": "Buddhist teaching of the six sense bases (Salayatana Samyutta, Samyutta Nikaya 35)",
     "teaching": "The Buddha spoke of six senses: seeing, hearing, smelling, tasting, touching, and the mind, which knows thoughts.",
-    "link": "We found five senses with sense organs. This teaching adds the mind as a sixth sense, which knows what the other five bring.",
+    "link": "We found five best-known senses with sense organs. This teaching adds the mind as a sixth sense, which knows what the other five bring.",
     "verse": ["Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca"],
     "verse_lang": "pi"
    }

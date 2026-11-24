@@ -3,12 +3,12 @@
  "title": "Exercise and rest: why muscles get tired, and what sleep does",
  "level": 3,
  "summary": {
-  "text": "Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this unit you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.",
+  "text": "Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this lesson you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.",
   "art": "A child squeezing a clothes peg at a table, a small timer beside her. Next to it, the same child asleep in bed under a window with stars, with soft dream bubbles above her head."
  },
  "intro": {
   "hook": "Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?",
-  "text": "What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this unit you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.",
+  "text": "What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this lesson you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.",
   "art": "A child standing with one arm stretched out sideways holding a water bottle, the arm starting to tremble, and a wall clock behind."
  },
  "outcomes": [
@@ -915,7 +915,7 @@
     {
      "id": "s4",
      "mins": 11,
-     "do": "1. Rest for 10 minutes. Read or listen to this unit's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.",
+     "do": "1. Rest for 10 minutes. Read or listen to this lesson's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.",
      "say": "Now a long rest, so your fingers start fresh. Then the same test with your arm held straight up against the wall.",
      "kid": "Rest for 10 minutes. Then lean your back on the wall and raise your arm straight up. Squeeze fast for one minute. Say 'now' when it aches.",
      "parent": "Most children feel the ache sooner with the arm up. Resting the arm against the wall stops the shoulder tiring first."
@@ -1155,7 +1155,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question."
+     "parent": "Do not explain yet. Let your child guess. The Tired Peg experiment in this lesson answers the question."
     },
     {
      "id": "s3",
@@ -1220,7 +1220,7 @@
       "t": "mcq",
       "q": "In tree pose, why does your standing ankle keep wobbling a little?",
       "options": [
-       "Because yoga is too hard for children",
+       "Because your leg is too weak to stand still",
        "Because the muscles in your leg are making tiny changes all the time to keep you balanced",
        "Because the floor is moving"
       ],

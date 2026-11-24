@@ -3,12 +3,12 @@
  "title": "Weight, mass and the normal force: what pulls a thing down and what holds it up",
  "level": 5,
  "summary": {
-  "text": "On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this unit you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.",
+  "text": "On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this lesson you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.",
   "art": "A child standing on the tiled floor of a flat with a down arrow and an up arrow of equal length, beside a small picture of the same child falling through the striped clouds of Jupiter with only a down arrow."
  },
  "intro": {
   "hook": "Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.",
-  "text": "It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this unit you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.",
+  "text": "It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this lesson you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.",
   "art": "A pile of eight school notebooks on a table with a question mark beside the top, the middle and the bottom book."
  },
  "outcomes": [
@@ -363,7 +363,7 @@
    "claim": "Gravity is not really a force.",
    "who": "Albert Einstein, in his general theory of relativity of 1915",
    "for": "Einstein's theory says that mass bends space and time, and that falling things simply follow the bend. It predicts the bending of starlight and the timing of satellite clocks correctly.",
-   "against": "For everything in this unit, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.",
+   "against": "For everything in this lesson, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.",
    "status": "accepted",
    "context": "This card is about a deeper view of gravity. In it, the Earth does not pull a thing at all."
   }
@@ -3659,13 +3659,13 @@
    "Founder's notebook, the gravity page: the long concepts on gravity as a pull between masses, the push of the normal force, standing on solid ground, a person falling into Jupiter and the normal force when running at about 2 to 3 times the weight. They are used in the explanations on the normal force and on worlds with nothing to stand on, in the Dough Stack and in Lift, Press and Tilt.",
    "Founder's notebook, the forces page: the ideas to hang weights and balance a book on a table to measure the normal force, and the drama of a table bravely supporting weight. They are the starting point of Be the Table and Lift, Press and Tilt.",
    "Curriculum entry sci.gravity.weight-and-mass.L5: mass and weight are different, weight on the Moon and other planets, gravity, normal force and applied force. Board chapter Cambridge Stage 5 5.1 'Gravity, normal forces and applied forces'.",
-   "Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This unit does not repeat their stories or deep truths."
+   "Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This lesson does not repeat their stories or deep truths."
   ],
   "science": [
    "Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3, Proposition 6 (the pendulum tests with gold, silver, lead, glass, sand, salt, wood, water and wheat).",
    "Touboul, P. and others (2022). MICROSCOPE mission: final results of the test of the equivalence principle. Physical Review Letters 129, 121102.",
    "Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften.",
-   "NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this unit are worked out from its masses and widths, so they differ a little from the equator values it prints).",
+   "NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this lesson are worked out from its masses and widths, so they differ a little from the equator values it prints).",
    "CSIR National Physical Laboratory, Mass Metrology (India's copy of the kilogram, NPK-57, is kept there).",
    "ISRO, Chandrayaan-3 landing brochure (rover mass 26 kilograms).",
    "Seiff, A. and others (1998). Thermal structure of Jupiter's atmosphere near the edge of a 5-micrometre hot spot in the north equatorial belt. Journal of Geophysical Research 103, 22857 (the Galileo probe).",
@@ -3688,7 +3688,7 @@
   "art": "A small shining metal cylinder under two glass bell jars on a stand in a vault, with a scientist in a white coat looking at it through a magnifying glass."
  },
  "roots": {
-  "context": "In this unit you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.",
+  "context": "In this lesson you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.",
   "deep_truth": {
    "truth": "In the Dough Stack, the dough under eight books was squashed far wider than the dough under one book. Every book rests on the one below, so each level carries everything above it. The bottom book is held up by the table, the table by the floor, and the floor by the Earth. So no book in a pile holds itself up.",
    "habit": "We say a table stands or a book sits, as if each held itself up. Everything that stays up is held by something else, and that is held by something else again.",
@@ -3704,7 +3704,7 @@
    {
     "source": "Atharva Veda 12.1.12 (the hymn to the Earth)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "The verse speaks of the Earth as the one who holds us. In this unit, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.",
+    "link": "The verse speaks of the Earth as the one who holds us. In this lesson, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.",
     "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
     "verse_lang": "sa"
    },

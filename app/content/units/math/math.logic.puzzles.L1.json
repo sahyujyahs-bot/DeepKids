@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "Which one does not belong?",
-  "text": "There are two good answers. The square does not belong, because the other three are circles. The blue circle does not belong, because the other three are red. Which one did you pick? Both are right, as long as you can say why. In this unit you will find out when a puzzle has one answer, when it has many, and why the reason matters as much as the answer.",
+  "text": "There are two good answers. The square does not belong, because the other three are circles. The blue circle does not belong, because the other three are red. Which one did you pick? Both are right, as long as you can say why. In this lesson you will find out when a puzzle has one answer, when it has many, and why the reason matters as much as the answer.",
   "art": "Four paper shapes in a row on a floor: a red circle, a red square, a blue circle and a red circle.",
   "chart": {
    "type": "row",
@@ -100,7 +100,7 @@
   {
    "concept": "What a puzzle is",
    "status": "defined",
-   "context": "This card says what a puzzle is. You have met three kinds in this unit: odd one out, mazes and picture puzzles.",
+   "context": "This card says what a puzzle is. You have met three kinds in this lesson: odd one out, mazes and picture puzzles.",
    "definition": "A puzzle is a question you cannot answer straight away. You have to look, try and think.",
    "description": "A puzzle has a goal and it has rules. In a maze, the goal is to reach the end. The rule is that you stay on the path. In odd one out, the goal is to find the one that does not fit. Solving a puzzle is not like remembering a fact. You try something, see what happens and try again.",
    "examples": [
@@ -1827,7 +1827,7 @@
      "do": "1. Find a line of ants. 2. Sit a little way off and watch for two minutes. 3. Ask the three questions in the table. 4. Your child draws the ants' line on paper.",
      "say": "Watch the ants without touching. Do they walk in one line? Do they go both ways? What do they do when two of them meet?",
      "kid": "Watch the ants. Do not touch. Do they walk in one line? Draw the line.",
-     "parent": "Ants are easy to find near a kitchen shelf, a dustbin, a potted plant or the foot of a wall. If you cannot find any, watch the slime mould video in this unit, which shows another living being in a maze.",
+     "parent": "Ants are easy to find near a kitchen shelf, a dustbin, a potted plant or the foot of a wall. If you cannot find any, watch the slime mould video in this lesson, which shows another living being in a maze.",
      "chart": {
       "type": "table",
       "title": "Look for these",
@@ -4043,7 +4043,7 @@
    "youtube": "lls27hu03yw",
    "mins": 3,
    "why": "For the child and the parent: a slime mould finding the way through a maze. Watch it after Ant and Banana, and ask your child what the slime mould does at a dead end.",
-   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this unit, and the length is a rough guess. Watch it once before showing it."
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this lesson, and the length is a rough guess. Watch it once before showing it."
   },
   {
    "title": "v math pre k u1ch1l1 same and different APP",
@@ -4051,7 +4051,7 @@
    "youtube": "cebRDYZLuho",
    "mins": 2,
    "why": "For the child: a short cartoon lesson on telling what is the same from what is different. It suits a child who is new to odd one out.",
-   "check": "Title and channel confirmed by a YouTube lookup. The title is the channel's own file name. The video was not watched through for this unit, and the length is a rough guess. Watch it once before showing it."
+   "check": "Title and channel confirmed by a YouTube lookup. The title is the channel's own file name. The video was not watched through for this lesson, and the length is a rough guess. Watch it once before showing it."
   },
   {
    "title": "Maze Solving - Computerphile",
@@ -4059,7 +4059,7 @@
    "youtube": "rop0W4QDOUI",
    "mins": 17,
    "why": "For the parent: how a computer is told to find the way through a maze. It shows that 'try a way, and go back when it stops' is a real method, not just a child's game.",
-   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this unit, and the length is a rough guess. It is made for grown-ups."
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this lesson, and the length is a rough guess. It is made for grown-ups."
   }
  ],
  "applications": [
@@ -4177,7 +4177,7 @@
    "explain": "Take the short way from the long way. 9 take away 5 leaves 4. So the short way saves 4 steps.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a1",
-   "context": "In Ant and Banana you walked an ant through mazes. One maze in this unit has two ways to the banana. This problem compares them.",
+   "context": "In Ant and Banana you walked an ant through mazes. One maze in this lesson has two ways to the banana. This problem compares them.",
    "why_maths": "Counting the steps of each way and taking one from the other tells you which way is shorter, and by how much, without guessing.",
    "chart": {
     "type": "sum",
@@ -4506,5 +4506,5 @@
    "P versus NP: one of the seven Millennium Prize Problems of the Clay Mathematics Institute (2000), each with a prize of one million US dollars."
   ]
  },
- "playtest": "Walked through every flow as a parent and one child in a flat. Every maze in the unit was checked by a small program: each has the number of ways, dead ends and steps that the text says. The four test cards were checked too: the dot, the square, the blue colour and the small size each belong to one card only. The Odd One Out Test works with two people, and is better with three or four. If everyone picks the same card at first, the hunt for a rule for each card still gives the result. Copying the big maze on paper takes a grown-up about three minutes. The Lid Puzzle needs five boxes of clearly different sizes. With two boxes of nearly the same size, the tries in order go above 5. Ants and the Twig depends on finding ants, so it is outside the core path. The ants may take longer than ten minutes, or may climb over a thin twig. Dice Switch needs 12 hand-drawn cards, about five minutes of drawing. Step minutes add up to each part's minutes. Looked up on the web while writing: the slime mould maze paper of 2000, the honeybee paper of 2001, the Argentine ant paper of 1989 (title and summary only, not the full papers), Lucas's 1882 chapter on Trémaux's rule (read in English translation), the hand-on-wall rule and where it fails, the labyrinth on coins from Crete, the chakravyuha carving at Halebidu, the Greek word behind 'planet', Udana 6.4 and Thirukkural 423. Not looked up, written from memory: Euler and the seven bridges in 1736, the one-million-dollar prize for the checking and solving question, how a slime mould's tubes widen and shrink, the yellow colour of the slime mould, and the book by Christopher Danielson. Mazes of hedges being hundreds of years old is from general knowledge. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The mazes are drawn as tables of black and white squares with an ant and a banana symbol, because there is no maze chart yet. How they look should be checked on a phone."
+ "playtest": "Walked through every flow as a parent and one child in a flat. Every maze in the lesson was checked by a small program: each has the number of ways, dead ends and steps that the text says. The four test cards were checked too: the dot, the square, the blue colour and the small size each belong to one card only. The Odd One Out Test works with two people, and is better with three or four. If everyone picks the same card at first, the hunt for a rule for each card still gives the result. Copying the big maze on paper takes a grown-up about three minutes. The Lid Puzzle needs five boxes of clearly different sizes. With two boxes of nearly the same size, the tries in order go above 5. Ants and the Twig depends on finding ants, so it is outside the core path. The ants may take longer than ten minutes, or may climb over a thin twig. Dice Switch needs 12 hand-drawn cards, about five minutes of drawing. Step minutes add up to each part's minutes. Looked up on the web while writing: the slime mould maze paper of 2000, the honeybee paper of 2001, the Argentine ant paper of 1989 (title and summary only, not the full papers), Lucas's 1882 chapter on Trémaux's rule (read in English translation), the hand-on-wall rule and where it fails, the labyrinth on coins from Crete, the chakravyuha carving at Halebidu, the Greek word behind 'planet', Udana 6.4 and Thirukkural 423. Not looked up, written from memory: Euler and the seven bridges in 1736, the one-million-dollar prize for the checking and solving question, how a slime mould's tubes widen and shrink, the yellow colour of the slime mould, and the book by Christopher Danielson. Mazes of hedges being hundreds of years old is from general knowledge. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The mazes are drawn as tables of black and white squares with an ant and a banana symbol, because there is no maze chart yet. How they look should be checked on a phone."
 }

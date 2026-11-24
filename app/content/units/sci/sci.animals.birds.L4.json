@@ -3,12 +3,12 @@
  "title": "Birds: how beaks and feet fit their food, and why birds are dinosaurs",
  "level": 4,
  "summary": {
-  "text": "A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this unit you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.",
+  "text": "A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this lesson you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.",
   "art": "A house sparrow cracking a seed on a wall and a long-beaked godwit probing wet mud, with the faint outline of a small feathered dinosaur behind them."
  },
  "intro": {
   "hook": "A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?",
-  "text": "A beak has two halves joined at a hinge, like a pair of scissors. In this unit you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.",
+  "text": "A beak has two halves joined at a hinge, like a pair of scissors. In this lesson you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.",
   "art": "A child's hand holding a pair of scissors over a folded stack of newspaper, with a sparrow and a godwit drawn on a notebook page beside it."
  },
  "outcomes": [
@@ -2887,10 +2887,10 @@
  "sources": {
   "founder": [
    "Founder's notebook for The world of birds: the evolution picture book, whose timeline has dinosaurs from about 230 million years ago, birds from dinosaurs about 150 million years ago, and the dinosaur extinction 66 million years ago. Its introduction says that evolution is a branching tree in which every kind keeps changing. That idea shapes the family tree project and the section on finch beaks.",
-   "The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this unit takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.",
-   "The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This unit's experiments, games, activities and story are new.",
+   "The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this lesson takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.",
+   "The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This lesson's experiments, games, activities and story are new.",
    "NCERT Class 4, chapter 3, Nature Trail: guessing a bird's food from the beak and claws, and keeping a bird diary. Beak and Feet Watch and the clue card game cover both.",
-   "Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this unit tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here."
+   "Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this lesson tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here."
   ],
   "science": [
    "Herrel A., Podos J., Huber S.K., Hendry A.P. (2005). Bite performance and morphology in a population of Darwin's finches: implications for the evolution of beak shape. Functional Ecology 19: 43-48.",
@@ -2931,7 +2931,7 @@
   "art": "A split stone slab showing a small skeleton with a halo of dark fuzz along the back and tail, held by a farmer in a field in northern China."
  },
  "roots": {
-  "context": "In this unit you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.",
+  "context": "In this lesson you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.",
   "deep_truth": {
    "truth": "In Find the Dinosaur in a Bird, you saw scaly feet, three front toes and a walk on tiptoe. Fossils show small meat-eating dinosaurs with the same feet, and with feathers and wishbones too. Birds are the one branch of the dinosaur family that lived through the asteroid strike. So dinosaurs are still alive, and one may be sitting on your window grill now.",
    "habit": "We say 'the dinosaurs died out' and treat birds as a separate kind of animal. The family tree puts birds inside the dinosaurs. So that sentence is true only of the other dinosaurs.",

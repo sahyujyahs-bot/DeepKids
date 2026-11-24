@@ -3,12 +3,12 @@
  "title": "What is it made of? Where materials come from",
  "level": 3,
  "summary": {
-  "text": "Your shirt, your chair and your pencil all came from somewhere. Where? In this unit you will trace objects back to where they came from, make salt from salty water with the Sun, make new paper from old paper, and turn milk into plastic.",
+  "text": "Your shirt, your chair and your pencil all came from somewhere. Where? In this lesson you will trace objects back to where they came from, make salt from salty water with the Sun, make new paper from old paper, and turn milk into plastic.",
   "art": "A child holding a steel tumbler, with thin dotted lines running from it back to a hill with a mine, a cotton plant, a sheep, the sea with salt pans, and up into the night sky to a bright star."
  },
  "intro": {
   "hook": "Pick up anything near you: a pencil, a spoon, a button. What was it before it was this? And what was it before that? How far back can you go?",
-  "text": "The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
+  "text": "The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this lesson you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
   "art": "A pencil in the middle of a page, with a chain of small pictures leading back from it: a pencil factory, a log, a tree in rain, a cloud over the sea, and a second chain from the grey tip back to a dark graphite rock in the ground."
  },
  "outcomes": [
@@ -303,7 +303,7 @@
    "concept": "Plants are built of a material called cellulose",
    "status": "defined",
    "definition": "Cellulose is the material that the walls of plant cells are made of. Wood, cotton, jute, coir and paper are mostly cellulose.",
-   "description": "Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose fibres glued together by another plant material, called lignin. Scientists think cellulose is the most common material made by living things on Earth. When you make paper in this unit, you are tangling cellulose fibres into a mat.",
+   "description": "Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose fibres glued together by another plant material, called lignin. Scientists think cellulose is the most common material made by living things on Earth. When you make paper in this lesson, you are tangling cellulose fibres into a mat.",
    "examples": [
     "Cotton fluff is nearly pure cellulose.",
     "Paper is a mat of cellulose fibres pressed flat.",
@@ -1136,7 +1136,7 @@
    "title": "Salt from Salty Water, Using the Sun",
    "mins": 25,
    "days": 4,
-   "context": "In this unit's story, Kashi finds salt on the rim of a stone hollow by the sea. In this experiment you get salt out of salty water, using only the sun. You will find out if sunshine really can make salt, as it did for Kashi.",
+   "context": "In this lesson's story, Kashi finds salt on the rim of a stone hollow by the sea. In this experiment you get salt out of salty water, using only the sun. You will find out if sunshine really can make salt, as it did for Kashi.",
    "question": "Does the sun get the salt out of salty water faster than the shade does? Does it change how much salt we get?",
    "predict": "Guess first. Which plate will dry first, the one in the sun or the one in the shade? Will the two plates give the same amount of salt? Why do you think so?",
    "fair_test": "To make it fair, use two plates that are the same. Put the same amount of the same salty water on each. Change only one thing: one plate is in the sun, one is in the shade.",
@@ -2977,7 +2977,7 @@
     },
     {
      "t": "write",
-     "p": "In this unit's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.",
+     "p": "In this lesson's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.",
      "lines": 4,
      "a": "A strong answer says the salt itself is natural, because it came from the sea. But people cleaned it and added iodine, so the packet is a natural material changed by people. Either answer is fine if the reason looks at both the material and what people did.",
      "why": "Many things in a kitchen are natural materials that people have changed a little."
@@ -3073,7 +3073,7 @@
      "lines": 6,
      "a": "Any side can be strong. A strong answer uses the science, for example: nobody makes salt, the sun leaves it behind, so it should belong to everyone. Then it answers back fairly, for example: collecting salt is hard work, so the workers should be paid for it.",
      "why": "This was a real fight in 1930, when only the British government could collect salt. There is no single right answer, but a strong answer uses the fact that people collect salt and do not make it.",
-     "context": "In this unit's story, Kashi finds that nobody makes salt. In 1930 the law said only the British government could collect it."
+     "context": "In this lesson's story, Kashi finds that nobody makes salt. In 1930 the law said only the British government could collect it."
     },
     {
      "t": "write",
@@ -3161,7 +3161,7 @@
      "p": "Nothing is made from nothing. So where did the material in your own body come from? Trace it back at least two steps.",
      "lines": 4,
      "a": "A strong answer says my body is built from the food I eat. The food came from plants, and from animals who ate plants. Plants built themselves from air, water and a little soil, using sunlight. Further back, the atoms were made in stars.",
-     "why": "Your body is natural material too, collected and rebuilt, just like everything else in this unit."
+     "why": "Your body is natural material too, collected and rebuilt, just like everything else in this lesson."
     },
     {
      "t": "truefalse",
@@ -3654,7 +3654,7 @@
    "title": "Ptable: the interactive periodic table",
    "url": "https://ptable.com",
    "kind": "interactive",
-   "why": "Every element, with pictures and uses. Find carbon, iron, oxygen and gold, the stars of this unit."
+   "why": "Every element, with pictures and uses. Find carbon, iron, oxygen and gold, the stars of this lesson."
   },
   {
    "title": "NASA Space Place",
@@ -3771,7 +3771,7 @@
    "id": "b-gandhi",
    "item": "Gandhi: A March to the Sea, by Alice B. McGinty",
    "kind": "book",
-   "why": "A picture book about the Salt March of 1930, to read after this unit's story.",
+   "why": "A picture book about the Salt March of 1930, to read after this lesson's story.",
    "url": "https://www.amazon.in/s?k=Gandhi+A+March+to+the+Sea+McGinty",
    "used_in": [
     "e2"
@@ -3929,7 +3929,7 @@
    {
     "source": "Mundaka Upanishad 1.1.7",
     "teaching": "A spider spins a thread out of her own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source.",
-    "link": "In this unit, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.",
+    "link": "In this lesson, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.",
     "verse": ["यथोर्णनाभिः सृजते गृह्णते च", "यथा पृथिव्यामोषधयः संभवन्ति", "यथा सतः पुरुषात् केशलोमानि", "तथाऽक्षरात् संभवतीह विश्वम्"],
     "verse_lang": "sa"
    },

@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond needs a pumpkin, gourd or cucumber vine, and Adopt a Tree needs a tree nearby, so both are optional.",
  "summary": {
-  "text": "Every fruit in your kitchen was once a flower. How does a flower become a fruit, and what is inside? In this unit you will open fruits to find the seeds and the flower's leftovers, tag a flower and watch it change, and grow moong from seed to seed.",
+  "text": "Every fruit in your kitchen was once a flower. How does a flower become a fruit, and what is inside? In this lesson you will open fruits to find the seeds and the flower's leftovers, tag a flower and watch it change, and grow moong from seed to seed.",
   "art": "A big circle drawn like a clock face: a moong seed at the top, then a seedling, a leafy plant, a yellow flower, a green pod and black pods spilling new seeds back to the top."
  },
  "intro": {
@@ -2184,7 +2184,7 @@
    "title": "Be Edmond: help a pumpkin flower become a fruit",
    "mins": 35,
    "days": 5,
-   "context": "In this unit's story, a boy named Edmond moves pollen by hand to make flowers grow fruit. In this experiment you do the same on a pumpkin, gourd or cucumber vine, and test whether a flower needs pollen to make a fruit.",
+   "context": "In this lesson's story, a boy named Edmond moves pollen by hand to make flowers grow fruit. In this experiment you do the same on a pumpkin, gourd or cucumber vine, and test whether a flower needs pollen to make a fruit.",
    "question": "Does a female flower need pollen to grow into a fruit?",
    "predict": "Guess first. You will have three female flowers. One is left open for insects. One is covered with a bag and gets no pollen. One is covered with a bag and gets pollen from you. Which will grow into fruits? Why do you think so?",
    "fair_test": "Use female flowers on the same vine that open on the same morning, or as close together as you can. Cover two of them with a bag the evening before they open, so no insect can get in first. Give pollen to only one of the covered flowers. The bag is the same for both covered flowers, so only the pollen is different.",
@@ -3191,7 +3191,7 @@
    "id": "c1",
    "title": "Be the Bee: design a pollen mover",
    "mins": 25,
-   "context": "This is a design challenge. Flowers need pollen carried to their middle before they can make fruit. You design and test the best tool for carrying pollen. Edmond, the boy in this unit's story, did this for vanilla flowers with a splinter and his thumb.",
+   "context": "This is a design challenge. Flowers need pollen carried to their middle before they can make fruit. You design and test the best tool for carrying pollen. Edmond, the boy in this lesson's story, did this for vanilla flowers with a splinter and his thumb.",
    "problem": "On a high balcony, few bees and butterflies visit. Your job is to design the best tool for picking up pollen from one flower and leaving it on another, without hurting the flowers.",
    "constraints": [
     "It must not tear or bruise the petals.",

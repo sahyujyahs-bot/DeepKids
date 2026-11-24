@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, in a city flat, with the materials listed. The two-jar test uses things every kitchen has: newspaper, a piece of a biscuit box, a rinsed milk packet, a peel and two spoons of leftover sambar or dal. Newspaper soaks up sambar within a few minutes, so the result is clear in a 15-minute wait. Wet newspaper tears with a gentle pull, while the dry strip from the other jar does not, so the child feels the difference in their own hands. The milk packet rinses clean under the tap, which surprises most children and is a real result: plastic, metal and glass can be washed, paper and cloth cannot. The next-day smell check is optional and is done near a window by a grown-up. The sorting race uses 30 small things from the kitchen and the dustbin, and the mixed round really takes several times longer, because used tea leaves stick to paper. Gloves or a spoon are used for the mixed round. The lid test depends on ants or fruit flies finding the open box. They nearly always do in a warm Indian kitchen within a day, and the step says what to do if they don't. The building walk and the poster project are outside the core path, because not every family can go round their building. Both games were played through with two players and with four, and both finish.",
  "summary": {
-  "text": "What happens to dry paper when wet kitchen waste is mixed in with it? In this unit you will test it with two jars, set up a sorting station at home, race to sort waste as you throw it or later, and wrap up dangerous waste safely.",
+  "text": "What happens to dry paper when wet kitchen waste is mixed in with it? In this lesson you will test it with two jars, set up a sorting station at home, race to sort waste as you throw it or later, and wrap up dangerous waste safely.",
   "art": "Two glass jars side by side on a kitchen counter. In the left jar, a crisp newspaper strip, a biscuit-box piece and a milk packet sit clean and dry. In the right jar, the same three things lie in sambar, rice and a banana peel, the newspaper dark and soggy. Behind them, a green bin, a blue bin and a small red-marked box."
  },
  "intro": {
@@ -2758,7 +2758,7 @@
   "founder": [
    "DeepKids notebook topic page for waste (app/content/ideas/by_topic/waste.md): the weekly journeys 'Waste is not a waste' and 'Things Are More Than What They Seem', and the Semmelweis card's whisper that the healer can be the carrier, which became the idea that the person holding the waste carries the choice",
    "DeepKids board pack NCERT Class 3 Chapter 12 'Taking Charge of Waste' (app/content/ncert/sci-L3-12.json): keeping and sorting a day's waste, the green and blue bins, keeping batteries and broken glass separate, clean places like Mysuru and Indore, and the people who keep places clean",
-   "DeepKids unit Reduce, reuse, recycle (Class 3): read so that this unit adds new experiments, a new story and a new deep truth instead of repeating the rot jar test, the kabadiwala visit or the newspaper bag"
+   "DeepKids unit Reduce, reuse, recycle (Class 3): read so that this lesson adds new experiments, a new story and a new deep truth instead of repeating the rot jar test, the kabadiwala visit or the newspaper bag"
   ],
   "science": [
    "Government of India, Solid Waste Management Rules 2016 (three streams: biodegradable, non-biodegradable and domestic hazardous waste; sorting at source)",

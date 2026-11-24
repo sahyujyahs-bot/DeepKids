@@ -3,12 +3,12 @@
  "title": "Dissolving: what water takes in, and how much",
  "level": 3,
  "summary": {
-  "text": "Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this unit you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.",
+  "text": "Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this lesson you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.",
   "art": "Two clear glasses side by side on a kitchen counter: one with clear water and a little heap of salt grains left on the bottom, the other with clear syrup and a row of ten empty teaspoons beside it."
  },
  "intro": {
   "hook": "Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?",
-  "text": "When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this unit you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.",
+  "text": "When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this lesson you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.",
   "art": "Two glasses after stirring: the left one perfectly clear with a spoon beside a salt packet, the right one milky white with a spoon beside a bowl of atta."
  },
  "outcomes": [
@@ -837,7 +837,7 @@
    "title": "Will It Disappear? A kitchen test",
    "mins": 15,
    "days": 1,
-   "context": "This is the first thing to do in the unit. You test eight things from the kitchen in water, and sort them by what you see.",
+   "context": "This is the first thing to do in the lesson. You test eight things from the kitchen in water, and sort them by what you see.",
    "materials": [
     {
      "item": "four clear glasses or clear plastic cups, used twice",
@@ -1843,7 +1843,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about dissolving."
+     "why": "Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about dissolving."
     },
     {
      "t": "mcq",

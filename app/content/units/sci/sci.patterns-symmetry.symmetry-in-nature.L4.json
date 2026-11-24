@@ -3,7 +3,7 @@
  "title": "Symmetry in nature and art: moves that change nothing, and how nature breaks them",
  "level": 4,
  "summary": {
-  "text": "A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this unit you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.",
+  "text": "A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this lesson you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.",
   "art": "A square card sitting inside its outline on a table, with a straight card strip bowed to one side beside it and a left hand and a right hand placed palm to palm."
  },
  "intro": {
@@ -3209,7 +3209,7 @@
   "founder": [
    "ideas/by_topic/patterns-and-symmetry.md: Grade 4 symmetry row (broken symmetry creates diversity, snail shell chirality, a pencil choosing a direction as it falls, imperfection as a generator of form), used for the symmetry breaking and handedness parts",
    "ideas/by_topic/patterns-and-symmetry.md: SCI Cards for Emmy Noether, Chien-Shiung Wu and Dan Shechtman, used for the Noether, Wu and quasicrystal explanations and the how-we-found-out story",
-   "The Class 3 symmetry unit, which this unit builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused"
+   "The Class 3 symmetry unit, which this lesson builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused"
   ],
   "science": [
    "Fedorov, E. S., 1891, proof that there are 17 plane symmetry groups; Polya, G., Zeitschrift fur Kristallographie 60, 1924",

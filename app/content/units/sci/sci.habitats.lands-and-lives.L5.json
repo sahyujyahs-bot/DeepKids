@@ -3,12 +3,12 @@
  "title": "India's ecological regions: why each land has its own plants, animals and knowledge",
  "level": 5,
  "summary": {
-  "text": "Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this unit you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.",
+  "text": "Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this lesson you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.",
   "art": "A cut-away view across South India from the Arabian Sea to the Deccan: rain clouds piling against green hills on the left, and a dry brown plateau with thin clouds on the right."
  },
  "intro": {
   "hook": "In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?",
-  "text": "The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this unit you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.",
+  "text": "The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this lesson you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.",
   "art": "A bridge made of thick woven living tree roots across a rocky stream in a wet green forest, with a girl carrying a basket walking over it."
  },
  "outcomes": [
@@ -2240,7 +2240,7 @@
     {
      "id": "s4",
      "mins": 25,
-     "do": "Your child chooses one very different region from this unit, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.",
+     "do": "Your child chooses one very different region from this lesson, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.",
      "say": "Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes.",
      "kid": "Choose a very different region. Fill in the table. Present your file in three minutes.",
      "ask": [
@@ -3908,7 +3908,7 @@
   "art": "A scientist kneeling in a wet Nilgiri bog pulling up a long tube of dark layered mud, with grassy hills and a patch of shola forest behind her."
  },
  "roots": {
-  "context": "In this unit you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.",
+  "context": "In this lesson you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.",
   "deep_truth": {
    "truth": "In the Two Lands Test, the tall thin tower won in still air and fell under the fan. The short wide tower stood under the fan but lost in still air. Each design had been improved by the tests of one land only. So knowledge that is right for one land can be wrong for another.",
    "habit": "We rank ways of doing things as modern or backward, as if one list fitted every place. But each tower was right only for the land that had tested it. A ranking forgets to ask where the way of doing things is used.",
@@ -3931,7 +3931,7 @@
    {
     "source": "Udana 6.4, the Buddha's story of the blind men and the elephant",
     "teaching": "Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled.",
-    "link": "The Buddha told this story about people who argue over what is true. It fits this unit in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.",
+    "link": "The Buddha told this story about people who argue over what is true. It fits this lesson in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.",
     "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi thūṇo.", "ediso, deva, hatthī seyyathāpi sammajjanī."],
     "verse_lang": "pi"
    }

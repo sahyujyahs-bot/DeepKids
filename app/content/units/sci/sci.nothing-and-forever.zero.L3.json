@@ -3,7 +3,7 @@
  "title": "Zero: the number for none, and the mark that holds an empty place",
  "level": 3,
  "summary": {
-  "text": "Write 520, leave out the 0, and most people read 52. So what does zero do? In this unit you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.",
+  "text": "Write 520, leave out the 0, and most people read 52. So what does zero do? In this lesson you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.",
   "art": "A child's hand holding two paper chits side by side: one reads 52 with an empty space after it, the other reads 520, with a steel plate holding no idlis on the table behind."
  },
  "intro": {
@@ -1549,7 +1549,7 @@
    "channel": "TED-Ed",
    "youtube": "NKmGVE85GUU",
    "mins": 5,
-   "why": "A clear cartoon explaining why dividing by zero has no answer, using the same check as this unit: division must undo multiplication. Best watched with a parent after the beans activity.",
+   "why": "A clear cartoon explaining why dividing by zero has no answer, using the same check as this lesson: division must undo multiplication. Best watched with a parent after the beans activity.",
    "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Why can't you divide by zero? - TED-Ed', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it."
   },
   {
@@ -1999,7 +1999,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Zero has three jobs in this unit. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none."
+     "why": "Zero has three jobs in this lesson. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none."
     },
     {
      "t": "write",
@@ -2487,7 +2487,7 @@
    "url": "https://www.vismuseum.gov.in",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A science museum with hands-on galleries, good for a day out after this unit."
+   "why": "A science museum with hands-on galleries, good for a day out after this lesson."
   },
   {
    "title": "Bodleian Libraries, University of Oxford",

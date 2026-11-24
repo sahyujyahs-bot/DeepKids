@@ -3,12 +3,12 @@
  "title": "Stargazing: the Moon, bright stars and planets, and why the Moon seems to follow you",
  "level": 1,
  "summary": {
-  "text": "Why does the Moon seem to follow you when you walk? In this unit you will draw the Moon's face, test the following with a strip at a window, sort Moon, star, planet and plane cards, and learn to tell a twinkling star from a steady planet.",
+  "text": "Why does the Moon seem to follow you when you walk? In this lesson you will draw the Moon's face, test the following with a strip at a window, sort Moon, star, planet and plane cards, and learn to tell a twinkling star from a steady planet.",
   "art": "A girl at a bus window at night, trees blurring past outside, and a round Moon sitting still above them."
  },
  "intro": {
   "hook": "Have you ever looked at the Moon from a moving bus, car or auto? What did the Moon do?",
-  "text": "Most children say the Moon followed them. The trees and lamp posts rushed past, but the Moon stayed beside the window. Is the Moon really following you? In this unit you test it at your own window. You also find out which bright dots in the night sky are stars, which are planets, and which are aeroplanes.",
+  "text": "Most children say the Moon followed them. The trees and lamp posts rushed past, but the Moon stayed beside the window. Is the Moon really following you? In this lesson you test it at your own window. You also find out which bright dots in the night sky are stars, which are planets, and which are aeroplanes.",
   "art": "A boy and his mother in an auto at night, the boy pointing up at the Moon, with street lamps streaking past."
  },
  "outcomes": [
@@ -1505,7 +1505,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each test shows one idea from this unit: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.",
+     "why": "Each test shows one idea from this lesson: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.",
      "how": "e1"
     }
    ]
@@ -1760,8 +1760,8 @@
   "founder": [
    "Curriculum entry sci.sky.stargazing.L1 (looking at the night sky: Moon, bright stars, planets), and the founder's notebook item phy:41 (observational astronomy: naked-eye sky, constellations, planets). No board chapter is listed for this level.",
    "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook's women astronomers (SCI cards) shaped the choice to credit Marie Dacke. Its galaxy and expansion grids belong to later levels.",
-   "The Level 3 stargazing unit teaches constellations, nakshatras, dark-adapted eyes and the Moon's daily step among the stars. This unit leaves all of those to it, and prepares for them with naming what is in the sky, twinkling, and why the Moon seems to follow us.",
-   "The sister unit sci.sky.sun-moon-stars.L1 already has the torch-in-the-sun test, the window star count and the city lights card, so this unit does not repeat them. It covers why the Moon seems to follow us, twinkling, star colours and telling planets and aeroplanes from stars."
+   "The Level 3 stargazing unit teaches constellations, nakshatras, dark-adapted eyes and the Moon's daily step among the stars. This lesson leaves all of those to it, and prepares for them with naming what is in the sky, twinkling, and why the Moon seems to follow us.",
+   "The sister unit sci.sky.sun-moon-stars.L1 already has the torch-in-the-sun test, the window star count and the city lights card, so this lesson does not repeat them. It covers why the Moon seems to follow us, twinkling, star colours and telling planets and aeroplanes from stars."
   ],
   "science": [
    "Average Earth to Moon distance: about 384,400 km. At 80 km per hour without stopping, that is about 4,800 hours, or about 200 days.",

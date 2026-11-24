@@ -3,12 +3,12 @@
  "title": "Thinking and memory: how brains and other living beings learn and remember",
  "level": 3,
  "summary": {
-  "text": "Can a story help you remember a list better? In this unit you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.",
+  "text": "Can a story help you remember a list better? In this lesson you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.",
   "art": "A child at a dining table telling a story with her hands, while above her head a few glowing dots are joined by lines, some thin and some thick."
  },
  "intro": {
   "hook": "What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?",
-  "text": "Your brain kept yesterday's breakfast, but let last month's go. In this unit you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.",
+  "text": "Your brain kept yesterday's breakfast, but let last month's go. In this lesson you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.",
   "art": "A plate with two idlis and a little bowl of chutney, and next to it a faded, blurry plate, as if seen through mist."
  },
  "outcomes": [
@@ -2088,10 +2088,10 @@
     },
     {
      "t": "write",
-     "p": "In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this unit and say how it matches her words.",
+     "p": "In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this lesson and say how it matches her words.",
      "lines": 3,
      "a": "For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'",
-     "why": "A strong answer picks a real experiment from this unit and says that repeating it again and again made it easier or made more words last."
+     "why": "A strong answer picks a real experiment from this lesson and says that repeating it again and again made it easier or made more words last."
     },
     {
      "t": "draw",
@@ -2584,7 +2584,7 @@
   "What is the first thing you remember from when you were little?",
   "What did you learn today that you want to remember tomorrow? How will you remember it?",
   "Can you tell me today's day from start to finish, in order?",
-  "Which trick from this unit will you use for your next test or poem?",
+  "Which trick from this lesson will you use for your next test or poem?",
   "Why do you think we remember happy and scary days better than ordinary ones?",
   "Which do you think helps you remember more: reading something again, or trying to say it without looking?",
   "What is your favourite memory of a grandparent or another older person you love?",
@@ -2766,7 +2766,7 @@
    "id": "b-book",
    "item": "Your Fantastic Elastic Brain, by JoAnn Deak, a picture book",
    "kind": "book",
-   "why": "A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this unit works without it.",
+   "why": "A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this lesson works without it.",
    "url": "https://www.amazon.in/s?k=your+fantastic+elastic+brain",
    "used_in": [
     "p1"

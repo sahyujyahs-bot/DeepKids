@@ -3,12 +3,12 @@
  "title": "Time: how we know it is passing, and how clocks and calendars count it",
  "level": 2,
  "summary": {
-  "text": "A spoonful of salt runs out of a paper cone in about the same time each go. Can that be a clock? In this unit you will make a salt timer and test it, look for clues that time has passed, put events in order, and hunt the family calendar for how many dates today has.",
+  "text": "A spoonful of salt runs out of a paper cone in about the same time each go. Can that be a clock? In this lesson you will make a salt timer and test it, look for clues that time has passed, put events in order, and hunt the family calendar for how many dates today has.",
   "art": "A girl of seven watching a thin stream of salt run from a paper cone into a steel tumbler, with a phone stopwatch beside her and a wall calendar behind."
  },
  "intro": {
   "hook": "Close your eyes and sit still. Now open them. Did time pass? How do you know?",
-  "text": "Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this unit we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.",
+  "text": "Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this lesson we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.",
   "art": "A boy of seven sitting cross-legged with his eyes shut, while behind him the window light changes from afternoon to evening."
  },
  "outcomes": [
@@ -1899,7 +1899,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each unit of time to where it comes from.",
+     "p": "Draw a line from each lesson of time to where it comes from.",
      "pairs": [
       [
        "A day",

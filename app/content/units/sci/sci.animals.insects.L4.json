@@ -3,12 +3,12 @@
  "title": "Ant and bee colonies, and how insects pollinate flowers and recycle waste",
  "level": 4,
  "summary": {
-  "text": "Without insects, many of the foods in your kitchen would not grow, and dead things would pile up. How do insects do this work? In this unit you will find which foods needed an insect, test whether hairy or smooth carriers move more pollen, and time ants clearing crumbs.",
+  "text": "Without insects, many of the foods in your kitchen would not grow, and dead things would pile up. How do insects do this work? In this lesson you will find which foods needed an insect, test whether hairy or smooth carriers move more pollen, and time ants clearing crumbs.",
   "art": "A bunch of tiny pale mango flowers with a honeybee and a shiny green fly on it, and below the tree a line of ants carrying a dead moth."
  },
  "intro": {
   "hook": "A bee lands on a pumpkin flower, drinks and flies away. Some weeks later a pumpkin hangs where that flower was. The bee came for a drink. So how did her visit make a pumpkin?",
-  "text": "The bee is hairy, and yellow pollen from the flower stuck to her hairs. At the next pumpkin flower, some of that pollen rubbed off. A flower needs pollen from another flower before seeds and a fruit can grow. The bee was collecting food for her colony, which is her family of thousands of sisters. In this unit you find out how a colony lives. You test why a hairy body carries pollen so well. You also watch another kind of insect work: ants clearing crumbs from your floor.",
+  "text": "The bee is hairy, and yellow pollen from the flower stuck to her hairs. At the next pumpkin flower, some of that pollen rubbed off. A flower needs pollen from another flower before seeds and a fruit can grow. The bee was collecting food for her colony, which is her family of thousands of sisters. In this lesson you find out how a colony lives. You test why a hairy body carries pollen so well. You also watch another kind of insect work: ants clearing crumbs from your floor.",
   "art": "A honeybee dusted with yellow pollen climbing out of a large yellow pumpkin flower on a vine."
  },
  "outcomes": [
@@ -2193,7 +2193,7 @@
        "says": "Maggots clear away dead animals, and adult flies pollinate. Keep flies off food with covers and nets, and leave them alone outdoors."
       }
      ],
-     "ask": "Which person do you agree with most? Give a reason from this unit. Then answer the person you disagree with most.",
+     "ask": "Which person do you agree with most? Give a reason from this lesson. Then answer the person you disagree with most.",
      "a": "Any view with a reason. One reason is that flies really do carry germs to uncovered food. Another is that most visitors to mango flowers in many orchards are flies. A third is that maggots clear dead animals in days.",
      "why": "Each person is right about something. A strong answer uses a fact from the unit and deals fairly with the other side. One fair way is to keep flies off food without killing them everywhere.",
      "outcome": 7
@@ -2382,7 +2382,7 @@
        "says": "I cannot pay for boxes or leave land unused. I will stop spraying when the crop is in flower, which costs me nothing."
       }
      ],
-     "ask": "Which advice would you follow first? Give a reason from this unit. Then say what the other two would add.",
+     "ask": "Which advice would you follow first? Give a reason from this lesson. Then say what the other two would add.",
      "a": "Any choice with a reason. One reason is that a study of 600 fields found wild insects raised harvests in every crop. Another is that mango is pollinated mostly by flies, which no bee box supplies. A third is that spraying on open flowers kills every kind of pollinator.",
      "why": "All three pieces of advice can work together. A strong answer picks one, supports it with a fact, and sees what the others would add.",
      "outcome": 7
@@ -3016,7 +3016,7 @@
  "sources": {
   "founder": [
    "Founder's notebook, Biology list, items 275 to 280: entomology, insect anatomy, social insects (ants, bees, termites), pollination biology, and pest biology and control. Insect anatomy is covered in sci.animals.insects.L2 and sci.animals.invertebrates.L4, so it is used here only for the hairs, pollen baskets and wax.",
-   "The Class 2 unit sci.animals.insects.L2 was read so that nothing repeats. It has leg counting, the Crumb Test with four crumb sizes, the Bee Dance game and the story The Crumb That Walked. This unit goes on to colonies, pollination and recycling, with new experiments, games and a new story.",
+   "The Class 2 unit sci.animals.insects.L2 was read so that nothing repeats. It has leg counting, the Crumb Test with four crumb sizes, the Bee Dance game and the story The Crumb That Walked. This lesson goes on to colonies, pollination and recycling, with new experiments, games and a new story.",
    "Other units were checked for overlap. Ant trails and the sugar drop test are in sci.animal-behaviour.animal-societies.L3 and sci.animals.animals-around-us.L3. Hive jobs, the waggle dance, swarm choice and Karl von Frisch are in sci.animal-behaviour.animal-societies.L4. The queen bee discovery story and Nectar to Honey are in sci.food.where-food-comes-from.L1. The fig wasp, hand pollination and Camerarius are in sci.ecology.interdependence.L3 and sci.seeds-and-life-cycles.plant-life-cycle.L3. Dung beetles, termite fungus farms and vultures are in sci.ecology.cycles-and-decomposers.L4. None of their experiments, games or stories is used here."
   ],
   "science": [
@@ -3058,7 +3058,7 @@
    "what_is_life": "Living beings feed on each other and pass material on. A dead moth becomes young ants, and a fallen leaf becomes soil for a new plant.",
    "what_is_this_world": "Pollinating and recycling go on around you every day. Nobody orders this work and nobody pays for it, and all our food depends on it."
   },
-  "thread": "A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many wise teachers taught that all beings share one life in many forms. This unit shows a similar idea in a practical way. A mango is made by a tree, a fly and the recyclers in the soil, all working together.",
+  "thread": "A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many wise teachers taught that all beings share one life in many forms. This lesson shows a similar idea in a practical way. A mango is made by a tree, a fly and the recyclers in the soil, all working together.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 2.5.1",
@@ -3070,7 +3070,7 @@
    {
     "source": "Dhammapada, verse 49",
     "teaching": "A bee takes nectar from a flower and flies away without harming the flower's colour or scent. A wise person should go through a village in the same way.",
-    "link": "The verse holds up the bee as someone who takes without harming. This unit adds something the verse does not say: the flower gains from the visit.",
+    "link": "The verse holds up the bee as someone who takes without harming. This lesson adds something the verse does not say: the flower gains from the visit.",
     "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
     "verse_lang": "pi"
    },
@@ -3107,5 +3107,5 @@
   ],
   "art": "A ripe mango on a plate, and faintly behind it a mango tree in flower, a green fly, a line of ants and a heap of fallen leaves, all joined by thin lines."
  },
- "playtest": "This unit was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. The Hairy or Smooth test (core) needs haldi, two cotton buds, a plastic pen, white paper and a ruler. It takes about 30 minutes. The expected result is that the cotton bud marks 8 to 15 boxes. The dry pen end marks 1 to 4. The pen must be dry: a damp or oily pen picks up a thick coat of haldi and marks many boxes. Haldi stains cloth, so work on newspaper. The Clean-up Count (core) needs ants. Small house ants are present in most Indian homes, but not in every home on every day. The steps say to try a balcony, a doorstep or the foot of a tree. They also say to move the paper closer if no ant comes in 15 minutes. Some kinds of ant feed at the paper and carry little away. Then the count of ants is the main result. The counting takes about 10 minutes spread over 40, so use the gaps for the cards or the story. The Kitchen Shelf Test works with whatever foods are in the kitchen. A missing food can be a name on a slip of paper. The Raisin at the Bottom needs a grown-up to tape the cotton buds. They must lean in over the tumbler. Jumping Pollen depends on dry air, and it often fails on a damp monsoon day. The step says so. A Flower Calendar for Our Street needs no garden. It does need one older person who knows the local trees. The Buzz Flower works best with haldi and atta mixed. The mixed powder clumps and stays in until the tube is shaken. If the powder pours out of the still tube, the hole is too big. Facts to treat with care: a worker's summer life of about six weeks is the usual figure for the European honeybee. So is a queen's 1,000 or more eggs a day. Indian hive bees have smaller colonies. The figures of 100 flowers a trip and 10 trips a day in the maths are rough. The share of flies among visitors to mango flowers differs from orchard to orchard. The 28-year-old ant queen was a black garden ant kept in a laboratory in Europe. The count of flying insects in Germany comes from one long study. The unit says that India has few such counts. The Brihadaranyaka Upanishad and Dhammapada lines are given as paraphrases. The three videos have no address yet."
+ "playtest": "This lesson was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. The Hairy or Smooth test (core) needs haldi, two cotton buds, a plastic pen, white paper and a ruler. It takes about 30 minutes. The expected result is that the cotton bud marks 8 to 15 boxes. The dry pen end marks 1 to 4. The pen must be dry: a damp or oily pen picks up a thick coat of haldi and marks many boxes. Haldi stains cloth, so work on newspaper. The Clean-up Count (core) needs ants. Small house ants are present in most Indian homes, but not in every home on every day. The steps say to try a balcony, a doorstep or the foot of a tree. They also say to move the paper closer if no ant comes in 15 minutes. Some kinds of ant feed at the paper and carry little away. Then the count of ants is the main result. The counting takes about 10 minutes spread over 40, so use the gaps for the cards or the story. The Kitchen Shelf Test works with whatever foods are in the kitchen. A missing food can be a name on a slip of paper. The Raisin at the Bottom needs a grown-up to tape the cotton buds. They must lean in over the tumbler. Jumping Pollen depends on dry air, and it often fails on a damp monsoon day. The step says so. A Flower Calendar for Our Street needs no garden. It does need one older person who knows the local trees. The Buzz Flower works best with haldi and atta mixed. The mixed powder clumps and stays in until the tube is shaken. If the powder pours out of the still tube, the hole is too big. Facts to treat with care: a worker's summer life of about six weeks is the usual figure for the European honeybee. So is a queen's 1,000 or more eggs a day. Indian hive bees have smaller colonies. The figures of 100 flowers a trip and 10 trips a day in the maths are rough. The share of flies among visitors to mango flowers differs from orchard to orchard. The 28-year-old ant queen was a black garden ant kept in a laboratory in Europe. The count of flying insects in Germany comes from one long study. The unit says that India has few such counts. The Brihadaranyaka Upanishad and Dhammapada lines are given as paraphrases. The three videos have no address yet."
 }

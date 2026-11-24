@@ -3,12 +3,12 @@
  "title": "Keeping safe with electricity: sockets, wires and water",
  "level": 2,
  "summary": {
-  "text": "A crow sits safely on a wire, yet children must never touch a socket. Why? In this unit you will test how dry your hands really are after shaking, wiping and towelling, watch for birds on wires from a window, and play a snakes and ladders game about staying safe.",
+  "text": "A crow sits safely on a wire, yet children must never touch a socket. Why? In this lesson you will test how dry your hands really are after shaking, wiping and towelling, watch for birds on wires from a window, and play a snakes and ladders game about staying safe.",
   "art": "A girl of seven drying her hands on a towel beside a switch board, with a sheet of newspaper on the table showing damp fingerprints."
  },
  "intro": {
   "hook": "You can hold a torch cell in your hand and feel nothing. The wall socket also gives electricity. So why must you never touch it?",
-  "text": "The electricity from a torch cell is weak. The electricity in the wall socket is very strong, strong enough to hurt or kill a person. It can travel through water, and through your body. In this unit you test how much water stays on your hands after you wash them. You see how far a spill can run. And you learn the rules that keep you safe, and the reason for each one.",
+  "text": "The electricity from a torch cell is weak. The electricity in the wall socket is very strong, strong enough to hurt or kill a person. It can travel through water, and through your body. In this lesson you test how much water stays on your hands after you wash them. You see how far a spill can run. And you learn the rules that keep you safe, and the reason for each one.",
   "art": "A child's open hand holding a torch cell, next to a wall socket with a red cross drawn beside it."
  },
  "outcomes": [
@@ -1144,7 +1144,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Fold and staple the book. Help your child choose six rules from this unit. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.",
+     "do": "Fold and staple the book. Help your child choose six rules from this lesson. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.",
      "say": "Which six rules matter most for a little child? Let's choose them together.",
      "kid": "Choose six rules for a little child."
     },
@@ -1208,7 +1208,7 @@
     "Do painting on a different table, away from the lamp.",
     "Stick a 'dry hands' sign with a towel hook next to the switch."
    ],
-   "your_turn": "Now plan your own homework corner, or the place where you do this unit. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.",
+   "your_turn": "Now plan your own homework corner, or the place where you do this lesson. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.",
    "setup": [
     {
      "art": "A plan of a table seen from above, with paper cut-outs of a lamp, a charger, a water bottle and a cup of paint water.",

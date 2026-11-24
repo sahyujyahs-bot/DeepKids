@@ -3,12 +3,12 @@
  "title": "Parasites: how lice, ticks, worms and mosquitoes live on other living beings",
  "level": 3,
  "summary": {
-  "text": "How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this unit you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.",
+  "text": "How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this lesson you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.",
   "art": "A child's head seen close up, with a tiny louse holding a hair, and around it small drawings of a flea, a tick, a worm and a mosquito, each joined to the child by a dotted line."
  },
  "intro": {
   "hook": "Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?",
-  "text": "In this unit you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.",
+  "text": "In this lesson you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.",
   "art": "A child's fingertip holding a single khus khus seed, next to a fine-tooth comb and an ordinary comb lying side by side on a table."
  },
  "outcomes": [
@@ -1428,7 +1428,7 @@
      "qty": 1
     },
     {
-     "item": "your size line and notes from this unit",
+     "item": "your size line and notes from this lesson",
      "qty": 1
     }
    ],
@@ -1625,7 +1625,7 @@
    "channel": "Deep Look",
    "youtube": "rD8SmacBUcU",
    "mins": 3,
-   "why": "Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this unit.",
+   "why": "Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this lesson.",
    "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 18 seconds. Not watched from here: a parent should preview it."
   },
   {
@@ -1961,7 +1961,7 @@
        "says": "Use a lice lotion, following the instructions exactly, and comb afterwards."
       }
      ],
-     "ask": "Which would you choose? Give a reason from this unit. Then say one good point about another choice.",
+     "ask": "Which would you choose? Give a reason from this lesson. Then say one good point about another choice.",
      "lines": 4,
      "a": "A strong answer picks one and gives a reason from the science. For example, combing four times, four days apart, catches the lice that hatch from eggs the comb missed. It then names a fair good point of another choice, such as a lotion killing lice in one go, or short hair being quick to comb.",
      "why": "All three can work, and each has a cost. Combing takes time but uses no chemicals. A lotion needs a grown-up and care. Cutting hair short is quick but many children do not want it."

@@ -3,12 +3,12 @@
   "title": "Evaporation and condensation with particles: what speeds up drying, and how the water cycle works",
   "level": 5,
   "summary": {
-    "text": "A tumbler of water on a shelf has no flame under it, yet its level drops a little every day. Where does the water go? In this unit you will test whether a wider surface loses more water, see if water cools more slowly when it cannot evaporate, and explain the water cycle.",
+    "text": "A tumbler of water on a shelf has no flame under it, yet its level drops a little every day. Where does the water go? In this lesson you will test whether a wider surface loses more water, see if water cools more slowly when it cannot evaporate, and explain the water cycle.",
     "art": "A steel plate, a bowl and a tumbler of water in a row under a ceiling fan, with a zoom circle on the plate showing a few fast particles leaving the water surface."
   },
   "intro": {
     "hook": "After a head bath, hair left loose dries in about an hour. The same hair tied in a tight plait can still be damp at bedtime. The hair, the water and the air are the same. So why does the plait stay wet?",
-    "text": "Water can leave only from a surface that touches the air. Loose hair has a very large surface, and a plait hides most of that surface inside. In this unit you find out what happens at the surface of water. You measure how much more water leaves a wide plate than a narrow tumbler. You find out why hot milk cools faster in a davara than in a tumbler. Then you follow particles of water from the sea up to a cloud and back down as rain.",
+    "text": "Water can leave only from a surface that touches the air. Loose hair has a very large surface, and a plait hides most of that surface inside. In this lesson you find out what happens at the surface of water. You measure how much more water leaves a wide plate than a narrow tumbler. You find out why hot milk cools faster in a davara than in a tumbler. Then you follow particles of water from the sea up to a cloud and back down as rain.",
     "art": "Two girls on a sunny balcony after a head bath, one with loose hair spread over a towel on her shoulders and one with a tight wet plait."
   },
   "outcomes": [
@@ -151,7 +151,7 @@
       "definition": "Evaporation is a liquid turning into a gas at its surface. The particles of a liquid move at many different speeds. A particle at the surface that is moving fast enough breaks away from its neighbours. It flies off into the air.",
       "description": "The particles of liquid water touch each other and hold on to each other. They also move all the time, bumping and sliding. After each bump a particle may be moving faster or slower than before. So at any moment a few particles are very fast, most are in the middle, and a few are slow. Deep inside the water a fast particle only bumps into more water. At the surface a fast particle can break free. It becomes a particle of water vapour, a gas, and mixes with the air. This goes on at every temperature, with no flame and no sunshine. That is why a tumbler of water left on a shelf slowly goes down.",
       "examples": [
-        "In the Shake the Plate activity in this unit, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.",
+        "In the Shake the Plate activity in this lesson, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.",
         "A wet steel plate left on the drying rack is dry by evening, though nobody heated it.",
         "Ink left in an open bottle dries up over the summer holidays."
       ],
@@ -164,7 +164,7 @@
       "definition": "Evaporation happens where water meets air. The more surface the water has, the more particles are at the surface at any moment. So more of them leave each second.",
       "description": "Pour the same water into a wide plate and a narrow tumbler. The plate has many more particles at its surface, so many more leave each minute. Double the surface, and about double the water leaves in the same time. The amount of water underneath makes no difference to how fast it leaves. A deep lake and a shallow puddle in the same weather lose about the same depth of water each day. The puddle is gone first only because it had little depth to lose. A tall vessel loses a little less than its surface suggests. Damp air collects above the water inside its walls, and some particles land back.",
       "examples": [
-        "In the Wide or Narrow experiment in this unit, the plate's surface was about four times the bowl's. The plate lost about four times as much water.",
+        "In the Wide or Narrow experiment in this lesson, the plate's surface was about four times the bowl's. The plate lost about four times as much water.",
         "Wet hair left loose dries much sooner than the same hair in a plait.",
         "Farmers in Guntur spread red chillies in a thin layer on the ground, and never dry them in a heap.",
         "Salt makers in Thoothukudi let sea water into wide, shallow pans, not deep tanks."
@@ -179,7 +179,7 @@
       "description": "Heat is energy, and it goes into the movement of the particles. In cool water only a few particles at the surface are fast enough to leave. In warm water many more are. So warm water evaporates much faster than cool water, long before it boils. The Sun warms the top of the sea, a wet road and a wet shirt in this way. Warmth helps in a second way too. Warm air can carry more water vapour before it is saturated. So fewer particles land back on the wet thing.",
       "examples": [
         "Clothes on a terrace in Madurai dry in an hour at noon in May. In December they take half a day.",
-        "In the Fast Ones Leave game in this unit, adding 1 to every speed for the Sun round let more particles reach the escape speed.",
+        "In the Fast Ones Leave game in this lesson, adding 1 to every speed for the Sun round let more particles reach the escape speed.",
         "A puddle on a tar road vanishes sooner than a puddle of the same size under a tree."
       ],
       "perspectives": [],
@@ -191,8 +191,8 @@
       "definition": "Particles that have escaped can land back on the water. Moving air carries them away, and dry air has few of them to begin with. In both cases fewer particles land back, so the water goes down faster.",
       "description": "Evaporation is a two-way traffic. Particles leave the surface, and particles of vapour from the air land back on it. What we see is the difference between the two. In still air the escaped particles collect just above the surface, and many land back. A fan or a breeze sweeps them away and brings air with less vapour. In humid air, such as Kolkata's in the monsoon, the air already holds a lot of vapour. Nearly as many particles land as leave. Inside a closed bottle the two become equal. The water level stays the same, although particles still leave and land every moment.",
       "examples": [
-        "In the Tilting Hanger experiment in this unit, the cloth under the fan lost more water than the same cloth in still air.",
-        "In the Wide or Narrow experiment in this unit, the closed jar lost no water at all in a whole day.",
+        "In the Tilting Hanger experiment in this lesson, the cloth under the fan lost more water than the same cloth in still air.",
+        "In the Wide or Narrow experiment in this lesson, the closed jar lost no water at all in a whole day.",
         "A towel hung in a closed bathroom after a bath stays wet. The same towel on the balcony dries."
       ],
       "perspectives": [],
@@ -204,8 +204,8 @@
       "definition": "The temperature of water tells how fast its particles move on average. Evaporation takes away the fastest particles. The ones left behind are slower on average, so the water is cooler.",
       "description": "A thermometer gives one number for a whole tumbler of water. But the particles in the tumbler have many different speeds. The number stands for their average. When the fastest particles escape, the average of the rest goes down. A class's average height goes down in the same way if the tallest children leave the room. The water then takes in heat from whatever it touches: your skin, a clay pot, the air. That is why evaporation cools things. Evaporating one teaspoon of sweat takes away enough heat to cool a litre of water by nearly 3 degrees.",
       "examples": [
-        "In the Oil Lid experiment in this unit, the open bowl of hot water cooled faster than the bowl sealed with oil.",
-        "In the Fast Ones Leave game in this unit, the average speed in the pot fell whenever the 5s and 6s at the surface escaped.",
+        "In the Oil Lid experiment in this lesson, the open bowl of hot water cooled faster than the bowl sealed with oil.",
+        "In the Fast Ones Leave game in this lesson, the average speed in the pot fell whenever the 5s and 6s at the surface escaped.",
         "Hot coffee poured back and forth between a davara and a tumbler cools in a minute.",
         "A dog pants on a hot day. Water evaporates from her tongue and cools her blood."
       ],
@@ -245,7 +245,7 @@
       "definition": "Evaporation happens only at the surface, at any temperature. Boiling happens all through the liquid, only at the boiling point, with bubbles of vapour forming inside the liquid.",
       "description": "Heat a pan of water and watch. Tiny bubbles appear on the bottom and walls while the water is only warm. These are air that was dissolved in the water. Much later, at 100 degrees Celsius, big bubbles form at the hot bottom and rise. These are water vapour: water that has turned into a gas inside the liquid. Once water is boiling, more heat does not make it hotter. The heat goes into turning more water into vapour. The white cloud above the pan is the vapour condensing into tiny drops as it meets cooler air. Real water vapour is invisible.",
       "examples": [
-        "In the What Is in the Bubbles? activity in this unit, the first small bubbles came out long before the water boiled.",
+        "In the What Is in the Bubbles? activity in this lesson, the first small bubbles came out long before the water boiled.",
         "Rasam left simmering with no lid slowly gets less. The missing rasam left as vapour.",
         "A wet floor dries at 30 degrees without ever boiling."
       ],
@@ -272,7 +272,7 @@
       "definition": "The dew point is the temperature to which air must be cooled before its vapour starts to condense. Humid air has a high dew point, and dry air has a low one.",
       "description": "Vapour particles in warm air are too fast to stick. Cool the air, or bring it against a cold surface, and at some temperature they begin to stick. That temperature is the dew point. You can find it with a steel tumbler, a thermometer and ice. Cool the water slowly and read the thermometer when the first mist appears. Weather offices report the dew point every day. Clouds form at the height where rising air has cooled to its dew point. That is why the bottoms of many clouds are flat.",
       "examples": [
-        "In the Find the Dew Point activity in this unit, the mist appeared at a higher temperature in a steamy bathroom than in the bedroom.",
+        "In the Find the Dew Point activity in this lesson, the mist appeared at a higher temperature in a steamy bathroom than in the bedroom.",
         "Dew forms on parked scooters in Bengaluru on clear winter nights, when the metal cools below the dew point.",
         "On a humid summer day in Chennai the dew point can be about 25 degrees. On a cold, dry winter morning in Delhi it can be 5 degrees or lower."
       ],
@@ -408,7 +408,7 @@
     {
       "q": "Nobody chooses which particles leave. Yet an open bowl of hot water cools every time. How can chance give the same result each time?",
       "kind": "deep",
-      "hint": "Think about the Fast Ones Leave game in this unit. What happens to the average when only high numbers are removed?"
+      "hint": "Think about the Fast Ones Leave game in this lesson. What happens to the average when only high numbers are removed?"
     },
     {
       "q": "Evaporation and condensation are the same change, run in opposite directions. After a round trip, is the water the same water?",
@@ -1373,7 +1373,7 @@
       "title": "Tumbler or Davara: which cools hot water faster?",
       "mins": 10,
       "days": 1,
-      "context": "This is the first thing to do in the unit. A grown-up pours the same hot water into a tumbler and into a wide davara. You will find out whether the shape of a vessel changes how fast hot water cools.",
+      "context": "This is the first thing to do in the lesson. A grown-up pours the same hot water into a tumbler and into a wide davara. You will find out whether the shape of a vessel changes how fast hot water cools.",
       "materials": [
         {
           "item": "a steel tumbler",
@@ -1446,7 +1446,7 @@
           "say": "Which one is cooler now? The water and the room were the same. What was different? What do you wonder about?",
           "kid": "Touch the outside of each one. Which is cooler? What was different about them? What do you wonder?",
           "adult": true,
-          "parent": "The davara is clearly cooler. Its water has a bigger surface, so more of its fastest particles escape each second. A wide dish also loses more heat straight to the steel and to the air. The Oil Lid, a later experiment in this unit, tests evaporation alone.",
+          "parent": "The davara is clearly cooler. Its water has a bigger surface, so more of its fastest particles escape each second. A wide dish also loses more heat straight to the steel and to the air. The Oil Lid, a later experiment in this lesson, tests evaporation alone.",
           "think": "People in Tamil Nadu pour hot coffee back and forth between a davara and a tumbler. What does the pouring do to the surface of the coffee?",
           "check": {
             "t": "mcq",
@@ -2704,7 +2704,7 @@
               "says": "Temperature is as real as any particle. It melts ice and burns fingers."
             }
           ],
-          "ask": "Which scientist do you agree with? Give a reason from this unit. Then say what the other scientist has right.",
+          "ask": "Which scientist do you agree with? Give a reason from this lesson. Then say what the other scientist has right.",
           "lines": 5
         },
         {
@@ -3603,8 +3603,8 @@
       "Founder's notebook, gases, evaporation and condensation page: 'heat transfer and kinetic theory', 'evaporation and condensation', and the philosophy line 'invisible motion creates observable effects; chaos yields predictable averages'. These lead the explanations, the dice game Fast Ones Leave and the roots.",
       "Founder's notebook, kinetic theory of gases: 'relation of temperature to molecular kinetic energy' and the SCI Card for Ludwig Boltzmann ('temperature is a measure of how fast atoms jiggle'), used for the deep truth.",
       "Founder's notebook, clouds and precipitation: condensation on specks, the reading 'The Cloud Book' by Tomie dePaola (in the buy list), and the 'mini greenhouse with plastic wrap', which became the challenge More Drops per Hour.",
-      "Cambridge Primary Science Learner's Book 5 (2nd edition), the topic of evaporation and condensation, for coverage only (unit and section numbers not rechecked): evaporation and condensation with the particle model, investigating evaporation, the flow chart of changes of state, the water cycle and the survey.",
-      "Other units were checked so that nothing repeats. Closed box, damp air and drying diary tests are in sci.states.evaporation-and-condensation.L3. Liquids racing, lid on or off, the evaporation pan and reading a dew point from an app are in the Level 4 unit. Sun, wind and wide-surface plates, the bowl still, the cloud in a jar and the leaf bag are in sci.water.water-cycle.L3. A wet cloth round a tumbler is in sci.body.keeping-balance.L3, and a wet cloth on a thermometer in sci.energy.heat.L4. This unit measures surface area, isolates evaporative cooling with oil, and explains each result with particles."
+      "Cambridge Primary Science Learner's Book 5 (2nd edition), the idea of evaporation and condensation, for coverage only (unit and section numbers not rechecked): evaporation and condensation with the particle model, investigating evaporation, the flow chart of changes of state, the water cycle and the survey.",
+      "Other units were checked so that nothing repeats. Closed box, damp air and drying diary tests are in sci.states.evaporation-and-condensation.L3. Liquids racing, lid on or off, the evaporation pan and reading a dew point from an app are in the Level 4 unit. Sun, wind and wide-surface plates, the bowl still, the cloud in a jar and the leaf bag are in sci.water.water-cycle.L3. A wet cloth round a tumbler is in sci.body.keeping-balance.L3, and a wet cloth on a thermometer in sci.energy.heat.L4. This lesson measures surface area, isolates evaporative cooling with oil, and explains each result with particles."
     ],
     "science": [
       "Dalton J. (1802). Experimental essays on the constitution of mixed gases; on the force of steam or vapour from water and other liquids in different temperatures, both in a Torricellian vacuum and in air; on evaporation; and on the expansion of gases by heat. Memoirs of the Literary and Philosophical Society of Manchester 5: 535-602.",
@@ -3646,7 +3646,7 @@
       {
         "source": "Lucretius, On the Nature of Things, Book 1 (Rome, about 55 BCE)",
         "teaching": "Clothes hung by the sea grow damp, and spread in the sun they dry. Nobody sees the water settle on them or leave them. So, Lucretius says, the water must come and go in pieces too small for the eye to see.",
-        "link": "This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this unit does.",
+        "link": "This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this lesson does.",
         "verse": ["Denique fluctifrago suspensae in litore vestis", "uvescunt, eaedem dispansae in sole serescunt.", "at neque quo pacto persederit umor aquai", "visumst nec rursum quo pacto fugerit aestu.", "in parvas igitur partis dispergitur umor,", "quas oculi nulla possunt ratione videre."],
         "verse_lang": "la"
       },

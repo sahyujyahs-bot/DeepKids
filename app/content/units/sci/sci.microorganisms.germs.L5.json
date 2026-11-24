@@ -3,12 +3,12 @@
   "title": "Infectious and non-infectious diseases: how they differ, how they spread and how to prevent them",
   "level": 5,
   "summary": {
-    "text": "You can sit beside a grandmother with diabetes, but you are kept away from a cousin with chickenpox. Why? In this unit you will list illnesses in your own family, mark ill houses on two maps with dice to see which illness is catching, and play a card game on how germs travel.",
+    "text": "You can sit beside a grandmother with diabetes, but you are kept away from a cousin with chickenpox. Why? In this lesson you will list illnesses in your own family, mark ill houses on two maps with dice to see which illness is catching, and play a card game on how germs travel.",
     "art": "A grandmother and a girl of ten sitting close together on a sofa, and through a doorway a boy with chickenpox spots resting alone in bed."
   },
   "intro": {
     "hook": "You may sit beside a grandmother who has diabetes all day. But you are kept away from a cousin who has chickenpox. Both are ill. Why is one illness passed on and the other not? And how did anyone find out which is which?",
-    "text": "Some diseases are caused by germs, and many of those pass from one person to the next. They are called infectious diseases. Colds, chickenpox, cholera, malaria and tuberculosis are infectious. Other diseases have no germ behind them, and nobody catches them. They are called non-infectious diseases. Diabetes, asthma, heart disease and most cancers are non-infectious. In this unit you find out how people tell the two kinds apart. You make two maps of 36 houses with dice, one for an illness that is catching and one for an illness that is not. You roll dice for two groups of 30 people to see what a risk does. You fill bottles with smoke to find out how fresh air clears a room. By the end you can name the road each common germ travels and the protection that blocks that road. You can also say what raises the chance of a heart attack, a stroke, diabetes and cancer.",
+    "text": "Some diseases are caused by germs, and many of those pass from one person to the next. They are called infectious diseases. Colds, chickenpox, cholera, malaria and tuberculosis are infectious. Other diseases have no germ behind them, and nobody catches them. They are called non-infectious diseases. Diabetes, asthma, heart disease and most cancers are non-infectious. In this lesson you find out how people tell the two kinds apart. You make two maps of 36 houses with dice, one for an illness that is catching and one for an illness that is not. You roll dice for two groups of 30 people to see what a risk does. You fill bottles with smoke to find out how fresh air clears a room. By the end you can name the road each common germ travels and the protection that blocks that road. You can also say what raises the chance of a heart attack, a stroke, diabetes and cancer.",
     "art": "Two sheets of squared paper side by side on a table, one with ill houses in a tight cluster and one with ill houses scattered, with a die between them."
   },
   "outcomes": [
@@ -186,7 +186,7 @@
       "concept": "The five roads germs travel",
       "status": "defined",
       "definition": "Germs reach a new person by five main roads: the air, water and food, insects and ticks, touch, and blood and other body fluids.",
-      "description": "In this unit we call each way a germ can travel a road. A road is simply the route from one body to the next. Each germ uses mostly one road, and the road decides the protection. Air: the germs leave in coughs, sneezes and speech, and the next person breathes them in. Water and food: the germs leave in the stools of an ill person and reach water, hands, flies or food. The next person swallows them. Insects and ticks: a mosquito or tick takes the germ in with blood and passes the germ on with her next bite. Touch: the germs pass by skin, or by things such as towels, combs and door handles. Blood and body fluids: the germs pass when the blood of an infected person enters another body. A doctor who knows the road can stop a disease without a medicine. Boiling water blocks the water road. A net blocks the mosquito road. An open window thins out the germs on the air road.",
+      "description": "In this lesson we call each way a germ can travel a road. A road is simply the route from one body to the next. Each germ uses mostly one road, and the road decides the protection. Air: the germs leave in coughs, sneezes and speech, and the next person breathes them in. Water and food: the germs leave in the stools of an ill person and reach water, hands, flies or food. The next person swallows them. Insects and ticks: a mosquito or tick takes the germ in with blood and passes the germ on with her next bite. Touch: the germs pass by skin, or by things such as towels, combs and door handles. Blood and body fluids: the germs pass when the blood of an infected person enters another body. A doctor who knows the road can stop a disease without a medicine. Boiling water blocks the water road. A net blocks the mosquito road. An open window thins out the germs on the air road.",
       "examples": [
         "Air: cold, flu, measles, chickenpox, tuberculosis, pneumonia, COVID-19.",
         "Water and food: cholera, typhoid, diarrhoea, dysentery, hepatitis A, polio.",
@@ -3582,7 +3582,7 @@
       {
         "source": "The story of Kisa Gotami, in the commentary on the Dhammapada, verse 114",
         "teaching": "A mother whose child has died asks the Buddha for medicine. He asks her to bring a mustard seed from a house where nobody has ever died. She goes from door to door and finds no such house.",
-        "link": "Kisa Gotami learned something about her own loss only by visiting many houses. In this unit too, some truths about one illness appear only when many homes are looked at together."
+        "link": "Kisa Gotami learned something about her own loss only by visiting many houses. In this lesson too, some truths about one illness appear only when many homes are looked at together."
       },
       {
         "source": "Hippocrates, On Airs, Waters and Places, opening section",

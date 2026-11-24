@@ -3,12 +3,12 @@
  "title": "How heat moves: why a steel spoon in hot tea gets hot",
  "level": 3,
  "summary": {
-  "text": "Why does the top of a steel spoon in hot tea get hot? In this unit you will watch heat climb a steel ladle, find out whether your hand or the plate melts the ice, and play a board game about how heat moves.",
+  "text": "Why does the top of a steel spoon in hot tea get hot? In this lesson you will watch heat climb a steel ladle, find out whether your hand or the plate melts the ice, and play a board game about how heat moves.",
   "art": "A steel ladle standing in a tumbler of steaming water, with four small butter dots along the handle, the lowest one melting and a peppercorn sliding off it."
  },
  "intro": {
   "hook": "Stand a steel spoon in a cup of hot tea for two minutes. Touch the top of the handle. It is warm, though it never touched the tea. How did the heat get up there?",
-  "text": "No hot tea climbed up the spoon. Only the bottom of the spoon is in the tea. Yet the handle warms, slowly, from the bottom up. In this unit you find out how heat travels through a solid, and how fast. You time butter melting along a ladle, you hold ice in your fist, and you find out why a dosa tawa has a wooden handle.",
+  "text": "No hot tea climbed up the spoon. Only the bottom of the spoon is in the tea. Yet the handle warms, slowly, from the bottom up. In this lesson you find out how heat travels through a solid, and how fast. You time butter melting along a ladle, you hold ice in your fist, and you find out why a dosa tawa has a wooden handle.",
   "art": "A cup of tea on a kitchen counter with a steel spoon standing in it, and a child's finger gently touching the tip of the spoon handle while a grown-up watches."
  },
  "outcomes": [
@@ -1119,7 +1119,7 @@
    "channel": "Cool Science Experiments Headquarters",
    "youtube": "Ry8yXhCxclA",
    "mins": 4,
-   "why": "Shows spoons of different materials in hot water with butter and beads on them, the same idea as this unit's tests. Watch it after doing the Ladle Line yourself.",
+   "why": "Shows spoons of different materials in hot water with butter and beads on them, the same idea as this lesson's tests. Watch it after doing the Ladle Line yourself.",
    "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The content was not watched. A parent should watch it first, to check it is clear and accurate."
   },
   {
@@ -1685,7 +1685,7 @@
        "says": "Buy the plain steel one, but cook on a lower flame and stir more."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses a fact: copper is a much better conductor than steel, so it spreads heat evenly. It also admits a fair point, such as cost or cleaning, from another side.",
      "why": "There is no single right answer. Each choice has a real trade-off."

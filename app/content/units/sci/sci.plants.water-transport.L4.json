@@ -3,7 +3,7 @@
  "title": "Wet but thirsty: how a root drinks, and why salty soil dries a plant",
  "level": 4,
  "summary": {
-  "text": "A seedling standing in a flooded field can droop like a plant in a desert, with water all around its roots. Why can it not drink? In this unit you will sprout moong seeds in different amounts of salt, see which pulls more water out of slices, and test which sprig loses most water.",
+  "text": "A seedling standing in a flooded field can droop like a plant in a desert, with water all around its roots. Why can it not drink? In this lesson you will sprout moong seeds in different amounts of salt, see which pulls more water out of slices, and test which sprig loses most water.",
   "art": "A split picture of a rice seedling in a wet field: on the left the seedling stands green in fresh water, on the right the same seedling droops in muddy salty water, with tiny arrows showing water leaving the root hairs."
  },
  "intro": {
@@ -112,7 +112,7 @@
   {
    "concept": "Water has a grip: some water is held tightly",
    "status": "defined",
-   "definition": "Water is held by the things around it. Some water is held loosely and moves easily. Some is held tightly and is very hard to pull away. In this unit, a pull number says how tightly water is held. A bigger pull number means a tighter hold.",
+   "definition": "Water is held by the things around it. Some water is held loosely and moves easily. Some is held tightly and is very hard to pull away. In this lesson, a pull number says how tightly water is held. A bigger pull number means a tighter hold.",
    "description": "Plain water in a glass is held very loosely. Its pull number is 0. Water in the thin film around a grain of soil is held more tightly, because the grain attracts it. Water with salt or sugar dissolved in it is held more tightly too, because the dissolved bits attract water. Scientists call this idea water potential. They measure it in megapascals, written MPa, and put a minus sign in front. We leave the minus sign out, so a bigger number is a tighter grip. Here are some typical numbers. Wet soil is about 0.1. A leaf cell is about 1 to 1.5. Sea water is about 2.5. Water always moves from the place with the smaller pull number to the place with the bigger one. So 'wet' does not tell you if a root can drink. The grip does.",
    "examples": [
     "Plain tap water has a pull number of about 0, so it is easy to take.",
@@ -387,7 +387,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game about the pull numbers from this unit. Each card shows two places and their pull numbers. You guess which way the water moves, and say why.",
+   "context": "This is a guessing game about the pull numbers from this lesson. Each card shows two places and their pull numbers. You guess which way the water moves, and say why.",
    "setup": [
     {
      "art": "Twenty-four cards in a pile in the middle of a table, and four players each holding two tokens marked Toward A and Toward B.",
@@ -2864,9 +2864,9 @@
  "sources": {
   "founder": [
    "Founder's notes in ideas/by_topic/plants.md and water.md: nothing on this subtopic was found. The unit's stance that plants sense, remember and decide shaped the way roots, guard cells and sap are described, and it is stated as a plain finding with the other view given after it.",
-   "The Class 3 unit on how water travels through a plant (sci.plants.water-transport.L3), which this unit builds on. This unit does not repeat its coloured-water, leafy-or-bare and sweating-branch tests, its story, or its history of Hales, Strasburger, Dixon and Joly.",
-   "The Class 4 units on cells (sci.what-is-life.cells.L4) and floating and sinking (sci.states.floating-and-sinking.L4), which use potato strips and raisins in salt water. This unit moves the same idea to roots, seeds and leaves, and uses cucumber, moong and mint instead.",
-   "DeepKids Combined Class 3 Plants (sci-C3-plants.json): the idea of root hairs and of water leaving through the leaves, which this unit takes further."
+   "The Class 3 unit on how water travels through a plant (sci.plants.water-transport.L3), which this lesson builds on. This lesson does not repeat its coloured-water, leafy-or-bare and sweating-branch tests, its story, or its history of Hales, Strasburger, Dixon and Joly.",
+   "The Class 4 units on cells (sci.what-is-life.cells.L4) and floating and sinking (sci.states.floating-and-sinking.L4), which use potato strips and raisins in salt water. This lesson moves the same idea to roots, seeds and leaves, and uses cucumber, moong and mint instead.",
+   "DeepKids Combined Class 3 Plants (sci-C3-plants.json): the idea of root hairs and of water leaving through the leaves, which this lesson takes further."
   ],
   "science": [
    "Dixon, H. H. and Joly, J., On the ascent of sap, Philosophical Transactions of the Royal Society B, 1895 (the cohesion-tension idea, presented in 1894)",

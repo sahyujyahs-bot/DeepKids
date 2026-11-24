@@ -3,12 +3,12 @@
   "title": "Why food spoils, and how drying, salt, sugar and cold keep it",
   "level": 5,
   "summary": {
-    "text": "Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this unit you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.",
+    "text": "Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this lesson you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.",
     "art": "A kitchen shelf with a jar of honey, a jar of mango pickle under oil and a tin of papad, beside a bowl of dal with froth on top."
   },
   "intro": {
     "hook": "A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?",
-    "text": "Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this unit you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.",
+    "text": "Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this lesson you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.",
     "art": "A jar of golden honey and a steel bowl of cooked dal side by side on a kitchen counter, with a calendar on the wall behind them."
   },
   "outcomes": [
@@ -3656,7 +3656,7 @@
       {
         "source": "Taittiriya Upanishad 2.2",
         "teaching": "From food all beings are born. By food they live, and into food they pass when they die.",
-        "link": "A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone.",
+        "link": "A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this lesson's science too, everything alive is food for someone.",
         "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
         "verse_lang": "sa"
       },

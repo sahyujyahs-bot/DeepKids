@@ -3,7 +3,7 @@
  "title": "How water climbs a plant, from the roots to the leaves",
  "level": 3,
  "summary": {
-  "text": "A tree has no heart and no pump, so how does water reach its top leaves? In this unit you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.",
+  "text": "A tree has no heart and no pump, so how does water reach its top leaves? In this lesson you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.",
   "art": "A cut-away drawing of a tulsi plant in a pot: tiny blue drops entering root hairs, climbing a glowing tube inside the stem, spreading through the leaf veins and floating out of the leaves as faint mist towards a warm Sun."
  },
  "intro": {
@@ -132,7 +132,7 @@
   },
   {
    "term": "Phloem (say it: FLOW-um)",
-   "meaning": "The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This unit is about the water tubes, the xylem.",
+   "meaning": "The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This lesson is about the water tubes, the xylem.",
    "example": "Sugarcane juice is sweet because the cane stores food carried in its phloem.",
    "art": "A stem cut open showing two kinds of tubes side by side, one with blue drops and one with golden sugar."
   },
@@ -253,7 +253,7 @@
    "concept": "What makes a plant drink faster",
    "status": "defined",
    "definition": "A plant loses water faster, and so drinks faster, in sunny, warm, windy and dry weather. A plant loses water more slowly in dark, cool, still or damp weather.",
-   "description": "Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this unit.",
+   "description": "Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this lesson.",
    "examples": [
     "A plant on a sunny balcony needs watering more often than one in a shady room.",
     "Desert plants like cactus have few leaves, or none, so they lose less water.",
@@ -1223,7 +1223,7 @@
     },
     {
      "t": "mcq",
-     "p": "Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this unit does this show?",
+     "p": "Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this lesson does this show?",
      "opts": [
       "Water molecules hold on to each other",
       "Leaves pull water up",

@@ -3,12 +3,12 @@
   "title": "Mixing coloured light: why a red torch and a green torch make a yellow wall",
   "level": 4,
   "summary": {
-    "text": "A red torch and a green torch together make a yellow patch on the wall. Why? In this unit you will shine two torches on a pencil to see its two coloured shadows, layer highlighter inks to see if they add or take away colour, and try tricks with afterimages and vanishing red words.",
+    "text": "A red torch and a green torch together make a yellow patch on the wall. Why? In this lesson you will shine two torches on a pencil to see its two coloured shadows, layer highlighter inks to see if they add or take away colour, and try tricks with afterimages and vanishing red words.",
     "art": "A dim room with a red torch and a green torch shining on a white wall, a glowing yellow patch in the middle where the beams overlap, and a pencil in front of the wall with one red shadow and one green shadow."
   },
   "intro": {
     "hook": "Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people guess wrong, because lights do not mix the way paints do.",
-    "text": "Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this unit you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?",
+    "text": "Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this lesson you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?",
     "art": "A child in a dark room holding two torches, one with red cellophane and one with green, both pointing at a white wall that glows yellow where the beams meet."
   },
   "outcomes": [
@@ -1121,7 +1121,7 @@
         },
         {
           "t": "write",
-          "p": "Thomas Young guessed in 1802 that the eye has only three kinds of detector. Name two things you saw or did in this unit that fit his guess.",
+          "p": "Thomas Young guessed in 1802 that the eye has only three kinds of detector. Name two things you saw or did in this lesson that fit his guess.",
           "lines": 4,
           "a": "Red and green torches made a yellow wall, so two lights could stand in for one colour. Phone screens show every colour with only red, green and blue dots. If the eye had a separate detector for yellow, red plus green might not look yellow.",
           "why": "A strong answer gives two pieces of evidence and says how each one fits the idea of three detectors."
@@ -2967,7 +2967,7 @@
   "sources": {
     "founder": [
       "Founder's notes in ideas/by_topic/light-seeing-and-shadows.md, the 'Theory of Colours' and additive and subtractive colour sections: shine red, green and blue torches on a white wall, overlap coloured cellophane, compare colours of objects under daylight and other light, a skit of painters and lighting designers, and a card game of colour mixing",
-      "The Class 3 unit Colour and rainbows, which this unit builds on: sunlight is many colours, a filter takes colours away, and mixing paints is not like mixing lights",
+      "The Class 3 unit Colour and rainbows, which this lesson builds on: sunlight is many colours, a filter takes colours away, and mixing paints is not like mixing lights",
       "Combined lesson sci-C4-light-seeing-and-shadows.json: the afterimage test with a red square on white paper, and the shadow-puppet artists of tholu bommalata in Andhra Pradesh whose puppets make coloured shadows on a lit screen"
     ],
     "science": [

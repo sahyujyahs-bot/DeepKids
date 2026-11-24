@@ -3,7 +3,7 @@
  "title": "Pushes and pulls: what a force is and which way it acts",
  "level": 3,
  "summary": {
-  "text": "When you push a wall, the wall pushes you back just as hard. How can a wall push? In this unit you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.",
+  "text": "When you push a wall, the wall pushes you back just as hard. How can a wall push? In this lesson you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.",
   "art": "A child pushing a swing and pulling a kite string at once, with a bold arrow drawn on each, one pointing forward and one pointing up the string."
  },
  "intro": {
@@ -212,7 +212,7 @@
    ],
    "perspectives": [],
    "art": "A box with three arrows of different lengths pushing it, each labelled, and a small key: longer arrow, bigger force.",
-   "context": "This card teaches the three rules for drawing a force as an arrow. Arrows appear all through this unit."
+   "context": "This card teaches the three rules for drawing a force as an arrow. Arrows appear all through this lesson."
   },
   {
    "concept": "Adding forces: when do they balance?",
@@ -1391,7 +1391,7 @@
        "says": "The team with the strongest arms wins, because they pull the rope harder."
       },
       {
-       "who": "Anjali, a girl of nine in this unit's story",
+       "who": "Anjali, a girl of nine in this lesson's story",
        "says": "The rope pulls both teams equally hard. The team whose feet push the ground harder wins."
       },
       {
@@ -1402,7 +1402,7 @@
      "ask": "Pick the answer you think is best. Back it up with what happened in the Gentle Tug of War activity, where you pulled standing tall and then crouching low. Then say what one of the others would answer back.",
      "lines": 5,
      "a": "Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.",
-     "why": "A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this unit's story, The Rope That Could Only Pull.",
+     "why": "A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this lesson's story, The Rope That Could Only Pull.",
      "how": "a2"
     },
     {
@@ -1480,7 +1480,7 @@
        "says": "A moving thing keeps moving by itself. It slows down only because forces like air and friction act on it."
       }
      ],
-     "ask": "Pick the idea you think fits best. Use something you saw in this unit, like the balloon car or a marble rolling on a smooth floor. Then say how one of the other thinkers would answer back.",
+     "ask": "Pick the idea you think fits best. Use something you saw in this lesson, like the balloon car or a marble rolling on a smooth floor. Then say how one of the other thinkers would answer back.",
      "lines": 5,
      "a": "Newton's idea is the one scientists use today. A marble rolls much further on a smooth floor than on a carpet, so the slowing comes from friction, not from a push running out. But the Vaiśeṣika idea is close to the later idea of momentum, and Aristotle was right that air affects a thrown stone. A strong answer gives each a fair hearing.",
      "why": "A strong answer chooses, uses real evidence (a smoother surface means a longer roll), and answers back from another view."
@@ -3510,7 +3510,7 @@
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "why_maths": "Pulls the same way add up and opposite pulls take away, so adding and subtracting tells you which way a tug of war will go.",
    "how": "g1",
-   "context": "Arrow Wars is this unit's card game about tug of war. Each card is an arrow, and its length is the size of a pull."
+   "context": "Arrow Wars is this lesson's card game about tug of war. Each card is an arrow, and its length is the size of a pull."
   },
   {
    "problem": "In the Push the Wall experiment, these were the three tries for a hard push: 90 cm, 110 cm and 100 cm. What is the middle value?",
@@ -3555,9 +3555,9 @@
    "context": "In the Balloon Rocket experiment, a balloon is taped under a straw on a string. When it lets its air out, it zooms along the string."
   },
   {
-   "problem": "In Arrow Spotting, suppose you draw 1 centimetre of arrow for each unit of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be?",
+   "problem": "In Arrow Spotting, suppose you draw 1 centimetre of arrow for each lesson of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be?",
    "answer": "8 centimetres.",
-   "explain": "The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each unit, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero.",
+   "explain": "The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each lesson, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero.",
    "math_unit": "math.length.standard-units-length.L3",
    "why_maths": "Measuring arrows in centimetres makes the length show the size of the force exactly.",
    "how": "a7",
@@ -3853,7 +3853,7 @@
    {
     "source": "Bhagavad Gita 3.27",
     "teaching": "All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.'",
-    "link": "The Gita is talking about who does our actions, not about physics. But this unit finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.",
+    "link": "The Gita is talking about who does our actions, not about physics. But this lesson finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.",
     "verse": ["प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।", "अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।"],
     "verse_lang": "sa"
    },

@@ -3,12 +3,12 @@
  "title": "Exploring space: why rockets and astronauts must carry their own air",
  "level": 3,
  "summary": {
-  "text": "Why must a rocket carry its own oxygen? In this unit you will put a candle under a jar to see how long a flame can burn on the air it has, make a lime-sized Earth to see how far space is, and pack a bag for an astronaut's day.",
+  "text": "Why must a rocket carry its own oxygen? In this lesson you will put a candle under a jar to see how long a flame can burn on the air it has, make a lime-sized Earth to see how far space is, and pack a bag for an astronaut's day.",
   "art": "A rocket rising from a launch pad by the sea at Sriharikota, with a thin blue band of air around the curve of the Earth above it and black space beyond, and a small telescope on a terrace in the corner."
  },
  "intro": {
   "hook": "A rocket's engine burns fuel, and burning needs air. There is no air in space. So how does a rocket's fire keep burning up there?",
-  "text": "In this unit you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.",
+  "text": "In this lesson you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.",
   "art": "A lit tealight on a steel plate with an upside-down glass jar held just above it by a grown-up's hand, and a picture of a rocket launch pinned on the wall behind."
  },
  "outcomes": [
@@ -706,15 +706,15 @@
      "id": "s2",
      "mins": 6,
      "do": "Read the cards one at a time. Ask for a reason after each.",
-     "say": "How do you know? Which test or story in this unit tells you?",
+     "say": "How do you know? Which test or story in this lesson tells you?",
      "kid": "Say why you chose it.",
-     "parent": "The best reasons point to an experiment in this unit: The Jar and the Flame, or Half a Lens."
+     "parent": "The best reasons point to an experiment in this lesson: The Jar and the Flame, or Half a Lens."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Count the points and talk about the trickiest card.",
-     "say": "Pick one myth card. What is the true idea? Which test or fact in this unit shows it?",
+     "say": "Pick one myth card. What is the true idea? Which test or fact in this lesson shows it?",
      "kid": "Count your points. Then pick one myth card.",
      "check": {
       "t": "mcq",
@@ -2166,7 +2166,7 @@
        "says": "The money would help more people if it were spent on schools here."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing that another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with a fact, such as: Pragyan worked on the Moon with no air, or a person can react at once, while a message to a Mars rover takes minutes. It then admits a fair point from another side, such as the cost.",
      "why": "This is a real argument with real trade-offs: safety and cost against the skill of people, and space spending against other needs."
@@ -2784,9 +2784,9 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Galileo (telescope, Jupiter's moons, the Moon's craters) and Katherine Johnson (orbit calculations for crewed flights); the topic's emphasis on credit to women, used in naming the women who led India's missions.",
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Galileo (telescope, Jupiter's moons, the Moon's craters) and Katherine Johnson (orbit calculations for crewed flights); the idea's emphasis on credit to women, used in naming the women who led India's missions.",
    "curriculum/sci.json entry sci.sky.exploring-space.L3 (covers: telescopes, rockets and astronauts; India's space missions). No board chapter is mapped to this subtopic, so no board pack was used.",
-   "Checked against the nearby units so nothing repeats: the balloon rocket and the Goddard story are in sci.forces.push-and-pull.L3; the leaking bottle and weightlessness tests are in sci.gravity.weight-and-mass.L3 and sci.gravity.falling.L3; the lens picture of a window is in sci.light.refraction.L3 (this unit adds covering the lens); the scale of Sun, Earth and Moon is in sci.sky.sun-moon-stars.L3 (this unit's lime model is about the thin air and the height of space)."
+   "Checked against the nearby units so nothing repeats: the balloon rocket and the Goddard story are in sci.forces.push-and-pull.L3; the leaking bottle and weightlessness tests are in sci.gravity.weight-and-mass.L3 and sci.gravity.falling.L3; the lens picture of a window is in sci.light.refraction.L3 (this lesson adds covering the lens); the scale of Sun, Earth and Moon is in sci.sky.sun-moon-stars.L3 (this lesson's lime model is about the thin air and the height of space)."
   ],
   "science": [
    "Pieters and others, 'Character and spatial distribution of OH/H2O on the surface of the Moon seen by M3 on Chandrayaan-1', Science 326, 2009",

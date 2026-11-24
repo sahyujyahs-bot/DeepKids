@@ -3,12 +3,12 @@
  "title": "Houses and shelter: what keeps a home standing, dry and safe",
  "level": 3,
  "summary": {
-  "text": "Why does a square frame lean over when you push it, but a triangle frame stays firm? In this unit you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.",
+  "text": "Why does a square frame lean over when you push it, but a triangle frame stays firm? In this lesson you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.",
   "art": "A row of Indian homes side by side: a Kerala house with a steep tiled roof, an Assam bamboo house on stilts, a Ladakh flat-roofed mud house, a round Kutch bhunga and a city block of flats, with a child's card frame shaped like a triangle in the front."
  },
  "intro": {
   "hook": "Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?",
-  "text": "Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this unit you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.",
+  "text": "Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this lesson you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.",
   "art": "A child's hands on a table, one pressing a card square that has leaned into a flat diamond, the other pressing a card triangle that stays the same."
  },
  "outcomes": [
@@ -197,7 +197,7 @@
    "concept": "Safety rules when building and at home",
    "status": "defined",
    "definition": "Safety rules are steps that stop people getting hurt. On a building site and at home, most injuries come from falls, falling objects, sharp tools and electricity.",
-   "description": "Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this unit, a grown-up does every step with a sharp point, a knife or a hammer.",
+   "description": "Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this lesson, a grown-up does every step with a sharp point, a knife or a hammer.",
    "examples": [
     "A worker on scaffolding wearing a yellow helmet and a harness.",
     "A sign at a building site saying 'Helmets must be worn'.",
@@ -2023,7 +2023,7 @@
        "says": "It doesn't matter which material we use, as long as the frame has braces and the roof is not too heavy."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from this lesson. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and backs it with a fact, such as concrete's strength, a jaali wall's breeze, or the Push Test showing braces matter. It then admits a fair point from another side, because each choice has real costs and gains.",
      "why": "There is no single right answer. Builders and architects really disagree about this."
@@ -2224,7 +2224,7 @@
        "says": "Build round mud houses with light roofs, as our families did. They stood when new buildings fell."
       }
      ],
-     "ask": "Which builder would you choose for your family's house? Give a reason from this unit. Then say what the other builder has right.",
+     "ask": "Which builder would you choose for your family's house? Give a reason from this lesson. Then say what the other builder has right.",
      "lines": 5,
      "a": "A strong answer chooses one side with a real reason, for example that the bhungas stood in 2001, or that well-built concrete can be tall and strong. It then admits a fair point: how well a house is built matters more than the material.",
      "why": "Both views are held by real experts. A strong answer shows it understands the trade-off."

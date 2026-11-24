@@ -11,12 +11,12 @@
   "sci.making-things.design-and-build.L3"
  ],
  "summary": {
-  "text": "A pan is made of metal, and its handle is made of wood or plastic. Why? In this unit you will race hot spoons of different materials, test whether a sweater makes heat, find out why a clay matka cools water, and pick materials for jobs.",
+  "text": "A pan is made of metal, and its handle is made of wood or plastic. Why? In this lesson you will race hot spoons of different materials, test whether a sweater makes heat, find out why a clay matka cools water, and pick materials for jobs.",
   "art": "A kitchen shelf with a steel kadai with a wooden handle, a clay pot, a woollen tea cosy and a plastic raincoat on a hook, each with a small label arrow pointing to the part that does its job."
  },
  "intro": {
   "hook": "Think of a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?",
-  "text": "Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this unit you test materials the way an engineer does, and find out why each one is right for its job.",
+  "text": "Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this lesson you test materials the way an engineer does, and find out why each one is right for its job.",
   "art": "A child holding a chocolate kadai that is melting on a stove, a paper umbrella going soggy in the rain, and a glass chappal with a crack, all drawn as a funny three-panel cartoon."
  },
  "outcomes": [
@@ -218,7 +218,7 @@
    "concept": "Pans and handles: conductors and insulators",
    "status": "defined",
    "definition": "A conductor of heat lets heat pass through it quickly. An insulator lets heat pass through only slowly. Most metals are good conductors. Wood, plastic, cloth, cork and air are good insulators.",
-   "description": "A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon usually stays solid for much longer. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
+   "description": "A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this lesson shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon usually stays solid for much longer. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
    "examples": [
     "A dosa tawa is iron. Its handle is often wood.",
     "A steel tumbler of hot chai is too hot to hold. A clay kulhad of the same chai is easy to hold.",
@@ -444,7 +444,7 @@
    "for": "You feel warmer as soon as you put it on.",
    "against": "A sweater has no heat of its own. It traps your body's heat. Put a sweater on a cold stone and the stone does not get warm.",
    "status": "rejected",
-   "context": "This card is about what a sweater really does. The ice cube test in this unit checks it."
+   "context": "This card is about what a sweater really does. The ice cube test in this lesson checks it."
   },
   {
    "claim": "Natural materials are always better than materials made by people.",
@@ -1387,7 +1387,7 @@
      "lines": 4,
      "a": "A strong answer says the straw strands run through the brick. When a crack starts, it reaches a strand of straw and cannot easily get past it. So the crack stops growing, and the brick holds together.",
      "why": "A material is only as strong as its biggest crack. Mud and straw together make a composite: the mud is hard, and the straw stops cracks spreading.",
-     "context": "In this unit's story, a village in Ladakh builds a sun-warmed classroom with thick mud walls."
+     "context": "In this lesson's story, a village in Ladakh builds a sun-warmed classroom with thick mud walls."
     },
     {
      "t": "mcq",
@@ -1424,7 +1424,7 @@
      "lines": 3,
      "a": "Any fix that slows heat. For example: wooden shutters, because wood is an insulator. Or a second pane of glass with still air between the two, because still air is an insulator. Or straw mats, because they trap air.",
      "why": "A strong answer names a new material and the property that slows heat leaving.",
-     "context": "In this unit's story, a village in Ladakh builds a sun-warmed classroom with a big glass window, a dark mud wall and a straw roof."
+     "context": "In this lesson's story, a village in Ladakh builds a sun-warmed classroom with a big glass window, a dark mud wall and a straw roof."
     },
     {
      "t": "mcq",
@@ -3703,7 +3703,7 @@
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay.",
-    "link": "A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.",
+    "link": "A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This lesson's science goes one step further: clay, steel and wool are all atoms, joined in different ways.",
     "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
     "verse_lang": "sa"
    }

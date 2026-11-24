@@ -3,12 +3,12 @@
  "title": "Chemical reactions: how vinegar, baking soda and rusting iron make new substances",
  "level": 4,
  "summary": {
-  "text": "Dry baking soda out of water and it comes back. Dry it out of vinegar and it does not. Why? In this unit you will try six mixes and look for signs of a reaction, test the powder left after the fizz, and build atom models of water and rust.",
+  "text": "Dry baking soda out of water and it comes back. Dry it out of vinegar and it does not. Why? In this lesson you will try six mixes and look for signs of a reaction, test the powder left after the fizz, and build atom models of water and rust.",
   "art": "Two small steel pans side by side, each with a white crust inside, and a spoon dropping vinegar on to each: one crust is fizzing and the other is not."
  },
  "intro": {
   "hook": "A new iron tawa is grey and hard. Leave it wet for a week, and brown flakes cover it. Nobody painted it. So where did the brown flakes come from?",
-  "text": "The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, but iron is grey and hard. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.",
+  "text": "The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, but iron is grey and hard. A change that makes a new substance is called a chemical reaction. In this lesson you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.",
   "art": "A grey iron tawa on a kitchen counter with a patch of orange-brown rust where a few drops of water were left on it."
  },
  "outcomes": [
@@ -1962,7 +1962,7 @@
     },
     {
      "t": "write",
-     "p": "A reaction stops, although plenty of one reactant is left. Give a reason, with an example from this unit.",
+     "p": "A reaction stops, although plenty of one reactant is left. Give a reason, with an example from this lesson.",
      "lines": 3,
      "a": "The other reactant has run out. In the Rust Uses Up Air experiment, the rusting stopped when the oxygen in the glass was used up. Steel wool was still left.",
      "why": "A strong answer says that a reaction needs all of its reactants. It gives the steel wool or the leftover baking soda as an example.",
@@ -2727,7 +2727,7 @@
      "Rust"
     ],
     "Rust",
-    "Vinegar, baking soda and iron are reactants in this unit, but rust is a product."
+    "Vinegar, baking soda and iron are reactants in this lesson, but rust is a product."
    ],
    [
     [
@@ -2788,9 +2788,9 @@
  "sources": {
   "founder": [
    "Notebook, Chemistry list, item 19: 'Chemical Reactions and Thermodynamics'. The next item, the types of reactions (synthesis, decomposition, redox, acid and base, precipitation), is left for sci.changes.chemical-reactions.L5.",
-   "Curriculum entry for this unit: 'new substances form (vinegar and baking soda, rusting); signs of a reaction', from Cambridge Stage 4, 3.4 Chemical reactions.",
+   "Curriculum entry for this lesson: 'new substances form (vinegar and baking soda, rusting); signs of a reaction', from Cambridge Stage 4, 3.4 Chemical reactions.",
    "No lower level of this subtopic exists. Related units were read so that nothing repeats. sci.changes.fire.L4 has Pour Out a Fire and the burning steel wool balance, so no flame is used here. sci.chemistry.reaction-speed.L4 has the Rust Race with nails and the Iron Pillar story. sci.evolution.story-of-life.L3 has nails under oil. sci.chemistry.elements.L2 has tamarind on brass. sci.chemistry-detectives L3 has Three White Powders. The experiments, game and story here are new.",
-   "The topic-level song title, Same Atoms, New Partners, is shared with sci.changes.fire.L4."
+   "The idea-level song title, Same Atoms, New Partners, is shared with sci.changes.fire.L4."
   ],
   "science": [
    "Black J. (1756). Experiments upon magnesia alba, quicklime, and some other alcaline substances. Essays and Observations, Physical and Literary 2: 157-225. (Fixed air, now called carbon dioxide.)",
@@ -2819,7 +2819,7 @@
   "art": "An old workshop with clay pots, a glass flask on a small furnace and a woman in ancient Egyptian dress lifting a pot out of a pan of hot water."
  },
  "roots": {
-  "context": "In this unit you tested the powder left after a fizz, and watched steel wool rust inside a glass. Here we ask where the properties of a new substance come from.",
+  "context": "In this lesson you tested the powder left after a fizz, and watched steel wool rust inside a glass. Here we ask where the properties of a new substance come from.",
   "deep_truth": {
    "truth": "In After the Fizz, vinegar and baking soda left a new powder that no longer fizzed. In Rust Uses Up Air, hard grey steel and a gas from the air made brown crumbs. Each new substance behaved unlike both of the substances that made it. So to know what a new substance does, you have to test the substance itself.",
    "habit": "We expect a thing made from parts to be like its parts. A drink of lime juice and sugar is sour and sweet. In a chemical reaction this habit fails, because the product can behave unlike every reactant.",
@@ -2874,5 +2874,5 @@
   ],
   "art": "A child's open hand holding a rusty nail and a pinch of white powder, with a faint drawing of small joined balls rising from each."
  },
- "playtest": "This unit was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. Six Mixes, Five Signs (core) uses lime juice, baking soda, salt, black tea and warm milk. Mix 1 fizzes, the tea with lime juice turns clearly paler, and warm milk makes lumps within a minute. Cold milk is slow, so the step asks for warm milk. After the Fizz (core) needs a grown-up at the stove for about 8 minutes. Open a window, because hot vinegar smells sharp. The pans must be cool before the drop test, or any liquid will sizzle. The expected result is that the water crust fizzes and the vinegar crust does not. If the vinegar crust fizzes a little, too little vinegar was used, and step 3 guards against this. Heating can turn part of the dried baking soda into washing soda. Washing soda also fizzes, so the result is the same. Drying under a fan avoids the stove, and takes a day or two. Atom Swap and Reaction Families need only coins, seeds, paper and scissors. Rust Uses Up Air needs the iron kind of steel wool, from a hardware or paint shop. Stainless steel kitchen scrubbers do not rust. With steel wool cleaned in vinegar, the water usually starts to climb within a day. It stops at about one fifth of the air space by the second or third day. The plates must be topped up so that the rims stay under water. Cold Fizz uses a whole cup of vinegar. The fizz tumbler is usually 3 to 5 degrees cooler, which most hands can tell. Some children will not notice, and the step says to record that honestly. The Self-Filling Bag is messy when a zip pops, so it is done over a tray or in the sink. The amounts given suit a pouch of about 15 by 20 centimetres and ordinary vinegar. Stronger or weaker vinegar shifts them a little. No part needs a garden, and no flame is used except the stove in After the Fizz. Nobody tastes anything. Facts checked on 17 Nov 2026: Lavoisier's 33 substances (gold and lead included), the 1999 Nobel Prize for Zewail, the museum pages, the PhET links, and the journal citations. Softened: Mary the Jewess's dates, the word 'credited' for the water bath, Boyle's wording, and the shop prices (removed). The Charvaka view is known only from writers who disagreed with it. The story's lamp test is real, but it is not a safety rule, and the story note says so. The three videos have no address yet."
+ "playtest": "This lesson was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. Six Mixes, Five Signs (core) uses lime juice, baking soda, salt, black tea and warm milk. Mix 1 fizzes, the tea with lime juice turns clearly paler, and warm milk makes lumps within a minute. Cold milk is slow, so the step asks for warm milk. After the Fizz (core) needs a grown-up at the stove for about 8 minutes. Open a window, because hot vinegar smells sharp. The pans must be cool before the drop test, or any liquid will sizzle. The expected result is that the water crust fizzes and the vinegar crust does not. If the vinegar crust fizzes a little, too little vinegar was used, and step 3 guards against this. Heating can turn part of the dried baking soda into washing soda. Washing soda also fizzes, so the result is the same. Drying under a fan avoids the stove, and takes a day or two. Atom Swap and Reaction Families need only coins, seeds, paper and scissors. Rust Uses Up Air needs the iron kind of steel wool, from a hardware or paint shop. Stainless steel kitchen scrubbers do not rust. With steel wool cleaned in vinegar, the water usually starts to climb within a day. It stops at about one fifth of the air space by the second or third day. The plates must be topped up so that the rims stay under water. Cold Fizz uses a whole cup of vinegar. The fizz tumbler is usually 3 to 5 degrees cooler, which most hands can tell. Some children will not notice, and the step says to record that honestly. The Self-Filling Bag is messy when a zip pops, so it is done over a tray or in the sink. The amounts given suit a pouch of about 15 by 20 centimetres and ordinary vinegar. Stronger or weaker vinegar shifts them a little. No part needs a garden, and no flame is used except the stove in After the Fizz. Nobody tastes anything. Facts checked on 17 Nov 2026: Lavoisier's 33 substances (gold and lead included), the 1999 Nobel Prize for Zewail, the museum pages, the PhET links, and the journal citations. Softened: Mary the Jewess's dates, the word 'credited' for the water bath, Boyle's wording, and the shop prices (removed). The Charvaka view is known only from writers who disagreed with it. The story's lamp test is real, but it is not a safety rule, and the story note says so. The three videos have no address yet."
 }

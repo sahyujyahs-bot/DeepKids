@@ -3,12 +3,12 @@
  "title": "How animals send messages: smell, colour, sound, touch and echoes",
  "level": 4,
  "summary": {
-  "text": "A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this unit you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.",
+  "text": "A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this lesson you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.",
   "art": "A pale silk moth sitting on a mulberry leaf at night, and a second moth with wide feathery antennae flying towards her through the dark."
  },
  "intro": {
   "hook": "A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?",
-  "text": "The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this unit you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.",
+  "text": "The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this lesson you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.",
   "art": "A tigress walking away from a tree in a dry forest, with a wet mark on the bark, and a second tiger far behind on the same path."
  },
  "outcomes": [
@@ -107,7 +107,7 @@
    "concept": "Signals travel on four channels",
    "status": "defined",
    "definition": "A signal is something one animal does or makes that carries a message to another animal. A channel is the way the signal travels: smell, sight, sound or touch.",
-   "description": "Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This unit takes the channels one at a time, and then compares them.",
+   "description": "Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This lesson takes the channels one at a time, and then compares them.",
    "examples": [
     "An ant leaves a scent trail to food. That is a message on the smell channel.",
     "A fan-throated lizard flashes a blue, black and orange throat. That is a message on the sight channel.",
@@ -2140,7 +2140,7 @@
        "says": "Both are right. The caller has reasons to call, and each listener weighs the call and chooses."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from this unit. Then say what test might help to decide.",
+     "ask": "Which view do you agree with most? Give a reason from this lesson. Then say what test might help to decide.",
      "a": "Any view with a reason. One reason is that monkeys respond differently to different calls. Another is that false alarm calls show a signal can be used to push others.",
      "why": "Working scientists hold each of these views. A strong answer uses an example from the unit and suggests a test, such as playing a call from a hidden speaker.",
      "outcome": 7
@@ -2774,7 +2774,7 @@
  "sources": {
   "founder": [
    "Founder's notebook, Biology list, items 105 to 110: communication, chemical (pheromones), visual (displays, colours), auditory (songs, calls, echolocation), tactile (touch, grooming, vibration) and symbolic language. Symbolic language, the bee dance in detail and the question of ape and whale language are left for sci.animal-behaviour.animal-communication.L5, as the curriculum says.",
-   "The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This unit goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.",
+   "The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This lesson goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.",
    "Other units were checked for overlap. The firefly flash games are in sci.light.living-light, Bat and Moth is in sci.animals.animal-bodies.L3, and the bat discovery story is in sci.sound.hearing.L3, so none of these is used here."
   ],
   "science": [
@@ -2810,7 +2810,7 @@
   "art": "An old study at night with an open window, a wire cover on a table with a large moth under it, and many moths flying in around a lamp."
  },
  "roots": {
-  "context": "In this unit you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.",
+  "context": "In this lesson you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.",
   "deep_truth": {
    "truth": "In the Smell Mark Test, your nose found the clove mark long after the sender had left the room. A call or a wave ends when the sender stops. A smell mark goes on giving its message while the sender is far away. So one tigress can warn others off many trees at once, without being at any of them.",
    "habit": "We think of a message as something that passes between two beings who are together, as when we talk. A scent mark needs no meeting. The sender and the receiver may never see each other.",
@@ -2826,7 +2826,7 @@
    {
     "source": "Rig Veda 1.164.45",
     "teaching": "The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth.",
-    "link": "The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this unit found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.",
+    "link": "The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this lesson found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.",
     "verse": ["चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः ।", "गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति"],
     "verse_lang": "sa"
    },

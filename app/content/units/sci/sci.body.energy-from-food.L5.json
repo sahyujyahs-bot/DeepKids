@@ -3,7 +3,7 @@
  "title": "Metabolism: how your cells break food down, build you up and keep you warm",
  "level": 5,
  "summary": {
-  "text": "A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this unit you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.",
+  "text": "A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this lesson you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.",
   "art": "A steel tumbler of water cooling on a table beside a child holding a palm to their own warm cheek, with four small bottles topped by balloons of different sizes in the background."
  },
  "intro": {
@@ -1332,7 +1332,7 @@
       }
      ],
      "think": "Would the water have stayed warm if you had wrapped the tumbler in a shawl?",
-     "parent": "Take any idea. 'From food' is right, and this unit explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.",
+     "parent": "Take any idea. 'From food' is right, and this lesson explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.",
      "context": "This is the last step of Warmer Than the Room. Here you ask why the water went cool and you did not."
     }
    ]
@@ -3202,7 +3202,7 @@
    "Founder's SCI Card for Gerty Cori in ideas/by_topic/body-parts-and-skeleton.md ('Your muscles don't burn fuel and throw away the waste, they recycle it'): used in the energy stores card, the lactate card, the Wall Sit and the worksheets.",
    "Founder's grade concept grids for Energy and Entropy in ideas/by_topic/energy.md ('Metabolic efficiency is less than 100%', 'Do living things break entropy? They export disorder', 'food to motion'): used in the heat card and in the challenging views.",
    "Founder's SCI Card for Yellapragada SubbaRow, and the Combined lesson sci-C5-energy ('Your body uses energy even now', 'Food: the energy that keeps living beings going', 'Subbarow and the energy coin of the cell'): used in the ATP card. Its story and its burning cashew are not repeated.",
-   "The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this unit builds on and does not repeat."
+   "The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this lesson builds on and does not repeat."
   ],
   "science": [
    "Schoenheimer, R. and Rittenberg, D., 'Deuterium as an indicator in the study of intermediary metabolism', Journal of Biological Chemistry, 1935 onward. Schoenheimer, R., The Dynamic State of Body Constituents, Harvard University Press, 1942",

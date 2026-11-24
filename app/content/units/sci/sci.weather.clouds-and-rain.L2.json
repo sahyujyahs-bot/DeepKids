@@ -3,12 +3,12 @@
  "title": "Clouds and rain: how tiny drops in a cloud become rain",
  "level": 2,
  "summary": {
-  "text": "A cloud is made of tiny drops, so why do they float and not fall? In this unit you will watch mist in a torch beam, spray a steel plate to see how many sprays it takes before a drop runs down, and draw white and grey clouds.",
+  "text": "A cloud is made of tiny drops, so why do they float and not fall? In this lesson you will watch mist in a torch beam, spray a steel plate to see how many sprays it takes before a drop runs down, and draw white and grey clouds.",
   "art": "A big grey monsoon cloud over a row of flats, with a zoom-in circle showing tiny round drops bumping and joining into one big raindrop that falls."
  },
  "intro": {
   "hook": "Spray one puff of mist from a spray bottle into the air, in a beam of torchlight. Then let one drop of water fall from a spoon. Which one reaches the floor first?",
-  "text": "The drop from the spoon falls straight down in a blink. The tiny drops of the mist sparkle in the light and drift slowly, and some seem to hang in the air. A cloud is made of drops even smaller than these. So how does a cloud ever make rain? In this unit you test it yourself, with a spray bottle and a steel plate.",
+  "text": "The drop from the spoon falls straight down in a blink. The tiny drops of the mist sparkle in the light and drift slowly, and some seem to hang in the air. A cloud is made of drops even smaller than these. So how does a cloud ever make rain? In this lesson you test it yourself, with a spray bottle and a steel plate.",
   "art": "A dark room with a torch beam shining across it, a sparkling puff of mist drifting in the beam, and a single big drop falling from a steel spoon beside it."
  },
  "outcomes": [
@@ -2110,7 +2110,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/changing-materials.md, 'Clouds & Precipitation': the floating cloud dance ending in raindrop leaps (used in the Float, Join, Fall game), the drip-drip relay idea of drops joining (used in the spray plate test and the card game), cloud-spotting and recording rain (used in the white-or-grey activity and the four-week sky book).",
-   "The Class 1 weather unit says clouds are tiny drops. This unit leads on from it to how those drops become rain. The cloud in a jar, the cold tumbler and the kettle monsoon are left to the Class 3 water cycle unit."
+   "The Class 1 weather unit says clouds are tiny drops. This lesson leads on from it to how those drops become rain. The cloud in a jar, the cold tumbler and the kettle monsoon are left to the Class 3 water cycle unit."
   ],
   "science": [
    "Cloud droplets are typically about 10 to 20 micrometres across and raindrops about 1 to 2 millimetres, so one raindrop holds about as much water as a million cloud droplets (standard cloud physics, for example R. R. Rogers and M. K. Yau, A Short Course in Cloud Physics).",

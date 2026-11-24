@@ -3,12 +3,12 @@
  "title": "Sorting animals into groups: testing rules against the hard cases",
  "level": 4,
  "summary": {
-  "text": "A bat flies and a dolphin swims, so which one is a mammal? In this unit you will pick which two of a bat, a crow and a cat belong together, test sorting rules against hard cases to see which ones break, and sort animals with no backbone.",
+  "text": "A bat flies and a dolphin swims, so which one is a mammal? In this lesson you will pick which two of a bat, a crow and a cat belong together, test sorting rules against hard cases to see which ones break, and sort animals with no backbone.",
   "art": "A bat, a crow and a cat sitting in a row on a roof ledge at dusk, with a thin string joining the bat to the cat."
  },
  "intro": {
   "hook": "Take a bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.",
-  "text": "Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this unit you test sorting rules on the animals that are hardest to sort, and you find rules that never break.",
+  "text": "Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this lesson you test sorting rules on the animals that are hardest to sort, and you find rules that never break.",
   "art": "A child on a balcony at dusk pointing at a bat flying past a crow, with a cat watching from the window."
  },
  "outcomes": [
@@ -3019,7 +3019,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/kinds-of-living-things-and-sorting-them.md: the RNA picture book, used for the sponge as the first animal, sponges that shrink when touched, and the branching tree of life",
    "The Combined lessons sci-C4-kinds-of-living-things-and-sorting-them and sci-C3-kinds-of-living-things-and-sorting-them, used for the words arthropod, exoskeleton and convergent evolution, and for the idea that unrelated animals can share a feature",
-   "The Level 3 unit on sorting living things, which this unit builds on: groups inside groups, sorting by clues that come from ancestors, and the archaea story. This unit does not repeat its experiments or story",
+   "The Level 3 unit on sorting living things, which this lesson builds on: groups inside groups, sorting by clues that come from ancestors, and the archaea story. This lesson does not repeat its experiments or story",
    "Nearby units built on, not repeated: sci.animals.vertebrate-groups.L2 and L3, and sci.animals.invertebrates.L3"
   ],
   "science": [

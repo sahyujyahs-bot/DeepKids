@@ -3,12 +3,12 @@
   "title": "How life might have begun: hot vents, the RNA world and deep time",
   "level": 5,
   "summary": {
-    "text": "Every living cell today comes from another living cell. So the first cell had no parent cell, and nobody saw how they began. Scientists have two main ideas about the place: hot vents on the sea floor, or warm pools on land. In this unit you will test whether a soap skin can form in sea-salty water, which is one of the arguments between the two ideas. You will also fit the whole age of the Earth onto your own arm span.",
+    "text": "Every living cell today comes from another living cell. So the first cell had no parent cell, and nobody saw how they began. Scientists have two main ideas about the place: hot vents on the sea floor, or warm pools on land. In this lesson you will test whether a soap skin can form in sea-salty water, which is one of the arguments between the two ideas. You will also fit the whole age of the Earth onto your own arm span.",
     "art": "A child shaking a clear bottle of foamy water at a table, with two more bottles beside her, and behind her a faint drawing of tall white chimneys on a dark sea floor."
   },
   "intro": {
     "hook": "A hen comes from an egg, and the egg comes from a hen. Every cell comes from a cell. Follow that back far enough and you reach a first cell with no parent. Where could that cell have come from?",
-    "text": "Nobody knows the answer yet. But scientists do not just guess. They look for places on Earth where the chemistry of life could start without any living being, and they test each step in the laboratory. In this unit you will meet two such places, and test one of the arguments yourself with soap, salt and water. You will also see why the question is so hard. It happened about four billion years ago, and you will measure how long ago that is.",
+    "text": "Nobody knows the answer yet. But scientists do not just guess. They look for places on Earth where the chemistry of life could start without any living being, and they test each step in the laboratory. In this lesson you will meet two such places, and test one of the arguments yourself with soap, salt and water. You will also see why the question is so hard. It happened about four billion years ago, and you will measure how long ago that is.",
     "art": "A row of pictures going back in time: a child, her mother, a small furry animal, a fish, a single round cell, and then a question mark beside a bubbling crack in rock."
   },
   "outcomes": [
@@ -3114,7 +3114,7 @@
       "Curriculum entry sci.evolution.story-of-life.L5: how life might have begun (hydrothermal vents, RNA world), and deep time on a scale model. Notebook items bio:45, bio:46, bio:49, bio:52 and chem:135.",
       "Founder's picture book 'RNA's story of life', narrated by RNA (ideas/by_topic/evolution-the-tree-of-life.md): hydrothermal vents with a warm zone of 50 to 90 degrees, RNA chains that copy themselves, RNA folding into shapes with functions, lipid bubbles sheltering RNA as the first protocells.",
       "DeepKids Combined lesson sci-C5-how-life-began: the vents-or-pools debate, the Drying Drops activity (improved here as a4), the idea behind the evidence card game (Origin Detectives), LUCA and the shared genetic code, and the ribosome as a machine made of RNA.",
-      "DeepKids Combined lesson sci-C3-how-life-began, and the Level 2 and Level 3 units of this subtopic, which this unit builds on without repeating their experiments or stories.",
+      "DeepKids Combined lesson sci-C3-how-life-began, and the Level 2 and Level 3 units of this subtopic, which this lesson builds on without repeating their experiments or stories.",
       "Maths links from the curriculum entry: math.number-sense.big-numbers.L5 and math.measurement-basics.scale-models.L5."
     ],
     "science": [

@@ -3,12 +3,12 @@
   "title": "The Sun up close: layers, spots, storms and the wind that blows past the Earth",
   "level": 4,
   "summary": {
-    "text": "The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this unit you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.",
+    "text": "The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this lesson you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.",
     "art": "A spacecraft picture of the Sun with a sharp round edge, a few dark spots, and a faint glowing halo that reaches beyond a small Earth drawn at the side."
   },
   "intro": {
     "hook": "If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?",
-    "text": "The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this unit you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.",
+    "text": "The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this lesson you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.",
     "art": "A child at a window holding a printed picture of the Sun, with the real Sun's rays reaching past the picture's edge into the room."
   },
   "outcomes": [
@@ -1653,7 +1653,7 @@
             "why": "The Sun is gas from the outside to the centre, getting hotter and thicker as you go in. Hot rock is a common guess, because we think of the Sun as a very hot planet."
           },
           "think": "The picture shows a sharp edge. If there is no ground, what can that edge be? You will find out in the Glowing Fog experiment.",
-          "context": "In this step, you draw the Sun and meet the puzzle this unit will answer."
+          "context": "In this step, you draw the Sun and meet the puzzle this lesson will answer."
         }
       ]
     },
@@ -2707,7 +2707,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this unit to answer them.",
+          "p": "A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this lesson to answer them.",
           "lines": 4,
           "a": "The Sun is gas, so there is no wall. The edge is the layer where light can escape. The corona and the wind continue beyond it and blow past the Earth, so space near us still has the Sun's gas in it.",
           "why": "A strong answer uses the idea of the photosphere and the wind to show that the Sun does not stop at the edge."
@@ -3373,7 +3373,7 @@
     "founder": [
       "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Maria Mitchell (daily sunspot photographs) and Ruby Payne-Scott (radio bursts from the Sun), and the activity of tracking the Sun's behaviour, used in the sunspot diary and the Sunspot story",
       "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on light bending and splitting into colours (prism, rainbows), used in the Sun's Barcode",
-      "The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This unit adds the layers, spots, spin, wind and aurora"
+      "The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This lesson adds the layers, spots, spin, wind and aurora"
     ],
     "science": [
       "Galileo Galilei, Istoria e dimostrazioni intorno alle macchie solari (Letters on Sunspots), 1613; Christoph Scheiner, Tres epistolae de maculis solaribus, 1612",

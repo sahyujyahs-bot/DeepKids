@@ -3,12 +3,12 @@
  "title": "Fresh water and salt water: why so little of Earth's water can be drunk",
  "level": 5,
  "summary": {
-  "text": "Most of Earth's water is sea water, so very little of it can be drunk. How little? In this unit you will share out one litre of Earth in numbers, freeze salty water to see if the ice keeps the salt, and test what salty water does to a potato.",
+  "text": "Most of Earth's water is sea water, so very little of it can be drunk. How little? In this lesson you will share out one litre of Earth in numbers, freeze salty water to see if the ice keeps the salt, and test what salty water does to a potato.",
   "art": "A one-litre bottle of water on a kitchen counter, with five teaspoons of water in a small steel katori beside the bottle and one single drop on a dark plate."
  },
  "intro": {
   "hook": "From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?",
-  "text": "The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this unit you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.",
+  "text": "The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this lesson you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.",
   "art": "A small lifeboat with one sailor on a wide blue sea under a hot sun, holding an empty steel tumbler."
  },
  "outcomes": [
@@ -347,7 +347,7 @@
    "concept": "Is there water deep inside the Earth?",
    "status": "idea",
    "definition": "",
-   "description": "All the numbers in this unit count the water at Earth's surface: the sea, the ice, the groundwater and the air. There may be more, far below. In 2014, the scientist Graham Pearson and his team studied a small diamond from Brazil. Inside the diamond was a speck of a mineral called ringwoodite, which forms hundreds of kilometres down. The speck held water, locked inside the mineral. This water is not a liquid and nobody could drink it. If much of the deep rock is like that speck, the rock could hold as much water as all the oceans. One speck is very little evidence, so this is still an idea.",
+   "description": "All the numbers in this lesson count the water at Earth's surface: the sea, the ice, the groundwater and the air. There may be more, far below. In 2014, the scientist Graham Pearson and his team studied a small diamond from Brazil. Inside the diamond was a speck of a mineral called ringwoodite, which forms hundreds of kilometres down. The speck held water, locked inside the mineral. This water is not a liquid and nobody could drink it. If much of the deep rock is like that speck, the rock could hold as much water as all the oceans. One speck is very little evidence, so this is still an idea.",
    "examples": [
     "A mineral can hold water locked inside its own structure and still look dry, as plaster does.",
     "Volcanoes give off steam, so some water does come up from deep rock."
@@ -3726,7 +3726,7 @@
    "Curriculum entry sci.water.water-sources-and-uses.L5: forms and sources of water, fresh and salt, and how little of Earth's water we can drink. Board chapter NCERT Class 5 Chapter 1, Water: The Essence of Life (N5-1), for the share of fresh water, the three forms, groundwater and glaciers. The water cycle, rivers, pond life and saving water are left to the sibling units sci.water.water-cycle.L5, sci.water.rivers.L5 and sci.water.saving-water.L5.",
    "DeepKids Combined lesson sci-C5-water: the bucket-and-teaspoon picture was taken and reworked into One Litre Earth, with a litre bottle and new numbers. Its story and its other activities are not reused.",
    "Founder's notebook, water page: the idea of oceans and sky as one breathing system is echoed in the roots. The founder's cloud and ocean activities belong to the water-cycle unit and are not repeated.",
-   "Other units were checked so that nothing repeats. Sea in a Bowl (sci.water.water-cycle.L3) makes fresh water from salty water in the Sun, and this unit uses freezing instead. Salted Slices and Salty Cucumber (osmosis in cut vegetables) and Where the River Meets the Sea (layers in a glass) are in the plant and habitat units, so this unit uses potato sticks, a jar with a straw well and ice cubes. The Potato and the Salt (floating) is in sci.states.floating-and-sinking.L4. Look, Torch and Wait and Gone from Sight use thinning by steps, and Mix a Lagoon uses mixing ratios for a different question."
+   "Other units were checked so that nothing repeats. Sea in a Bowl (sci.water.water-cycle.L3) makes fresh water from salty water in the Sun, and this lesson uses freezing instead. Salted Slices and Salty Cucumber (osmosis in cut vegetables) and Where the River Meets the Sea (layers in a glass) are in the plant and habitat units, so this lesson uses potato sticks, a jar with a straw well and ice cubes. The Potato and the Salt (floating) is in sci.states.floating-and-sinking.L4. Look, Torch and Wait and Gone from Sight use thinning by steps, and Mix a Lagoon uses mixing ratios for a different question."
   ],
   "science": [
    "Shiklomanov I. A. (1993). World fresh water resources. In P. H. Gleick (ed.), Water in Crisis: A Guide to the World's Fresh Water Resources. Oxford University Press.",
@@ -3753,7 +3753,7 @@
   "art": "A man in eighteenth-century clothes on a snowy London rooftop at night, bending over shallow dishes of water with a thermometer in his hand."
  },
  "roots": {
-  "context": "In this unit you froze salty water and found that the ice left most of the salt behind. Here we ask what that tells us about fresh water, the sea and ourselves.",
+  "context": "In this lesson you froze salty water and found that the ice left most of the salt behind. Here we ask what that tells us about fresh water, the sea and ourselves.",
   "deep_truth": {
    "truth": "In One Litre Earth, all the fresh lakes and rivers of the world fill less than one drop. Even so, rivers have kept running for millions of years. The Sun lifts fresh water out of the sea and leaves the salt behind. Then rain brings the water back. So a place can keep using water for ever only if it takes no more than the rain refills.",
    "habit": "We call Earth a water planet, so it seems that water can never run short. That counts the sea, which people cannot drink. The water that people can actually use is only a small amount. It is what the Sun lifts out of the sea and the rain brings back.",
@@ -3769,7 +3769,7 @@
    {
     "source": "Chandogya Upanishad 6.10",
     "teaching": "The rivers in the east flow east and the rivers in the west flow west. They rise from the sea and go back to the sea, and they become the sea. Once there, they do not know 'I am this river' or 'I am that river'.",
-    "link": "The verse says that rivers come from the sea and return to it. This unit's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.",
+    "link": "The verse says that rivers come from the sea and return to it. This lesson's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.",
     "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
     "verse_lang": "sa"
    },
@@ -3783,7 +3783,7 @@
    {
     "source": "Thich Nhat Hanh, No Death, No Fear (2002)",
     "teaching": "A cloud never dies. It can become rain, snow or ice, but it cannot become nothing.",
-    "link": "This is the same journey told from the cloud's side. The fresh water in a tumbler was vapour, and before that it was sea. It is a way of looking. The measurements in this unit stand without it."
+    "link": "This is the same journey told from the cloud's side. The fresh water in a tumbler was vapour, and before that it was sea. It is a way of looking. The measurements in this lesson stand without it."
    }
   ],
   "science": [

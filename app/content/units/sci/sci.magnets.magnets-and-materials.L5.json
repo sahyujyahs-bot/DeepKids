@@ -3,12 +3,12 @@
  "title": "Magnetic metals: why a magnet attracts one coin and not another",
  "level": 5,
  "summary": {
-  "text": "A magnet lifts a one-rupee coin and a two-rupee coin, but leaves a five-rupee coin and a ten-rupee coin on the table. All four are metal, so why? In this unit you will test every coin in the house, and check whether colour or shine can tell you which metals are magnetic.",
+  "text": "A magnet lifts a one-rupee coin and a two-rupee coin, but leaves a five-rupee coin and a ten-rupee coin on the table. All four are metal, so why? In this lesson you will test every coin in the house, and check whether colour or shine can tell you which metals are magnetic.",
   "art": "A child's hand holding a magnet with a one-rupee coin and a two-rupee coin hanging from it, above a golden five-rupee coin and a ten-rupee coin lying on a table."
  },
  "intro": {
   "hook": "Put a one-rupee coin and a golden five-rupee coin on the table. Now think about a magnet. Which coin will the magnet lift: both, one, or neither? Say what you think, and why.",
-  "text": "Many people expect a magnet to attract every metal. Others expect it to attract every coin, or none. In the first activity, Four Coins and a Magnet, you test four coins and see. Then you test every coin in the house. In this unit you find out which metals are magnetic, and how to test them fairly. You also find out why two things made mostly of iron can give a magnet two different answers.",
+  "text": "Many people expect a magnet to attract every metal. Others expect it to attract every coin, or none. In the first activity, Four Coins and a Magnet, you test four coins and see. Then you test every coin in the house. In this lesson you find out which metals are magnetic, and how to test them fairly. You also find out why two things made mostly of iron can give a magnet two different answers.",
   "art": "A one-rupee coin and a golden five-rupee coin side by side on a wooden table, with a small magnet held just above them and a question mark between."
  },
  "outcomes": [
@@ -3180,7 +3180,7 @@
    "answer": "740 degrees.",
    "explain": "770 minus 30 is 740. So the iron must become 740 degrees hotter, and a little more, before the magnet lets go.",
    "math_unit": "math.addition-subtraction.written-methods.L5",
-   "context": "In this unit you read that Pierre Curie showed in 1895 that iron stops being attracted above a fixed temperature.",
+   "context": "In this lesson you read that Pierre Curie showed in 1895 that iron stops being attracted above a fixed temperature.",
    "why_maths": "Taking one temperature away from the other tells you how much hotter than a kitchen the iron must become before a magnet lets go."
   },
   {
@@ -3188,7 +3188,7 @@
    "answer": "1 gram of chromium and 5 grams of other metals.",
    "explain": "One sixth of 6 is 1. So there is 1 gram of chromium. The other 5 grams are mostly iron.",
    "math_unit": "math.fractions.fractions-of-a-whole.L5",
-   "context": "In this unit you read that coin steel is iron with about one sixth chromium.",
+   "context": "In this lesson you read that coin steel is iron with about one sixth chromium.",
    "why_maths": "A fraction of a weight tells you how much of each metal is in a thing."
   },
   {
@@ -3212,7 +3212,7 @@
    "title": "Ferromagnetism (Wikipedia)",
    "url": "https://en.wikipedia.org/wiki/Ferromagnetism",
    "kind": "interactive",
-   "why": "For the parent: the lining up of atoms, domains and the Curie temperature, in more detail than this unit."
+   "why": "For the parent: the lining up of atoms, domains and the Curie temperature, in more detail than this lesson."
   },
   {
    "title": "Heusler compound (Wikipedia)",
@@ -3224,7 +3224,7 @@
    "title": "Magnets and Electromagnets (PhET simulation)",
    "url": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets",
    "kind": "simulation",
-   "why": "To move a magnet around and watch how a compass needle answers. It shows the field that this unit talks about."
+   "why": "To move a magnet around and watch how a compass needle answers. It shows the field that this lesson talks about."
   },
   {
    "title": "Stainless steel (Wikipedia)",
@@ -3479,7 +3479,7 @@
   "founder": [
    "Founder's notebook, magnets page: the idea that a magnet attracts only some metals, and the sorting of mixed metals. It is used in the coin tests and in the sorter.",
    "Curriculum entry sci.magnets.magnets-and-materials.L5: magnets and magnetic materials, and testing which metals are magnetic. Board chapters Cambridge Stage 5 5.5 and the NIOS Class 5 chapter listed for it.",
-   "Other units were checked so that nothing repeats. The Floating Needle Compass, the Great Magnet Test, Steel Detectives, the Can That Follows and the Mystery Bag are in the lower levels of this topic and of materials. This unit's coin tests, the T test, the foil balls, the stamps and the bent spoon are new."
+   "Other units were checked so that nothing repeats. The Floating Needle Compass, the Great Magnet Test, Steel Detectives, the Can That Follows and the Mystery Bag are in the lower levels of this topic and of materials. This lesson's coin tests, the T test, the foil balls, the stamps and the bent spoon are new."
   ],
   "science": [
    "Heusler F. (1903). Über magnetische Manganlegierungen. Verhandlungen der Deutschen Physikalischen Gesellschaft, p. 219.",
@@ -3500,7 +3500,7 @@
   "art": "A man in a furnace room in 1903 holding a small silver-grey bar against a magnet, with three jars labelled copper, manganese and aluminium on the bench behind him."
  },
  "roots": {
-  "context": "In this unit you laid the same coins in two patterns. You found that a rule that works in one pattern can fail in the other. Here we ask what that says about the iron in a coin, and about you.",
+  "context": "In this lesson you laid the same coins in two patterns. You found that a rule that works in one pattern can fail in the other. Here we ask what that says about the iron in a coin, and about you.",
   "deep_truth": {
    "truth": "In Same Coins, Two Patterns, one rule worked for coins in rows and failed for coins in a triangle. In the same way, the iron atoms in a coin and in a plate are alike, yet only the coin answers a magnet. Each atom is a tiny magnet, but a coin's answer comes from how the whole crowd of atoms sits together. So that answer belongs to the group, and you cannot find it by looking at one atom.",
    "habit": "We think that a thing's properties are inside its smallest parts. So we say 'iron is magnetic', as if each atom carried it alone, and we expect a thing with iron to be attracted.",
@@ -3516,7 +3516,7 @@
    {
     "source": "Chandogya Upanishad 6.1.4, the teaching of Uddalaka to his son",
     "teaching": "By knowing one lump of clay, you know all things made of clay. The differences are only names for the same clay.",
-    "link": "The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This unit adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.",
+    "link": "The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This lesson adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.",
     "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
     "verse_lang": "sa"
    },

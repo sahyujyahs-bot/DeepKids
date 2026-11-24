@@ -3,12 +3,12 @@
  "title": "Light sources: things that make their own light",
  "level": 1,
  "summary": {
-  "text": "Switch off a torch in a dark room and the dark comes back at once. Which things make their own light? In this unit you will test things in a dark room, sort cards of light makers, and go on a little lights hunt at night.",
+  "text": "Switch off a torch in a dark room and the dark comes back at once. Which things make their own light? In this lesson you will test things in a dark room, sort cards of light makers, and go on a little lights hunt at night.",
   "art": "A girl in a dark room holding a lit torch, with a steel tumbler and a brass lamp beside her, and a sunny window drawn on the wall behind."
  },
  "intro": {
   "hook": "Switch off the lights in a room at night. Hold your hand in front of your face. Can you see it?",
-  "text": "In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this unit you find out which things make their own light, and which things only look bright.",
+  "text": "In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this lesson you find out which things make their own light, and which things only look bright.",
   "art": "A child in a dark room holding up one hand, and a torch beam just switched on, lighting up the hand."
  },
  "outcomes": [
@@ -1974,8 +1974,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/light-seeing-and-shadows.md: the founder's trataka (steady candle-gazing) idea became the Roots practice, done briefly with a diya at arm's length and with a sunny window instead for families without a flame. Her 'flash-light chase' and 'photon tag' physical games grew into Torch On, Torch Off. Her note on fireflies lighting the night became the firefly cards, spotted card and video. Her deeper ideas (photons, speed of light, the 8-minute trip, glow sticks and the dark box) belong to the Level 3 light units, so this unit does not repeat them.",
-   "Curriculum entry sci.light.light-sources.L1 (Sun, lamp, fire, torch: things that give light). No board chapter is listed for this level. The Level 2 unit goes on to the Moon and to darkness as the absence of light, so this unit only prepares for those ideas."
+   "ideas/by_topic/light-seeing-and-shadows.md: the founder's trataka (steady candle-gazing) idea became the Roots practice, done briefly with a diya at arm's length and with a sunny window instead for families without a flame. Her 'flash-light chase' and 'photon tag' physical games grew into Torch On, Torch Off. Her note on fireflies lighting the night became the firefly cards, spotted card and video. Her deeper ideas (photons, speed of light, the 8-minute trip, glow sticks and the dark box) belong to the Level 3 light units, so this lesson does not repeat them.",
+   "Curriculum entry sci.light.light-sources.L1 (Sun, lamp, fire, torch: things that give light). No board chapter is listed for this level. The Level 2 unit goes on to the Moon and to darkness as the absence of light, so this lesson only prepares for those ideas."
   ],
   "science": [
    "Cecilia Payne, Stellar Atmospheres (PhD thesis, Radcliffe College, 1925): stars are mostly hydrogen and helium. H. N. Russell, 'On the composition of the Sun's atmosphere', Astrophysical Journal 70 (1929), confirmed it.",

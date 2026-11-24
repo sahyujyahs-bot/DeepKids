@@ -3,12 +3,12 @@
  "title": "Maps and directions: how to draw your home so someone else can find their way",
  "level": 3,
  "summary": {
-  "text": "How can a drawing with no colours or sounds lead a stranger to a hidden coin? In this unit you will find east from the morning Sun, draw a map of your home with a key, and test a memory map against a map made by counting tiles.",
+  "text": "How can a drawing with no colours or sounds lead a stranger to a hidden coin? In this lesson you will find east from the morning Sun, draw a map of your home with a key, and test a memory map against a map made by counting tiles.",
   "art": "A child's squared-paper map of a bedroom, with a bed, a cupboard and a door drawn from above, a small X in the middle of the floor, and an arrow marked N in the corner."
  },
  "intro": {
   "hook": "Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?",
-  "text": "In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.",
+  "text": "In this lesson you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.",
   "art": "A grandmother standing in a doorway holding a small paper map, looking at a coin on a tiled floor, while a girl watches from behind the door."
  },
  "outcomes": [
@@ -2114,7 +2114,7 @@
        "says": "Say 'go to the east side of the stairs'. Left changes when you turn round."
       }
      ],
-     "ask": "Who do you agree with? Give a reason from this unit. Then say one thing the other sister has right.",
+     "ask": "Who do you agree with? Give a reason from this lesson. Then say one thing the other sister has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence. For the second child: in the Left-Right or East-West test, 'turn right' worked only from one start, but east worked every time. For the first child: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.",
      "why": "Both sisters have a point. East works for any reader. Left works when everyone arrives facing the same way."
@@ -2664,7 +2664,7 @@
    "id": "b-compass",
    "item": "A small magnetic compass (optional)",
    "kind": "tool",
-   "why": "Finds north at any time of day, even when it is cloudy. Stationery shops and online shops sell small plastic compasses for children. A phone compass app or the morning Sun works just as well for this unit.",
+   "why": "Finds north at any time of day, even when it is cloudy. Stationery shops and online shops sell small plastic compasses for children. A phone compass app or the morning Sun works just as well for this lesson.",
    "url": "https://www.amazon.in/s?k=magnetic+compass+for+kids",
    "used_in": [
     "a2",
@@ -2838,7 +2838,7 @@
    "kid": "Close your eyes. Picture walking from your bed to the kitchen. Count the steps. Now open your eyes. Walk it and count. Was the map in your head right?"
   },
   "ask": [
-   "Which of the maps you made in this unit was the most useful, and who was it useful to?",
+   "Which of the maps you made in this lesson was the most useful, and who was it useful to?",
    "In the story Thatha and the Six Towers, Thatha hardly needed his map once he knew the way home. So what is a map for?",
    "If an ant, a bird and you each map the same building, whose map is the real one?"
   ],

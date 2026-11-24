@@ -3,12 +3,12 @@
  "title": "Black holes: where gravity is so strong that light cannot get out",
  "level": 3,
  "summary": {
-  "text": "A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this unit you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.",
+  "text": "A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this lesson you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.",
   "art": "A black circle in space, ringed by bright swirling orange gas, with a few stars curving round it. Beside it, in a small circle, a child looking into a small hole in a closed cardboard box."
  },
  "intro": {
   "hook": "Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.",
-  "text": "In this unit you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.",
+  "text": "In this lesson you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.",
   "art": "A shoebox with black paper on its lid and a small round hole in the middle. The hole looks deeper and darker than the black paper around it."
  },
  "outcomes": [
@@ -1433,7 +1433,7 @@
        "says": "'Black hole' is a bad name. It is not empty. It is packed full of mass."
       }
      ],
-     "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
+     "ask": "Who do you agree with more? Give a reason from this lesson. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence. For the first child: no light comes out, so it is black, and anything that crosses the edge falls in for good. For the second child: a black hole is a huge mass squeezed small, not an empty space. Then it says one thing the other person has right.",
      "why": "Both are partly right. The name describes what we see and what happens to things that fall in, but not what a black hole is made of."
@@ -1623,7 +1623,7 @@
        "says": "We are sure. Stars race round it, and nothing else could pull them that hard."
       }
      ],
-     "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
+     "ask": "Who do you agree with more? Give a reason from this lesson. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence. For the first child: seeing something yourself is strong evidence, and nobody has a picture of the black hole itself, only of the gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
      "why": "This is a real question about evidence. Most knowledge about black holes comes from what they do to things nearby, not from seeing them."
@@ -1782,7 +1782,7 @@
     },
     {
      "t": "write",
-     "p": "Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this unit.",
+     "p": "Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this lesson.",
      "lines": 4,
      "a": "A strong answer gives a view and evidence. For example: it is real, because stars swing round it and gas glows near it. In the Hidden Partner activity, the watcher found the hidden partner in the same way. Or: we should keep testing, because we only know it from clues.",
      "why": "This asks how we can know something we cannot see. Any side is fine if it uses evidence."

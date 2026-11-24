@@ -3,12 +3,12 @@
  "title": "Senses in action: how long a signal takes, and how the brain guesses",
  "level": 4,
  "summary": {
-  "text": "A friend drops a ruler between your fingers, and you always catch it only after it has fallen a hand-length. Where does the delay happen? In this unit you will measure your reaction time with a falling ruler, test how fast a smell fades from your nose, and try the rubber hand trick.",
+  "text": "A friend drops a ruler between your fingers, and you always catch it only after it has fallen a hand-length. Where does the delay happen? In this lesson you will measure your reaction time with a falling ruler, test how fast a smell fades from your nose, and try the rubber hand trick.",
   "art": "A child's hand catching a falling ruler between thumb and finger, with a glowing line of sparks running from the child's eye up to the brain and down the arm to the hand."
  },
  "intro": {
   "hook": "Ask a friend to hold a ruler upright, with its bottom between your finger and thumb. Do not move. Your friend lets go without any warning. Close your fingers as fast as you can. Look at the number where you caught it. Did your fingers close at once?",
-  "text": "They did not. The ruler fell a hand-length or so before you caught it, even though you saw it start to fall. In this unit you measure that delay for the eyes, the ears and the skin, and you find out where the time goes. Then you test how small a change a sense can notice, how a smell fades while you stand in it, and how your brain guesses what is about to happen. You also meet animals that sense magnetism and electricity.",
+  "text": "They did not. The ruler fell a hand-length or so before you caught it, even though you saw it start to fall. In this lesson you measure that delay for the eyes, the ears and the skin, and you find out where the time goes. Then you test how small a change a sense can notice, how a smell fades while you stand in it, and how your brain guesses what is about to happen. You also meet animals that sense magnetism and electricity.",
   "art": "A ruler dropping between a child's open finger and thumb, with a friend's hand above it, in a bright kitchen."
  },
  "outcomes": [
@@ -2997,7 +2997,7 @@
    "id": "b-book",
    "item": "An Immense World, by Ed Yong",
    "kind": "book",
-   "why": "A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the unit depends on it, and a library copy is fine.",
+   "why": "A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the lesson depends on it, and a library copy is fine.",
    "url": "https://www.amazon.in/s?k=An+Immense+World+Ed+Yong",
    "used_in": [
     "g1"
@@ -3098,7 +3098,7 @@
   "founder": [
    "Founder's notebook, Senses: the SCI Cards for Obaid Siddiqi (the genetics of taste and smell in fruit flies) and Ibn al-Haytham (testing ideas against reality). The Grade 3 and 4 concept grids on reality ('perception constructs experience'), used for the roots and the last explanation.",
    "Founder's weekly journey 'All Perception Is Subjective': two people with different clues drawing the same word, which is the idea behind the Bouba or Kiki test and the Sense Detectives game.",
-   "The Class 3 unit on the five senses, which this unit builds on. It showed that every sense sends nerve signals. This unit asks how long they take, how big a change must be, why steady things fade and how the brain guesses."
+   "The Class 3 unit on the five senses, which this lesson builds on. It showed that every sense sends nerve signals. This lesson asks how long they take, how big a change must be, why steady things fade and how the brain guesses."
   ],
   "science": [
    "Adrian and Zotterman, 'The impulses produced by sensory nerve endings', Journal of Physiology, 1926 (pulse rate and stimulus strength)",

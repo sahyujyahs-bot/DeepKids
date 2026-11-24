@@ -3,12 +3,12 @@
  "title": "Vibration: how strings, skins and air columns make sound",
  "level": 5,
  "summary": {
-  "text": "Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this unit you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.",
+  "text": "Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this lesson you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.",
   "art": "A child drawing a card along the teeth of a comb, with a row of separate dots on the left that crowd together into one smooth line on the right."
  },
  "intro": {
   "hook": "Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?",
-  "text": "The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this unit you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.",
+  "text": "The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this lesson you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.",
   "art": "A rubber band stretched over the open mouth of a steel tumbler, drawn as a blur that is widest in the middle, with a child's finger about to touch it."
  },
  "outcomes": [
@@ -393,7 +393,7 @@
   ]
  },
  "roots": {
-  "context": "In this unit you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.",
+  "context": "In this lesson you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.",
   "deep_truth": {
    "truth": "In the Comb Test, a slow stroke over 40 teeth gave 40 separate ticks. A quick stroke over the same teeth gave one steady note. Only the speed had changed. So a steady note is a row of separate pushes, arriving too quickly for the ear to hear apart.",
    "habit": "We treat a tick and a note as two kinds of sound, one broken and one smooth. They are the same kind at different speeds. The pushes stay separate in the air. Above about 20 pushes a second, a human ear reports them as one note.",
@@ -416,7 +416,7 @@
    {
     "source": "Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century)",
     "teaching": "This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness.",
-    "link": "Every sound in this unit is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it."
+    "link": "Every sound in this lesson is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it."
    },
    {
     "source": "Aristotle, On the Soul, book 2, chapter 8 (Greece, about 2,350 years ago)",
@@ -2249,7 +2249,7 @@
        "says": "Neither works alone. The string decides the note, and the body decides how much air is pushed."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from what you found in this unit. Then answer one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason from what you found in this lesson. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. One reason is that the note changes when the string is tightened or shortened. Another is that a buzzing phone was much louder on a steel plate, which acted as a soundboard.",
      "why": "Each view has something right in it. A strong answer uses evidence. The Slow String shows what sets the note. Quiet the Buzz shows what a wide surface does.",
      "outcome": 6

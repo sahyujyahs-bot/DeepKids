@@ -3,12 +3,12 @@
  "title": "The immune system: how your body keeps germs out and fights them",
  "level": 3,
  "summary": {
-  "text": "A cut turns red and warm, so is your body fighting something? In this unit you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.",
+  "text": "A cut turns red and warm, so is your body fighting something? In this lesson you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.",
   "art": "A child drawn as a castle: skin as the outer wall, eyelashes and tears at the windows, a sticky moat of mucus at the nose gate, and inside, tiny round white blood cells hurrying along red roads of blood towards a small green germ."
  },
  "intro": {
   "hook": "Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?",
-  "text": "Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this unit you will find out. You will meet the defenders that guard your body every second, even while you sleep.",
+  "text": "Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this lesson you will find out. You will meet the defenders that guard your body every second, even while you sleep.",
   "art": "A close-up of a child's knee with a small scrape, pink and puffy around the edge, and a magnifying-glass circle showing tiny round cells crowding towards it."
  },
  "outcomes": [
@@ -994,7 +994,7 @@
        "says": "Mud play is fine. But wash hands before eating, and wash and cover any cut."
       }
      ],
-     "ask": "Whose side are you on? Give a reason from this unit. Then say one thing another person gets right.",
+     "ask": "Whose side are you on? Give a reason from this lesson. Then say one thing another person gets right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses the unit: for example, most microbes are harmless or helpful, or a cut is an open door for germs. Then it fairly gives another person's best point, for example that dirty hands carry germs into the mouth.",
      "why": "There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Nandini joins both: play, then wash."
@@ -1318,7 +1318,7 @@
      "t": "truefalse",
      "p": "White blood cells sometimes attack the body's own cells by mistake.",
      "a": true,
-     "why": "True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. You will learn more in Class 5."
+     "why": "True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. There is much more to find out about this."
     },
     {
      "t": "order",
@@ -2959,7 +2959,7 @@
    "channel": "Kurzgesagt: In a Nutshell",
    "youtube": "zQGOcOUBi6s",
    "mins": 7,
-   "why": "For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this unit into antibodies, which come in Class 4 and 5.",
+   "why": "For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this lesson into antibodies, which come in Class 4 and 5.",
    "check": "It uses some battle pictures, which suit most children."
   },
   {
@@ -3581,7 +3581,7 @@
  },
  "sources": {
   "founder": [
-   "DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes the innate part; the rest is left for L4 and L5.",
+   "DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes the innate part; the rest is left for L4 and L5.",
    "ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Semmelweis ('invisible things can kill you'), Charaka and others.",
    "Combined lesson sci-C4-health-hygiene-exercise-and-illness: the body-as-castle drawing, the germ tag game with skin wall, white blood cell and memory round (adapted here as g2 and p1), the 'self and not-self' idea and the Tu Youyou voice. Its story was not reused.",
    "Combined lesson sci-C3-health-hygiene-exercise-and-illness: tears, nose hairs and mucus, skin flakes as dead cells, and the myths about earwax and colds.",

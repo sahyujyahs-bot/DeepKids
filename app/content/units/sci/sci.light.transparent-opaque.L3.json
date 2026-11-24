@@ -3,12 +3,12 @@
  "title": "Transparent, translucent and opaque: which things we can see through",
  "level": 3,
  "summary": {
-  "text": "Why can you see clearly through glass, but not through a paper? In this unit you will test which things let light through, find how far words can be from the paper before they blur, and make an oil spot window.",
+  "text": "Why can you see clearly through glass, but not through a paper? In this lesson you will test which things let light through, find how far words can be from the paper before they blur, and make an oil spot window.",
   "art": "Three windows side by side: clear glass showing a sharp neem tree, frosted glass showing only a green glow, and a wooden shutter showing nothing, with a child's hand glowing red over a torch in the corner."
  },
  "intro": {
   "hook": "A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. Light gets through, so why does the picture of the tree not get through too?",
-  "text": "Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.",
+  "text": "Light gets through frosted glass, but the picture of the tree is lost on the way. In this lesson you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.",
   "art": "A frosted bathroom window glowing bright with daylight, with only a soft green blur where a tree stands outside."
  },
  "outcomes": [
@@ -3303,7 +3303,7 @@
    "what_is_life": "Some animals hide by being almost transparent. A glass frog even packs most of their red blood cells into their liver while they sleep, so the red does not give them away.",
    "what_is_this_world": "The whole universe was once like a thick fog. Then it cleared, and light could travel. That first light still reaches us today."
   },
-  "thread": "In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light stayed the same, and what happened depended on the material. Transparent, translucent and opaque name what happens when light meets a material.",
+  "thread": "In this lesson, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light stayed the same, and what happened depended on the material. Transparent, translucent and opaque name what happens when light meets a material.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -3322,7 +3322,7 @@
    {
     "source": "The Bible, 1 Corinthians 13:12",
     "teaching": "'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly.",
-    "link": "In this unit, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view.",
+    "link": "In this lesson, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view.",
     "verse": ["βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι", "τότε δὲ πρόσωπον πρὸς πρόσωπον"],
     "verse_lang": "grc"
    }

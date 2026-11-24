@@ -3,7 +3,7 @@
  "title": "Day and night: how the spinning Earth makes them",
  "level": 3,
  "summary": {
-  "text": "The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this unit you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.",
+  "text": "The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this lesson you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.",
   "art": "A blue Earth ball lit from one side by a bright Sun, half in daylight and half in night, with a small curved arrow showing the spin and a tiny child standing on the line between light and dark."
  },
  "intro": {
@@ -410,7 +410,7 @@
    "concept": "Midnight Sun and long nights near the poles",
    "status": "defined",
    "definition": "Near the North and South Poles, there are weeks when the Sun never sets, and weeks when it never rises.",
-   "description": "The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another unit.",
+   "description": "The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another lesson.",
    "examples": [
     "In Svalbard, the Sun does not set from about the middle of April to late August.",
     "At India's Antarctic stations, Maitri and Bharati, scientists have long dark weeks in the southern winter."
@@ -1266,7 +1266,7 @@
      ],
      "ask": "Which side would you have picked then, and why? Then answer back for the other side, using what you know now.",
      "lines": 5,
-     "a": "A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.",
+     "a": "A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this lesson, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.",
      "why": "Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851."
     },
     {

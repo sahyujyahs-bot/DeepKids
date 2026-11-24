@@ -3,12 +3,12 @@
  "title": "Air around us: we cannot see it, but we can feel it",
  "level": 1,
  "summary": {
-  "text": "Sit still with the fan off and you feel no air, so is there any air at all? In this unit you will catch air in a bag, feel moving air on your skin, and blow paint around with a breath.",
+  "text": "Sit still with the fan off and you feel no air, so is there any air at all? In this lesson you will catch air in a bag, feel moving air on your skin, and blow paint around with a breath.",
   "art": "A child pulling a puffed-up plastic bag out from under a bed, with a second child sitting very still on the bed with eyes closed, and a curtain moving at the window."
  },
  "intro": {
   "hook": "Hold your hand in front of your face and look between your fingers. Can you see anything there? Now wave your other hand fast near your cheek. What did you feel?",
-  "text": "You saw nothing, but you felt something. That something is air. Air is all around us, but we cannot see it. In this unit we catch air in a bag in every corner of the home. We find out when our skin can feel air, and when it cannot. And we watch what moving air can push.",
+  "text": "You saw nothing, but you felt something. That something is air. Air is all around us, but we cannot see it. In this lesson we catch air in a bag in every corner of the home. We find out when our skin can feel air, and when it cannot. And we watch what moving air can push.",
   "art": "A child looking at her open hand with a puzzled face, while her other hand waves near her cheek and her hair lifts a little."
  },
  "outcomes": [
@@ -1751,7 +1751,7 @@
   "founder": [
    "No by_topic file exists for air. The founder's notebook item phy:63 is 'Atmosphere Basics' (a title only).",
    "ideas/by_topic/gases-evaporation-condensation-solutions.md: 'invisible air', watching smoke swirl in air, breathing practices. Used for the still-and-moving activity, the roots practice and the steam-from-the-cooker spotting card.",
-   "Ladder: Level 3 (sci.air.air-around-us.L3) shows that air takes up space and has weight, with the full glass of chana, the syringe, the balloon in a bottle, the straw water thief and Anaxagoras's wine bags. This unit repeats none of those. It leads on to Level 3 by showing that air is everywhere, that the bag fills with something real, and that we feel air only when it moves. Level 3 then asks how much room air takes up and what it weighs."
+   "Ladder: Level 3 (sci.air.air-around-us.L3) shows that air takes up space and has weight, with the full glass of chana, the syringe, the balloon in a bottle, the straw water thief and Anaxagoras's wine bags. This lesson repeats none of those. It leads on to Level 3 by showing that air is everywhere, that the bag fills with something real, and that we feel air only when it moves. Level 3 then asks how much room air takes up and what it weighs."
   ],
   "science": [
    "Dry air is about 78% nitrogen and 21% oxygen by volume. Atmospheric pressure at sea level is about 101 kilopascals. It acts on the skin from all sides and is constant, so it is not felt.",

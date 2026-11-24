@@ -3,12 +3,12 @@
  "title": "Measuring forces with care: arrows, sagging lines and how sure a number can be",
  "level": 4,
  "summary": {
-  "text": "A line holding a weight must pull harder as it gets flatter. How much harder? In this unit you will test a sagging line, draw force arrows around your house, read one pull ten times to see how the numbers spread, and play a game about which way a net force goes.",
+  "text": "A line holding a weight must pull harder as it gets flatter. How much harder? In this lesson you will test a sagging line, draw force arrows around your house, read one pull ten times to see how the numbers spread, and play a game about which way a net force goes.",
   "art": "A 500 millilitre water bottle hanging from the middle of a thin line stretched between two chairs, a rubber-band gauge at one end, and small arrows along the line showing the pull."
  },
  "intro": {
   "hook": "Hang a heavy wet shirt in the middle of a washing line. Now try to pull the line so tight that the shirt does not dip at all. You can pull as hard as you like, and the line still sags. Why can you never get it perfectly straight?",
-  "text": "This looks like a small puzzle, but it hides a big idea. A force has a direction as well as a size. The same weight can need a small pull or a huge pull, depending on the angle of the line that holds it. In this unit, you will draw forces as arrows and measure the sagging line with a gauge that you test yourself. Then you will ask a harder question. How much can we trust any number that a tool gives us?",
+  "text": "This looks like a small puzzle, but it hides a big idea. A force has a direction as well as a size. The same weight can need a small pull or a huge pull, depending on the angle of the line that holds it. In this lesson, you will draw forces as arrows and measure the sagging line with a gauge that you test yourself. Then you will ask a harder question. How much can we trust any number that a tool gives us?",
   "art": "A wet saree hanging in the middle of a washing line on a balcony, the line dipping in a gentle curve, and a child pulling one end with both hands."
  },
  "outcomes": [
@@ -151,13 +151,13 @@
    ],
    "perspectives": [],
    "art": "A school bag with two arrows drawn on it, a long one pointing down labelled weight, and an equal one pointing up labelled hand, with a ruler showing 1 centimetre for each newton.",
-   "context": "You will draw many forces in this unit. This card explains why every force needs an arrow, and how to draw one."
+   "context": "You will draw many forces in this lesson. This card explains why every force needs an arrow, and how to draw one."
   },
   {
    "concept": "Forces on one line: add, take away or balance",
    "status": "defined",
    "definition": "When forces act along one straight line, you add the ones that point the same way and take away the ones that point the opposite way. What is left is the net force.",
-   "description": "In a tug of war, one team pulls the rope left with 400 newtons, and the other team pulls it right with 350 newtons. The rope moves left. The net force is 400 minus 350, which is 50 newtons to the left. If both teams pull with 400 newtons, the net force is zero. The forces are balanced, and the rope does not start moving. Balanced forces do not mean that nothing is happening. A book on a table has its weight pulling down and the table pushing up. Both arrows are the same size, and the book stays still. A bicycle at steady speed has the pedal push forwards and the air and road dragging backwards, also balanced. A thing with balanced forces keeps doing exactly what it was doing, whether that is staying still or moving steadily. A thing with unbalanced forces speeds up, slows down or changes direction. You can meet this idea again in the unit on changing motion.",
+   "description": "In a tug of war, one team pulls the rope left with 400 newtons, and the other team pulls it right with 350 newtons. The rope moves left. The net force is 400 minus 350, which is 50 newtons to the left. If both teams pull with 400 newtons, the net force is zero. The forces are balanced, and the rope does not start moving. Balanced forces do not mean that nothing is happening. A book on a table has its weight pulling down and the table pushing up. Both arrows are the same size, and the book stays still. A bicycle at steady speed has the pedal push forwards and the air and road dragging backwards, also balanced. A thing with balanced forces keeps doing exactly what it was doing, whether that is staying still or moving steadily. A thing with unbalanced forces speeds up, slows down or changes direction. You can meet this idea again in the lesson on changing motion.",
    "examples": [
     "A cart is pushed right with 15 newtons and 25 newtons, and friction pulls left with 10 newtons. The net force is 15 plus 25 minus 10, which is 30 newtons to the right.",
     "A skydiver falling at a steady speed has her weight pulling down and the air pushing up with the same size.",
@@ -2419,7 +2419,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each one is something you met in this unit: the pull of a water surface, the push of sunlight, a sensor inside a scale, and a graph made from known loads.",
+     "why": "Each one is something you met in this lesson: the pull of a water surface, the push of sunlight, a sensor inside a scale, and a graph made from known loads.",
      "outcome": 7
     },
     {
@@ -3282,7 +3282,7 @@
   "founder": [
    "Founder's notes in ideas/by_topic/forces-and-movement.md, the Everyday forces section ('measure friction by pulling a block with a spring scale', 'build a homemade spring scale', 'weigh a backpack while lifting to sense changing tension'): used in the rubber band gauge, the weighing activities and the Bending Ruler Scale",
    "Founder's notes in the same file, the Tension and Normal Force section ('hang weights from a rope and measure tension with a spring scale', 'observe bridges or suspension cables', 'build a model suspension bridge from string and sticks', 'support and connection: forces that hold without being seen'): the root of the Sagging Line test and the roots",
-   "The Class 3 unit on measuring forces, which this unit builds on: the idea of a unit, the newton, the forcemeter and weight as a force, now taken on to arrows, angles, error and tiny forces. The Class 3 experiments and story are not repeated"
+   "The Class 3 unit on measuring forces, which this lesson builds on: the idea of a unit, the newton, the forcemeter and weight as a force, now taken on to arrows, angles, error and tiny forces. The Class 3 experiments and story are not repeated"
   ],
   "science": [
    "Statics of a loaded cable: the tension in a line carrying a weight at its middle is the weight divided by twice the sine of the angle of the line (any engineering statics textbook)",

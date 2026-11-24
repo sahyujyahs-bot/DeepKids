@@ -3,12 +3,12 @@
  "title": "Taking without emptying: how much can we take and still leave enough?",
  "level": 4,
  "summary": {
-  "text": "Fish and grass grow back, so how can people empty a lake that refilled itself for thousands of years? In this unit you will estimate the beans in a jar without counting them all, run a village pond where everyone shares the fish, and model how rain soaks into the ground.",
+  "text": "Fish and grass grow back, so how can people empty a lake that refilled itself for thousands of years? In this lesson you will estimate the beans in a jar without counting them all, run a village pond where everyone shares the fish, and model how rain soaks into the ground.",
   "art": "A kitchen table with a glass jar of beans, a bowl of fish-shaped tokens beside a drawn pond, and a row of small paper seed packets."
  },
  "intro": {
   "hook": "Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?",
-  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?",
+  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this lesson you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?",
   "art": "A glass jar of dried chickpeas with a few beans marked with a dot, and a hand holding a cup of beans, three of them dotted."
  },
  "outcomes": [
@@ -3598,8 +3598,8 @@
  },
  "sources": {
   "founder": [
-   "The Class 3 unit on conservation, which this unit builds on: from useful animals, regrowth and rain harvesting to counting, shared resources and seed saving",
-   "NIOS Level A Lesson 5 (conservation of the environment) and Level B Lesson 9 (conservation of soil and forests), used to map the topics this unit goes beyond",
+   "The Class 3 unit on conservation, which this lesson builds on: from useful animals, regrowth and rain harvesting to counting, shared resources and seed saving",
+   "NIOS Level A Lesson 5 (conservation of the environment) and Level B Lesson 9 (conservation of soil and forests), used to map the ideas this lesson goes beyond",
    "Founder's notes in ideas/by_topic/caring-for-the-environment.md on balance and human impact, and the SCI Card for M. S. Swaminathan in ideas/by_topic/food-and-a-balanced-diet.md, used for the seed varieties explanation"
   ],
   "science": [
