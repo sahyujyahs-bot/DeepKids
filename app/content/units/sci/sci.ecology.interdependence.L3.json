@@ -2546,14 +2546,19 @@
     "source": "Tattvartha Sutra 5.21, a Jain text by Umaswati",
     "teaching": "Parasparopagraho jivanam: living beings support and serve one another.",
     "link": "In this lesson, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.",
-    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse": [
+     "परस्परोपग्रहो जीवानाम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 322, by Thiruvalluvar, in the chapter on not killing",
     "teaching": "To share your food and care for every living being is the greatest of all the teachings the wise have gathered.",
     "link": "A fruit is food a plant shares with the animals who carry her seeds. The Kural asks people to share food and protect all living beings in the same way.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2597,7 +2602,8 @@
   "story": "In 1977, an American scientist named Stanley Temple made a famous claim. On the island of Mauritius grows a tree called the tambalacoque. Temple said only 13 old trees were left, and no young ones. The dodo, a big bird that could not fly, lived only on Mauritius, and had died out about 300 years before. Temple said the tree's seeds could sprout only after passing through a dodo's gut. To test it, he fed 17 tambalacoque fruits to turkeys and planted the seeds that came through. Only 3 sprouted. Many people believed the story, and it went into books. But Temple had not planted any seeds that were not eaten, to compare. So nobody could tell whether the turkeys made any difference. Foresters in Mauritius pointed out that they had sprouted tambalacoque seeds before, with no bird at all, and that younger trees did exist. Later studies found the tree was dying out mainly because of pigs, monkeys and plants brought to the island by people.",
   "who": "Stanley Temple, an American scientist, and the foresters and botanists who questioned him, including those of Mauritius",
   "when": "1977 (Temple's paper in the journal Science), questioned from 1979, and reviewed again in 1991 and 2004",
-  "wrong_idea": "That the tambalacoque tree's seeds could sprout only after passing through a dodo. Temple's test had no comparison group of uneaten seeds. Seeds were sprouted without any dodo, and young trees were found."
+  "wrong_idea": "That the tambalacoque tree's seeds could sprout only after passing through a dodo. Temple's test had no comparison group of uneaten seeds. Seeds were sprouted without any dodo, and young trees were found.",
+  "context": "Did a famous tree really need the dodo bird to grow? This card tells the true story of a scientist's claim, and of how others tested it."
  },
  "plan": {
   "start_options": [
@@ -2677,5 +2683,117 @@
   ]
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The Juice Test needs only a ripe tomato, two tiffin or takeaway boxes, tissue and a tea strainer. Washed tomato seeds on wet tissue usually show roots in 3 to 6 days in a warm Indian home, so the test runs 8 days; the steps say what to do if the room is cold or the tomato was picked green. The juice for topping up is kept in the fridge, because juice left out ferments. Mould may grow in Box J: the safety note says not to sniff it and to bin it in a closed bag, and Waiting or Dead tells the parent to leave mouldy seeds out. Seeds don't need light to sprout, so the boxes stay closed on top of the fridge. Ripe or Green relies on fruit flies, which are common in Indian kitchens but not certain, so it is outside the spine and says to count ants or house flies instead. The rice-flour kolam needs real rice flour or rava, since chalk kolams feed nobody. Cup and Card practises on a paper beetle when no creature turns up, and a grown-up handles anything that might sting. The tomato project needs a balcony or window with at least 5 hours of sun; a shady window gives thin plants with few flowers. It compares a tapped flower cluster with an untapped one on the same plant; with so few flowers, the result is a hint, not proof, and the steps say so. Timings were checked step by step. The spine (intro, the Fruit Bowl Question, the Juice Test set-up and daily checks, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, plus 2 or 3 minutes a day of checking.",
- "warm": {"words": ["SEEDS", "FRUIT", "JUICE", "HONEY", "PLANT"], "quiz": [["Plants give animals food, shelter and the oxygen they breathe.", true, "Animals depend on plants for the things they need to live."], ["A seed must pass through an animal's tummy before the seed can sprout.", false, "For most plants, removing the juicy flesh is enough, and washed tomato seeds sprout with no animal."], ["Animals carry the pollen of most kinds of flowering plants.", true, "About 87 in every 100 kinds of flowering plant need an animal to carry their pollen."], ["Plants grow fruit so that animals and people have food.", false, "A fruit has a job in the plant's own life: getting her seeds carried away."], ["Without fig wasps, fig trees could not make seeds.", true, "Only a tiny fig wasp can get inside a fig to carry pollen between the flowers hidden there."], ["Bees visit flowers so that the flowers can make seeds.", false, "A bee may visit only for food, and some bees steal nectar without carrying any pollen."], ["Animal droppings and dead bodies feed the soil, and the soil feeds plants.", true, "Soil gets back what living things used, so plants can grow again."], ["Harming one kind of living thing only hurts that kind.", false, "Other living things depend on them for food, shelter, pollen or seeds, so the harm spreads."], ["A fig wasp's young can grow up only inside a fig.", true, "The fig tree and the fig wasp need each other, so neither can live apart."], ["In nature everyone only helps everyone, and nobody harms anybody.", false, "Living things also eat each other, compete and harm each other, as well as help."]], "odd": [[["Butterfly", "Sunbird", "Fruit bat", "Earthworm"], "Earthworm", "Butterflies, sunbirds and fruit bats drink nectar and carry pollen between flowers; earthworms do not visit flowers."], [["Mango", "Jamun", "Ber", "Dandelion fluff"], "Dandelion fluff", "Mango, jamun and ber are juicy fruits that animals eat and carry away; dandelion seeds fly on the wind."], [["Fig and wasp", "Bee and flower", "Sunbird and flower", "Tick on a dog"], "Tick on a dog", "In the first three both partners are helped; the tick feeds on the dog and harms her."], [["Carrying pollen", "Carrying seeds", "Feeding the soil", "Making oxygen"], "Making oxygen", "Animals carry pollen, carry seeds and feed the soil for plants; plants are the ones that give out oxygen."], [["Tomato juice", "Fruit flesh", "Wet pulp", "Washed seed"], "Washed seed", "Juice, flesh and pulp hold seeds back from sprouting; a washed seed is free to sprout."]]}
+ "warm": {
+  "words": [
+   "SEEDS",
+   "FRUIT",
+   "JUICE",
+   "HONEY",
+   "PLANT"
+  ],
+  "quiz": [
+   [
+    "Plants give animals food, shelter and the oxygen they breathe.",
+    true,
+    "Animals depend on plants for the things they need to live."
+   ],
+   [
+    "A seed must pass through an animal's tummy before the seed can sprout.",
+    false,
+    "For most plants, removing the juicy flesh is enough, and washed tomato seeds sprout with no animal."
+   ],
+   [
+    "Animals carry the pollen of most kinds of flowering plants.",
+    true,
+    "About 87 in every 100 kinds of flowering plant need an animal to carry their pollen."
+   ],
+   [
+    "Plants grow fruit so that animals and people have food.",
+    false,
+    "A fruit has a job in the plant's own life: getting her seeds carried away."
+   ],
+   [
+    "Without fig wasps, fig trees could not make seeds.",
+    true,
+    "Only a tiny fig wasp can get inside a fig to carry pollen between the flowers hidden there."
+   ],
+   [
+    "Bees visit flowers so that the flowers can make seeds.",
+    false,
+    "A bee may visit only for food, and some bees steal nectar without carrying any pollen."
+   ],
+   [
+    "Animal droppings and dead bodies feed the soil, and the soil feeds plants.",
+    true,
+    "Soil gets back what living things used, so plants can grow again."
+   ],
+   [
+    "Harming one kind of living thing only hurts that kind.",
+    false,
+    "Other living things depend on them for food, shelter, pollen or seeds, so the harm spreads."
+   ],
+   [
+    "A fig wasp's young can grow up only inside a fig.",
+    true,
+    "The fig tree and the fig wasp need each other, so neither can live apart."
+   ],
+   [
+    "In nature everyone only helps everyone, and nobody harms anybody.",
+    false,
+    "Living things also eat each other, compete and harm each other, as well as help."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Butterfly",
+     "Sunbird",
+     "Fruit bat",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "Butterflies, sunbirds and fruit bats drink nectar and carry pollen between flowers; earthworms do not visit flowers."
+   ],
+   [
+    [
+     "Mango",
+     "Jamun",
+     "Ber",
+     "Dandelion fluff"
+    ],
+    "Dandelion fluff",
+    "Mango, jamun and ber are juicy fruits that animals eat and carry away; dandelion seeds fly on the wind."
+   ],
+   [
+    [
+     "Fig and wasp",
+     "Bee and flower",
+     "Sunbird and flower",
+     "Tick on a dog"
+    ],
+    "Tick on a dog",
+    "In the first three both partners are helped; the tick feeds on the dog and harms her."
+   ],
+   [
+    [
+     "Carrying pollen",
+     "Carrying seeds",
+     "Feeding the soil",
+     "Making oxygen"
+    ],
+    "Making oxygen",
+    "Animals carry pollen, carry seeds and feed the soil for plants; plants are the ones that give out oxygen."
+   ],
+   [
+    [
+     "Tomato juice",
+     "Fruit flesh",
+     "Wet pulp",
+     "Washed seed"
+    ],
+    "Washed seed",
+    "Juice, flesh and pulp hold seeds back from sprouting; a washed seed is free to sprout."
+   ]
+  ]
+ }
 }

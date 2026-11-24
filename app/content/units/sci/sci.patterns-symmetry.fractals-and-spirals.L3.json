@@ -2682,14 +2682,21 @@
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "Break a floret from a cauliflower, and you hold a whole small cauliflower, while the big one is still a cauliflower too. In a fractal, a part taken from the whole still has the shape of the whole.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, told with the story of the blind men and the elephant (also in the Buddhist Udana 6.4)",
     "teaching": "Each blind man touches one part of the elephant and describes that part truly, but no one of them has the whole elephant.",
     "link": "In the experiment How Long Is the Coast?, the 4 cm strip, the 1 cm strip and the thread each measured the coast truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2725,6 +2732,7 @@
   "story": "Lewis Fry Richardson was an English scientist who hated war. In the 1940s he asked a question: do countries with longer borders fight more wars? To find out, he needed the lengths of borders. He looked them up in reference books and found a problem. Spain said its border with Portugal was 987 kilometres long. Portugal said the same border was 1,214 kilometres long. Most people assumed that one country had simply made a mistake. Richardson measured coasts and borders on maps himself. He stepped along them with a measuring tool set to a long step, then a shorter one, then shorter again. Every time the step got shorter, the length got longer, and bendier lines grew faster. Neither country was wrong. They had measured with different steps. His work was published in 1961, after he died. In 1967, Benoit Mandelbrot used it in a paper called 'How Long Is the Coast of Britain?'. In 1975, he named such shapes fractals.",
   "who": "Lewis Fry Richardson, an English scientist, and Benoit Mandelbrot, a mathematician",
   "when": "Richardson's measurements in the 1940s and 1950s, published in 1961, and Mandelbrot's paper in 1967",
-  "wrong_idea": "People thought every border and coast has one true length, so two different numbers meant someone had made a mistake. Richardson showed that the measured length grows as the measuring step shrinks, so both numbers can be right."
+  "wrong_idea": "People thought every border and coast has one true length, so two different numbers meant someone had made a mistake. Richardson showed that the measured length grows as the measuring step shrinks, so both numbers can be right.",
+  "context": "How long is a coastline or a border? This card tells the true story of a scientist who tried to measure it and found an odd answer."
  }
 }

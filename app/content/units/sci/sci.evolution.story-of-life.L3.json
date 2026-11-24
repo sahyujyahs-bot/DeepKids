@@ -2818,21 +2818,30 @@
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From the Self came space, from space air, from air fire, from fire water, from water earth. From earth came plants, from plants food, and from food the person.",
     "link": "Like the story science tells, it says the living came step by step out of simpler things, with water and earth before plants and people.",
-    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse": [
+     "तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः",
+     "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी",
+     "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.121.7, the Hiranyagarbha hymn",
     "teaching": "When the great waters came, holding the seed of everything and giving birth to fire, the one life-breath of the gods arose from them.",
     "link": "The hymn places the first life-breath in the waters. Science too finds that the oldest life we know lived in water, and for most of the Earth's story, life lived only in water.",
-    "verse": ["आपो ह यद्बृहतीर्विश्वमायन्गर्भं दधाना जनयन्तीरग्निम् ।", "ततो देवानां समवर्ततासुरेकः कस्मै देवाय हविषा विधेम"],
+    "verse": [
+     "आपो ह यद्बृहतीर्विश्वमायन्गर्भं दधाना जनयन्तीरग्निम् ।",
+     "ततो देवानां समवर्ततासुरेकः कस्मै देवाय हविषा विधेम"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thales of Miletus, about 600 BCE, as reported by Aristotle in Metaphysics, Book 1 (983b)",
     "teaching": "Water is the origin of all things.",
     "link": "Thales, one of the first Greek philosophers, guessed that water was first. The oldest life we know did grow in water, though not everything comes from water.",
-    "verse": ["Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι"],
+    "verse": [
+     "Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2876,7 +2885,120 @@
   "story": "For a long time, many chemists thought the chemicals in living bodies were special. They believed only a living thing, with a 'life force' inside it, could make them. In 1828, Friedrich Wöhler, a German chemist, heated a salt called ammonium cyanate, which is made from non-living chemicals. To his surprise, he got urea, a chemical found in urine. He wrote to a friend that he had made urea without needing a kidney. It took many more experiments to convince everyone, but the old idea began to crack. More than a hundred years later, in 1952, Stanley Miller was a young student working with Harold Urey in Chicago. He wanted to test an idea of Alexander Oparin in Russia and J.B.S. Haldane in Britain: that the young sea was a soup in which life's chemicals could form. He filled a flask with water, methane, ammonia and hydrogen, and made electric sparks in it for a week. The water turned brown. In it were amino acids, the building blocks of proteins. Haldane later moved to India and became an Indian citizen. He worked in Kolkata and Bhubaneswar until he died in 1964.",
   "who": "Friedrich Wöhler, a German chemist, and Stanley Miller, an American student working with Harold Urey",
   "when": "1828 (Wöhler makes urea) and 1952 (Miller's spark experiment, published in 1953)",
-  "wrong_idea": "People thought that the chemicals of living things could only be made by living things, with a special life force. Wöhler made urea from non-living chemicals, and Miller made amino acids from gases, water and sparks."
+  "wrong_idea": "People thought that the chemicals of living things could only be made by living things, with a special life force. Wöhler made urea from non-living chemicals, and Miller made amino acids from gases, water and sparks.",
+  "context": "How could living things begin from things that are not alive? This card tells the true story of two chemists who made the stuff of life in a laboratory."
  },
- "warm": {"words": ["CHAIN", "ALGAE", "LAYER", "CELLS", "EARTH"], "quiz": [["Today, a new cell can only come from another cell.", true, "Every living thing comes from another living thing of its own kind, and cells come from cells."], ["Only living things can make the chemicals that living things are made of.", false, "Chemists have made amino acids and urea from non-living chemicals, so life is not needed to make them."], ["The first oxygen in the sea joined with iron and made rust that sank in layers.", true, "Tiny bacteria made oxygen, and it joined with iron in the sea to form rust."], ["The young Earth had air full of oxygen, so the first life could breathe it.", false, "The air then had almost no oxygen. Living things that use sunlight made it later."], ["Stromatolites are rocks built in layers by mats of tiny microbes in shallow water.", true, "Microbes trap mud and sand and grow up through it again and again, leaving layers."], ["Scientists have proved that life began as RNA before DNA and proteins.", false, "The RNA idea is only an idea. RNA breaks easily, and nobody has made RNA that copies itself from scratch."], ["Some RNA can fold into a shape that does a job, such as cutting other molecules.", true, "Such RNA is called a ribozyme. It shows RNA can act like a tool, not only carry instructions."], ["Living things have been found inside meteorites, which proves life came from space.", false, "No living thing has been found in a meteorite, and the idea only moves the question elsewhere."], ["Fatty acids can gather in water by themselves and make tiny hollow bubbles with a skin.", true, "Many scientists think the first cells had skins like these bubbles."], ["When a chain is copied, small mistakes never matter, so every copy stays the same.", false, "Small mistakes called mutations make new kinds, and copies that last and copy well become more common."]], "odd": [[["Cyanobacteria", "Algae", "Grass", "Mushroom"], "Mushroom", "The first three make food from sunlight and give out oxygen; a mushroom does not use sunlight."], [["A", "U", "G", "T"], "T", "A, U, C and G are the letters of RNA; T is a letter of DNA, not RNA."], [["Stromatolite", "Bone", "Shell print", "Volcano ash"], "Volcano ash", "The first three are traces of living things from long ago kept in rock; volcano ash was never alive."], [["Protein", "DNA", "RNA", "Oxygen"], "Oxygen", "The first three are long chain molecules made of smaller parts; oxygen is a small gas molecule."], [["Amino acids", "Fatty acid bubbles", "Urea", "Stromatolite"], "Stromatolite", "The first three can form from simple chemicals with no living thing; stromatolites are built by living microbes."]]}
+ "warm": {
+  "words": [
+   "CHAIN",
+   "ALGAE",
+   "LAYER",
+   "CELLS",
+   "EARTH"
+  ],
+  "quiz": [
+   [
+    "Today, a new cell can only come from another cell.",
+    true,
+    "Every living thing comes from another living thing of its own kind, and cells come from cells."
+   ],
+   [
+    "Only living things can make the chemicals that living things are made of.",
+    false,
+    "Chemists have made amino acids and urea from non-living chemicals, so life is not needed to make them."
+   ],
+   [
+    "The first oxygen in the sea joined with iron and made rust that sank in layers.",
+    true,
+    "Tiny bacteria made oxygen, and it joined with iron in the sea to form rust."
+   ],
+   [
+    "The young Earth had air full of oxygen, so the first life could breathe it.",
+    false,
+    "The air then had almost no oxygen. Living things that use sunlight made it later."
+   ],
+   [
+    "Stromatolites are rocks built in layers by mats of tiny microbes in shallow water.",
+    true,
+    "Microbes trap mud and sand and grow up through it again and again, leaving layers."
+   ],
+   [
+    "Scientists have proved that life began as RNA before DNA and proteins.",
+    false,
+    "The RNA idea is only an idea. RNA breaks easily, and nobody has made RNA that copies itself from scratch."
+   ],
+   [
+    "Some RNA can fold into a shape that does a job, such as cutting other molecules.",
+    true,
+    "Such RNA is called a ribozyme. It shows RNA can act like a tool, not only carry instructions."
+   ],
+   [
+    "Living things have been found inside meteorites, which proves life came from space.",
+    false,
+    "No living thing has been found in a meteorite, and the idea only moves the question elsewhere."
+   ],
+   [
+    "Fatty acids can gather in water by themselves and make tiny hollow bubbles with a skin.",
+    true,
+    "Many scientists think the first cells had skins like these bubbles."
+   ],
+   [
+    "When a chain is copied, small mistakes never matter, so every copy stays the same.",
+    false,
+    "Small mistakes called mutations make new kinds, and copies that last and copy well become more common."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Cyanobacteria",
+     "Algae",
+     "Grass",
+     "Mushroom"
+    ],
+    "Mushroom",
+    "The first three make food from sunlight and give out oxygen; a mushroom does not use sunlight."
+   ],
+   [
+    [
+     "A",
+     "U",
+     "G",
+     "T"
+    ],
+    "T",
+    "A, U, C and G are the letters of RNA; T is a letter of DNA, not RNA."
+   ],
+   [
+    [
+     "Stromatolite",
+     "Bone",
+     "Shell print",
+     "Volcano ash"
+    ],
+    "Volcano ash",
+    "The first three are traces of living things from long ago kept in rock; volcano ash was never alive."
+   ],
+   [
+    [
+     "Protein",
+     "DNA",
+     "RNA",
+     "Oxygen"
+    ],
+    "Oxygen",
+    "The first three are long chain molecules made of smaller parts; oxygen is a small gas molecule."
+   ],
+   [
+    [
+     "Amino acids",
+     "Fatty acid bubbles",
+     "Urea",
+     "Stromatolite"
+    ],
+    "Stromatolite",
+    "The first three can form from simple chemicals with no living thing; stromatolites are built by living microbes."
+   ]
+  ]
+ }
 }

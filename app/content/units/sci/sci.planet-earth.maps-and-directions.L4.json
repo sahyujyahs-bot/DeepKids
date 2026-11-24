@@ -510,21 +510,28 @@
     "source": "Udana 6.4, the story of the blind men and the elephant",
     "teaching": "Blind men each touched a different part of an elephant. One felt the leg and said it was a pillar. One felt the tail and said it was a rope. Each was sure of the whole.",
     "link": "Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care.",
-    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be told is not the eternal way. The name that can be named is not the eternal name.",
     "link": "A map is a kind of name for a place. It is useful, but it is not the place.",
-    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse": [
+     "道可道，非常道，名可名，非常名。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 10.129, the hymn of creation",
     "teaching": "The hymn asks how the world began, and ends by saying that perhaps only the one who watches from the highest heaven knows, or perhaps not even that one.",
     "link": "The hymn is honest about where knowing stops. A good map is honest too, and marks the blank places.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3739,7 +3746,8 @@
   "story": "Before the 1950s, many scientists pictured the deep sea floor as a flat, empty plain. The only measurements came from ships that sailed in straight lines and timed the echo of sound pulses. Between the lines, nobody knew what lay below. At Columbia University in New York, Marie Tharp, a geologist and mapmaker, was given lines of soundings collected by her colleague Bruce Heezen from ships. She did not go to sea on the ships in those years, so she worked from the numbers on paper. She drew each line as a profile of the sea floor and set the profiles side by side. In 1952 she saw a deep, V-shaped valley running down the middle of a great undersea mountain chain. Heezen at first brushed this aside, calling it 'girl talk', she later recalled. But earthquakes plotted along the same line matched her valley. Their map of the North Atlantic floor was published in 1957.",
   "who": "Marie Tharp, an American geologist and mapmaker, working with Bruce Heezen at Columbia University",
   "when": "1952 for the valley, and 1957 for the first published map",
-  "wrong_idea": "Many scientists thought the deep sea floor was a flat plain. Tharp drew the soundings carefully and found a mountain chain with a valley down the middle."
+  "wrong_idea": "Many scientists thought the deep sea floor was a flat plain. Tharp drew the soundings carefully and found a mountain chain with a valley down the middle.",
+  "context": "How can we map a place we cannot see, like the floor of the deep sea? This card tells the true story of a woman who drew it from ship measurements."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Hidden Hills needs a grown-up to build the landscape and make the holes, and the box must be deep enough, about 10 centimetres. The first round is meant to miss the narrow ridge, but a tiny bump between holes may stay hidden even in the last round, and the step says this is a real result. A blunt stick, such as a chopstick, is used, not a skewer. Three Distances works on any large sheet of paper, and the three towers must not be in a straight line, or the circles will give two answers. A drawing compass or a string and pencil both work. The Scale Walk needs a phone map with a scale bar, a ruler and a grown-up, and the map must not be zoomed between measuring the bar and the route. The Contour Hill needs a clear box and clay pressed down firmly. The Fishing Harbour game was checked on paper: the six solo fleets fit on the grid with no overlaps. Feasibility review (no family trial yet): quantities and group roles were checked on paper. The ridge in Hidden Hills must sit exactly under hole D2, and a typical careful Three Distances drawing lands within about 1 centimetre. Facts to verify: Marie Tharp's account of 1952, the Cheeseman and Cheung papers of 2014, the amount of sea floor mapped in fine detail, and the date of the earliest Survey of India baseline near Madras."
 }

@@ -477,7 +477,8 @@
   "story": "In 1895, most scientists believed that a thick black cover stops all rays, just as it stops light. Wilhelm Röntgen, a German physicist in Würzburg, was working in a darkened room with a glass tube that gave off invisible rays. He had wrapped the tube in black cardboard, to be sure no light escaped. Yet a screen painted with a chemical, lying across the room, began to glow. Something was passing through the cardboard. He tried paper, wood and a thick book, and the screen still glowed. When he held his hand in front of the screen, he saw the dark shadows of his bones. In December 1895 he made a picture of the hand of his wife, Anna Bertha, with her ring showing on one finger. He called the new rays X-rays, with X for unknown. In 1901 he won the first Nobel Prize in Physics.",
   "who": "Wilhelm Röntgen, with the first X-ray picture of the hand of Anna Bertha Röntgen",
   "when": "November and December 1895",
-  "wrong_idea": "Scientists believed that anything opaque to light stops every kind of ray. Röntgen showed that rays can pass through black cardboard, wood and flesh, and that bones stop them. So opaque only describes how a material treats one kind of wave."
+  "wrong_idea": "Scientists believed that anything opaque to light stops every kind of ray. Röntgen showed that rays can pass through black cardboard, wood and flesh, and that bones stop them. So opaque only describes how a material treats one kind of wave.",
+  "context": "Does a thing that blocks light block every kind of ray? This card tells the true story of a scientist in Germany who covered a tube with black cardboard."
  },
  "roots": {
   "context": "In the Vanishing Glass experiment, a clear marble almost vanished in honey. In Clear Candy, White Powder, clear candy turned white when it was crushed. In Two Gates for Light, two see-through lenses made darkness. Now we ask what this tells us about seeing, and about what is really there.",
@@ -497,21 +498,33 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub of a wheel, but the empty space in the hub is what makes the wheel work. Clay is shaped into a pot, but the emptiness inside is what makes the pot useful. We cut doors and windows for a room, and it is the empty places that make the room useful.",
     "link": "A window is useful because it is the part of the wall that does not stop the light. In the same way, the empty space inside a pot is what lets it hold water. The part we do not notice is often the part that does the useful work.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。", "鑿戶牖以為室，當其無，有室之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。",
+     "鑿戶牖以為室，當其無，有室之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Plato, Republic, Book 7 (the allegory of the cave)",
     "teaching": "Prisoners chained in a cave see only the shadows of objects on a wall, and they take the shadows for the real things. When one is freed and sees the objects, and then the Sun, he finds that the shadows were only part of the truth.",
     "link": "In the story The Fish Nobody Could See, the girl found the fish by their shadows, but the shadows were not the fish. Seeing a shadow tells you something is there, and looking more closely tells you more.",
-    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.", "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"],
+    "verse": [
+     "ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει",
+     "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;",
+     "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.",
+     "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan seed, and then break open one of the tiny seeds inside it. Shvetaketu sees nothing inside. His father says that the fine thing that he cannot see is the very thing from which the great tree grows.",
     "link": "What cannot be seen, such as a clear fish in water, can still be real. A being can be there even when nothing about her is visible.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    }
   ],

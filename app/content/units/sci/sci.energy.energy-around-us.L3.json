@@ -2725,14 +2725,21 @@
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna what the source of all things is. The first answer Bhrigu finds is food: from food beings are born, by food they live, and into food they go when they die.",
     "link": "Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 90 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "All things are an exchange for fire, and fire for all things, as goods are exchanged for gold and gold for goods.",
     "link": "Energy works like that gold. Sunlight is exchanged for rice, rice for movement, movement for a crater and a sound. The form changes, but the amount is kept.",
-    "verse": ["πυρός τε ἀνταμοιβὴ τὰ πάντα καὶ πῦρ ἁπάντων ὅκωσπερ χρυσοῦ χρήματα καὶ χρημάτων χρυσός"],
+    "verse": [
+     "πυρός τε ἀνταμοιβὴ τὰ πάντα καὶ πῦρ ἁπάντων ὅκωσπερ χρυσοῦ χρήματα καὶ χρημάτων χρυσός"
+    ],
     "verse_lang": "grc"
    },
    {
@@ -2777,7 +2784,120 @@
   "story": "In the 1600s, scientists argued about what a moving ball carries with it. René Descartes, a French thinker, said it was the ball's size times its speed. So a ball moving twice as fast should hit twice as hard. In 1686, Gottfried Leibniz, a German thinker, disagreed. He said it was the ball's weight times its speed times its speed again. Then twice as fast would hit four times as hard. In 1722, Willem 's Gravesande, a Dutch scientist, tested it. He dropped brass balls into soft clay from different heights and measured the dents. A ball that landed twice as fast did not make a dent twice as deep. It made a dent about four times as deep. Émilie du Châtelet, a French scientist, saw what this meant. In her physics book of 1740, she explained that the clay dents agreed with Leibniz. Her book was read and argued about across Europe. In 1807, Thomas Young, an English scientist, began to call this quantity energy. Your Atta Crater Test is a small copy of the clay test.",
   "who": "Willem 's Gravesande, a Dutch scientist, and Émilie du Châtelet, a French scientist, testing an idea of Gottfried Leibniz",
   "when": "1686 (Leibniz's idea), 1722 (the clay test) and 1740 (du Châtelet's book)",
-  "wrong_idea": "Many scientists, following Descartes, thought a ball moving twice as fast carries twice as much and hits twice as hard. The clay dents showed that twice as fast does about four times as much."
+  "wrong_idea": "Many scientists, following Descartes, thought a ball moving twice as fast carries twice as much and hits twice as hard. The clay dents showed that twice as fast does about four times as much.",
+  "context": "If a ball moves twice as fast, does it hit twice as hard? This card tells the true story of scientists who dropped balls into clay to find out."
  },
- "warm": {"words": ["LIGHT", "SOUND", "SOLAR", "STORE", "MOVES"], "quiz": [["A marble dropped from higher up digs a wider crater because it has more stored energy.", true, "Higher up means more stored energy, which turns into movement energy as the marble falls."], ["A ceiling fan makes its own energy to keep turning.", false, "A fan gets its energy from the wall socket. Things pass energy on; they do not make it."], ["When a rolling ball stops, its energy is gone for ever.", false, "Energy is never destroyed. It passes on, mostly as a tiny bit of warmth."], ["A thing moving twice as fast has about four times as much movement energy.", true, "Movement energy grows much faster than speed, so a small rise in speed means a big rise in energy."], ["A stone lying on a high shelf has energy stored in it.", true, "It is ready to fall, so the stone holds stored energy even though it is not moving."], ["Electricity is where all our energy first comes from.", false, "Electricity only carries energy along wires. It comes from a power station, which got it from coal, gas, wind or sunlight."], ["A machine with no energy put in could keep running for ever.", false, "Some energy always spreads out as heat through rubbing, so every machine slows down and stops."], ["Animals and people get the energy to grow and move from food.", true, "Food holds stored energy. Plants take theirs from sunlight, and animals get it by eating."], ["Plants get the energy they need to grow from the soil.", false, "Plants take their energy from sunlight. The soil gives them water and minerals, not energy."], ["When energy changes from one form to another, some of it nearly always spreads out as warmth.", true, "Each change leaves a little warmth in the air and the things nearby, so energy spreads out but is never lost."]], "odd": [[["Wire", "Sun", "Cooking gas", "Food"], "Wire", "The Sun, gas and food are sources that hold or give energy; a wire only carries energy from a source."], [["Wound-up toy", "Ball on a high shelf", "Full cell", "Rolling ball"], "Rolling ball", "The first three hold stored energy ready for later; a rolling ball has movement energy because it is moving now."], [["Sun", "Lamp", "Phone screen", "Moon"], "Moon", "The Sun, a lamp and a screen make their own light; the Moon only bounces back light from the Sun."], [["Cow", "Child", "Mushroom", "Tulsi plant"], "Tulsi plant", "Cows, children and mushrooms get energy from food. A tulsi plant takes their energy from sunlight."], [["Wood", "Kerosene", "Petrol", "Water"], "Water", "Wood, kerosene and petrol are fuels that can be burned to give heat and light; water cannot be burned."]]}
+ "warm": {
+  "words": [
+   "LIGHT",
+   "SOUND",
+   "SOLAR",
+   "STORE",
+   "MOVES"
+  ],
+  "quiz": [
+   [
+    "A marble dropped from higher up digs a wider crater because it has more stored energy.",
+    true,
+    "Higher up means more stored energy, which turns into movement energy as the marble falls."
+   ],
+   [
+    "A ceiling fan makes its own energy to keep turning.",
+    false,
+    "A fan gets its energy from the wall socket. Things pass energy on; they do not make it."
+   ],
+   [
+    "When a rolling ball stops, its energy is gone for ever.",
+    false,
+    "Energy is never destroyed. It passes on, mostly as a tiny bit of warmth."
+   ],
+   [
+    "A thing moving twice as fast has about four times as much movement energy.",
+    true,
+    "Movement energy grows much faster than speed, so a small rise in speed means a big rise in energy."
+   ],
+   [
+    "A stone lying on a high shelf has energy stored in it.",
+    true,
+    "It is ready to fall, so the stone holds stored energy even though it is not moving."
+   ],
+   [
+    "Electricity is where all our energy first comes from.",
+    false,
+    "Electricity only carries energy along wires. It comes from a power station, which got it from coal, gas, wind or sunlight."
+   ],
+   [
+    "A machine with no energy put in could keep running for ever.",
+    false,
+    "Some energy always spreads out as heat through rubbing, so every machine slows down and stops."
+   ],
+   [
+    "Animals and people get the energy to grow and move from food.",
+    true,
+    "Food holds stored energy. Plants take theirs from sunlight, and animals get it by eating."
+   ],
+   [
+    "Plants get the energy they need to grow from the soil.",
+    false,
+    "Plants take their energy from sunlight. The soil gives them water and minerals, not energy."
+   ],
+   [
+    "When energy changes from one form to another, some of it nearly always spreads out as warmth.",
+    true,
+    "Each change leaves a little warmth in the air and the things nearby, so energy spreads out but is never lost."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Wire",
+     "Sun",
+     "Cooking gas",
+     "Food"
+    ],
+    "Wire",
+    "The Sun, gas and food are sources that hold or give energy; a wire only carries energy from a source."
+   ],
+   [
+    [
+     "Wound-up toy",
+     "Ball on a high shelf",
+     "Full cell",
+     "Rolling ball"
+    ],
+    "Rolling ball",
+    "The first three hold stored energy ready for later; a rolling ball has movement energy because it is moving now."
+   ],
+   [
+    [
+     "Sun",
+     "Lamp",
+     "Phone screen",
+     "Moon"
+    ],
+    "Moon",
+    "The Sun, a lamp and a screen make their own light; the Moon only bounces back light from the Sun."
+   ],
+   [
+    [
+     "Cow",
+     "Child",
+     "Mushroom",
+     "Tulsi plant"
+    ],
+    "Tulsi plant",
+    "Cows, children and mushrooms get energy from food. A tulsi plant takes their energy from sunlight."
+   ],
+   [
+    [
+     "Wood",
+     "Kerosene",
+     "Petrol",
+     "Water"
+    ],
+    "Water",
+    "Wood, kerosene and petrol are fuels that can be burned to give heat and light; water cannot be burned."
+   ]
+  ]
+ }
 }

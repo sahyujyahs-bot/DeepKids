@@ -2928,7 +2928,8 @@
   "who": "Thomas Huxley in England, Gerhard Heilmann in Denmark, John Ostrom in America, and Li Yumin, Ji Qiang and Ji Shu'an in China",
   "when": "Archaeopteryx was found in 1861. Huxley wrote in 1868 and Heilmann in 1926. Ostrom found Deinonychus in 1964, and Sinosauropteryx was found in 1996.",
   "wrong_idea": "That birds could not have come from dinosaurs, because dinosaurs had no wishbone. Wishbones were later found in many theropods, and feathered dinosaurs were found from 1996.",
-  "art": "A split stone slab showing a small skeleton with a halo of dark fuzz along the back and tail, held by a farmer in a field in northern China."
+  "art": "A split stone slab showing a small skeleton with a halo of dark fuzz along the back and tail, held by a farmer in a field in northern China.",
+  "context": "Where did birds come from? This card tells the true story of how scientists in several countries found out that birds are related to dinosaurs."
  },
  "roots": {
   "context": "In this lesson you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.",
@@ -2948,14 +2949,23 @@
     "source": "Udana 6.4, a Buddhist text",
     "teaching": "Some blind men each touch one part of an elephant. One says an elephant is like a pot, another like a pillar, another like a broom. Each is sure, and they quarrel.",
     "link": "In 1836 Edward Hitchcock studied three-toed footprints in rock and said giant birds made them. Later scientists said dinosaurs made them. Each side held part of the truth, like the men with the elephant. The three-toed feet belong to dinosaurs, and birds are a kind of dinosaur.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi thūṇo.", "ediso, deva, hatthī seyyathāpi sammajjanī."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi thūṇo.",
+     "ediso, deva, hatthī seyyathāpi sammajjanī."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, as quoted by Plato in Cratylus 402a",
     "teaching": "Everything moves and nothing stays still. You cannot step twice into the same river.",
     "link": "A kind of animal is like a river, which never stands still. The finches of Daphne Major had deeper beaks after one drought. The name 'finch' stayed the same, but the birds had changed.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    },
    {

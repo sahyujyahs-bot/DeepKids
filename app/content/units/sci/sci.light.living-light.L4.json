@@ -3704,14 +3704,19 @@
     "source": "Tao Te Ching, chapter 17",
     "teaching": "The best leader is one whom the people hardly notice. When the work is done and the aim is reached, the people say, we did it ourselves.",
     "link": "Fireflies line up with no one leading them. If you asked a tree of flashing fireflies who led, there would be no answer. Each one watched, and each one answered.",
-    "verse": ["悠兮其貴言，功成事遂，百姓皆謂：我自然。"],
+    "verse": [
+     "悠兮其貴言，功成事遂，百姓皆謂：我自然。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own Self, and their own Self in all beings, does not turn away from anyone.",
     "link": "A firefly keeps time by watching the others, and the others keep time by watching them. Each one's flash becomes part of the next one's timing.",
-    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse": [
+     "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति",
+     "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3755,7 +3760,8 @@
   "story": "In the 1880s, Raphael Dubois showed that a glow needs two chemicals, a fuel and a helper. After that, many scientists thought that luciferin, luciferase and oxygen were all that a firefly needed. But in a test tube the glow was weak, and it died away fast. In 1947, the American scientist William McElroy worked with extract from firefly lanterns. He saw that the glow faded when the extract stood for a while. Then he tried adding small molecules from living cells, one at a time. Only one brought the glow back: ATP, the energy carrier of all cells. So the old idea was incomplete. A flash needs a payment of cell energy as well. Today firefly luciferase is used in hospitals and laboratories to measure ATP, and so to tell whether living cells are present.",
   "who": "William McElroy, an American biochemist",
   "when": "1947",
-  "wrong_idea": "Many scientists thought luciferin, luciferase and oxygen were enough to make a firefly's glow. McElroy showed that without ATP the glow fades, and that adding ATP brings it back."
+  "wrong_idea": "Many scientists thought luciferin, luciferase and oxygen were enough to make a firefly's glow. McElroy showed that without ATP the glow fades, and that adding ATP brings it back.",
+  "context": "What does a firefly need to make its glow? This card tells the true story of a scientist who found a missing piece that scientists had overlooked."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home by a family. Flash Together was checked with a computer model of the same rules: with 2 to 4 players and start numbers 0 to 6, the listen rule lined the group up in 9 to 19 ticks every time, and the ignore rule never did in 40 ticks. Real players will be slower and may slip in counting, which is fine. Eyes in the Dark needs a room that is really dark. A bathroom with no window and a towel at the door works. The numbers of sheets are a guess from the physics of light and paper, so the example is made up, and the parent note says what to do if all 12 sheets are seen through. The potato test needs a fresh bottle of 3 percent peroxide. Many Indian chemist bottles say 6 percent or 20 volume, and the steps say to dilute them. If the raw potato does not fizz, the bottle is old. A grown-up does the boiling and the peroxide. Glow Detective needs a UV torch, so it is outside the core path. Look Beside It may show only a one or two sheet difference, and the note says to write down no difference if there is none. Facts to verify before release: the 2008 firefly quantum yield of about 41 percent, the 1947 McElroy ATP finding, Eisner's 1997 report on Photuris, the Gonyaulax rhythm work of Hastings and Sweeney, the Gomes 2014 Arabian Sea paper, the claim that red light is nearly gone within about 10 metres, the figures of about 100 million rod cells and 5 million cone cells, and the statement that Olive Ridley volunteer groups work on the Chennai coast."
 }

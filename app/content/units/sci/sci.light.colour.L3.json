@@ -3354,7 +3354,11 @@
     "source": "Chandogya Upanishad 6.4.1",
     "teaching": "The teacher Uddalaka tells his son that the red colour of a fire belongs to heat, its white to water, and its dark to food. 'Fire' is only a name, he says. The three colours underneath are what is real.",
     "link": "Uddalaka looked under one name and found a mix of colours. A prism does the same with sunlight: under the one name 'white' are all the colours of the rainbow. His three colours are not the rainbow's, but the way of looking is the same.",
-    "verse": ["यदग्ने रोहितं रूपं तेजसस्तद्रूपम्", "यच्छुक्लं तदपाम्", "यत्कृष्णं तदन्नस्य"],
+    "verse": [
+     "यदग्ने रोहितं रूपं तेजसस्तद्रूपम्",
+     "यच्छुक्लं तदपाम्",
+     "यत्कृष्णं तदन्नस्य"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3400,7 +3404,8 @@
   "story": "For a long time, people thought white light was pure and simple. They thought a prism added colours to it, perhaps by mixing in some darkness. Starting in 1666, a young Isaac Newton tested this. He darkened his room and let one thin beam of sunlight in through a small hole in the shutter. A prism spread the beam into a long strip of colours on the far wall. Then he let only one colour, such as red, pass through a small hole in a board. He sent that one colour through a second prism. If prisms added colour, the red should have changed again. It did not. It stayed red, and it bent by the same amount as before. Newton also used a lens to bring all the colours back together, and they made white again. He published his results in 1672. Some scientists, such as Robert Hooke, argued against him for years. But anyone could repeat the test, and it kept working. White light is not pure. It is a mixture of colours.",
   "who": "Isaac Newton, with Robert Hooke arguing against him",
   "when": "1666 to 1672",
-  "wrong_idea": "A prism adds colours to pure white light. Newton sent a single colour through a second prism and it did not change, so the colours must already be in the light."
+  "wrong_idea": "A prism adds colours to pure white light. Newton sent a single colour through a second prism and it did not change, so the colours must already be in the light.",
+  "context": "Where do the colours of a rainbow come from? This card tells the true story of a scientist who sent sunlight through glass prisms to find out."
  },
  "playtest": "Walked every printable, game, experiment, activity, project and challenge as a family would, with 2 and with 4 players. Games: both games already listed every card, so I kept them. In Rainbow Line-Up I fixed the setup picture (question cards are face up, not face down), said what happens when a pile runs out, and replaced two question cards that repeated other places in the lesson or did not name what they asked about. In The Bending Race, six sideways steps could not fit in a one-metre glass, so the glass is now 2 metres wide and a step is one shoe-length. Experiments and activities: the glass-of-water strip is often faint, so the water prism test and Colour Filters now say plainly to write 'could not tell' and rely on the mirror in water or the leaf instead; the prism is optional, so the compare step no longer says three rows. The Colour Filters check now says mostly red, matching the parent note, and the missing leaf is now in the materials. Where Does Green End? added up to 18 minutes, now 15, and no longer asks you to tape down a beam of light (the strip lands on card, or a rainbow picture on a phone is used). The Sky Colour Diary no longer sends the child outside at noon, and the oily-puddle idea in Bubble and CD Rainbows is gone because it is not a flat activity. The spray rainbow stays outside the core path and now says it may be faint and need another day. Cleaning: removed the unneeded safety line from the bubbles activity, the picture-book that nobody needs from the buy list, two non-jokes (jokes now 8), a CD idea in the biggest-rainbow challenge that repeats Bubble and CD Rainbows, a leaf question and a rainbow-colour question that came back too often, and the repeated 'is your red my red' ask. The warm-up questions all repeated the game and quiz, so they are now short refreshers from earlier light units. Rule 28: the rainbow-spotting list now has Assam tea gardens and a Durga Puja pandal. I checked the three videos open and match their titles. I did not change the science, the deep truth, the story or any ids.",
  "warm": {

@@ -482,7 +482,10 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to split the seed of a banyan fruit and say what he sees inside. Shvetaketu sees nothing. Uddalaka says that the fine part you cannot see is the reason the great banyan tree stands.",
     "link": "A tree with thousands of branches grows from a seed, and the whole branching pattern comes from a few simple steps repeated. Nothing in the seed looks like a tree.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3126,7 +3129,8 @@
   "story": "In the 1800s, mathematicians believed that every curve they could draw was smooth enough that, at almost every point, you could say which way it is heading. A road with a bend here and there is like that. In 1872, the German mathematician Karl Weierstrass showed a curve where you cannot say which way it is heading at any point. It was made of bends inside bends at every size. Some mathematicians were upset and called such curves monsters. In 1904, the Swedish mathematician Helge von Koch drew a simpler monster that anyone can make with a ruler, which we now call the Koch curve. For decades the monsters stayed in mathematics books. Then, in the 1960s and 1970s, Benoit Mandelbrot used Lewis Fry Richardson's measurements of coasts and argued that the monsters were the right shapes for coasts, clouds and mountains. In 1975, he gave them the name fractals.",
   "who": "Karl Weierstrass, Helge von Koch and Benoit Mandelbrot",
   "when": "1872 to 1975",
-  "wrong_idea": "Mathematicians believed that every curve is smooth enough to have a direction at nearly every point, so that crinkly curves were rare oddities. Weierstrass and Koch showed that a curve can be crinkly everywhere, and Mandelbrot argued that nature is full of such curves."
+  "wrong_idea": "Mathematicians believed that every curve is smooth enough to have a direction at nearly every point, so that crinkly curves were rare oddities. Weierstrass and Koch showed that a curve can be crinkly everywhere, and Mandelbrot argued that nature is full of such curves.",
+  "context": "Are all curves smooth, or can a curve be crinkly everywhere? This card tells the true story of mathematicians who found curves nobody expected."
  },
  "playtest": "Walked through as a parent and child in a city flat would do it, but not yet tried at home. Box counting: a hand-drawn coast on 1 centimetre squared paper with bays inside bays is expected to give a ratio of about 2.2 to 2.8 when the boxes are halved, which is a roughness number of about 1.1 to 1.5. A line drawn through the middle of a row of squares touches 20 boxes of 1 centimetre. The 4 centimetre grid has 5 boxes across a 20 centimetre page. Leaf Staircase: needs a plant with leaves arranged one at a time. Stems lean and leaves are never exactly above one another, so choose the nearest and count twice. Results of 1 over 2, 1 over 3, 2 over 5 and 3 over 8 are all good results. Koch curve: 27 centimetres gives 36, 48, 64 and about 85 centimetres, and round 2 has 4 small tents of 3 centimetres to draw. Dragon: stop at four folds, because five folds of paper is too thick. Chaos game: after 50 dots a clear hole in the middle appears, and 100 dots show it better. Stick and Wander: about 14 rolls per walker on a 7 by 7 grid, tested by computer simulation. To verify before use: the dates and names for Weierstrass, Koch, Richardson and Mandelbrot, the Heighway dragon credit, Murray's law and Eloy's paper, Raup's three numbers, the 1837 Bravais measurement, Kondo and Asai 1995, Lin and Shu 1964 and the Eglash claim. The YouTube ids marked find-id still need to be found."
 }

@@ -505,7 +505,8 @@
   "story": "In the 1990s, bird watchers in India noticed something strange. Vultures, once so common that they circled over every village, were becoming rare. Many scientists thought an infection was killing them. A scientist at the Bombay Natural History Society, Vibhu Prakash, and his team counted the vultures again and again, along the same roads and in the same places each year. Their counts showed that in some places, more than nine in every ten birds were gone. The cause was still a puzzle. In 2004, a team led by the scientist Lindsay Oaks tested dead vultures in Pakistan and found that their kidneys had failed. The cause was a painkiller for cattle called diclofenac. When a farmer treated a sick cow or buffalo with it and the animal died, the vultures that fed on her body were poisoned. India banned the cattle medicine in 2006. The wrong idea was that an infection was killing the birds. A careful look at the dead birds showed that the poison had come through their food.",
   "who": "Vibhu Prakash and the Bombay Natural History Society, with Lindsay Oaks and a team that included scientists in Pakistan",
   "when": "Counts from the 1990s, the cause found in 2004, and the ban on the cattle medicine in 2006",
-  "wrong_idea": "Many people thought an infectious disease was killing India's vultures. Careful counts showed how fast they were disappearing, and tests on dead birds showed that a cattle painkiller was poisoning them."
+  "wrong_idea": "Many people thought an infectious disease was killing India's vultures. Careful counts showed how fast they were disappearing, and tests on dead birds showed that a cattle painkiller was poisoning them.",
+  "context": "Why were the vultures of India disappearing? This card tells the true story of the scientists who counted them and found out the cause."
  },
  "roots": {
   "context": "You have counted beans in the Beans in the Jar test, run a pond in the Pond Council game and built a model of groundwater in Borewell in a Tub. All three show the same thing: nobody can see all of nature at once, so how much is left has to be measured.",
@@ -525,21 +526,31 @@
     "source": "Atharva Veda 12.1.12 (the Prithvi Sukta)",
     "teaching": "The Earth is my mother, and I am her child.",
     "link": "We live on what the Earth gives, as a child lives on what her mother gives. Counting carefully how much is left is one way to look after the Earth that feeds us.",
-    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse": [
+     "यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।",
+     "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 44",
     "teaching": "Knowing what is enough saves us from shame. Knowing when to stop saves us from danger, and so we can last a long time.",
     "link": "In the Pond Council game, the biggest steady catch comes from stopping at the right point. A village that knows when to stop can fish for ever.",
-    "verse": ["知足不辱，知止不殆，可以長久。"],
+    "verse": [
+     "知足不辱，知止不殆，可以長久。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 49",
     "teaching": "As a bee takes nectar from a flower and flies away without harming her colour or scent, so should a wise person move through a village.",
     "link": "A bee takes from the flower and helps the flower make seeds, so the flower is not harmed. In the story The Shelf of Shells, Ammamma's steel ring works the same way: small clams slip through it and go back in the water.",
-    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse": [
+     "Yathāpi bhamaro pupphaṁ,",
+     "vaṇṇagandhamaheṭhayaṁ;",
+     "Paleti rasamādāya,",
+     "evaṁ gāme munī care."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -3618,5 +3629,117 @@
   ]
  },
  "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Beans in the Jar: the numbers were worked out by simulating many scoops. With 240 beans and a first scoop of about 40, single estimates often fall between 150 and 400, and the average of five is usually within 15 percent of the true number. The parent must count the beans in tens the day before, and should not let the child see the number. Second Life of Water: soap and salt at 1 teaspoon in a cup of water usually slow or stop moong, and rice water is usually as good as tap water. If no cup shows a difference, say so, and try 2 teaspoons next time. Rain Pit Model: stones drain in seconds, sand in about a minute, loose soil slowly and pressed soil barely. Pond Council was checked by working out every year for three villagers. A greedy catch of 4 each empties the pond in two years. A catch of 2 each empties it in about five years. Leaving 16 fish gives a steady catch of 8 a year, and the best total over eight years is 64. Seed Keepers is a simple model and does not match real rice farming. Facts for a grown-up to verify before release: the tiger counts of about 1,400 in 2006 and more than 3,000 in 2022, the Ashtamudi clam fishery certification in 2014, the date of the cheetahs' arrival at Kuno, the flood-tolerant rice from Odisha, the Alwar johads, the number of national parks in India, and the ids for the three videos.",
- "warm": {"words": ["STOCK", "TIGER", "WATER", "GRASS", "SEEDS"], "quiz": [["A group of fish that has young every year can still run out if too many are caught.", true, "If people catch faster than the fish breed, fewer parents are left to make young."], ["If a pond fills again every spring, the village can take as many fish as it likes.", false, "Taking too many leaves too few parent fish to fill the pond again."], ["Counting a small, fair sample can help us estimate a group too big to count.", true, "We use the part we count to work out the whole, as in mark and recapture."], ["If the basket weighs the same every day, the lake must be healthy.", false, "The fish may be smaller each year, or take longer to catch, while the weight stays the same."], ["The number of animals stays steady when the young born equal the animals lost.", true, "A stock stays steady when what comes in equals what goes out."], ["Saving only the tiger is enough, because the other living beings will be fine.", false, "A tiger needs her prey, water and forest, so losing those puts her in danger too."], ["A forest cut into small pieces by roads and farms holds fewer kinds of life.", true, "Small separate pieces give animals less room, food and safe ways to move."], ["Old crop varieties are useless because new varieties always give more grain.", false, "Old varieties can carry strengths like standing floods or drought, which help breeders and farmers."], ["A group that has fallen very low may keep shrinking even after people stop catching.", true, "Too few adults are left to make enough young, so recovery can be very slow."], ["Groundwater stays at the same level however much we pump, because rain refills it.", false, "The water table falls when more is pumped out than soaks in."]], "odd": [[["Coal", "Oil", "Iron ore", "Fish"], "Fish", "Coal, oil and iron ore take far too long to form again, but fish are made again by breeding."], [["Camera trap photos", "Marking and recapturing", "Counting a fair sample", "Counting every single one"], "Counting every single one", "The other three estimate the whole from a part; counting every one is not possible for animals we cannot see all at once."], [["Road through a forest", "Railway across a forest", "Farm cutting a forest", "Strip of trees joining forests"], "Strip of trees joining forests", "The other three break a habitat into pieces; a strip of trees joins the pieces back together."], [["Rain soaking into soil", "Pond water seeping down", "Snowmelt soaking in", "Pumping from a borewell"], "Pumping from a borewell", "The other three add water to the ground; pumping takes water out and can make the water table fall."], [["Sacred grove", "Van Panchayat forest", "Tiger reserve", "Fishing with no limits"], "Fishing with no limits", "The other three are places where rules limit what people take; the odd one has no limit at all."]]}
+ "warm": {
+  "words": [
+   "STOCK",
+   "TIGER",
+   "WATER",
+   "GRASS",
+   "SEEDS"
+  ],
+  "quiz": [
+   [
+    "A group of fish that has young every year can still run out if too many are caught.",
+    true,
+    "If people catch faster than the fish breed, fewer parents are left to make young."
+   ],
+   [
+    "If a pond fills again every spring, the village can take as many fish as it likes.",
+    false,
+    "Taking too many leaves too few parent fish to fill the pond again."
+   ],
+   [
+    "Counting a small, fair sample can help us estimate a group too big to count.",
+    true,
+    "We use the part we count to work out the whole, as in mark and recapture."
+   ],
+   [
+    "If the basket weighs the same every day, the lake must be healthy.",
+    false,
+    "The fish may be smaller each year, or take longer to catch, while the weight stays the same."
+   ],
+   [
+    "The number of animals stays steady when the young born equal the animals lost.",
+    true,
+    "A stock stays steady when what comes in equals what goes out."
+   ],
+   [
+    "Saving only the tiger is enough, because the other living beings will be fine.",
+    false,
+    "A tiger needs her prey, water and forest, so losing those puts her in danger too."
+   ],
+   [
+    "A forest cut into small pieces by roads and farms holds fewer kinds of life.",
+    true,
+    "Small separate pieces give animals less room, food and safe ways to move."
+   ],
+   [
+    "Old crop varieties are useless because new varieties always give more grain.",
+    false,
+    "Old varieties can carry strengths like standing floods or drought, which help breeders and farmers."
+   ],
+   [
+    "A group that has fallen very low may keep shrinking even after people stop catching.",
+    true,
+    "Too few adults are left to make enough young, so recovery can be very slow."
+   ],
+   [
+    "Groundwater stays at the same level however much we pump, because rain refills it.",
+    false,
+    "The water table falls when more is pumped out than soaks in."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Coal",
+     "Oil",
+     "Iron ore",
+     "Fish"
+    ],
+    "Fish",
+    "Coal, oil and iron ore take far too long to form again, but fish are made again by breeding."
+   ],
+   [
+    [
+     "Camera trap photos",
+     "Marking and recapturing",
+     "Counting a fair sample",
+     "Counting every single one"
+    ],
+    "Counting every single one",
+    "The other three estimate the whole from a part; counting every one is not possible for animals we cannot see all at once."
+   ],
+   [
+    [
+     "Road through a forest",
+     "Railway across a forest",
+     "Farm cutting a forest",
+     "Strip of trees joining forests"
+    ],
+    "Strip of trees joining forests",
+    "The other three break a habitat into pieces; a strip of trees joins the pieces back together."
+   ],
+   [
+    [
+     "Rain soaking into soil",
+     "Pond water seeping down",
+     "Snowmelt soaking in",
+     "Pumping from a borewell"
+    ],
+    "Pumping from a borewell",
+    "The other three add water to the ground; pumping takes water out and can make the water table fall."
+   ],
+   [
+    [
+     "Sacred grove",
+     "Van Panchayat forest",
+     "Tiger reserve",
+     "Fishing with no limits"
+    ],
+    "Fishing with no limits",
+    "The other three are places where rules limit what people take; the odd one has no limit at all."
+   ]
+  ]
+ }
 }

@@ -3277,7 +3277,8 @@
   "story": "For centuries, sailors could find how far north or south they were, but not how far east or west. To find that, they needed to know the exact time at a faraway port, and compare it with the Sun's time on their ship. Pendulum clocks failed at sea, because the rocking of the waves threw off the swing. In 1714, the British Parliament asked experts, including Isaac Newton, how to solve the problem. Newton told them that a clock accurate enough for use at sea had not yet been made. Many astronomers believed that the answer would come from the Moon and the stars. John Harrison, an English clockmaker, thought otherwise. He built clocks and watches with springs and balanced wheels in place of pendulums, so that rocking could not stop them. His fourth timekeeper, a large watch finished in 1759, was tested on a voyage to Jamaica in 1761. It was found to be only about five seconds slow after the voyage. A balance spring keeps its beat however the ship tilts.",
   "who": "John Harrison (1693 to 1776), an English clockmaker",
   "when": "He finished his fourth sea timekeeper in 1759, and it was tested at sea in 1761 and 1762",
-  "wrong_idea": "Many experts believed that no clock could keep accurate time on a rocking ship, with changes in heat, damp and gravity. Harrison showed it could be done, with a clock that used a spring, not a pendulum, and the sea trial proved it."
+  "wrong_idea": "Many experts believed that no clock could keep accurate time on a rocking ship, with changes in heat, damp and gravity. Harrison showed it could be done, with a clock that used a spring, not a pendulum, and the sea trial proved it.",
+  "context": "How can a ship at sea know its exact position? This card tells the true story of a clockmaker who built a clock that works on a rocking ship."
  },
  "roots": {
   "context": "We have bounced bags in the Bounce Time test, shaken bands in the Favourite Beat test and bent a paper clip until it broke in the Tired Clip activity. This part asks what a spring's natural beat shows about ourselves and the world.",
@@ -3297,14 +3298,19 @@
     "source": "Ecclesiastes 3:1",
     "teaching": "To everything there is a season, and a time for every purpose under heaven.",
     "link": "A push builds a swing only at the right moment. The same push at another moment adds nothing.",
-    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"],
+    "verse": [
+     "לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"
+    ],
     "verse_lang": "he"
    },
    {
     "source": "Bhagavad Gita 2.50",
     "teaching": "Yoga is skill in action.",
     "link": "A parent who pushes a swing well does not push harder. She pushes at the right moment, and the swing does the rest.",
-    "verse": ["बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।", "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।"],
+    "verse": [
+     "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।",
+     "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3336,5 +3342,117 @@
   "art": "A child on a swing at the top of an arc, a gentle hand pushing at exactly the right moment, and above it ripples of the same rhythm in an atom, a watch and the Sun."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Bounce Time and Favourite Beat tests use two wide rubber bands linked like a chain, hung from a stick on two heavy chairs. Bands differ a lot. If the bands look thin and pale with 1 kilogram, add a third band to the chain and use it for every test, and never go above 1 kilogram. Rubber bands damp a bounce quickly, so ten bounces is the most to count, and eight is fine. Expect about 7 to 11 seconds for ten bounces with 500 grams. The ratio of the 1000 gram time to the 250 gram time is often a little under 2, because rubber stiffens when stretched, and 1.5 to 2.1 is a good result. In the Favourite Beat test, the best hand speed is a range rather than a single value, because rubber damps the response. A metronome app helps, and counting seconds aloud against a clock also works. The Stiffness League needs the spring from a retractable pen, which a grown-up must take out. The Tired Clip and the Tape Measure Snap need a grown-up, because clip ends and tape edges are sharp. The Wobble Scale needs a ruler that wobbles slowly enough to count, so slide more of it off the table if it wobbles too fast. In Soft Landing, three coins is an easy start. Facts to check before use: the details of John Harrison's sea trial, Sophie Germain's prize attempts, the number of touches and time window of the flytrap, and the Skylab mass device.",
- "warm": {"words": ["STIFF", "SWING", "CYCLE", "BEATS", "HEAVY"], "quiz": [["A big bounce and a small bounce of the same bottle take the same time.", true, "A bigger stretch makes the spring pull harder, so the load moves faster and the time stays the same."], ["A heavier load makes a spring bounce faster.", false, "A heavier load is harder to speed up, so it bounces more slowly."], ["Two springs joined end to end are softer than one spring alone.", true, "Each spring stretches and the stretches add up, so the pair stretches more for the same pull."], ["A stiff spring and a strong spring mean the same thing.", false, "Stiff means a big pull for a small stretch. Strong means taking a big load without breaking."], ["Shaking a hanging bottle in time with its natural beat makes the bounce grow big.", true, "Each push in time adds to the last one, so small pushes build a big movement."], ["A huge push at the wrong moment builds more swing than small pushes in time.", false, "Timing matters: pushes that match the natural beat add up, while badly timed pushes cancel out."], ["A rubber band gets a little warmer when you stretch it.", true, "Stretched rubber gives out a little heat, and it cools down again when let go."], ["A spring that is bouncing never loses any of its energy.", false, "Some energy turns into heat and sound, so every bounce slowly dies away."], ["Four times the load makes a spring's bounce take twice as long.", true, "Bounce time depends on the load and the stiffness, and a load four times bigger doubles it."], ["Bending a paper clip a little, again and again, cannot break it.", false, "Tiny cracks grow with every bend, so many small bends can snap a material."]], "odd": [[["Thick steel spring", "Car suspension spring", "Door-closer spring", "Soft slinky"], "Soft slinky", "The first three need a big pull for a small stretch, but a soft slinky stretches easily."], [["Swinging child", "Bouncing bottle on bands", "Vibrating guitar string", "Ball rolling down a slope"], "Ball rolling down a slope", "The first three go back and forth along the same path again and again, but the ball does not."], [["Heavier load", "Stiffer spring", "Springs joined in a row", "Bigger bounce"], "Bigger bounce", "Load and stiffness set the bounce time, but the size of the bounce does not change it."], [["Pushing a swing in time", "Shaking bands at their favourite beat", "Tuning a radio to a station", "Pulling a bottle down once"], "Pulling a bottle down once", "The first three match a natural beat so effects add up, but a single pull does not."], [["Stretched rubber band", "Squashed spring", "Bent bow", "Rock lying on the ground"], "Rock lying on the ground", "The first three store elastic energy and spring back, but a rock on the ground does not."]]}
+ "warm": {
+  "words": [
+   "STIFF",
+   "SWING",
+   "CYCLE",
+   "BEATS",
+   "HEAVY"
+  ],
+  "quiz": [
+   [
+    "A big bounce and a small bounce of the same bottle take the same time.",
+    true,
+    "A bigger stretch makes the spring pull harder, so the load moves faster and the time stays the same."
+   ],
+   [
+    "A heavier load makes a spring bounce faster.",
+    false,
+    "A heavier load is harder to speed up, so it bounces more slowly."
+   ],
+   [
+    "Two springs joined end to end are softer than one spring alone.",
+    true,
+    "Each spring stretches and the stretches add up, so the pair stretches more for the same pull."
+   ],
+   [
+    "A stiff spring and a strong spring mean the same thing.",
+    false,
+    "Stiff means a big pull for a small stretch. Strong means taking a big load without breaking."
+   ],
+   [
+    "Shaking a hanging bottle in time with its natural beat makes the bounce grow big.",
+    true,
+    "Each push in time adds to the last one, so small pushes build a big movement."
+   ],
+   [
+    "A huge push at the wrong moment builds more swing than small pushes in time.",
+    false,
+    "Timing matters: pushes that match the natural beat add up, while badly timed pushes cancel out."
+   ],
+   [
+    "A rubber band gets a little warmer when you stretch it.",
+    true,
+    "Stretched rubber gives out a little heat, and it cools down again when let go."
+   ],
+   [
+    "A spring that is bouncing never loses any of its energy.",
+    false,
+    "Some energy turns into heat and sound, so every bounce slowly dies away."
+   ],
+   [
+    "Four times the load makes a spring's bounce take twice as long.",
+    true,
+    "Bounce time depends on the load and the stiffness, and a load four times bigger doubles it."
+   ],
+   [
+    "Bending a paper clip a little, again and again, cannot break it.",
+    false,
+    "Tiny cracks grow with every bend, so many small bends can snap a material."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Thick steel spring",
+     "Car suspension spring",
+     "Door-closer spring",
+     "Soft slinky"
+    ],
+    "Soft slinky",
+    "The first three need a big pull for a small stretch, but a soft slinky stretches easily."
+   ],
+   [
+    [
+     "Swinging child",
+     "Bouncing bottle on bands",
+     "Vibrating guitar string",
+     "Ball rolling down a slope"
+    ],
+    "Ball rolling down a slope",
+    "The first three go back and forth along the same path again and again, but the ball does not."
+   ],
+   [
+    [
+     "Heavier load",
+     "Stiffer spring",
+     "Springs joined in a row",
+     "Bigger bounce"
+    ],
+    "Bigger bounce",
+    "Load and stiffness set the bounce time, but the size of the bounce does not change it."
+   ],
+   [
+    [
+     "Pushing a swing in time",
+     "Shaking bands at their favourite beat",
+     "Tuning a radio to a station",
+     "Pulling a bottle down once"
+    ],
+    "Pulling a bottle down once",
+    "The first three match a natural beat so effects add up, but a single pull does not."
+   ],
+   [
+    [
+     "Stretched rubber band",
+     "Squashed spring",
+     "Bent bow",
+     "Rock lying on the ground"
+    ],
+    "Rock lying on the ground",
+    "The first three store elastic energy and spring back, but a rock on the ground does not."
+   ]
+  ]
+ }
 }

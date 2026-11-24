@@ -4100,14 +4100,23 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning the salt cannot be seen. But when Shvetaketu sips from the top, the middle and the bottom, the water tastes salty everywhere.",
     "link": "In the Invisible Ring, the salt in glass B could not be seen either. Drying the water showed that it was still there, spread all through the glass.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The best way to live is like water. Water helps all things and does not fight them. It flows to the low places that people look down on.",
     "link": "Water sinks into the ground, the lowest place, and that is exactly where it is stored and kept safe for wells and roots.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -4147,7 +4156,8 @@
   "story": "In the 1970s, many children in West Bengal and Bangladesh fell ill from germs in pond and river water. So governments and UNICEF, a United Nations group that helps children, paid for millions of tubewells. A tubewell is a narrow pipe pushed deep into the ground, with a handpump on top. Its water came from under the ground, away from the germs, and it was clear and cool. Fewer children got ill from germs. Nobody tested the water for anything else. In 1983, a skin doctor in Kolkata, K. C. Saha, saw patients with dark spots and hard, rough patches on their hands and feet. He traced the cause to arsenic, a poison, in their tubewell water. The arsenic had dissolved from the mud under the ground. Later, Dipankar Chakraborti and his team at Jadavpur University tested tens of thousands of wells. Today, wells in many villages are tested and painted green if safe and red if not.",
   "who": "K. C. Saha, a skin doctor in Kolkata, and Dipankar Chakraborti of Jadavpur University",
   "when": "1983, and the years of testing after it",
-  "wrong_idea": "Clear water from under the ground, away from the germs, must be safe to drink. Patients' skin, and then tests on the wells, showed that it can carry arsenic dissolved from the rocks."
+  "wrong_idea": "Clear water from under the ground, away from the germs, must be safe to drink. Patients' skin, and then tests on the wells, showed that it can carry arsenic dissolved from the rocks.",
+  "context": "Is clear water from deep under the ground always safe to drink? This card tells the true story of a doctor in Kolkata and a scientist who found out."
  },
  "playtest": "Played Drop's Journey with 2 and with 4 players: all 30 squares are listed, none stalls or loops, every square does something, and the dice can be a Ludo dice or paper slips. I changed squares 2, 13, 19, 25 and 29 so each makes sense for a raindrop (a tap left running now pumps the borewell) and so the board is not only Rajasthan and the north (Western Ghats forest, a Tamil eri). Played Drink, Boil or Never? with 2 to 5 players: 20 cards, 3 mats and 20 tokens add up, I made the NEVER mat match the cards (not drinking water at all, such as a hose or fish tank), added a tie-breaker where the grown-up decides, and removed the unexplained Broad Street mention. Walked every experiment in a flat: Rain on Four Grounds (the tile puddle may need an hour or more to vanish, so the check now says come back later), the jar well (note that the first pulls bring air), the matka test (the cloth may dry out, parent note added), and the Invisible Ring (glasses labelled, clean teaspoon each time). Minutes and schedules add up for all of them. In Catch the Rain, the real-rain step now measures depth in millimetres in a straight-sided bucket in the open, which fits the 1 mm = 1 litre rule and works from a balcony. I replaced internal wording in the buy list, gave the Rani ki Vav and Dholavira links real addresses, cut two weak jokes (8 remain), dropped one duplicate bucket-litres worksheet question, introduced Mrs Pike in the story, named a chart in the family water count check, replaced a moral question in Carry the Morning's Water, and added South and West touches (khus tatti, Tamil Nadu roof tanks, eris, Nilgiri stream). I did not change the science, the deep truth or the structure. The three-sentence claim, evidence and reasoning step is kept at the end of each experiment on purpose, with a different model answer each time."
 }

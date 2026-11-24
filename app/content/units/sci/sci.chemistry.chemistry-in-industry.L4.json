@@ -2897,7 +2897,8 @@
   "who": "Friedrich Wöhler in Germany, his teacher Jöns Jacob Berzelius in Sweden, and William Perkin in England",
   "when": "Wöhler made urea in 1828. Perkin made his purple dye in 1856.",
   "wrong_idea": "That the substances of living bodies can be made only inside a living being, by a life force. Wöhler made urea from a mineral salt. Later chemists made many more such substances.",
-  "art": "A young chemist in clothes of the 1820s holding up a glass dish of white crystals in a small laboratory, with a letter and a quill pen on the bench."
+  "art": "A young chemist in clothes of the 1820s holding up a glass dish of white crystals in a small laboratory, with a letter and a quill pen on the bench.",
+  "context": "Can people build the substances of living things in a laboratory? This card tells the true story of a chemist in Germany who did, and of how it led to new colours and medicines."
  },
  "roots": {
   "context": "In this lesson you saw how chemistry makes fertilisers, medicines, fuels and paints. Here we ask what makes one substance a help at one time and a harm at another.",
@@ -2917,7 +2918,10 @@
     "source": "Tirukkural 949, in the chapter on medicine",
     "teaching": "Thiruvalluvar says that a learned healer first weighs three things: the measure of the patient, the measure of the illness and the season. Only then does the healer act.",
     "link": "This is the same finding as One Dose, Two Bodies, written in Tamil about 1,500 years ago or more. The right amount depends on who receives it. The verse is advice to healers, and it was not the result of a measured test.",
-    "verse": ["உற்றான் அளவும் பிணியளவும் காலமும்", "கற்றான் கருதிச் செயல்."],
+    "verse": [
+     "உற்றான் அளவும் பிணியளவும் காலமும்",
+     "கற்றான் கருதிச் செயல்."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2929,7 +2933,9 @@
     "source": "Tao Te Ching, chapter 9",
     "teaching": "To keep filling a bowl to the brim is not as good as stopping in time.",
     "link": "In Feed the Field, the third bean added nothing to the harvest and went into the pond. The text is about how to live. Farmers and doctors have found that the same holds for fertiliser and medicine.",
-    "verse": ["持而盈之，不如其已。"],
+    "verse": [
+     "持而盈之，不如其已。"
+    ],
     "verse_lang": "zh"
    }
   ],

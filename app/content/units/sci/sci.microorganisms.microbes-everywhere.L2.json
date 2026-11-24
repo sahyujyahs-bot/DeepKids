@@ -249,7 +249,8 @@
   "story": "For thousands of years, people made curd, idli batter and bread with the help of microbes, without knowing microbes were there. In 1676, Antonie van Leeuwenhoek, a cloth seller in the Netherlands, looked through tiny lenses he made himself. In drops of water, he saw tiny living beings swimming about. Later he saw them in the white stuff scraped from his own teeth. Still, most people believed that rot and spots came out of the food itself. In about 1860, Louis Pasteur in France boiled soup in glass flasks with long, bent necks. Dust and microbes from the air got stuck in the bend, and the soup stayed fresh. When he broke a neck off, dust fell in, and the soup went cloudy and bad. So the spoiling came from microbes that arrived from outside. In 1881, Fanny Hesse, who worked in a laboratory in Germany, suggested a jelly called agar for growing microbes. She knew agar from her kitchen. Scientists still grow microbes on agar today.",
   "who": "Antonie van Leeuwenhoek, Louis Pasteur and Fanny Hesse",
   "when": "1676 (van Leeuwenhoek), about 1860 (Pasteur), 1881 (Hesse)",
-  "wrong_idea": "That rot and spots on food come out of the food itself, and not from microbes that land on it."
+  "wrong_idea": "That rot and spots on food come out of the food itself, and not from microbes that land on it.",
+  "context": "Where do the spots and rot on old food come from? This card tells the true story of scientists who looked at tiny living things for the first time."
  },
  "story": {
   "title": "Ammamma's Spoon of Curd",
@@ -2312,14 +2313,20 @@
     "source": "Tattvartha Sutra, chapter 2 (Jain teaching)",
     "teaching": "Jain teachers taught that the world is full of living beings, many too small to see. Some live in earth, water and air, and have only the sense of touch. So Jain monks and nuns sweep gently and filter their water, to avoid harming them.",
     "link": "Jain thinkers noticed life where eyes cannot see it, long before microscopes. Our potato slices also showed life in soil, on fingers and in the air that no eye could see.",
-    "verse": ["पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः", "वनस्पत्यन्तानामेकम्"],
+    "verse": [
+     "पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः",
+     "वनस्पत्यन्तानामेकम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that the great banyan tree grows from this tiny thing that his son cannot see.",
     "link": "We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    }
   ],

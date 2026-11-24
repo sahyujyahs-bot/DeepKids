@@ -4198,14 +4198,23 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "In an old Indian story, a teacher called Uddalaka gives his son Shvetaketu a lump of salt and tells him to put it in water. In the morning the salt cannot be seen. But when Shvetaketu tastes the water from the top, the middle or the bottom, it is salty everywhere. Uddalaka says the finest part of everything is like this: unseen, yet everywhere.",
     "link": "You cannot see the atoms in a steel spoon or a strip of paper. But every property you tested, hard, shiny or strong, comes from them and how they are joined.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 24, verse 18",
     "teaching": "Nagarjuna, a Buddhist teacher of about the 2nd century CE, taught that nothing exists all alone. Everything is what it is because of other things.",
     "link": "In the Dry or Damp test, the strength you measured depended on something else: whether the paper or thread was dry or damp. In the same way, hard means harder than something else.",
-    "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"],
+    "verse": [
+     "यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे",
+     "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -4249,7 +4258,8 @@
   "story": "For thousands of years, people thought a diamond could never be destroyed. Its old Greek name, adamas, means 'unconquerable'. Nobody thought it had anything to do with black charcoal or pencil lead. In 1772 the French chemist Antoine Lavoisier heated a diamond with sunlight, focused by a giant lens. The diamond burned away. It made the same gas that burning charcoal makes, which we now call carbon dioxide. In 1797 the English chemist Smithson Tennant went further. He burned diamond and charcoal of the same weight. Both made the same amount of that gas. So a diamond is pure carbon, just like charcoal. But then why is one clear and hard, and the other black and soft? In 1913 William Henry Bragg and his son William Lawrence Bragg shone X-rays through a diamond. The pattern showed each carbon atom joined tightly to four neighbours. The atoms in diamond and pencil lead are the same. Only the way they are joined is different.",
   "who": "Antoine Lavoisier, Smithson Tennant, and William Henry Bragg with his son William Lawrence Bragg",
   "when": "1772, 1797 and 1913",
-  "wrong_idea": "Diamond was thought to be a special stone that could never be destroyed, with nothing in common with black charcoal. Lavoisier and Tennant burned diamond and found it makes the same gas as charcoal, so it is carbon too."
+  "wrong_idea": "Diamond was thought to be a special stone that could never be destroyed, with nothing in common with black charcoal. Lavoisier and Tennant burned diamond and found it makes the same gas as charcoal, so it is carbon too.",
+  "context": "Is a diamond a special stone that can never be destroyed? This card tells the true story of scientists who burned diamonds and found out what they are."
  },
  "see_also": [
   {

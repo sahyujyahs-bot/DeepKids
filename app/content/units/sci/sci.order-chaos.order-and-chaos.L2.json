@@ -234,7 +234,8 @@
   "who": "Arthur Mason Worthington, an English physicist",
   "when": "Drawings from the 1870s, photographs from the 1890s, his book 'A Study of Splashes' in 1908",
   "wrong_idea": "That splashes are neat, even shapes. Photographs showed that real splashes are uneven, and that Worthington's drawings had made them look neater.",
-  "art": "A man in old-fashioned clothes in a dark room, looking at a drop falling onto a plate lit by a bright spark, with a sketchbook of neat splash drawings beside him."
+  "art": "A man in old-fashioned clothes in a dark room, looking at a drop falling onto a plate lit by a bright spark, with a sketchbook of neat splash drawings beside him.",
+  "context": "Are the splashes of a falling drop neat and even? This card tells the true story of a scientist who photographed splashes and of what the photos showed."
  },
  "story": {
   "title": "Nila and the Flowers That Would Not Listen",
@@ -2035,14 +2036,18 @@
     "source": "Heraclitus, a Greek thinker from about 500 BCE, as reported by Plato in the Cratylus, 402a",
     "teaching": "Heraclitus, a thinker in ancient Greece, said that you cannot step twice into the same river. The water you stepped into has already flowed on, and new water has come.",
     "link": "The river follows the same rules every day, but it is never the same water twice. The paper leaf test and the splash test were like that too: the same rules, but a new result each time.",
-    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that everything made of parts keeps changing. Nothing made stays the same.",
     "link": "A splash lasts a moment and is gone, and the next one is different. A cloud keeps changing shape too.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],

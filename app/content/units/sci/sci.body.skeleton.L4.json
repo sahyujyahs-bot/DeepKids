@@ -3200,7 +3200,8 @@
   "who": "Giovanni Alfonso Borelli, a teacher of mathematics in Italy, with Queen Christina of Sweden, who paid for his book",
   "when": "Borelli worked on the book for many years and died in 1679. It was printed in Rome in 1680 and 1681.",
   "wrong_idea": "That the body's levers help the muscles, so that a small muscle force lifts a big load. Borelli showed with the mathematics of levers that it is the other way round. Muscles join the bones close to the joints, so they must pull much harder than the load weighs.",
-  "art": "A man in the clothes of the 1600s at a desk, drawing a bent arm holding a round weight, with lines and letters marking the elbow, the muscle and the hand."
+  "art": "A man in the clothes of the 1600s at a desk, drawing a bent arm holding a round weight, with lines and letters marking the elbow, the muscle and the hand.",
+  "context": "How do muscles and bones work together to lift things? This card tells the true story of a teacher of mathematics in Italy who worked it out with sums."
  },
  "roots": {
   "context": "In this lesson you lifted a ruler arm with a rubber band. You also found your own tendon in the bend of your elbow. Here we ask what goes on inside you that you never feel, and where your bones come from.",
@@ -3220,7 +3221,12 @@
     "source": "Chandogya Upanishad 6.5.3",
     "teaching": "Uddalaka tells his son Shvetaketu that the body divides what we eat into three parts. He speaks of rich foods such as oil and ghee. Their coarsest part becomes bone, he says. The middle part becomes marrow, and the finest part becomes speech.",
     "link": "Uddalaka's list is not what science found. The mineral in bone comes from calcium in food, not from oil. But his main point is the same as this lesson's: bone is not given once and for all. It is made from what we eat, day after day.",
-    "verse": ["तेजोऽशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तदस्थि भवति", "यो मध्यमः स मज्जा", "योऽणिष्ठः सा वाक्"],
+    "verse": [
+     "तेजोऽशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तदस्थि भवति",
+     "यो मध्यमः स मज्जा",
+     "योऽणिष्ठः सा वाक्"
+    ],
     "verse_lang": "sa"
    },
    {

@@ -398,7 +398,10 @@
     "source": "Rig Veda 1.113",
     "teaching": "This hymn to Night and Dawn describes them as two sisters who follow each other across the sky. They look different, but they work together and are never apart for long.",
     "link": "Night and dawn are made by one turning Earth. The line of dawn is the place on Earth where night ends and day begins, so it is where the two sisters meet.",
-    "verse": ["समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।", "न मेथेते न तस्थतुः सुमेके नक्तोषासा समनसा विरूपे"],
+    "verse": [
+     "समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।",
+     "न मेथेते न तस्थतुः सुमेके नक्तोषासा समनसा विरूपे"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3127,7 +3130,8 @@
   "story": "For a long time most people pictured the Earth as a perfect ball. In 1672, French astronomer Jean Richer took a pendulum clock to Cayenne, near the equator. It lost about two and a half minutes a day compared with Paris, as if gravity were weaker there. In 1687, Isaac Newton explained why. A spinning ball of rock and water must bulge at its middle, as soft clay does. Yet the Cassini family in France measured the ground and believed the Earth was longer from pole to pole, like a lemon. In 1735 and 1736, the French Academy sent two expeditions to settle it. One went to Peru near the equator. The other went to Lapland, far in the north. Both measured the ground length of one degree of latitude. The degree in Lapland was longer, which means the ground curves less near the pole. The Earth is flatter at its poles, as Newton said. The French writer and scientist Émilie du Châtelet, who later translated Newton's book into French, had argued for his side.",
   "who": "Jean Richer, Isaac Newton, and the French Academy expeditions led by Pierre Louis Maupertuis and Charles Marie de La Condamine",
   "when": "1672 to 1740",
-  "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins."
+  "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins.",
+  "context": "What shape is the Earth? This card tells the true story of a pendulum clock that ran slow, and of the scientists who travelled far to measure the Earth."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Five Noons needs sunrise and sunset times, which come from a weather app, a newspaper weather box or a call to a relative in another city. The noon gaps should come out near 13, 46, 62 and 75 minutes after Guwahati for Kolkata, Chennai, Kochi and Mumbai, give or take two minutes because apps round times. The sunrise gaps will look untidy, because sunrise also depends on how far north a city is and on the season, and the steps say so. The Orange Earth uses a large orange. The 30 degree circle should be about 85 to 90 out of 100 of the equator and the 60 degree circle about half. On the small circles, mark dots and join them instead of using a rubber band, which slides. The Extra Turn needs a clear floor of about 3 metres. Star Gate depends on clear nights and a view of a fixed edge, so the steps say what to do when clouds stop you, and give the planetarium as a fallback. The Night Watch needs a grown-up, and the lamp challenge uses only a torch and paper. Facts to check before the unit goes live: that British India adopted one standard time in 1906; that Assam tea gardens keep garden time one hour ahead of Indian Standard Time; the 2011 Japan earthquake figure of about 2 millionths of a second; the 2016 figure of more than 80 percent of people under brightened skies; the Moon's drift of about 3.8 centimetres a year; the weight difference of about half a percent between pole and equator; that Emilie du Chatelet translated Newton's Principia into French; and the Richer pendulum figure of about two and a half minutes a day. The longitudes of the cities are rounded to one decimal place. The videos have no address yet.",
  "warm": {

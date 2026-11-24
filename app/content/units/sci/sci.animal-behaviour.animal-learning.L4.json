@@ -2746,14 +2746,19 @@
     "source": "Bhagavad Gita 6.35",
     "teaching": "Krishna tells Arjuna that the mind is restless and hard to hold, but it can be trained by practice and by letting go of attachment.",
     "link": "Practice changes how a mind reacts. Getting used to a harmless sound is a small, early case of a being letting go of a reaction.",
-    "verse": ["असंशयं महाबाहो मनो दुर्निग्रहं चलं।", "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।"],
+    "verse": [
+     "असंशयं महाबाहो मनो दुर्निग्रहं चलं।",
+     "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Yoga Sutras of Patanjali 1.14",
     "teaching": "Practice becomes firmly rooted when it is kept up for a long time, without a break, and with care.",
     "link": "Spread-out practice lasted longer than cramming in the sea slug and, perhaps, in your own lists of words in Crammed or Spread Out.",
-    "verse": ["स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः"],
+    "verse": [
+     "स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2794,7 +2799,8 @@
   "story": "For years, scientists thought that learning was too tangled to follow. From the 1920s, Karl Lashley trained rats to run a maze and then cut away parts of their brains, looking for the place where the memory lived. He never found one spot. Many people decided a memory was spread everywhere, and could not be traced to particular cells. In the 1960s, Eric Kandel chose a very different animal, the sea slug Aplysia. Their nerve cells are large enough to see, and the whole nervous system has only about 20,000 of them. When the slug's siphon (a small spout on its body) was touched gently again and again, the gill pulled in less each time. Kandel and his team followed the message through the cells. They found that the cell sensing the touch sent less chemical across its connection to the next cell. A simple memory could be traced to a single connection. Kandel shared a Nobel Prize for this work in 2000.",
   "who": "Karl Lashley, and then Eric Kandel and his team at New York University",
   "when": "1920s to 1970s",
-  "wrong_idea": "That learning was too spread out through a brain to be traced to particular cells and connections."
+  "wrong_idea": "That learning was too spread out through a brain to be traced to particular cells and connections.",
+  "context": "Can we find out where in the brain an animal's learning happens? This card tells the true story of scientists who first failed to find it, and then found it in a very small animal."
  },
  "warm": {
   "words": [

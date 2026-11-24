@@ -2000,7 +2000,9 @@
     "source": "The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b",
     "teaching": "Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom.",
     "link": "Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.",
-    "verse": ["γνῶθι σαυτόν καὶ μηδὲν ἄγαν"],
+    "verse": [
+     "γνῶθι σαυτόν καὶ μηδὲν ἄγαν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2035,7 +2037,8 @@
   "who": "Lawrence Weiskrantz and colleagues at Oxford, then Sarah-Jayne Blakemore with Daniel Wolpert and Chris Frith in London",
   "when": "The first tickling machine study was in 1971. The robot studies were in 1998 and 1999.",
   "wrong_idea": "People thought you can't tickle yourself only because you know the touch is coming. Blakemore's robot showed that even when people knew, a tiny delay made their own touch tickle again.",
-  "art": "A woman scientist in a lab beside a small robot arm with a piece of soft foam, and a volunteer moving a lever with one hand while the other palm lies under the foam."
+  "art": "A woman scientist in a lab beside a small robot arm with a piece of soft foam, and a volunteer moving a lever with one hand while the other palm lies under the foam.",
+  "context": "Why can we not tickle ourselves? This card tells the true story of scientists who tested it with a robot arm."
  },
  "playtest": "Walked through the tickle test, the glove hand test and the recording, mirror and then-and-now activities as a parent and child in a flat, with only a feather, a rubber glove, a book, a towel, a phone and a mirror. The tickle test now has the child open their eyes before pointing to a face, and the glove test gets a rest between tries and a set distance for the glove, with a note that it may not work for everyone. Me or Not Me now has a clear stack order and an end with no winner, and the cards no longer say a mirror flips left to right. The Me book steps now match its five-day schedule, no step assumes a grandmother or sibling at home, and repeated worksheet and quiz questions were replaced with new ones."
 }

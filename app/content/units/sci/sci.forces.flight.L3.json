@@ -3762,21 +3762,30 @@
     "source": "Zhuangzi, chapter 1",
     "teaching": "A giant bird called Peng can rise thousands of miles high, but only when the wind beneath them is deep enough. Without enough wind, great wings cannot be held up.",
     "link": "Zhuangzi saw that a bigger bird needs more air beneath them. The Seed Spinners test showed the same thing. The heavier a flyer is, the more air its wings must push down.",
-    "verse": ["風之積也不厚，則其負大翼也无力。"],
+    "verse": [
+     "風之積也不厚，則其負大翼也无力。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Brihadaranyaka Upanishad 3.7.2",
     "teaching": "The sage Yajnavalkya says air is the thread. All beings and all worlds are strung together on it, like beads.",
     "link": "The air you breathe is the same air that lifts kites and carries seeds across fields.",
-    "verse": ["वायुर्वै गौतम तत्सूत्रम्", "वायुना वै गौतम सूत्रेणायं च लोकः परश्च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्ति"],
+    "verse": [
+     "वायुर्वै गौतम तत्सूत्रम्",
+     "वायुना वै गौतम सूत्रेणायं च लोकः परश्च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्ति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Blind men each touch one part of an elephant. One feels a tail, one a leg, one a trunk. Each is sure he knows the whole.",
     "link": "Scientists agree on what lift does, but still argue about the best simple way to explain it. Each explanation sees a part.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -3811,7 +3820,8 @@
   "story": "In 1900 and 1901, Wilbur and Orville Wright, two bicycle makers from Ohio in the USA, tested gliders on the windy sand hills of Kitty Hawk. They had worked out how big to make the wings using tables of numbers that other inventors, such as Otto Lilienthal, had used for years. Everyone thought those numbers were right. But their 1901 glider lifted only about a third as much as the tables promised. On the way home, Wilbur said that people would not fly for a thousand years. Instead of giving up, the brothers built a wind tunnel in their bicycle shop. It was a wooden box about 2 metres long, with a fan blowing air through it. Inside, they tested more than 200 small metal wings and measured the push of the air on each one. They found that one number everyone used in these sums, worked out by John Smeaton in the 1750s, was too big. Using their own measurements, they built a new glider in 1902, and it flew well. In 1903 they added an engine and made the first powered flights.",
   "who": "Wilbur and Orville Wright, with earlier numbers from John Smeaton and Otto Lilienthal",
   "when": "1901 to 1903",
-  "wrong_idea": "The numbers inventors had used for many years to work out how much a wing lifts were correct. The Wrights' wind tunnel showed that one key number was too big."
+  "wrong_idea": "The numbers inventors had used for many years to work out how much a wing lifts were correct. The Wrights' wind tunnel showed that one key number was too big.",
+  "context": "How much lift does a wing make? This card tells the true story of two brothers who found that the numbers everyone used were wrong."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family of two (parent and child) would, in a city flat. Games: all 24 flyer cards, 5 mats and 20 feathers are listed one by one; the mat for soaring birds was missing, so mat 2 is now GLIDERS AND SOARERS, and the practice card is shuffled back so the count stays 24. Paper Plane Airport had 8 cards for up to 16 turns and a torn-wing card that cannot be undone, so cards now go back to the bottom of the pile, every change is undone after the throw, and the tear became a bent wing edge. Experiments: added the missing dart-plane folding steps and the tape the steps need; moved the Hand Wing check to the step where the hand is tilted; kept the made-up numbers labelled and the honest 'no difference' result. Core path now uses a hallway or longest room, not a park. Air Mail challenge now reads the ideas before building. Removed repeated questions (tissue glass, plane swoop, hand tilt, spinner chart, bottle in water, kite string story question), two weak jokes (8 kept), two unused books from the buy list, and fixed names and pronouns (new names for Pooja and Isha, Isha introduced, 'her back' made 'their back', Bob Balaram no longer 'its'). Added Kolkata Vishwakarma Puja, a saree end and a postage stamp for variety across India. The two YouTube videos were opened (oembed) and match. Not checked: the claim that the toy kite is named after the bird, and that a 4 cm-wing paper spinner will spin steadily (the steps say to drop again if it tumbles).",
  "warm": {

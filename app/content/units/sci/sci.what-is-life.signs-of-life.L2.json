@@ -2297,7 +2297,12 @@
     "source": "Prashna Upanishad, Question 2",
     "teaching": "The senses, such as speech, sight, hearing and the mind, once argued about which of them holds up the body. The life-breath, called prana, began to leave. At once all the others had to leave too, like bees that rise when their leader rises. When prana settled, they all settled. So the senses saw that the quiet breath holds everything up.",
     "link": "In the chuna water test, the sprouts lay still and seemed to do nothing. But their breathing went on, quietly, under everything else. Breathing is a sign of life that goes on all the time.",
-    "verse": ["सोऽभिमानादूर्ध्वमुत्क्रमत इव", "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते", "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते", "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"],
+    "verse": [
+     "सोऽभिमानादूर्ध्वमुत्क्रमत इव",
+     "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते",
+     "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते",
+     "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2337,7 +2342,8 @@
   "story": "About 250 years ago, scientists found that green plants can make stale air fresh again. In 1771, Joseph Priestley, in England, took a closed jar of air in which a candle had burned out. He put a sprig of mint in the jar. After some days, a candle could burn in that air again. So many people thought plants only clean the air, and never spoil it the way breathing animals do. In 1779, Jan Ingenhousz, a Dutch doctor working in England, tested plants in sunlight and in the dark. In sunlight, green leaves made the air fresh. But in the dark, the same plants made the air stale, just as a breathing animal does. Roots, flowers and fruits made the air stale even in sunlight. So plants breathe, all the time. In the 1930s, Kamala Sohonie, an Indian scientist working at Cambridge University in England, studied potatoes. She found in plant cells a substance that animal cells also use when they breathe.",
   "who": "Jan Ingenhousz, a Dutch doctor, and Kamala Sohonie, an Indian scientist, after Joseph Priestley's work in England",
   "when": "1771 (Priestley), 1779 (Ingenhousz) and the late 1930s (Sohonie)",
-  "wrong_idea": "That plants only make the air fresh, and do not breathe the way animals do."
+  "wrong_idea": "That plants only make the air fresh, and do not breathe the way animals do.",
+  "context": "Do plants breathe, like animals do? This card tells the true story of scientists who tested it over more than a hundred years."
  },
  "playtest": "Walked the unit through as a parent and child in a flat: played both games with 2 and 4 players, card by card (12 trick cards, 14 memory cards, all written out). Made the scoring rule exact, set the memory game's sign cards so each plant card matches one sign only, and added a tie rule. Followed both chuna water tests, the sort, ant watch, still minute, rain tree and potato maze: minutes and schedules agree. Made the soaked moong step honest about tails, added the potato lead time and a dampness check, and made the plant-moving check one or two days. Removed repeated cloud and pencil questions, a repeated sitting-still exercise, a hide-and-seek joke that did not fit, and loose story and root lines."
 }

@@ -3652,14 +3652,19 @@
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "When friction stops a box, the box loses its movement, but the world loses no energy. The total stays the same, only spread out as warmth.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that everything made of parts keeps changing. Nothing stays the same for ever.",
     "link": "Friction shows this slowly. Shoe soles, brake pads and stone temple steps wear away, and even the length of a day is changing because of the tides.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -3694,7 +3699,8 @@
   "story": "For a long time, many scientists believed heat was an invisible fluid, called caloric. They thought every object held a certain amount of it. Rubbing, they said, only squeezed out caloric that was already inside. In 1798, Benjamin Thompson, known as Count Rumford, was in charge of making cannons in Munich, in Germany. Cannons were made by drilling a long hole into a solid block of metal. The drilling made the metal very hot. Rumford tried an experiment. He put a cannon in a box of cold water and turned a blunt drill inside it, using horses. After about two and a half hours, the water boiled. The people watching were amazed. As long as the horses kept turning, the heat kept coming. If heat were a fluid stored in the metal, it should have run out. So Rumford said heat must be a kind of movement instead. In the 1840s, James Joule measured how much heat a set amount of stirring makes. It was always the same, which showed that Rumford was right.",
   "who": "Benjamin Thompson (Count Rumford), and later James Joule",
   "when": "1798, and the 1840s",
-  "wrong_idea": "Heat is an invisible fluid, called caloric, stored inside things. Rumford's blunt drill made heat for as long as the horses turned, so heat could not be a fluid that runs out."
+  "wrong_idea": "Heat is an invisible fluid, called caloric, stored inside things. Rumford's blunt drill made heat for as long as the horses turned, so heat could not be a fluid that runs out.",
+  "context": "Where does the heat from rubbing come from? This card tells the true story of a scientist who watched a blunt drill make heat while horses turned it."
  },
  "playtest": "Played both games in my head with 2 and 4 players and wrote out every card, square and token (24 situation cards, 2 mats, 30 tokens; 6 day moments, 12 twist cards, 4 idea-sheet lines); the dice rule in the second game no longer needs endless rerolls, and its scoring now says that only the no-friction part has to be true to science. I followed every experiment, activity, project and challenge step by step in a flat. The books experiment now lays 10 pages first, then 30, then all, and says honestly that 150-page notebooks may only reach 'very hard'. The sand experiment now pulls the same distance, smooths the sand each time and has a sand entry in the buy list. In the ghat challenge the same chappal is tested without and then with rubber bands, so it is a fair test. The eraser step now says the warmth is small. I removed the fridge-magnet safety line, the explainer's file path, two weak jokes (8 remain) and three repeated questions (the slope chart question in the stretch sheet and the quiz, and the tides question in the challenge sheet). I replaced a grains-of-sand comparison I could not check, and swapped a few North-only items for coconut, dosa, idli and a temple tank. Left as they are: the match step stays an optional adult extra outside the core path, and the sliding-in-socks safety line stays because falls are a real risk.",
  "warm": {

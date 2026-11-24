@@ -2140,7 +2140,8 @@
   "who": "Joseph Swan, a chemist in Newcastle in England, and Lewis Latimer, a Black American engineer who taught himself technical drawing",
   "when": "1879 (Swan's carbon bulb) and 1882 (Latimer's better carbon threads)",
   "story": "In the 1800s, inventors found that a thin thread of carbon glows when electricity flows through it. But their bulbs burned out within minutes. Joseph Swan, a chemist in Newcastle in England, worked on this for years. He worked out that the trouble was the air left inside the glass. Hot carbon burns when air touches it. In 1865, Hermann Sprengel had invented a much better pump for taking air out of glass. Using a pump like this, Swan took almost all the air out of his bulbs. Now the carbon thread glowed without burning up. Early in 1879, he showed his bulb to a hall full of people in Newcastle. Thomas Edison's team in America made long-lasting bulbs at about the same time. But the carbon threads were still hard to make, and many broke. Lewis Latimer, a Black American engineer who had taught himself technical drawing, found a better way to make them. He was given a patent for it in 1882. People had wrongly thought that a glowing thread would always burn up quickly. Taking the air out showed that it does not have to.",
-  "wrong_idea": "Many early bulbs burned out in minutes, and a long-lasting electric bulb seemed out of reach. Swan showed that air inside the glass was burning the hot carbon. With the air taken out, the thread glowed for hours."
+  "wrong_idea": "Many early bulbs burned out in minutes, and a long-lasting electric bulb seemed out of reach. Swan showed that air inside the glass was burning the hot carbon. With the air taken out, the thread glowed for hours.",
+  "context": "How can an electric bulb be made to glow for hours and not burn out in minutes? This card tells the true story of two inventors who worked on it."
  },
  "plan": {
   "start_options": [

@@ -2888,14 +2888,19 @@
     "source": "Rig Veda 1.164.48",
     "teaching": "There is one wheel with twelve parts and three hubs. Three hundred and sixty spokes are fixed in it, and they cannot come loose. Who understands it?",
     "link": "The wheel is the year. Its twelve parts are like the months, and the 360 spokes are like the days. Old Indian sky-watchers saw the year as one turning wheel. The Window Calendar project shows the same yearly repeat.",
-    "verse": ["द्वादश प्रधयश्चक्रमेकं त्रीणि नभ्यानि क उ तच्चिकेत ।", "तस्मिन्साकं त्रिशता न शङ्कवोऽर्पिताः षष्टिर्न चलाचलासः"],
+    "verse": [
+     "द्वादश प्रधयश्चक्रमेकं त्रीणि नभ्यानि क उ तच्चिकेत ।",
+     "तस्मिन्साकं त्रिशता न शङ्कवोऽर्पिताः षष्टिर्न चलाचलासः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Ecclesiastes 3.1, in the Bible",
     "teaching": "For everything there is a season, and a time for every purpose under heaven.",
     "link": "Farmers everywhere needed to know when to sow and when to harvest. Calendars from the sky told them, because the seasons come back with the Sun's year.",
-    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"],
+    "verse": [
+     "לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"
+    ],
     "verse_lang": "he"
    }
   ],
@@ -2935,6 +2940,7 @@
   "story": "In Kerala, astronomers worked out eclipses with a system of tables called Parahita. It was made by Haridatta in 683. For centuries, people trusted it to say when the Moon would be eclipsed. Parameshvara was born in about 1380 in Vatasseri, a village on the Nila river in Kerala. He did not only calculate. He went out and watched. He recorded eclipses from 1393 onwards, and he wrote that he had observed the sky for 55 years. He found that the eclipses came at different times from what the Parahita tables said. The old numbers had been very good once, but small errors had added up over 700 years. So in 1431 he wrote a new system with corrected numbers. He called it Drigganita, which means 'calculation that matches what is seen'. The wrong idea was that good tables could predict the sky for ever. The sky itself showed they had drifted. Astronomers in Kerala used his system for centuries.",
   "who": "Parameshvara of Vatasseri, a Kerala astronomer (about 1380 to 1460)",
   "when": "Eclipse records from 1393. The Drigganita system was written in 1431.",
-  "wrong_idea": "People thought the Parahita tables, made in 683, could predict eclipses correctly for ever. Parameshvara watched real eclipses for decades and showed that the tables had drifted from the sky, so he made corrected ones."
+  "wrong_idea": "People thought the Parahita tables, made in 683, could predict eclipses correctly for ever. Parameshvara watched real eclipses for decades and showed that the tables had drifted from the sky, so he made corrected ones.",
+  "context": "Can the old tables for eclipses be trusted for ever? This card tells the true story of an astronomer in Kerala who watched real eclipses for decades."
  }
 }

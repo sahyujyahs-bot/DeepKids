@@ -2921,21 +2921,34 @@
     "source": "Bhagavad Gita 6.16–6.17",
     "teaching": "Yoga is not for someone who eats too much or too little, or sleeps too much or too little. It is for someone who keeps a balance in eating, playing, working, sleeping and waking.",
     "link": "The Tired Peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them.",
-    "verse": ["नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।", "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।", "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।", "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"],
+    "verse": [
+     "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।",
+     "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।",
+     "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।",
+     "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Yoga Sutras of Patanjali 2.46",
     "teaching": "A pose should be steady and comfortable.",
     "link": "In tree pose, your muscles work and relax in tiny amounts, all the time, to keep you steady. Steadiness itself needs a balance of effort and ease.",
-    "verse": ["स्थिरसुखं आसनं"],
+    "verse": [
+     "स्थिरसुखं आसनं"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "There are four states of awareness: waking, dreaming, deep sleep, and a fourth that is aware of all three.",
     "link": "Sleep scientists also find different states in one night: light sleep, deep sleep and dreaming sleep. The Upanishad asks who is aware through all of them.",
-    "verse": ["जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः", "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः", "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्", "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्", "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"],
+    "verse": [
+     "जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः",
+     "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः",
+     "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्",
+     "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्",
+     "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2975,7 +2988,120 @@
   "story": "For a long time, many scientists thought sleep was the brain switching off, like a lamp at night. In 1951 Eugene Aserinsky was a student at the University of Chicago, working for the sleep scientist Nathaniel Kleitman. Aserinsky used a machine that recorded the brain's tiny electrical signals, and the movements of the eyes, with wires taped to the head. His first sleeper was his own son, Armond, who was 8 years old. All night the pens of the machine scratched lines on paper. Several times in the night, the lines went wild. Armond's eyes were darting about under his closed lids, and his brain signals looked almost like those of someone awake. At first Aserinsky thought the old machine was broken. But it happened again and again, in other sleepers too, at regular times each night. When sleepers were woken during these times, they usually said they had been dreaming. In 1953 Aserinsky and Kleitman published what they found. They had discovered dreaming sleep, called REM sleep. The brain does not switch off at night.",
   "who": "Eugene Aserinsky, a student, and Nathaniel Kleitman, a sleep scientist, at the University of Chicago, with Aserinsky's son Armond as the first sleeper",
   "when": "1951 to 1953 (published in the journal Science in 1953)",
-  "wrong_idea": "Many scientists thought the brain switches off during sleep, like a lamp. The recordings showed that several times every night the brain becomes almost as active as when awake, and that this is when most vivid dreams happen."
+  "wrong_idea": "Many scientists thought the brain switches off during sleep, like a lamp. The recordings showed that several times every night the brain becomes almost as active as when awake, and that this is when most vivid dreams happen.",
+  "context": "What does the brain do while we sleep? This card tells the true story of a student who recorded his own young son's sleep."
  },
- "warm": {"words": ["SLEEP", "BLOOD", "DREAM", "BONES", "TIRED"], "quiz": [["A tired muscle gets much of its strength back after a short rest.", true, "Rest gives the muscle time to refill its quick store of fuel."], ["The ache the next day after hard exercise is caused by leftover lactic acid.", false, "Lactic acid clears within about an hour, so the ache the next day has a different cause."], ["A muscle with less blood reaching it gets tired faster.", true, "Blood brings the oxygen a muscle needs to refill its fuel and carries waste away."], ["Sleeping late on Sunday fully makes up for a week of short nights.", false, "One long sleep does not undo a week of short nights; a steady bedtime works better."], ["Your backbone discs soak up water at night, so you are a little taller in the morning.", true, "Standing and sitting squeeze water out of the discs; lying down lets them soak it back."], ["Yoga is only bending and stretching; breathing and attention are not part of it.", false, "Yoga has poses called asanas, slow breathing called pranayama, and paying close attention to body and mind."], ["Exercising often for many weeks makes muscles, bones, the heart and lungs stronger.", true, "Regular exercise, done over weeks, builds up the whole body, not just the muscles."], ["A muscle gets longer and thinner when it contracts.", false, "A contracting muscle gets shorter and fatter as it pulls on a bone."], ["Each night, sleep goes round in cycles of light, deep and dreaming sleep.", true, "A cycle lasts about an hour and a half, and the brain is very busy in dreaming sleep."], ["The brain switches off while you sleep, so sleep is doing nothing.", false, "The brain is very busy during sleep, and deep sleep is when the body releases growth hormone."]], "odd": [[["Asana (poses)", "Pranayama (breathing)", "Paying close attention", "Sprinting"], "Sprinting", "Poses, slow breathing and close attention are the three parts of yoga; sprinting is not one of them."], [["Gets shorter", "Gets fatter", "Pulls on a bone", "Goes soft and long"], "Goes soft and long", "A contracting muscle gets shorter, fatter and pulls on a bone; going soft and long is relaxing."], [["Bones", "Heart", "Lungs", "Fingernails"], "Fingernails", "Regular exercise makes bones, heart and lungs stronger, but it does not strengthen fingernails."], [["Muscle with little blood", "Muscle with no break", "Many squeezes in a row", "Two minutes of rest"], "Two minutes of rest", "The other three make a muscle tire; rest lets it refill its fuel and get its strength back."], [["Lifting a heavy bucket", "Pushing a cart", "Pulling a rope", "Touching your toes"], "Touching your toes", "Lifting, pushing and pulling take strength, which is how hard your muscles can push or pull. Touching your toes takes flexibility, which is how far you can bend."]]}
+ "warm": {
+  "words": [
+   "SLEEP",
+   "BLOOD",
+   "DREAM",
+   "BONES",
+   "TIRED"
+  ],
+  "quiz": [
+   [
+    "A tired muscle gets much of its strength back after a short rest.",
+    true,
+    "Rest gives the muscle time to refill its quick store of fuel."
+   ],
+   [
+    "The ache the next day after hard exercise is caused by leftover lactic acid.",
+    false,
+    "Lactic acid clears within about an hour, so the ache the next day has a different cause."
+   ],
+   [
+    "A muscle with less blood reaching it gets tired faster.",
+    true,
+    "Blood brings the oxygen a muscle needs to refill its fuel and carries waste away."
+   ],
+   [
+    "Sleeping late on Sunday fully makes up for a week of short nights.",
+    false,
+    "One long sleep does not undo a week of short nights; a steady bedtime works better."
+   ],
+   [
+    "Your backbone discs soak up water at night, so you are a little taller in the morning.",
+    true,
+    "Standing and sitting squeeze water out of the discs; lying down lets them soak it back."
+   ],
+   [
+    "Yoga is only bending and stretching; breathing and attention are not part of it.",
+    false,
+    "Yoga has poses called asanas, slow breathing called pranayama, and paying close attention to body and mind."
+   ],
+   [
+    "Exercising often for many weeks makes muscles, bones, the heart and lungs stronger.",
+    true,
+    "Regular exercise, done over weeks, builds up the whole body, not just the muscles."
+   ],
+   [
+    "A muscle gets longer and thinner when it contracts.",
+    false,
+    "A contracting muscle gets shorter and fatter as it pulls on a bone."
+   ],
+   [
+    "Each night, sleep goes round in cycles of light, deep and dreaming sleep.",
+    true,
+    "A cycle lasts about an hour and a half, and the brain is very busy in dreaming sleep."
+   ],
+   [
+    "The brain switches off while you sleep, so sleep is doing nothing.",
+    false,
+    "The brain is very busy during sleep, and deep sleep is when the body releases growth hormone."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Asana (poses)",
+     "Pranayama (breathing)",
+     "Paying close attention",
+     "Sprinting"
+    ],
+    "Sprinting",
+    "Poses, slow breathing and close attention are the three parts of yoga; sprinting is not one of them."
+   ],
+   [
+    [
+     "Gets shorter",
+     "Gets fatter",
+     "Pulls on a bone",
+     "Goes soft and long"
+    ],
+    "Goes soft and long",
+    "A contracting muscle gets shorter, fatter and pulls on a bone; going soft and long is relaxing."
+   ],
+   [
+    [
+     "Bones",
+     "Heart",
+     "Lungs",
+     "Fingernails"
+    ],
+    "Fingernails",
+    "Regular exercise makes bones, heart and lungs stronger, but it does not strengthen fingernails."
+   ],
+   [
+    [
+     "Muscle with little blood",
+     "Muscle with no break",
+     "Many squeezes in a row",
+     "Two minutes of rest"
+    ],
+    "Two minutes of rest",
+    "The other three make a muscle tire; rest lets it refill its fuel and get its strength back."
+   ],
+   [
+    [
+     "Lifting a heavy bucket",
+     "Pushing a cart",
+     "Pulling a rope",
+     "Touching your toes"
+    ],
+    "Touching your toes",
+    "Lifting, pushing and pulling take strength, which is how hard your muscles can push or pull. Touching your toes takes flexibility, which is how far you can bend."
+   ]
+  ]
+ }
 }

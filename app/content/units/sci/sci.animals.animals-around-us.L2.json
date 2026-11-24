@@ -2852,14 +2852,21 @@
     "source": "Yoga Sutras of Patanjali 2.46 and 2.47",
     "teaching": "Patanjali says that the way you sit or stand, your posture, should be steady and comfortable. He says it becomes steady when effort is relaxed and the mind rests on the endless.",
     "link": "When you stood with your eyes shut in the Dough Legs experiment, you were steady only because your feet and ankles kept working. You did not have to try hard, because your body made the corrections without you noticing.",
-    "verse": ["स्थिरसुखं आसनं", "प्रयत्नशैथिल्यानन्तसमापत्तिभ्यां"],
+    "verse": [
+     "स्थिरसुखं आसनं",
+     "प्रयत्नशैथिल्यानन्तसमापत्तिभ्यां"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the Tittha Sutta (Buddhist Pali Canon)",
     "teaching": "Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled.",
     "link": "In this lesson, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2894,8 +2901,121 @@
   "story": "For a very long time, many people thought a whale was a fish. Whales live in the sea, and they swim with fins and a tail. But about 2,300 years ago, the Greek thinker Aristotle looked closely at dolphins and whales. He wrote that they breathe air, give birth to live babies and feed them milk, like a cow. Fish breathe with gills and do not feed their babies milk. Still, for many hundreds of years after him, most books called whales fish. In 1758 the Swedish scientist Carl Linnaeus put whales into his new group, the mammals, with cows, bats and humans. Even then, many people did not agree. In 1818, a court in New York had to decide if whale oil was fish oil. The jury said that a whale is a fish! Today scientists agree that whales are mammals. Here is one more clue you can see in any picture: a whale's tail moves up and down, but a fish's tail moves from side to side. To sort an animal, look at the whole body and how the animal lives, not only at where they live.",
   "who": "Aristotle, Carl Linnaeus, and a jury in New York",
   "when": "About 350 BCE, 1758 and 1818",
-  "wrong_idea": "A whale is a fish, because whales live in the sea and swim with fins."
+  "wrong_idea": "A whale is a fish, because whales live in the sea and swim with fins.",
+  "context": "Is a whale a fish? This card tells the true story of how people looked closely at whales and decided what kind of animal they are."
  },
  "playtest": "Walked every game, experiment, activity and worksheet as a parent and child in a flat. Fixed: Covering Snap now shares the drawing, handles wrong slaps and ties; Build-a-Beast now has three turns each so it fits 15 minutes, clear scoring, and returns used cards; fish-tank schedule now matches its 7-minute step; the project no longer asks a child if she is a pet or a farm animal; 'stuff' replaced; two quiz and worksheet questions that repeated others were changed; a name in a question is now introduced; the gecko toe line is now true to the facts. Dough Legs, Roll Stopper and ant steps, minutes, fair tests and checks agree and work with home materials. The three videos still have no checked ids.",
- "warm": {"words": ["WINGS", "SCALE", "SHELL", "BIRDS", "WHALE"], "quiz": [["Every bird has feathers, and no other animal alive today has them.", true, "Feathers are what make an animal a bird."], ["A bat is a bird because a bat has wings.", false, "Bats have fur and feed their babies milk, so bats are mammals."], ["A dolphin is a fish because dolphins live in water and have fins.", false, "Dolphins breathe air and feed their babies milk, so they are mammals."], ["A body stands by itself when its weight is above the space between its feet.", true, "Feet spread apart make a bigger space that holds the weight steady."], ["Wild animals live only in forests.", false, "Crows, squirrels, geckos and ants are wild and live right in our cities."], ["Scientists sort animals by many body parts together, not just one.", true, "One part can fool you: a bat has wings, but a bat is not a bird."], ["Feathers first grew so that animals could fly.", false, "Some dinosaurs had feathers millions of years before any bird flew."], ["Every adult insect has six legs.", true, "Ants, bees and flies all have six legs once they are grown."], ["Humans are mammals, because we have hair and mothers feed babies milk.", true, "Hair and milk for babies are the signs of a mammal."], ["An animal with four legs must be a mammal.", false, "Lizards and frogs have four legs but are not mammals."]], "odd": [[["Crow", "Hen", "Penguin", "Bat"], "Bat", "The others have feathers, but a bat has fur."], [["Ant", "Bee", "Housefly", "Spider"], "Spider", "The others are insects with six legs; a spider has eight."], [["Stool with three spread legs", "Table with three spread legs", "Chair with four legs", "Pencil on its tip"], "Pencil on its tip", "The others stand because their weight is above the space between their legs. A pencil on its tip has no space like that."], [["Cow kept for milk", "Hen kept for eggs", "Goat kept for milk", "Crow in the city"], "Crow in the city", "The others are kept by people for milk or eggs; the crow is wild."], [["Dolphin", "Whale", "River dolphin", "Rohu fish"], "Rohu fish", "The others breathe air and feed their babies milk; a rohu breathes with gills."]]}
+ "warm": {
+  "words": [
+   "WINGS",
+   "SCALE",
+   "SHELL",
+   "BIRDS",
+   "WHALE"
+  ],
+  "quiz": [
+   [
+    "Every bird has feathers, and no other animal alive today has them.",
+    true,
+    "Feathers are what make an animal a bird."
+   ],
+   [
+    "A bat is a bird because a bat has wings.",
+    false,
+    "Bats have fur and feed their babies milk, so bats are mammals."
+   ],
+   [
+    "A dolphin is a fish because dolphins live in water and have fins.",
+    false,
+    "Dolphins breathe air and feed their babies milk, so they are mammals."
+   ],
+   [
+    "A body stands by itself when its weight is above the space between its feet.",
+    true,
+    "Feet spread apart make a bigger space that holds the weight steady."
+   ],
+   [
+    "Wild animals live only in forests.",
+    false,
+    "Crows, squirrels, geckos and ants are wild and live right in our cities."
+   ],
+   [
+    "Scientists sort animals by many body parts together, not just one.",
+    true,
+    "One part can fool you: a bat has wings, but a bat is not a bird."
+   ],
+   [
+    "Feathers first grew so that animals could fly.",
+    false,
+    "Some dinosaurs had feathers millions of years before any bird flew."
+   ],
+   [
+    "Every adult insect has six legs.",
+    true,
+    "Ants, bees and flies all have six legs once they are grown."
+   ],
+   [
+    "Humans are mammals, because we have hair and mothers feed babies milk.",
+    true,
+    "Hair and milk for babies are the signs of a mammal."
+   ],
+   [
+    "An animal with four legs must be a mammal.",
+    false,
+    "Lizards and frogs have four legs but are not mammals."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Crow",
+     "Hen",
+     "Penguin",
+     "Bat"
+    ],
+    "Bat",
+    "The others have feathers, but a bat has fur."
+   ],
+   [
+    [
+     "Ant",
+     "Bee",
+     "Housefly",
+     "Spider"
+    ],
+    "Spider",
+    "The others are insects with six legs; a spider has eight."
+   ],
+   [
+    [
+     "Stool with three spread legs",
+     "Table with three spread legs",
+     "Chair with four legs",
+     "Pencil on its tip"
+    ],
+    "Pencil on its tip",
+    "The others stand because their weight is above the space between their legs. A pencil on its tip has no space like that."
+   ],
+   [
+    [
+     "Cow kept for milk",
+     "Hen kept for eggs",
+     "Goat kept for milk",
+     "Crow in the city"
+    ],
+    "Crow in the city",
+    "The others are kept by people for milk or eggs; the crow is wild."
+   ],
+   [
+    [
+     "Dolphin",
+     "Whale",
+     "River dolphin",
+     "Rohu fish"
+    ],
+    "Rohu fish",
+    "The others breathe air and feed their babies milk; a rohu breathes with gills."
+   ]
+  ]
+ }
 }

@@ -2138,14 +2138,20 @@
     "source": "Annambhatta's Tarkasangraha (17th century), the Nyaya school's example of inference",
     "teaching": "The Nyaya school of ancient India gave this example. You see smoke rising from a hill. Wherever there is smoke there is fire, as in a kitchen. So the hill has fire, though you cannot see the fire. The Nyaya school called this kind of knowing anumana, inference.",
     "link": "Nobody sees the black hole at the centre of our galaxy. Astronomers know it from the stars racing round it, the way the Nyaya thinkers knew the fire from the smoke.",
-    "verse": ["यत्र यत्र धूमस्तत्र तत्राग्निरिति साहचर्यनियमो व्याप्तिः", "पर्वतो वह्निमान्, धूमवत्त्वाद्, यो यो धूमवान् स स वह्निमान् यथा महानसम्"],
+    "verse": [
+     "यत्र यत्र धूमस्तत्र तत्राग्निरिति साहचर्यनियमो व्याप्तिः",
+     "पर्वतो वह्निमान्, धूमवत्त्वाद्, यो यो धूमवान् स स वह्निमान् यथा महानसम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (verses 3 and 7)",
     "teaching": "This hymn about where everything came from says that in the beginning, darkness was hidden by darkness. It ends by asking where everything came from, and says that perhaps even the one who watches from the highest heaven does not know.",
     "link": "The inside of a black hole is a darkness nobody can look into. Scientists say honestly that they do not yet know what happens at its centre. The hymn does the same: it asks a question honestly instead of claiming an answer.",
-    "verse": ["तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम्।", "तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम्"],
+    "verse": [
+     "तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम्।",
+     "तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम्"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2185,6 +2191,7 @@
   "story": "In 1939, Albert Einstein wrote a paper arguing that black holes could not form in nature. His own theory of gravity allowed them on paper, but he thought something would always stop a star being squeezed that small. Many scientists agreed. Even if black holes existed, they give out no light, so how could anyone find one? Two teams found a way. Reinhard Genzel, a German astronomer, began in 1992 with telescopes in Chile. Andrea Ghez, an American astronomer, began in 1995 with the giant Keck telescopes in Hawaii. Year after year, they photographed the stars at the very centre of our galaxy and watched them move. One star, called S2, raced round an empty-looking spot once every 16 years. From how fast and how tightly the stars swung round, the teams worked out how heavy the hidden thing was: about 4 million times as heavy as the Sun, packed into a space far too small to hold that many stars. Only a black hole fits. In 2020, Ghez and Genzel shared the Nobel Prize in Physics with Roger Penrose. Ghez was only the fourth woman ever to win it.",
   "who": "Andrea Ghez, an American astronomer at the University of California, Los Angeles, and Reinhard Genzel, a German astronomer at the Max Planck Institute for Extraterrestrial Physics",
   "when": "1939 (Einstein's paper), 1992 and 1995 (the two teams begin), 2020 (Nobel Prize)",
-  "wrong_idea": "Einstein and many other scientists thought nature would never squeeze a star small enough to make a black hole. Ghez and Genzel tracked stars racing round the centre of our galaxy and showed that something 4 million times as heavy as the Sun is packed there, unseen: a black hole."
+  "wrong_idea": "Einstein and many other scientists thought nature would never squeeze a star small enough to make a black hole. Ghez and Genzel tracked stars racing round the centre of our galaxy and showed that something 4 million times as heavy as the Sun is packed there, unseen: a black hole.",
+  "context": "Do black holes really exist? This card tells the true story of astronomers who watched stars race around the centre of our galaxy."
  }
 }

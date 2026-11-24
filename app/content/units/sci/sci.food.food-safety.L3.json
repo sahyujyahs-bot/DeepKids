@@ -2996,14 +2996,22 @@
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu came to understand that food is Brahman. Brahman is the old Sanskrit word for the one great reality that everything comes from. From food all beings are born, by food they live, and into food they return.",
     "link": "The dal water fed the microbes, and the microbes multiplied from it. Every living being, from a bacterium to a child, is made from food and lives by it.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 17.10",
     "teaching": "The Gita describes food that was cooked long before, that has lost its taste, that smells bad and is stale, as food that dulls the mind and body.",
     "link": "Long ago, people noticed that cooked food left for many hours changes and can harm us. The Three Dabbas test shows why: time lets microbes multiply.",
-    "verse": ["यातयामं गतरसं पूति पर्युषितं च यत्।", "उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।"],
+    "verse": [
+     "यातयामं गतरसं पूति पर्युषितं च यत्।",
+     "उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3039,7 +3047,120 @@
   "story": "In the early 1900s, many people in the United States drank raw milk straight from the farm. Doctors knew a cow illness caused by a bacterium called Bacillus abortus. They believed this germ harmed only cows. Alice Evans was a scientist at the government's dairy laboratory in Washington. She looked closely at Bacillus abortus and at another bacterium, which caused Malta fever, a long fever in people that kept coming back. Under the microscope and in careful tests, the two bacteria were almost the same. She warned that raw milk from cows that looked healthy could make people ill, and that milk should be pasteurised. She reported this in 1917 and published it in 1918. Many scientists and doctors did not believe her, partly because she was a woman without a doctorate. Other scientists then tested her idea and kept finding she was right. In 1922 she caught the illness herself, and it troubled her for about twenty years. In 1928 she became the first woman to lead the Society of American Bacteriologists. Pasteurising milk became the rule in the United States, and the illness became rare.",
   "who": "Alice Catherine Evans, a microbiologist at the United States Department of Agriculture",
   "when": "1917 to 1930",
-  "wrong_idea": "Doctors believed the bacterium that made cows ill could not harm people, so raw milk from healthy-looking cows was safe. Alice Evans showed the cow germ and the germ of a human fever were almost the same, and others confirmed that raw milk could spread it."
+  "wrong_idea": "Doctors believed the bacterium that made cows ill could not harm people, so raw milk from healthy-looking cows was safe. Alice Evans showed the cow germ and the germ of a human fever were almost the same, and others confirmed that raw milk could spread it.",
+  "context": "Is milk straight from a healthy-looking cow always safe to drink? This card tells the true story of a scientist who studied the germs in milk."
  },
- "warm": {"words": ["MOULD", "SPOIL", "COVER", "YEAST", "SALTY"], "quiz": [["Food goes bad because tiny living microbes grow in it.", true, "Microbes land on food, feed on it and multiply, making it sour, slimy or fuzzy."], ["If food smells fine, it is safe to eat.", false, "Some harmful microbes leave the smell and taste unchanged, so your nose cannot tell you."], ["A fridge kills the microbes in food.", false, "Cold only slows microbes down, and they start multiplying again when the food warms up."], ["Microbes multiply fastest in food that is warm and wet.", true, "Like all living beings, microbes need food, water and warmth to multiply."], ["Salting or drying food helps it last, because microbes cannot grow without water.", true, "Salt and drying take water away from microbes, so they cannot multiply."], ["Boiling spoiled food again makes it safe to eat.", false, "Some microbes make poisons that survive boiling, so the food can still make you ill."], ["Cooking food well kills every microbe and poison, so it can sit out all day.", false, "Some spores and poisons survive cooking, and warm food lets any survivors multiply again."], ["One bacterium can become millions, because each one splits in two again and again.", true, "Their number doubles each time, so even a short wait on a hot day matters."], ["Food dropped on the floor is safe if you pick it up within five seconds.", false, "Bacteria can move onto food in under one second, so picking it up quickly does not make it safe."], ["Raw meat kept next to cooked food can pass microbes onto it.", true, "Cooked food is ready to eat, so microbes that land on it will not be killed by cooking."]], "odd": [[["Curd", "Idli batter", "Bread dough", "Spoiled dal"], "Spoiled dal", "The first three are changed by microbes we want, in a useful way; spoiled dal is changed by unwanted ones."], [["Pickle", "Vadam", "Dried chillies", "Fresh milk"], "Fresh milk", "Pickle, vadam and dried chillies keep for months because salt, oil or drying stop microbes; fresh milk spoils fast."], [["Washing food", "Covering food", "Cooking food", "Leaving it out warm"], "Leaving it out warm", "The first three keep microbes out or kill them; a warm place lets microbes multiply."], [["Raw meat", "Raw eggs", "Unwashed vegetables", "Clean boiled spoon"], "Clean boiled spoon", "The first three can carry microbes onto cooked food; a clean boiled spoon carries almost none."], [["Bacteria", "Mould", "Yeast", "Carbohydrate"], "Carbohydrate", "Bacteria, mould and yeast are microbes, which are living beings; a carbohydrate is a nutrient in food."]]}
+ "warm": {
+  "words": [
+   "MOULD",
+   "SPOIL",
+   "COVER",
+   "YEAST",
+   "SALTY"
+  ],
+  "quiz": [
+   [
+    "Food goes bad because tiny living microbes grow in it.",
+    true,
+    "Microbes land on food, feed on it and multiply, making it sour, slimy or fuzzy."
+   ],
+   [
+    "If food smells fine, it is safe to eat.",
+    false,
+    "Some harmful microbes leave the smell and taste unchanged, so your nose cannot tell you."
+   ],
+   [
+    "A fridge kills the microbes in food.",
+    false,
+    "Cold only slows microbes down, and they start multiplying again when the food warms up."
+   ],
+   [
+    "Microbes multiply fastest in food that is warm and wet.",
+    true,
+    "Like all living beings, microbes need food, water and warmth to multiply."
+   ],
+   [
+    "Salting or drying food helps it last, because microbes cannot grow without water.",
+    true,
+    "Salt and drying take water away from microbes, so they cannot multiply."
+   ],
+   [
+    "Boiling spoiled food again makes it safe to eat.",
+    false,
+    "Some microbes make poisons that survive boiling, so the food can still make you ill."
+   ],
+   [
+    "Cooking food well kills every microbe and poison, so it can sit out all day.",
+    false,
+    "Some spores and poisons survive cooking, and warm food lets any survivors multiply again."
+   ],
+   [
+    "One bacterium can become millions, because each one splits in two again and again.",
+    true,
+    "Their number doubles each time, so even a short wait on a hot day matters."
+   ],
+   [
+    "Food dropped on the floor is safe if you pick it up within five seconds.",
+    false,
+    "Bacteria can move onto food in under one second, so picking it up quickly does not make it safe."
+   ],
+   [
+    "Raw meat kept next to cooked food can pass microbes onto it.",
+    true,
+    "Cooked food is ready to eat, so microbes that land on it will not be killed by cooking."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Curd",
+     "Idli batter",
+     "Bread dough",
+     "Spoiled dal"
+    ],
+    "Spoiled dal",
+    "The first three are changed by microbes we want, in a useful way; spoiled dal is changed by unwanted ones."
+   ],
+   [
+    [
+     "Pickle",
+     "Vadam",
+     "Dried chillies",
+     "Fresh milk"
+    ],
+    "Fresh milk",
+    "Pickle, vadam and dried chillies keep for months because salt, oil or drying stop microbes; fresh milk spoils fast."
+   ],
+   [
+    [
+     "Washing food",
+     "Covering food",
+     "Cooking food",
+     "Leaving it out warm"
+    ],
+    "Leaving it out warm",
+    "The first three keep microbes out or kill them; a warm place lets microbes multiply."
+   ],
+   [
+    [
+     "Raw meat",
+     "Raw eggs",
+     "Unwashed vegetables",
+     "Clean boiled spoon"
+    ],
+    "Clean boiled spoon",
+    "The first three can carry microbes onto cooked food; a clean boiled spoon carries almost none."
+   ],
+   [
+    [
+     "Bacteria",
+     "Mould",
+     "Yeast",
+     "Carbohydrate"
+    ],
+    "Carbohydrate",
+    "Bacteria, mould and yeast are microbes, which are living beings; a carbohydrate is a nutrient in food."
+   ]
+  ]
+ }
 }

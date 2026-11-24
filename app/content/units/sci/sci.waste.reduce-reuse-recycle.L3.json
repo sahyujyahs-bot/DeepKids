@@ -3641,7 +3641,10 @@
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is filled with the one Lord. Enjoy it by letting go. Do not grab, for whose is all this wealth?",
     "link": "Reducing means taking only what we need. The atoms in everything we own were part of the Earth before us, and will be after us.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3653,7 +3656,9 @@
     "source": "Tattvartha Sutra 7.1 (Jain)",
     "teaching": "One of the five great vows of Jainism is aparigraha, not holding on to more things than we need.",
     "link": "Fewer things means less waste, and less harm to the many living beings that waste reaches.",
-    "verse": ["हिंसाऽनृतस्तेयाब्रह्मपरिग्रहेभ्यो विरतिर्व्रतम्"],
+    "verse": [
+     "हिंसाऽनृतस्तेयाब्रह्मपरिग्रहेभ्यो विरतिर्व्रतम्"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3688,6 +3693,7 @@
   "story": "For years, shops sold plastic bags labelled 'biodegradable'. Many people believed these bags would soon rot away after they were thrown out. Imogen Napper, a young scientist at the University of Plymouth in England, decided to test the labels. With Richard Thompson, the scientist guiding her work, she took five kinds of shopping bag. One was ordinary plastic. The others were sold as biodegradable or compostable. They left pieces of each bag in three places: buried in soil, out in the open air, and under the sea. Then they checked them for three years. In the open air, sunlight crumbled every kind of bag into small pieces within a year. But in the soil and the sea, most bags were still whole. After three years, several 'biodegradable' bags could still carry a full load of shopping. The compostable bag disappeared in the sea within three months. In the soil, it was still there after more than two years, though too weak to carry shopping. Their results, published in 2019, showed that a label is a promise, not evidence. Only a test can show what really happens.",
   "who": "Imogen Napper and Richard Thompson, University of Plymouth, England",
   "when": "Published in 2019, after a three-year test",
-  "wrong_idea": "Bags labelled 'biodegradable' rot away soon after they are thrown out. After three years in soil and in the sea, most of them were still whole, and some could still carry shopping."
+  "wrong_idea": "Bags labelled 'biodegradable' rot away soon after they are thrown out. After three years in soil and in the sea, most of them were still whole, and some could still carry shopping.",
+  "context": "Do bags that say they are biodegradable really rot away? This card tells the true story of scientists who left them in the soil and in the sea for three years."
  }
 }

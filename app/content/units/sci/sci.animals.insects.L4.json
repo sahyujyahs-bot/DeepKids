@@ -3044,7 +3044,8 @@
   "who": "Christian Konrad Sprengel, a German schoolteacher (1750 to 1816), and later Charles Darwin",
   "when": "Sprengel made his first observation in 1787 and published his book in 1793. Darwin's book on orchids came out in 1862.",
   "wrong_idea": "That a flower pollinates itself, and that insects only steal nectar. Sprengel showed that in many flowers the pollen and the stigma are ready at different times. So the pollen must come from another flower, and insects carry it.",
-  "art": "A man in old-fashioned clothes kneeling in a meadow at dawn, looking closely at a wild geranium flower with a small bee on it, a sketchbook open beside him."
+  "art": "A man in old-fashioned clothes kneeling in a meadow at dawn, looking closely at a wild geranium flower with a small bee on it, a sketchbook open beside him.",
+  "context": "Do flowers pollinate themselves, and what are insects really doing on them? This card tells the true story of a schoolteacher in Germany who looked closely at flowers."
  },
  "roots": {
   "context": "In the Hairy or Smooth test you carried haldi from box to box on a cotton bud. In the Clean-up Count you watched ants clear crumbs from your floor. Here we ask who makes a fruit, when a plant and an insect both have a part in it.",
@@ -3064,14 +3065,22 @@
     "source": "Brihadaranyaka Upanishad 2.5.1",
     "teaching": "This part of the text is called the honey teaching. It says: this earth is honey for all beings, and all beings are honey for this earth.",
     "link": "The Sanskrit word is madhu, which means honey. The teaching says that each thing feeds the others and is fed by them. A flower feeds a bee, and the bee's visit starts the flower's seeds.",
-    "verse": ["इयं पृथिवी सर्वेषां भूतानां मधु", "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"],
+    "verse": [
+     "इयं पृथिवी सर्वेषां भूतानां मधु",
+     "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 49",
     "teaching": "A bee takes nectar from a flower and flies away without harming the flower's colour or scent. A wise person should go through a village in the same way.",
     "link": "The verse holds up the bee as someone who takes without harming. This lesson adds something the verse does not say: the flower gains from the visit.",
-    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse": [
+     "Yathāpi bhamaro pupphaṁ,",
+     "vaṇṇagandhamaheṭhayaṁ;",
+     "Paleti rasamādāya,",
+     "evaṁ gāme munī care."
+    ],
     "verse_lang": "pi"
    },
    {

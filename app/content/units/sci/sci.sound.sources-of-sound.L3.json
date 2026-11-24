@@ -3511,7 +3511,10 @@
     "source": "Mandukya Upanishad, verse 1",
     "teaching": "The syllable Om is all this. What was, what is and what will be are all Om. And what is beyond time is Om too.",
     "link": "Many families chant Om and feel it buzz in the chest. In this lesson you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.",
-    "verse": ["ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव", "यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव"],
+    "verse": [
+     "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव",
+     "यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3557,6 +3560,7 @@
   "story": "Around 1640, in Rome, Gasparo Berti made a tall tube with almost no air at the top. He fixed a small bell inside the empty part and made it ring from outside. People could still hear it. So the scholar Athanasius Kircher decided that sound does not need air at all. In 1660, in England, Robert Boyle tried a more careful test. His assistant, Robert Hooke, had built a pump that could suck the air out of a glass jar. Boyle hung a ticking watch inside the jar and listened as the air was pumped out. The ticking grew fainter and fainter. When he let the air back in, the ticking came back. So sound needs air, or another medium, to travel. Later scientists saw what had gone wrong in Rome. Berti's bell was fixed to the tube, so its vibration could travel through the metal and glass. Some air was probably left inside too. Today we know that space, with almost no air, carries no sound at all.",
   "who": "Gasparo Berti and Athanasius Kircher in Rome, then Robert Boyle and Robert Hooke in England",
   "when": "About 1640, and 1660",
-  "wrong_idea": "Sound does not need air. Berti's bell seemed to ring in an empty tube, but its vibration escaped through the tube itself. Boyle's watch went quiet as the air was pumped out, and could be heard again when the air came back."
+  "wrong_idea": "Sound does not need air. Berti's bell seemed to ring in an empty tube, but its vibration escaped through the tube itself. Boyle's watch went quiet as the air was pumped out, and could be heard again when the air came back.",
+  "context": "Can sound travel with no air at all? This card tells the true story of scientists who rang a bell in an empty tube and who pumped the air out from around a watch."
  }
 }

@@ -3068,21 +3068,29 @@
     "source": "Tirukkural, chapter 2, 'The Excellence of Rain', verse 11",
     "teaching": "The world goes on living because of rain. So rain should be thought of as amrita, the nectar of life.",
     "link": "Rain mattered so much to farmers that people watched the sky every day and made sayings to remember its signs. Forecasting began from that care.",
-    "verse": ["வான்நின்று உலகம் வழங்கி வருதலால்", "தான்அமிழ்தம் என்றுணரற் பாற்று."],
+    "verse": [
+     "வான்நின்று உலகம் வழங்கி வருதலால்",
+     "தான்அமிழ்தம் என்றுணரற் பாற்று."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "The Buddha's teaching of dependent arising, in the Samyutta Nikaya 12.21",
     "teaching": "When this is, that comes to be. From the arising of this, that arises.",
     "link": "Tomorrow's rain comes from today's warm sea, rising damp air and wind. A forecast follows these causes forward, one step at a time.",
-    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati."],
+    "verse": [
+     "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, the Greek philosopher, as reported by Plato in the Cratylus (402a)",
     "teaching": "Everything moves on and nothing stays still. You cannot step into the same river twice.",
     "link": "The air never stays still. The air you breathe on the balcony this evening will be far away tomorrow, and new air will have taken its place.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3122,6 +3130,7 @@
   "story": "On a November night in 1743, Benjamin Franklin, a printer and scientist in Philadelphia in America, hoped to watch an eclipse of the Moon. A storm came instead. Thick clouds hid the sky, and a strong wind blew from the northeast. In those days, people thought a storm travels the way its wind blows. So Franklin guessed that this storm had come from the northeast, from the direction of Boston, where his brother lived. He thought Boston must have missed the eclipse too. Later, letters and newspapers from Boston surprised him. People there had seen the eclipse clearly, and the storm reached Boston hours after it hit Philadelphia. The storm had moved towards the northeast, against its own wind. Franklin collected reports of later storms from towns along the coast and found the same pattern. A storm's winds swirl around it, while the whole storm travels somewhere else. This also showed something useful. If storms travel, news of a storm can be sent ahead of it. After the telegraph was invented, towns could be warned before a storm arrived.",
   "who": "Benjamin Franklin, a printer and scientist in Philadelphia, with letters and newspaper reports from Boston",
   "when": "1743, the night of an eclipse of the Moon",
-  "wrong_idea": "People thought a storm travels in the direction its wind blows. Franklin found a storm whose wind blew from the northeast, yet the storm itself moved towards the northeast, against its wind. This is because a storm is a swirl of air that travels as a whole."
+  "wrong_idea": "People thought a storm travels in the direction its wind blows. Franklin found a storm whose wind blew from the northeast, yet the storm itself moved towards the northeast, against its wind. This is because a storm is a swirl of air that travels as a whole.",
+  "context": "Does a storm travel in the same direction as its wind? This card tells the true story of a printer and scientist who missed an eclipse because of a storm."
  }
 }

@@ -2310,7 +2310,10 @@
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2322,7 +2325,9 @@
     "source": "Aristotle, Physics, Book III",
     "teaching": "The infinite is that beyond which there is always something more. It is never complete.",
     "link": "This is the plus-one rule. However far you count, there is always more, and the counting is never complete.",
-    "verse": ["οὐ γὰρ οὗ μηδὲν ἔξω, ἀλλ’ οὗ ἀεί τι ἔξω ἐστί, τοῦτο ἄπειρόν ἐστιν."],
+    "verse": [
+     "οὐ γὰρ οὗ μηδὲν ἔξω, ἀλλ’ οὗ ἀεί τι ἔξω ἐστί, τοῦτο ἄπειρόν ἐστιν."
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2358,6 +2363,7 @@
   "story": "For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that the grains of sand needed to fill the universe would be fewer than a 1 followed by 63 zeros. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.",
   "who": "Archimedes of Syracuse, a Greek mathematician",
   "when": "In the 3rd century BCE, about 2,200 years ago, in his book The Sand Reckoner",
-  "wrong_idea": "People believed the grains of sand were infinite. Archimedes showed that even the sand needed to fill the universe, as he pictured it, could be given a number: fewer than a 1 followed by 63 zeros."
+  "wrong_idea": "People believed the grains of sand were infinite. Archimedes showed that even the sand needed to fill the universe, as he pictured it, could be given a number: fewer than a 1 followed by 63 zeros.",
+  "context": "Can we count the grains of sand? This card tells the true story of a Greek mathematician who tried."
  }
 }

@@ -3059,21 +3059,32 @@
     "source": "Tattvartha Sutra 5.21, by Umaswati, a Jain text",
     "teaching": "Living beings support one another.",
     "link": "The family tree shows that every animal with a backbone came from the same ancestor, and every animal depends on others for food, air and shelter.",
-    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse": [
+     "परस्परोपग्रहो जीवानाम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Karaniya Metta Sutta, Sutta Nipata 1.8, verses 146 and 147, a Buddhist text",
     "teaching": "May all beings be happy, whether weak or strong, large or small, seen or unseen, near or far, born or yet to be born.",
     "link": "This text sorts all beings by size and distance, and then gives the same wish to every one. When scientists sort the animals, they also find that no animal stands apart from the rest.",
-    "verse": ["Tasā vā thāvarā vanavasesā;", "Dīghā vā ye va mahantā,", "Diṭṭhā vā ye va adiṭṭhā,", "Ye va dūre vasanti avidūre;", "Bhūtā va sambhavesī va,", "Sabbasattā bhavantu sukhitattā."],
+    "verse": [
+     "Tasā vā thāvarā vanavasesā;",
+     "Dīghā vā ye va mahantā,",
+     "Diṭṭhā vā ye va adiṭṭhā,",
+     "Ye va dūre vasanti avidūre;",
+     "Bhūtā va sambhavesī va,",
+     "Sabbasattā bhavantu sukhitattā."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching, chapter 42",
     "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
     "link": "The family tree starts as one ancestor and splits into two, then into many. This is how all groups of animals came out of one.",
-    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse": [
+     "道生一，一生二，二生三，三生萬物。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3110,7 +3121,120 @@
   "who": "George Shaw, William Caldwell, and the Aboriginal people who had always known",
   "when": "1799 (the first skin described) and 1884 (the eggs shown)",
   "wrong_idea": "People thought that an animal with fur and milk must give birth to live young, so an animal who lays eggs could not be a mammal. Caldwell found the eggs in 1884, and scientists changed the rule to milk.",
-  "art": "A nineteenth-century scientist in a tent in the Queensland bush holding a platypus egg in his palm while an Aboriginal man points at a stream."
+  "art": "A nineteenth-century scientist in a tent in the Queensland bush holding a platypus egg in his palm while an Aboriginal man points at a stream.",
+  "context": "Can an animal with fur and milk lay eggs? This card tells the true story of a strange animal from Australia that scientists did not believe at first."
  },
- "warm": {"words": ["GILLS", "LUNGS", "WHALE", "BIRDS", "SNAKE"], "quiz": [["A platypus lays eggs, so she cannot be a mammal.", false, "A mammal is decided by milk and hair, not by how the baby is born."], ["Dolphins are mammals, even though they live in the sea and swim like fish.", true, "A dolphin breathes air with lungs and feeds her baby milk."], ["Most kinds of animal have a backbone.", false, "About 19 of every 20 kinds of animal have no backbone."], ["A lungfish is a closer relative of a cow than of a rohu.", true, "The word fish covers several branches of the family tree, so fish are not one natural family."], ["A dolphin looks like a shark because the two are close relatives.", false, "Animals that solve the same problem can end up with the same shape without being close relatives."], ["A snake has no legs, but her dry scales and lungs still make her a reptile.", true, "Groups are decided by several clues together, never by one clue such as legs."], ["Birds are a separate group, and have nothing to do with reptiles.", false, "Birds descend from feathered dinosaurs, which were reptiles. Crocodiles are their closest living relatives."], ["A tadpole and a frog are the same animal at two stages of her life.", true, "Metamorphosis changes the body shape, so sorting must look at the whole life of an animal."], ["Animals with no backbone cannot be clever, because they have no backbone.", false, "Octopuses solve puzzles and bees can learn to count. Cleverness does not need a backbone."], ["A good sorting rule puts every animal of a group inside it and keeps others outside.", true, "A rule that lets in the wrong animals, or leaves out the right ones, is not a good rule."]], "odd": [[["dolphin", "bat", "platypus", "shark"], "shark", "Dolphin, bat and platypus feed their babies milk, so they are mammals. A shark is a fish."], [["cow", "snake", "frog", "octopus"], "octopus", "Cow, snake and frog have a backbone. An octopus has none, so she is an invertebrate."], [["hen", "crocodile", "frog", "cow"], "cow", "Hen, crocodile and frog lay eggs. A cow gives birth to a calf that has grown inside her."], [["crow", "lizard", "cow", "rohu"], "rohu", "Crow, lizard and cow breathe air with lungs all their lives. A rohu breathes with gills."], [["bat wing", "human arm", "whale flipper", "shark fin"], "shark fin", "The first three are built from the same limb bones inherited from one ancestor. A shark fin is not."]]}
+ "warm": {
+  "words": [
+   "GILLS",
+   "LUNGS",
+   "WHALE",
+   "BIRDS",
+   "SNAKE"
+  ],
+  "quiz": [
+   [
+    "A platypus lays eggs, so she cannot be a mammal.",
+    false,
+    "A mammal is decided by milk and hair, not by how the baby is born."
+   ],
+   [
+    "Dolphins are mammals, even though they live in the sea and swim like fish.",
+    true,
+    "A dolphin breathes air with lungs and feeds her baby milk."
+   ],
+   [
+    "Most kinds of animal have a backbone.",
+    false,
+    "About 19 of every 20 kinds of animal have no backbone."
+   ],
+   [
+    "A lungfish is a closer relative of a cow than of a rohu.",
+    true,
+    "The word fish covers several branches of the family tree, so fish are not one natural family."
+   ],
+   [
+    "A dolphin looks like a shark because the two are close relatives.",
+    false,
+    "Animals that solve the same problem can end up with the same shape without being close relatives."
+   ],
+   [
+    "A snake has no legs, but her dry scales and lungs still make her a reptile.",
+    true,
+    "Groups are decided by several clues together, never by one clue such as legs."
+   ],
+   [
+    "Birds are a separate group, and have nothing to do with reptiles.",
+    false,
+    "Birds descend from feathered dinosaurs, which were reptiles. Crocodiles are their closest living relatives."
+   ],
+   [
+    "A tadpole and a frog are the same animal at two stages of her life.",
+    true,
+    "Metamorphosis changes the body shape, so sorting must look at the whole life of an animal."
+   ],
+   [
+    "Animals with no backbone cannot be clever, because they have no backbone.",
+    false,
+    "Octopuses solve puzzles and bees can learn to count. Cleverness does not need a backbone."
+   ],
+   [
+    "A good sorting rule puts every animal of a group inside it and keeps others outside.",
+    true,
+    "A rule that lets in the wrong animals, or leaves out the right ones, is not a good rule."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "dolphin",
+     "bat",
+     "platypus",
+     "shark"
+    ],
+    "shark",
+    "Dolphin, bat and platypus feed their babies milk, so they are mammals. A shark is a fish."
+   ],
+   [
+    [
+     "cow",
+     "snake",
+     "frog",
+     "octopus"
+    ],
+    "octopus",
+    "Cow, snake and frog have a backbone. An octopus has none, so she is an invertebrate."
+   ],
+   [
+    [
+     "hen",
+     "crocodile",
+     "frog",
+     "cow"
+    ],
+    "cow",
+    "Hen, crocodile and frog lay eggs. A cow gives birth to a calf that has grown inside her."
+   ],
+   [
+    [
+     "crow",
+     "lizard",
+     "cow",
+     "rohu"
+    ],
+    "rohu",
+    "Crow, lizard and cow breathe air with lungs all their lives. A rohu breathes with gills."
+   ],
+   [
+    [
+     "bat wing",
+     "human arm",
+     "whale flipper",
+     "shark fin"
+    ],
+    "shark fin",
+    "The first three are built from the same limb bones inherited from one ancestor. A shark fin is not."
+   ]
+  ]
+ }
 }

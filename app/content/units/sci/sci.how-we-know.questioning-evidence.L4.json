@@ -3058,14 +3058,20 @@
     "source": "Samyutta Nikaya 12 (dependent origination), a collection of the Buddha's teachings",
     "teaching": "The Buddha taught: when this exists, that comes to be. When this does not exist, that does not come to be. Nothing arises alone. It arises from conditions.",
     "link": "In the story The Ban on the Gola Cart, there were no golas on the day the cart was closed, but people still got sunburnt. By the Buddha's test, the sunburn did not depend on the golas. It depended on the sun.",
-    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati.", "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati."],
+    "verse": [
+     "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati.",
+     "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 423, by Thiruvalluvar, an ancient Tamil book of short poems",
     "teaching": "Whatever you hear, and from whomever you hear it, wisdom is to find the true meaning in it.",
     "link": "The man at the beach sounded sure when he said golas burn the skin. A careful person looks for the true thing behind what is said, and that thing was the sun.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -3105,7 +3111,8 @@
   "story": "In 1854, cholera struck the Soho part of London. Many doctors believed it spread through bad air, which they called miasma. A doctor named John Snow thought it spread through water. He marked each death on a map of the streets, and the marks gathered around one water pump on Broad Street. Then he looked for the exceptions. A workhouse near the pump, which had its own well, had few deaths. A brewery close by, where workers drank beer, had few or none. Some people far away who had water brought from the Broad Street pump fell ill. Snow also compared houses on the same streets that were supplied by two different water companies. The houses with the dirtier water had many times more deaths. The pump handle was taken off. A pattern was not enough for Snow. He looked for what stood behind it, and he checked by comparing like with like.",
   "who": "John Snow, an English doctor in London",
   "when": "1854",
-  "wrong_idea": "Many doctors and officials believed that cholera was spread by bad air, called miasma. Snow's map, his search for the exceptions and his comparison of houses on the same streets showed that the water was carrying the illness."
+  "wrong_idea": "Many doctors and officials believed that cholera was spread by bad air, called miasma. Snow's map, his search for the exceptions and his comparison of houses on the same streets showed that the water was carrying the illness.",
+  "context": "When two things happen together, does one cause the other? This card tells the true story of a doctor in London who searched for the cause of a deadly illness."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Lucky Coin needs only a coin, a plate and a second person to write; the 20 sets take about 15 minutes, and the numbers in the lesson (7 or more heads in 10 flips is 176 out of 1024, about 17 percent; a run of at least four of one side appears in about 46 percent of sets of ten) were counted exactly. Okra Pods works best with pods of clearly different lengths; a grown-up cuts them and counting is done in fives with a toothpick. The Fancy Label Cups uses one jug and a coin; with few tasters the open round may show no effect, and the steps say so. The Banana Test has only three pairs, so the result is honestly shaky and the steps say so; ripening depends on temperature. To verify before publishing: the details of John Snow's workhouse and brewery (reported as few or no deaths), the 1936 poll (more than two million replies), the strawberry seed result (Nitsch, 1950), the birthday figure (about 7 in 10 for 30 children), and the three videos, whose YouTube addresses are still to be found. The spine (intro, Find the Third Thing, The Lucky Coin, the explanation cards, how we found out, roots and quiz) fits about 100 minutes in two sessions."
 }

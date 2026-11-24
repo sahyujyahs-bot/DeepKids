@@ -2914,21 +2914,28 @@
     "source": "Yoga Sutras of Patanjali 1.11",
     "teaching": "Memory, smriti, is not letting go of something you have experienced.",
     "link": "In the Story Trick, the story words were the ones your mind did not let go. Patanjali describes memory as holding on, which is what strong links between neurons do.",
-    "verse": ["अनुभूतविषयासंप्रमोषः स्मृतिः"],
+    "verse": [
+     "अनुभूतविषयासंप्रमोषः स्मृतिः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Yoga Sutras of Patanjali 1.14",
     "teaching": "Practice becomes firm when it is done for a long time, without breaks, and with care.",
     "link": "This is what the Other Hand experiment and the 7-Day Practice Diary showed: short practice on many days, done with attention, makes a skill firm.",
-    "verse": ["स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः"],
+    "verse": [
+     "स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book 2, chapter 1",
     "teaching": "We become builders by building, and lyre players by playing the lyre, a small kind of harp. In the same way, we become fair by doing fair things.",
     "link": "Aristotle saw that what we do again and again shapes what we become. Brain science now shows one way it happens: practice changes the links in the brain.",
-    "verse": ["ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·", "οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα"],
+    "verse": [
+     "ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·",
+     "οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2968,6 +2975,7 @@
   "story": "For much of the 1900s, many scientists thought a grown-up's brain was fixed. Children's brains grow and change, they said, but after that a brain only wears out. In the late 1990s, Eleanor Maguire, a brain scientist in London, studied London's taxi drivers. To get a licence, they must learn about 25,000 streets and the way between any two places. This test is called the Knowledge, and it takes most people three to four years. Maguire and her team scanned the brains of 16 taxi drivers, all men. In 2000 they reported that the back part of the hippocampus, which helps us find our way, was bigger in the drivers than in other men. The longer a man had driven a taxi, the bigger it was. But perhaps people born with a big hippocampus chose to drive taxis? So Katherine Woollett and Maguire scanned 79 trainees before they began, and again three to four years later. At the start, their brains matched other people's. In the 39 who passed the Knowledge, that part had grown. In those who gave up, and in people who never trained, it had not. Learning had changed grown-up brains.",
   "who": "Eleanor Maguire and her team, and later Katherine Woollett with Eleanor Maguire, at University College London",
   "when": "2000 (the taxi driver scans) and 2011 (the trainees scanned before and after)",
-  "wrong_idea": "Many scientists thought the grown-up brain was fixed and could not change its shape. The trainee drivers started with brains like everyone else's, and those who learned the streets grew a bigger back part of the hippocampus. So learning changes grown-up brains too."
+  "wrong_idea": "Many scientists thought the grown-up brain was fixed and could not change its shape. The trainee drivers started with brains like everyone else's, and those who learned the streets grew a bigger back part of the hippocampus. So learning changes grown-up brains too.",
+  "context": "Can a grown-up's brain change when they learn something new? This card tells the true story of scientists who studied people learning the streets of a big city."
  }
 }

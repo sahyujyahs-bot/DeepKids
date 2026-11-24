@@ -3106,7 +3106,8 @@
   "who": "William Bragg and his son Lawrence Bragg in England, and the chemist Henry Armstrong, who objected",
   "when": "The Braggs began in 1912. Lawrence Bragg published the structure of salt in 1913. They shared the Nobel Prize in 1915. Armstrong's letter appeared in 1927.",
   "wrong_idea": "That salt is made of separate molecules, each with one sodium atom and one chlorine atom. X-ray patterns showed a lattice in which every ion has six equal neighbours and no partner of its own.",
-  "art": "A young man in the clothes of 1913 holding a photographic plate covered in a regular pattern of dark spots, with a cube-shaped model of balls and rods on the bench beside him."
+  "art": "A young man in the clothes of 1913 holding a photographic plate covered in a regular pattern of dark spots, with a cube-shaped model of balls and rods on the bench beside him.",
+  "context": "What is a grain of salt really made of? This card tells the true story of a father and a son in England who shone X-rays through crystals."
  },
  "roots": {
   "context": "In this lesson you found three ways that atoms hold on to each other. Here we ask what salt, water and metal tell us about what a thing is.",
@@ -3126,14 +3127,23 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning the salt cannot be found, yet every sip of the water is salty.",
     "link": "The salt has not gone. Its ions have left the lattice and spread through the water. The Upanishad uses this as a picture of the self present in everything, which science does not test.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
     "teaching": "Whatever arises in dependence on other things has no fixed nature of its own.",
     "link": "Salt does not carry electricity by its own nature, and water hardly does. Together they do. What salt can do depends on what it is with.",
-    "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"],
+    "verse": [
+     "यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे",
+     "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"
+    ],
     "verse_lang": "sa"
    },
    {

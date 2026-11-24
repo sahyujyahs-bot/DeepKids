@@ -1805,14 +1805,19 @@
     "source": "The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4",
     "teaching": "Some men cannot see. Each of them touches one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none of them knows the whole elephant.",
     "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose may have given none. Putting the clues together came closest to the whole answer.",
-    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad asks: what is it that is the ear of the ear and the eye of the eye? Something in you hears through your ears and sees through your eyes.",
     "link": "Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that part of you that knows.",
-    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse": [
+     "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं",
+     "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1847,8 +1852,121 @@
   "story": "Nobody has ever dug to the middle of the Earth. The deepest hole people have ever made goes only a tiny way down. So how do we know what is in the middle? When there is a big earthquake, the shaking travels right through the Earth. Machines in many countries draw the shaking as wiggly lines. The shaking moves differently through solid rock, through liquid and through metal. So the lines carry clues about what the shaking passed through. In the 1920s, scientists thought the middle of the Earth was one big ball of hot, liquid metal. Inge Lehmann, a scientist in Denmark, looked very closely at the wiggly lines from a big earthquake in New Zealand in 1929. She saw small wiggles in places where there should have been none. Something deep inside the Earth must have bounced some of the shaking back, so that it reached those places. In 1936 she wrote that the Earth must have an inner core: a ball inside the liquid ball. Other scientists checked her clues, and she was right. Later they found that this inner ball is solid metal. Inge Lehmann lived to be 104.",
   "who": "Inge Lehmann, a Danish earthquake scientist",
   "when": "1929 to 1936",
-  "wrong_idea": "The middle of the Earth is one big ball of liquid metal, with nothing different inside it."
+  "wrong_idea": "The middle of the Earth is one big ball of liquid metal, with nothing different inside it.",
+  "context": "How can we know what is in the middle of the Earth when nobody has ever dug that far? This card tells the true story of a scientist who listened to earthquakes."
  },
  "playtest": "Walked through both games, the Mystery Dabbas experiment, the three activities, the Wonder Jar and the coin challenge as a parent and child in a flat; minutes, steps and schedules agree. Fixed: Question Dice now ends with a clear win for 2 or 4 players even if every question is answered; its check no longer repeats the question-or-statement exercise used elsewhere; the Yes-or-No Detective parent line now matches its check; a worksheet item that repeated the dabba-method question became a challenge to a friend's idea; the coin challenge says to vary the number; a repeated name was changed; two weak jokes were replaced. The three video slots still have no checked video id; the validator needs exactly three.",
- "warm": {"words": ["CLUES", "SENSE", "GUESS", "CHECK", "SMELL"], "quiz": [["You can find out what is inside a closed box by shaking it and listening.", true, "Sounds are clues about things we cannot see."], ["You can only know about things you can see.", false, "Clues from sound, touch and smell tell us about things we cannot see."], ["Asking why something happens is where science begins.", true, "Science starts when we notice something and wonder about it."], ["A good scientist is right the first time.", false, "Scientists make many wrong guesses and learn from checking them."], ["A box that makes no sound when shaken still gives a clue.", true, "No sound is a clue too; the box may hold something soft or be full."], ["Only your eyes can help you observe.", false, "Ears, nose and hands notice many things that eyes miss."], ["Looking again can show you things you missed the first time.", true, "One quick look can fool us, so we look again."], ["Bees cannot tell colours apart.", false, "Scientists have shown that honeybees see colours and can learn them."], ["An ant taps a crumb with her feelers to find out about it.", true, "Ants and other living beings also find out about the world."], ["If a guess feels right, we do not need to check it.", false, "A guess can feel right and still be wrong, so we check the clues."]], "odd": [[["look", "listen", "smell", "guess"], "guess", "Looking, listening and smelling use our senses; guessing does not."], [["red ball in hand", "loud bell", "warm cup", "middle of the Earth"], "middle of the Earth", "We can sense the first three directly; the Earth's middle we can only work out from clues."], [["crow", "ant", "plant root", "stone"], "stone", "A crow, an ant and a plant root find out about the world; a stone is not alive."], [["rattling sound", "weight of box", "smell of elaichi", "colour of your shirt"], "colour of your shirt", "The first three are clues about what is in the box; your shirt tells nothing about it."], [["notice", "wonder", "look again", "skip checking"], "skip checking", "Scientists notice, wonder and look again; they do not skip checking."]]}
+ "warm": {
+  "words": [
+   "CLUES",
+   "SENSE",
+   "GUESS",
+   "CHECK",
+   "SMELL"
+  ],
+  "quiz": [
+   [
+    "You can find out what is inside a closed box by shaking it and listening.",
+    true,
+    "Sounds are clues about things we cannot see."
+   ],
+   [
+    "You can only know about things you can see.",
+    false,
+    "Clues from sound, touch and smell tell us about things we cannot see."
+   ],
+   [
+    "Asking why something happens is where science begins.",
+    true,
+    "Science starts when we notice something and wonder about it."
+   ],
+   [
+    "A good scientist is right the first time.",
+    false,
+    "Scientists make many wrong guesses and learn from checking them."
+   ],
+   [
+    "A box that makes no sound when shaken still gives a clue.",
+    true,
+    "No sound is a clue too; the box may hold something soft or be full."
+   ],
+   [
+    "Only your eyes can help you observe.",
+    false,
+    "Ears, nose and hands notice many things that eyes miss."
+   ],
+   [
+    "Looking again can show you things you missed the first time.",
+    true,
+    "One quick look can fool us, so we look again."
+   ],
+   [
+    "Bees cannot tell colours apart.",
+    false,
+    "Scientists have shown that honeybees see colours and can learn them."
+   ],
+   [
+    "An ant taps a crumb with her feelers to find out about it.",
+    true,
+    "Ants and other living beings also find out about the world."
+   ],
+   [
+    "If a guess feels right, we do not need to check it.",
+    false,
+    "A guess can feel right and still be wrong, so we check the clues."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "look",
+     "listen",
+     "smell",
+     "guess"
+    ],
+    "guess",
+    "Looking, listening and smelling use our senses; guessing does not."
+   ],
+   [
+    [
+     "red ball in hand",
+     "loud bell",
+     "warm cup",
+     "middle of the Earth"
+    ],
+    "middle of the Earth",
+    "We can sense the first three directly; the Earth's middle we can only work out from clues."
+   ],
+   [
+    [
+     "crow",
+     "ant",
+     "plant root",
+     "stone"
+    ],
+    "stone",
+    "A crow, an ant and a plant root find out about the world; a stone is not alive."
+   ],
+   [
+    [
+     "rattling sound",
+     "weight of box",
+     "smell of elaichi",
+     "colour of your shirt"
+    ],
+    "colour of your shirt",
+    "The first three are clues about what is in the box; your shirt tells nothing about it."
+   ],
+   [
+    [
+     "notice",
+     "wonder",
+     "look again",
+     "skip checking"
+    ],
+    "skip checking",
+    "Scientists notice, wonder and look again; they do not skip checking."
+   ]
+  ]
+ }
 }

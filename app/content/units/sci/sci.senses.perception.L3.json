@@ -307,7 +307,8 @@
   "story": "When films came to cinema halls in the 1890s, people asked how still pictures could look like moving people. The popular answer was 'persistence of vision'. It said each picture stays on the eye for a moment and blurs into the next one. Toy makers had used this idea since the 1820s for spinning picture toys. In 1912, in Frankfurt, a scientist called Max Wertheimer tested how we see movement. He flashed a short line of light, and then a second line a little to one side, with a tiny gap of time in between. When the gap of time was long, people saw one line and then the other. When it was very short, they saw both lines at once. But when the gap of time was in between, they saw something surprising: one line moving across the empty space between the two. There was nothing in that space to see. If the pictures only blurred together on the eye, people would see two lines at once, not one line travelling. So the movement was being made by the brain. Two of the people in his tests, Wolfgang Köhler and Kurt Koffka, became famous scientists too. Many books still say films move because of persistence of vision, but scientists who study seeing say that is wrong.",
   "who": "Max Wertheimer, with Wolfgang Köhler and Kurt Koffka, in Frankfurt",
   "when": "1912",
-  "wrong_idea": "People thought films seem to move because each picture stays on the eye and blurs into the next ('persistence of vision'). Wertheimer showed that people see one line travelling between two flashed lines, which blurring cannot explain. The brain makes the movement."
+  "wrong_idea": "People thought films seem to move because each picture stays on the eye and blurs into the next ('persistence of vision'). Wertheimer showed that people see one line travelling between two flashed lines, which blurring cannot explain. The brain makes the movement.",
+  "context": "Why do still pictures in a film look like moving ones? This card tells the true story of a scientist who tested it with two flashing lines."
  },
  "big_questions": [
   {
@@ -2875,14 +2876,24 @@
     "source": "Udana 6.4 (Pali Canon), the blind men and the elephant",
     "teaching": "Some men who could not see each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and they quarrelled.",
     "link": "Each man felt something true, but his idea of the whole elephant was wrong. In an illusion, your eyes catch the light correctly, but your brain works out the wrong answer from the clues. Checking with a ruler is like asking the other men what they felt.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Gaudapada, Mandukya Karika 2.17",
     "teaching": "A rope seen unclearly in the dark is taken to be a snake. When the rope is seen for what it is, the snake is gone.",
     "link": "In the rope story, seeing clearly removes the mistake. The arrow lines are different: even after you know the truth, the open-fin line still looks longer. You see the mistake and know the truth at the same time.",
-    "verse": ["अनिश्चिता यथा रज्जुरन्धकारे विकल्पिता", "सर्पधारादिभिर्भावैस्तद्वदात्मा विकल्पितः", "निश्चितायां यथा रज्ज्वां विकल्पो विनिवर्तते", "रज्जुरेवेति चाद्वैतं तद्वदात्मविनिश्चयः"],
+    "verse": [
+     "अनिश्चिता यथा रज्जुरन्धकारे विकल्पिता",
+     "सर्पधारादिभिर्भावैस्तद्वदात्मा विकल्पितः",
+     "निश्चितायां यथा रज्ज्वां विकल्पो विनिवर्तते",
+     "रज्जुरेवेति चाद्वैतं तद्वदात्मविनिश्चयः"
+    ],
     "verse_lang": "sa"
    }
   ],

@@ -2039,14 +2039,19 @@
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that when the senses touch things, they bring cold and heat, pleasure and pain. These feelings come and go, and they do not last. Bear them calmly.",
     "link": "In the Secret Packet test, the same packet was felt in the empty bag and missed in the heavy bag. A feeling depends on both you and the thing, so it changes from one moment to the next.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Samyutta Nikaya 12.1 (a Buddhist text)",
     "teaching": "The Buddha taught that feeling comes from contact. A feeling arises only when there is contact.",
     "link": "In the Secret Packet test, the packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held.",
-    "verse": ["phassapaccayā vedanā;"],
+    "verse": [
+     "phassapaccayā vedanā;"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2081,7 +2086,8 @@
   "who": "Ernst Heinrich Weber, a German doctor and scientist. Later, Gustav Fechner, a German scientist, and Ardem Patapoutian, a scientist born in Lebanon who works in the United States",
   "when": "The 1830s (Weber's tests), 1860 (Fechner) and 2021 (the Nobel Prize for the touch sensors)",
   "story": "It seems natural to think that a careful hand can feel any extra weight, however small, if you pay attention. In the 1830s, a doctor named Ernst Weber tested this in Leipzig, in Germany. He asked people to hold two weights and say which was heavier. A small extra was easy to notice when the weight was light. When the weight was heavy, the same small extra was missed. To be noticed, the extra had to grow as the load grew. Weber also found that people did better when they lifted the weights than when the weights just rested on a still hand. In 1860, another German scientist, Gustav Fechner, named this rule Weber's law. Much later, in 2021, Ardem Patapoutian, a scientist born in Lebanon, shared the Nobel Prize for finding the tiny touch sensors in our nerve cells.",
-  "wrong_idea": "People assume a careful hand can feel any small extra weight. Weber showed that the extra must be bigger when the load is heavier, so a small extra in a heavy load goes unnoticed."
+  "wrong_idea": "People assume a careful hand can feel any small extra weight. Weber showed that the extra must be bigger when the load is heavier, so a small extra in a heavy load goes unnoticed.",
+  "context": "How small a change in weight can we feel? This card tells the true story of a doctor in Germany who asked people to hold two weights."
  },
  "plan": {
   "start_options": [
@@ -2151,5 +2157,117 @@
   ]
  },
  "playtest": "Walked through every step as a parent and child would in a flat. The Secret Packet test needs only a cloth bag, two water bottles, a hanky of rice and a coin, and a note now says results differ from child to child. The bingo game was played with 2 and with 4 players: the rules now say who reads, who wins and what happens if nobody gets a row. The Force Caller cards now carry big or small, and the magnet card no longer pulls a person's hands. Names are introduced where they first appear, family members were removed from the steps, one duplicate joke, question and counting exercise were swapped for new ones, and the missing hanger-balance step was added.",
- "warm": {"words": ["FORCE", "NERVE", "HEAVY", "PULLS", "SMALL"], "quiz": [["If nothing is moving, there are no forces on it.", false, "The Earth pulls a tumbler down and the table pushes it up, so it stays still."], ["We cannot see a force, but we can see what it does.", true, "We know a force is there from its effects, like a kite rising or clothes flapping."], ["A careful hand can feel any extra weight, however small.", false, "In a heavy bag the same small packet is often missed, however hard you try."], ["A small packet is easier to feel in an empty bag than in a heavy bag.", true, "The smallest extra weight we can notice grows with the weight we already hold."], ["The wind is not a force, because you cannot see the wind.", false, "No force can be seen. We see the wind's push when kites rise and boats move."], ["A plant can sense a touch.", true, "A touch-me-not plant folds her leaves when touched, so a plant senses too. Sensing does not need a brain, because every living being senses in their own way."], ["Gravity is a force that pulls everything down towards the ground.", true, "Gravity is the Earth's pull, and it pulls all the time, even on things that are still."], ["A feather needs a bigger force to lift than a full bucket.", false, "A bigger force does a bigger job, like lifting a heavier thing."], ["Every force needs two things: one that pushes or pulls and one that gets pushed or pulled.", true, "A force is always between two things, such as a hand and a door."], ["Only your hands can feel a push or a pull.", false, "Skin, muscles and joints all have tiny sensors that notice pushes and pulls."]], "odd": [[["Hand", "Wind", "Magnet", "Shadow"], "Shadow", "A hand, wind and a magnet can push or pull things; a shadow gives no push or pull."], [["Lifting a full bucket", "Pulling a loaded cart", "Lifting a heavy sack", "Lifting a feather"], "Lifting a feather", "The first three are big jobs that need a big force; lifting a feather needs only a small force."], [["Coin in empty bag", "Coin in light bag", "Coin in almost-empty bag", "Coin in heavy bag"], "Coin in heavy bag", "The same coin is easy to notice when you hold little, but easy to miss in a heavy bag."], [["Your skin", "Touch-me-not plant", "Your muscles", "Stone"], "Stone", "Skin, muscles and the touch-me-not plant can sense a touch; a stone cannot."], [["Earth pulling mango", "Earth pulling you", "Earth pulling tumbler", "Table pushing tumbler"], "Table pushing tumbler", "The first three pull downwards towards the ground; the table pushes the tumbler upwards."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "NERVE",
+   "HEAVY",
+   "PULLS",
+   "SMALL"
+  ],
+  "quiz": [
+   [
+    "If nothing is moving, there are no forces on it.",
+    false,
+    "The Earth pulls a tumbler down and the table pushes it up, so it stays still."
+   ],
+   [
+    "We cannot see a force, but we can see what it does.",
+    true,
+    "We know a force is there from its effects, like a kite rising or clothes flapping."
+   ],
+   [
+    "A careful hand can feel any extra weight, however small.",
+    false,
+    "In a heavy bag the same small packet is often missed, however hard you try."
+   ],
+   [
+    "A small packet is easier to feel in an empty bag than in a heavy bag.",
+    true,
+    "The smallest extra weight we can notice grows with the weight we already hold."
+   ],
+   [
+    "The wind is not a force, because you cannot see the wind.",
+    false,
+    "No force can be seen. We see the wind's push when kites rise and boats move."
+   ],
+   [
+    "A plant can sense a touch.",
+    true,
+    "A touch-me-not plant folds her leaves when touched, so a plant senses too. Sensing does not need a brain, because every living being senses in their own way."
+   ],
+   [
+    "Gravity is a force that pulls everything down towards the ground.",
+    true,
+    "Gravity is the Earth's pull, and it pulls all the time, even on things that are still."
+   ],
+   [
+    "A feather needs a bigger force to lift than a full bucket.",
+    false,
+    "A bigger force does a bigger job, like lifting a heavier thing."
+   ],
+   [
+    "Every force needs two things: one that pushes or pulls and one that gets pushed or pulled.",
+    true,
+    "A force is always between two things, such as a hand and a door."
+   ],
+   [
+    "Only your hands can feel a push or a pull.",
+    false,
+    "Skin, muscles and joints all have tiny sensors that notice pushes and pulls."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Hand",
+     "Wind",
+     "Magnet",
+     "Shadow"
+    ],
+    "Shadow",
+    "A hand, wind and a magnet can push or pull things; a shadow gives no push or pull."
+   ],
+   [
+    [
+     "Lifting a full bucket",
+     "Pulling a loaded cart",
+     "Lifting a heavy sack",
+     "Lifting a feather"
+    ],
+    "Lifting a feather",
+    "The first three are big jobs that need a big force; lifting a feather needs only a small force."
+   ],
+   [
+    [
+     "Coin in empty bag",
+     "Coin in light bag",
+     "Coin in almost-empty bag",
+     "Coin in heavy bag"
+    ],
+    "Coin in heavy bag",
+    "The same coin is easy to notice when you hold little, but easy to miss in a heavy bag."
+   ],
+   [
+    [
+     "Your skin",
+     "Touch-me-not plant",
+     "Your muscles",
+     "Stone"
+    ],
+    "Stone",
+    "Skin, muscles and the touch-me-not plant can sense a touch; a stone cannot."
+   ],
+   [
+    [
+     "Earth pulling mango",
+     "Earth pulling you",
+     "Earth pulling tumbler",
+     "Table pushing tumbler"
+    ],
+    "Table pushing tumbler",
+    "The first three pull downwards towards the ground; the table pushes the tumbler upwards."
+   ]
+  ]
+ }
 }

@@ -433,14 +433,19 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in the hub of a wheel, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the hollow that makes the pot useful.",
     "link": "A wheel touches the road at only one small spot, and the hollow space between its spokes is part of what makes it work. In the same way, a grip is made at only a few tiny spots, with empty gaps in between.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "In this old Buddhist story, blind men each feel one part of an elephant. One feels the leg and says it is a pillar. One feels the tail and says it is a rope. Each is right about the part and wrong about the whole.",
     "link": "Friction is a bit like the elephant, because people meet different parts of it. It is the grip that saves a boat, and it is the burn on a hand. It slows a cyclist down, and it is also the reason the brakes work. Each of these is true about one side of friction, but none of them is the whole of it.",
-    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2775,7 +2780,8 @@
   "story": "For hundreds of years, many people believed that friction came from bumps locking together. Guillaume Amontons, a French scientist, suggested in 1699 that surfaces grip because their bumps catch on each other, and many people agreed for over two hundred years. If that were true, very smooth surfaces should always slide easily. But smooth, clean metal surfaces were found to stick, not slide. In the 1930s and 1940s, Frank Bowden and David Tabor, working at the University of Cambridge, tried a new test. They pressed two metal surfaces together and measured how well electricity passed between them. If the surfaces touched all over, a lot of electricity would pass. Only a little did. The surfaces were touching at tiny spots, and at these spots the metal was sticking, as if it were welded. Their book, The Friction and Lubrication of Solids, came out in 1950.",
   "who": "Frank Bowden and David Tabor, physicists at the University of Cambridge",
   "when": "The 1930s to 1950",
-  "wrong_idea": "Friction is only the catching of rough bumps, and smoother always means more slippery. Bowden and Tabor found that electricity passed through only tiny spots, so the surfaces touched at only a few places. At those places the metals stuck together, and smooth, clean surfaces could stick very hard."
+  "wrong_idea": "Friction is only the catching of rough bumps, and smoother always means more slippery. Bowden and Tabor found that electricity passed through only tiny spots, so the surfaces touched at only a few places. At those places the metals stuck together, and smooth, clean surfaces could stick very hard.",
+  "context": "Why do surfaces grip each other when we try to slide them? This card tells the true story of two scientists who tested the old idea about rough bumps."
  },
  "playtest": "Read step by step as a parent and child in a city flat would use it, but not yet tried at home. Press Harder: a shoebox, 500 gram packets and a wide rubber band on a tile floor should give a stretch of roughly 1 to 7 centimetres, rising by about the same amount for each packet. A rubber band is not a perfect gauge, so the steps say to look for the pattern, and the unit says what to do if the band stretches too far or too little. The box on its narrow end must have the lid taped. Cardboard can give slightly different results on its two faces, so the steps say to put smooth paper under both. Wrap the Thread: for a 200 millilitre bottle and ordinary cotton thread on a smooth round pencil, expect about 60 to 100 clips for half a turn, 25 to 40 for one turn, a handful for two turns and nearly none for three turns. Real numbers depend on the thread and pencil, so the steps ask for the pattern, not the exact numbers, and the steps give what to do if the thread keeps slipping or sticks too much. The cushion and the ban on kite thread are in the safety notes. The Walking Ruler works with a 30 centimetre ruler but is easier with a longer stick. Rollers and Marbles needs the reading to be taken while the box moves. The Slow Drop: honey is clearly slower, but water and oil are hard to tell apart with a phone stopwatch, and the steps say so. Wrinkled Fingers: results are often mixed and practice affects the second try, so the steps swap the order. Facts to check before the unit goes live: the typical mu values (rubber on a dry road about 0.8, steel on ice about 0.03), that for hard metals the real contact area is often under one thousandth of the area we see, the Euler reference for the rope rule, the Dienwiebel graphite paper, the Krim article, and the two papers on wrinkled fingers (and the later study that found no benefit, which is not named). The videos have no address yet.",
  "warm": {

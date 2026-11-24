@@ -1952,7 +1952,8 @@
   "story": "For a long time, many people thought the stars went away in the daytime, or only came out at night. But people who watched a total eclipse of the Sun saw something strange. For a few minutes, the Moon covered the whole Sun. The sky went dark in the middle of the day, and bright stars and planets appeared. They had been there all along. One person who travelled far to see an eclipse was Annie Maunder, an astronomer from Ireland. In January 1898 she came to India, to a village called Talni, where the eclipse could be seen. She carried a small camera, bought with a little money from her old college. When the Moon covered the Sun, she photographed the Sun's faint outer glow, which can be seen only in an eclipse. Her picture showed a streamer of glow longer than anyone had photographed before. For many years, her pictures were often printed with her husband's name instead of hers. Today big telescopes can find bright stars even in the daytime sky.",
   "who": "Annie Maunder, an astronomer from Ireland",
   "when": "22 January 1898",
-  "wrong_idea": "People thought the stars went away in the daytime. Total eclipses of the Sun showed that when the Sun's light is blocked, the stars can be seen at midday, so they are there all the time."
+  "wrong_idea": "People thought the stars went away in the daytime. Total eclipses of the Sun showed that when the Sun's light is blocked, the stars can be seen at midday, so they are there all the time.",
+  "context": "Do the stars go away in the daytime? This card tells the true story of an astronomer who studied what people could see during an eclipse of the Sun."
  },
  "plan": {
   "start_options": [

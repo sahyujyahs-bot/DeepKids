@@ -339,7 +339,8 @@
   "story": "Two hundred years ago, the Scottish surgeon Charles Bell taught that people have special face muscles made only for showing feelings, and that no animal has them. In 1862, Guillaume Duchenne, a French doctor, tested face muscles one by one. He touched an old man's face with gentle electric currents, and each current made one muscle move. Duchenne photographed the faces this made. He found that a happy smile uses two muscles: one turns up the mouth, and one around the eye lifts the cheek and crinkles the eye corner. A put-on smile often uses only the mouth. Charles Darwin used Duchenne's photographs. In 1868, at his home in England, he showed 11 of them, one at a time, to more than 20 visitors and asked what each face showed. Almost everyone agreed on some faces, but argued about others. Darwin also studied faces in monkeys, apes and dogs. In 1872 he wrote that our faces share these muscles with other animals, inherited from shared ancestors. Bell had been wrong: our face muscles are not only ours.",
   "who": "Charles Bell, a Scottish surgeon. Guillaume Duchenne, a French doctor. Charles Darwin, an English naturalist, and the visitors at his home who took part in his test.",
   "when": "1806 (Bell's book), 1862 (Duchenne's photographs), 1868 (Darwin's test with visitors) and 1872 (Darwin's book on the expression of emotions)",
-  "wrong_idea": "Charles Bell taught that people were given special muscles only for showing feelings, and that animals do not have them. Darwin compared faces of people, apes, monkeys and dogs, and showed that we share these muscles and many expressions with other animals."
+  "wrong_idea": "Charles Bell taught that people were given special muscles only for showing feelings, and that animals do not have them. Darwin compared faces of people, apes, monkeys and dogs, and showed that we share these muscles and many expressions with other animals.",
+  "context": "Are the muscles of our face made only for showing feelings, and do animals show feelings too? This card tells the true story of doctors and Darwin who looked closely at faces."
  },
  "experiments": [
   {
@@ -2428,21 +2429,29 @@
     "source": "Tirukkural 706 (chapter 71, 'Reading signs'), by Thiruvalluvar",
     "teaching": "As a crystal shows the colour of what is next to it, the face shows what is strongly felt in the heart.",
     "link": "Thiruvalluvar saw that strong feelings show on the face. The Face Test found that too, and also that some faces are hard to read.",
-    "verse": ["அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம்", "கடுத்தது காட்டும் முகம்."],
+    "verse": [
+     "அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம்",
+     "கடுத்தது காட்டும் முகம்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Natya Shastra, chapter 6 (on rasa)",
     "teaching": "A feeling in a play is shown through outward signs, such as the face, the eyes and the body, and the audience comes to taste that feeling themselves.",
     "link": "The outward signs are the same face and body changes this lesson studied. The audience tasting the feeling is a kind of empathy.",
-    "verse": ["तत्र विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः"],
+    "verse": [
+     "तत्र विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Mencius, Book 2A, chapter 6",
     "teaching": "Anyone who suddenly sees a small child about to fall into a well feels alarm and pity at once, before thinking of any reward.",
     "link": "The feeling comes before the thought, just as you jump at a cooker whistle before you know what the noise was. Caring for others starts as a feeling in the body.",
-    "verse": ["今人乍見孺子將入於井，皆有怵惕惻隱之心。", "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"],
+    "verse": [
+     "今人乍見孺子將入於井，皆有怵惕惻隱之心。",
+     "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2478,5 +2487,117 @@
   "art": "Two children facing each other, one with a small sad face, the other with the same small sad face, and a faint line joining their hearts."
  },
  "playtest": "Every experiment, activity, game, project and challenge was walked through as if at home today, in a city flat, with the materials listed. The Face Test needs only paper cards and a notebook, and works with two people. A grown-up makes faces first, because children often find it hard to pose fear. Results vary from family to family, and the parent note says what is common without giving away the answer. The Real or Polite smile test says honestly that many people can fake the eye crinkle, so a score near 5 of 10 is a real result, not a failure. The Catch a Yawn test does the smiling round first, so yawns don't carry over, and suggests swapping the order another day. Children under about five rarely catch yawns, and the note says so. The body map and the Kindness Week need no special materials. The calm corner fits in one bedsheet of space. Timings were checked step by step. The spine fits about 85 minutes. A second walk-through fixed step minutes, an unclear circle-dividing step, wording that assumed relatives, repeated questions, and the joke list (nine kept).",
- "warm": {"words": ["HEART", "SMILE", "ANGER", "TEARS", "TRUST"], "quiz": [["When you are scared, your heart can beat faster before you have time to think.", true, "A strong emotion changes the body fast; adrenaline speeds up the heart and the breath."], ["Every feeling has just one face, and people everywhere read it the same way.", false, "People often do not make the 'right' face, and people in some places read faces differently."], ["Dozens of small muscles in your face move to show a feeling.", true, "These muscles pull on the skin to make expressions that other people can see."], ["A smile always means the person is happy inside.", false, "Anyone can put on a polite smile, so a face gives only clues."], ["The surest way to know how a friend feels is to ask them kindly.", true, "Reading a face is a guess; asking checks the guess and shows you care."], ["Hitting a pillow when you are angry gets the anger out.", false, "People who hit a punching bag while angry were more aggressive afterwards, not calmer."], ["People in every part of the world smile, frown, laugh and cry.", true, "These ways of showing feelings are found in every place."], ["Holding a pencil in your teeth to force a smile makes cartoons seem funnier.", false, "When 17 labs repeated this test, they found no difference."], ["Even very young children help and share without being taught or rewarded.", true, "Kindness seems to come naturally to people, not only from rewards."], ["Boys do not cry because they have different tear glands from girls.", false, "Everyone has the same tear glands and feelings; crying shows sadness or pain."]], "odd": [[["Faster heartbeat", "Quicker breath", "Sweaty palms", "Slow, calm breath"], "Slow, calm breath", "Fear speeds up the heart and breath and can make you sweat; slow breath comes when you calm down."], [["Their face", "Their voice", "What they do", "Ask them kindly"], "Ask them kindly", "Face, voice and actions are clues we must guess from; asking is the way to know for sure."], [["Share your tiffin", "Help a friend up", "Listen to a sad friend", "Laugh at a mistake"], "Laugh at a mistake", "The other three show care for a friend's feelings; laughing at a mistake does not."], [["Yawns", "Laughs", "Moods", "Fingerprints"], "Fingerprints", "Yawns, laughs and moods can spread from person to person; fingerprints belong to one person only."], [["9 to 12 hours' sleep", "Active play", "Enough water", "Skipping meals"], "Skipping meals", "Sleep, play and water keep body and feelings well; skipping meals does not."]]}
+ "warm": {
+  "words": [
+   "HEART",
+   "SMILE",
+   "ANGER",
+   "TEARS",
+   "TRUST"
+  ],
+  "quiz": [
+   [
+    "When you are scared, your heart can beat faster before you have time to think.",
+    true,
+    "A strong emotion changes the body fast; adrenaline speeds up the heart and the breath."
+   ],
+   [
+    "Every feeling has just one face, and people everywhere read it the same way.",
+    false,
+    "People often do not make the 'right' face, and people in some places read faces differently."
+   ],
+   [
+    "Dozens of small muscles in your face move to show a feeling.",
+    true,
+    "These muscles pull on the skin to make expressions that other people can see."
+   ],
+   [
+    "A smile always means the person is happy inside.",
+    false,
+    "Anyone can put on a polite smile, so a face gives only clues."
+   ],
+   [
+    "The surest way to know how a friend feels is to ask them kindly.",
+    true,
+    "Reading a face is a guess; asking checks the guess and shows you care."
+   ],
+   [
+    "Hitting a pillow when you are angry gets the anger out.",
+    false,
+    "People who hit a punching bag while angry were more aggressive afterwards, not calmer."
+   ],
+   [
+    "People in every part of the world smile, frown, laugh and cry.",
+    true,
+    "These ways of showing feelings are found in every place."
+   ],
+   [
+    "Holding a pencil in your teeth to force a smile makes cartoons seem funnier.",
+    false,
+    "When 17 labs repeated this test, they found no difference."
+   ],
+   [
+    "Even very young children help and share without being taught or rewarded.",
+    true,
+    "Kindness seems to come naturally to people, not only from rewards."
+   ],
+   [
+    "Boys do not cry because they have different tear glands from girls.",
+    false,
+    "Everyone has the same tear glands and feelings; crying shows sadness or pain."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Faster heartbeat",
+     "Quicker breath",
+     "Sweaty palms",
+     "Slow, calm breath"
+    ],
+    "Slow, calm breath",
+    "Fear speeds up the heart and breath and can make you sweat; slow breath comes when you calm down."
+   ],
+   [
+    [
+     "Their face",
+     "Their voice",
+     "What they do",
+     "Ask them kindly"
+    ],
+    "Ask them kindly",
+    "Face, voice and actions are clues we must guess from; asking is the way to know for sure."
+   ],
+   [
+    [
+     "Share your tiffin",
+     "Help a friend up",
+     "Listen to a sad friend",
+     "Laugh at a mistake"
+    ],
+    "Laugh at a mistake",
+    "The other three show care for a friend's feelings; laughing at a mistake does not."
+   ],
+   [
+    [
+     "Yawns",
+     "Laughs",
+     "Moods",
+     "Fingerprints"
+    ],
+    "Fingerprints",
+    "Yawns, laughs and moods can spread from person to person; fingerprints belong to one person only."
+   ],
+   [
+    [
+     "9 to 12 hours' sleep",
+     "Active play",
+     "Enough water",
+     "Skipping meals"
+    ],
+    "Skipping meals",
+    "Sleep, play and water keep body and feelings well; skipping meals does not."
+   ]
+  ]
+ }
 }

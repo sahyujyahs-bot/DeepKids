@@ -2715,14 +2715,22 @@
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1 (Jain)",
     "teaching": "All breathing, living beings should not be killed, harmed or treated with violence. This is the pure and lasting law.",
     "link": "Jain monks take great care not to harm even tiny beings. A louse is a living being with their own life, and the Jain teaching asks us to notice that, even while we comb lice out to keep ourselves well. Combing gently with a fine comb removes lice without poisons.",
-    "verse": ["सव्वे पाणा सव्वे भूया सव्वे जीवा सव्वे सत्ता", "न हन्तव्वा न अज्जावेयव्वा न परिघेत्तव्वा", "न परियावेयव्वा न उद्दवेयव्वा", "एस धम्मे सुद्धे नितिए सासए"],
+    "verse": [
+     "सव्वे पाणा सव्वे भूया सव्वे जीवा सव्वे सत्ता",
+     "न हन्तव्वा न अज्जावेयव्वा न परिघेत्तव्वा",
+     "न परियावेयव्वा न उद्दवेयव्वा",
+     "एस धम्मे सुद्धे नितिए सासए"
+    ],
     "verse_lang": "pra"
    },
    {
     "source": "Thirukkural 948 (chapter on medicine)",
     "teaching": "Find the illness, then find its cause, then find what will end it, and then act.",
     "link": "This is how malaria was solved. Laveran found the parasite, Ross found the mosquito who carries the parasite, and now we act by closing that path with nets, covered water and medicine.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse": [
+     "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்",
+     "வாய்நாடி வாய்ப்பச் செயல்."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2762,6 +2770,7 @@
   "story": "For more than two thousand years, people blamed malaria on bad air. The name comes from the Italian 'mala aria', which means bad air. People thought foul air rising from swamps at night made them ill. In 1880, Alphonse Laveran, a French army doctor in Algeria, looked at a sick soldier's blood under a microscope. He saw tiny moving living beings inside it: the malaria parasite. But how did the parasite get from one person to another? Patrick Manson, a British doctor, had found that mosquitoes carry tiny worms from person to person. He guessed they might carry malaria too. Ronald Ross, a doctor born in Almora, tested the idea in India. For two years he let mosquitoes feed on people with malaria, then cut the mosquitoes open and searched. On 20 August 1897, in Secunderabad, next to Hyderabad, he found the parasites growing in the stomach of a mosquito with spotted wings, an Anopheles. In 1898 in Calcutta, with his helper Muhammad Bux, he showed that mosquito bites passed malaria between birds. That year, Giovanni Battista Grassi's team in Italy showed that Anopheles mosquitoes pass malaria to people. The bad air idea was wrong.",
   "who": "Alphonse Laveran, Patrick Manson, Ronald Ross with Muhammad Bux, and Giovanni Battista Grassi",
   "when": "1880 (Laveran sees the parasite) to 1897 and 1898 (Ross and Grassi find the mosquito path)",
-  "wrong_idea": "People thought malaria came from bad air rising from swamps at night. Ross and Grassi showed that a parasite causes it, and a female Anopheles mosquito carries the parasite from one person to the next. Swamps and night mattered only because that is where and when these mosquitoes breed and bite."
+  "wrong_idea": "People thought malaria came from bad air rising from swamps at night. Ross and Grassi showed that a parasite causes it, and a female Anopheles mosquito carries the parasite from one person to the next. Swamps and night mattered only because that is where and when these mosquitoes breed and bite.",
+  "context": "What causes malaria? This card tells the true story of doctors who spent years finding out, and of a mosquito who carried the answer."
  }
 }

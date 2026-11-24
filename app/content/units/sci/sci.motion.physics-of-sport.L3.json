@@ -2946,7 +2946,11 @@
     "source": "Samyutta Nikaya 12.67, the simile of the two sheaves of reeds",
     "teaching": "Two bundles of reeds can stand up by leaning on each other. Take one away, and the other falls.",
     "link": "A bounce needs the ball and the ground together. Take away the firm ground, as with a pillow or soft sand, and there is hardly any bounce.",
-    "verse": ["Seyyathāpi, āvuso, dve naḷakalāpiyo aññamaññaṁ nissāya tiṭṭheyyuṁ.", "Tāsañce, āvuso, naḷakalāpīnaṁ ekaṁ ākaḍḍheyya, ekā papateyya;", "aparañce ākaḍḍheyya, aparā papateyya."],
+    "verse": [
+     "Seyyathāpi, āvuso, dve naḷakalāpiyo aññamaññaṁ nissāya tiṭṭheyyuṁ.",
+     "Tāsañce, āvuso, naḷakalāpīnaṁ ekaṁ ākaḍḍheyya, ekā papateyya;",
+     "aparañce ākaḍḍheyya, aparā papateyya."
+    ],
     "verse_lang": "pi"
    },
    {
@@ -2986,6 +2990,7 @@
   "story": "For hundreds of years, many scholars in Europe taught that a thrown ball or a cannonball moves in a straight line until the force of the throw runs out. Then it falls straight down. Books showed cannonballs flying along a straight line and then dropping, like a hook. Niccolò Tartaglia, an Italian mathematician, disagreed. As a boy he had been badly wounded by a soldier's sword, and it left him with a stammer. His nickname, Tartaglia, means 'the stammerer'. His family was too poor to keep him at school, so he taught himself. In 1537 he wrote a book about the paths of cannonballs. He showed that aiming halfway up, at 45 degrees, sends a cannonball furthest. He also argued that no part of the path is really straight, because the ball's weight pulls on it all the time. About 70 years later, Galileo Galilei tested this. He rolled balls down a ramp and off a table, and marked where they landed. Faster balls landed further away, and the numbers fitted a curve. In 1638 he showed that, without air, a thrown thing follows a smooth curve called a parabola.",
   "who": "Niccolò Tartaglia, an Italian mathematician, and Galileo Galilei, an Italian scientist",
   "when": "1537 (Tartaglia's first book on cannonballs) to 1638 (Galileo's book Two New Sciences)",
-  "wrong_idea": "People thought a thrown ball flies straight until the push of the throw is used up, and then drops straight down. Tartaglia argued that the path curves all the way. Galileo's experiments with balls rolled off a table showed it, and he proved the curve is a parabola."
+  "wrong_idea": "People thought a thrown ball flies straight until the push of the throw is used up, and then drops straight down. Tartaglia argued that the path curves all the way. Galileo's experiments with balls rolled off a table showed it, and he proved the curve is a parabola.",
+  "context": "What path does a thrown ball follow? This card tells the true story of thinkers who argued about it, and of the scientist who rolled balls down a slope."
  }
 }

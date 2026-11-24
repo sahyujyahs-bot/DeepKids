@@ -3714,14 +3714,24 @@
     "source": "Bhagavad Gita 3.14 to 3.16",
     "teaching": "Beings live on food, food comes from rain, and everything gives back to keep the great wheel turning. The Gita says that someone who only takes from the wheel and does not help it turn lives in vain.",
     "link": "The carbon cycle is a wheel like this. A leaf takes carbon dioxide from the air, and an animal gives carbon dioxide back. Nothing in the wheel only takes.",
-    "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।", "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।", "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।", "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।", "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।"],
+    "verse": [
+     "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।",
+     "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।",
+     "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।",
+     "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।",
+     "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।",
+     "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 12, Thiruvalluvar",
     "teaching": "Thiruvalluvar, the Tamil poet, wrote that rain makes the food for those who eat, and the rain is also itself a part of the food.",
     "link": "Water falls as rain, rises in a leaf, and goes back into the air. The rain is both what feeds the plant and a part of the plant.",
-    "verse": ["துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்", "துப்பாய தூஉம் மழை."],
+    "verse": [
+     "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்",
+     "துப்பாய தூஉம் மழை."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -3760,7 +3770,8 @@
   "story": "By the 1840s, people knew that green leaves give out oxygen in light. But which light works best? John William Draper reported that yellow light, which looks the brightest to our eyes, was the most effective. In 1882, a German scientist named Theodor Engelmann, who worked in Utrecht in the Netherlands, found a clever way to test this. He knew that some bacteria swim to where there is oxygen. He laid a long green thread of algae on a slide with these bacteria. Then he used a prism to throw a rainbow across the thread. The bacteria gathered in thick crowds at the red and the blue ends, and hardly any in the green. So red and blue light made the most oxygen, and yellow-green made little. Draper's idea was wrong. Our eyes like yellow-green, but chlorophyll does not. The bacteria had been used as tiny living meters.",
   "who": "Theodor Wilhelm Engelmann, a German scientist who worked in Utrecht (1843 to 1909)",
   "when": "1882",
-  "wrong_idea": "Draper and others reported that yellow light, the brightest to our eyes, was best for photosynthesis. Engelmann showed that red and blue light make the most oxygen, and green and yellow the least."
+  "wrong_idea": "Draper and others reported that yellow light, the brightest to our eyes, was best for photosynthesis. Engelmann showed that red and blue light make the most oxygen, and green and yellow the least.",
+  "context": "Which colour of light do plants use best? This card tells the true story of a scientist who tested it with tiny bacteria."
  },
  "playtest": "Read through as a parent and child in a city flat would use it, but not tried at home yet. Breath Colours: the colour change from a minute of breath is easy to see, but the difference between the jars after a day can be small. Use plenty of fresh leaves, fill the jars to the brim, and judge the jars side by side on white paper. Red cabbage water changes colour with the acidity of the tap water, so add a tiny pinch of baking soda if it starts out pink. Green Water: needs a week and a source of algae. A spoonful of pond or rain-bucket water helps. Cover the jars so mosquitoes cannot breed. Bubbles on the Glass: bubbles are small, so use a magnifier and white paper. Facts to verify: the Janaki Ammal dates, Engelmann's alga, and the pond oxygen numbers, which are practice numbers."
 }

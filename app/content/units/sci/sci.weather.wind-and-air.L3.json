@@ -3017,14 +3017,21 @@
     "source": "Chandogya Upanishad 4.3",
     "teaching": "In this teaching, the wind, Vayu, is called the gatherer. When a fire goes out, it goes into the wind. When the Sun sets, it goes into the wind. Within the body, the breath, prana, is the gatherer in the same way.",
     "link": "Wind does carry things from many places together. The air over the whole Earth is one body of air, and the wind carries warmth, water vapour, smoke and seeds from one place to another.",
-    "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"],
+    "verse": [
+     "वायुर्वाव संवर्गः",
+     "यदा वा अग्निरुद्वायति वायुमेवाप्येति",
+     "यदा सूर्योऽस्तमेति वायुमेवाप्येति",
+     "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between heaven and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more it brings forth.",
     "link": "A bellows draws air in when its sides open and make room. In the same way, wind flows in wherever warm air has risen and made room.",
-    "verse": ["天地之間，其猶橐籥乎？虛而不屈，動而愈出。"],
+    "verse": [
+     "天地之間，其猶橐籥乎？虛而不屈，動而愈出。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3064,6 +3071,7 @@
   "story": "For a long time, sailors knew the trade winds, steady winds that blow from the east over the warm seas near the equator. Galileo and Kepler, in the early 1600s, thought they knew why. The Earth spins towards the east, they said, and the air cannot keep up, so it is left behind as an east wind. In 1686, the English astronomer Edmond Halley collected sailors' reports of the winds from many oceans. He had felt the trade winds himself, on a voyage to the island of St Helena. He drew them on a map, one of the first weather maps ever made, and the map included the monsoons of the seas near India. The monsoon winds turn round with the seasons, but the Earth spins the same way all year. So the Earth's spin could not be the main cause. Halley said the Sun is the cause. Air over the hottest places is warmed and rises, and cooler air flows in to take its place. In 1735, George Hadley added the last piece. The spin does not make the winds, but it bends them once they move. That is why air flowing towards the equator arrives from the east.",
   "who": "Galileo Galilei and Johannes Kepler, who had the first idea, Edmond Halley, an English astronomer, and George Hadley, an English lawyer and scientist",
   "when": "Early 1600s (the spin idea), 1686 (Halley's map and paper) and 1735 (Hadley's paper)",
-  "wrong_idea": "Galileo and Kepler thought the trade winds were air left behind by the spinning Earth. Halley's map showed that winds such as the monsoon change with the seasons, which the spin alone cannot do, and that the Sun's heating drives them. Hadley then showed that the spin is still part of the story: it bends the winds as they flow."
+  "wrong_idea": "Galileo and Kepler thought the trade winds were air left behind by the spinning Earth. Halley's map showed that winds such as the monsoon change with the seasons, which the spin alone cannot do, and that the Sun's heating drives them. Hadley then showed that the spin is still part of the story: it bends the winds as they flow.",
+  "context": "Why do winds blow the way they do, like the steady winds that sailors use? This card tells the true story of scientists who tried to explain them and of the map that helped."
  }
 }

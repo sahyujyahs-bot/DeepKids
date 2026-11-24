@@ -3862,21 +3862,33 @@
     "source": "Chandogya Upanishad 5.10.5–6",
     "teaching": "The Upanishad describes a journey. One becomes air, then smoke, then mist, then a cloud. The cloud rains down, and one is born again as rice, barley, plants and trees.",
     "link": "The Upanishad is about what happens to a person after death, not about weather. But it pictures life travelling with water: from the sky, as rain, into plants. That is the path the water cycle really takes.",
-    "verse": ["वायुर्भूत्वा धूमो भवति", "धूमो भूत्वाभ्रं भवति", "अभ्रं भूत्वा मेघो भवति", "मेघो भूत्वा प्रवर्षति", "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"],
+    "verse": [
+     "वायुर्भूत्वा धूमो भवति",
+     "धूमो भूत्वाभ्रं भवति",
+     "अभ्रं भूत्वा मेघो भवति",
+     "मेघो भूत्वा प्रवर्षति",
+     "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker, about 2,500 years ago (Fragment 12, as numbered by the scholars Diels and Kranz)",
     "teaching": "As people step into the same rivers, different waters keep flowing past them.",
     "link": "A river keeps its name, but its water is always new. A cloud is the same: its drops keep drying up at the edges while new ones form.",
-    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse": [
+     "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Ecclesiastes 1:7, in the Hebrew Bible",
     "teaching": "All the rivers run into the sea, yet the sea is not full. The rivers go back to the place they came from, and flow again.",
     "link": "The writer had noticed the puzzle: rivers pour into the sea for ever, but it never overflows. The water cycle is the answer.",
-    "verse": ["כׇּל־הַנְּחָלִים הֹלְכִים אֶל־הַיָּם", "וְהַיָּם אֵינֶנּוּ מָלֵא", "אֶל־מְקוֹם שֶׁהַנְּחָלִים הֹלְכִים שָׁם הֵם שָׁבִים לָלָכֶת"],
+    "verse": [
+     "כׇּל־הַנְּחָלִים הֹלְכִים אֶל־הַיָּם",
+     "וְהַיָּם אֵינֶנּוּ מָלֵא",
+     "אֶל־מְקוֹם שֶׁהַנְּחָלִים הֹלְכִים שָׁם הֵם שָׁבִים לָלָכֶת"
+    ],
     "verse_lang": "he"
    }
   ],
@@ -3913,6 +3925,7 @@
   "story": "For about two thousand years, many learned people in Europe believed rain was far too little to keep rivers flowing all year. They thought sea water travelled through hidden passages under the mountains and came out as springs. In 1580, Bernard Palissy, a French potter who had never been to university, wrote that springs and rivers come only from rain soaking into the ground. Few scholars listened, because he had no measurements. About ninety years later, Pierre Perrault measured the rain falling on the land around the start of the river Seine for three years. He also worked out how much water the river carried. In 1674, he showed that the rain was about six times more than the river carried. Soon after, Edmond Halley measured how fast water evaporates from a warmed pan. He worked out that the Sun lifts enough water from the sea to make all the rain. Careful measuring, not arguing, settled the question.",
   "who": "Bernard Palissy, Pierre Perrault and Edmond Halley",
   "when": "1580 to 1687",
-  "wrong_idea": "Rivers and springs are fed by sea water rising through hidden passages under the mountains, because rain is far too little."
+  "wrong_idea": "Rivers and springs are fed by sea water rising through hidden passages under the mountains, because rain is far too little.",
+  "context": "Where does the water in rivers and springs come from? This card tells the true story of thinkers who measured the rain and found a surprising answer."
  }
 }

@@ -374,7 +374,8 @@
   "story": "For more than a thousand years, many thinkers believed we see by sending rays out of our eyes. The Greek mathematician Euclid wrote about seeing this way, around 300 BCE. About 2,000 years ago, Hero of Alexandria used the same idea to explain mirrors. He showed that a ray leaves a mirror at the same angle it arrives. But he thought the ray came from the eye. About 1,000 years ago, in Cairo, Ibn al-Haytham asked new questions. Why does looking at the Sun hurt your eyes? Why do you still see a bright patch after you look at a lamp? If rays only went out of the eye, light could not do this to it. So he said light travels from things into our eyes. He tested reflection with polished metal mirrors and narrow tubes that let through only a thin beam of light. He found the same rule: the angle in equals the angle out. He wrote it all in his Book of Optics, finished around 1021. Scholars in Europe translated it into Latin and studied it for hundreds of years.",
   "who": "Ibn al-Haytham, after Euclid and Hero of Alexandria",
   "when": "About 300 BCE to about 1021 CE",
-  "wrong_idea": "We see by sending rays out of our eyes. Ibn al-Haytham pointed out that bright light hurts the eyes and leaves a bright patch behind, which makes sense only if light comes into the eye."
+  "wrong_idea": "We see by sending rays out of our eyes. Ibn al-Haytham pointed out that bright light hurts the eyes and leaves a bright patch behind, which makes sense only if light comes into the eye.",
+  "context": "How do we see, and what do mirrors do with light? This card tells the true story of a scientist who gave a simple reason for why light must come into our eyes."
  },
  "big_questions": [
   {
@@ -3305,7 +3306,9 @@
     "source": "Zhuangzi, chapter 7",
     "teaching": "The wise person uses their mind like a mirror. It does not chase things or hold on to them. It shows whatever comes, and keeps nothing.",
     "link": "A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away.",
-    "verse": ["至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷。"],
+    "verse": [
+     "至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷。"
+    ],
     "verse_lang": "zh"
    },
    {

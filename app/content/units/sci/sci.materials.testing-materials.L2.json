@@ -225,7 +225,8 @@
   "who": "The Olmec, Maya and Aztec rubber makers; Charles Goodyear (1839); Dorothy Hosler, with Sandra Burkett and Michael Tarkanian (1999)",
   "when": "About 1600 BCE in Mexico; 1839; 1999",
   "wrong_idea": "That useful, lasting rubber was first made by Charles Goodyear in 1839. Hosler's team showed that the peoples of ancient Mexico had made it more than 3,000 years earlier, by mixing latex with morning glory juice.",
-  "art": "A woman scientist in a field in Mexico pouring white latex into a bowl of green vine juice, with an old-style rubber ball beside her."
+  "art": "A woman scientist in a field in Mexico pouring white latex into a bowl of green vine juice, with an old-style rubber ball beside her.",
+  "context": "Who first made rubber that lasts? This card tells the true story of scientists who studied how people in ancient Mexico did it."
  },
  "story": {
   "title": "The Band That Came Back",
@@ -2215,14 +2216,19 @@
     "source": "Tirukkural 423",
     "teaching": "Whatever you hear, and whoever says it, wisdom is seeing what is really true in it.",
     "link": "A shopkeeper may say a bag is the strongest. The Tirukkural, from Tamil Nadu, asks us to find out what is true. A fair test is one way to do that.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard and strong.",
     "link": "In the spot test, soft water found its way through paper and cloth by creeping into the tiny gaps. Only materials with no gaps kept it out.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    },
    {

@@ -2610,14 +2610,21 @@
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food.",
     "link": "Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this lesson teaches. The Upanishad then keeps going deeper, to breath, mind and joy.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker, as quoted by Plato in Cratylus 402a",
     "teaching": "You cannot step into the same river twice, because new water is always flowing in.",
     "link": "Your body is like the river. It looks the same each day, but water keeps flowing out of your skin and breath and new water flows in.",
-    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    },
    {
@@ -2658,7 +2665,8 @@
   "story": "Santorio Santorio was a doctor and a professor in Padua, in Italy. He wanted to measure the body, not only guess about it. So he hung a chair from a big balance and sat in it to eat his meals, watching the scale. For about thirty years he weighed himself, everything he ate and drank, and everything that came out of him as urine and stools. The numbers did not add up. The waste he could see weighed much less than the food and drink that went in, yet his own weight stayed about the same. So a large part must have been leaving his body where nobody could see it, through the skin and in the breath. In 1614 he published his results in a short book. He wrote that if a person takes in 8 pounds of food and drink in a day, about 5 pounds leave unseen. He called this insensible perspiration, meaning sweat that cannot be sensed. About 175 years later in Paris, Armand Seguin sat sealed in an airtight suit of varnished silk, breathing through a tube, while Antoine Lavoisier weighed him. His wife, Marie-Anne Lavoisier, took notes and drew the experiments. They showed that both the skin and the breath carry water out.",
   "who": "Santorio Santorio, a doctor in Padua, Italy, and later Antoine Lavoisier, Marie-Anne Lavoisier and Armand Seguin in Paris",
   "when": "1614 (Santorio's book Ars de statica medicina) and about 1790 (Lavoisier, Marie-Anne Lavoisier and Seguin)",
-  "wrong_idea": "Many people think the body loses water only in ways they can see or feel: urine, and sweat on a hot day. Santorio's scale showed that more of what he ate and drank left him unseen than left as all his visible waste together."
+  "wrong_idea": "Many people think the body loses water only in ways they can see or feel: urine, and sweat on a hot day. Santorio's scale showed that more of what he ate and drank left him unseen than left as all his visible waste together.",
+  "context": "Where does the water we drink go, when we see only a little of it leave our body? This card tells the true story of a doctor who weighed himself every day for many years."
  },
  "warm": {
   "words": [

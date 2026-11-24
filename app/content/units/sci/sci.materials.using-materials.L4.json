@@ -518,7 +518,8 @@
   "who": "Per-Ingvar Brånemark, a Swedish doctor, and the colleagues who tested titanium after him",
   "when": "About 1952, with the first uses in people in the 1960s",
   "wrong_idea": "That the body always walls off or pushes out metal placed inside it. In Brånemark's rabbit studies, bone grew so tightly onto titanium that the chambers could not be removed. This showed that the right material can join the body.",
-  "art": "A doctor in a 1950s laboratory in Sweden holding a tiny titanium chamber beside a microscope, with a rabbit's leg bone drawn in cross-section showing bone grown tightly around the metal."
+  "art": "A doctor in a 1950s laboratory in Sweden holding a tiny titanium chamber beside a microscope, with a rabbit's leg bone drawn in cross-section showing bone grown tightly around the metal.",
+  "context": "Does the body always push out a metal that is put inside it? This card tells the true story of a doctor in Sweden who studied bone and titanium."
  },
  "story": {
   "title": "The Bridge That Is Never Finished",
@@ -3718,21 +3719,31 @@
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6, an Indian text more than 2,500 years old",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay, since the different shapes are only names and the clay is the same. He says the same of gold and of iron.",
     "link": "A pot, a cup and a kullad are different shapes of one clay. When we choose a material, we choose the stuff. But what we make from it, and how we make it, decides what it is used for.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्", "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्", "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्",
+     "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्",
+     "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kabir, a poet-saint of the 15th century, in a well-known doha",
     "teaching": "The clay says to the potter, why do you trample me? One day I will trample you.",
     "link": "Everything made from the earth returns to the earth, including the potter. What happens after is part of what a thing is.",
-    "verse": ["माटी कहे कुम्हार से, तु क्या रौंदे मोय", "एक दिन ऐसा आएगा, मैं रौंदूंगी तोय"],
+    "verse": [
+     "माटी कहे कुम्हार से, तु क्या रौंदे मोय",
+     "एक दिन ऐसा आएगा, मैं रौंदूंगी तोय"
+    ],
     "verse_lang": "hi"
    },
    {
     "source": "Tao Te Ching, chapter 11, a Chinese text of about 2,300 years ago",
     "teaching": "Clay is shaped into a pot, but it is the empty space inside that makes the pot useful.",
     "link": "A pot is useful because of the empty space the clay makes, and not only because of the clay. In the same way, a bridge or a school bag is useful because of how it is shaped and joined, as well as the material it is made from.",
-    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    }
   ],

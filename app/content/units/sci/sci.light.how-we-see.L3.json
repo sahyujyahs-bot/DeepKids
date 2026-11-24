@@ -420,7 +420,8 @@
   "story": "For more than a thousand years, many thinkers believed that seeing starts in the eye. Euclid, about 2,300 years ago, drew rays going out of the eye in a cone. Ptolemy, and later the scholar al-Kindi in Baghdad, agreed. Then Ibn al-Haytham, working in Cairo, tested the idea and wrote the Book of Optics, finished around 1021. He set several lamps outside a small hole into a dark room. Each lamp made its own spot of light on the wall inside. When he covered one lamp, only its spot went out. So light travels in straight lines from each lamp to where it lands, and he argued that the same happens when light enters an eye. But nobody yet knew where in the eye the picture forms. In 1604, Johannes Kepler worked out that the eye bends the light into a small, upside-down picture on the retina. In 1619, Christoph Scheiner checked this. He peeled away the back of an animal's eye and saw the tiny upside-down picture himself.",
   "who": "Ibn al-Haytham, then Johannes Kepler and Christoph Scheiner",
   "when": "about 1021 (the Book of Optics), 1604 (Kepler) and 1619 (Scheiner)",
-  "wrong_idea": "Seeing starts in the eye: rays go out of the eye and touch what we see. The lamp test showed that light travels from things to where it lands, and the upside-down picture found on the retina showed where that light ends up."
+  "wrong_idea": "Seeing starts in the eye: rays go out of the eye and touch what we see. The lamp test showed that light travels from things to where it lands, and the upside-down picture found on the retina showed where that light ends up.",
+  "context": "How do we see? Does something go out of our eyes, or does light come in? This card tells the true story of thinkers who argued about it for more than a thousand years."
  },
  "big_questions": [
   {
@@ -3406,21 +3407,32 @@
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",
     "teaching": "King Janaka asks the sage Yajnavalkya: 'What light does a person live by?' 'The Sun,' says Yajnavalkya. 'And when the Sun has set?' 'The Moon.' 'And when the Moon has set?' 'Fire.' 'And when the fire has gone out?' 'Speech, a voice to follow.' 'And when all of these are gone?' 'Then the self is the person's own light.'",
     "link": "We have learned that eyes see only by light from outside, from the Sun, the Moon or a fire. The sage answers that when all of these are gone, a person still has their own awareness. It knows about seeing even in the dark.",
-    "verse": ["याज्ञवल्क्य किंज्योतिरयं पुरुष इति", "आदित्यज्योतिः सम्राडिति होवाच", "अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति", "चन्द्रमा एवास्य ज्योतिर्भवतीति", "आत्मैवास्य ज्योतिर्भवतीति"],
+    "verse": [
+     "याज्ञवल्क्य किंज्योतिरयं पुरुष इति",
+     "आदित्यज्योतिः सम्राडिति होवाच",
+     "अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति",
+     "चन्द्रमा एवास्य ज्योतिर्भवतीति",
+     "आत्मैवास्य ज्योतिर्भवतीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "It is the ear of the ear, the mind of the mind, and the eye of the eye.",
     "link": "The eye catches light, and the brain makes sense of it. But who, or what, is aware of the seeing? The Upanishad says there is something behind the eye that is aware. It calls this 'the eye of the eye'.",
-    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse": [
+     "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं",
+     "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Majjhima Nikaya 18, the Madhupindika Sutta",
     "teaching": "The Buddha's teaching, as told by his student Mahakaccana: when there is an eye and something to be seen, seeing arises. He calls this seeing eye-consciousness. The meeting of the three (the eye, the thing seen and the seeing) is called contact.",
     "link": "Seeing is not owned by the eye alone, or by the thing alone. It arises when they meet. Science adds one more thing they need: light. Take the light away, as in the dark box, and seeing does not arise.",
-    "verse": ["Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso"],
+    "verse": [
+     "Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso"
+    ],
     "verse_lang": "pi"
    }
   ],

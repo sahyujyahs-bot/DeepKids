@@ -2233,14 +2233,20 @@
     "source": "Tao Te Ching 76",
     "teaching": "When people are born, they are soft and bendy. When they die, they are stiff and hard. Plants are soft and full of sap while they live. When they die, they are dry and brittle.",
     "link": "We felt this in the Droopy Mint experiment. The living mint was soft, and stood up full of water. The dry tej patta was stiff and brittle, and water could not bring it back.",
-    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。",
+     "萬物草木之生也柔脆，其死也枯槁。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Tirukkural 322",
     "teaching": "Sharing your food and caring for all living beings is the best of all that the wise have taught.",
     "link": "Every living thing needs food and water. The Tirukkural, from Tamil Nadu, asks us to share them with all living beings, not only people.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2275,7 +2281,8 @@
   "story": "About 350 years ago, many people in Europe believed that some small animals were not born from parents. They thought caterpillars, flies and worms grew out of mud, rotting leaves or old meat. Maria Sibylla Merian was born in Frankfurt, in Germany, in 1647. When she was about 13, she began to keep caterpillars at home. She fed each one the leaves they liked and watched them every day. She saw butterflies lay tiny eggs on leaves. She saw caterpillars hatch from the eggs, eat and grow, and then turn into butterflies. She painted every step, with the plant each caterpillar ate. In 1679 she published a book of her paintings. Later, when she was 52, she sailed to Suriname in South America with her daughter Dorothea, and painted the insects and plants there. Her pictures showed clearly that a caterpillar comes from a butterfly's egg. Every living thing comes from another living thing.",
   "who": "Maria Sibylla Merian, a German painter and scientist, with her daughter Dorothea",
   "when": "1660 (when she began) to 1705 (her book on the insects of Suriname)",
-  "wrong_idea": "That small animals such as caterpillars, flies and worms grow by themselves out of mud, rotting leaves or old meat, without parents."
+  "wrong_idea": "That small animals such as caterpillars, flies and worms grow by themselves out of mud, rotting leaves or old meat, without parents.",
+  "context": "Where do caterpillars and flies come from? This card tells the true story of a painter and her daughter who raised them and watched."
  },
  "playtest": "Walked through every game, activity, experiment, project and the story as a parent and a six-year-old in a city flat would. Fixed: Mother and Baby cards now have clear, unambiguous backs (elephant and cow no longer both say calf), a tie rule, and who draws the cards; Wiggle, Sit or Statue no longer assumes a grandmother at home and says what happens when the cards run out; in the mint test the tej patta and paper leaf now lean in the cup so they can really be tried, the check answers agree with the steps, and the steel plate is chilled ahead; the sorting activity says how to make the plate labels; the mint-roots waits now fall on the right days; the snake challenge stays clear of calling a living snail by the wrong name; the tomato seed sum agrees with the activity; repeated questions were replaced."
 }

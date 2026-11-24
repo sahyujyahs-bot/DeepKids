@@ -2347,14 +2347,22 @@
     "source": "Samyutta Nikaya 5.10, the Vajira Sutta",
     "teaching": "Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts.",
     "link": "In this lesson, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.",
-    "verse": ["Yathā hi aṅgasambhārā,", "hoti saddo ratho iti;", "Evaṁ khandhesu santesu,", "hoti sattoti sammuti."],
+    "verse": [
+     "Yathā hi aṅgasambhārā,",
+     "hoti saddo ratho iti;",
+     "Evaṁ khandhesu santesu,",
+     "hoti sattoti sammuti."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 322",
     "teaching": "Thiruvalluvar, the Tamil poet, wrote that sharing your food and caring for the many kinds of living beings is the greatest of all teachings.",
     "link": "Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, with wet skin or dry, in water or in air, is a first step in caring for them.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2390,8 +2398,121 @@
   "who": "Carl Linnaeus, a Swedish scientist, and Alexandre Brongniart, a French scientist",
   "when": "Linnaeus sorted frogs and reptiles together in 1758. Brongniart split them apart in 1800.",
   "wrong_idea": "That frogs, toads, lizards, snakes, turtles and crocodiles all belong in one group. Looking closely at skin and at how the young grow up showed that frogs and toads are a different group.",
-  "art": "A man in old-fashioned clothes at a wooden desk with a magnifying glass, comparing a frog in one glass jar with a lizard in another."
+  "art": "A man in old-fashioned clothes at a wooden desk with a magnifying glass, comparing a frog in one glass jar with a lizard in another.",
+  "context": "Are frogs and toads the same kind of animal as lizards and snakes? This card tells the true story of scientists who looked closely at their skin and at how their young grow up."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Backbone Detective now has clear end rules for 2 and 4 players, and the finger chart names each finger. Bendy Backbone lost its repeat of the Find Your Own Backbone activity and got more time for cutting and threading, with a note on kinking straws. Removed repeated worksheet questions (one swapped for a new one that tests a common belief), one weak joke and family members from the picture notes. The standing-backbone challenge is hard, so it says an in-between result is a good one.",
- "warm": {"words": ["SCALE", "FROGS", "BIRDS", "GILLS", "SPINE"], "quiz": [["A river dolphin is a fish, because she lives in water and has fins.", false, "She breathes air, has no gills, and her baby drinks her milk. So she is a mammal."], ["A frog's baby, the tadpole, lives in water and breathes with gills.", true, "Tadpoles later grow legs and lungs, then live on land too."], ["A snake's skin is slimy and wet.", false, "Snake skin is dry. The shine comes from smooth scales; frogs have the damp skin."], ["Humans are mammals.", true, "We have hair, and mothers feed their babies milk."], ["Fish cannot feel pain.", false, "Scientists found pain-sensing nerves on the faces of trout, and fish show fear."], ["Your backbone is a chain of many small bones.", true, "Each small bone is a vertebra. Together they bend easily and still hold you up."], ["Every animal has a backbone.", false, "Vertebrates have one, but worms, insects and snails do not."], ["Every bird hatches from an egg with a hard shell.", true, "All birds lay hard-shelled eggs, so every baby bird starts life inside one."], ["A pangolin is covered in scales, so she must be a reptile.", false, "A pangolin mother feeds her baby milk, so she is a mammal. One clue is not enough."], ["A lizard breathes with lungs and has dry, scaly skin.", true, "Reptiles breathe air with lungs, and scales cover their dry skin."]], "odd": [[["Fish", "Frog", "Crow", "Earthworm"], "Earthworm", "Fish, frogs and crows have a backbone; an earthworm has none."], [["Cow", "Bat", "Dolphin", "Crow"], "Crow", "Cows, bats and dolphins are mammals whose mothers feed milk; a crow is a bird."], [["Lizard", "Snake", "Crocodile", "Frog"], "Frog", "Lizards, snakes and crocodiles have dry scales; a frog has smooth, damp skin."], [["Crow", "Peacock", "Parrot", "Bat"], "Bat", "Crows, peacocks and parrots have feathers; a bat has fur and is a mammal."], [["Rohu", "Tadpole", "Hilsa", "Cobra"], "Cobra", "Rohu, tadpoles and hilsa breathe with gills; a cobra breathes with lungs."]]}
+ "warm": {
+  "words": [
+   "SCALE",
+   "FROGS",
+   "BIRDS",
+   "GILLS",
+   "SPINE"
+  ],
+  "quiz": [
+   [
+    "A river dolphin is a fish, because she lives in water and has fins.",
+    false,
+    "She breathes air, has no gills, and her baby drinks her milk. So she is a mammal."
+   ],
+   [
+    "A frog's baby, the tadpole, lives in water and breathes with gills.",
+    true,
+    "Tadpoles later grow legs and lungs, then live on land too."
+   ],
+   [
+    "A snake's skin is slimy and wet.",
+    false,
+    "Snake skin is dry. The shine comes from smooth scales; frogs have the damp skin."
+   ],
+   [
+    "Humans are mammals.",
+    true,
+    "We have hair, and mothers feed their babies milk."
+   ],
+   [
+    "Fish cannot feel pain.",
+    false,
+    "Scientists found pain-sensing nerves on the faces of trout, and fish show fear."
+   ],
+   [
+    "Your backbone is a chain of many small bones.",
+    true,
+    "Each small bone is a vertebra. Together they bend easily and still hold you up."
+   ],
+   [
+    "Every animal has a backbone.",
+    false,
+    "Vertebrates have one, but worms, insects and snails do not."
+   ],
+   [
+    "Every bird hatches from an egg with a hard shell.",
+    true,
+    "All birds lay hard-shelled eggs, so every baby bird starts life inside one."
+   ],
+   [
+    "A pangolin is covered in scales, so she must be a reptile.",
+    false,
+    "A pangolin mother feeds her baby milk, so she is a mammal. One clue is not enough."
+   ],
+   [
+    "A lizard breathes with lungs and has dry, scaly skin.",
+    true,
+    "Reptiles breathe air with lungs, and scales cover their dry skin."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Fish",
+     "Frog",
+     "Crow",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "Fish, frogs and crows have a backbone; an earthworm has none."
+   ],
+   [
+    [
+     "Cow",
+     "Bat",
+     "Dolphin",
+     "Crow"
+    ],
+    "Crow",
+    "Cows, bats and dolphins are mammals whose mothers feed milk; a crow is a bird."
+   ],
+   [
+    [
+     "Lizard",
+     "Snake",
+     "Crocodile",
+     "Frog"
+    ],
+    "Frog",
+    "Lizards, snakes and crocodiles have dry scales; a frog has smooth, damp skin."
+   ],
+   [
+    [
+     "Crow",
+     "Peacock",
+     "Parrot",
+     "Bat"
+    ],
+    "Bat",
+    "Crows, peacocks and parrots have feathers; a bat has fur and is a mammal."
+   ],
+   [
+    [
+     "Rohu",
+     "Tadpole",
+     "Hilsa",
+     "Cobra"
+    ],
+    "Cobra",
+    "Rohu, tadpoles and hilsa breathe with gills; a cobra breathes with lungs."
+   ]
+  ]
+ }
 }

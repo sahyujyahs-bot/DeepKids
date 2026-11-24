@@ -1998,7 +1998,10 @@
     "source": "Maha Upanishad, chapter 6, verses 71 to 73",
     "teaching": "Only a small mind asks, 'Is this person mine, or a stranger?' For a big-hearted person, the whole world is one family: vasudhaiva kutumbakam.",
     "link": "Families come in many kinds, and people join them in many ways. Even the microbes on our skin move from person to person. So it is hard to say exactly where a family ends.",
-    "verse": ["अयं बन्धुरयं नेति गणना लघुचेतसाम्", "उदारचरितानां तु वसुधैव कुटुम्बकम्"],
+    "verse": [
+     "अयं बन्धुरयं नेति गणना लघुचेतसाम्",
+     "उदारचरितानां तु वसुधैव कुटुम्बकम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2038,8 +2041,121 @@
   "story": "For a long time, many scientists thought people had a poor sense of smell. In 1879, Paul Broca, a French doctor who studied the brain, said that humans smell poorly. He said the smell part of the human brain was small next to the rest of the brain. Most people believed this for over 100 years. Then scientists began to test real noses. In 1981, Richard Porter and John Moore in the United States asked children to wear plain T-shirts. Then their brothers, sisters and mothers sniffed the shirts. They could pick out their own family member's shirt by smell alone. In 1987, Marsha Kaitz and her team in Jerusalem tested new mothers. After less than an hour with their babies, nine out of ten mothers could pick out their own baby's shirt by smell. In 2017, the brain scientist John McGann wrote that the weak human nose is a myth. The smell part of the human brain has about as many nerve cells as the smell part in many other mammals.",
   "who": "Paul Broca, a French doctor (1879); Richard Porter and John Moore in the United States (1981); Marsha Kaitz and her team at the Hebrew University in Jerusalem (1987); John McGann, a brain scientist in the United States (2017)",
   "when": "1879 to 2017",
-  "wrong_idea": "People thought humans had a weak sense of smell, much weaker than other mammals. Tests showed that people can know their own family, and a mother her new baby, by smell alone."
+  "wrong_idea": "People thought humans had a weak sense of smell, much weaker than other mammals. Tests showed that people can know their own family, and a mother her new baby, by smell alone.",
+  "context": "Can people really tell who is in their family by smell? This card tells the true story of scientists who tested it."
  },
  "playtest": "Walked every game, experiment and activity as a parent and a Class 1 child in a flat. Earlier fixes kept: games and garlic test work with 2 people, real record lines, days and minutes agree. This pass: game blurb now says who reads the card; garlic test puts the grown-up first in the line; memory book has a sheet for the cover; shirt-test checks no longer claim success when a guess fails; unchecked 'many children' claims softened; adoption-law line made general; Malayali aunt word fixed; one repeated drawing question replaced; weak jokes replaced; names made family-neutral. Videos still need checked ids.",
- "warm": {"words": ["SMELL", "UNCLE", "ADOPT", "HOMES", "SHIRT"], "quiz": [["You can know your family by their smell.", true, "Every person has their own smell, and you learn the smells of the people you live with."], ["Only dogs can use smell. People cannot.", false, "People can tell their own family by smell, even with their eyes shut."], ["Tiny living beings on your skin help make your body smell.", true, "They feed on your sweat, and as they feed they make much of your smell."], ["A child who is adopted is not a real part of the family.", false, "An adopted child is the child of the new parents in every way, and is loved and cared for."], ["Families can be big or small, and every kind is a real family.", true, "A family is people who belong to each other and look after each other, whatever kind of family it is."], ["Your body smell comes only from the family you were born into.", false, "Food, soap, sweat and skin microbes change your smell, and people who live together share microbes."], ["People who live together share tiny living beings from their skin.", true, "They hug, hold hands and touch the same things, so the tiny living beings pass between them."], ["A family is only the people you are related to by birth.", false, "A family is people who belong to each other and look after each other, including adopted children."], ["A baby can know their family before they can talk.", true, "Smell helps a baby know their family long before they can see clearly or talk."], ["The tiny living beings on your skin are big enough to see easily.", false, "Microbes are far too small to see, but they are alive."]], "odd": [[["Microbe", "Ant", "Cow", "Shirt"], "Shirt", "The first three are living beings; a shirt is not alive."], [["Grandmother", "Aunt", "Cousin", "Teacher"], "Teacher", "The first three are relatives in a family; a teacher is not a relative."], [["Food", "Soap", "Sweat", "Eye colour"], "Eye colour", "The first three change how you smell; eye colour does not."], [["Hugging", "Holding hands", "Sharing a towel", "Waving from far away"], "Waving from far away", "The first three are touching, which passes skin microbes; waving from far away has no touch."], [["Born into it", "Adopted", "Married into it", "Lives next door"], "Lives next door", "The first three are ways of becoming part of a family; living next door is not."]]}
+ "warm": {
+  "words": [
+   "SMELL",
+   "UNCLE",
+   "ADOPT",
+   "HOMES",
+   "SHIRT"
+  ],
+  "quiz": [
+   [
+    "You can know your family by their smell.",
+    true,
+    "Every person has their own smell, and you learn the smells of the people you live with."
+   ],
+   [
+    "Only dogs can use smell. People cannot.",
+    false,
+    "People can tell their own family by smell, even with their eyes shut."
+   ],
+   [
+    "Tiny living beings on your skin help make your body smell.",
+    true,
+    "They feed on your sweat, and as they feed they make much of your smell."
+   ],
+   [
+    "A child who is adopted is not a real part of the family.",
+    false,
+    "An adopted child is the child of the new parents in every way, and is loved and cared for."
+   ],
+   [
+    "Families can be big or small, and every kind is a real family.",
+    true,
+    "A family is people who belong to each other and look after each other, whatever kind of family it is."
+   ],
+   [
+    "Your body smell comes only from the family you were born into.",
+    false,
+    "Food, soap, sweat and skin microbes change your smell, and people who live together share microbes."
+   ],
+   [
+    "People who live together share tiny living beings from their skin.",
+    true,
+    "They hug, hold hands and touch the same things, so the tiny living beings pass between them."
+   ],
+   [
+    "A family is only the people you are related to by birth.",
+    false,
+    "A family is people who belong to each other and look after each other, including adopted children."
+   ],
+   [
+    "A baby can know their family before they can talk.",
+    true,
+    "Smell helps a baby know their family long before they can see clearly or talk."
+   ],
+   [
+    "The tiny living beings on your skin are big enough to see easily.",
+    false,
+    "Microbes are far too small to see, but they are alive."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Microbe",
+     "Ant",
+     "Cow",
+     "Shirt"
+    ],
+    "Shirt",
+    "The first three are living beings; a shirt is not alive."
+   ],
+   [
+    [
+     "Grandmother",
+     "Aunt",
+     "Cousin",
+     "Teacher"
+    ],
+    "Teacher",
+    "The first three are relatives in a family; a teacher is not a relative."
+   ],
+   [
+    [
+     "Food",
+     "Soap",
+     "Sweat",
+     "Eye colour"
+    ],
+    "Eye colour",
+    "The first three change how you smell; eye colour does not."
+   ],
+   [
+    [
+     "Hugging",
+     "Holding hands",
+     "Sharing a towel",
+     "Waving from far away"
+    ],
+    "Waving from far away",
+    "The first three are touching, which passes skin microbes; waving from far away has no touch."
+   ],
+   [
+    [
+     "Born into it",
+     "Adopted",
+     "Married into it",
+     "Lives next door"
+    ],
+    "Lives next door",
+    "The first three are ways of becoming part of a family; living next door is not."
+   ]
+  ]
+ }
 }

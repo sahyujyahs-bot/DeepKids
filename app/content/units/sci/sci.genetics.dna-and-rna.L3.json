@@ -2663,7 +2663,8 @@
   "science": [
    "Miescher, 1871, Hoppe-Seyler's Medizinisch-chemische Untersuchungen (nuclein, work done 1869 in Tübingen)",
    "Avery, MacLeod and McCarty, Journal of Experimental Medicine 79, 1944 (DNA as the transforming principle)",
-   "Hershey and Chase, Journal of General Physiology 36, 1952 (DNA, not protein, enters the bacterium)", "Franklin and Gosling, Nature 171, 1953 (X-ray pictures of DNA, published beside Watson and Crick's paper); Nobel Prize in Physiology or Medicine 1962 (Crick, Watson, Wilkins)",
+   "Hershey and Chase, Journal of General Physiology 36, 1952 (DNA, not protein, enters the bacterium)",
+   "Franklin and Gosling, Nature 171, 1953 (X-ray pictures of DNA, published beside Watson and Crick's paper); Nobel Prize in Physiology or Medicine 1962 (Crick, Watson, Wilkins)",
    "Nobel Prize in Physiology or Medicine 1969 (Delbrück, Hershey, Luria); Nobel Prize in Physiology or Medicine 1968 (Holley, Khorana, Nirenberg, the genetic code); Nobel Prize in Chemistry 2009 (Ramakrishnan, Steitz, Yonath, the ribosome): nobelprize.org facts pages",
    "Human genome size about 3.1 billion base pairs; onion (Allium cepa) about 16 billion: Royal Botanic Gardens Kew Plant DNA C-values database",
    "Goeddel and others, PNAS 76, 1979 (human insulin made in bacteria); approved for use in 1982"
@@ -2687,14 +2688,20 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that finest part, which you cannot see, this great banyan tree grows.'",
     "link": "Inside a seed so small that you can see nothing in it, there is the plan for a whole tree. Today we know part of what is there: DNA, far too thin to see, in every cell of the seed.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 7.10",
     "teaching": "Krishna says: know me as the eternal seed of all beings.",
     "link": "Every living thing grows from a seed or a cell that carries instructions copied from the living things before. The Gita speaks of one eternal seed behind all living beings.",
-    "verse": ["बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।", "बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।"],
+    "verse": [
+     "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।",
+     "बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2735,7 +2742,120 @@
   "story": "In 1869 Friedrich Miescher, a young Swiss doctor working in Tübingen, Germany, washed white blood cells off used hospital bandages. From the nucleus of these cells he got a new substance, which he called nuclein. Today we call it DNA. For the next 70 years, most scientists thought nuclein was too simple to matter. The chemist Phoebus Levene showed it was made of only four kinds of small parts, and many took this to mean it was a dull, repeating chain. Proteins, with 20 kinds of parts, seemed far better for holding instructions. In 1944, Oswald Avery, Colin MacLeod and Maclyn McCarty in New York gave harmless bacteria a liquid from dead, harmful ones. The harmless bacteria became harmful. When the scientists destroyed the protein in the liquid, the liquid still worked. When they destroyed the DNA, it stopped working. Many scientists still doubted. Then in 1952, Alfred Hershey and Martha Chase, his 24-year-old assistant, marked the DNA and the protein of a virus with different radioactive atoms. Only the DNA went inside the bacteria the virus attacked, and new viruses were built from that DNA. DNA carried the instructions. Hershey later shared a Nobel Prize. Chase did not. In 1953, James Watson and Francis Crick worked out the shape of DNA, a twisted ladder. They used X-ray pictures made by Rosalind Franklin and her student Raymond Gosling. Franklin died in 1958, before the 1962 Nobel Prize that went to Watson, Crick and Maurice Wilkins.",
   "who": "Friedrich Miescher, Phoebus Levene, Oswald Avery, Colin MacLeod, Maclyn McCarty, Alfred Hershey and Martha Chase; later Rosalind Franklin and Raymond Gosling, with James Watson and Francis Crick",
   "when": "1869 (Miescher finds DNA), 1944 (Avery's team), 1952 (Hershey and Chase), 1953 (the shape of DNA)",
-  "wrong_idea": "For about 70 years most scientists thought DNA, with only four letters, was too simple to carry instructions, and that proteins must carry them. Avery's bacteria and Hershey and Chase's viruses showed that DNA, not protein, passes the instructions on."
+  "wrong_idea": "For about 70 years most scientists thought DNA, with only four letters, was too simple to carry instructions, and that proteins must carry them. Avery's bacteria and Hershey and Chase's viruses showed that DNA, not protein, passes the instructions on.",
+  "context": "What carries the instructions that make a living thing, DNA or protein? This card tells the true story of scientists who spent many years finding out."
  },
- "warm": {"words": ["GENES", "CELLS", "SEEDS", "PLANT", "CODES"], "quiz": [["Almost every cell in your body has the same complete DNA.", true, "Each kind of cell uses a different set of the same genes, so cells look and work differently."], ["A child gets all of their DNA from their mother.", false, "A child gets half of their DNA from the mother and half from the father."], ["Moong seeds grown in the dark can look different from moong seeds grown in light.", true, "Surroundings shape living things along with their DNA, so the same seeds can grow differently."], ["Features pass from parents to children through the blood.", false, "Features pass on through the DNA in the egg and sperm. Red blood cells have no DNA."], ["A cell makes an RNA copy of a gene, and the DNA stays in the nucleus.", true, "The DNA stays safe in its place while the short RNA copy is carried out and read."], ["Your DNA decides everything about you, and your surroundings do not matter.", false, "Both DNA and surroundings shape every living thing, as moong seeds in light and dark show."], ["Every living thing with cells uses the same four DNA letters.", true, "All known cells use A, T, C and G, with almost the same code for making proteins."], ["One gene holds the instructions for building a whole body.", false, "A gene is one stretch of DNA for one job, usually one protein. A body needs thousands of genes."], ["The order of the letters along a DNA chain holds the instructions.", true, "Four letters in a very long line make a code, and their order tells the cell what to build."], ["Proteins, not DNA, are what parents pass on to their young.", false, "DNA is passed on, and cells use its instructions to build proteins."]], "odd": [[["Eye colour", "Hair type", "Blood group", "A scar on your knee"], "A scar on your knee", "The first three are passed on through DNA from parents, but a scar comes from an injury."], [["Nucleus", "Chromosome", "Gene", "Cell wall"], "Cell wall", "The first three hold or are made of DNA, but a cell wall does not hold DNA."], [["Tan from the sun", "Strong muscles from play", "Pale seedling kept in the dark", "Your DNA letters"], "Your DNA letters", "The first three change with surroundings, but the DNA letters you were born with stay the same."], [["Skin cell", "Bone cell", "Muscle cell", "Red blood cell"], "Red blood cell", "The first three have DNA inside them, but red blood cells have no DNA at all."], [["Mustard plant", "Cow", "Banyan tree", "Flu virus"], "Flu virus", "The first three keep their instructions in DNA, but the flu virus keeps them in RNA."]]}
+ "warm": {
+  "words": [
+   "GENES",
+   "CELLS",
+   "SEEDS",
+   "PLANT",
+   "CODES"
+  ],
+  "quiz": [
+   [
+    "Almost every cell in your body has the same complete DNA.",
+    true,
+    "Each kind of cell uses a different set of the same genes, so cells look and work differently."
+   ],
+   [
+    "A child gets all of their DNA from their mother.",
+    false,
+    "A child gets half of their DNA from the mother and half from the father."
+   ],
+   [
+    "Moong seeds grown in the dark can look different from moong seeds grown in light.",
+    true,
+    "Surroundings shape living things along with their DNA, so the same seeds can grow differently."
+   ],
+   [
+    "Features pass from parents to children through the blood.",
+    false,
+    "Features pass on through the DNA in the egg and sperm. Red blood cells have no DNA."
+   ],
+   [
+    "A cell makes an RNA copy of a gene, and the DNA stays in the nucleus.",
+    true,
+    "The DNA stays safe in its place while the short RNA copy is carried out and read."
+   ],
+   [
+    "Your DNA decides everything about you, and your surroundings do not matter.",
+    false,
+    "Both DNA and surroundings shape every living thing, as moong seeds in light and dark show."
+   ],
+   [
+    "Every living thing with cells uses the same four DNA letters.",
+    true,
+    "All known cells use A, T, C and G, with almost the same code for making proteins."
+   ],
+   [
+    "One gene holds the instructions for building a whole body.",
+    false,
+    "A gene is one stretch of DNA for one job, usually one protein. A body needs thousands of genes."
+   ],
+   [
+    "The order of the letters along a DNA chain holds the instructions.",
+    true,
+    "Four letters in a very long line make a code, and their order tells the cell what to build."
+   ],
+   [
+    "Proteins, not DNA, are what parents pass on to their young.",
+    false,
+    "DNA is passed on, and cells use its instructions to build proteins."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Eye colour",
+     "Hair type",
+     "Blood group",
+     "A scar on your knee"
+    ],
+    "A scar on your knee",
+    "The first three are passed on through DNA from parents, but a scar comes from an injury."
+   ],
+   [
+    [
+     "Nucleus",
+     "Chromosome",
+     "Gene",
+     "Cell wall"
+    ],
+    "Cell wall",
+    "The first three hold or are made of DNA, but a cell wall does not hold DNA."
+   ],
+   [
+    [
+     "Tan from the sun",
+     "Strong muscles from play",
+     "Pale seedling kept in the dark",
+     "Your DNA letters"
+    ],
+    "Your DNA letters",
+    "The first three change with surroundings, but the DNA letters you were born with stay the same."
+   ],
+   [
+    [
+     "Skin cell",
+     "Bone cell",
+     "Muscle cell",
+     "Red blood cell"
+    ],
+    "Red blood cell",
+    "The first three have DNA inside them, but red blood cells have no DNA at all."
+   ],
+   [
+    [
+     "Mustard plant",
+     "Cow",
+     "Banyan tree",
+     "Flu virus"
+    ],
+    "Flu virus",
+    "The first three keep their instructions in DNA, but the flu virus keeps them in RNA."
+   ]
+  ]
+ }
 }

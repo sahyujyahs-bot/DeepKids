@@ -3424,21 +3424,34 @@
     "source": "Zhuangzi, chapter 2",
     "teaching": "Zhuang Zhou dreamed that he was a butterfly, happily flying about. He did not know that he was Zhou. When he woke, he was Zhou again. He did not know whether he was Zhou who had dreamed of being a butterfly, or a butterfly now dreaming that he was Zhou.",
     "link": "Two readings of one life both fit, as the two cubes fit one drawing. Zhuangzi leaves the question open and does not pick a reading, which is a hard thing for a brain to do.",
-    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？"],
+    "verse": [
+     "昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。",
+     "俄然覺，則蘧蘧然周也。",
+     "不知周之夢爲胡蝶與？",
+     "胡蝶之夢爲周與？"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn asks where everything came from, and ends by saying that the one who watches over it from the highest heaven surely knows, or perhaps even he does not know.",
     "link": "The hymn ends with a maybe, which the brain never shows us in what we see. It lets a question stay open instead of closing it with one reading.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Plato, Republic, Book 7, 514a to 517a",
     "teaching": "Prisoners in a cave, who have only ever seen shadows on a wall, take the shadows for the real things. One prisoner is freed and sees the brighter world outside. He comes back to tell the others, and they do not believe him.",
     "link": "A reading can feel like the whole truth because it is the only one we have. Tests, such as the tray and the cube, are ways to step out of one reading and see how it was made.",
-    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.", "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"],
+    "verse": [
+     "ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει",
+     "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;",
+     "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.",
+     "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3478,6 +3491,7 @@
   "story": "For a long time, many people thought the eye worked like a camera, so that anything drawn the same way would always look the same. In 1832, a Swiss crystal expert named Louis Albert Necker was studying drawings of crystals. He noticed something odd. A drawing of a simple crystal sometimes seemed to turn inside out by itself, with the front corner suddenly becoming the back. He wrote to a science magazine to say that the drawing had not changed and he had not moved. Only what he saw had changed. Later in the same century, the German scientist Hermann von Helmholtz suggested that the brain draws conclusions from the light it receives, without our noticing. He called this unconscious inference. Over the next 150 years, tests showed this again and again, from drawings that flip, to people who miss a gorilla walking across a screen. The cube drawing is still called the Necker cube.",
   "who": "Louis Albert Necker, a Swiss crystal expert (1786 to 1861), and Hermann von Helmholtz, a German scientist (1821 to 1894)",
   "when": "1832 and the 1860s",
-  "wrong_idea": "The idea that the eye works like a camera, so that a drawing always looks the same. Necker showed that one unchanging drawing can look different from moment to moment."
+  "wrong_idea": "The idea that the eye works like a camera, so that a drawing always looks the same. Necker showed that one unchanging drawing can look different from moment to moment.",
+  "context": "Does one drawing always look the same to us? This card tells the true story of a scientist who found a drawing that changed as he looked at it."
  }
 }

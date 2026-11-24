@@ -2513,14 +2513,20 @@
     "source": "Mundaka Upanishad 3.1.6, the line written under India's emblem",
     "teaching": "Truth alone wins, not falsehood. (Satyameva jayate nanritam.)",
     "link": "For years the records said Sariska had tigers. Only careful checking, and finally searching for the tigers themselves, showed the truth: there were none. Because the truth was found, tigers could be brought back.",
-    "verse": ["सत्यमेव जयते नानृतं", "सत्येन पन्था विततो देवयानः"],
+    "verse": [
+     "सत्यमेव जयते नानृतं",
+     "सत्येन पन्था विततो देवयानः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 423, by Thiruvalluvar, in Tamil",
     "teaching": "Whatever you hear, from whoever says it, wisdom is to see the truth in it.",
     "link": "Many books and many people said hockey was the official national game. A schoolgirl did not just accept it. She asked the people who would know, and found it was not true.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2565,7 +2571,8 @@
   "story": "From the 1970s, India counted its tigers by their pugmarks. Forest staff traced prints on glass or made plaster casts, and decided which prints came from the same tiger. People believed every tiger's pugmark was different enough to tell them apart. In the early 1990s, the Indian scientist K. Ullas Karanth began studying tigers in Nagarahole, Karnataka, with camera traps. Each photo showed a tiger's stripes, which are different on every tiger and never change. He argued that pugmarks could not tell tigers apart reliably, because the same paw leaves different prints on different ground. Many officials disagreed. Then, in 2004 and 2005, scientists searched Sariska Tiger Reserve in Rajasthan and found no tigers at all, though the official records had still counted tigers there. The government set up a Tiger Task Force, led by the environment scientist Sunita Narain. Since 2006, India has counted its tigers with camera traps. Tigers were brought back to Sariska from Ranthambore, starting in 2008.",
   "who": "K. Ullas Karanth, a wildlife scientist in Karnataka, and the Tiger Task Force led by Sunita Narain",
   "when": "Camera-trap studies from the early 1990s; Sariska found empty in 2004 and 2005; camera-trap counts across India from 2006",
-  "wrong_idea": "People thought each tiger's pugmark was different enough to count tigers by footprints alone. But one tiger leaves different prints on different ground, and the empty forest at Sariska showed that the footprint counts could be badly wrong. Stripes photographed by camera traps now tell each tiger apart."
+  "wrong_idea": "People thought each tiger's pugmark was different enough to count tigers by footprints alone. But one tiger leaves different prints on different ground, and the empty forest at Sariska showed that the footprint counts could be badly wrong. Stripes photographed by camera traps now tell each tiger apart.",
+  "context": "How can we count the tigers of India? This card tells the true story of scientists who found that counting pugmarks does not work."
  },
  "warm": {
   "words": [

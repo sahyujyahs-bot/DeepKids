@@ -450,21 +450,32 @@
     "source": "Rig Veda 1.164.46",
     "teaching": "Truth is one. The wise speak of it in many ways.",
     "link": "Two eyes, or two points in the Earth's orbit, see one star in slightly different places. Putting the views together gives the one distance.",
-    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse": [
+     "इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।",
+     "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4 (the story of the blind men and the elephant)",
     "teaching": "Blind men each touched a different part of an elephant. One said it was like a pot, one like a fan, one like a plough. They began to quarrel, each sure that the others were wrong.",
     "link": "Each view was true of one part. The Jump of Your Thumb experiment shows that the difference between two views is useful, and that the whole picture is built from several views.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 423",
     "teaching": "Whatever the thing, whoever says it, to see the truth in it is wisdom.",
     "link": "In the Jump of Your Thumb experiment, the second eye does not contradict the first. It adds what the first could not show.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -3122,7 +3133,8 @@
   "story": "For about 2,000 years, careful thinkers said that the Earth could not be moving. Their reason was a good one. If the Earth went round the Sun, they said, the nearer stars should seem to shift against the farther ones during the year, just as your thumb jumps when you swap eyes. Nobody could see any shift. In the 1500s the Danish astronomer Tycho Brahe, who measured the stars more exactly than anyone before the telescope, used this as strong evidence that the Earth stands still. The followers of Copernicus replied that the stars must be too far away for the shift to show. It sounded like an excuse. Then in 1838 a German astronomer, Friedrich Bessel, watched a faint star called 61 Cygni for more than a year with a very precise instrument. He found a shift smaller than the width of a coin seen from about 16 kilometres away. It showed that the Earth moves, and that the star was about 11 light-years away.",
   "who": "Friedrich Bessel, a German astronomer, answering an argument made by Tycho Brahe",
   "when": "1838",
-  "wrong_idea": "If the Earth moved, the nearer stars would seem to shift during the year. No shift had been seen, so the Earth must stand still. The stars are in fact far more distant than anyone had guessed, so the shift is too small to see by eye, and was found only in 1838."
+  "wrong_idea": "If the Earth moved, the nearer stars would seem to shift during the year. No shift had been seen, so the Earth must stand still. The stars are in fact far more distant than anyone had guessed, so the shift is too small to see by eye, and was found only in 1838.",
+  "context": "How far away is a star, and does the Earth really move? This card tells the true story of an astronomer who measured the tiny shift of a star."
  },
  "playtest": "Walked through as a parent and child in a city flat would use it, but not yet tried at home. The Jump of Your Thumb needs a bare wall and 3 metres of floor. With a 1.5 metre wall strip and the child standing on a marked spot, the pencil's jump comes out near 60, 28 and 11 centimetres for 25, 50 and 100 centimetres, but eyes differ, so the step tells the parent to look for the pattern rather than the numbers. It is the one real investigation in the spine and works indoors by day. Ball, Straw and Far Star works with any ball and a star on the wall, but the angles are hard to read exactly, so the step says that numbers may be 5 degrees out and asks for the pattern. The Turning Sky, the Pole Star Height and the Dhruva's Clock diary need a clear evening sky with a view to the east or west, or to the north, and they are not in the spine. In the south of India the Pole Star is low and can be hidden by haze or buildings, so the steps give Stellarium Web as the fallback. The Twinkle and Colour activity uses a hot tawa and a flame, so a grown-up does all the heating and the child sits back. The Year in a Room cards give the star group highest at midnight in each month, which is correct to about a month because the groups are large. Facts a reader should check before publishing: the exact distances of Polaris, the 1976 Hokule'a details, the words of the Udana, Rig Veda and Tirukkural lines, the claim about Lascaux, and the dates of the Great Trigonometrical Survey. The spine is the intro, the thumb experiment, the ball and straw model, the explanations, roots and the quiz, about 95 minutes over two sessions."
 }

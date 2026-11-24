@@ -198,7 +198,8 @@
   "who": "Patsy Sherman and Sam Smith, chemists at the 3M company in the USA, and Joan Mullan, the lab assistant whose shoe was splashed",
   "when": "1953; sold from 1956; the old recipe was stopped from 2000",
   "wrong_idea": "That a mixture which failed at its job was useless. The splashed shoe showed it was the wrong material for a fuel pipe and the right one for keeping cloth clean.",
-  "art": "A woman chemist in a 1950s lab looking closely at a canvas tennis shoe with one clean, bright spot on a dirty toe, while water drops roll off the spot."
+  "art": "A woman chemist in a 1950s lab looking closely at a canvas tennis shoe with one clean, bright spot on a dirty toe, while water drops roll off the spot.",
+  "context": "Can a mixture that failed at one job be useful for another? This card tells the true story of two chemists and an assistant who spilled something on a shoe."
  },
  "story": {
   "title": "The Tray That Would Not Sit Still",
@@ -2000,14 +2001,19 @@
     "source": "Plato, Republic, Book 1 (352e to 353a)",
     "teaching": "Socrates says you could cut a vine branch with a dagger or a kitchen knife. But nothing cuts it as well as a pruning knife, made for that job.",
     "link": "Socrates says a tool is best when it is made for the job. You chose rubber for the tray mat in the same way.",
-    "verse": ["τί δέ; μαχαίρᾳ ἂν ἀμπέλου κλῆμα ἀποτέμοις καὶ σμίλῃ καὶ ἄλλοις πολλοῖς;", "ἀλλ’ οὐδενί γ’ ἂν οἶμαι οὕτω καλῶς ὡς δρεπάνῳ τῷ ἐπὶ τούτῳ ἐργασθέντι."],
+    "verse": [
+     "τί δέ; μαχαίρᾳ ἂν ἀμπέλου κλῆμα ἀποτέμοις καὶ σμίλῃ καὶ ἄλλοις πολλοῖς;",
+     "ἀλλ’ οὐδενί γ’ ἂν οἶμαι οὕτω καλῶς ὡς δρεπάνῳ τῷ ἐπὶ τούτῳ ἐργασθέντι."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Zhuangzi, chapter 4 (In the World of Men), the carpenter and the oak at the shrine",
     "teaching": "A carpenter passed a huge oak and called the tree useless. Boats from their wood would sink, and doors would ooze sap. That night the oak spoke to him in a dream. Being useless to carpenters, the oak said, was what had let them grow so old and so great.",
     "link": "The oak's wood was wrong for the carpenter's jobs and right for the oak's own long life. Useful always means useful for someone's job.",
-    "verse": ["散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"],
+    "verse": [
+     "散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"
+    ],
     "verse_lang": "zh"
    }
   ],

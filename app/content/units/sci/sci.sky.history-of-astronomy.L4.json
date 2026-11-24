@@ -517,7 +517,10 @@
     "source": "Isha Upanishad, verse 5",
     "teaching": "The verse speaks of the One as moving and not moving, as far and as near, as inside everything and outside everything.",
     "link": "Whether the Sun moves or the Earth moves depends on where you stand. A thing can be said to move and not to move at the same time, depending on what you compare it with.",
-    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse": [
+     "तदेजति तन्नैजति तद्दूरे तद्वन्तिके",
+     "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3532,7 +3535,8 @@
   "story": "For about 2,000 years, nearly every astronomer believed that the planets must move in perfect circles, because the circle seemed the perfect shape for the heavens. Ptolemy used circles, and so did Copernicus. Tycho Brahe, a Danish nobleman, spent twenty years measuring the places of planets with huge brass instruments, to about one arcminute, before any telescope existed. After Tycho died in 1601, Johannes Kepler used his readings of Mars. For years he tried one circle after another. At last he found one that matched Tycho's readings to within 8 arcminutes. That is about a quarter of the width of the Moon in the sky. Kepler knew that Tycho's readings were never wrong by that much. He wrote that he could not ignore those 8 arcminutes. He threw out his circle. Then he tried an oval, and it fitted. In 1609 he published his result: Mars goes round the Sun on an ellipse, with the Sun at one of its two foci.",
   "who": "Johannes Kepler, a German astronomer (1571 to 1630), using the readings of Tycho Brahe, a Danish astronomer (1546 to 1601)",
   "when": "About 1600 to 1609",
-  "wrong_idea": "Astronomers believed for 2,000 years that planets must move on perfect circles. Kepler showed that a circle misses the real readings by 8 arcminutes, and that the path is an ellipse."
+  "wrong_idea": "Astronomers believed for 2,000 years that planets must move on perfect circles. Kepler showed that a circle misses the real readings by 8 arcminutes, and that the path is an ellipse.",
+  "context": "What path does a planet follow round the Sun? This card tells the true story of an astronomer who worked it out from another astronomer's careful readings."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Spinning Chair needs a chair that turns smoothly and a quiet room, and the results will be near chance for many children, which is part of the lesson. If there is no swivel chair, a stool on a thick cloth on a smooth floor can be turned by a grown-up. Galileo's Venus needs a dark evening room and a bright LED, and works well because a ball that stays in front of the lamp can only show a crescent. The quadrant readings depend on a steady stand and a clear sticker. The sundial needs a sunny day, a phone compass and some patience, and the shadow may fall on the back face in winter, which is why both faces are marked. The turntable pendulum needs a fine thread and a swivel, and may not be perfect, since the swing can drift. Facts for a grown-up to check: Mariam al-Asturlabi's dates, the dates of the Jantar Mantars, Ulugh Beg's star count, the Venus distances and the 11 degrees an hour at Paris."
 }

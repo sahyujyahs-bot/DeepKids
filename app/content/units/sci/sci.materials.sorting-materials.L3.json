@@ -773,21 +773,32 @@
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
     "teaching": "Uddalaka teaches his son Shvetaketu. By knowing one lump of clay, you know everything made of clay. A pot and a plate differ only in name and shape. In the same way, by knowing one piece of a metal, you know all the ornaments made of it. By knowing one piece of iron, you know all things made of iron.",
     "link": "This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्", "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्", "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्",
+     "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्",
+     "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4 (the Tittha Sutta) in the Pali Canon",
     "teaching": "Blind men each touch a different part of an elephant and each describes a different animal. Each is right about the part he touched and wrong about the whole.",
     "link": "Each sorting rule touches one part of a thing. Hard or soft, shiny or dull and metal or not all tell something true. No single rule tells the whole.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be spoken is not the eternal way. The name that can be named is not the eternal name.",
     "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists gave egg-laying mammals their own group, the monotremes.",
-    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse": [
+     "道可道，非常道，名可名，非常名。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -4291,7 +4302,8 @@
   "who": "Dan Shechtman (1982), with Ilan Blech, Denis Gratias and John Cahn, who published the result with him in 1984",
   "when": "1982 to 1992",
   "wrong_idea": "That every solid with ordered atoms has a pattern that repeats. Shechtman's metal had an ordered pattern with five-fold symmetry, which no repeating pattern can have. Other laboratories made it too, so the rule for what counts as a crystal had to change.",
-  "art": "A scientist at an electron microscope in a 1980s laboratory, looking at a picture of spots arranged in a ten-pointed ring, with a notebook open beside him."
+  "art": "A scientist at an electron microscope in a 1980s laboratory, looking at a picture of spots arranged in a ten-pointed ring, with a notebook open beside him.",
+  "context": "Can a rule for sorting solid things be broken by a new discovery? This card tells the true story of a scientist who found a metal that did not fit any group."
  },
  "playtest": "Walked the unit as a family would. Both games were written out piece by piece: Rule Detective has 24 thing cards, 12 rule cards, 2 mats and 30 tokens, and I played it in my head with 2 and with 4 players, adding who judges a guess, where the tokens sit and what 2 players do. Find the Missing Card now has a 12-square mat and a 3-line guess sheet in place of three bare rows, explains the bounce number, says to colour the borders, and lets the Keeper hide different cards each game (the first game keeps Zib 6, 7 and 12 so the parent's answers hold). Followed every experiment, activity, project and challenge step by step and added up the minutes (all agree). Fixes: the museum project and key test no longer ask a child to find a thing they hid themselves; the thin-steel ringing times and the foil container fingernail test are marked as doubtful; the bead-and-chana split in the jar challenge says honestly that it may not work; the Star Sorter sky-watching step is marked optional; the magnet-and-phones warning was dropped. Removed buy plan notes, a link with no address, one non-joke (9 jokes left), four repeated worksheet questions (library, sound-looks fill, rock-in-pile, twenty questions) and replaced them with new ones (shiny does not mean hard, Newlands and Mendeleev, ice and steam) so each sheet keeps 15 items, two repeated ask-kids questions, and made the ask-kids lines say what they point to. Quiz question 8 now tests choosing a good first question instead of repeating the doubling sum. Regional swaps: kal uppu, dosa, Assam, Nilgiris and Kodagu examples. Left alone: the sources list and video check notes (the app does not show them), the Carroll-table and Floor Venn numbers (they add up), and the story."
 }

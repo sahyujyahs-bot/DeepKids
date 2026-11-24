@@ -3061,7 +3061,8 @@
   "who": "Torbern Bergman in Sweden, Claude-Louis Berthollet and Joseph Proust from France, and Cato Guldberg and Peter Waage in Norway",
   "when": "Bergman's tables came out in 1775. Berthollet was in Egypt from 1798 to 1799, and published in 1801 and 1803. Guldberg and Waage published in 1864.",
   "wrong_idea": "That each substance has fixed likes, so a swapping reaction can go only one way. Berthollet saw the same swap running backwards at the Natron Lakes, where one substance was present in a huge amount.",
-  "art": "A man in late eighteenth-century clothes kneeling at the edge of a desert salt lake, lifting a white crust from the shore, with limestone rocks behind him."
+  "art": "A man in late eighteenth-century clothes kneeling at the edge of a desert salt lake, lifting a white crust from the shore, with limestone rocks behind him.",
+  "context": "Can a chemical swap go only one way? This card tells the true story of chemists who saw a swap run backwards at some salty lakes in Egypt."
  },
  "roots": {
   "context": "In this lesson you sorted reactions into four kinds: joining, splitting, swapping and burning. Here we ask what is the same under all four.",
@@ -3081,21 +3082,30 @@
     "source": "Empedocles, fragment 17 (Diels-Kranz B17), about 450 BCE",
     "teaching": "The Greek thinker Empedocles said that all things are made of a few lasting 'roots'. At one time they grow together into one, and at another time they grow apart into many.",
     "link": "This is joining and splitting, said 2,400 years ago. His four roots were earth, water, air and fire, which are not the elements of chemistry. But his idea that change is lasting parts coming together and apart is what chemists later found.",
-    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "πῦρ καὶ ὕδωρ καὶ γαῖα καὶ ἠέρος ἄπλετον ὕψος,"],
+    "verse": [
+     "δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι",
+     "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι",
+     "πῦρ καὶ ὕδωρ καὶ γαῖα καὶ ἠέρος ἄπλετον ὕψος,"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. The different shapes are names. What is real in all of them is the clay.",
     "link": "In a reaction the atoms stay and only their arrangement changes. Chemistry adds one thing that the verse does not say. The new arrangement really behaves in a new way, because curds do not act like milk.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha teaches that all things that are put together are impermanent.",
     "link": "Every substance in this lesson could be changed by some reaction. Even a hard plaster wall is slowly joining with carbon dioxide from the air.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],

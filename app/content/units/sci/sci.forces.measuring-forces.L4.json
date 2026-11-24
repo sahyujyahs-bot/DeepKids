@@ -3303,7 +3303,8 @@
   "story": "In the late 1800s, many scientists treated the pull of a water surface as one fixed number for clean water. Agnes Pockels was born in 1862 in Venice and grew up in Braunschweig in Germany. Girls were not allowed to go to a university, so she learned physics from her younger brother's textbooks. In her kitchen, while washing dishes, she noticed that grease changed how a water surface behaved. She hung a button from one arm of a simple balance and added weights to the other side, until the button was pulled off the water. This measured a tiny force without a laboratory. She found that a clean surface pulled steadily, and that a film of oil made the pull much smaller. In January 1891, she wrote to the English scientist Lord Rayleigh. He saw how good her work was, and he helped to get her letter printed in the journal Nature that year. Later, scientists used long basins of water, called troughs, like hers to study thin films.",
   "who": "Agnes Pockels (1862 to 1935), a German scientist who taught herself physics, and Lord Rayleigh, who helped to publish her work",
   "when": "She wrote her letter in January 1891, and Nature printed it in 1891",
-  "wrong_idea": "Many people treated the surface of water as a single fixed thing, with one pull that did not depend on what was on it. Pockels showed that a thin film of oil changes the pull a lot. She did it by measuring it, with a button, a balance and a basin of water."
+  "wrong_idea": "Many people treated the surface of water as a single fixed thing, with one pull that did not depend on what was on it. Pockels showed that a thin film of oil changes the pull a lot. She did it by measuring it, with a button, a balance and a basin of water.",
+  "context": "Does the surface of water always pull in the same way? This card tells the true story of a woman who taught herself physics and tested it with a button and a balance."
  },
  "roots": {
   "context": "We have drawn forces as arrows, hung a bottle on a sagging line and measured the hold of water on a coin. Now we ask what these measurements tell us about ourselves and the world.",
@@ -3323,14 +3324,20 @@
     "source": "Sona Sutta, Anguttara Nikaya 6.55",
     "teaching": "The Buddha reminded a musician named Sona of his lute. If its strings are too tight, they snap and give no music. If they are too slack, they give no music either. When the strings are tuned evenly, the lute sings.",
     "link": "A line pulled too tight carries too much pull and can snap, like the lute string. A line with no sag at all would need an endless pull to hold a weight. The right amount of sag keeps the pull small, so the line lasts.",
-    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+    "verse": [
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 76",
     "teaching": "What is stiff and unbending breaks. What is soft and yielding lasts. A tree that will not bend is easily broken.",
     "link": "In the story The Rope That Would Not Be Straight, the tight rope snapped, and the rope with a curve held through the monsoon.",
-    "verse": ["故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3362,5 +3369,117 @@
   "art": "A bottle hanging in the middle of a sagging line, with long glowing arrows along the line showing the pulls hidden inside it."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Sagging Line test needs a stick of about 1 metre, two heavy chairs and a wide rubber band. Bands differ a lot. If three 500 gram packets stretch your band to more than about four times its relaxed length, or the band looks thin and pale, use two bands side by side or a stronger one. The calculated pulls (about 6, 9 and 13 newtons for 25, 15 and 10 centimetre sags with a 5 newton bottle) hold for a span of 1 metre, and real numbers will be a little different. The Button and the Water test is the most delicate: the coin must hang flat, and the usual result is roughly 10 to 60 rice grains for plain water, with clearly fewer for soapy water. It may take two or three tries to get a coin that hangs level, and a greasy coin or a tilted coin gives a small number. The ruler in the Bending Ruler Scale must be firmly pinned, and the bend per packet depends on the ruler, so slide it until one packet bends it by 3 to 10 millimetres. The Swinging Bottle needs a grown-up to release the bottle and a soft cushion on the floor. Digital bathroom scales may freeze their first reading, so step on again for each reading. Facts to check before use: the details of Agnes Pockels' life, Anna Mani's career, the solar sail missions and the strain gauge history. Feasibility review: the Sagging Line pulls were checked by the usual cable formula; the rice grain count for the water test (about 20 to 40) is a typical estimate and the coin must hang level; magnet strength and ruler stiffness vary a lot between homes.",
- "warm": {"words": ["FORCE", "ARROW", "SCALE", "RANGE", "LIGHT"], "quiz": [["A flatter washing line has to pull harder on its ends to hold the same weight.", true, "A flat line pulls sideways too, and only the upward part of its pull holds the load up."], ["A rope holding a weight only needs to pull as hard as the weight.", false, "A sloping rope also pulls sideways, so it must pull harder than the weight to give enough upward pull."], ["If you measure carefully, you should get exactly the same number every time.", false, "Eye position, small wobbles and how you hold the tool change a reading a little each time."], ["Ten careful readings of the same thing can all be a little different.", true, "Every reading has small errors, so repeated readings spread out, and we choose a typical value."], ["A scale that shows more digits is always more accurate.", false, "Digits show how finely a scale reads, not how close the reading is to the true value."], ["A scale that always shows 3 grams too much can still give nearly the same reading each time.", true, "That scale is precise but not accurate, because its zero error shifts every reading by the same amount."], ["Your weight on a scale stays the same however you move.", false, "A scale measures how hard you push on it, and bending your knees fast changes that push."], ["Light pushes on what it hits, though the push is very small.", true, "Light carries a tiny push called radiation pressure, even though it has no weight."], ["Two forces pointing opposite ways along one line partly cancel each other.", true, "Opposite forces take away from each other, and what is left is the net force."], ["A gauge can be trusted for loads far heavier than any it was tested with.", false, "A tool can only be trusted inside the range where it was checked against known loads."]], "odd": [[["Push", "Pull", "Tension", "Mass"], "Mass", "Push, pull and tension are forces that need a direction as well as a size. Mass needs only a size."], [["Eye position", "Hand wobble", "Tired rubber band", "Gauge not at zero"], "Gauge not at zero", "The first three change a little from reading to reading, but a zero error is the same every time."], [["Book resting on a table", "Bottle hanging still", "Tug of war, no movement", "Car speeding up"], "Car speeding up", "In the first three the forces cancel. A speeding-up car has unbalanced forces, so its motion changes."], [["Standing still", "Sitting still", "Lift moving steadily", "Lift starting upward"], "Lift starting upward", "In the first three a scale shows the true weight. Speeding up changes how hard you push on it."], [["Pull in the line", "Sideways pull", "Risk of snapping", "Sag in the middle"], "Sag in the middle", "The first three grow as the line is pulled flatter, but the sag gets smaller."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "ARROW",
+   "SCALE",
+   "RANGE",
+   "LIGHT"
+  ],
+  "quiz": [
+   [
+    "A flatter washing line has to pull harder on its ends to hold the same weight.",
+    true,
+    "A flat line pulls sideways too, and only the upward part of its pull holds the load up."
+   ],
+   [
+    "A rope holding a weight only needs to pull as hard as the weight.",
+    false,
+    "A sloping rope also pulls sideways, so it must pull harder than the weight to give enough upward pull."
+   ],
+   [
+    "If you measure carefully, you should get exactly the same number every time.",
+    false,
+    "Eye position, small wobbles and how you hold the tool change a reading a little each time."
+   ],
+   [
+    "Ten careful readings of the same thing can all be a little different.",
+    true,
+    "Every reading has small errors, so repeated readings spread out, and we choose a typical value."
+   ],
+   [
+    "A scale that shows more digits is always more accurate.",
+    false,
+    "Digits show how finely a scale reads, not how close the reading is to the true value."
+   ],
+   [
+    "A scale that always shows 3 grams too much can still give nearly the same reading each time.",
+    true,
+    "That scale is precise but not accurate, because its zero error shifts every reading by the same amount."
+   ],
+   [
+    "Your weight on a scale stays the same however you move.",
+    false,
+    "A scale measures how hard you push on it, and bending your knees fast changes that push."
+   ],
+   [
+    "Light pushes on what it hits, though the push is very small.",
+    true,
+    "Light carries a tiny push called radiation pressure, even though it has no weight."
+   ],
+   [
+    "Two forces pointing opposite ways along one line partly cancel each other.",
+    true,
+    "Opposite forces take away from each other, and what is left is the net force."
+   ],
+   [
+    "A gauge can be trusted for loads far heavier than any it was tested with.",
+    false,
+    "A tool can only be trusted inside the range where it was checked against known loads."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Push",
+     "Pull",
+     "Tension",
+     "Mass"
+    ],
+    "Mass",
+    "Push, pull and tension are forces that need a direction as well as a size. Mass needs only a size."
+   ],
+   [
+    [
+     "Eye position",
+     "Hand wobble",
+     "Tired rubber band",
+     "Gauge not at zero"
+    ],
+    "Gauge not at zero",
+    "The first three change a little from reading to reading, but a zero error is the same every time."
+   ],
+   [
+    [
+     "Book resting on a table",
+     "Bottle hanging still",
+     "Tug of war, no movement",
+     "Car speeding up"
+    ],
+    "Car speeding up",
+    "In the first three the forces cancel. A speeding-up car has unbalanced forces, so its motion changes."
+   ],
+   [
+    [
+     "Standing still",
+     "Sitting still",
+     "Lift moving steadily",
+     "Lift starting upward"
+    ],
+    "Lift starting upward",
+    "In the first three a scale shows the true weight. Speeding up changes how hard you push on it."
+   ],
+   [
+    [
+     "Pull in the line",
+     "Sideways pull",
+     "Risk of snapping",
+     "Sag in the middle"
+    ],
+    "Sag in the middle",
+    "The first three grow as the line is pulled flatter, but the sag gets smaller."
+   ]
+  ]
+ }
 }

@@ -2024,14 +2024,22 @@
     "source": "Mencius 2A:6",
     "teaching": "Mencius, a Chinese thinker, said that anyone who suddenly sees a small child about to fall into a well feels alarm and wants to help. Nobody has to teach them this feeling.",
     "link": "A carer answers a baby's signals quickly, often before thinking. In this lesson, a parent sparrow flies to the open yellow mouth, and a grandmother turns to a crying baby.",
-    "verse": ["今人乍見孺子將入於井，皆有怵惕惻隱之心。", "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"],
+    "verse": [
+     "今人乍見孺子將入於井，皆有怵惕惻隱之心。",
+     "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Karaniya Metta Sutta, Sutta Nipata 1.8",
     "teaching": "The Buddha taught: just as a mother protects her only child with her own life, so we should grow a boundless kindness towards all living beings.",
     "link": "In this lesson, care is often shared beyond one parent: langur aunts, worker bee sisters and the many people around a human baby. The teaching asks us to stretch that care to every being.",
-    "verse": ["Mātā yathā niyaṁ puttam", "Āyusā ekaputtamanurakkhe;", "Evampi sabbabhūtesu,", "Mānasaṁ bhāvaye aparimāṇaṁ."],
+    "verse": [
+     "Mātā yathā niyaṁ puttam",
+     "Āyusā ekaputtamanurakkhe;",
+     "Evampi sabbabhūtesu,",
+     "Mānasaṁ bhāvaye aparimāṇaṁ."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2067,8 +2075,121 @@
   "who": "Mary Ainsworth, a scientist from Canada and the United States, working in Uganda (1954 to 1955); Rudolph Schaffer and Peggy Emerson in Glasgow, Scotland (1964)",
   "when": "Ainsworth watched babies in Uganda in 1954 and 1955 and wrote her book in 1967. Schaffer and Emerson published their study in 1964.",
   "wrong_idea": "That babies love whoever feeds them, and that picking up a crying baby too often spoils them. Watching real babies showed that babies hold on most to the people who answer their cries and play with them.",
-  "art": "A woman scientist with a notebook sitting on a mat in a village home, watching a mother and a crawling baby who reaches towards the mother."
+  "art": "A woman scientist with a notebook sitting on a mat in a village home, watching a mother and a crawling baby who reaches towards the mother.",
+  "context": "Why does a baby hold on tight to some people more than to others? This card tells the true story of a scientist who watched real babies and their families."
  },
  "playtest": "Played both games in my head with 2 and with 4 players: the sorting race has every player racing and says what happens when nobody is right, and the memory game's 16 cards are all listed. Followed the dark-nest experiment in a flat: each mouth gets only one chana, so the example numbers in the parent notes, maths, quiz and worksheets were impossible and now fit (for example 5 for yellow and 1 for black). Fixed the walking line (a missing 'one hour' mark and the card list), replaced three copies of the same ordering and 'why humans take long' questions, introduced Kavya and Rahul where they appear, cut the jokes to 8 real ones, and removed an unneeded safety warning and an internal source note. On a second walk-through I made the kitten and puppy walking age one plain figure (about three weeks) in all places, added picking the chana back up between rounds, swapped two weak jokes, and made the Ainsworth question clearer. The three video ids are still to be found.",
- "warm": {"words": ["CHICK", "YOUNG", "FEEDS", "CALLS", "ADULT"], "quiz": [["A chick opens a wide mouth to tell the parent that the chick is hungry.", true, "Young animals send signals, and parents answer them with food and care."], ["Only mothers feed and look after baby birds.", false, "Sparrow fathers feed chicks about as often as mothers do, and other helpers care for young too."], ["A calf can walk soon after birth, but a human baby needs years of care.", true, "Some young are born ready to walk and feed, and others are born helpless and need long care."], ["A parent bird leaves a chick for good if a person touches the chick.", false, "Most small birds cannot smell well, so the parents come back to the chick."], ["A chick may beg for more food than the parent wants to give.", true, "Parent and baby do not always want the same thing, so a chick may ask for too much."], ["Only baby birds beg for food, and mammal babies never ask for it.", false, "Mammal babies ask too: puppies whine and human babies cry when they are hungry."], ["A young animal keeps getting bigger and changing until the animal is an adult.", true, "Growth is how a young animal gets bigger and changes, and human children grow this way too."], ["A baby always loves most the person who feeds the baby.", false, "Babies attach most to people who answer them warmly and quickly, not just to whoever feeds them."], ["A parent bird sits over small chicks to keep them warm.", true, "Small chicks cannot keep warm alone, so the parent gives them heat from her body."], ["A calf that can walk on the first day needs no care from the mother.", false, "A calf still needs milk, warmth and safety from the mother, even though the calf can walk early."]], "odd": [[["Calf", "Foal", "Goat kid", "Human baby"], "Human baby", "Calves, foals and kids walk soon after birth, but a human baby is helpless and needs years of care."], [["Cow", "Bat", "Dolphin", "Crow"], "Crow", "Cows, bats and dolphins are mammals whose mothers feed them milk. A crow is a bird and feeds her chicks other food."], [["Chick opening mouth", "Baby crying", "Puppy whining", "Cub sleeping"], "Cub sleeping", "The first three are young animals asking for food or care. A sleeping cub is not sending any signal."], [["Brooding eggs", "Licking young clean", "Bringing food", "Chick begging"], "Chick begging", "The first three are things carers do for the young. Begging is something the young animal does to ask."], [["Kitten", "Puppy", "Lamb", "Buffalo"], "Buffalo", "Kittens, puppies and lambs are young animals still growing. A buffalo has finished growing and is an adult."]]}
+ "warm": {
+  "words": [
+   "CHICK",
+   "YOUNG",
+   "FEEDS",
+   "CALLS",
+   "ADULT"
+  ],
+  "quiz": [
+   [
+    "A chick opens a wide mouth to tell the parent that the chick is hungry.",
+    true,
+    "Young animals send signals, and parents answer them with food and care."
+   ],
+   [
+    "Only mothers feed and look after baby birds.",
+    false,
+    "Sparrow fathers feed chicks about as often as mothers do, and other helpers care for young too."
+   ],
+   [
+    "A calf can walk soon after birth, but a human baby needs years of care.",
+    true,
+    "Some young are born ready to walk and feed, and others are born helpless and need long care."
+   ],
+   [
+    "A parent bird leaves a chick for good if a person touches the chick.",
+    false,
+    "Most small birds cannot smell well, so the parents come back to the chick."
+   ],
+   [
+    "A chick may beg for more food than the parent wants to give.",
+    true,
+    "Parent and baby do not always want the same thing, so a chick may ask for too much."
+   ],
+   [
+    "Only baby birds beg for food, and mammal babies never ask for it.",
+    false,
+    "Mammal babies ask too: puppies whine and human babies cry when they are hungry."
+   ],
+   [
+    "A young animal keeps getting bigger and changing until the animal is an adult.",
+    true,
+    "Growth is how a young animal gets bigger and changes, and human children grow this way too."
+   ],
+   [
+    "A baby always loves most the person who feeds the baby.",
+    false,
+    "Babies attach most to people who answer them warmly and quickly, not just to whoever feeds them."
+   ],
+   [
+    "A parent bird sits over small chicks to keep them warm.",
+    true,
+    "Small chicks cannot keep warm alone, so the parent gives them heat from her body."
+   ],
+   [
+    "A calf that can walk on the first day needs no care from the mother.",
+    false,
+    "A calf still needs milk, warmth and safety from the mother, even though the calf can walk early."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Calf",
+     "Foal",
+     "Goat kid",
+     "Human baby"
+    ],
+    "Human baby",
+    "Calves, foals and kids walk soon after birth, but a human baby is helpless and needs years of care."
+   ],
+   [
+    [
+     "Cow",
+     "Bat",
+     "Dolphin",
+     "Crow"
+    ],
+    "Crow",
+    "Cows, bats and dolphins are mammals whose mothers feed them milk. A crow is a bird and feeds her chicks other food."
+   ],
+   [
+    [
+     "Chick opening mouth",
+     "Baby crying",
+     "Puppy whining",
+     "Cub sleeping"
+    ],
+    "Cub sleeping",
+    "The first three are young animals asking for food or care. A sleeping cub is not sending any signal."
+   ],
+   [
+    [
+     "Brooding eggs",
+     "Licking young clean",
+     "Bringing food",
+     "Chick begging"
+    ],
+    "Chick begging",
+    "The first three are things carers do for the young. Begging is something the young animal does to ask."
+   ],
+   [
+    [
+     "Kitten",
+     "Puppy",
+     "Lamb",
+     "Buffalo"
+    ],
+    "Buffalo",
+    "Kittens, puppies and lambs are young animals still growing. A buffalo has finished growing and is an adult."
+   ]
+  ]
+ }
 }

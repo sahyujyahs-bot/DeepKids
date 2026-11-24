@@ -1846,14 +1846,20 @@
     "source": "Tirukkural 517, by Thiruvalluvar",
     "teaching": "First think: this person can do this job, in this way. Then give the job to that person.",
     "link": "The Kural is a book of short Tamil verses from Tamil Nadu. This verse is about choosing people for work. In the Spoon Test we chose materials the same way. We tried each one with the job before we trusted it.",
-    "verse": ["இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து", "அதனை அவன்கண் விடல்."],
+    "verse": [
+     "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து",
+     "அதனை அவன்கண் விடல்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 3.35",
     "teaching": "It is better to follow your own nature, even imperfectly, than to copy another's nature perfectly.",
     "link": "The Gita is speaking about people. In Indian thought, the word dharma is also used for the nature of a thing, as burning is the nature of fire. Card has its own nature: it drinks water. Asked to do steel's job, it could not.",
-    "verse": ["श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।", "स्वधर्मे निधनं श्रेयः परधर्मो भयावहः।।"],
+    "verse": [
+     "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+     "स्वधर्मे निधनं श्रेयः परधर्मो भयावहः।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1888,7 +1894,8 @@
   "story": "For a long time, steel spoons and knives went rusty and stained. Lemon, tamarind and vinegar left dark marks on them. People believed that steel always rusts when it gets wet, so they dried and polished their knives after every meal. In 1913, in the steel-making city of Sheffield in England, a scientist named Harry Brearley was testing new kinds of steel. He had started work as a boy, washing bottles in a steel lab. Brearley mixed a metal called chromium into steel. Acid, the sour part of things like lemon and vinegar, marks ordinary steel. It hardly marked Brearley's new steel. The new steel did not rust either. Brearley thought it would make good knives and spoons. A cutler, a person who makes knives, tested it with vinegar, and it stayed bright. People called it stainless steel. Today, most spoons, plates and tumblers in Indian kitchens are stainless steel.",
   "who": "Harry Brearley (1871 to 1948), a scientist in Sheffield, England, who started work as a boy washing bottles in a steel lab",
   "when": "1913",
-  "wrong_idea": "Steel always rusts when it gets wet, so a steel spoon will always go dark and rusty."
+  "wrong_idea": "Steel always rusts when it gets wet, so a steel spoon will always go dark and rusty.",
+  "context": "Does steel always rust when it gets wet? This card tells the true story of a scientist in England who looked for a steel that does not."
  },
  "playtest": "Walked the unit as a parent and a six-year-old in a flat. Card printables now say print, not draw; Raindrop Hop has a swapping caller so two people can play and a winner. Removed three video entries with no checked address and internal notes, a magnifying glass the experiments never use, two story paragraphs that repeated the umbrella fact, and repeated questions (hot sambar spoon, biscuit in plastic, paper umbrella). Made the paper-plate fact and two jokes truer and funnier, shortened the Brearley account, and stopped the deep truth promising the card goes soft in exactly three minutes. Steps, minutes and schedules agree. Not tried in a real kitchen: how fast thick card softens, so the notes say to wait longer for all three spoons."
 }

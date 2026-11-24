@@ -1887,7 +1887,8 @@
   "story": "For hundreds of years, painters knew that yellow and blue paint make green. In 1805, the English painter Mary Gartside wrote a book about colour, with pictures made from patches of mixed watercolour. Many people thought that colours always mix the same way, so yellow light and blue light should make green too. In 1852, the German scientist Hermann von Helmholtz tested this. He took yellow light and blue light from a prism, a piece of glass that splits light into its colours, and made them fall on the same spot. The spot did not turn green. It looked nearly white. So why does paint make green? Helmholtz explained that each paint absorbs some of the light that falls on it. Yellow paint absorbs blue light. Blue paint absorbs red and yellow light. Mixed together, they absorb almost everything except green. So the green we see is the light that is left over. Mixing lights adds colours together. Mixing paints takes colours away.",
   "who": "Mary Gartside, an English painter; Hermann von Helmholtz, a German scientist",
   "when": "1805 to 1852",
-  "wrong_idea": "Colours always mix the same way, so yellow light and blue light make green, like paint. Helmholtz mixed yellow and blue light and got nearly white, and explained that paint makes green by absorbing light."
+  "wrong_idea": "Colours always mix the same way, so yellow light and blue light make green, like paint. Helmholtz mixed yellow and blue light and got nearly white, and explained that paint makes green by absorbing light.",
+  "context": "Do light and paint mix colours in the same way? This card tells the true story of a painter who wrote about mixing colours, and of a scientist who tested coloured light."
  },
  "plan": {
   "start_options": [

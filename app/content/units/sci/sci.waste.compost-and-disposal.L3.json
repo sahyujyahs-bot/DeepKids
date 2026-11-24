@@ -2491,7 +2491,12 @@
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu came to understand that food is Brahman, the whole. From food all beings are born. By food they live. Into food they return when they leave.",
     "link": "A peel was food for us. In the compost pot it becomes food for microbes and worms. Their compost becomes food for plants, and the plants become food for us again.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2531,6 +2536,7 @@
   "story": "For a long time, most people thought a landfill worked like a giant compost heap. A landfill is a huge pit or pile where a city's garbage is dumped, pressed down and covered. People believed that food, paper and wood soon rotted away there. William Rathje, an archaeologist at the University of Arizona in the United States, decided to check. Archaeologists usually dig up old cities to learn how people lived. Rathje and his students dug into garbage instead. In 1973, in the city of Tucson, they began sorting and recording what families threw away. In 1987 they began drilling deep into landfills and pulling out what was buried there. They found newspapers that could still be read, decades after they were thrown away. The dates printed on them showed how long they had been buried. They found hot dogs and other food that could still be recognised. The garbage was packed tight, with almost no air and little water, so the microbes that rot food and paper could hardly work. A landfill turned out to keep garbage for a very long time, not to compost it.",
   "who": "William Rathje and his students, the Garbage Project, University of Arizona",
   "when": "The Garbage Project began in 1973. The landfill digs began in 1987.",
-  "wrong_idea": "A landfill rots food and paper away quickly, like a giant compost heap. Digging showed newspapers that could still be read and food that could still be recognised after decades."
+  "wrong_idea": "A landfill rots food and paper away quickly, like a giant compost heap. Digging showed newspapers that could still be read and food that could still be recognised after decades.",
+  "context": "Does rubbish rot away quickly in a landfill, like in a compost heap? This card tells the true story of scientists who dug into old landfills to find out."
  }
 }

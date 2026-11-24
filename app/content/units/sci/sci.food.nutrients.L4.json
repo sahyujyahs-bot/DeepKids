@@ -450,21 +450,34 @@
     "source": "Taittiriya Upanishad 3.2 (the Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna to teach him about Brahman, the root of everything. His father tells him to find out through tapas, which means long, steady effort of thought. Bhrigu's first answer is that Brahman is food. All beings are born from food, they live by food, and when they die they go back into food.",
     "link": "Your muscles were once dal and rice, and one day the atoms in them will be soil, air and water again. A food label says nothing about this cycle, but the teaching names it.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Uddalaka teaches his son Shvetaketu that food, once eaten, divides in three. The coarsest part becomes waste, the middle part becomes flesh, and the finest part becomes mind.",
     "link": "This is an ancient guess, not a modern measurement, but it sorts food by what it becomes, just as our three jobs do. Modern science agrees that thinking costs fuel, because the brain uses about a fifth of an adult's energy.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति",
+     "यो मध्यमस्तन्मांसम्",
+     "योऽणिष्ठस्तन्मनः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.14",
     "teaching": "The verse speaks of a fire in the body of every living being that digests the four kinds of food. The Ayurvedic tradition calls this digestive fire agni.",
     "link": "Your cells really do burn food, but slowly and in small steps. The fire in the verse and the flame in the Burning Nuts experiment release the same energy.",
-    "verse": ["अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।", "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"],
+    "verse": [
+     "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।",
+     "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -500,7 +513,8 @@
   "story": "People once thought that the warmth of a living body came from a special vital heat that no fire had. In the 1780s Antoine Lavoisier and Pierre-Simon Laplace shut a guinea pig inside a chamber packed with ice and measured how much ice melted. Then they burned carbon and measured the ice it melted. A breathing animal gave out heat in the same way as a slow fire. Marie-Anne Lavoisier, Antoine's wife and lab partner, kept notes and later drew the respiration experiments. A hundred years later, in the 1890s, the American chemist Wilbur Atwater asked the same question about people. With the physicist Edward Rosa he built an airtight, insulated room. A volunteer lived and worked inside it for days, eating food whose energy Atwater had measured by burning it. The heat and work that left the room matched the energy that went in. A living body follows the same energy rules as a fire.",
   "who": "Antoine Lavoisier, Marie-Anne Lavoisier and Pierre-Simon Laplace, then Wilbur Atwater and Edward Rosa",
   "when": "1780s and 1890s",
-  "wrong_idea": "People thought the warmth and work of a living body came from a special vital force that a fire did not have. If that were so, a body might not follow the energy rules of the rest of nature."
+  "wrong_idea": "People thought the warmth and work of a living body came from a special vital force that a fire did not have. If that were so, a body might not follow the energy rules of the rest of nature.",
+  "context": "Does a living body follow the same rules about energy as a fire? This card tells the true story of scientists who measured the heat of a guinea pig and of a flame."
  },
  "games": [
   {

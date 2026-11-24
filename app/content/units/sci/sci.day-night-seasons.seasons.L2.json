@@ -2289,21 +2289,28 @@
     "source": "Matthew 5:45, the Bible",
     "teaching": "Jesus said that God makes the sun rise on the good and on the bad, and sends rain on everyone alike.",
     "link": "In the Black or White test, the same sun shone on both cloths equally. The sunlight was the same. The difference was in how much of it each cloth took in.",
-    "verse": ["ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους."],
+    "verse": [
+     "ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that everything that comes into being keeps changing. Nothing stays the same for ever.",
     "link": "The same street is hot and dry in May and runs like a river in June. Then the change comes round again.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Ritusamhara, canto 1, by Kalidasa",
     "teaching": "Kalidasa's old Sanskrit poem has one part for each season. In the summer part, people and other animals look for shade and cool water.",
     "link": "People in India have long known that summer sun is something to shelter from. In the Black or White test, more ice was left under the white cloth than under the black one.",
-    "verse": ["मृगाः प्रचण्डातपतापिता भृशं तृषा महत्या परिशुष्कतालवः ।", "वनान्तरे तोयमिति प्रधाविता निरीक्ष्य भिन्नाञ्जनसंनिभं नभः"],
+    "verse": [
+     "मृगाः प्रचण्डातपतापिता भृशं तृषा महत्या परिशुष्कतालवः ।",
+     "वनान्तरे तोयमिति प्रधाविता निरीक्ष्य भिन्नाञ्जनसंनिभं नभः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2339,8 +2346,121 @@
   "who": "Benjamin Franklin, who wrote to Mary Stevenson, and later Amiram Shkolnik, Virginia Finch and their team",
   "when": "The early 1760s, and 1980",
   "wrong_idea": "That black clothes always make the wearer hotter in the sun. A black cloth does take in more sunlight, but the 1980 desert study showed that a loose black robe let moving air carry the extra heat away, so the person inside was no hotter.",
-  "art": "Squares of coloured cloth on white snow in the sun, the black one sunk deep in a hollow and the white one on top, and beside them a desert scene with a person in a loose black robe."
+  "art": "Squares of coloured cloth on white snow in the sun, the black one sunk deep in a hollow and the white one on top, and beside them a desert scene with a person in a loose black robe.",
+  "context": "Do black clothes always make us hotter in the Sun? This card tells the true story of scientists who tested it in a desert, and of a letter written long before."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Fixed the minutes so the ice test (30) and the Damp Box (45) add up and the 15-minute look comes after a real wait, and took the flame out of the papad steps (ready-roasted or microwaved papad, with an honest note when it stays crisp). Made the papad challenge fair with a bare half to compare, removed repeated questions (Pongal, months in Mumbai, ice melted first, the T-shirt), introduced every named child at first mention, took out family members assumed in steps, and tidied jokes, a stock line and internal notes.",
- "warm": {"words": ["CLOUD", "WHITE", "BLACK", "RAINY", "WINDS"], "quiz": [["A black cloth gets hotter than a white cloth in the same sun.", true, "Black takes in most of the light and turns it to heat; white sends most back."], ["It is the same season all over India at the same time.", false, "India is big. In November Chennai gets heavy rain while Mumbai is dry."], ["The monsoon brings heavy rain because strong winds carry big clouds from the sea.", true, "The wind from the sea is full of water, and it drops that water as rain over land."], ["A peacock dances to make the rain come.", false, "He dances to show his tail to peahens, mostly in the breeding season."], ["In summer the midday Sun is higher and stays up longer, so the ground gets hotter.", true, "More sunlight reaches the ground each day when the Sun climbs high and shines for longer."], ["Summer is hottest because the Earth is nearest to the Sun.", false, "Summer is hotter because the Sun climbs higher and stays up longer, not because of distance."], ["Tamil Nadu gets a second rainy season from October, when the winds blow from the north-east.", true, "This north-east monsoon gives Tamil Nadu rain after the main monsoon has finished elsewhere."], ["Wet clothes dry faster when the air is humid.", false, "Humid air already holds a lot of water, so wet clothes dry slowly in it."], ["The seasons come back in the same order every year.", true, "A season is a part of the year with its own weather, and the order repeats."], ["Only people change with the seasons; plants and animals stay the same.", false, "Many plants flower or fruit, and many animals breed, in a particular season."]], "odd": [[["White shirt", "White wall", "Silver foil", "Black umbrella"], "Black umbrella", "White and shiny things send light back, so they stay cooler. Black takes light in and gets hot."], [["Umbrella", "Raincoat", "Gumboots", "Sweater"], "Sweater", "The first three are for the rainy season. A sweater is for the cool winter."], [["Humid air", "Slow-drying clothes", "Sticky skin", "Cold dry wind"], "Cold dry wind", "The first three go with air that holds a lot of water you cannot see. A cold dry wind holds very little water."], [["Frogs croaking", "Peacocks dancing", "Puddles filling", "Koel calling"], "Koel calling", "Frogs, peacocks and puddles belong to the rainy season. The koel calls in summer."], [["Sun high at midday", "Longer days", "More sunlight on the ground", "Sun low at midday"], "Sun low at midday", "The first three make summer hotter. A low midday Sun belongs to the cooler winter."]]}
+ "warm": {
+  "words": [
+   "CLOUD",
+   "WHITE",
+   "BLACK",
+   "RAINY",
+   "WINDS"
+  ],
+  "quiz": [
+   [
+    "A black cloth gets hotter than a white cloth in the same sun.",
+    true,
+    "Black takes in most of the light and turns it to heat; white sends most back."
+   ],
+   [
+    "It is the same season all over India at the same time.",
+    false,
+    "India is big. In November Chennai gets heavy rain while Mumbai is dry."
+   ],
+   [
+    "The monsoon brings heavy rain because strong winds carry big clouds from the sea.",
+    true,
+    "The wind from the sea is full of water, and it drops that water as rain over land."
+   ],
+   [
+    "A peacock dances to make the rain come.",
+    false,
+    "He dances to show his tail to peahens, mostly in the breeding season."
+   ],
+   [
+    "In summer the midday Sun is higher and stays up longer, so the ground gets hotter.",
+    true,
+    "More sunlight reaches the ground each day when the Sun climbs high and shines for longer."
+   ],
+   [
+    "Summer is hottest because the Earth is nearest to the Sun.",
+    false,
+    "Summer is hotter because the Sun climbs higher and stays up longer, not because of distance."
+   ],
+   [
+    "Tamil Nadu gets a second rainy season from October, when the winds blow from the north-east.",
+    true,
+    "This north-east monsoon gives Tamil Nadu rain after the main monsoon has finished elsewhere."
+   ],
+   [
+    "Wet clothes dry faster when the air is humid.",
+    false,
+    "Humid air already holds a lot of water, so wet clothes dry slowly in it."
+   ],
+   [
+    "The seasons come back in the same order every year.",
+    true,
+    "A season is a part of the year with its own weather, and the order repeats."
+   ],
+   [
+    "Only people change with the seasons; plants and animals stay the same.",
+    false,
+    "Many plants flower or fruit, and many animals breed, in a particular season."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "White shirt",
+     "White wall",
+     "Silver foil",
+     "Black umbrella"
+    ],
+    "Black umbrella",
+    "White and shiny things send light back, so they stay cooler. Black takes light in and gets hot."
+   ],
+   [
+    [
+     "Umbrella",
+     "Raincoat",
+     "Gumboots",
+     "Sweater"
+    ],
+    "Sweater",
+    "The first three are for the rainy season. A sweater is for the cool winter."
+   ],
+   [
+    [
+     "Humid air",
+     "Slow-drying clothes",
+     "Sticky skin",
+     "Cold dry wind"
+    ],
+    "Cold dry wind",
+    "The first three go with air that holds a lot of water you cannot see. A cold dry wind holds very little water."
+   ],
+   [
+    [
+     "Frogs croaking",
+     "Peacocks dancing",
+     "Puddles filling",
+     "Koel calling"
+    ],
+    "Koel calling",
+    "Frogs, peacocks and puddles belong to the rainy season. The koel calls in summer."
+   ],
+   [
+    [
+     "Sun high at midday",
+     "Longer days",
+     "More sunlight on the ground",
+     "Sun low at midday"
+    ],
+    "Sun low at midday",
+    "The first three make summer hotter. A low midday Sun belongs to the cooler winter."
+   ]
+  ]
+ }
 }

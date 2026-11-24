@@ -497,7 +497,8 @@
   "story": "Spectacles were first worn in Italy about 700 years ago. For more than 300 years, nobody could say why they helped. The old idea, taught since ancient Greece, was that the lens inside the eye is the part that sees, like a tiny screen. In 1604 the German astronomer Johannes Kepler worked out something different. The lens of the eye bends light to make a small upside-down picture on the back of the eye, the retina. If the eye bends light too much, the sharp picture forms in front of the retina, and the world looks blurry. A hollow lens in front of the eye can move the picture back. A bulging lens helps in the opposite case. A few years later Christoph Scheiner, a German astronomer, took the back coats from an ox eye. He looked through the thin back and saw the tiny upside-down picture glowing there. So the lens was not the screen. It only bends the light to make the picture.",
   "who": "Johannes Kepler (1604) and Christoph Scheiner (early 1600s)",
   "when": "1604 to the early 1600s",
-  "wrong_idea": "For centuries people believed that the lens inside the eye is the part that sees. Kepler showed that it bends light into a picture on the retina, and Scheiner showed that picture directly in an ox eye."
+  "wrong_idea": "For centuries people believed that the lens inside the eye is the part that sees. Kepler showed that it bends light into a picture on the retina, and Scheiner showed that picture directly in an ox eye.",
+  "context": "What does the lens in the eye really do? This card tells the true story of scientists who worked out how glasses help us see."
  },
  "roots": {
   "context": "We measured how light bends, and found the surface of water can be a window or a mirror. Now we ask what this tells us about things, about seeing, and about ourselves.",
@@ -517,14 +518,23 @@
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",
     "teaching": "A king asks blind men to feel an elephant. One feels the head, one the tusk, one the leg, and each says what the elephant is like. They quarrel, because each is sure he is right. The Buddha says each has felt a part and taken it for the whole.",
     "link": "The surface of the water is a window to one eye and a mirror to another. Each is right about what they see, and wrong only if they say the surface can be nothing else.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Isha Upanishad, verse 15",
     "teaching": "The verse says that the face of truth is covered by a golden disc, and asks the Sun to uncover it so that the seeker can see.",
     "link": "A bright shining surface can hide as well as show. The silver ring shows the sea floor and hides the sky. You see more by moving to a new angle.",
-    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse": [
+     "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्",
+     "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"
+    ],
     "verse_lang": "sa"
    }
   ],

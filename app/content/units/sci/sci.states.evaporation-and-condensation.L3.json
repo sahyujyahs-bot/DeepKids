@@ -2816,6 +2816,7 @@
   "story": "For centuries, people said that dew 'falls' at night, as if it were a very fine rain from the sky. Some scientists also thought that the dew itself made the grass cold. William Charles Wells, a doctor in London, decided to test these ideas. Night after night, he laid small tufts of wool, weighed first, in different places: on the open grass, on raised boards, and under covers. In the morning he weighed them again, to see how much dew each had collected. He also measured the temperature of the grass and of the air above it. Wool under a cover collected very little dew. Far more dew formed on clear, still nights than on cloudy or windy ones. And the grass always became colder than the air before any dew appeared. In 1814 Wells published An Essay on Dew. He showed that dew does not fall. On clear nights, grass and leaves lose warmth to the open sky and cool down. Then water vapour from the air condenses on them. The cold comes first, and the dew comes after.",
   "who": "William Charles Wells, a doctor in London",
   "when": "His experiments in the years before 1814, when he published An Essay on Dew",
-  "wrong_idea": "Dew falls from the sky like a fine rain, and the dew makes the grass cold. Wells showed that the grass cools first, and water vapour from the air then condenses on it."
+  "wrong_idea": "Dew falls from the sky like a fine rain, and the dew makes the grass cold. Wells showed that the grass cools first, and water vapour from the air then condenses on it.",
+  "context": "Where does dew come from? This card tells the true story of a doctor in London who tested what people had always said."
  }
 }

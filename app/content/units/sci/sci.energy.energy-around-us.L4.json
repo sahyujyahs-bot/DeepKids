@@ -2642,14 +2642,21 @@
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing away what is hard and strong.",
     "link": "Water is a small power working for a very long time. A slow trickle can wear away a rock, because energy is power times time.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 122",
     "teaching": "Never treat a small good as nothing. A water pot is filled by drops of water falling, one by one.",
     "link": "Many small watts, left on for many hours, add up to a big number of joules, just like drops filling a pot.",
-    "verse": ["Māvamaññetha puññassa,", "na mandaṁ āgamissati;", "Udabindunipātena,", "udakumbhopi pūrati;"],
+    "verse": [
+     "Māvamaññetha puññassa,",
+     "na mandaṁ āgamissati;",
+     "Udabindunipātena,",
+     "udakumbhopi pūrati;"
+    ],
     "verse_lang": "pi"
    },
    {
@@ -2690,7 +2697,120 @@
   "story": "In the early 1800s, most scientists thought heat was an invisible fluid called caloric. It flowed from hot things to cold ones, and it could not be made or destroyed. James Prescott Joule was the son of a brewer in Salford, England, and he was not a university professor. In the 1840s he built a paddle wheel in a tub of water. A falling weight turned the wheel, and the water slowly warmed. He could read his thermometer to a fraction of a degree. He found that the same amount of falling always gave the same warming. If heat were a fluid, turning a paddle would not make more of it. So movement had turned into heat, at a fixed rate. Joule reported this in 1850. The unit of energy is named after him.",
   "who": "James Prescott Joule, a brewer and amateur scientist in Salford, England",
   "when": "1843 to 1850",
-  "wrong_idea": "Many scientists thought heat was a fluid called caloric, that could only flow from place to place. Joule showed that falling weights can make heat, at a fixed rate, so heat is a form of energy that movement can turn into."
+  "wrong_idea": "Many scientists thought heat was a fluid called caloric, that could only flow from place to place. Joule showed that falling weights can make heat, at a fixed rate, so heat is a form of energy that movement can turn into.",
+  "context": "Is heat a kind of fluid, or something else? This card tells the true story of a brewer's son who used falling weights to find out."
  },
- "warm": {"words": ["JOULE", "POWER", "METER", "UNITS", "WATTS"], "quiz": [["A joule tells how much energy there is, and a watt tells how fast it moves.", true, "Joules count the amount. One watt means one joule of energy moving every second."], ["A thing that holds more energy is always more powerful.", false, "Power is how fast energy moves. A phone battery holds less than a chapati but gives its energy out much faster."], ["The energy a bulb uses is gone for ever once the light shines.", false, "It moves into light and warmth in the room. Energy only changes form. It is never destroyed."], ["A 50 watt fan running 16 hours uses more energy than a 2000 watt geyser running 20 minutes.", true, "Energy used is power times time. A weak appliance left on for long can use more than a strong one used briefly."], ["The number on a food label is exactly the energy your body gets.", false, "How much you get depends on how food is cooked and chewed, and on tiny living beings in your gut."], ["Most of the energy in food ends up as warmth in the body and air.", true, "Your body uses food energy to move and work, and nearly all of it finally spreads out as warmth."], ["Your body lets out the energy in a chapati all at once.", false, "It lets energy out slowly, at about the pace of a bright bulb, so you can use it all day."], ["A machine turns only part of its energy into the form you want. The rest becomes warmth.", true, "Some energy always spreads out as warmth, so no machine turns all of its energy into useful work."], ["A rating plate shows the least power an appliance will use.", false, "A rating plate shows the most power the appliance will use, measured in watts."], ["Food, wood, coal and wind all get their energy from the Sun. Nuclear energy and the Earth's deep heat are the exceptions.", true, "Nearly all the energy we use can be traced back to sunlight, apart from nuclear energy and heat from deep in the Earth."]], "odd": [[["Joule", "Kilojoule", "Kilocalorie", "Watt"], "Watt", "Joules, kilojoules and kilocalories count how much energy there is. A watt says how fast energy moves."], [["Fan's watts", "Bulb's watts", "Kettle's watts", "Bill's kilowatt-hour"], "Bill's kilowatt-hour", "Watts say how fast energy is used. A kilowatt-hour counts how much energy was used over time."], [["Light you read by", "Warmth of the bulb glass", "Warmth in the wire", "Warmth in nearby air"], "Light you read by", "A bulb's job is light, which is the useful energy. The warmth in the glass, the wire and the air is spread-out energy."], [["Coal", "Wind", "Food", "Nuclear fuel"], "Nuclear fuel", "Coal, wind and food all got their energy from sunlight. Nuclear fuel did not."], [["10 watts, 10 hours", "100 watts, 1 hour", "50 watts, 2 hours", "20 watts, 10 hours"], "20 watts, 10 hours", "Energy is power times time. The first three each use 100 watt-hours, but 20 watts for 10 hours uses 200."]]}
+ "warm": {
+  "words": [
+   "JOULE",
+   "POWER",
+   "METER",
+   "UNITS",
+   "WATTS"
+  ],
+  "quiz": [
+   [
+    "A joule tells how much energy there is, and a watt tells how fast it moves.",
+    true,
+    "Joules count the amount. One watt means one joule of energy moving every second."
+   ],
+   [
+    "A thing that holds more energy is always more powerful.",
+    false,
+    "Power is how fast energy moves. A phone battery holds less than a chapati but gives its energy out much faster."
+   ],
+   [
+    "The energy a bulb uses is gone for ever once the light shines.",
+    false,
+    "It moves into light and warmth in the room. Energy only changes form. It is never destroyed."
+   ],
+   [
+    "A 50 watt fan running 16 hours uses more energy than a 2000 watt geyser running 20 minutes.",
+    true,
+    "Energy used is power times time. A weak appliance left on for long can use more than a strong one used briefly."
+   ],
+   [
+    "The number on a food label is exactly the energy your body gets.",
+    false,
+    "How much you get depends on how food is cooked and chewed, and on tiny living beings in your gut."
+   ],
+   [
+    "Most of the energy in food ends up as warmth in the body and air.",
+    true,
+    "Your body uses food energy to move and work, and nearly all of it finally spreads out as warmth."
+   ],
+   [
+    "Your body lets out the energy in a chapati all at once.",
+    false,
+    "It lets energy out slowly, at about the pace of a bright bulb, so you can use it all day."
+   ],
+   [
+    "A machine turns only part of its energy into the form you want. The rest becomes warmth.",
+    true,
+    "Some energy always spreads out as warmth, so no machine turns all of its energy into useful work."
+   ],
+   [
+    "A rating plate shows the least power an appliance will use.",
+    false,
+    "A rating plate shows the most power the appliance will use, measured in watts."
+   ],
+   [
+    "Food, wood, coal and wind all get their energy from the Sun. Nuclear energy and the Earth's deep heat are the exceptions.",
+    true,
+    "Nearly all the energy we use can be traced back to sunlight, apart from nuclear energy and heat from deep in the Earth."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Joule",
+     "Kilojoule",
+     "Kilocalorie",
+     "Watt"
+    ],
+    "Watt",
+    "Joules, kilojoules and kilocalories count how much energy there is. A watt says how fast energy moves."
+   ],
+   [
+    [
+     "Fan's watts",
+     "Bulb's watts",
+     "Kettle's watts",
+     "Bill's kilowatt-hour"
+    ],
+    "Bill's kilowatt-hour",
+    "Watts say how fast energy is used. A kilowatt-hour counts how much energy was used over time."
+   ],
+   [
+    [
+     "Light you read by",
+     "Warmth of the bulb glass",
+     "Warmth in the wire",
+     "Warmth in nearby air"
+    ],
+    "Light you read by",
+    "A bulb's job is light, which is the useful energy. The warmth in the glass, the wire and the air is spread-out energy."
+   ],
+   [
+    [
+     "Coal",
+     "Wind",
+     "Food",
+     "Nuclear fuel"
+    ],
+    "Nuclear fuel",
+    "Coal, wind and food all got their energy from sunlight. Nuclear fuel did not."
+   ],
+   [
+    [
+     "10 watts, 10 hours",
+     "100 watts, 1 hour",
+     "50 watts, 2 hours",
+     "20 watts, 10 hours"
+    ],
+    "20 watts, 10 hours",
+    "Energy is power times time. The first three each use 100 watt-hours, but 20 watts for 10 hours uses 200."
+   ]
+  ]
+ }
 }

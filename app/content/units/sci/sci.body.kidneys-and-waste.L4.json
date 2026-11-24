@@ -3013,7 +3013,8 @@
   "who": "William Bowman in England, Carl Ludwig in Germany, and Joseph Wearn and Alfred Newton Richards in the United States",
   "when": "Bowman published his drawings in 1842. Ludwig proposed filtering in the 1840s. Wearn and Richards published their frog experiment in 1924.",
   "wrong_idea": "That the kidney's cells pick each waste out of the blood and push it into the urine. Wearn and Richards showed that the liquid just past the filter holds sugar and salt, like blood without its proteins. The kidney filters first and takes back afterwards.",
-  "art": "A laboratory bench of the 1920s with a microscope, and a very fine glass pipette held in a brass stand above a small dish."
+  "art": "A laboratory bench of the 1920s with a microscope, and a very fine glass pipette held in a brass stand above a small dish.",
+  "context": "How do the kidneys clean our blood? This card tells the true story of scientists who studied the tiny tubes inside a kidney."
  },
  "roots": {
   "context": "In this lesson you poured salty tea through three filters and learned how the kidneys clean the blood. Here we ask what it means to clean something, and where a waste goes after it leaves you.",
@@ -3033,7 +3034,12 @@
     "source": "Chandogya Upanishad 6.5.1 to 6.5.2",
     "teaching": "Uddalaka teaches his son Shvetaketu that food, once eaten, becomes three things. The coarsest part becomes stool, the middle part becomes flesh and the finest part becomes mind. Water, once drunk, also becomes three things: urine, blood and breath.",
     "link": "This is a very old attempt to follow what the body keeps and what it lets go. Science agrees that the body sorts what it takes in. It differs on the details. Urine is made from the blood, by the kidneys.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति । यो मध्यमस्तन्मांसम् । योऽणिष्ठस्तन्मनः", "आपः पीतास्त्रेधा विधीयन्ते", "तासां यः स्थविष्ठो धातुस्तन्मूत्रं भवति । यो मध्यमस्तल्लोहितम् । योऽणिष्ठः स प्राणः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति । यो मध्यमस्तन्मांसम् । योऽणिष्ठस्तन्मनः",
+     "आपः पीतास्त्रेधा विधीयन्ते",
+     "तासां यः स्थविष्ठो धातुस्तन्मूत्रं भवति । यो मध्यमस्तल्लोहितम् । योऽणिष्ठः स प्राणः"
+    ],
     "verse_lang": "sa"
    },
    {

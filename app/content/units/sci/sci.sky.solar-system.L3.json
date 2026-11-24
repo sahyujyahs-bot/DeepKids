@@ -2799,7 +2799,10 @@
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stands still.",
     "link": "Almost everything that moves on the Earth (wind, rivers, plants and animals) runs on the Sun's light. The unit shows how that light reaches each planet.",
-    "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+    "verse": [
+     "चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।",
+     "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2849,6 +2852,7 @@
   "story": "For about 1,500 years, most astronomers in Europe and the Middle East followed Ptolemy, who lived in Egypt about 150 CE. He taught that the Earth stands still in the centre, and the Sun and planets go round it. In his plan, Venus always stays between the Earth and the Sun. If that were true, we would only ever see Venus as a thin crescent or a dark disc, never fully lit. In 1543 Nicolaus Copernicus said the planets, the Earth among them, go round the Sun, but nobody could yet show who was right. In 1610 Galileo Galilei, an Italian scientist, turned his new telescope on Venus. Over many months he watched her change. When Venus was on the far side of the Sun, she looked small and almost round, fully lit. As she came closer, she grew bigger and thinner, into a large crescent. Venus could only be fully lit if she went round to the far side of the Sun. So Venus goes round the Sun, not the Earth, and Ptolemy's plan was wrong. Later measurements showed that the Earth goes round the Sun too.",
   "who": "Galileo Galilei, an Italian scientist, building on the work of Nicolaus Copernicus",
   "when": "1610 (Galileo sees the phases of Venus)",
-  "wrong_idea": "The Earth is the still centre, and everything in the sky goes round it, with Venus always between the Earth and the Sun. Galileo saw Venus fully lit and small, which can only happen if Venus goes round the Sun."
+  "wrong_idea": "The Earth is the still centre, and everything in the sky goes round it, with Venus always between the Earth and the Sun. Galileo saw Venus fully lit and small, which can only happen if Venus goes round the Sun.",
+  "context": "Does the Sun go round the Earth, or does the Earth go round the Sun? This card tells the true story of a scientist who looked at Venus through a telescope."
  }
 }

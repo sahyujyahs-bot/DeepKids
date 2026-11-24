@@ -432,21 +432,33 @@
     "source": "Prashna Upanishad, chapter 2",
     "teaching": "The faculties of a body, such as speech, mind, eye and ear, once argued about which of them was most important. Prana, the breath, began to leave the body, and all the others were pulled with it. They agreed that breath is the chief.",
     "link": "Every part of an animal's body depends on oxygen arriving, whether the animal is a crab or a person.",
-    "verse": ["सोऽभिमानादूर्ध्वमुत्क्रमत इव", "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते", "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते", "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"],
+    "verse": [
+     "सोऽभिमानादूर्ध्वमुत्क्रमत इव",
+     "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते",
+     "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते",
+     "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka told his son that if life leaves one branch of a great tree, that branch dries up. If life leaves the whole tree, the whole tree dries up. Life moves through the whole tree.",
     "link": "Life moves through a whole body, not just one part, and oxygen has to reach every part for that to be true.",
-    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse": [
+     "अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति",
+     "द्वितीयां जहात्यथ सा शुष्यति",
+     "तृतीयां जहात्यथ सा शुष्यति",
+     "सर्वं जहाति सर्वः शुष्यति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra of Umasvati, chapter 2, verse 23",
     "teaching": "The Jain teacher Umasvati listed living beings by the number of senses. He named worms, ants, bees and people as examples of beings with two, three, four and five senses.",
     "link": "Jain teaching has long said that small animals such as worms and ants are living beings who feel, and deserve care.",
-    "verse": ["कृमिपिपीलिका भ्रमर मनुष्यादीनामेकैक वृद्धानि"],
+    "verse": [
+     "कृमिपिपीलिका भ्रमर मनुष्यादीनामेकैक वृद्धानि"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3419,7 +3431,8 @@
   "story": "About 330 BCE, the Greek thinker Aristotle taught that animals breathe to cool the heat of the heart. He called animals such as insects 'bloodless'. For nearly two thousand years, people repeated this. Nobody could say how a caterpillar with no lungs got air. In 1669 an Italian doctor, Marcello Malpighi, studied silkworms through an early microscope. He saw a row of tiny holes down each side. Inside, thin pale tubes ran from each hole and branched again and again into finer threads. Malpighi had found the silkworm's air tubes. In a silkworm, air does not travel in the blood. It goes straight to the parts that need it. Later, in the 1770s and 1780s, Antoine Lavoisier showed that breathing uses up one part of the air, the part we call oxygen, in a slow burning that warms the body. In 1919 the Danish scientist August Krogh measured how fast gases drift through animal bodies, and showed that drifting works well over short distances.",
   "who": "Marcello Malpighi, an Italian doctor (1628 to 1694)",
   "when": "1669",
-  "wrong_idea": "Aristotle thought breathing cools the heart, and that insects were 'bloodless' animals. Malpighi's microscope showed that insects have air tubes reaching every part, and later work showed that every cell uses oxygen."
+  "wrong_idea": "Aristotle thought breathing cools the heart, and that insects were 'bloodless' animals. Malpighi's microscope showed that insects have air tubes reaching every part, and later work showed that every cell uses oxygen.",
+  "context": "How does a caterpillar breathe when it has no lungs? This card tells the true story of a doctor in Italy who used a microscope to find out."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Cubes is the key test, so it was worked out carefully. Agar jelly set with 2 teaspoons of powder in 500 millilitres of water holds a cut cube, and food colour moves in about 2 to 3 millimetres in 40 minutes and about 1 to 2 millimetres in 10 minutes. The exact numbers will vary, and the steps say to write what you see. If the colour is too pale, add more food colour. If a cube is coloured right through, cut the next one earlier. Wobbly Walk was run many times on a computer: with a coin, the average number of flips is about 6 for a 2-square body, 20 for 4 squares and 72 for 8 squares, and about 14 flips for 8 squares with the pump. Sugar cube dissolving times depend on the water temperature, so the steps use the same glass and water for every test. Facts to check before this lesson goes live: that air holds about 30 times more oxygen than the same amount of water, that the coconut crab lives on the Andaman and Nicobar Islands, that Meganeura wings were about 65 to 70 centimetres across, that Krogh's 1919 paper made the diffusion point, that the 2003 X-ray study of beetles is correctly described, and that the Marine Biodiversity Museum in Kochi is open to visitors. Colour Cubes takes about 90 minutes from start to finish, because the jelly must set and the colour needs 40 minutes, but only about 50 minutes are hands-on, and the waiting time suits Ring or Core. Cut the jelly with one clean press, not a sawing movement, and wipe the knife between cuts, or the knife drags colour across the clear middle. The videos have no address yet.",
  "warm": {

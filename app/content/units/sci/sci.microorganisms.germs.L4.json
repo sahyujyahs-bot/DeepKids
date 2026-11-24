@@ -555,7 +555,10 @@
     "source": "Tao Te Ching 64",
     "teaching": "Act on things before they appear. Put things in order before there is confusion. A tree that fills your arms grew from a tiny shoot.",
     "link": "A vaccine acts before the germ arrives. A small step early prevents a large trouble later.",
-    "verse": ["為之於未有，治之於未亂。", "合抱之木，生於毫末。"],
+    "verse": [
+     "為之於未有，治之於未亂。",
+     "合抱之木，生於毫末。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -567,7 +570,10 @@
     "source": "Thirukkural 948",
     "teaching": "Find out the illness, find out its cause, find out the cure, and then treat with care.",
     "link": "A doctor chooses a medicine by the cause. A cold and a bacterial throat infection feel alike, but they have different causes and need different help.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse": [
+     "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்",
+     "வாய்நாடி வாய்ப்பச் செயல்."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -3661,7 +3667,8 @@
   "story": "In the 1940s, scientists argued about a puzzle. When a medicine or a virus attacked a dish of bacteria, a few survived, and their children were resistant. Did the attack change those bacteria, as if they had learned to resist? Or were a few already different, by chance, before the attack came? In 1943, Salvador Luria and Max Delbrück ran a test with numbers that pointed to chance. In 1952, Esther Lederberg found a way to see it directly. She invented a stamp made from a round piece of velvet. She pressed it on a dish where bacteria had grown as dots, so the velvet picked up a copy of the pattern. Then she pressed the velvet on new dishes with a medicine in them. Dots grew in the same places on every copy. She went back to the first dish, which had never touched the medicine, and tested the dots in those same places. They were resistant already. Joshua Lederberg shared a Nobel Prize in 1958 for other work on bacteria. Esther did not share it.",
   "who": "Esther Lederberg and Joshua Lederberg, with the earlier work of Salvador Luria and Max Delbrück",
   "when": "1943 (the numbers test) and 1952 (the velvet stamp)",
-  "wrong_idea": "Many scientists thought that bacteria become resistant because of the medicine, as if the medicine changed them. Esther Lederberg's velvet stamp showed that the resistant bacteria were already there, on a dish that had never met the medicine."
+  "wrong_idea": "Many scientists thought that bacteria become resistant because of the medicine, as if the medicine changed them. Esther Lederberg's velvet stamp showed that the resistant bacteria were already there, on a dish that had never met the medicine.",
+  "context": "Does a medicine make germs resistant, or were some of them already resistant? This card tells the true story of two scientists who tested it with a velvet stamp."
  },
  "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Yeast Test: the amounts (half a teaspoon of yeast and a teaspoon of sugar in about 100 millilitres of hand-warm water) usually foam within 10 to 15 minutes, but yeast and room warmth vary. The steps tell the parent what to do if the Plain glass stays flat, and say that the child's own result is the real one. Rice and Dal: the numbers were played out on paper and by computer many times. On Plate A the tough grains typically reach about 4 to 12 after three days, and on Plate B they stay near 2, but about one game in four loses the dal on Plate B by chance, and the steps say so. Ring the Germ: a ring at once ends at 2 to 4 houses, one week late ends near 17 to 23, and a plain spread reaches 31 of 36 houses after four weeks, as the steps state. Medicine or Not? is general learning and not medical advice, and says so. Facts to verify before release: the date and wording of Pasteur's Lille lecture, the wording of Tao Te Ching 64 and Thirukkural 948, the 1975 date for India's last smallpox case, the January 2011 date and place for India's last polio case, the 2014 polio-free date, and the exact length of the videos. Medicine doses in the lesson are made-up examples for maths practice only."
 }

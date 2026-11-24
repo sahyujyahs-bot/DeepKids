@@ -4034,7 +4034,14 @@
     "source": "Bhagavad Gita 3.14 to 3.16",
     "teaching": "Living beings come from food. Food comes from rain, and rain comes from yajna, an offering. The Gita calls this a wheel that has been set turning, and says that whoever does not help keep it turning lives in vain.",
     "link": "The Gita describes a wheel of food, rain and offering that feeds every living being. A food web turns in a similar way. Sunlight and rain grow plants, plants feed animals, and every dead body feeds the soil that grows new plants.",
-    "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।", "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।", "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।", "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।", "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।"],
+    "verse": [
+     "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।",
+     "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।",
+     "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।",
+     "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।",
+     "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।",
+     "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -4046,7 +4053,9 @@
     "source": "Tao Te Ching 77",
     "teaching": "The way of heaven takes from what has too much and gives to what has too little.",
     "link": "In Deer and Tiger Toss, when deer are many, tigers eat well and grow in number. Then the deer fall, the tigers go hungry and the deer recover. Scientists still argue about whether nature truly keeps a balance.",
-    "verse": ["天之道，損有餘而補不足。"],
+    "verse": [
+     "天之道，損有餘而補不足。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -4083,7 +4092,120 @@
   "story": "In the late 1990s, Vibhu Prakash of the Bombay Natural History Society saw that the vultures at Keoladeo, in Bharatpur, were dying. Sick birds sat hunched with drooping heads for days, then fell from their perches. Soon vultures were vanishing all over India and Pakistan. Most scientists first thought a new disease was spreading, perhaps a virus, because so many birds died so fast. Others blamed pesticides. A team led by Lindsay Oaks, an American vet working with the Peregrine Fund, examined dead vultures in Pakistan. Most had kidneys that had failed, but the team found no germ that could explain the deaths. So they asked what all the birds had eaten: dead cattle. They tested the birds for medicines given to cattle. They found the painkiller diclofenac in the vultures whose kidneys had failed. Then captive vultures fed meat from a treated animal died in the same way. The answer was published in 2004. The vultures had been poisoned by their food, one step up the food chain.",
   "who": "Vibhu Prakash of the Bombay Natural History Society, and Lindsay Oaks and his team",
   "when": "Late 1990s to 2004",
-  "wrong_idea": "Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures."
+  "wrong_idea": "Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures.",
+  "context": "Why were the vultures in India dying? This card tells the true story of a scientist who watched the sick birds and of the team who found the cause."
  },
- "warm": {"words": ["PLANT", "CHAIN", "TIGER", "GRASS", "FUNGI"], "quiz": [["In a food chain, an arrow points from the food to the animal that eats it.", true, "The arrow shows which way the food goes, so you can read it as 'is eaten by'."], ["The tiger is the most important animal in a forest because she is at the top.", false, "A tiger needs many prey animals and plants below her, and taking away smaller living things changes the whole forest."], ["There are many more plants than tigers because only a little food energy passes up each step.", true, "Most energy is used up for living at each step, so less and less is left higher up."], ["When a deer eats grass, all the energy of the grass passes to the deer.", false, "Only about a tenth passes on. The rest is used for living and ends up as heat."], ["Taking one kind of living thing out of a food web can change many others.", true, "Living things in a web depend on each other, so a change in one spreads to the rest."], ["Killing all the predators always helps the deer and the forest.", false, "Without predators, deer can become too many and eat too much plant food, which harms the forest and then the deer."], ["Every food chain starts with an animal that hunts.", false, "Almost every chain starts with a producer, a green plant or algae that makes food from sunlight."], ["Most animals eat more than one kind of food, so food chains join into food webs.", true, "When an animal eats many kinds of living things, and many kinds eat them, the chains cross and join."], ["A poison eaten by small animals stays with them and never reaches the hunters that eat them.", false, "Some poisons build up as they pass up a food chain, so animals near the top can get a lot."], ["Decomposers break dead plants and animals into nutrients that go back into the soil.", true, "The nutrients in the soil are then used by plants, so the food chain can begin again."]], "odd": [[["Grass", "Algae", "Neem tree", "Deer"], "Deer", "Grass, algae and neem make their own food from sunlight; a deer cannot, so she eats plants."], [["Crow", "Sloth bear", "Human", "Cow"], "Cow", "Crows, sloth bears and people eat both plants and animals; a cow eats only plants."], [["Fungus", "Bacteria", "Mould", "Vulture"], "Vulture", "Fungus, bacteria and mould break dead things down into nutrients for the soil; a vulture only eats dead animals."], [["Hopping", "Keeping warm", "Breathing", "Being eaten"], "Being eaten", "Hopping, keeping warm and breathing use up energy, which ends as heat; being eaten passes some on to the next eater."], [["Grass plants", "Ants", "Termites", "Tigers"], "Tigers", "Grass, ants and termites live near the bottom of food chains, where energy is plentiful, so they are many; tigers are few."]]}
+ "warm": {
+  "words": [
+   "PLANT",
+   "CHAIN",
+   "TIGER",
+   "GRASS",
+   "FUNGI"
+  ],
+  "quiz": [
+   [
+    "In a food chain, an arrow points from the food to the animal that eats it.",
+    true,
+    "The arrow shows which way the food goes, so you can read it as 'is eaten by'."
+   ],
+   [
+    "The tiger is the most important animal in a forest because she is at the top.",
+    false,
+    "A tiger needs many prey animals and plants below her, and taking away smaller living things changes the whole forest."
+   ],
+   [
+    "There are many more plants than tigers because only a little food energy passes up each step.",
+    true,
+    "Most energy is used up for living at each step, so less and less is left higher up."
+   ],
+   [
+    "When a deer eats grass, all the energy of the grass passes to the deer.",
+    false,
+    "Only about a tenth passes on. The rest is used for living and ends up as heat."
+   ],
+   [
+    "Taking one kind of living thing out of a food web can change many others.",
+    true,
+    "Living things in a web depend on each other, so a change in one spreads to the rest."
+   ],
+   [
+    "Killing all the predators always helps the deer and the forest.",
+    false,
+    "Without predators, deer can become too many and eat too much plant food, which harms the forest and then the deer."
+   ],
+   [
+    "Every food chain starts with an animal that hunts.",
+    false,
+    "Almost every chain starts with a producer, a green plant or algae that makes food from sunlight."
+   ],
+   [
+    "Most animals eat more than one kind of food, so food chains join into food webs.",
+    true,
+    "When an animal eats many kinds of living things, and many kinds eat them, the chains cross and join."
+   ],
+   [
+    "A poison eaten by small animals stays with them and never reaches the hunters that eat them.",
+    false,
+    "Some poisons build up as they pass up a food chain, so animals near the top can get a lot."
+   ],
+   [
+    "Decomposers break dead plants and animals into nutrients that go back into the soil.",
+    true,
+    "The nutrients in the soil are then used by plants, so the food chain can begin again."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Grass",
+     "Algae",
+     "Neem tree",
+     "Deer"
+    ],
+    "Deer",
+    "Grass, algae and neem make their own food from sunlight; a deer cannot, so she eats plants."
+   ],
+   [
+    [
+     "Crow",
+     "Sloth bear",
+     "Human",
+     "Cow"
+    ],
+    "Cow",
+    "Crows, sloth bears and people eat both plants and animals; a cow eats only plants."
+   ],
+   [
+    [
+     "Fungus",
+     "Bacteria",
+     "Mould",
+     "Vulture"
+    ],
+    "Vulture",
+    "Fungus, bacteria and mould break dead things down into nutrients for the soil; a vulture only eats dead animals."
+   ],
+   [
+    [
+     "Hopping",
+     "Keeping warm",
+     "Breathing",
+     "Being eaten"
+    ],
+    "Being eaten",
+    "Hopping, keeping warm and breathing use up energy, which ends as heat; being eaten passes some on to the next eater."
+   ],
+   [
+    [
+     "Grass plants",
+     "Ants",
+     "Termites",
+     "Tigers"
+    ],
+    "Tigers",
+    "Grass, ants and termites live near the bottom of food chains, where energy is plentiful, so they are many; tigers are few."
+   ]
+  ]
+ }
 }

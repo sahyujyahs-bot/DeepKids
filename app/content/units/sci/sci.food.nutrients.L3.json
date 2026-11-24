@@ -2882,21 +2882,37 @@
     "source": "Taittiriya Upanishad 3.2.1",
     "teaching": "Bhrigu came to understand that food is Brahman. From food all beings are born. By food, once born, they live. Into food they return.",
     "link": "The protein in the dal you ate yesterday is being built into your muscles today. Your body really is made from food, and goes on being remade from it.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Food, when eaten, is divided into three. Its coarsest part becomes waste. Its middle part becomes flesh. Its finest part becomes mind.",
     "link": "The sage saw that food splits into parts with different jobs. Science sorts the parts differently, into nutrients, but it also finds that each part of a food goes to a different use in the body.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति",
+     "यो मध्यमस्तन्मांसम्",
+     "योऽणिष्ठस्तन्मनः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Lucretius, On the Nature of Things, Book 1",
     "teaching": "The same first particles make the sky, the sea, the land and living things. They differ only in how they are mixed and arranged, as the same letters make many different words.",
     "link": "Sugar, fat and protein are made from the same few kinds of atoms. How the atoms are joined decides whether you get sweet sugar or paneer.",
-    "verse": ["namque eadem caelum mare terras flumina solem", "constituunt, eadem fruges arbusta animantis,", "verum aliis alioque modo commixta moventur.", "quin etiam passim nostris in versibus ipsis", "multa elementa vides multis communia verbis,"],
+    "verse": [
+     "namque eadem caelum mare terras flumina solem",
+     "constituunt, eadem fruges arbusta animantis,",
+     "verum aliis alioque modo commixta moventur.",
+     "quin etiam passim nostris in versibus ipsis",
+     "multa elementa vides multis communia verbis,"
+    ],
     "verse_lang": "la"
    }
   ],
@@ -2936,7 +2952,120 @@
   "story": "In the 1840s, Justus von Liebig, a famous German chemist, taught that working muscles burn up their own protein. So people thought protein foods were the main fuel for hard work. In 1865 two professors in Zurich, Adolf Fick and Johannes Wislicenus, decided to test this on themselves. Protein is the only nutrient in food with a lot of nitrogen in it. When the body breaks protein down, that nitrogen leaves in urine. So by measuring the nitrogen in their urine, they could work out how much protein their bodies had used. In August 1865 they climbed the Faulhorn, a mountain in Switzerland, nearly 2,000 metres up from the lake below. Before and during the climb they ate no protein, only food made of starch, fat and sugar. They collected their urine and measured its nitrogen. The protein they had used could give only a small part of the energy needed to lift their bodies up the mountain. The rest of the energy had to come from starch, fat and sugar. Liebig was wrong. Muscles run mainly on carbohydrates and fats. Protein is used mostly to build and mend the body.",
   "who": "Adolf Fick, a physiologist, and Johannes Wislicenus, a chemist, both professors in Zurich",
   "when": "August 1865",
-  "wrong_idea": "Justus von Liebig taught that working muscles burn their own protein, so protein is the main fuel for work. The Faulhorn climb showed that protein gave only a small part of the energy. Most of it came from carbohydrates and fats."
+  "wrong_idea": "Justus von Liebig taught that working muscles burn their own protein, so protein is the main fuel for work. The Faulhorn climb showed that protein gave only a small part of the energy. Most of it came from carbohydrates and fats.",
+  "context": "What gives our muscles the energy to work hard? This card tells the true story of two professors who climbed a mountain and measured what their bodies used."
  },
- "warm": {"words": ["FIBRE", "CURDS", "WATER", "SUGAR", "BONES"], "quiz": [["Dal is a protein food, so it is mostly protein.", false, "Dry dal is only about one-fifth protein; more than half of it is carbohydrate."], ["Most foods are a mix of several nutrients.", true, "Only a few, like sugar, salt and oil, are nearly one nutrient."], ["Water is not a nutrient, because it is not food.", false, "Every cell uses water, and you need more of it each day than any other nutrient."], ["Milk curdles when it turns acidic, because its main protein clumps together.", true, "An acid like lemon juice makes the protein casein clump into curds."], ["The more vitamins you take, the healthier you become.", false, "The body needs only tiny amounts, and too much of some, like A and D, can harm."], ["A spoon of fat gives about twice as much energy as a spoon of sugar.", true, "Fat stores a lot of energy in a small amount."], ["Hard workers need mostly protein, because muscles burn protein to do their work.", false, "Muscles get most energy from carbohydrates and fats; protein mostly builds and mends the body."], ["Fibre is a carbohydrate your body cannot break down, but it still helps your gut.", true, "It keeps food moving through the gut, and many gut microbes feed on it."], ["Minerals are made by animals inside their own bodies.", false, "Minerals come from rocks and soil, and reach us through plants, animals and water."], ["Vitamins are needed in tiny amounts, yet missing one for long can make a person ill.", true, "Each vitamin has its own jobs that no other nutrient can do."]], "odd": [[["Sugar", "Starch", "Fibre", "Protein"], "Protein", "Sugar, starch and fibre are all carbohydrates; protein is a different nutrient made of amino acids."], [["Calcium", "Iron", "Iodine", "Vitamin C"], "Vitamin C", "Calcium, iron and iodine are minerals from rocks and soil; vitamin C is a vitamin."], [["Sugar", "Salt", "Oil", "Milk"], "Milk", "Sugar, salt and oil are nearly one nutrient each; milk is a mix of many nutrients."], [["Vitamin A", "Vitamin D", "Iodine", "Water"], "Water", "The first three are needed in tiny amounts; water is needed in far larger amounts than any other nutrient."], [["Lemon juice", "Vinegar", "Sour tamarind water", "Plain water"], "Plain water", "The first three are acids that make hot milk curdle; plain water is not an acid."]]}
+ "warm": {
+  "words": [
+   "FIBRE",
+   "CURDS",
+   "WATER",
+   "SUGAR",
+   "BONES"
+  ],
+  "quiz": [
+   [
+    "Dal is a protein food, so it is mostly protein.",
+    false,
+    "Dry dal is only about one-fifth protein; more than half of it is carbohydrate."
+   ],
+   [
+    "Most foods are a mix of several nutrients.",
+    true,
+    "Only a few, like sugar, salt and oil, are nearly one nutrient."
+   ],
+   [
+    "Water is not a nutrient, because it is not food.",
+    false,
+    "Every cell uses water, and you need more of it each day than any other nutrient."
+   ],
+   [
+    "Milk curdles when it turns acidic, because its main protein clumps together.",
+    true,
+    "An acid like lemon juice makes the protein casein clump into curds."
+   ],
+   [
+    "The more vitamins you take, the healthier you become.",
+    false,
+    "The body needs only tiny amounts, and too much of some, like A and D, can harm."
+   ],
+   [
+    "A spoon of fat gives about twice as much energy as a spoon of sugar.",
+    true,
+    "Fat stores a lot of energy in a small amount."
+   ],
+   [
+    "Hard workers need mostly protein, because muscles burn protein to do their work.",
+    false,
+    "Muscles get most energy from carbohydrates and fats; protein mostly builds and mends the body."
+   ],
+   [
+    "Fibre is a carbohydrate your body cannot break down, but it still helps your gut.",
+    true,
+    "It keeps food moving through the gut, and many gut microbes feed on it."
+   ],
+   [
+    "Minerals are made by animals inside their own bodies.",
+    false,
+    "Minerals come from rocks and soil, and reach us through plants, animals and water."
+   ],
+   [
+    "Vitamins are needed in tiny amounts, yet missing one for long can make a person ill.",
+    true,
+    "Each vitamin has its own jobs that no other nutrient can do."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sugar",
+     "Starch",
+     "Fibre",
+     "Protein"
+    ],
+    "Protein",
+    "Sugar, starch and fibre are all carbohydrates; protein is a different nutrient made of amino acids."
+   ],
+   [
+    [
+     "Calcium",
+     "Iron",
+     "Iodine",
+     "Vitamin C"
+    ],
+    "Vitamin C",
+    "Calcium, iron and iodine are minerals from rocks and soil; vitamin C is a vitamin."
+   ],
+   [
+    [
+     "Sugar",
+     "Salt",
+     "Oil",
+     "Milk"
+    ],
+    "Milk",
+    "Sugar, salt and oil are nearly one nutrient each; milk is a mix of many nutrients."
+   ],
+   [
+    [
+     "Vitamin A",
+     "Vitamin D",
+     "Iodine",
+     "Water"
+    ],
+    "Water",
+    "The first three are needed in tiny amounts; water is needed in far larger amounts than any other nutrient."
+   ],
+   [
+    [
+     "Lemon juice",
+     "Vinegar",
+     "Sour tamarind water",
+     "Plain water"
+    ],
+    "Plain water",
+    "The first three are acids that make hot milk curdle; plain water is not an acid."
+   ]
+  ]
+ }
 }

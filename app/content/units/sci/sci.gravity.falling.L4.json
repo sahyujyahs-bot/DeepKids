@@ -460,7 +460,10 @@
     "source": "Isha Upanishad, verse 5",
     "teaching": "It moves, and it does not move. It is far, and it is near. It is inside all this, and it is outside all this.",
     "link": "In the train, the lime is moving at 80 kilometres an hour and is also at rest in your hand. Both are true, depending on what you compare it with.",
-    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse": [
+     "तदेजति तन्नैजति तद्दूरे तद्वन्तिके",
+     "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2775,7 +2778,8 @@
   "story": "In 1604, the Italian scientist Galileo Galilei wrote a letter to his friend Paolo Sarpi. He had found a rule for falling things and he was sure of it. He thought that the speed of a falling thing grows in proportion to the distance it has fallen. Later he saw that this could not be true. If it were, a stone would take the same time to fall the first 4 feet as to fall 8 feet, because after 4 feet it would be going twice as fast as after 2. But the first 4 feet are only a part of the 8 feet, so the whole fall cannot take the same time as a part of itself. That would mean the fall happened in no time at all, and that is impossible. So the speed must grow with the time of the fall. In 1638, in his book Two New Sciences, Galileo gave the right rule and tested it with balls rolling down slopes. Historians think the argument against the first rule is Galileo correcting his own early mistake.",
   "who": "Galileo Galilei, an Italian scientist (1564 to 1642)",
   "when": "1604 (the letter to Paolo Sarpi) and 1638 (the book Two New Sciences)",
-  "wrong_idea": "The speed of a falling thing grows in proportion to the distance it has fallen. Galileo showed it wrong by reasoning: it would make falling 4 feet and 8 feet take the same time, which is impossible. The right rule is that speed grows with time."
+  "wrong_idea": "The speed of a falling thing grows in proportion to the distance it has fallen. Galileo showed it wrong by reasoning: it would make falling 4 feet and 8 feet take the same time, which is impossible. The right rule is that speed grows with time.",
+  "context": "How does a falling thing speed up? This card tells the true story of a scientist who made a guess, and then found that his own reasoning showed it was wrong."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Liner Stacks: the expected times (roughly 1.5 to 2 seconds for one liner and about 1 second for four, from 2 metres) come from the physics of a light paper cup, so check at home that the stack of four lands clearly sooner. Tumbling is common, so the steps say to repeat a wobble. The newspaper cones are a no-buy alternative that has not been dropped yet. Walking Drop: the landing distances of 20 to 90 centimetres come from a fall time of about 0.45 seconds at shoulder height, and a dough ball does not bounce. Dents in Dough: expect dents of a few millimetres, deeper from higher up, but dough springs back, so the ratio of 4 may not appear. The maths uses made-up numbers. Swings: about 20, 14 and 10 swings in 20 seconds for strings of 25, 50 and 100 centimetres, and the same count for one washer or three. Falling on Video: needs a phone that can step through a clip one frame at a time, or the free VLC player on a computer, and the expected values are 14, 54, 122 and 176 centimetres at frames 5, 10, 15 and 18 at 30 frames a second. Marble to the Cup: the paper ramp must stay still between tries. The videos have no address yet. Facts to check before the unit goes live: the top speeds of a falcon, a skydiver and a coin, the wording of the objections of Varahamihira and Brahmagupta, the date of Galileo's letter to Sarpi, the verse number in the Aryabhatiya, the cat study figures, and the speed of the Solar System compared with the cosmic microwave background.",
  "warm": {

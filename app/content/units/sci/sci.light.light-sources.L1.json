@@ -1942,7 +1942,8 @@
   "story": "For a long time, many astronomers thought the Sun was made of much the same stuff as the Earth: rock and metals like iron. In the 1920s, a young woman called Cecilia Payne studied the light of the Sun and other stars. She was from England, but her university there did not give women full degrees, so she went to study in America. She used a rule worked out a few years earlier by Meghnad Saha, a scientist from Bengal in India. His rule showed how a star's heat changes its light. With it, she could work out what each star is made of. In 1925 she found that stars are made mostly of hydrogen, the lightest gas, with helium next. A famous astronomer, Henry Norris Russell, told her this was impossible. So she wrote that her result was probably not real. Four years later, Russell's own work showed that she had been right. Today we know the Sun is a huge ball of very hot gas, mostly hydrogen. Deep inside it, hydrogen joins to make helium, and that makes the Sun's light and heat.",
   "who": "Cecilia Payne, an English-American astronomer; Meghnad Saha, an Indian scientist from Bengal; Henry Norris Russell, an American astronomer",
   "when": "1920 to 1929",
-  "wrong_idea": "Astronomers thought the Sun and stars were made of much the same stuff as the Earth. Cecilia Payne showed from their light that they are mostly hydrogen, and four years later other astronomers agreed."
+  "wrong_idea": "Astronomers thought the Sun and stars were made of much the same stuff as the Earth. Cecilia Payne showed from their light that they are mostly hydrogen, and four years later other astronomers agreed.",
+  "context": "What are the Sun and the stars made of? This card tells the true story of a young astronomer who read the answer in their light."
  },
  "plan": {
   "start_options": [

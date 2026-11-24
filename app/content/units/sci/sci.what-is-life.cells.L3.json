@@ -2964,21 +2964,29 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.'",
     "link": "Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from that seed. Science finds that the tree is built of cells too small to see, each one made by another cell.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra of Umasvati, chapter 2",
     "teaching": "Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants.",
     "link": "Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around them.",
-    "verse": ["वनस्पत्यन्तानामेकम्"],
+    "verse": [
+     "वनस्पत्यन्तानामेकम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Aristotle, On the Soul (De Anima), Book II",
     "teaching": "Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense.",
     "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards the food.",
-    "verse": ["Δυνάμεις δ’ εἴπομεν θρεπτικόν, ὀρεκτικόν, αἰσθητικόν, κινητικὸν κατὰ τόπον, διανοητικόν.", "Ὑπάρχει δὲ τοῖς μὲν φυτοῖς τὸ θρεπτικὸν μόνον, ἑτέροις δὲ τοῦτό τε καὶ τὸ αἰσθητικόν."],
+    "verse": [
+     "Δυνάμεις δ’ εἴπομεν θρεπτικόν, ὀρεκτικόν, αἰσθητικόν, κινητικὸν κατὰ τόπον, διανοητικόν.",
+     "Ὑπάρχει δὲ τοῖς μὲν φυτοῖς τὸ θρεπτικὸν μόνον, ἑτέροις δὲ τοῦτό τε καὶ τὸ αἰσθητικόν."
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3097,7 +3105,8 @@
   "story": "In 1838 and 1839, Matthias Schleiden and Theodor Schwann said that plants and animals are made of cells. But where do new cells come from? Schwann thought they formed by themselves in a clear liquid inside the body, the way crystals form in salty water as it dries. Many scientists agreed with him. Robert Remak, a doctor in Berlin, was not sure. For years he watched cells in growing chick eggs and frog eggs under his microscope. Again and again, he saw a new cell appear only when a cell split in two. He never saw a cell form in the liquid. He published this in 1852. Three years later, Rudolf Virchow wrote the same idea as a famous Latin line, 'omnis cellula e cellula', which means every cell comes from a cell. Virchow became famous for it, and Remak was mostly forgotten. Part of the reason was that Remak was Jewish, and Prussian universities held Jewish scientists back. He was never made a full professor. Today historians give him the credit.",
   "who": "Robert Remak, who showed it, and Rudolf Virchow, who made it famous",
   "when": "1852 to 1855",
-  "wrong_idea": "New cells form by themselves in a clear liquid, like crystals in drying salt water. Remak watched growing eggs for years and saw new cells appear only when a cell split."
+  "wrong_idea": "New cells form by themselves in a clear liquid, like crystals in drying salt water. Remak watched growing eggs for years and saw new cells appear only when a cell split.",
+  "context": "Where do new cells come from? This card tells the true story of a scientist who watched growing eggs for years."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, in a flat. G1: 27 cards written out one by one and 3 mats; added an answer list for the parent, made the TEST IT step fit all three test cards. G2: added how the first run is judged, what a wall means, and a new hiding place each round. E2: the onion is now looked at with the same microscope and stain as the cheek, so the comparison is fair, and the cat comparison was dropped. E3: removed a note about another lesson. Leaf peels (a5, p1) only work with Rhoeo, so the steps now say what to do if nothing peels. A1 is now a close-looking session at a table, as its steps are. Leeuwenhoek is introduced at first mention. Removed repeated questions (wooden spoon, curd bowls, run and tumble, doubling bacteria, why cells are small, the first cell, mustard seed and onion cells) and one weak joke, kept 9 jokes, took out the picture book that no step needed, and set the video notes after checking the three videos exist. Added dahi, thayir, perugu and doi, bamboo and jute, and a saree for rule 28. Core path unchanged. Doubtful by nature: onion cells with a phone and water drop are faint, and cheek cells and bacteria need a real microscope; the steps say so."
 }

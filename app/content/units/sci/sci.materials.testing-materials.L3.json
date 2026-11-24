@@ -618,7 +618,8 @@
   "who": "Charles Inglis (1913), Alan Arnold Griffith (1920) and Constance Tipper (1940s)",
   "when": "1913 to the 1950s",
   "wrong_idea": "That each material has one fixed strength, so every piece of the same glass or steel is about equally strong. Griffith's thin glass threads were far stronger for their size than thick rods. That showed that hidden cracks, not the material alone, set the breaking load.",
-  "art": "An engineer in a 1920s laboratory drawing a glowing glass rod into a long, hair-thin thread over a small flame, a row of thick glass rods on the bench beside him."
+  "art": "An engineer in a 1920s laboratory drawing a glowing glass rod into a long, hair-thin thread over a small flame, a row of thick glass rods on the bench beside him.",
+  "context": "Is every piece of the same material equally strong? This card tells the true story of an engineer who tested very thin glass threads."
  },
  "story": {
   "title": "The Button on the Water",
@@ -4917,7 +4918,9 @@
     "source": "Kalama Sutta, Anguttara Nikaya 3.65 (Pali Canon)",
     "teaching": "The Buddha told the people of Kesaputta, called the Kalamas, not to believe something only because it is old, or written down, or said by a respected teacher. When you know for yourselves, by looking carefully, that something is true, then accept it.",
     "link": "This is the spirit of a fair test. We did not believe the shopkeeper, or even our own first guess. We tested, and let the rain and the coins decide.",
-    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."],
+    "verse": [
+     "Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
+    ],
     "verse_lang": "pi"
    },
    {

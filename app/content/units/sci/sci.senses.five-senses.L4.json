@@ -475,21 +475,33 @@
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad asks what is behind the senses. It speaks of the ear of the ear, the mind of the mind and the eye of the eye. Something hears through the ear and sees through the eye, and cannot itself be heard or seen.",
     "link": "Science finds that the ear and the eye only send pulses to the brain. The question of who is aware of those pulses is the same question the Upanishad asks.",
-    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse": [
+     "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं",
+     "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Sabba Sutta, Samyutta Nikaya 35.23",
     "teaching": "The Buddha taught that 'the all', everything we can know, is the eye and what it sees, the ear and what it hears, the nose, the tongue, the body and the mind, each with what it meets.",
     "link": "This matches what the science of the senses finds. All we know of the world has come through the senses and the brain's work on their signals.",
-    "verse": ["Kiñca, bhikkhave, sabbaṁ?", "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca", "idaṁ vuccati, bhikkhave, sabbaṁ."],
+    "verse": [
+     "Kiñca, bhikkhave, sabbaṁ?",
+     "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca",
+     "idaṁ vuccati, bhikkhave, sabbaṁ."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Plato, Republic, Book 7 (the cave)",
     "teaching": "Plato, a Greek thinker, told of prisoners who see only shadows on a wall and take them for the whole of reality. One prisoner turns round and learns that the shadows were made by something else.",
     "link": "Our brain also meets the world through signals and builds a picture. The picture is useful and real as an experience, and it is not the thing itself.",
-    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.", "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"],
+    "verse": [
+     "ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει",
+     "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;",
+     "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.",
+     "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -524,7 +536,8 @@
   "story": "For centuries, people thought that a signal in a nerve must be as quick as thought, perhaps as quick as light. In the 1840s the famous German scientist Johannes Müller wrote that its speed would probably never be measured. In 1850 another German scientist, Hermann von Helmholtz, tried anyway. He took the leg nerve of a frog, with the calf muscle still attached. He gave the nerve a small electric shock at two spots, one near the muscle and one further away. Then he timed, with a fast device he built himself, how long the muscle took to twitch. The twitch came slightly later when the shock was further from the muscle. From the extra distance and the extra time, he worked out the speed. It was about 30 metres each second, much slower than light. Helmholtz soon tried it on people, who were asked to press a button when they felt a touch. The results varied more, but they showed the same thing. A signal takes time, and the body is always a little behind the world.",
   "who": "Hermann von Helmholtz, a German scientist (1821 to 1894)",
   "when": "1850",
-  "wrong_idea": "Many scientists, including Johannes Müller, thought a nerve signal was too fast to measure, perhaps as fast as light. Helmholtz showed it is slow enough to time with a frog's leg."
+  "wrong_idea": "Many scientists, including Johannes Müller, thought a nerve signal was too fast to measure, perhaps as fast as light. Helmholtz showed it is slow enough to time with a frog's leg.",
+  "context": "How fast does a signal travel along a nerve? This card tells the true story of a scientist who timed it with a frog's leg."
  },
  "games": [
   {

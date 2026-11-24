@@ -2788,14 +2788,20 @@
     "source": "Tao Te Ching, chapter 63",
     "teaching": "Deal with a hard thing while it is still easy. Handle a great thing while it is still small.",
     "link": "Sorting one peel at the bin takes a second. Sorting a mountain of mixed waste takes years, and may never be done.",
-    "verse": ["圖難於其易，為大於其細。", "天下難事必作於易，天下大事必作於細。"],
+    "verse": [
+     "圖難於其易，為大於其細。",
+     "天下難事必作於易，天下大事必作於細。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Tirukkural, verse 298",
     "teaching": "Water makes the outside clean. Truthfulness makes the inside clean.",
     "link": "In the Two-Jar Test, water rinsed the milk packet clean, but it could not clean the soaked paper. Water cleans only the outside of things.",
-    "verse": ["புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை", "வாய்மையால் காணப் படும்."],
+    "verse": [
+     "புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை",
+     "வாய்மையால் காணப் படும்."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2837,6 +2843,7 @@
   "who": "Hajime Hosokawa, a doctor, the research team at Kumamoto University, and the writer Michiko Ishimure, who told the families' story",
   "when": "1956 to 1968",
   "wrong_idea": "That poisonous waste poured into the huge sea would spread out and become harmless. Instead, the mercury built up in fish, and the people and cats who ate them were poisoned.",
-  "art": "A quiet fishing bay in Japan in the 1950s, small wooden boats on the water, a factory chimney on the shore, and a doctor in a white coat kneeling beside a cat on a jetty."
+  "art": "A quiet fishing bay in Japan in the 1950s, small wooden boats on the water, a factory chimney on the shore, and a doctor in a white coat kneeling beside a cat on a jetty.",
+  "context": "What happens to poisonous waste that is poured into the sea? This card tells the true story of a fishing town in Japan and of the doctors who found out."
  }
 }

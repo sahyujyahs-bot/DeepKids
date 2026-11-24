@@ -3689,7 +3689,11 @@
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka tells his son Shvetaketu: if someone cuts this great tree at the root, the middle or the top, sap flows out, but the tree lives on. Full of life, the tree stands and drinks in water. But if life leaves one branch, that branch dries up. The body dies when life leaves it. Life itself does not die.",
     "link": "Uddalaka noticed the same signs we test: the tree drinks water and lives on after being cut, and a dead branch dries up. He then asked what life itself is, beyond the signs.",
-    "verse": ["अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत्", "स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति", "जीवापेतं वाव किलेदं म्रियते न जीवो म्रियत इति"],
+    "verse": [
+     "अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत्",
+     "स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति",
+     "जीवापेतं वाव किलेदं म्रियते न जीवो म्रियत इति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3736,7 +3740,8 @@
   "story": "For thousands of years, people believed that some living things start by themselves from non-living things. Maggots seemed to grow out of rotting meat, and mice out of old grain. This idea is called spontaneous generation. In 1668, Francesco Redi, an Italian doctor, put pieces of meat in jars. He left some jars open and covered others with fine cloth, so flies could not reach the meat. Flies landed on the open meat, and maggots appeared there. The covered meat rotted too, but no maggots grew on it. So the maggots hatched from eggs laid by flies. Still, many people thought tiny living things, too small to see, could start by themselves in soup. Around 1860, Louis Pasteur, in France, boiled soup in flasks with long, curved necks. Air could get in, but dust and tiny living things stuck in the bend. The soup stayed clear for months. When he snapped a neck off, the soup went cloudy within days. So we now know that today, living things come only from other living things.",
   "who": "Francesco Redi, an Italian doctor, and Louis Pasteur, a French scientist",
   "when": "1668 and about 1860",
-  "wrong_idea": "That living things such as maggots, mice and germs can start by themselves from meat, grain or soup. This is called spontaneous generation."
+  "wrong_idea": "That living things such as maggots, mice and germs can start by themselves from meat, grain or soup. This is called spontaneous generation.",
+  "context": "Can living things start by themselves from things that are not alive? This card tells the true story of two scientists who tested it with meat and with soup."
  },
  "playtest": "Played both games with 2 and 4 players, followed every experiment, activity, project and challenge step by step in a flat, and read every worksheet, quiz and card on its own. Fixed: the balloon test now runs 55 minutes (the 30-minute wait was counted as 10) and uses 1 teaspoon of yeast per bottle (3 teaspoons, so one packet is enough); the seed test moves the dry seeds to wet cotton on day 4 so they have two days to wake before the day 6 measuring, the fair-test text and quiz now say cup B stays dry on purpose, and the worksheet answer matches; the Mars detector uses half a lemon and an honest note if cup A stays flat; the touch-me-not step no longer says Bose found the habituation result and shows it as debated; the car check in the Seven Signs Trial is gone because the card game asks it; MRS GREN Moves now has an end and uses one action card with one living-thing card; the Life Diary title no longer promises all seven signs in 10 days and the two pots sit by the same window; internal plan notes were removed from the buy list; the leaf joke was cut (9 jokes left); a few North-only foods and places were swapped for dhokla, Shillong and a bamboo basket. Kept: names, ids, plan order, roots and all science. Not checked: the three videos and the website addresses were not opened."
 }

@@ -251,7 +251,8 @@
   "who": "John Kerrich, a South African mathematician. Persi Diaconis, Susan Holmes and Richard Montgomery, who study mathematics and statistics in the United States. A team led by František Bartoš.",
   "when": "Kerrich's 10,000 tosses during the Second World War, published in 1946. Diaconis, Holmes and Montgomery in 2007. The 350,000 tosses in 2023.",
   "wrong_idea": "People thought a coin tossed by hand is exactly half and half. Very many tosses showed that it lands on its starting side a tiny bit more often, about 51 times in 100.",
-  "art": "A man in a prison camp hut tossing a coin onto a table, while his friend writes long rows of tally marks in a notebook."
+  "art": "A man in a prison camp hut tossing a coin onto a table, while his friend writes long rows of tally marks in a notebook.",
+  "context": "When we toss a coin, is it exactly half heads and half tails? This card tells the true story of people who tossed coins thousands of times."
  },
  "story": {
   "title": "Meera, Kiran and the Six That Would Not Come",
@@ -2099,7 +2100,10 @@
     "source": "Bhagavad Gita 2.47",
     "teaching": "Krishna tells Arjuna that his part is to act, and that the result is not his to control.",
     "link": "In the coin test, you could choose how to shake the tumbler, but not how the coin landed. Your part was the toss and the honest count.",
-    "verse": ["कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।", "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।"],
+    "verse": [
+     "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+     "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।"
+    ],
     "verse_lang": "sa"
    },
    {

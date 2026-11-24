@@ -3818,21 +3818,28 @@
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 8",
     "teaching": "Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, taught that a doer and a deed depend on each other. There is no doer without a deed, and no deed without a doer.",
     "link": "A magnet is a puller only because there is a nail to pull. The pull is what they do together.",
-    "verse": ["प्रतीत्य कारकः कर्म तं प्रतीत्य च कारकम्", "कर्म प्रवर्तते नान्यत् पश्यामः सिद्धिकारणम्"],
+    "verse": [
+     "प्रतीत्य कारकः कर्म तं प्रतीत्य च कारकम्",
+     "कर्म प्रवर्तते नान्यत् पश्यामः सिद्धिकारणम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 2",
     "teaching": "Being and non-being give birth to each other. Hard and easy complete each other. Long and short measure each other. Front and back follow each other.",
     "link": "A magnet always has a north pole and a south pole together. A pull has two ends, and each end needs the other.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "Heraclitus said that the harmony of the world comes from tension that pulls in both directions, like the bow and the lyre.",
     "link": "A pulled bowstring pulls the bow back as hard as the bow pulls the string. Magnet and nail are held in the same kind of tension.",
-    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse": [
+     "οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3867,7 +3874,8 @@
   "story": "For centuries, many writers described the lodestone, the old magnet stone, as the active one that drew the iron, and the iron as the one that was only drawn. In 1600, the English doctor William Gilbert wrote that the attraction goes both ways. He reported floating a lodestone on the water in a small vessel and bringing iron near it, and the lodestone moved towards the iron. In 1687, Isaac Newton wrote down a rule for every push and pull in nature. When one body pushes or pulls another, the other pushes or pulls back with equal force in the opposite direction. The rule has been tested for more than three hundred years, on planets, on rockets and on magnets on rafts. It has never failed once.",
   "who": "William Gilbert, an English doctor, and Isaac Newton, an English mathematician",
   "when": "1600 and 1687",
-  "wrong_idea": "Many people thought the lodestone was the only one that pulled, and the iron was merely drawn. Gilbert's floating lodestone showed that the iron draws the lodestone too, and Newton showed that this is true of every pull."
+  "wrong_idea": "Many people thought the lodestone was the only one that pulled, and the iron was merely drawn. Gilbert's floating lodestone showed that the iron draws the lodestone too, and Newton showed that this is true of every pull.",
+  "context": "When a magnet pulls a nail, does the nail pull back? This card tells the true story of scientists who tested it with a floating magnet."
  },
  "sources": {
   "founder": [

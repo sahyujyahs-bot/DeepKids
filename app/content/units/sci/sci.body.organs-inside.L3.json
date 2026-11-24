@@ -3449,7 +3449,13 @@
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on.",
     "link": "In this lesson, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.",
-    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse": [
+     "सा ह वागुच्चक्राम",
+     "सा संवत्सरं प्रोष्य पर्येत्योवाच",
+     "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्",
+     "भगवन्नेधि",
+     "त्वं नः श्रेष्ठोऽसि"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3461,7 +3467,11 @@
     "source": "Tao Te Ching 76",
     "teaching": "A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life.",
     "link": "Your brain is one of the softest parts of you. In the egg in the jar test, the soft water around the egg protected it better than the hard jar alone.",
-    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。",
+     "萬物草木之生也柔脆，其死也枯槁。",
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3495,8 +3505,121 @@
   "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open human bodies and traced the nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, tested the idea in front of an audience. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though the heart kept beating and the pig kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice. He also cut the spinal cord of animals at different places, and showed which parts of the body could no longer move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
   "who": "Aristotle, Herophilus and Galen",
   "when": "About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment)",
-  "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while the heart kept beating."
+  "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while the heart kept beating.",
+  "context": "Which part of the body does our thinking, the heart or the brain? This card tells the true story of how doctors in ancient times found out."
  },
  "playtest": "Walked through the unit as a family would: printed and played both games with 2 and with 4 players, did the three experiments, six activities, project and two challenges step by step in a city flat, and read every card on its own. Fixes: the clue game had no way to play with 2 (the reader never raced), so a 2-player rule was added. The busy-day game now says a player with two organs takes a token per organ, and the practice card is shuffled back. The egg test now checks after 5 shakes and, if needed, after 10, and says honestly that neither egg may crack (a raw egg is tougher than it looks); step minutes were re-added so they total 25. The mishri test now has 14 minutes for two timed tries. The Brain Mayor idea was dropped from the Body Council because the unit itself says the body is more a team than a kingdom. The core worksheet now comes after the egg test it refers to. Removed unneeded safety lines (scissors, stapler), a PhET link that did not point to a body simulation, 3 weak jokes (added 2 better ones, 9 in all), and repeated questions (the heart-position and stomach-behind-the-belly-button items in the core worksheet, the octopus hearts question in the quiz). The line about the brain and pain now says it has no pain sensors of its own. Examples were widened with dosas, thepla and a Northeast name, Mitali. Both games print every item (24 clue cards, 8 tokens, 18 events, 36 energy tokens, 4 role cards with pictures). The three videos have not been opened by a person, so someone should watch them before they stay in.",
- "warm": {"words": ["HEART", "LUNGS", "BRAIN", "BLOOD", "NERVE"], "quiz": [["The stomach sits high in the belly, under the ribs on the left.", true, "It is tucked under the lowest ribs, not behind the belly button."], ["The heart sits on the left side of the chest.", false, "It is in the middle of the chest, with only about two-thirds of it left of the middle."], ["The brain is the boss, and it alone makes every organ work.", false, "The heart starts its own beat, and the brain stops working within minutes without the heart's blood."], ["The skull and ribs guard soft organs inside you.", true, "Hard bone makes a helmet round the brain and a cage round the heart and lungs."], ["We only use ten per cent of our brain.", false, "Over a day almost every part of the brain is busy, and damage anywhere causes trouble."], ["Every organ needs the other organs to keep working.", true, "Organs pass things and messages to each other all the time, so none can work alone."], ["People think with their heart, not their brain.", false, "In people, the brain does much of the thinking. People with an artificial heart pump still think and feel as before."], ["Blood carries oxygen from the lungs to the cells in your toe.", true, "Lungs take in oxygen, and blood delivers it to every cell in the body."], ["Sore patches in the stomach are caused only by stress and spicy food.", false, "A germ living in the stomach was found to cause them."], ["An organ is made of tissues, and tissues are made of cells.", true, "Many cells of one kind make a tissue, and different tissues join to make an organ."]], "odd": [[["Skull", "Rib cage", "Backbone", "Stomach"], "Stomach", "The other three are hard bones that guard soft parts; the stomach is a soft, stretchy bag."], [["Nerve", "Spinal cord", "Brain", "Heart"], "Heart", "The other three carry or work with messages for the body; the heart pumps blood."], [["Heart", "Stomach", "Gut", "Lungs"], "Lungs", "The other three squeeze with muscles of their own; the lungs are spongy bags that other muscles stretch."], [["Cell", "Tissue", "Organ", "Oxygen"], "Oxygen", "The other three are building parts of the body; oxygen is a gas that the cells use."], [["Lungs", "Windpipe", "Nose", "Stomach"], "Stomach", "The other three are on the path that air takes into the body; the stomach is on the food path."]]}
+ "warm": {
+  "words": [
+   "HEART",
+   "LUNGS",
+   "BRAIN",
+   "BLOOD",
+   "NERVE"
+  ],
+  "quiz": [
+   [
+    "The stomach sits high in the belly, under the ribs on the left.",
+    true,
+    "It is tucked under the lowest ribs, not behind the belly button."
+   ],
+   [
+    "The heart sits on the left side of the chest.",
+    false,
+    "It is in the middle of the chest, with only about two-thirds of it left of the middle."
+   ],
+   [
+    "The brain is the boss, and it alone makes every organ work.",
+    false,
+    "The heart starts its own beat, and the brain stops working within minutes without the heart's blood."
+   ],
+   [
+    "The skull and ribs guard soft organs inside you.",
+    true,
+    "Hard bone makes a helmet round the brain and a cage round the heart and lungs."
+   ],
+   [
+    "We only use ten per cent of our brain.",
+    false,
+    "Over a day almost every part of the brain is busy, and damage anywhere causes trouble."
+   ],
+   [
+    "Every organ needs the other organs to keep working.",
+    true,
+    "Organs pass things and messages to each other all the time, so none can work alone."
+   ],
+   [
+    "People think with their heart, not their brain.",
+    false,
+    "In people, the brain does much of the thinking. People with an artificial heart pump still think and feel as before."
+   ],
+   [
+    "Blood carries oxygen from the lungs to the cells in your toe.",
+    true,
+    "Lungs take in oxygen, and blood delivers it to every cell in the body."
+   ],
+   [
+    "Sore patches in the stomach are caused only by stress and spicy food.",
+    false,
+    "A germ living in the stomach was found to cause them."
+   ],
+   [
+    "An organ is made of tissues, and tissues are made of cells.",
+    true,
+    "Many cells of one kind make a tissue, and different tissues join to make an organ."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Skull",
+     "Rib cage",
+     "Backbone",
+     "Stomach"
+    ],
+    "Stomach",
+    "The other three are hard bones that guard soft parts; the stomach is a soft, stretchy bag."
+   ],
+   [
+    [
+     "Nerve",
+     "Spinal cord",
+     "Brain",
+     "Heart"
+    ],
+    "Heart",
+    "The other three carry or work with messages for the body; the heart pumps blood."
+   ],
+   [
+    [
+     "Heart",
+     "Stomach",
+     "Gut",
+     "Lungs"
+    ],
+    "Lungs",
+    "The other three squeeze with muscles of their own; the lungs are spongy bags that other muscles stretch."
+   ],
+   [
+    [
+     "Cell",
+     "Tissue",
+     "Organ",
+     "Oxygen"
+    ],
+    "Oxygen",
+    "The other three are building parts of the body; oxygen is a gas that the cells use."
+   ],
+   [
+    [
+     "Lungs",
+     "Windpipe",
+     "Nose",
+     "Stomach"
+    ],
+    "Stomach",
+    "The other three are on the path that air takes into the body; the stomach is on the food path."
+   ]
+  ]
+ }
 }

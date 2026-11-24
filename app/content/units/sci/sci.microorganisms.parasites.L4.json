@@ -550,14 +550,20 @@
     "source": "Bhagavad Gita 2.13",
     "teaching": "As the one who lives in this body passes through childhood, youth and old age, so the same one passes into another body. The wise are not troubled by this.",
     "link": "A Guinea worm passes through a speck, a larva and an adult, in water, in a copepod and in a person. The Gita points to the same idea: one life, many bodies in a row.",
-    "verse": ["देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।", "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।"],
+    "verse": [
+     "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।",
+     "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, as quoted by Plato in Cratylus 402a",
     "teaching": "Everything moves and nothing stays still, and you could not step twice into the same river.",
     "link": "The parasite is never the same twice, and yet she is the same life. Like the river, she keeps changing and is never a fixed thing.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3491,7 +3497,8 @@
   "story": "In 1877, in Amoy in China, a Scottish doctor named Patrick Manson wondered how a tiny worm in people's blood, which could swell their legs, passed to new people. He let mosquitoes bite his gardener, who carried the worms, and later cut the mosquitoes open. He found the worms growing inside them. Nobody had shown before that an insect could carry a worm that infects people. But Manson made a wrong guess. He thought the mosquito died on the water, and that people got ill by drinking the water with the dead mosquito. For over twenty years, many doctors believed it. In 1900, another doctor, George Low, cut open mosquitoes and found the grown young worms in their mouthparts. They enter the skin when a mosquito bites. The drinking idea was wrong. Years before, in 1872, Timothy Lewis had found baby worms in the blood of patients in Calcutta.",
   "who": "Patrick Manson, George Low, and Timothy Lewis, with Manson's gardener whose blood held the worms",
   "when": "1872 (baby worms found in Calcutta), 1877 (they grow in mosquitoes) and 1900 (they enter the skin by a bite)",
-  "wrong_idea": "Manson thought people caught the worm by drinking water in which infected mosquitoes had died. George Low showed that the young worms sit in the mosquito's mouthparts and enter the skin when she bites."
+  "wrong_idea": "Manson thought people caught the worm by drinking water in which infected mosquitoes had died. George Low showed that the young worms sit in the mosquito's mouthparts and enter the skin when she bites.",
+  "context": "How does a tiny worm in a person's blood get from one person to the next? This card tells the true story of doctors who studied it in China and Australia."
  },
  "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Sari Filter Test: needs only seeds, cloth, a glass, a plate and a clock. The steps tell the parent what to do if the water is very slow, and say that the child's own cloths decide the result. The pattern in the examples is made up. Four Pots: grows wrigglers on purpose, so it runs for only five days and the steps tell the grown-up to empty and scrub on day 5. In dry or cold weather no mosquitoes may come, and the steps say that is a result too, to be repeated in a warmer week. Odds Gates: the average numbers for the gate rolls were worked out by hand and checked, about 2 of 36 beans in the plain run and about 6 with the snail. Order the Journey and Who Am I? have every card written out. Facts to verify before release: that India was certified free of Guinea worm in 2000, the sizes of copepods and larvae, the wording of the Gita verse 2.13 and of the line from Heraclitus in Plato's Cratylus 402a, the details of Manson's 1878 paper and Low's 1900 paper, Lewis's 1872 report from Calcutta, the claim that Anopheles mosquitoes sense heat from skin, the state of Guinea worm in dogs, and the length of the videos."
 }

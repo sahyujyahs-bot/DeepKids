@@ -2975,7 +2975,8 @@
   "who": "Friedrich Wöhler, Hermann Kolbe and August Kekulé from Germany, Archibald Couper from Scotland, and Kathleen Lonsdale in England",
   "when": "Wöhler made urea in 1828. Kolbe made the acid of vinegar in 1845. Kekulé and Couper published in 1858, and Kekulé proposed the ring in 1865. Lonsdale's X-ray work was published in 1929.",
   "wrong_idea": "That the substances of living things could be made only inside a living body, by a life force. Wöhler made urea from a mineral salt, and Kolbe made the acid of vinegar from carbon. So these substances follow the same chemistry as salt and rock.",
-  "art": "A young chemist of the 1820s in a small laboratory, holding up a glass dish of white needle-shaped crystals to the light from a window."
+  "art": "A young chemist of the 1820s in a small laboratory, holding up a glass dish of white needle-shaped crystals to the light from a window.",
+  "context": "Can the stuff of living things be made outside a living body? This card tells the true story of chemists who made it from plain minerals."
  },
  "roots": {
   "context": "In this lesson you found carbon inside sugar, cotton, paper, wood, fuel and plastic. Here we ask what it means that one kind of atom is the frame of so many things, including you.",
@@ -2995,7 +2996,10 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. The pot and the plate are names for shapes, and the clay is what is there.",
     "link": "One element, carbon, is shaped into sugar, wood and fuel. The text is speaking of one reality behind all things, and it is not speaking of an element. The likeness is in the way of looking: ask what a thing is made of, beneath its name.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
