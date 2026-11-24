@@ -73,26 +73,15 @@ const { chromium } = require("playwright");
     a.rows.every((r, i) => r.lines[0] === `${a.plan[i].done} of ${a.plan[i].total}`),
     JSON.stringify(a.rows.map((r) => r.lines[0])),
   );
+  // a school's share is measured against the whole school year, whenever the family started
   check(
-    "a family that has just started is not behind: nothing is expected yet",
-    a.rows.every((r) => +r.lines[1].split(" of ")[0] === 0),
-    JSON.stringify(a.rows.map((r) => r.lines[1])),
-  );
-  // two years on, the expected number is a school's share of the year gone, never more
-  await p.evaluate(() => {
-    S.start = addDays(today, -700);
-    commit();
-  });
-  await p.waitForTimeout(300);
-  const old = await read();
-  check(
-    "after a long time something is expected, never more than a school's share of the year gone",
-    old.rows.every((r, i) => {
+    "the school's share is the share of the year gone, even for a family that has just started",
+    a.rows.every((r, i) => {
       const exp = +r.lines[1].split(" of ")[0],
-        want = Math.round((parseInt(old.yearGone) / 100) * old.plan[i].total);
-      return exp > 0 && exp <= want + 1;
+        want = Math.round((parseInt(a.yearGone) / 100) * a.plan[i].total);
+      return exp === want;
     }),
-    old.yearGone + " " + JSON.stringify(old.rows.map((r) => r.lines[1])),
+    a.yearGone + " " + JSON.stringify(a.rows.map((r) => r.lines[1])),
   );
   check(
     "no second 'Syllabus progress' row for one board",
