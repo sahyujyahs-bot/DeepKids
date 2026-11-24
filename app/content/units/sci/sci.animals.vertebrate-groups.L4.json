@@ -438,7 +438,8 @@
   "story": "In 1793 an Italian priest and scientist named Lazzaro Spallanzani wanted to know how bats fly in the dark without hitting anything. People then believed that eyes were the only way to find a path through a room. So he covered the eyes of bats, and they flew around the room and avoided obstacles just as before. Next he blocked their ears, and the bats bumped into things. He concluded that the ears were doing the work of eyes. A famous French scientist, Georges Cuvier, did not believe it. He said that bats must feel the air with the skin of their wings. For nearly 150 years nobody could prove who was right. Then in 1938 two students, Donald Griffin and Robert Galambos, used a new microphone that could pick up very high sounds. It showed that bats make sounds too high for people to hear, and listen for the echoes.",
   "who": "Lazzaro Spallanzani, Georges Cuvier, Donald Griffin and Robert Galambos",
   "when": "1793 to 1938",
-  "wrong_idea": "That eyes are the only way to find a path in the dark, so bats must be feeling the air with their skin."
+  "wrong_idea": "That eyes are the only way to find a path in the dark, so bats must be feeling the air with their skin.",
+  "context": "How can a bat fly in the dark without hitting anything? This card tells the true story of scientists who tested bats with covered eyes and covered ears."
  },
  "roots": {
   "context": "We have seen that a fish, a snake, a bird and a bat each sense a different slice of the same place. Now we ask what that tells us about the world and about ourselves.",
@@ -458,21 +459,32 @@
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad speaks of the ear of the ear, the mind of the mind, the speech of speech and the eye of the eye. It points to something behind each sense that does the sensing.",
     "link": "A fish, a bat and a bird all hear, feel and see in different ways. The teaching asks what is the same behind all those different ears and eyes.",
-    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse": [
+     "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं",
+     "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "In this old story from the Buddhist teachings, several blind men each touch a different part of an elephant. One feels a leg, another the tail, another an ear. Each describes a different animal, and each argues that he is right.",
     "link": "Each group of animals senses a different part of the same place. No animal senses the whole place, just as no blind man felt the whole elephant. Each is partly right.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods)",
     "teaching": "Two friends stand on a bridge over a river. Zhuangzi says the fish are happy. His friend Huizi says, you are not a fish, so how do you know? Zhuangzi answers, you are not me, so how do you know that I do not know?",
     "link": "We cannot feel what a fish feels with her lateral line, or what a snake feels with her heat pits. The old question remains: how far can one being know what it is like to be another?",
-    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse": [
+     "莊子曰：「鯈魚出游從容，是魚樂也。」",
+     "惠子曰：「子非魚，安知魚之樂？」",
+     "莊子曰：「子非我，安知我不知魚之樂？」"
+    ],
     "verse_lang": "zh"
    }
   ],

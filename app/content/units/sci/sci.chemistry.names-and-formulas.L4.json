@@ -3058,7 +3058,8 @@
   "who": "John Dalton in England, Gay-Lussac and Humboldt in France, Avogadro and Cannizzaro in Italy, and Jöns Jacob Berzelius in Sweden",
   "when": "Gay-Lussac and Humboldt measured the gases in 1805. Dalton's circles were printed in 1808. Avogadro wrote in 1811, and Berzelius proposed letters in 1813. The meeting in Karlsruhe was in 1860.",
   "wrong_idea": "That water is HO, one hydrogen atom joined to one oxygen atom. Dalton chose this because it was the simplest. The measured gases, two measures of hydrogen to one of oxygen, showed that water is H₂O.",
-  "art": "An old page with John Dalton's circle symbols for hydrogen, oxygen and water on the left, and the letters H₂O written in ink on the right."
+  "art": "An old page with John Dalton's circle symbols for hydrogen, oxygen and water on the left, and the letters H₂O written in ink on the right.",
+  "context": "How do we know that water is H₂O? This card tells the true story of chemists who measured gases to find out how many atoms are in it."
  },
  "roots": {
   "context": "In this lesson you read formulas such as H₂O and NaCl. You also counted drops to see why their numbers are fixed. Here we ask which part of a formula comes from people and which part comes from the substance.",
@@ -3078,21 +3079,29 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay.",
     "link": "Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this lesson tests.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 1",
     "teaching": "The name that can be spoken is not the lasting name.",
     "link": "No word for water is water. A formula is also a kind of name. H₂O is not wet, and it leaves out how the atoms are arranged. Lao Tzu was speaking of the Tao, the source of all things, and not of chemistry.",
-    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse": [
+     "道可道，非常道，名可名，非常名。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Confucius, Analects 13.3",
     "teaching": "If names are not right, what people say will not match how things are, and their work will not succeed.",
     "link": "This is the reason chemists agreed on names and formulas. Two powders both called soda can be mixed up. NaHCO₃ and Na₂CO₃ cannot.",
-    "verse": ["名不正，則言不順。", "言不順，則事不成。"],
+    "verse": [
+     "名不正，則言不順。",
+     "言不順，則事不成。"
+    ],
     "verse_lang": "zh"
    }
   ],

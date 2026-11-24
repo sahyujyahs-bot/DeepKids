@@ -3702,21 +3702,37 @@
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream",
     "teaching": "Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'.",
     "link": "A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether who you are is as fixed as it feels.",
-    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？", "周與胡蝶，則必有分矣，此之謂物化。"],
+    "verse": [
+     "昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。",
+     "俄然覺，則蘧蘧然周也。",
+     "不知周之夢爲胡蝶與？",
+     "胡蝶之夢爲周與？",
+     "周與胡蝶，則必有分矣，此之謂物化。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.'",
     "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from this seed. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति", "स य एषोऽणिमैतदात्म्यमिदं सर्वम्", "तत्सत्यम्", "स आत्मा", "तत्त्वमसि श्वेतकेतो इति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति",
+     "स य एषोऽणिमैतदात्म्यमिदं सर्वम्",
+     "तत्सत्यम्",
+     "स आत्मा",
+     "तत्त्वमसि श्वेतकेतो इति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, quoted by Plato in Cratylus 402a",
     "teaching": "Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in.",
     "link": "Water keeps flowing through a river, yet it is still the same river. In the same way, the material in a body keeps changing, yet the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3752,8 +3768,121 @@
   "story": "In the 1600s and 1700s, many scientists believed that every egg held a tiny, ready-made chick. They thought the chick only had to swell up and hatch. This idea was called preformation. In 1759, a young German doctor, Caspar Friedrich Wolff, tested it. He opened hen's eggs after different numbers of days of warming, and looked at the growing chick under a microscope. He did not find a tiny chick that just got bigger. He saw blood vessels appear where there had been none, and new parts take shape step by step. In later work he showed that the chick's gut forms when a flat sheet of cells folds into a tube. So, Wolff said, the chick is built part by part out of material that has no shape at first. Famous scientists of his time, such as Albrecht von Haller, disagreed with him. But others who watched eggs day by day saw the same thing. In 1817, Christian Pander showed that the early chick is made of three thin layers, and each layer builds different parts. Today scientists agree that Wolff was right.",
   "who": "Caspar Friedrich Wolff, Albrecht von Haller and Christian Pander",
   "when": "1759 to 1817",
-  "wrong_idea": "Every egg holds a tiny, ready-made chick that only has to grow bigger. Wolff looked inside eggs on different days and saw the chick's parts form step by step."
+  "wrong_idea": "Every egg holds a tiny, ready-made chick that only has to grow bigger. Wolff looked inside eggs on different days and saw the chick's parts form step by step.",
+  "context": "Is a baby animal already formed inside the egg, just waiting to grow bigger? This card tells the true story of a young doctor who looked inside eggs day after day."
  },
  "playtest": "Play-tested against PLAYTEST.md, REWRITE_UNIT.md and WRITING.md. I counted every printable (20 stage cards, 8 question cards, 5 mat circles, 45 track squares) and played both games in my head with 2 and 4 players. In Who Comes Next? I said what happens when an ask fails and when both piles are empty, and I changed 'all 4 stages' to 'all 4 cards', because the hen and grasshopper cards show 4 pictures but only 3 stages. I replaced three question cards that repeated worksheet and activity questions. In Grow Up! I defined 'miss a turn', fixed the setup picture text, and replaced the frog tail check (asked three times already) with a question on why a hen turns her eggs, adding the reason to the hen explanation. I followed each experiment step by step as a family in a flat. Eggshell bubbles now uses the same amount of water in both glasses, warns about thin glass and about bubbles that stick to the glass or cold egg, and is honest that cold water may show a few clinging bubbles. Tadpole Watch and Raise a Lime Butterfly schedules now match their steps (p1 timings and day count, e3 minutes). The Curry Leaf Hunt now says a balcony pot counts. Safety lines were cut to real hazards. In the story I gave the tadpole Little 'they' instead of 'he' and fixed who says 'It's yours'. I removed duplicate questions (tail, food becomes you, silk, frog versus hen, grasshopper), one joke, the school ruler and tape from the buy list, and made a few North-only examples wider (Kerala, Bengal, coconut shell). Checked: all three video titles and channels exist on YouTube (content not watched). Not checked: two link addresses (ifoundbutterflies.org and indiabiodiversity.org refused my automated check but are real sites; the Bannerghatta address did not answer) and the Wolff, Gudernatsch and Blackiston details, which I left as written.",
- "warm": {"words": ["LARVA", "FROGS", "ADULT", "HATCH", "STAGE"], "quiz": [["A tadpole's tail is broken down, and the material is used to build the frog's new body.", true, "In metamorphosis, old parts are taken apart and the same material is reused to build new parts."], ["Tiny flies grow out of mud, dew or rotting food.", false, "Flies lay eggs. Meat covered with thin cloth grew no maggots, because flies could not lay eggs on it."], ["Hormones carry messages in the blood that tell a young animal's body when to change.", true, "Hormones switch metamorphosis on, so the body knows when to start changing."], ["A butterfly comes out of a cocoon.", false, "A cocoon is a silk case spun by a moth caterpillar. A butterfly forms a chrysalis, usually with no silk case."], ["A tadpole breathes with gills, but a grown frog breathes with lungs.", true, "The body is rebuilt during metamorphosis, so a water breather becomes an air breather."], ["A caterpillar and the butterfly they become have different genes.", false, "They are one living thing with exactly the same genes, though the body is rebuilt."], ["A caterpillar's main job is to eat and grow.", true, "Each stage does one job well: the caterpillar eats, and the butterfly flies to find mates and new plants."], ["A chick changes into a completely different shape, as a caterpillar does.", false, "A chick looks like a small hen and just grows bigger, with no metamorphosis."], ["Adult animals make eggs or babies, so the life cycle starts again.", true, "The last stage of a life cycle makes the next young, so the cycle goes round."], ["Inside the chrysalis, the caterpillar turns completely into soup.", false, "Small groups of cells stay whole and grow into wings, legs and eyes."]], "odd": [[["Frog", "Butterfly", "Moth", "Hen"], "Hen", "Frogs, butterflies and moths rebuild their bodies as they grow. A hen's chick just grows bigger in the same shape."], [["Caterpillar", "Tadpole", "Chick", "Chrysalis"], "Chrysalis", "Caterpillars, tadpoles and chicks eat and grow. A chrysalis does not eat while their body is rebuilt."], [["Frog", "Butterfly", "Hen", "Cow"], "Cow", "Frogs, butterflies and hens begin as eggs laid outside the mother. A calf grows inside the mother."], [["Egg", "Larva", "Pupa", "Froglet"], "Froglet", "Egg, larva and pupa are stages in a butterfly's life cycle. A froglet is a stage in a frog's life cycle."], [["Adult frog", "Adult butterfly", "Adult hen", "Tadpole"], "Tadpole", "Adults can make eggs or babies. A tadpole is still a young stage and cannot."]]}
+ "warm": {
+  "words": [
+   "LARVA",
+   "FROGS",
+   "ADULT",
+   "HATCH",
+   "STAGE"
+  ],
+  "quiz": [
+   [
+    "A tadpole's tail is broken down, and the material is used to build the frog's new body.",
+    true,
+    "In metamorphosis, old parts are taken apart and the same material is reused to build new parts."
+   ],
+   [
+    "Tiny flies grow out of mud, dew or rotting food.",
+    false,
+    "Flies lay eggs. Meat covered with thin cloth grew no maggots, because flies could not lay eggs on it."
+   ],
+   [
+    "Hormones carry messages in the blood that tell a young animal's body when to change.",
+    true,
+    "Hormones switch metamorphosis on, so the body knows when to start changing."
+   ],
+   [
+    "A butterfly comes out of a cocoon.",
+    false,
+    "A cocoon is a silk case spun by a moth caterpillar. A butterfly forms a chrysalis, usually with no silk case."
+   ],
+   [
+    "A tadpole breathes with gills, but a grown frog breathes with lungs.",
+    true,
+    "The body is rebuilt during metamorphosis, so a water breather becomes an air breather."
+   ],
+   [
+    "A caterpillar and the butterfly they become have different genes.",
+    false,
+    "They are one living thing with exactly the same genes, though the body is rebuilt."
+   ],
+   [
+    "A caterpillar's main job is to eat and grow.",
+    true,
+    "Each stage does one job well: the caterpillar eats, and the butterfly flies to find mates and new plants."
+   ],
+   [
+    "A chick changes into a completely different shape, as a caterpillar does.",
+    false,
+    "A chick looks like a small hen and just grows bigger, with no metamorphosis."
+   ],
+   [
+    "Adult animals make eggs or babies, so the life cycle starts again.",
+    true,
+    "The last stage of a life cycle makes the next young, so the cycle goes round."
+   ],
+   [
+    "Inside the chrysalis, the caterpillar turns completely into soup.",
+    false,
+    "Small groups of cells stay whole and grow into wings, legs and eyes."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Frog",
+     "Butterfly",
+     "Moth",
+     "Hen"
+    ],
+    "Hen",
+    "Frogs, butterflies and moths rebuild their bodies as they grow. A hen's chick just grows bigger in the same shape."
+   ],
+   [
+    [
+     "Caterpillar",
+     "Tadpole",
+     "Chick",
+     "Chrysalis"
+    ],
+    "Chrysalis",
+    "Caterpillars, tadpoles and chicks eat and grow. A chrysalis does not eat while their body is rebuilt."
+   ],
+   [
+    [
+     "Frog",
+     "Butterfly",
+     "Hen",
+     "Cow"
+    ],
+    "Cow",
+    "Frogs, butterflies and hens begin as eggs laid outside the mother. A calf grows inside the mother."
+   ],
+   [
+    [
+     "Egg",
+     "Larva",
+     "Pupa",
+     "Froglet"
+    ],
+    "Froglet",
+    "Egg, larva and pupa are stages in a butterfly's life cycle. A froglet is a stage in a frog's life cycle."
+   ],
+   [
+    [
+     "Adult frog",
+     "Adult butterfly",
+     "Adult hen",
+     "Tadpole"
+    ],
+    "Tadpole",
+    "Adults can make eggs or babies. A tadpole is still a young stage and cannot."
+   ]
+  ]
+ }
 }

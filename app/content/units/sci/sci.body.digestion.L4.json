@@ -2998,7 +2998,8 @@
   "who": "René de Réaumur in France, Lazzaro Spallanzani in Italy, and William Beaumont with Alexis St. Martin in North America",
   "when": "Réaumur's tests were in 1752. Spallanzani published in 1780. St. Martin was shot in 1822, and Beaumont's book came out in 1833.",
   "wrong_idea": "That the stomach digests only by grinding, or by cooking or rotting the food. Réaumur showed that meat dissolved inside a metal tube that nothing could grind. Beaumont showed that gastric juice digests meat outside the body.",
-  "art": "A bird of prey on a perch in an old study, with a small metal tube and a piece of meat on a table beside a man in eighteenth-century clothes."
+  "art": "A bird of prey on a perch in an old study, with a small metal tube and a piece of meat on a table beside a man in eighteenth-century clothes.",
+  "context": "What does the stomach really do with our food? This card tells the true story of scientists who tested it with a bird, a metal tube and a man with a hole in his stomach."
  },
  "roots": {
   "context": "In this lesson you followed a bite of food along a tube about 8 metres long. Here we ask where the food stops being food and starts being you.",
@@ -3018,14 +3019,22 @@
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Uddalaka tells his son Shvetaketu that food, when eaten, divides into three. The coarsest part becomes faeces, the middle part becomes flesh, and the finest part becomes mind.",
     "link": "This is an old account of the same journey: part of a meal leaves, and part becomes the body. Today we would say that what is absorbed also feeds the brain. The text's 'three parts' are a teaching, and not a measurement.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति",
+     "यो मध्यमस्तन्मांसम्",
+     "योऽणिष्ठस्तन्मनः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Taittiriya Upanishad 3.10.6",
     "teaching": "The verse ends in a song: 'I am food, I am food, I am food. I am the eater of food.'",
     "link": "Everything you digest was alive, and your own body will feed other living things one day. The verse says in a song what a food chain says in a diagram. The Upanishad means it as an insight about the self, which science does not test.",
-    "verse": ["अहमन्नमहमन्नमहमन्नम्", "अहमन्नादो३ऽहमन्नादो३ऽअहमन्नादः"],
+    "verse": [
+     "अहमन्नमहमन्नमहमन्नम्",
+     "अहमन्नादो३ऽहमन्नादो३ऽअहमन्नादः"
+    ],
     "verse_lang": "sa"
    },
    {

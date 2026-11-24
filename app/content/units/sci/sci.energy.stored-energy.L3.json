@@ -2847,21 +2847,30 @@
     "source": "Thirukkural 490",
     "teaching": "When it is time to wait, be still like a heron. When the moment comes, strike as quickly as the heron.",
     "link": "A heron standing still in the water is not idle. She is ready. Your wound jar held still in your hand was ready in the same way, and moved the moment you let go.",
-    "verse": ["கொக்கொக்க கூம்பும் பருவத்து மற்றதன்", "குத்தொக்க சீர்த்த இடத்து."],
+    "verse": [
+     "கொக்கொக்க கூம்பும் பருவத்து மற்றதன்",
+     "குத்தொக்க சீர்த்த இடத்து."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Aristotle, Metaphysics, Book 9",
     "teaching": "Aristotle said a thing can be something 'in potential' before it is that thing 'in action'. A builder who is resting can still build. Our word energy comes from his Greek word energeia, which means being at work.",
     "link": "The scientists' word for stored energy, potential energy, comes from the same old idea. A wound band is able to roll the jar, but is not doing it yet. When you let go, it does.",
-    "verse": ["ὡς τὸ οἰκοδομοῦν πρὸς τὸ οἰκοδομικόν, καὶ τὸ ἐγρηγορὸς πρὸς τὸ καθεῦδον"],
+    "verse": [
+     "ὡς τὸ οἰκοδομοῦν πρὸς τὸ οἰκοδομικόν, καὶ τὸ ἐγρηγορὸς πρὸς τὸ καθεῦδον"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching 64",
     "teaching": "A tree too big to hug grows from a tiny shoot. A tower nine storeys high begins with a heap of earth. A journey of a thousand miles begins under your feet.",
     "link": "Big happenings often begin long before we see them. A week of ticking began with a few turns of a key, and a run in the evening began at lunch.",
-    "verse": ["合抱之木，生於毫末。", "九層之臺，起於累土。", "千里之行，始於足下。"],
+    "verse": [
+     "合抱之木，生於毫末。",
+     "九層之臺，起於累土。",
+     "千里之行，始於足下。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2901,7 +2910,120 @@
   "story": "In 1840 Julius Robert Mayer, a young German doctor, sailed on a Dutch ship to Java, an island in what is now Indonesia. Doctors then often let a little blood out of sick people. In the hot harbour, Mayer saw that blood from the sailors' veins was bright red. In cold Germany it was dark. Mayer worked out a reason. The body burns food slowly with oxygen to keep warm. In a hot place it needs less warmth, so it uses less of the oxygen in the blood, and the blood stays bright. Many scientists then thought a special life force made a body's heat and movement. Mayer said the warmth and work of a body come from the energy stored in food, and energy is never made from nothing. A science journal would not print his first paper. He published another in 1842, and few people listened. Later scientists tested the idea. In the 1890s Max Rubner, a German scientist, kept dogs in a closed box and measured all the heat they gave out. It matched the energy in the food they had used, almost exactly.",
   "who": "Julius Robert Mayer, a German ship's doctor, and later Max Rubner, a German scientist",
   "when": "1840 (the voyage to Java), 1842 (Mayer's paper) and 1894 (Rubner's measurements with dogs)",
-  "wrong_idea": "Many scientists thought a special life force made a body's heat and movement, apart from food. Mayer argued that both come from the energy stored in food. Rubner's measurements showed the heat a dog gives out matches the energy in their food."
+  "wrong_idea": "Many scientists thought a special life force made a body's heat and movement, apart from food. Mayer argued that both come from the energy stored in food. Rubner's measurements showed the heat a dog gives out matches the energy in their food.",
+  "context": "Where do the warmth and movement of a body come from? This card tells the true story of a ship's doctor who noticed something odd about blood."
  },
- "warm": {"words": ["STORE", "TWIST", "CELLS", "WATER", "COILS"], "quiz": [["A jar held still on a high shelf can still have energy stored in it.", true, "Energy can wait in height, so a thing that is not moving can still hold energy ready to come out later."], ["A thing that is not moving has no energy at all.", false, "Still things can store energy in their height, their shape or the chemicals they are made of."], ["A twisted rubber band stores energy because it springs back to its shape when let go.", true, "Elastic things store energy when they are twisted, and give it back as they spring back to their shape."], ["A heavier stone lifted to the same height stores more energy than a lighter one.", true, "Energy stored in height grows with both the height and the weight, because more weight is lifted against gravity."], ["The kcal number on a food packet tells you how good the food is for your body.", false, "A kcal number only says how much energy is stored. It says nothing about protein, vitamins or fibre."], ["A torch cell that will not light the bulb has no energy left at all.", false, "A tired cell still holds some energy, but it can push only a small flow of electricity."], ["When a fuel burns, the energy stored in it comes out as heat and light.", true, "Burning joins the tiny particles of the fuel in new ways, and this lets the stored chemical energy come out."], ["When a wound-up toy stops moving, its energy has vanished completely.", false, "Energy never vanishes. It changes form, and some spreads out as a little warmth and sound."], ["A store can give back its energy slowly, like a clock spring that runs for a week.", true, "A store keeps energy until it is released, and it can let it out all at once or a little at a time."], ["The energy in the food we eat first came from the soil itself.", false, "Plants catch sunlight and use it to make food, so almost all the energy in food first came from the Sun."]], "odd": [[["Twisted rubber band", "Squashed spring", "Stretched catapult", "Rolling ball"], "Rolling ball", "The first three store energy in their shape, while a rolling ball has energy because it is moving."], [["Petrol", "Cooking gas", "Dry wood", "Stone on the ground"], "Stone on the ground", "The first three are fuels that burn to give out heat and light, but a stone cannot burn."], [["Water in a roof tank", "Coconut on a tall tree", "Book on a top shelf", "Pebble on the ground"], "Pebble on the ground", "The first three are lifted up, so they store energy in their height, but the pebble is not lifted."], [["Jumping toy spring", "Stretched catapult", "Snapped mousetrap", "Wall clock cell"], "Wall clock cell", "The first three let their energy out all at once, but a clock cell gives it out slowly over a long time."], [["Roti", "Groundnuts", "Torch cell", "Wound clock spring"], "Wound clock spring", "The first three store chemical energy in how their particles are joined, but a spring stores energy in its shape."]]}
+ "warm": {
+  "words": [
+   "STORE",
+   "TWIST",
+   "CELLS",
+   "WATER",
+   "COILS"
+  ],
+  "quiz": [
+   [
+    "A jar held still on a high shelf can still have energy stored in it.",
+    true,
+    "Energy can wait in height, so a thing that is not moving can still hold energy ready to come out later."
+   ],
+   [
+    "A thing that is not moving has no energy at all.",
+    false,
+    "Still things can store energy in their height, their shape or the chemicals they are made of."
+   ],
+   [
+    "A twisted rubber band stores energy because it springs back to its shape when let go.",
+    true,
+    "Elastic things store energy when they are twisted, and give it back as they spring back to their shape."
+   ],
+   [
+    "A heavier stone lifted to the same height stores more energy than a lighter one.",
+    true,
+    "Energy stored in height grows with both the height and the weight, because more weight is lifted against gravity."
+   ],
+   [
+    "The kcal number on a food packet tells you how good the food is for your body.",
+    false,
+    "A kcal number only says how much energy is stored. It says nothing about protein, vitamins or fibre."
+   ],
+   [
+    "A torch cell that will not light the bulb has no energy left at all.",
+    false,
+    "A tired cell still holds some energy, but it can push only a small flow of electricity."
+   ],
+   [
+    "When a fuel burns, the energy stored in it comes out as heat and light.",
+    true,
+    "Burning joins the tiny particles of the fuel in new ways, and this lets the stored chemical energy come out."
+   ],
+   [
+    "When a wound-up toy stops moving, its energy has vanished completely.",
+    false,
+    "Energy never vanishes. It changes form, and some spreads out as a little warmth and sound."
+   ],
+   [
+    "A store can give back its energy slowly, like a clock spring that runs for a week.",
+    true,
+    "A store keeps energy until it is released, and it can let it out all at once or a little at a time."
+   ],
+   [
+    "The energy in the food we eat first came from the soil itself.",
+    false,
+    "Plants catch sunlight and use it to make food, so almost all the energy in food first came from the Sun."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Twisted rubber band",
+     "Squashed spring",
+     "Stretched catapult",
+     "Rolling ball"
+    ],
+    "Rolling ball",
+    "The first three store energy in their shape, while a rolling ball has energy because it is moving."
+   ],
+   [
+    [
+     "Petrol",
+     "Cooking gas",
+     "Dry wood",
+     "Stone on the ground"
+    ],
+    "Stone on the ground",
+    "The first three are fuels that burn to give out heat and light, but a stone cannot burn."
+   ],
+   [
+    [
+     "Water in a roof tank",
+     "Coconut on a tall tree",
+     "Book on a top shelf",
+     "Pebble on the ground"
+    ],
+    "Pebble on the ground",
+    "The first three are lifted up, so they store energy in their height, but the pebble is not lifted."
+   ],
+   [
+    [
+     "Jumping toy spring",
+     "Stretched catapult",
+     "Snapped mousetrap",
+     "Wall clock cell"
+    ],
+    "Wall clock cell",
+    "The first three let their energy out all at once, but a clock cell gives it out slowly over a long time."
+   ],
+   [
+    [
+     "Roti",
+     "Groundnuts",
+     "Torch cell",
+     "Wound clock spring"
+    ],
+    "Wound clock spring",
+    "The first three store chemical energy in how their particles are joined, but a spring stores energy in its shape."
+   ]
+  ]
+ }
 }

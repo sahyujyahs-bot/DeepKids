@@ -467,7 +467,8 @@
   "story": "In 1918, the American scientist Walter Cannon, who later named homeostasis, said that thirst was simply the feeling of a dry mouth. When the body is low on water, he said, it makes less spit, the mouth dries, and so we want to drink. It sounded sensible, but other experiments did not fit. In the 1930s, scientists studied dogs whose swallowed water ran out through a small tube in the neck, so it never reached the stomach. Their mouths were wet, yet they drank, stopped for a short while, and then drank again and again. In 1953, the Swedish scientist Bengt Andersson put a tiny drop of very salty water into the hypothalamus of some goats. The goats' mouths were not dry, and their bodies were not short of water. Within a minute or two they began to drink, and they drank several litres. So thirst starts in the brain, when it senses that the blood has become too salty. A wet mouth stops thirst only for a short time.",
   "who": "Walter Cannon (the dry mouth idea), and the scientists who tested it, including Bengt Andersson",
   "when": "1918 to 1953",
-  "wrong_idea": "That thirst is only the feeling of a dry mouth."
+  "wrong_idea": "That thirst is only the feeling of a dry mouth.",
+  "context": "Why do we feel thirsty? This card tells the true story of scientists who tested the idea that thirst is only a dry mouth."
  },
  "big_questions": [
   {
@@ -3168,21 +3169,32 @@
     "source": "Bhagavad Gita 2.14",
     "teaching": "In the Gita, Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily.",
     "link": "The Gita is talking about the mind, not body warmth. But it uses the same example: heat and cold come and go, and something in you can stay steady while they do.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Anguttara Nikaya 6.55, the Buddha's teaching to Sona",
     "teaching": "Sona, a monk who used to play the vina, was trying far too hard. The Buddha asked him: if the strings are too tight, does the vina play well? If they are too loose? Only strings tuned just right make music. Balance your effort the same way.",
     "link": "Your body does not aim for as hot as possible or as cold as possible. It aims for just right, and keeps tuning, like a vina.",
-    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."],
+    "verse": [
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 77",
     "teaching": "The Tao Te Ching, an old Chinese book by Lao Tzu, says the way of nature is like bending a bow. What is too high is pressed down, and what is too low is lifted up. Where there is too much, it takes away. Where there is too little, it adds.",
     "link": "That is how a feedback loop works. Too hot, and your body cools you. Too cold, and it warms you. Too little water, and you feel thirsty.",
-    "verse": ["天之道，其猶張弓與？", "高者抑之，下者舉之；有餘者損之，不足者補之。"],
+    "verse": [
+     "天之道，其猶張弓與？",
+     "高者抑之，下者舉之；有餘者損之，不足者補之。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3215,5 +3227,117 @@
   "art": "A child sitting cross-legged, with a loop of three arrows around them: a skin sensor, a glowing almond-shaped spot in the brain, and a drop of sweat. A sun and a snowflake sit outside the loop."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family in a flat would. Keep It Just Right: dealing 4 body cards to 4 players used the whole pile, so the draw pile was empty at the start and a played card came straight back. It now deals 3. Players going past box 1 or 9 are covered, the 'Drink water' card does something when no Sweat card is played, and the rules say how many event cards each player count uses. I swapped the fever card (a fever raises the set point, which the game cannot show) for a hot bath, and the Goosebumps card for rubbing hands, because the unit teaches that goosebumps do little for humans; the same fix is in the Brain Says check, the sort and the explanation card. Brain Says now keeps 'Just right!' for the end, so the 12 cards and the swap agree. In the shoebox challenge the minutes and the reading time now agree, the boxes get two windows so a wet cloth can cool the air passing through, and the one-thermometer way of reading is spelled out. In My Steady Inside the pat-dry step is in the instruction, and the matka question says it is a dry-day result. I removed duplicate worksheet questions (shivering, hypothalamus, pee colour, goosebumps, thirst fill), cut the jokes to 8, removed two buy items nothing in the lesson used, and cleaned buy reasons. Examples now include Ooty, rasam, dosa, neer mor and Kerala courtyards. The three videos exist with matching titles on YouTube but were not watched; the sweaty tumbler numbers and the matka difference are expected, not measured here. Safety lines left in place are for hot water, ice, fans, hot appliances and very dark pee. I added five new questions (sweat is not a choice, the jumper mistake, evaporation, cold fingers, the desert cooler) to keep each sheet at 15 items.",
- "warm": {"words": ["SWEAT", "BRAIN", "WATER", "BLOOD", "CHILL"], "quiz": [["Sweat cools you because it dries off your skin and takes heat away.", true, "When sweat dries into the air, it carries heat away from your skin."], ["Shivering helps you get warm because your shaking muscles make heat.", true, "Working muscles give off heat, so shaking fast makes your body warmer."], ["Your inside stays at about 37 degrees on a hot day and on a cold day.", true, "Your body notices changes and undoes them, so the inside stays steady."], ["Feeling thirsty is your body's way of telling you to drink water.", true, "Your body notices when water is low and makes you feel thirsty so you will fix it."], ["Sweating cools you less on a damp, humid day, because sweat dries slowly in damp air.", true, "Cooling comes from drying, and damp air takes up less water, so sweat stays on the skin."], ["Sweat cools you because the sweat itself is cold when it comes out.", false, "Sweat starts as warm as your body. The cooling comes when it dries and takes heat away."], ["A thick blanket warms you because the blanket makes heat of its own.", false, "A blanket only keeps in the heat your body has already made."], ["Shivering is your body's way of cooling itself down.", false, "Shivering makes heat in your muscles, so it is what your body does when it is cold."], ["The hypothalamus is in your stomach and tells you when you need food.", false, "The hypothalamus is a small part of the brain that watches your warmth and water."], ["Once you have cooled down, your body keeps sweating just as much as before.", false, "Your body keeps checking, and when the warmth is back to just right, it stops the extra sweating."]], "odd": [[["Shivering", "Goosebumps", "Hair standing up", "Sweating"], "Sweating", "Shivering and goosebumps happen when you are cold to keep heat in; sweating happens when you are hot to cool you."], [["Drinking water", "Putting on a sweater", "Opening a window", "Sweating"], "Sweating", "You choose to drink, dress or open a window; sweating happens by itself without you deciding."], [["Inside warmth", "Water in the body", "Blood sugar", "Hair length"], "Hair length", "The body keeps the first three steady by checking and correcting; hair keeps growing and does not stay steady."], [["Wet clothes drying", "Puddle shrinking in the sun", "Sweat drying on skin", "Ice melting"], "Ice melting", "The first three are liquid water turning into gas in the air (evaporation); melting ice turns from solid to liquid."], [["Fridge thermostat", "Geyser thermostat", "Room heater with thermostat", "Candle"], "Candle", "The first three notice a change and switch on or off to undo it; a candle just burns, with no checking."]]}
+ "warm": {
+  "words": [
+   "SWEAT",
+   "BRAIN",
+   "WATER",
+   "BLOOD",
+   "CHILL"
+  ],
+  "quiz": [
+   [
+    "Sweat cools you because it dries off your skin and takes heat away.",
+    true,
+    "When sweat dries into the air, it carries heat away from your skin."
+   ],
+   [
+    "Shivering helps you get warm because your shaking muscles make heat.",
+    true,
+    "Working muscles give off heat, so shaking fast makes your body warmer."
+   ],
+   [
+    "Your inside stays at about 37 degrees on a hot day and on a cold day.",
+    true,
+    "Your body notices changes and undoes them, so the inside stays steady."
+   ],
+   [
+    "Feeling thirsty is your body's way of telling you to drink water.",
+    true,
+    "Your body notices when water is low and makes you feel thirsty so you will fix it."
+   ],
+   [
+    "Sweating cools you less on a damp, humid day, because sweat dries slowly in damp air.",
+    true,
+    "Cooling comes from drying, and damp air takes up less water, so sweat stays on the skin."
+   ],
+   [
+    "Sweat cools you because the sweat itself is cold when it comes out.",
+    false,
+    "Sweat starts as warm as your body. The cooling comes when it dries and takes heat away."
+   ],
+   [
+    "A thick blanket warms you because the blanket makes heat of its own.",
+    false,
+    "A blanket only keeps in the heat your body has already made."
+   ],
+   [
+    "Shivering is your body's way of cooling itself down.",
+    false,
+    "Shivering makes heat in your muscles, so it is what your body does when it is cold."
+   ],
+   [
+    "The hypothalamus is in your stomach and tells you when you need food.",
+    false,
+    "The hypothalamus is a small part of the brain that watches your warmth and water."
+   ],
+   [
+    "Once you have cooled down, your body keeps sweating just as much as before.",
+    false,
+    "Your body keeps checking, and when the warmth is back to just right, it stops the extra sweating."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Shivering",
+     "Goosebumps",
+     "Hair standing up",
+     "Sweating"
+    ],
+    "Sweating",
+    "Shivering and goosebumps happen when you are cold to keep heat in; sweating happens when you are hot to cool you."
+   ],
+   [
+    [
+     "Drinking water",
+     "Putting on a sweater",
+     "Opening a window",
+     "Sweating"
+    ],
+    "Sweating",
+    "You choose to drink, dress or open a window; sweating happens by itself without you deciding."
+   ],
+   [
+    [
+     "Inside warmth",
+     "Water in the body",
+     "Blood sugar",
+     "Hair length"
+    ],
+    "Hair length",
+    "The body keeps the first three steady by checking and correcting; hair keeps growing and does not stay steady."
+   ],
+   [
+    [
+     "Wet clothes drying",
+     "Puddle shrinking in the sun",
+     "Sweat drying on skin",
+     "Ice melting"
+    ],
+    "Ice melting",
+    "The first three are liquid water turning into gas in the air (evaporation); melting ice turns from solid to liquid."
+   ],
+   [
+    [
+     "Fridge thermostat",
+     "Geyser thermostat",
+     "Room heater with thermostat",
+     "Candle"
+    ],
+    "Candle",
+    "The first three notice a change and switch on or off to undo it; a candle just burns, with no checking."
+   ]
+  ]
+ }
 }

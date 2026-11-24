@@ -2630,21 +2630,30 @@
     "source": "Tirukkural 215",
     "teaching": "The wealth of a wise person who loves the world is like the village tank, the ooruni, full of water: everyone can drink from it.",
     "link": "Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone. It stays full only if everyone takes care of it.",
-    "verse": ["ஊருணி நீர்நிறைந் தற்றே உலகவாம்", "பேரறி வாளன் திரு."],
+    "verse": [
+     "ஊருணி நீர்நிறைந் தற்றே உலகவாம்",
+     "பேரறி வாளன் திரு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Rig Veda 10.191.2",
     "teaching": "Come together, speak together, let your minds agree.",
     "link": "In the Shared Pond Test, the only change between the two games was speaking together. That was enough to keep the pond full.",
-    "verse": ["सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।", "देवा भागं यथा पूर्वे संजानाना उपासते"],
+    "verse": [
+     "सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।",
+     "देवा भागं यथा पूर्वे संजानाना उपासते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 322",
     "teaching": "To share your food and protect many lives is the first of all the good things the wise have taught.",
     "link": "Keeping fish in the pond for others is a kind of sharing food. It protects the families and the fish too.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2680,7 +2689,120 @@
   "story": "In 1968, the American ecologist Garrett Hardin wrote an essay called The Tragedy of the Commons. He pictured herders sharing one field. Each herder gains a whole cow by adding one more, but the harm to the grass is shared by all. So, he wrote, each herder keeps adding cows until the field is ruined. Many people took this as a law: shared things are always spoiled, unless a government or an owner takes control. Elinor Ostrom, a political scientist at Indiana University, wanted to see what really happened. With her team, she studied real places: mountain meadows shared by Swiss villages for centuries, water channels in Spain and Nepal, forests and fishing grounds. Many had lasted for hundreds of years, kept by rules the users made themselves. In laboratory games, she and her colleagues found that people allowed to talk took far less from a shared pool. Her book Governing the Commons came out in 1990. In 2009 she became the first woman to win the Nobel Prize in Economics.",
   "who": "Garrett Hardin, and Elinor Ostrom of Indiana University with her colleagues, including Roy Gardner and James Walker",
   "when": "1968 (Hardin's essay), 1990 (Governing the Commons), 2009 (Ostrom's Nobel Prize)",
-  "wrong_idea": "People thought shared things are always ruined, because each user takes too much, unless a government or an owner controls them. Ostrom found many communities that kept shared meadows, water and forests for centuries with their own rules."
+  "wrong_idea": "People thought shared things are always ruined, because each user takes too much, unless a government or an owner controls them. Ostrom found many communities that kept shared meadows, water and forests for centuries with their own rules.",
+  "context": "Do shared things, like a field or a forest, always get ruined? This card tells the true story of a scientist who went to look at how real communities share."
  },
- "warm": {"words": ["WATER", "SHARE", "RULES", "NURSE", "TAXES"], "quiz": [["No person or family can meet all their needs alone.", true, "Each person does one kind of work, so everyone depends on the work of others."], ["A shared pond cannot run out, because it belongs to everyone.", false, "If each person takes as much as they like, what one takes is not there for the next."], ["Some villages have looked after shared meadows and water for hundreds of years with their own rules.", true, "When users make and keep rules together, a shared thing can last a very long time."], ["Some jobs are low, so the people who do them deserve less respect.", false, "Every honest job needs skill, and a street floods if nobody clears the drain."], ["People who can talk to each other share a resource better than people who cannot.", true, "Talking lets people agree on rules and trust that others will keep them."], ["A shared thing will always be ruined, unless the government or one owner controls it.", false, "Many villages have kept shared forests and water going for centuries with rules they made themselves."], ["One call to 112 can bring the police, the fire service or an ambulance.", true, "112 is India's single emergency number, so you need to remember only one."], ["Private companies should run every public service, because they serve all places well.", false, "A company may skip places where it cannot make money, such as a far village. Water and vaccines must reach all."], ["Taxes pay for public services such as health centres, so everyone can use them.", true, "People and shops pay tax to the government, which uses the money to run services for all."], ["Rules about a shared water tank are useless, because each person will do as they like.", false, "Rules that everyone knows and someone checks help a shared thing last."]], "odd": [[["village pond", "park", "building lift", "your own cycle"], "your own cycle", "The first three are shared by many people. Your cycle belongs to you alone."], [["government school", "health centre", "post office", "jewellery shop"], "jewellery shop", "The first three are public services set up for everyone. A jewellery shop is a private business."], [["fish in a pond", "water in a tank", "grass in a meadow", "street light"], "street light", "The first three get used up when one person takes more. A street light shines for everyone without running out."], [["agreeing a rule", "taking turns at the tank", "cleaning the park together", "taking all the fish"], "taking all the fish", "The first three are people cooperating so a shared thing lasts. Taking all the fish leaves nothing for others."], [["house fire", "road accident", "someone not breathing", "lost pencil"], "lost pencil", "The first three are sudden dangers that need help at once. A lost pencil is not an emergency."]]}
+ "warm": {
+  "words": [
+   "WATER",
+   "SHARE",
+   "RULES",
+   "NURSE",
+   "TAXES"
+  ],
+  "quiz": [
+   [
+    "No person or family can meet all their needs alone.",
+    true,
+    "Each person does one kind of work, so everyone depends on the work of others."
+   ],
+   [
+    "A shared pond cannot run out, because it belongs to everyone.",
+    false,
+    "If each person takes as much as they like, what one takes is not there for the next."
+   ],
+   [
+    "Some villages have looked after shared meadows and water for hundreds of years with their own rules.",
+    true,
+    "When users make and keep rules together, a shared thing can last a very long time."
+   ],
+   [
+    "Some jobs are low, so the people who do them deserve less respect.",
+    false,
+    "Every honest job needs skill, and a street floods if nobody clears the drain."
+   ],
+   [
+    "People who can talk to each other share a resource better than people who cannot.",
+    true,
+    "Talking lets people agree on rules and trust that others will keep them."
+   ],
+   [
+    "A shared thing will always be ruined, unless the government or one owner controls it.",
+    false,
+    "Many villages have kept shared forests and water going for centuries with rules they made themselves."
+   ],
+   [
+    "One call to 112 can bring the police, the fire service or an ambulance.",
+    true,
+    "112 is India's single emergency number, so you need to remember only one."
+   ],
+   [
+    "Private companies should run every public service, because they serve all places well.",
+    false,
+    "A company may skip places where it cannot make money, such as a far village. Water and vaccines must reach all."
+   ],
+   [
+    "Taxes pay for public services such as health centres, so everyone can use them.",
+    true,
+    "People and shops pay tax to the government, which uses the money to run services for all."
+   ],
+   [
+    "Rules about a shared water tank are useless, because each person will do as they like.",
+    false,
+    "Rules that everyone knows and someone checks help a shared thing last."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "village pond",
+     "park",
+     "building lift",
+     "your own cycle"
+    ],
+    "your own cycle",
+    "The first three are shared by many people. Your cycle belongs to you alone."
+   ],
+   [
+    [
+     "government school",
+     "health centre",
+     "post office",
+     "jewellery shop"
+    ],
+    "jewellery shop",
+    "The first three are public services set up for everyone. A jewellery shop is a private business."
+   ],
+   [
+    [
+     "fish in a pond",
+     "water in a tank",
+     "grass in a meadow",
+     "street light"
+    ],
+    "street light",
+    "The first three get used up when one person takes more. A street light shines for everyone without running out."
+   ],
+   [
+    [
+     "agreeing a rule",
+     "taking turns at the tank",
+     "cleaning the park together",
+     "taking all the fish"
+    ],
+    "taking all the fish",
+    "The first three are people cooperating so a shared thing lasts. Taking all the fish leaves nothing for others."
+   ],
+   [
+    [
+     "house fire",
+     "road accident",
+     "someone not breathing",
+     "lost pencil"
+    ],
+    "lost pencil",
+    "The first three are sudden dangers that need help at once. A lost pencil is not an emergency."
+   ]
+  ]
+ }
 }

@@ -3334,7 +3334,8 @@
   "who": "Alessandro Volta, William Nicholson and Anthony Carlisle, Humphry Davy and Michael Faraday. Jane Marcet wrote Conversations on Chemistry, the book that first taught Faraday the subject.",
   "when": "Volta described his pile in 1800, and Nicholson and Carlisle split water in May 1800. Faraday published his measurements in 1834.",
   "wrong_idea": "That two different metals make electricity just by touching, with nothing used up. Davy pointed out that the zinc is always eaten away. Faraday showed that the electricity a cell gives matches the zinc it loses.",
-  "art": "A tall pile of grey and copper-coloured discs in a wooden frame on a table, with two wires from it dipping into a glass of water where bubbles rise from each wire."
+  "art": "A tall pile of grey and copper-coloured discs in a wooden frame on a table, with two wires from it dipping into a glass of water where bubbles rise from each wire.",
+  "context": "Where does the electricity in a battery come from? This card tells the true story of scientists who argued about it, and of how they tested it."
  },
  "roots": {
   "context": "In this lesson you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.",
@@ -3354,21 +3355,28 @@
     "source": "Chandogya Upanishad 6.1.6",
     "teaching": "Uddalaka tells his son that by knowing one small tool of iron, all that is made of iron is known. The different forms are only names, and the truth is that all of them are iron.",
     "link": "The verse is about the one reality behind all things, and it uses iron as its picture. This lesson found a small case of it. 'Battery', 'electrolysis' and 'rust' are three names. The passing of electrons is what all three are.",
-    "verse": ["यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं कृष्णायसमित्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं कृष्णायसमित्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 40",
     "teaching": "The chapter begins by saying that returning is how the Way moves.",
     "link": "The text is about nature as a whole, and it is not about chemistry. Yet every change in this lesson could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.",
-    "verse": ["反者道之動。"],
+    "verse": [
+     "反者道之動。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha says that all things that are put together are impermanent.",
     "link": "The verse is about how to live, and it is not about metals. Yet iron shows it plainly. Every iron thing is slowly going back to the oxide it was made from. Paint and zinc slow the return, and they do not end it.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],

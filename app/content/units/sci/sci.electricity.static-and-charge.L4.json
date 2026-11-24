@@ -482,14 +482,21 @@
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 15",
     "teaching": "Nagarjuna argued that nothing has a nature of its own that stays the same whatever it meets. Things appear only in dependence on other things.",
     "link": "The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It depended on the partner.",
-    "verse": ["न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः", "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्", "स्वभावः कृतको नाम भविष्यति पुनः कथम्", "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"],
+    "verse": [
+     "न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः",
+     "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्",
+     "स्वभावः कृतको नाम भविष्यति पुनः कथम्",
+     "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Being and non-being give birth to each other. Hard and easy complete each other. Long and short shape each other, and high and low rest on each other.",
     "link": "A rung on the ladder is high only when something lower is there to give to, and low only when something higher is there to take from.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2866,7 +2873,8 @@
   "story": "In the early 1700s, people knew that rubbed amber and glass pulled light things towards them. Most thought this was one kind of electric power. In 1733 Charles du Fay in Paris hung a thin sheet of gold leaf on a thread. He touched it with a rubbed glass tube, and the glass then pushed it away. Then he held a rubbed piece of resin near, and the leaf rushed towards it. So there were two kinds of charge, and the same kinds push apart. In 1747 Benjamin Franklin in Philadelphia suggested there was only one electric fluid, and a thing had too much or too little of it. He guessed that glass rubbed with silk had too much, and called that plus. In 1897 J. J. Thomson in Cambridge found the electron, the small particle that moves. Rubbed glass loses electrons. Franklin's guess was backwards, but the names plus and minus stayed.",
   "who": "Charles du Fay in Paris, Benjamin Franklin in Philadelphia and J. J. Thomson in Cambridge",
   "when": "1733 (du Fay's two kinds of charge), 1747 (Franklin's plus and minus) and 1897 (Thomson's electron)",
-  "wrong_idea": "People thought rubbing made only one kind of electric power, and later that the glass gained a fluid. Du Fay's gold leaf, pushed by glass and pulled by resin, showed two kinds. The electron, found in 1897, showed that rubbed glass loses something instead of gaining it."
+  "wrong_idea": "People thought rubbing made only one kind of electric power, and later that the glass gained a fluid. Du Fay's gold leaf, pushed by glass and pulled by resin, showed two kinds. The electron, found in 1897, showed that rubbed glass loses something instead of gaining it.",
+  "context": "How many kinds of electric charge are there? This card tells the true story of scientists who tested rubbed glass and rubbed resin with a thin sheet of gold."
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through on paper as if at home, with the materials listed. Static works far better in dry air. On a damp or rainy day, use an air-conditioned room, or a grown-up can blow a hair dryer on the cool setting on the wool for 30 seconds first. The charge fades in about a minute, so the hanging balloon is recharged on wool after every three tests, and each thing is wiped clean with a damp hand and dried before the next. The pushes from the paper tube and the cotton wad are often weak or missing. The steps say to write 0 when that happens, because a weak charge is a real result, and they say what to try first. The Charge Ladder will not match every book, because published ladders disagree about close neighbours. The unit says so and asks the child to trust their own results first. Do a trial run of the ruler and the comb on wool before you start with your child, so you know what a clear push looks like. The Tape Twins need a clean, smooth table and a quick pull. The foil ball needs a smooth ball on a silk or cotton thread. Nothing in the spine needs a garden. Lightning is never tested, only explained. Facts checked: Faraday's ice-pail experiment (1843), Clarke 2013 and Waitukaitis 2014 are confirmed. Still to verify before publishing: the Empire State Building being struck about 20 to 25 times a year (confirmed from several sources); the figure of about 2,800 lightning deaths a year in India (national crime records for 2021 and 2022); the 2011 and 2014 same-material charging papers; that a flying bumblebee carries a small plus charge and a flower a minus one; that the bright return stroke of lightning travels up; the rung positions of rubber and wood on the game's ladder, which differ between published tables; and that the Nehru Science Centre has electricity exhibits at present. The spine is the foil ball, the Charge Ladder, the explanation cards, roots and the quiz, about 95 minutes over two sessions.",
  "warm": {

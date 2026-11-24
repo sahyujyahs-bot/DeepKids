@@ -1975,21 +1975,30 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from something in the seed that is too fine to see.",
     "link": "A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 391",
     "teaching": "Thiruvalluvar says: learn well, without mistakes, what is worth learning. Then live by what you have learned.",
     "link": "Some things we are born with, like the knee kick. But most skills, like a kolam or a language, have to be learned well, through practice.",
-    "verse": ["கற்க கசடறக் கற்பவை கற்றபின்", "நிற்க அதற்குத் தக."],
+    "verse": [
+     "கற்க கசடறக் கற்பவை கற்றபின்",
+     "நிற்க அதற்குத் தக."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Plato, Meno",
     "teaching": "In an old Greek book called the Meno, written by Plato, Socrates asks a boy who has never studied geometry a series of questions. The boy works out a hard answer. Socrates says that some knowing was already in him before any lesson.",
     "link": "Scientists today say that born-with know-how is passed on in genes from parents. It is not remembered from before birth. But Plato also noticed that we do not start with nothing.",
-    "verse": ["οὐκοῦν οὐδενὸς διδάξαντος ἀλλ’ ἐρωτήσαντος ἐπιστήσεται, ἀναλαβὼν αὐτὸς ἐξ αὑτοῦ τὴν ἐπιστήμην;", "τὸ δὲ ἀναλαμβάνειν αὐτὸν ἐν αὑτῷ ἐπιστήμην οὐκ ἀναμιμνῄσκεσθαί ἐστιν;"],
+    "verse": [
+     "οὐκοῦν οὐδενὸς διδάξαντος ἀλλ’ ἐρωτήσαντος ἐπιστήσεται, ἀναλαβὼν αὐτὸς ἐξ αὑτοῦ τὴν ἐπιστήμην;",
+     "τὸ δὲ ἀναλαμβάνειν αὐτὸν ἐν αὑτῷ ἐπιστήμην οὐκ ἀναμιμνῄσκεσθαί ἐστιν;"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2025,7 +2034,8 @@
   "who": "Judith Miles, a high school student who suggested the test, with NASA and the astronaut Owen Garriott, who watched the spiders Arabella and Anita",
   "when": "1973, on the Skylab space station",
   "wrong_idea": "People thought that a spider's web-spinning was a fixed set of steps, and that it would fail in a strange place with no weight. Arabella's first web was messy, but her next webs were much better.",
-  "art": "Two garden spiders in small clear boxes floating inside a space station, one with a round web, and an astronaut looking in through the window, with a photo of a smiling girl student pinned beside the boxes."
+  "art": "Two garden spiders in small clear boxes floating inside a space station, one with a round web, and an astronaut looking in through the window, with a photo of a smiling girl student pinned beside the boxes.",
+  "context": "Could a spider spin her web in space, where nothing has weight? This card tells the true story of a student's question, and of two spiders who went to a space station."
  },
  "playtest": "Walked through the unit as a parent and child in a flat. The 20-square board is now written out square by square, with three Say-it squares, and the race rules say what happens at the start and the end. The Turtle Run game could never have a winner, because everyone crawls to the same light; it is now one shared goal, with torches a single grown-up can switch, and a shaded-sign card. The weaving challenge now has strips for two mats and a lift test, the family names and mothers assumed in steps were removed, and repeated questions and one weak joke were cut.",
  "warm": {

@@ -497,14 +497,22 @@
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
     "teaching": "The Chinese teacher Zhuangzi wrote something like this: a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
     "link": "A mayfly, a mouse and a tortoise each have a very different length of life, like the morning mushroom and the old tree in the teaching. Each one is complete in her own span of time.",
-    "verse": ["朝菌不知晦朔，蟪蛄不知春秋。", "此小年也。", "楚之南有冥靈者，以五百歲爲春，五百歲爲秋。", "上古有大椿者，以八千歲爲春，八千歲爲秋。"],
+    "verse": [
+     "朝菌不知晦朔，蟪蛄不知春秋。",
+     "此小年也。",
+     "楚之南有冥靈者，以五百歲爲春，五百歲爲秋。",
+     "上古有大椿者，以八千歲爲春，八千歲爲秋。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Bhagavad Gita 2.27",
     "teaching": "The Gita says that for one who is born, death is certain, and for one who dies, birth is certain. Birth and death follow each other round and round.",
     "link": "In a life cycle, every ending is also a beginning. A hen lays an egg at the end of her work as a parent, and that egg is the start of another hen's life.",
-    "verse": ["जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।", "तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।"],
+    "verse": [
+     "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।",
+     "तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2987,7 +2995,8 @@
   "story": "For over two thousand years, nobody knew where eels came from. Eels live in rivers, but nobody ever saw a baby eel or an eel egg. About 350 BCE, the Greek thinker Aristotle taught that eels grew out of mud, or out of earthworms. In 1876, a young student named Sigmund Freud cut open about 400 eels looking for their reproductive organs, and found none. In 1904, a Danish scientist, Johannes Schmidt, found strange, flat, see-through baby fish at sea. Italian scientists had shown in 1896 that these were baby eels. Schmidt followed them, catching smaller and smaller ones, across the Atlantic ocean. By 1922, he had traced them to the Sargasso Sea, where adult eels are thought to swim from European rivers to lay eggs and die. The eel is not made from mud. She is a long-distance traveller with a life cycle that crosses an ocean. Even today, nobody has filmed wild European eels spawning.",
   "who": "Johannes Schmidt, a Danish biologist (1877 to 1933)",
   "when": "1904 to 1922",
-  "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. This was shown to be wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born."
+  "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. This was shown to be wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born.",
+  "context": "Where do eels come from, when nobody ever sees a baby eel? This card tells the true story of a scientist who followed tiny eels across the sea to find out."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 10 days after the eggs are laid, so about 12 days in all. In a very clean kitchen or in winter, flies can take longer to appear and the cycle can take three to four weeks. Checked against sources: olive ridley 29 to 30 degrees and nest depth, sardine age at first spawning and life span, Jonathan, quahog, bowhead, shark, purple frog, Moss since 1972, and wild eel spawning (still not observed). Not confirmed: the 1 in 1,000 turtle survival figure (kept as a rough saying), the exact fruit fly timings (8 to 10 days is the usual figure), the Levine 1997 paper title, and the Madras Crocodile Bank web address. The videos have no address yet.",
  "warm": {

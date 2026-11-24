@@ -2807,7 +2807,8 @@
   "who": "Jean-Henri Fabre in France, then Adolf Butenandt and his team in Germany, and Peter Karlson and Martin Lüscher, who made the word pheromone",
   "when": "Fabre published his moth tests in 1900. Butenandt's team named bombykol in 1959, and the word pheromone was made in the same year.",
   "wrong_idea": "That a male moth finds a female by seeing or hearing her. Fabre showed that males ignored a female they could see under glass. Butenandt's team then showed that one chemical from her body is enough to draw the males.",
-  "art": "An old study at night with an open window, a wire cover on a table with a large moth under it, and many moths flying in around a lamp."
+  "art": "An old study at night with an open window, a wire cover on a table with a large moth under it, and many moths flying in around a lamp.",
+  "context": "How does a male moth find a female, even from far away? This card tells the true story of how a man in France and a team in Germany found the answer."
  },
  "roots": {
   "context": "In this lesson you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.",
@@ -2827,14 +2828,21 @@
     "source": "Rig Veda 1.164.45",
     "teaching": "The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth.",
     "link": "The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this lesson found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.",
-    "verse": ["चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः ।", "गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति"],
+    "verse": [
+     "चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः ।",
+     "गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 17, 'Autumn Floods'",
     "teaching": "Zhuangzi and his friend Huizi stand on a bridge over the Hao river. Zhuangzi says the fish are enjoying themselves. Huizi asks: you are not a fish, so how do you know what fish enjoy?",
     "link": "Scientists meet Huizi's question with every signal. They cannot ask a frog what his foot wave means. They can only test what other frogs do when they see it.",
-    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse": [
+     "莊子曰：「鯈魚出游從容，是魚樂也。」",
+     "惠子曰：「子非魚，安知魚之樂？」",
+     "莊子曰：「子非我，安知我不知魚之樂？」"
+    ],
     "verse_lang": "zh"
    }
   ],

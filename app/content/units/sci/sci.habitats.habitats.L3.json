@@ -3709,7 +3709,10 @@
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is filled with the one Lord. So enjoy the world without grabbing it. Do not covet anyone's wealth.",
     "link": "A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3755,8 +3758,121 @@
   "story": "For a long time, scientists believed that every living thing on Earth depended on sunlight. Plants catch light and make food, and every animal eats plants, or eats animals that ate plants. So the deep sea floor, where no light ever reaches, was thought to have only a little life, living on scraps that sink from above. In 1976, Kathleen Crane, a young student scientist, towed an instrument she had helped build just above the sea floor near the Galapagos Islands. It found spots where the water was slightly warmer. In February 1977, she guided the next expedition back to those spots. The pilot Jack Donnelly and the scientists Jack Corliss and Tjeerd van Andel dived there in the small submarine Alvin. Around cracks seeping warm water, they found giant tube worms, big clams and crabs. Holger Jannasch and other scientists then showed that bacteria there make food from a chemical in the vent water, hydrogen sulphide, instead of from sunlight. In 1981, Colleen Cavanaugh, a student, showed that the tube worms carry these bacteria inside their bodies. A whole habitat was running on the Earth's own heat and chemicals.",
   "who": "Kathleen Crane; the pilot Jack Donnelly with Jack Corliss and Tjeerd van Andel in the submarine Alvin; Holger Jannasch; Colleen Cavanaugh",
   "when": "1976 (Crane's warm-water survey); 1977 (the first dives at the Galapagos vents); 1981 (Cavanaugh's tube worm finding)",
-  "wrong_idea": "All life on Earth depends on sunlight, so the dark deep sea floor must have very little life. The crowds of animals at the vents showed that a whole habitat can run on chemicals from inside the Earth instead."
+  "wrong_idea": "All life on Earth depends on sunlight, so the dark deep sea floor must have very little life. The crowds of animals at the vents showed that a whole habitat can run on chemicals from inside the Earth instead.",
+  "context": "Can life exist where the Sun never shines? This card tells the true story of scientists who went down to the deep sea floor in a small submarine."
  },
  "playtest": "The core path works in a city flat. The three bowls experiment (e4) needs only milk, curd, three bowls and a towel. Milk that feels just warm on the wrist sets in the warm bowl overnight. The fridge bowl stays runny, and sets once it is moved somewhere warm. The counter bowl depends on the season: it often sets in summer and stays thick or runny in winter, which is a good thing to talk about. If no bowl sets, the milk was too hot or the curd too old: try again. The tree water experiment (e3) uses a potted plant in a sunny window or balcony, and gives fewer drops on a cool or cloudy day. Under the Stone, Five Worlds, Square Metre Safari, the Nature Map and Nature Bingo are extras for families with a garden or a park, and each says what to do if nothing is found.",
- "warm": {"words": ["CORAL", "WATER", "SPACE", "ROOTS", "OCEAN"], "quiz": [["Living things live where they can use what the place gives, so different habitats hold different living things.", true, "Each habitat gives some needs easily and makes others hard to meet, so different living things suit different places."], ["Deserts and the deep sea are empty places with almost no life.", false, "Desert animals hide by day and come out at night, and deep-sea vents are crowded with worms and clams."], ["All life needs sunlight to survive.", false, "At deep sea vents, bacteria make food from chemicals with no sunlight at all."], ["Living things only live in a habitat and never change it.", false, "Corals build reefs, and trees make shade, soil and damp air."], ["A zoo can give a wild animal everything her real habitat gives.", false, "A zoo cannot give the space many animals need. An elephant may walk many kilometres a day."], ["Some needs are easy to meet in one habitat but hard to meet in another.", true, "Water is easy to find in a pond and hard to find in a desert."], ["A forest has different homes at different levels, from the canopy to the forest floor.", true, "Each level has its own light, warmth and dampness, so different living things live at each."], ["A pond has salty water, like the sea.", false, "A pond holds fresh water, which is not salty. The sea is salty."], ["Even a small place, such as under a stone, can be a habitat with its own conditions.", true, "A small place can have its own light, warmth and dampness, so some living things live only there."], ["Habitat loss is the biggest danger to wild plants and animals today.", true, "When a habitat is destroyed or changed too much, the living things in it cannot live there any more."]], "odd": [[["Sunlight", "Air", "Soil", "Mushroom"], "Mushroom", "Sunlight, air and soil are non-living parts of a habitat; a mushroom is a living fungus."], [["Sea", "Ocean", "Coral reef", "Pond"], "Pond", "Sea, ocean and coral reef all have salty water; a pond has fresh water."], [["Under a stone", "Under a kitchen sink", "Inside a rotting log", "The whole Pacific Ocean"], "The whole Pacific Ocean", "The first three are very small habitats with their own conditions; the Pacific is one of the biggest."], [["Cutting a forest", "Draining a pond", "Building on a lake", "Planting mangroves"], "Planting mangroves", "The first three destroy or change habitats; planting mangroves helps make or restore one."], [["Pond", "Sea", "Mangrove mud", "Desert sand"], "Desert sand", "Pond, sea and mangrove mud are wet habitats; a desert gets very little rain."]]}
+ "warm": {
+  "words": [
+   "CORAL",
+   "WATER",
+   "SPACE",
+   "ROOTS",
+   "OCEAN"
+  ],
+  "quiz": [
+   [
+    "Living things live where they can use what the place gives, so different habitats hold different living things.",
+    true,
+    "Each habitat gives some needs easily and makes others hard to meet, so different living things suit different places."
+   ],
+   [
+    "Deserts and the deep sea are empty places with almost no life.",
+    false,
+    "Desert animals hide by day and come out at night, and deep-sea vents are crowded with worms and clams."
+   ],
+   [
+    "All life needs sunlight to survive.",
+    false,
+    "At deep sea vents, bacteria make food from chemicals with no sunlight at all."
+   ],
+   [
+    "Living things only live in a habitat and never change it.",
+    false,
+    "Corals build reefs, and trees make shade, soil and damp air."
+   ],
+   [
+    "A zoo can give a wild animal everything her real habitat gives.",
+    false,
+    "A zoo cannot give the space many animals need. An elephant may walk many kilometres a day."
+   ],
+   [
+    "Some needs are easy to meet in one habitat but hard to meet in another.",
+    true,
+    "Water is easy to find in a pond and hard to find in a desert."
+   ],
+   [
+    "A forest has different homes at different levels, from the canopy to the forest floor.",
+    true,
+    "Each level has its own light, warmth and dampness, so different living things live at each."
+   ],
+   [
+    "A pond has salty water, like the sea.",
+    false,
+    "A pond holds fresh water, which is not salty. The sea is salty."
+   ],
+   [
+    "Even a small place, such as under a stone, can be a habitat with its own conditions.",
+    true,
+    "A small place can have its own light, warmth and dampness, so some living things live only there."
+   ],
+   [
+    "Habitat loss is the biggest danger to wild plants and animals today.",
+    true,
+    "When a habitat is destroyed or changed too much, the living things in it cannot live there any more."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sunlight",
+     "Air",
+     "Soil",
+     "Mushroom"
+    ],
+    "Mushroom",
+    "Sunlight, air and soil are non-living parts of a habitat; a mushroom is a living fungus."
+   ],
+   [
+    [
+     "Sea",
+     "Ocean",
+     "Coral reef",
+     "Pond"
+    ],
+    "Pond",
+    "Sea, ocean and coral reef all have salty water; a pond has fresh water."
+   ],
+   [
+    [
+     "Under a stone",
+     "Under a kitchen sink",
+     "Inside a rotting log",
+     "The whole Pacific Ocean"
+    ],
+    "The whole Pacific Ocean",
+    "The first three are very small habitats with their own conditions; the Pacific is one of the biggest."
+   ],
+   [
+    [
+     "Cutting a forest",
+     "Draining a pond",
+     "Building on a lake",
+     "Planting mangroves"
+    ],
+    "Planting mangroves",
+    "The first three destroy or change habitats; planting mangroves helps make or restore one."
+   ],
+   [
+    [
+     "Pond",
+     "Sea",
+     "Mangrove mud",
+     "Desert sand"
+    ],
+    "Desert sand",
+    "Pond, sea and mangrove mud are wet habitats; a desert gets very little rain."
+   ]
+  ]
+ }
 }

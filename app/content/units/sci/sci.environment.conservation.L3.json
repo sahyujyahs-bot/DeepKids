@@ -2742,14 +2742,20 @@
     "source": "Isha Upanishad, verse 1",
     "teaching": "All this world is filled by the One. Enjoy it by letting go. Do not grab what belongs to others.",
     "link": "A cow that eats only the top of the grass leaves the growing part behind, so the field lasts. Enjoying what the world gives, while leaving what it needs to keep giving, is a way of letting go.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural, verse 20 (chapter on rain)",
     "teaching": "Without water, the world cannot go on.",
     "link": "Every animal on the farm, every field and every city depends on rain. Saving water and sending rain back into the ground keeps the world going.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2784,7 +2790,8 @@
   "story": "Keoladeo, near Bharatpur in Rajasthan, is a shallow wetland where thousands of water birds spend the winter, including painted storks, herons and, in the past, rare Siberian cranes. For hundreds of years, buffaloes from nearby villages grazed there. Many people, including scientists of the Bombay Natural History Society such as the bird expert Salim Ali, thought the buffaloes harmed the birds by eating their food and trampling the wetland. Keoladeo became a national park in 1981, and grazing was banned in 1982. Then something unexpected happened. A wetland grass called Paspalum, which the buffaloes used to eat, spread across the shallow water. It made thick mats where open water had been, and birds that feed in open water lost space. Park staff had to cut the grass by hand. Scientists of the same society studied the park for years. Their report in 1991 said that grazing had been keeping the wetland open, and suggested letting some grazing back. The wrong idea was that a wild place is always best protected by keeping its animals out.",
   "who": "Scientists of the Bombay Natural History Society, including Salim Ali, who first supported the ban, and the team who studied the park for years",
   "when": "1982 (grazing banned) to 1991 (the study's final report)",
-  "wrong_idea": "People thought the buffaloes only harmed the wetland, so keeping them out would help the birds. Instead, the grass they had been eating spread over the open water, and the long study showed that some grazing had kept the wetland healthy."
+  "wrong_idea": "People thought the buffaloes only harmed the wetland, so keeping them out would help the birds. Instead, the grass they had been eating spread over the open water, and the long study showed that some grazing had kept the wetland healthy.",
+  "context": "Should we keep animals out of a wetland to protect the birds? This card tells the true story of scientists who watched a famous wetland in Rajasthan for years."
  },
  "plan": {
   "start_options": [
@@ -2855,5 +2862,117 @@
   ]
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Whole wheat sprouts reliably within 2 to 3 days in a warm room and reaches 8 to 12 centimetres in about a week, so the cut comes on day 9. In a cold room the steps say to wait longer. Moong seed leaves sit low, so the cut step says to cut below them if needed, and to write that down. The Bare Tub Test needs a separate tub of wheat sown on the same day, so the Cutting Test sows 6 tablespoons of wheat in all, and that tub is at least 10 days old by then. The rain bottle needs holes made by a grown-up, and the test is done in the bathroom. The Onion Test uses spring onions from any vegetable shop and shows new green in 2 or 3 days. The Drip Count reuses the water for plants. The Rain Gauge depends on a rainy day, so it is not in the spine, and it gives a city rainfall figure to use instead. Both games work for one child alone, and with two or four players. The spine fits about 85 minutes, with the Cutting Test spread over 13 days in short daily visits.",
- "warm": {"words": ["GRASS", "ROOTS", "GRAZE", "WATER", "HONEY"], "quiz": [["A cow can eat the top of the grass, and the grass will grow back.", true, "Grass leaves grow from a point near the soil, and that point stays when the top is eaten."], ["Overgrazing happens when too few animals eat in a field.", false, "Overgrazing is when too many animals eat plants faster than they can grow back."], ["Bare soil washes away much faster than soil covered by plants.", true, "Roots hold the grains of soil together, and leaves soften the force of the rain."], ["Saving water at home makes no difference, because farms use most of the water.", false, "In cities, homes use most of the piped water, so every litre saved at home matters."], ["Rainwater harvesting can help refill the groundwater under a city.", true, "Rain sent into the ground through a pit soaks down and fills the spaces in soil and rock."], ["A plant that has been eaten is always worse off.", false, "Grasses grow back from the base, and grazing can stop tall plants from shading them."], ["Many crops make more fruit and seed when bees visit their flowers.", true, "Bees carry pollen from flower to flower, and this lets flowers make seeds and fruit."], ["Keeping all animals and people out is always the best way to protect a wild place.", false, "Some places stay healthy only because grazing keeps the plants short and the land open."], ["Conservation means leaving something alone and never using it.", false, "Conservation means using and protecting something carefully so that it lasts a long time."], ["Animals that help us need clean water, shade, food and care in return.", true, "Cows, hens and bees give us food and materials, and they need to be looked after well."]], "odd": [[["Wheat", "Sugarcane", "Bamboo", "Moong"], "Moong", "The first three are grasses that grow from near the base, but moong is a bean plant and grows from the tip of the stem."], [["Grass over soil", "Tree roots", "Fallen leaf cover", "Bare soil on a slope"], "Bare soil on a slope", "The first three cover or hold the soil, but bare soil on a slope is washed away by rain."], [["Rainwater pit", "Rooftop tank", "Fixing a leaking tap", "Leaving a tap running"], "Leaving a tap running", "The first three save water or put it back in the ground, but a running tap wastes it."], [["Clean water for a cow", "Shade in summer", "Care when ill", "Overloading a bullock cart"], "Overloading a bullock cart", "The first three are the care animals need, but overloading an animal is cruel and against the law in India."], [["Bee", "Butterfly", "Sunbird", "Earthworm"], "Earthworm", "The first three visit flowers and carry pollen, but an earthworm does not."]]}
+ "warm": {
+  "words": [
+   "GRASS",
+   "ROOTS",
+   "GRAZE",
+   "WATER",
+   "HONEY"
+  ],
+  "quiz": [
+   [
+    "A cow can eat the top of the grass, and the grass will grow back.",
+    true,
+    "Grass leaves grow from a point near the soil, and that point stays when the top is eaten."
+   ],
+   [
+    "Overgrazing happens when too few animals eat in a field.",
+    false,
+    "Overgrazing is when too many animals eat plants faster than they can grow back."
+   ],
+   [
+    "Bare soil washes away much faster than soil covered by plants.",
+    true,
+    "Roots hold the grains of soil together, and leaves soften the force of the rain."
+   ],
+   [
+    "Saving water at home makes no difference, because farms use most of the water.",
+    false,
+    "In cities, homes use most of the piped water, so every litre saved at home matters."
+   ],
+   [
+    "Rainwater harvesting can help refill the groundwater under a city.",
+    true,
+    "Rain sent into the ground through a pit soaks down and fills the spaces in soil and rock."
+   ],
+   [
+    "A plant that has been eaten is always worse off.",
+    false,
+    "Grasses grow back from the base, and grazing can stop tall plants from shading them."
+   ],
+   [
+    "Many crops make more fruit and seed when bees visit their flowers.",
+    true,
+    "Bees carry pollen from flower to flower, and this lets flowers make seeds and fruit."
+   ],
+   [
+    "Keeping all animals and people out is always the best way to protect a wild place.",
+    false,
+    "Some places stay healthy only because grazing keeps the plants short and the land open."
+   ],
+   [
+    "Conservation means leaving something alone and never using it.",
+    false,
+    "Conservation means using and protecting something carefully so that it lasts a long time."
+   ],
+   [
+    "Animals that help us need clean water, shade, food and care in return.",
+    true,
+    "Cows, hens and bees give us food and materials, and they need to be looked after well."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Wheat",
+     "Sugarcane",
+     "Bamboo",
+     "Moong"
+    ],
+    "Moong",
+    "The first three are grasses that grow from near the base, but moong is a bean plant and grows from the tip of the stem."
+   ],
+   [
+    [
+     "Grass over soil",
+     "Tree roots",
+     "Fallen leaf cover",
+     "Bare soil on a slope"
+    ],
+    "Bare soil on a slope",
+    "The first three cover or hold the soil, but bare soil on a slope is washed away by rain."
+   ],
+   [
+    [
+     "Rainwater pit",
+     "Rooftop tank",
+     "Fixing a leaking tap",
+     "Leaving a tap running"
+    ],
+    "Leaving a tap running",
+    "The first three save water or put it back in the ground, but a running tap wastes it."
+   ],
+   [
+    [
+     "Clean water for a cow",
+     "Shade in summer",
+     "Care when ill",
+     "Overloading a bullock cart"
+    ],
+    "Overloading a bullock cart",
+    "The first three are the care animals need, but overloading an animal is cruel and against the law in India."
+   ],
+   [
+    [
+     "Bee",
+     "Butterfly",
+     "Sunbird",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "The first three visit flowers and carry pollen, but an earthworm does not."
+   ]
+  ]
+ }
 }

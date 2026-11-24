@@ -3634,21 +3634,34 @@
     "source": "Bhagavad Gita 6.16 to 6.17",
     "teaching": "Yoga is not for someone who eats too much, nor for someone who does not eat at all. It is for someone who is balanced in eating, sleeping, waking and work.",
     "link": "Science also finds that health comes from balance, not from too much or too little of any one food.",
-    "verse": ["नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।", "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।", "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।", "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"],
+    "verse": [
+     "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।",
+     "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।",
+     "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।",
+     "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11)",
     "teaching": "The Buddha taught a middle way between living only for pleasure and harming the body by going without. Buddhist tradition says he took this path after a young woman, Sujata, gave him a bowl of rice cooked in milk, when he had almost starved himself.",
     "link": "A balanced diet is a middle way too. Neither feasting every day nor going without keeps the body well.",
-    "verse": ["Dveme, bhikkhave, antā pabbajitena na sevitabbā.", "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena"],
+    "verse": [
+     "Dveme, bhikkhave, antā pabbajitena na sevitabbā.",
+     "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena"
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "From food all creatures are born. By food they live, and into food they return. The Upanishad calls the body the layer of a person made of food, and says breath, mind, understanding and joy are deeper layers.",
     "link": "Science agrees about the body: your cells are built from what you eat. Whether a person is more than this body made of food is a question science cannot settle.",
-    "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+    "verse": [
+     "अन्नाद्वै प्रजाः प्रजायन्ते",
+     "याः काश्च पृथिवीँ श्रिताः",
+     "अथो अन्नेनैव जीवन्ति",
+     "अथैनदपि यन्त्यन्ततः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3684,7 +3697,120 @@
   "story": "In the 1880s, many soldiers and prisoners in Java, then ruled by the Netherlands, fell ill with beriberi. Their legs grew weak and numb, and some died. Doctors were sure a germ caused the illness. In 1886 a Dutch doctor, Christiaan Eijkman, went to Java to find that germ. By luck, the chickens at his laboratory fell ill with the same kind of weakness. They were being fed leftover white rice from the hospital, with its outer layers polished off. Then a new manager stopped giving the hospital's rice to the chickens. They got cheaper unpolished rice instead, and they got better. Eijkman thought white rice carried a poison, and that the outer layer of the grain cured it. In 1901 his colleague Gerrit Grijns said the opposite. The outer layer held something the body needs, and white rice simply lacked it. Grijns was right. In 1926 two scientists in Java, Barend Jansen and Willem Donath, took the missing nutrient out of rice bran. Today we call it vitamin B1, or thiamine.",
   "who": "Christiaan Eijkman, Gerrit Grijns, Barend Jansen and Willem Donath",
   "when": "1886 to 1926",
-  "wrong_idea": "Beriberi was caused by a germ, or by a poison in white rice. In fact it was caused by something missing from white rice: vitamin B1."
+  "wrong_idea": "Beriberi was caused by a germ, or by a poison in white rice. In fact it was caused by something missing from white rice: vitamin B1.",
+  "context": "What made so many people in Java fall ill with beriberi, and why does a balanced diet matter? This card tells the true story of the doctors who found out."
  },
- "warm": {"words": ["PLATE", "SUGAR", "BLOOD", "FIBRE", "CELLS"], "quiz": [["A plate of only rice can fill your stomach and still leave you short of protein.", true, "Rice mostly gives energy, but the body also needs protein, iron and vitamins."], ["A balanced diet means eating less food.", false, "Diet means all the food you usually have. Balanced means many kinds in about the right amounts."], ["After digestion, blood carries tiny pieces of food to every cell in the body.", true, "Food is broken into pieces small enough to pass into the blood, which carries them around."], ["Cells can make energy from food without needing any oxygen.", false, "Inside cells, glucose or fat joins with oxygen to release energy."], ["Missing one vitamin for a long time causes a particular illness, and eating it again cures it.", true, "Each vitamin has its own jobs, so missing one stops one part of the body from working well."], ["Vegetarians must eat dal and rice in the same meal to get complete protein.", false, "The body keeps a pool of amino acids, so strict combining at every meal is not needed."], ["Gut microbes eat the fibre that your body cannot digest.", true, "Tens of trillions of microbes live in the gut and digest fibre that we cannot."], ["One laddoo at Deepavali ruins a balanced diet.", false, "A balanced diet is about the whole diet over days. One laddoo does no harm in it."], ["Eating sugar often helps mouth bacteria make acid that makes holes in teeth.", true, "The bacteria feed on sugar and make acid, and acid slowly wears holes in teeth."], ["Fat gives the least energy of any nutrient.", false, "Fat carries the most energy of any nutrient, and it also builds the skin around every cell."]], "odd": [[["Rice", "Chapati", "Potato", "Spinach"], "Spinach", "The first three are energy foods full of starch; spinach is a protecting food with vitamins and fibre."], [["Dal", "Eggs", "Fish", "Banana"], "Banana", "The first three are rich in protein for building and mending; a banana mostly gives energy."], [["Calcium", "Iron", "Zinc", "Vitamin C"], "Vitamin C", "The first three are minerals that come from rocks and soil; vitamin C is a vitamin."], [["Amino acids", "Glucose", "Fatty acids", "Whole chapati"], "Whole chapati", "The first three are small enough to pass from the gut into the blood; a whole chapati is not."], [["Vegetables", "Fruits", "Whole millets", "Fish"], "Fish", "The first three are plant foods that give fibre; fish has no fibre."]]}
+ "warm": {
+  "words": [
+   "PLATE",
+   "SUGAR",
+   "BLOOD",
+   "FIBRE",
+   "CELLS"
+  ],
+  "quiz": [
+   [
+    "A plate of only rice can fill your stomach and still leave you short of protein.",
+    true,
+    "Rice mostly gives energy, but the body also needs protein, iron and vitamins."
+   ],
+   [
+    "A balanced diet means eating less food.",
+    false,
+    "Diet means all the food you usually have. Balanced means many kinds in about the right amounts."
+   ],
+   [
+    "After digestion, blood carries tiny pieces of food to every cell in the body.",
+    true,
+    "Food is broken into pieces small enough to pass into the blood, which carries them around."
+   ],
+   [
+    "Cells can make energy from food without needing any oxygen.",
+    false,
+    "Inside cells, glucose or fat joins with oxygen to release energy."
+   ],
+   [
+    "Missing one vitamin for a long time causes a particular illness, and eating it again cures it.",
+    true,
+    "Each vitamin has its own jobs, so missing one stops one part of the body from working well."
+   ],
+   [
+    "Vegetarians must eat dal and rice in the same meal to get complete protein.",
+    false,
+    "The body keeps a pool of amino acids, so strict combining at every meal is not needed."
+   ],
+   [
+    "Gut microbes eat the fibre that your body cannot digest.",
+    true,
+    "Tens of trillions of microbes live in the gut and digest fibre that we cannot."
+   ],
+   [
+    "One laddoo at Deepavali ruins a balanced diet.",
+    false,
+    "A balanced diet is about the whole diet over days. One laddoo does no harm in it."
+   ],
+   [
+    "Eating sugar often helps mouth bacteria make acid that makes holes in teeth.",
+    true,
+    "The bacteria feed on sugar and make acid, and acid slowly wears holes in teeth."
+   ],
+   [
+    "Fat gives the least energy of any nutrient.",
+    false,
+    "Fat carries the most energy of any nutrient, and it also builds the skin around every cell."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Rice",
+     "Chapati",
+     "Potato",
+     "Spinach"
+    ],
+    "Spinach",
+    "The first three are energy foods full of starch; spinach is a protecting food with vitamins and fibre."
+   ],
+   [
+    [
+     "Dal",
+     "Eggs",
+     "Fish",
+     "Banana"
+    ],
+    "Banana",
+    "The first three are rich in protein for building and mending; a banana mostly gives energy."
+   ],
+   [
+    [
+     "Calcium",
+     "Iron",
+     "Zinc",
+     "Vitamin C"
+    ],
+    "Vitamin C",
+    "The first three are minerals that come from rocks and soil; vitamin C is a vitamin."
+   ],
+   [
+    [
+     "Amino acids",
+     "Glucose",
+     "Fatty acids",
+     "Whole chapati"
+    ],
+    "Whole chapati",
+    "The first three are small enough to pass from the gut into the blood; a whole chapati is not."
+   ],
+   [
+    [
+     "Vegetables",
+     "Fruits",
+     "Whole millets",
+     "Fish"
+    ],
+    "Fish",
+    "The first three are plant foods that give fibre; fish has no fibre."
+   ]
+  ]
+ }
 }

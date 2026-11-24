@@ -2886,14 +2886,24 @@
     "source": "Brihadaranyaka Upanishad 3.6 and 3.8",
     "teaching": "The thinker Gargi asks Yajnavalkya what the world is woven on, as a cloth is woven from warp and weft. He answers step by step, and each answer is woven on the next.",
     "link": "The Upanishad pictures the world as woven cloth, and asks what the cloth rests on. A thread gives a plain, physical answer to a similar question: each fibre is held by its neighbours, with nothing else holding the whole thread up.",
-    "verse": ["यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति", "वायौ गार्गीति", "कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति", "अन्तरिक्षलोकेषु गार्गीति", "कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति"],
+    "verse": [
+     "यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति",
+     "वायौ गार्गीति",
+     "कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति",
+     "अन्तरिक्षलोकेषु गार्गीति",
+     "कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kabir, the poem Jhini Jhini Bini Chadariya (said to be of the 15th century, Varanasi)",
     "teaching": "Kabir is remembered as a weaver. In this poem he sings of the body as a fine cloth woven on a loom, and says he wore it with care and gave it back clean.",
     "link": "Kabir used the work of his own hands to ask about life. A cloth is short fibres twisted into thread and crossed into cloth, and a body is made of small parts held together too.",
-    "verse": ["झीनी झीनी बीनी चदरिया", "दास कबीर जतन करि ओढी", "ज्यों कीं त्यों धर दीनी चदरिया"],
+    "verse": [
+     "झीनी झीनी बीनी चदरिया",
+     "दास कबीर जतन करि ओढी",
+     "ज्यों कीं त्यों धर दीनी चदरिया"
+    ],
     "verse_lang": "hi"
    }
   ],
@@ -2929,7 +2939,8 @@
   "story": "In the mid-1960s, Stephanie Kwolek was a chemist at a company called DuPont in the United States. She was looking for a very light, very strong fibre that could be used inside car tyres. She made a new polymer with very stiff chains and dissolved it. Chemists expected a thick, clear syrup. Hers was thin, cloudy and runny, and most chemists would have thrown it away. She asked a technician to spin it into a fibre. By most accounts, he was unsure the cloudy liquid would work in his machine, but he agreed. The fibre was stiff and very strong. She tested it again and again, because she could hardly believe the numbers. The cloud was a sign that the stiff chains had lined up side by side in the liquid. Spun into a fibre, the lined-up chains made a fibre stronger than steel for the same weight. This fibre is called Kevlar.",
   "who": "Stephanie Kwolek, a chemist at DuPont, with Paul Morgan, who guided her work on these polymers, and Charles Smullen, the technician who spun it",
   "when": "The mid-1960s",
-  "wrong_idea": "Chemists thought that a good polymer solution should be clear and thick, and that a cloudy, runny one was a failure. Kwolek spun the cloudy liquid anyway and showed that the cloud was a sign of lined-up chains, which make a very strong fibre."
+  "wrong_idea": "Chemists thought that a good polymer solution should be clear and thick, and that a cloudy, runny one was a failure. Kwolek spun the cloudy liquid anyway and showed that the cloud was a sign of lined-up chains, which make a very strong fibre.",
+  "context": "How was a fibre made that is strong enough for a tyre or a vest that stops bullets? This card tells the true story of a chemist who spun a liquid that others would have thrown away."
  },
  "warm": {
   "words": [

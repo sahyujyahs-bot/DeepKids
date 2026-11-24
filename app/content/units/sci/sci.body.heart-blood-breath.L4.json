@@ -3103,14 +3103,21 @@
     "source": "Prashna Upanishad, question 2, verses 2 to 4",
     "teaching": "The powers of the body, such as speech, mind, sight and hearing, each said that it was the chief one. Prana, the breath of life, began to leave, and all the others began to leave with it, like bees following a queen. They saw that they all depended on the breath.",
     "link": "The Upanishad picks the breath as the one that holds the rest together. In our science, the dependence goes both ways, because no cell works without oxygen and the breath and the heartbeat answer to the cells.",
-    "verse": ["सोऽभिमानादूर्ध्वमुत्क्रमत इव", "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते", "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते", "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"],
+    "verse": [
+     "सोऽभिमानादूर्ध्वमुत्क्रमत इव",
+     "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते",
+     "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते",
+     "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 6 (about 300 BCE)",
     "teaching": "The true people of old breathed from their heels, and ordinary people breathe from their throats.",
     "link": "A slow, deep breath reaches further into the lungs than a quick, shallow one. At rest, the body asks for little, and the breath can be slow and deep.",
-    "verse": ["眞人之息以踵，衆人之息以喉。"],
+    "verse": [
+     "眞人之息以踵，衆人之息以喉。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -3229,7 +3236,8 @@
   "story": "For about two thousand years, many people followed Aristotle, who taught that the heart is the hottest part of the body and that we breathe to cool it, like fanning a hot pot. In the 1770s, Joseph Priestley and Carl Scheele each found a new gas that made flames burn bright. Antoine Lavoisier, in France, named it oxygen. Around 1783, he and Pierre Laplace put a guinea pig in a chamber packed with ice. The animal's warmth melted the ice, and they measured the carbon dioxide the animal breathed out. For each bit of carbon dioxide, the animal gave out about as much heat as burning charcoal does. So breathing was not cooling. It was a slow, gentle burning of food. In 1789 and 1790, Lavoisier tested a young man, Armand Seguin, breathing through a mask at rest and while lifting weights. Seguin used far more oxygen when he worked. Lavoisier's wife, Marie-Anne Paulze Lavoisier, took notes and drew the apparatus.",
   "who": "Aristotle, Joseph Priestley, Carl Scheele, Antoine Lavoisier, Pierre Laplace, Armand Seguin and Marie-Anne Paulze Lavoisier",
   "when": "Aristotle about 350 BCE, the discovery of oxygen in the 1770s, the ice experiment about 1783, and the human breathing tests in 1789 and 1790",
-  "wrong_idea": "Aristotle taught that breathing cools the heart, and later thinkers said that air only carried away hot vapours. Lavoisier's ice and oxygen measurements showed that breathing is slow burning of food, which makes heat and carbon dioxide, and that working harder uses more oxygen."
+  "wrong_idea": "Aristotle taught that breathing cools the heart, and later thinkers said that air only carried away hot vapours. Lavoisier's ice and oxygen measurements showed that breathing is slow burning of food, which makes heat and carbon dioxide, and that working harder uses more oxygen.",
+  "context": "Why do we breathe, and why do we pant after running? This card tells the true story of scientists who found out what the air does inside our bodies."
  },
  "playtest": "Read as a parent and a child in a city flat would use it, but not yet done with a real child. The Pulse Detective needs only a step or a stair, a stopwatch and a notebook, and takes about 55 minutes. Counts over 15 seconds are rough, so tell the child the numbers can differ by a few beats. Counting breaths works best when the child does not know. For Cold Fingers, expect the pink to return in about a second in a warm hand and a few seconds in a cold one. If the times look alike, compare the colour of the fingertips. The cold part is one minute only. For Big Surface, the powder is quick, in under a minute, and a whole lump can take 10 minutes or more in warm water, so keep it unstirred. The cereal magnet may find nothing if the magnet is weak. Facts to verify before publishing: the capillary refill times, the sugar dissolving times, the range given for the lung surface area, the NFHS-5 anaemia figures, the Prashna Upanishad and Kabir quotations, the wording of the Lavoisier and Seguin story, and the three videos, which are still to be chosen.",
  "warm": {

@@ -2068,7 +2068,9 @@
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that everything that is made keeps changing. Nothing that is made stays the same.",
     "link": "A cell is made in a factory, and its chemicals change a little every minute the clock ticks. It does not stop all at once. It changes slowly, even when we cannot see it.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2103,7 +2105,8 @@
   "who": "Michael Faraday, a scientist in London who began as a bookbinder's apprentice, and Joseph Henry, a scientist in the United States",
   "when": "1820 (a wire moves a compass) and 1831 (a moving magnet makes electricity)",
   "story": "In 1820, Hans Christian Oersted, in Denmark, saw a compass needle swing when electricity flowed in a wire near it. So electricity can act like a magnet. Many scientists then asked the opposite question. Can a magnet make electricity? They put strong magnets beside coils of wire and waited. Nothing flowed. Michael Faraday tried too, on and off, for years. He had left school young and taught himself science while working for a bookbinder in London. A book by Jane Marcet, Conversations on Chemistry, first made him love chemistry. In 1831, he found the answer. Electricity flowed in his coil only while a magnet was moving in or out of it. When the magnet stopped, the flow stopped. Joseph Henry found the same thing in the United States at about the same time. The wrong idea was that a magnet sitting still next to a wire could make electricity. The magnet has to move. Today, most power stations use this discovery. Steam, falling water or wind spins huge magnets near coils of wire, and the electricity travels along wires to your home.",
-  "wrong_idea": "People expected a strong magnet sitting still beside a coil of wire to make electricity flow. Faraday showed that electricity flows only while the magnet moves."
+  "wrong_idea": "People expected a strong magnet sitting still beside a coil of wire to make electricity flow. Faraday showed that electricity flows only while the magnet moves.",
+  "context": "Can a magnet make electricity? This card tells the true story of a scientist in London who began as a bookbinder's helper and tried it."
  },
  "plan": {
   "start_options": [
@@ -2175,5 +2178,117 @@
    "Dhammapada 277: sabbe sankhara anicca, all conditioned things are impermanent."
   ]
  },
- "warm": {"words": ["CELLS", "TORCH", "CLOCK", "WIRES", "POWER"], "quiz": [["A cell is a small store of electricity that you can carry around.", true, "A cell holds chemicals that make electricity flow, so a torch or clock works without a wall wire."], ["In a power cut the fan stops because its cell has run out.", false, "A fan uses mains electricity, and in a power cut none is coming along the wires."], ["A cell runs down slowly as it is used, giving less and less.", true, "Its chemicals change as the cell is used, so it gives less electricity over time."], ["A cell that cannot light a torch has nothing left inside.", false, "Many old cells that cannot light a torch still hold enough to make a clock tick."], ["Mains electricity travels along wires, on poles or under the ground, from a power station to our homes.", true, "Power stations make mains electricity, and wires carry it to every building and socket."], ["Small cells are safe toys for little children to play with.", false, "A swallowed button cell can badly burn a small child's insides within two hours."], ["A rechargeable battery can be filled with electricity again from the wall.", true, "Charging it from the wall refills its store, so it can be used again and again."], ["The small cells in a torch can kill a person like mains electricity.", false, "Mains electricity can kill, but small torch cells are too weak to give a shock."], ["Appliances change electricity into light, sound, heat, cold or movement.", true, "Electricity is a kind of energy, and each machine turns it into the job it does."], ["Only animals with brains use tiny electric signals in their bodies.", false, "Plants send electric signals too, like a touch-me-not folding her leaves after a touch."]], "odd": [[["Ceiling fan", "Fridge", "Wall light", "Torch"], "Torch", "The fan, fridge and wall light get mains electricity from the wall, but a torch carries its own cells."], [["Clothes iron", "Water heater", "Toaster", "Table fan"], "Table fan", "The first three change electricity into heat, but a fan changes it into movement."], [["Torch cell", "Clock cell", "Remote cell", "Power station"], "Power station", "The three cells are small stores you can carry, but a power station is a big building that makes mains electricity."], [["Nerve in a child", "Touch-me-not plant stalk", "Beating heart", "Plastic toy"], "Plastic toy", "Living bodies use tiny electric signals to do their jobs, but a plastic toy is not alive and sends none."], [["Phone battery", "Rechargeable torch", "Laptop battery", "Ordinary torch cell"], "Ordinary torch cell", "The first three can be filled again from the wall, but an ordinary cell cannot be recharged."]]}
+ "warm": {
+  "words": [
+   "CELLS",
+   "TORCH",
+   "CLOCK",
+   "WIRES",
+   "POWER"
+  ],
+  "quiz": [
+   [
+    "A cell is a small store of electricity that you can carry around.",
+    true,
+    "A cell holds chemicals that make electricity flow, so a torch or clock works without a wall wire."
+   ],
+   [
+    "In a power cut the fan stops because its cell has run out.",
+    false,
+    "A fan uses mains electricity, and in a power cut none is coming along the wires."
+   ],
+   [
+    "A cell runs down slowly as it is used, giving less and less.",
+    true,
+    "Its chemicals change as the cell is used, so it gives less electricity over time."
+   ],
+   [
+    "A cell that cannot light a torch has nothing left inside.",
+    false,
+    "Many old cells that cannot light a torch still hold enough to make a clock tick."
+   ],
+   [
+    "Mains electricity travels along wires, on poles or under the ground, from a power station to our homes.",
+    true,
+    "Power stations make mains electricity, and wires carry it to every building and socket."
+   ],
+   [
+    "Small cells are safe toys for little children to play with.",
+    false,
+    "A swallowed button cell can badly burn a small child's insides within two hours."
+   ],
+   [
+    "A rechargeable battery can be filled with electricity again from the wall.",
+    true,
+    "Charging it from the wall refills its store, so it can be used again and again."
+   ],
+   [
+    "The small cells in a torch can kill a person like mains electricity.",
+    false,
+    "Mains electricity can kill, but small torch cells are too weak to give a shock."
+   ],
+   [
+    "Appliances change electricity into light, sound, heat, cold or movement.",
+    true,
+    "Electricity is a kind of energy, and each machine turns it into the job it does."
+   ],
+   [
+    "Only animals with brains use tiny electric signals in their bodies.",
+    false,
+    "Plants send electric signals too, like a touch-me-not folding her leaves after a touch."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Ceiling fan",
+     "Fridge",
+     "Wall light",
+     "Torch"
+    ],
+    "Torch",
+    "The fan, fridge and wall light get mains electricity from the wall, but a torch carries its own cells."
+   ],
+   [
+    [
+     "Clothes iron",
+     "Water heater",
+     "Toaster",
+     "Table fan"
+    ],
+    "Table fan",
+    "The first three change electricity into heat, but a fan changes it into movement."
+   ],
+   [
+    [
+     "Torch cell",
+     "Clock cell",
+     "Remote cell",
+     "Power station"
+    ],
+    "Power station",
+    "The three cells are small stores you can carry, but a power station is a big building that makes mains electricity."
+   ],
+   [
+    [
+     "Nerve in a child",
+     "Touch-me-not plant stalk",
+     "Beating heart",
+     "Plastic toy"
+    ],
+    "Plastic toy",
+    "Living bodies use tiny electric signals to do their jobs, but a plastic toy is not alive and sends none."
+   ],
+   [
+    [
+     "Phone battery",
+     "Rechargeable torch",
+     "Laptop battery",
+     "Ordinary torch cell"
+    ],
+    "Ordinary torch cell",
+    "The first three can be filled again from the wall, but an ordinary cell cannot be recharged."
+   ]
+  ]
+ }
 }

@@ -2758,14 +2758,21 @@
     "source": "Chandogya Upanishad 6.4.1",
     "teaching": "As paraphrased, Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth.",
     "link": "A candle flame shows more than one colour. A cold plate held over it catches white drops of water and black soot. Uddalaka, the old teacher, looked at the colours of a fire in the same way, and asked what each colour was made of. His answers are not the answers of science, but the habit of looking closely at a fire is the same.",
-    "verse": ["यदग्ने रोहितं रूपं तेजसस्तद्रूपम्", "यच्छुक्लं तदपाम्", "यत्कृष्णं तदन्नस्य"],
+    "verse": [
+     "यदग्ने रोहितं रूपं तेजसस्तद्रूपम्",
+     "यच्छुक्लं तदपाम्",
+     "यत्कृष्णं तदन्नस्य"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 2.16",
     "teaching": "As paraphrased: of what is not, there is no coming to be. Of what is, there is no ceasing to be.",
     "link": "This is very close to what Lavoisier found by weighing. The wax does not cease to be. It becomes other things.",
-    "verse": ["नासतो विद्यते भावो नाभावो विद्यते सतः।", "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"],
+    "verse": [
+     "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+     "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2806,7 +2813,8 @@
   "story": "For about a hundred years, many chemists believed that something escapes from every burning thing. Around 1700, Georg Stahl called it phlogiston. Wood burns, they said, because it gives out phlogiston, and what is left is ash. But there was a puzzle. When metals such as tin or iron burned, the crust that was left weighed more, not less. In the 1770s, the French chemist Antoine Lavoisier began weighing everything, even the air. He heated tin inside a sealed glass flask and weighed the whole flask before and after. The weight of the flask did not change, so nothing had got in or out. But air rushed in when he opened it, which showed that part of the air inside had been used up. The tin had taken something out of the air. Lavoisier named it oxygen. His wife, Marie-Anne Paulze Lavoisier, drew his apparatus, kept the laboratory notebooks, and translated English chemistry papers for him. Burning, they showed, is joining with oxygen, not letting something escape. In 1737 Émilie du Châtelet, a French scientist, wrote an essay on the nature of fire for a prize of the French Academy of Sciences. It did not win, but the Academy had it printed.",
   "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier in Paris, building on Georg Stahl's phlogiston and on the oxygen made by Joseph Priestley and Carl Scheele. Émilie du Châtelet wrote on the nature of fire in 1737",
   "when": "About 1700 (phlogiston), 1774 (the sealed flask), 1777 onwards (the name oxygen), 1789 (Lavoisier's book)",
-  "wrong_idea": "Chemists believed that burning lets an invisible substance called phlogiston escape. But metals gain weight when they burn, and that did not fit. Lavoisier showed that the metal was joining with oxygen from the air, by weighing everything in a sealed flask."
+  "wrong_idea": "Chemists believed that burning lets an invisible substance called phlogiston escape. But metals gain weight when they burn, and that did not fit. Lavoisier showed that the metal was joining with oxygen from the air, by weighing everything in a sealed flask.",
+  "context": "When something burns, where does it go? This card tells the true story of a scientist in Paris and his wife, who weighed everything to find out."
  },
  "warm": {
   "words": [

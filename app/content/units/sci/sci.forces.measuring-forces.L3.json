@@ -4322,7 +4322,8 @@
   "who": "French scientists in 1795, and the countries that share the kilogram",
   "when": "1795 to 2019",
   "story": "For most of history, every town had its own weights. A ser in one market was not a ser in the next. So people often argued about how much they had bought. In 1795, France made a new rule. A gram would be the mass of a tiny cube of water, 1 centimetre on each side. Water is the same everywhere, so anyone could check it. In 1889, many countries agreed to share one kilogram. It was a metal cylinder, kept locked near Paris. Each country got a copy. India's copy is in New Delhi. People thought the metal would never change. But years later, the copies were weighed against it again. They no longer matched exactly. So in 2019, scientists stopped using the metal cylinder. Now the kilogram is set by a fixed number from physics. Anyone with the right machine can check it, anywhere in the world.",
-  "wrong_idea": "People believed one guarded lump of metal would stay exactly the same for ever. When the copies were checked years later, they had drifted apart by a tiny amount."
+  "wrong_idea": "People believed one guarded lump of metal would stay exactly the same for ever. When the copies were checked years later, they had drifted apart by a tiny amount.",
+  "context": "How can everyone in the world agree on how heavy a kilogram is? This card tells the true story of a guarded lump of metal and of what happened to its copies."
  },
  "roots": {
   "context": "We have been inventing units of pull, counting coins and water, and meeting the newton. Now we ask what a number like '5 newtons' really is, and what that says about us and the world.",
@@ -4342,14 +4343,21 @@
     "source": "Rig Veda 1.164.46",
     "teaching": "Truth is one. The wise call it by many names.",
     "link": "One notebook's pull was counted as 6 big coins, 12 small coins or about half a newton. The numbers changed with the unit. The pull itself stayed the same.",
-    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse": [
+     "इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।",
+     "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Quran 55:7–9",
     "teaching": "The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short.",
     "link": "A balance is fair only if people can trust it. In the story Ten Packets of Salt, the pointer on Mohan Lal's balance started in the wrong place, and it cheated every porter. Pushpa showed this by testing the balance with ten sealed 1 kilogram packets of salt.",
-    "verse": ["وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ", "أَلَّا تَطْغَوْا فِي الْمِيزَانِ", "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ"],
+    "verse": [
+     "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+     "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+     "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ"
+    ],
     "verse_lang": "ar"
    }
   ],

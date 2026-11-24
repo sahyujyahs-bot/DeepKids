@@ -2906,7 +2906,8 @@
   "who": "Georges Cuvier in France, then Johannes Müller and Rudolf Leuckart in Germany",
   "when": "Cuvier published his four groups in 1817. Müller studied the larvae in the 1840s, and Leuckart split the ring group in 1848.",
   "wrong_idea": "That all ring-shaped animals are one family. Müller found that a starfish begins life as a two-sided larva. So the ring shape of a starfish and the ring shape of a jellyfish arose separately.",
-  "art": "A scientist of the 1840s at a table by a window over the sea, looking through a brass microscope, with a glass dish of sea water and a fine net beside him."
+  "art": "A scientist of the 1840s at a table by a window over the sea, looking through a brass microscope, with a glass dish of sea water and a fine net beside him.",
+  "context": "Are a starfish and a jellyfish close relatives, because both are shaped like rings? This card tells the true story of how scientists looked at how a starfish grows and changed their minds."
  },
  "roots": {
   "context": "In this lesson you rolled a lopsided roller, tilted dough shells and found four tissues in your hand. Here we ask what the shape of a body tells us about the life that body leads.",
@@ -2926,7 +2927,10 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son that by knowing one lump of clay, you know everything made of clay. The pot and the plate differ in name and shape, and the clay is the same.",
     "link": "The verse is about the ground of all things, and it does not mention animals. A prawn's body shows the same idea in a small way. Her feelers, jaws and legs are one repeated part, shaped differently on each segment.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {

@@ -2376,14 +2376,19 @@
     "source": "Tirukkural 101",
     "teaching": "Help given to you when you had done nothing for the helper is so great that even the earth and the sky together cannot repay it.",
     "link": "Most of the minutes in the Home Work Count are help of this kind. They are given every day, and the person who receives them, often a child, has done nothing to earn them.",
-    "verse": ["செய்யாமல் செய்த உதவிக்கு வையகமும்", "வானகமும் ஆற்றல் அரிது."],
+    "verse": [
+     "செய்யாமல் செய்த உதவிக்கு வையகமும்",
+     "வானகமும் ஆற்றல் அரிது."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Taittiriya Upanishad 1.11",
     "teaching": "A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god.",
     "link": "The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work.",
-    "verse": ["मातृदेवो भव । पितृदेवो भव । आचार्यदेवो भव । अतिथिदेवो भव"],
+    "verse": [
+     "मातृदेवो भव । पितृदेवो भव । आचार्यदेवो भव । अतिथिदेवो भव"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2423,7 +2428,120 @@
   "story": "In 1928, John B. Watson, a famous American psychologist, wrote a book for parents with Rosalie Rayner Watson. It told them never to hug or kiss their children. Many scientists then thought a baby loves their mother only because she feeds them. In the 1950s, Harry Harlow tested this idea at the University of Wisconsin in the United States. He took baby rhesus monkeys from their mothers and gave each baby two model mothers. One was made of wire and held a bottle of milk. The other was covered in soft cloth and gave no milk. The babies drank from the wire mother, then went straight back to cling to the cloth one. When something frightened them, they ran to the cloth mother. Harlow reported this in 1958, in a talk called The Nature of Love. Comfort mattered to the babies as much as food. John Bowlby in Britain, and Mary Ainsworth, who worked with him, showed that human children also need a trusted carer to feel safe. Harlow's experiments hurt the baby monkeys, and many scientists today say they were cruel.",
   "who": "John B. Watson and Rosalie Rayner Watson, Harry Harlow at the University of Wisconsin, John Bowlby and Mary Ainsworth",
   "when": "1928 (Watson's book), 1950s (Harlow's experiments, reported in 1958)",
-  "wrong_idea": "People thought babies love their mother only because she feeds them, and that hugging spoils children. Harlow's baby monkeys chose a soft cloth mother with no milk over a wire mother with milk, and ran to her when afraid."
+  "wrong_idea": "People thought babies love their mother only because she feeds them, and that hugging spoils children. Harlow's baby monkeys chose a soft cloth mother with no milk over a wire mother with milk, and ran to her when afraid.",
+  "context": "Do babies love their mother only because she feeds them? This card tells the true story of a scientist who tested it with baby monkeys."
  },
- "warm": {"words": ["CHORE", "RIGHT", "UNCLE", "YOUNG", "EQUAL"], "quiz": [["Cooking for your own family is real work, even though nobody pays for it.", true, "The same job is paid when a cook does it, and without it nobody could eat."], ["Hugging and comforting a child a lot spoils them.", false, "Children need comfort and touch, not only food, and comfort helps them feel safe and grow well."], ["In India, women do much more unpaid home work and care work than men.", true, "Women do far more cooking, cleaning and caring at home, and none of it is paid."], ["A child needs only their mother to grow up well.", false, "Most babies grow close to several people, and children need many helpers."], ["A calf walks within hours of birth, but a human baby needs years of care.", true, "Human children need many helpers for a long time before they can look after themselves."], ["A joint family means just parents and children living together.", false, "A joint family has grandparents, parents, uncles, aunts and cousins together; parents and children make a nuclear family."], ["English uses one word, uncle, for several different relations.", true, "Many Indian languages have separate words, such as Mama and Chacha, for each different relation."], ["A guardian must give a child food and a home, but not schooling.", false, "Parents and guardians are responsible for food, home, health, safety, schooling and love."], ["A child gets all their genes from their mother.", false, "Each child gets about half of their genes from the mother and half from the father."], ["Giving girls less schooling than boys is discrimination.", true, "Discrimination is unfair treatment because of who someone is. India's Constitution gives women and men equal rights."]], "odd": [[["Cooking for your family", "Washing your own clothes", "Nursing a sick grandparent", "Cook paid at a hotel"], "Cook paid at a hotel", "The first three are unpaid work at home; the hotel cook is paid for the same kind of work."], [["Brother", "Sister", "Cousin", "Mother"], "Mother", "The first three are in your own generation; your mother belongs to the generation before you."], [["Food", "Health care", "Schooling", "A big television"], "A big television", "The first three are things a parent or guardian must give a child; a television is not needed."], [["Calf", "Foal", "Lamb", "Human baby"], "Human baby", "The first three walk within hours of birth; a human baby takes about a year to walk."], [["Mama", "Mausi", "Nani", "Chacha"], "Chacha", "The first three are relatives on your mother's side; a chacha is your father's brother."]]}
+ "warm": {
+  "words": [
+   "CHORE",
+   "RIGHT",
+   "UNCLE",
+   "YOUNG",
+   "EQUAL"
+  ],
+  "quiz": [
+   [
+    "Cooking for your own family is real work, even though nobody pays for it.",
+    true,
+    "The same job is paid when a cook does it, and without it nobody could eat."
+   ],
+   [
+    "Hugging and comforting a child a lot spoils them.",
+    false,
+    "Children need comfort and touch, not only food, and comfort helps them feel safe and grow well."
+   ],
+   [
+    "In India, women do much more unpaid home work and care work than men.",
+    true,
+    "Women do far more cooking, cleaning and caring at home, and none of it is paid."
+   ],
+   [
+    "A child needs only their mother to grow up well.",
+    false,
+    "Most babies grow close to several people, and children need many helpers."
+   ],
+   [
+    "A calf walks within hours of birth, but a human baby needs years of care.",
+    true,
+    "Human children need many helpers for a long time before they can look after themselves."
+   ],
+   [
+    "A joint family means just parents and children living together.",
+    false,
+    "A joint family has grandparents, parents, uncles, aunts and cousins together; parents and children make a nuclear family."
+   ],
+   [
+    "English uses one word, uncle, for several different relations.",
+    true,
+    "Many Indian languages have separate words, such as Mama and Chacha, for each different relation."
+   ],
+   [
+    "A guardian must give a child food and a home, but not schooling.",
+    false,
+    "Parents and guardians are responsible for food, home, health, safety, schooling and love."
+   ],
+   [
+    "A child gets all their genes from their mother.",
+    false,
+    "Each child gets about half of their genes from the mother and half from the father."
+   ],
+   [
+    "Giving girls less schooling than boys is discrimination.",
+    true,
+    "Discrimination is unfair treatment because of who someone is. India's Constitution gives women and men equal rights."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Cooking for your family",
+     "Washing your own clothes",
+     "Nursing a sick grandparent",
+     "Cook paid at a hotel"
+    ],
+    "Cook paid at a hotel",
+    "The first three are unpaid work at home; the hotel cook is paid for the same kind of work."
+   ],
+   [
+    [
+     "Brother",
+     "Sister",
+     "Cousin",
+     "Mother"
+    ],
+    "Mother",
+    "The first three are in your own generation; your mother belongs to the generation before you."
+   ],
+   [
+    [
+     "Food",
+     "Health care",
+     "Schooling",
+     "A big television"
+    ],
+    "A big television",
+    "The first three are things a parent or guardian must give a child; a television is not needed."
+   ],
+   [
+    [
+     "Calf",
+     "Foal",
+     "Lamb",
+     "Human baby"
+    ],
+    "Human baby",
+    "The first three walk within hours of birth; a human baby takes about a year to walk."
+   ],
+   [
+    [
+     "Mama",
+     "Mausi",
+     "Nani",
+     "Chacha"
+    ],
+    "Chacha",
+    "The first three are relatives on your mother's side; a chacha is your father's brother."
+   ]
+  ]
+ }
 }

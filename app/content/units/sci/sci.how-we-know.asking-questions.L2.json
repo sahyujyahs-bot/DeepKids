@@ -1960,14 +1960,19 @@
     "source": "Cula-Malunkyovada Sutta, Majjhima Nikaya 63",
     "teaching": "A monk named Malunkyaputta asks the Buddha questions such as 'Is the world eternal?' The Buddha does not answer. He tells of a man hit by a poisoned arrow who refuses help until he knows who shot it. The man would die before the questions were answered. The Buddha says to work first on what can be worked on.",
     "link": "Some questions can be answered by a test today, and some cannot. Knowing which kind you have helps you choose what to do next.",
-    "verse": ["Seyyathāpi, mālukyaputta, puriso sallena viddho assa savisena gāḷhapalepanena.", "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhapeyyuṁ."],
+    "verse": [
+     "Seyyathāpi, mālukyaputta, puriso sallena viddho assa savisena gāḷhapalepanena.",
+     "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhapeyyuṁ."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Confucius, Analects 2.17",
     "teaching": "Confucius tells his student: when you know a thing, say that you know it. When you do not know a thing, say that you do not know it. That is real knowing.",
     "link": "A prediction is said honestly before a test. When the test shows it was wrong, an honest person says so, and learns.",
-    "verse": ["由，誨女知之乎！知之爲知之，不知爲不知，是知也。"],
+    "verse": [
+     "由，誨女知之乎！知之爲知之，不知爲不知，是知也。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2002,6 +2007,7 @@
   "story": "For thousands of years, people around the world saw comets as surprises. Many thought each comet came once and was a sign of bad times. In England, Edmond Halley studied old records. He saw that comets seen in 1531, 1607 and 1682 had moved across the sky along almost the same path, about 76 years apart. In 1705 he wrote that they were one comet going round the Sun, and predicted it would come back around 1758. Halley died in 1742, before he could see if he was right. In France, Nicole-Reine Lepaute worked with Alexis Clairaut and Jérôme Lalande. For months they calculated how the pull of Jupiter and Saturn would slow the comet down. They predicted it would pass closest to the Sun in mid-April 1759. On Christmas night in 1758, a farmer in Germany named Johann Palitzsch spotted it. It passed closest to the Sun on 13 March 1759, about a month before the date they predicted. Clairaut later left Lepaute's name out of his book, but Lalande gave her the credit.",
   "who": "Edmond Halley, an English astronomer, and Nicole-Reine Lepaute, a French astronomer and calculator, with Alexis Clairaut and Jérôme Lalande",
   "when": "1705 (Halley's prediction) to 1759 (the comet's return)",
-  "wrong_idea": "Each comet comes once, passes by and never returns, often as a sign of bad times."
+  "wrong_idea": "Each comet comes once, passes by and never returns, often as a sign of bad times.",
+  "context": "Does a comet come only once, or does it come back? This card tells the true story of an astronomer who made a guess, and of the woman who helped work out when it would return."
  }
 }

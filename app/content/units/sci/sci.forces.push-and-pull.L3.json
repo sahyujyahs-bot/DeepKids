@@ -3847,21 +3847,32 @@
     "source": "Empedocles, fragment DK B17",
     "teaching": "Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart.",
     "link": "Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push.",
-    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,", "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"],
+    "verse": [
+     "δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι",
+     "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι",
+     "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,",
+     "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Bhagavad Gita 3.27",
     "teaching": "All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.'",
     "link": "The Gita is talking about who does our actions, not about physics. But this lesson finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.",
-    "verse": ["प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।", "अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।"],
+    "verse": [
+     "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।",
+     "अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Marcus Aurelius, Meditations 4.40",
     "teaching": "Think of the universe as one living being. All things in it act together and help cause everything that happens.",
     "link": "Every force is between two things, and everything pulls everything with gravity. No force ever acts on one thing only.",
-    "verse": ["Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν", "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"],
+    "verse": [
+     "Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν",
+     "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3896,7 +3907,8 @@
   "who": "Robert Goddard, an American rocket scientist, using Isaac Newton's rule that forces come in pairs",
   "when": "1687 to 1969",
   "story": "For a long time, many people believed that a rocket needs air to push against. A swimmer pushes water and a bird pushes air, so people thought a rocket must push on something outside it too. In 1919, the American scientist Robert Goddard wrote that a rocket might one day reach the Moon. In January 1920, the newspaper The New York Times laughed at him. It said a rocket could not work in empty space, because there is nothing there to push against. Goddard had already tested this. He fired small rockets inside a closed container with most of the air pumped out. They still pushed forward, as well as in air or even better. The answer was a rule Isaac Newton wrote down in 1687: every push comes with an equal push back. A rocket pushes its own hot gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. On 17 July 1969, as Apollo 11 flew towards the Moon, the newspaper printed a correction.",
-  "wrong_idea": "People thought a rocket needs outside air to push against, so it could never work in empty space. Goddard's rockets pushed forward inside a container with the air pumped out."
+  "wrong_idea": "People thought a rocket needs outside air to push against, so it could never work in empty space. Goddard's rockets pushed forward inside a container with the air pumped out.",
+  "context": "Can a rocket work in empty space, where there is no air to push on? This card tells the true story of a scientist who tested it with the air pumped out."
  },
  "playtest": "Played both games in my head with 2 and with 4 players and counted every printed piece: Arrow Wars has 30 cards (26 arrows, 4 specials), an 11-square board, one marker; Force charades has 30 cards and needs 30 tokens, because every card can award one (it said 20 before). I made a draw on the chalk line in Arrow Wars play one more round, said a special card uses one of the two chosen cards, and gave the charades game a time limit so it fits the 20 minutes. Then I did every experiment, activity, project and challenge step by step in a flat. The balloon rocket needed re-taping the balloon for every try, so the balloon is now taped on empty and re-blown, minutes are 5+6+12+4+3, and breaths must be the same size. The magnet-through-a-book step had no way to hold the paper, so the clip now sits on paper held in the air or on a book sticking out past the table edge. The tug of war now lists its middle-line tape, the dance activity's check moved to the step it asks about, the wall-push safety line now names the real hazard (sliding backwards), the wall experiment says honestly that a towel may give a short slide, and blowing from opposite sides only keeps the ball near the middle. I removed internal notes (video check notes, the song note, the two picture books whose used_in did not match any step, names of other units), cut two jokes to leave 8, dropped three quiz questions that repeated checks elsewhere, fixed the unintroduced girl in the wall worksheet question, a True/False answer typed as text, and swapped a few North-only examples (chapati, tonga) for pestle rice pounding, a Mumbai dabbawala, a Kolkata rickshaw, Gujarat kites, lungis and Kashmir shikaras. Not changed: the sources list (editors only), the story, the roots and the deep truth. Videos exist on YouTube (titles match) but were not watched.",
  "warm": {

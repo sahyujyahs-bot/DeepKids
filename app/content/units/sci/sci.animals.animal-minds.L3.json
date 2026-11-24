@@ -3575,21 +3575,31 @@
     "source": "Bhagavad Gita 5.18",
     "teaching": "The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on.",
     "link": "This lesson found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.",
-    "verse": ["विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।", "शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।"],
+    "verse": [
+     "विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।",
+     "शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river",
     "teaching": "Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?'",
     "link": "Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do.",
-    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse": [
+     "莊子曰：「鯈魚出游從容，是魚樂也。」",
+     "惠子曰：「子非魚，安知魚之樂？」",
+     "莊子曰：「子非我，安知我不知魚之樂？」"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own self, and their own self in all beings, does not hate anyone.",
     "link": "When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.",
-    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse": [
+     "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति",
+     "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3625,8 +3635,121 @@
   "story": "For about a hundred years, scientists thought birds were poor thinkers. Around 1900, a German brain scientist called Ludwig Edinger studied bird brains. He decided that most of a bird's forebrain matched a part of our brain thought to run instincts. The part we think with, the wrinkled outer layer called the cortex, seemed to be almost missing in birds. So for a long time, books said birds act mostly on instinct, and 'bird brain' became a word for a silly person. Then birds kept surprising scientists. In 2002, a crow called Betty bent a wire into a hook. Crows remembered faces, and jays remembered where and when they hid food. In the early 2000s, a group of scientists, including Erich Jarvis and Anton Reiner, looked at bird brains again. They found that most of a bird's forebrain does the same job as our cortex, only arranged in clumps instead of layers. So they gave its parts new names in 2004. In 2016, scientists counted the neurons. A crow's small forebrain held about as many as some monkeys have.",
   "who": "Ludwig Edinger first, then Erich Jarvis, Anton Reiner and many others, and later Suzana Herculano-Houzel's team, who counted the neurons",
   "when": "Around 1900, then 2004 to 2016",
-  "wrong_idea": "Birds have almost no thinking part in their brains, so they act mostly on instinct. A closer look showed that most of a bird's forebrain does the job of our cortex, and in 2016 neuron counts showed that crows pack in as many as some monkeys."
+  "wrong_idea": "Birds have almost no thinking part in their brains, so they act mostly on instinct. A closer look showed that most of a bird's forebrain does the job of our cortex, and in 2016 neuron counts showed that crows pack in as many as some monkeys.",
+  "context": "Are birds poor thinkers because their brains look so different from ours? This card tells the true story of how scientists changed their minds about bird brains."
  },
  "playtest": "Played the unit as a family would. Games: counted the 22 True or Tall Tale cards (18 claims and 4 TEST IT cards, all with a back), two mats and tokens; played with 2 and with 4, and the cups and coin are now needed only for the first TEST IT card. In Read My Face I removed the score sheet (it printed as three empty boxes), and wrote one clear game: every player makes a face in every round, with a winner after three rounds. Experiments: worked the thirsty crow test through with a 6 to 7 cm glass (about 66 ml for 2 cm, so about 6 walnut-sized stones, about 32 marble-sized, thermocol hardly any) and kept it; the Clever Hans test needed three people, so the blind round is now optional with a luck comparison for a family of two; the dog pointing test stays optional and outside the core path. Fixed: the Hook It Like Betty bucket had a limp thread handle that no hook can catch, so it now has a stiff card handle; the Training Game now says to count claps; Crow Friends day 1 said the rice goes in the cap; removed an outdoor warning from Play Spotters and extra warnings from Be a Jay; removed duplicate worksheet items (7 repeated questions, plus the second dog-moods drawing and wolf question); changed jay pronouns to they; cut two weak jokes (8 left); removed two books from the buy list that no step needs; removed an internal song note; swapped in Kerala, Karnataka and Assam for a few places. Left as they are: the Descartes view and the claim 'fish and insects cannot feel pain' appear only as old or disputed views with evidence against, so the validator's mind-denial warning is expected for them. The three videos were checked against their YouTube titles.",
- "warm": {"words": ["BRAIN", "TOOLS", "LEARN", "CROWS", "SMELL"], "quiz": [["A bigger brain does not always mean a cleverer animal.", true, "Crows have small brains with tightly packed neurons, yet they make and use tools."], ["A dog that looks guilty knows they did something wrong.", false, "Dogs looked most guilty when scolded, even when they had done nothing wrong."], ["Only humans make and use tools.", false, "Chimpanzees make tools from grass stems, and crows bend wire into hooks."], ["An animal that avoids a place where they got hurt has learned something.", true, "Learning is changing what you do because of what happened before."], ["Animals only do things that get them food or shelter right away.", false, "Puppies, rats and bees play just for fun, which gets them no food."], ["An animal can seem cleverer than they are if the tester gives tiny clues by mistake.", true, "Animals pick up tiny clues nobody meant to give, so the tester should not know the answer."], ["Fish cannot feel pain, because they do not cry out.", false, "Fish rub a sore lip and avoid places where they were hurt."], ["A dog that fails the mirror test has no sense of self at all.", false, "Dogs know their own smell and notice when it is changed."], ["We can only learn about an animal's mind by watching what they do.", true, "Nobody can see a mind directly, so we use fair tests of what animals do."], ["A test is fair when only one thing is changed and everything else stays the same.", true, "Then any difference in the result must come from the one thing that changed."]], "odd": [[["Crow's wire hook", "Chimp's grass stem", "Stone dropped in water", "Own teeth"], "Own teeth", "The other three are objects used for a job, but teeth are part of the body."], [["Dog learns a trick", "Crow remembers a face", "Rat learns a maze", "Newborn sucking milk"], "Newborn sucking milk", "The others are learned from what happened before, but a newborn sucks without being taught."], [["Puppies chasing tails", "Bee rolling a small ball", "Rats chasing each other", "Bird pecking grain when hungry"], "Bird pecking grain when hungry", "The others are done just for fun, but pecking grain gets food right away."], [["Counted results of a test", "Careful notes of what happened", "A video of the animal", "A guess about what they think"], "A guess about what they think", "The others are things seen or measured, so they count as evidence. A guess is not evidence."], [["Shaking all over", "Tail tucked under", "Hiding under the bed", "Play bow with bottom up"], "Play bow with bottom up", "The other three show fear in body language, but a play bow says 'let us play'."]]}
+ "warm": {
+  "words": [
+   "BRAIN",
+   "TOOLS",
+   "LEARN",
+   "CROWS",
+   "SMELL"
+  ],
+  "quiz": [
+   [
+    "A bigger brain does not always mean a cleverer animal.",
+    true,
+    "Crows have small brains with tightly packed neurons, yet they make and use tools."
+   ],
+   [
+    "A dog that looks guilty knows they did something wrong.",
+    false,
+    "Dogs looked most guilty when scolded, even when they had done nothing wrong."
+   ],
+   [
+    "Only humans make and use tools.",
+    false,
+    "Chimpanzees make tools from grass stems, and crows bend wire into hooks."
+   ],
+   [
+    "An animal that avoids a place where they got hurt has learned something.",
+    true,
+    "Learning is changing what you do because of what happened before."
+   ],
+   [
+    "Animals only do things that get them food or shelter right away.",
+    false,
+    "Puppies, rats and bees play just for fun, which gets them no food."
+   ],
+   [
+    "An animal can seem cleverer than they are if the tester gives tiny clues by mistake.",
+    true,
+    "Animals pick up tiny clues nobody meant to give, so the tester should not know the answer."
+   ],
+   [
+    "Fish cannot feel pain, because they do not cry out.",
+    false,
+    "Fish rub a sore lip and avoid places where they were hurt."
+   ],
+   [
+    "A dog that fails the mirror test has no sense of self at all.",
+    false,
+    "Dogs know their own smell and notice when it is changed."
+   ],
+   [
+    "We can only learn about an animal's mind by watching what they do.",
+    true,
+    "Nobody can see a mind directly, so we use fair tests of what animals do."
+   ],
+   [
+    "A test is fair when only one thing is changed and everything else stays the same.",
+    true,
+    "Then any difference in the result must come from the one thing that changed."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Crow's wire hook",
+     "Chimp's grass stem",
+     "Stone dropped in water",
+     "Own teeth"
+    ],
+    "Own teeth",
+    "The other three are objects used for a job, but teeth are part of the body."
+   ],
+   [
+    [
+     "Dog learns a trick",
+     "Crow remembers a face",
+     "Rat learns a maze",
+     "Newborn sucking milk"
+    ],
+    "Newborn sucking milk",
+    "The others are learned from what happened before, but a newborn sucks without being taught."
+   ],
+   [
+    [
+     "Puppies chasing tails",
+     "Bee rolling a small ball",
+     "Rats chasing each other",
+     "Bird pecking grain when hungry"
+    ],
+    "Bird pecking grain when hungry",
+    "The others are done just for fun, but pecking grain gets food right away."
+   ],
+   [
+    [
+     "Counted results of a test",
+     "Careful notes of what happened",
+     "A video of the animal",
+     "A guess about what they think"
+    ],
+    "A guess about what they think",
+    "The others are things seen or measured, so they count as evidence. A guess is not evidence."
+   ],
+   [
+    [
+     "Shaking all over",
+     "Tail tucked under",
+     "Hiding under the bed",
+     "Play bow with bottom up"
+    ],
+    "Play bow with bottom up",
+    "The other three show fear in body language, but a play bow says 'let us play'."
+   ]
+  ]
+ }
 }

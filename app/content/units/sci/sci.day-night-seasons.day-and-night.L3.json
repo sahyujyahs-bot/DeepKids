@@ -3407,14 +3407,20 @@
     "source": "Chandogya Upanishad 3.11.1 to 3.11.3",
     "teaching": "The Upanishad speaks of a Sun that no longer rises or sets, but stands alone in the centre. For one who understands this, it says, the Sun does not rise and does not set. For them it is always day.",
     "link": "The Upanishad is speaking about inner understanding, not about astronomy. But it fits what science found in one way. The Sun itself never rises or sets. Rising and setting belong to our place on the turning Earth.",
-    "verse": ["अथ तत ऊर्ध्व उदेत्य नैवोदेता नास्तमेतैकल एव मध्ये स्थाता", "न ह वा अस्मा उदेति न निम्लोचति", "सकृद्दिवा हैवास्मै भवति"],
+    "verse": [
+     "अथ तत ऊर्ध्व उदेत्य नैवोदेता नास्तमेतैकल एव मध्ये स्थाता",
+     "न ह वा अस्मा उदेति न निम्लोचति",
+     "सकृद्दिवा हैवास्मै भवति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow one another. Each needs the other to exist.",
     "link": "Day and night are like front and back. A ball lit from one side always has a lit half and a dark half. You cannot have one without the other.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -3454,8 +3460,121 @@
   "story": "For thousands of years, most people believed that the Earth stood still and the whole sky turned round it once a day. It looked that way, and it felt that way. In 499 CE, the Indian astronomer Aryabhata disagreed. In his book, the Aryabhatiya, he wrote that the Earth turns. He compared us to a man in a moving boat, who sees the trees on the bank slide backwards. Later Indian astronomers, including Brahmagupta, argued against him. In 1543, Copernicus in Poland also wrote that the Earth spins. But for centuries nobody could show the spin directly. In 1851, the French scientist Léon Foucault hung a heavy ball on a 67-metre wire in the Panthéon, a great hall in Paris, and set it swinging. Over the hours, the line of the swing slowly turned round the floor. Nothing was pushing it sideways. The floor, and the whole Earth with it, was turning underneath. Crowds came to watch. Now anyone could see the Earth's spin in a single room.",
   "who": "Aryabhata (India, 499 CE), Nicolaus Copernicus (Poland, 1543) and Léon Foucault (France, 1851)",
   "when": "499 CE to 1851",
-  "wrong_idea": "The Earth stands still, and the Sun and the stars travel round it every day. Foucault's pendulum showed that it is the floor, and the Earth, that turns."
+  "wrong_idea": "The Earth stands still, and the Sun and the stars travel round it every day. Foucault's pendulum showed that it is the floor, and the Earth, that turns.",
+  "context": "Does the Sun go round the Earth, or does the Earth turn? This card tells the true story of people who worked out that we are the ones who are turning."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, with 2 players and with 4 for the games. Game 1 (Who Sees the Sun First): all 20 cards, the 2-item strip and the 20 suns are listed; the spin cards had no way to use the ball, so the ball now gets an India dot, the first spin card says what to do and what to look for, and the spin-card answers sit in the step note (the duplicate 'ask' was removed). Game 2: card count is 8 day plus 8 night, the sunrise and sunset tally is now in the rules so the spin counter is used, and the walking-round-the-Sun bonus was removed because Be the Earth does it. Experiments: torch and ball checked for direction (torch on the right, ball front moves left to right, Dong first); duplicate made-up tables removed from steps (the header example stays); shadow stick now lists the toothpick, the ball and torch for its last step, and drops the cap and water advice; pendulum gets a hand-span swing, a 2 cm gap, and an honest note that the stool stands in for the turning Earth. Activities: world-times now says how to place flags without a map on the ball and handles night in India; the train ride step says it happens later; star clock and Earth's shadow are not core and say what to do if the sky is hazy or the Pole Star is low; unneeded safety lines were cut. Sundial: removed the compass nobody used, made day 2 do the three clock checks it promised, and said plainly that an upright pencil keeps only rough time. Challenge 2 gets a real heat warning. Two quiz questions repeated experiment checks (torch moving; stars circling the Pole Star) and were replaced by new ones. Jokes cut from 10 to 8. A few North-only examples swapped for South and East ones (rice seedlings, bambaram, idli batter, night jasmine). Videos were opened and exist. The Foucault pendulum in India's new Parliament building and the exact Kodaikanal and Jantar Mantar claims were not re-checked.",
- "warm": {"words": ["EARTH", "NIGHT", "SPINS", "STARS", "LIGHT"], "quiz": [["When it is night here, the Sun has stopped shining.", false, "The Sun always shines. Night is when our side of the Earth has turned away from it."], ["Night comes because our side of the Earth turns away from the Sun.", true, "Half of the Earth always faces the Sun, and the spin carries each place into light and out again."], ["The Sun goes round the Earth once every day.", false, "The Sun only seems to move. It is the Earth turning under us."], ["Places in the east of India see the Sun rise earlier than places in the west.", true, "The Earth turns from west to east, so eastern places turn into the sunlight first."], ["We do not feel the Earth spin, because it is smooth and everything moves along with us.", true, "The air, birds and clouds all turn with the Earth, like the air inside a moving train."], ["If the Earth spun, birds and clouds would be left behind.", false, "The air, birds and clouds move along with the Earth, so nothing gets left behind."], ["At any moment, half of the Earth has day.", true, "The Sun lights the half that faces it, and the other half is in the Earth's own shadow."], ["Water going down a sink swirls one way in India and the other way in Australia because of the Earth's spin.", false, "A sink is far too small for the spin to matter. Its shape and how the water was poured decide the swirl."], ["At noon the Sun is straight overhead everywhere, so nobody has a shadow.", false, "In most of the world the Sun is never exactly overhead, so there is always some shadow at noon."], ["An Indian astronomer wrote about 1,500 years ago that the Earth turns.", true, "Aryabhata wrote this in 499 CE, long before Copernicus, and said the stars only seem to move."]], "odd": [[["sunrise", "sunset", "stars crossing the night sky", "a rolling ball"], "a rolling ball", "The first three only seem to move because the Earth turns. A rolling ball really moves."], [["shadow at sunrise", "shadow at sunset", "shadow in late afternoon", "shadow at noon"], "shadow at noon", "The Sun is highest at noon, so the shadow is shortest. The others are long because the Sun is low."], [["Arunachal Pradesh", "Assam", "Odisha", "Gujarat"], "Gujarat", "The Earth turns west to east, so the three eastern places see sunrise first. Gujarat is far in the west."], [["Sun", "Pole Star", "Sirius", "Moon"], "Moon", "The Sun, the Pole Star and Sirius are stars that make their own light. The Moon only sends back sunlight."], [["one spin of the Earth", "noon to noon", "one day on a clock", "one Moon cycle"], "one Moon cycle", "The first three take about 24 hours. One cycle of the Moon takes about a month."]]}
+ "warm": {
+  "words": [
+   "EARTH",
+   "NIGHT",
+   "SPINS",
+   "STARS",
+   "LIGHT"
+  ],
+  "quiz": [
+   [
+    "When it is night here, the Sun has stopped shining.",
+    false,
+    "The Sun always shines. Night is when our side of the Earth has turned away from it."
+   ],
+   [
+    "Night comes because our side of the Earth turns away from the Sun.",
+    true,
+    "Half of the Earth always faces the Sun, and the spin carries each place into light and out again."
+   ],
+   [
+    "The Sun goes round the Earth once every day.",
+    false,
+    "The Sun only seems to move. It is the Earth turning under us."
+   ],
+   [
+    "Places in the east of India see the Sun rise earlier than places in the west.",
+    true,
+    "The Earth turns from west to east, so eastern places turn into the sunlight first."
+   ],
+   [
+    "We do not feel the Earth spin, because it is smooth and everything moves along with us.",
+    true,
+    "The air, birds and clouds all turn with the Earth, like the air inside a moving train."
+   ],
+   [
+    "If the Earth spun, birds and clouds would be left behind.",
+    false,
+    "The air, birds and clouds move along with the Earth, so nothing gets left behind."
+   ],
+   [
+    "At any moment, half of the Earth has day.",
+    true,
+    "The Sun lights the half that faces it, and the other half is in the Earth's own shadow."
+   ],
+   [
+    "Water going down a sink swirls one way in India and the other way in Australia because of the Earth's spin.",
+    false,
+    "A sink is far too small for the spin to matter. Its shape and how the water was poured decide the swirl."
+   ],
+   [
+    "At noon the Sun is straight overhead everywhere, so nobody has a shadow.",
+    false,
+    "In most of the world the Sun is never exactly overhead, so there is always some shadow at noon."
+   ],
+   [
+    "An Indian astronomer wrote about 1,500 years ago that the Earth turns.",
+    true,
+    "Aryabhata wrote this in 499 CE, long before Copernicus, and said the stars only seem to move."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "sunrise",
+     "sunset",
+     "stars crossing the night sky",
+     "a rolling ball"
+    ],
+    "a rolling ball",
+    "The first three only seem to move because the Earth turns. A rolling ball really moves."
+   ],
+   [
+    [
+     "shadow at sunrise",
+     "shadow at sunset",
+     "shadow in late afternoon",
+     "shadow at noon"
+    ],
+    "shadow at noon",
+    "The Sun is highest at noon, so the shadow is shortest. The others are long because the Sun is low."
+   ],
+   [
+    [
+     "Arunachal Pradesh",
+     "Assam",
+     "Odisha",
+     "Gujarat"
+    ],
+    "Gujarat",
+    "The Earth turns west to east, so the three eastern places see sunrise first. Gujarat is far in the west."
+   ],
+   [
+    [
+     "Sun",
+     "Pole Star",
+     "Sirius",
+     "Moon"
+    ],
+    "Moon",
+    "The Sun, the Pole Star and Sirius are stars that make their own light. The Moon only sends back sunlight."
+   ],
+   [
+    [
+     "one spin of the Earth",
+     "noon to noon",
+     "one day on a clock",
+     "one Moon cycle"
+    ],
+    "one Moon cycle",
+    "The first three take about 24 hours. One cycle of the Moon takes about a month."
+   ]
+  ]
+ }
 }

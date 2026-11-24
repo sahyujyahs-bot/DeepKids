@@ -2989,7 +2989,8 @@
   "who": "Hsien Wu and Daisy Yen Wu in Beijing, and Christian Anfinsen in the United States",
   "when": "Wu published his theory in 1931. Anfinsen did his folding tests in the late 1950s and early 1960s, and won the Nobel Prize in 1972.",
   "wrong_idea": "That heating a protein breaks it up or destroys it. Wu proposed that the chain only loses its folded shape. Anfinsen showed that an unfolded protein can fold back and work again, which a broken chain could not do.",
-  "art": "A laboratory bench from the 1930s with glass flasks and a notebook, and above it a drawing of a long thread folded into a ball, opened out, and folded again."
+  "art": "A laboratory bench from the 1930s with glass flasks and a notebook, and above it a drawing of a long thread folded into a ball, opened out, and folded again.",
+  "context": "Why can we never make a cooked egg white runny again? This card tells the true story of scientists in China and America who found out what heat does to the stuff in an egg."
  },
  "roots": {
   "context": "In this lesson you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.",
@@ -3009,21 +3010,31 @@
     "source": "Tirukkural 481",
     "teaching": "Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time.",
     "link": "The Kural is about a ruler and an enemy, and it is not about toast. But the lesson fits in the same way. The same act can succeed at one time and fail at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark.",
-    "verse": ["பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்", "வேந்தர்க்கு வேண்டும் பொழுது."],
+    "verse": [
+     "பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்",
+     "வேந்தர்க்கு வேண்டும் பொழுது."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering.",
     "link": "The verse says that nothing made stays as it is. This lesson agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, as quoted by Plato in the Cratylus, 402a",
     "teaching": "The Greek thinker Heraclitus said that you cannot step twice into the same river. New water is always flowing in.",
     "link": "A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room.",
-    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    }
   ],

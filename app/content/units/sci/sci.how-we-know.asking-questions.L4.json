@@ -3345,7 +3345,8 @@
   "story": "In 1967, Jocelyn Bell was a research student at Cambridge in England. Her job was to read long paper charts from a new radio telescope that listened to the sky. One day she saw a small strange mark, which she called a bit of scruff. It came back. The team first asked if it was interference from something on Earth, such as a passing car or a radio. Then Bell noticed something about the timing. The mark returned about four minutes earlier each day by the clock. Things in the sky do that, because the stars rise earlier each day. Machines on Earth follow the clock on the wall. So the mark came from space. When the team looked closer, the mark was a very regular pulse. The team half-jokingly wondered if it was a message. In fact, it was a new kind of star, now called a pulsar. In 1974 the Nobel Prize for this work went to her supervisor and another senior scientist, and not to her.",
   "who": "Jocelyn Bell (now Jocelyn Bell Burnell), a research student at Cambridge, with her supervisor Antony Hewish and their team",
   "when": "1967, and published in 1968",
-  "wrong_idea": "Nobody expected a star to pulse so fast and so evenly, so the first guess was that a regular beat must come from machines on Earth. Bell's team showed that the beat followed star time, so it came from far beyond the Earth."
+  "wrong_idea": "Nobody expected a star to pulse so fast and so evenly, so the first guess was that a regular beat must come from machines on Earth. Bell's team showed that the beat followed star time, so it came from far beyond the Earth.",
+  "context": "What was the strange, regular beat that a young scientist found in her radio charts? This card tells the true story of how she and her team tested two explanations."
  },
  "roots": {
   "context": "We have tested a tumbler, sorted what we saw from what we thought, and learned to ask the question that tells ideas apart. Now we ask what this says about seeing, and about how we know anything.",
@@ -3365,21 +3366,30 @@
     "source": "Zhuangzi, chapter 17, Autumn Floods",
     "teaching": "Zhuangzi and his friend Huizi stood on a bridge over a river. Zhuangzi said, 'The fish swim about so freely. They are happy.' Huizi said, 'You are not a fish. How do you know they are happy?' Zhuangzi answered, 'You are not me. How do you know I do not know?'",
     "link": "'The fish are happy' is a story added to what Zhuangzi saw, which was fish swimming about. Huizi asked the question of an investigator: how do you know? The answer might be a way to check, or it might be an honest 'I do not know'.",
-    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse": [
+     "莊子曰：「鯈魚出游從容，是魚樂也。」",
+     "惠子曰：「子非魚，安知魚之樂？」",
+     "莊子曰：「子非我，安知我不知魚之樂？」"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn of creation asks where everything came from. It ends by saying that perhaps the one who looks down from the highest heaven knows, or perhaps even that one does not know.",
     "link": "This hymn is very old, and it honestly says 'we do not know'. 'I do not know yet' is where a good question begins, before any story is chosen.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Nyaya Sutra 1.1.1",
     "teaching": "The Nyaya school opens with a list of sixteen topics for good enquiry. The list includes doubt and the settling of a question, as well as discussion and the spotting of faulty reasoning.",
     "link": "Doubt comes before settlement. Rival explanations are a kind of doubt, and a deciding question is how to move from doubt to a settled answer.",
-    "verse": ["प्रमाणप्रमेयसंशयप्रयोजनदृष्टान्तसिद्धान्तावयवतर्कनिर्णयवादजल्पवितण्डाहेत्वाभासच्छलजातिनिग्रहस्थानानाम् तत्त्वज्ञानात् निःश्रेयसाधिगमः"],
+    "verse": [
+     "प्रमाणप्रमेयसंशयप्रयोजनदृष्टान्तसिद्धान्तावयवतर्कनिर्णयवादजल्पवितण्डाहेत्वाभासच्छलजातिनिग्रहस्थानानाम् तत्त्वज्ञानात् निःश्रेयसाधिगमः"
+    ],
     "verse_lang": "sa"
    }
   ],

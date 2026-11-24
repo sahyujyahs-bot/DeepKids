@@ -2528,14 +2528,21 @@
     "source": "Taittiriya Upanishad 1.11.2",
     "teaching": "The teacher tells the students who are leaving: follow the good things we did, and not the others.",
     "link": "The teacher asks the students to copy only what is good, not every step. Chimpanzees did something like that with the clear box: they copied only the step that worked. People often copy every step.",
-    "verse": ["यान्यनवद्यानि कर्माणि तानि सेवितव्यानि । नो इतराणि", "यान्यस्माकꣳ सुचरितानि तानि त्वयोपास्यानि । नो इतराणि"],
+    "verse": [
+     "यान्यनवद्यानि कर्माणि तानि सेवितव्यानि । नो इतराणि",
+     "यान्यस्माकꣳ सुचरितानि तानि त्वयोपास्यानि । नो इतराणि"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kalama Sutta (Anguttara Nikaya 3.65)",
     "teaching": "The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good.",
     "link": "In the story The Tap on the Plate, Meenakshi tested the tap and the turn of the plate one at a time. She kept the tap, which called the crows, and dropped the turn.",
-    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.", "Yadā tumhe, kālāmā, attanāva jāneyyātha:", "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."],
+    "verse": [
+     "Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.",
+     "Yadā tumhe, kālāmā, attanāva jāneyyātha:",
+     "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2571,7 +2578,120 @@
   "story": "People have long said 'monkey see, monkey do'. They thought apes copy everything they see, without thinking. In 2005, Victoria Horner and Andrew Whiten, scientists at the University of St Andrews in Scotland, tested this. They made a puzzle box with a reward inside. A person showed young chimpanzees how to open it. First the person poked a stick into a hole at the top. That step did nothing. Then the person opened a door at the front and pulled the reward out. When the box was black, so nobody could see inside, the chimpanzees copied both steps. When the box was clear, they could see that the top hole led nowhere. Then most chimpanzees skipped it and went straight to the door. Children aged 3 and 4 were shown the same boxes. Most of them copied the useless poke, even with the clear box. So the old saying was wrong. Chimpanzees copied what worked. The children copied everything. In 2007, other scientists gave this a name: overimitation.",
   "who": "Victoria Horner and Andrew Whiten, at the University of St Andrews, Scotland",
   "when": "2005",
-  "wrong_idea": "People thought apes copy everything they see without thinking: 'monkey see, monkey do'. The clear box showed that chimpanzees skip a step they can see is useless, while children copy it."
+  "wrong_idea": "People thought apes copy everything they see without thinking: 'monkey see, monkey do'. The clear box showed that chimpanzees skip a step they can see is useless, while children copy it.",
+  "context": "Do apes copy everything they see, or do they think about what they copy? This card tells the true story of a test with a puzzle box that compared chimpanzees and children."
  },
- "warm": {"words": ["LEARN", "TOOLS", "CROWS", "TREAT", "WATCH"], "quiz": [["Monkey see, monkey do: apes copy every step they see.", false, "Chimpanzees skipped a useless step on a puzzle box and went straight to the reward."], ["A baby animal who does something on the first try, with no practice, is using instinct.", true, "An instinct is something animals are born able to do. Learning needs experience."], ["An animal repeats an action more often when it brings something good.", true, "The good thing is called a reward, and it makes the action more likely next time."], ["Animals act only by instinct, and only people really learn.", false, "Dogs, crows, bees and fish all change what they do after experience."], ["Young animals can learn which foods are safe by watching others eat them.", true, "Watching saves them from trying something harmful themselves."], ["Working out a new problem means trying every way until one works.", false, "Working it out joins what you already know. Trying every way is trial and error."], ["You can copy what someone achieved without copying the exact steps they used.", true, "That is called emulation. You copy the goal, then find your own way."], ["Learning alone is always better than learning by copying.", false, "Some skills, like termite fishing, are too hard to find alone, and copying makes them much quicker."], ["A crow has to be hurt by a person before the crow learns that the person is dangerous.", false, "Crows learn from other crows which people are dangerous."], ["A new way of doing something can spread through a group and last for years.", true, "Macaques on Koshima island copied one monkey's potato washing, and it became a tradition."]], "odd": [[["Baby turtle crawling to sea", "Newborn calf drinking milk", "Newly hatched chick pecking", "Parrot saying 'hello'"], "Parrot saying 'hello'", "The first three are things animals are born able to do. The parrot learned the word by hearing it."], [["Chimp watching termite fishing", "Crow learning from crows", "Macaque copying potato washing", "Rat finding the way alone"], "Rat finding the way alone", "The first three learn from watching others. The rat learns only from trying alone."], [["Copying a useless tap", "Copying every step shown", "Repeating steps that do nothing", "Reaching the goal your own way"], "Reaching the goal your own way", "The first three copy the exact actions seen. The last copies only the goal, not the steps."], [["Crow's stick", "Chimpanzee's twig", "Monkey's cracking stone", "Termite mound"], "Termite mound", "A stick, a twig and a stone are held or moved to get something done. The mound is what the animal works on."], [["Dog repeats trick for treat", "Bird avoids bitter insect", "Rat stops pressing shock bar", "Crow copies friends' fear"], "Crow copies friends' fear", "The first three learn from what happened to themselves. The crow learns by watching others."]]}
+ "warm": {
+  "words": [
+   "LEARN",
+   "TOOLS",
+   "CROWS",
+   "TREAT",
+   "WATCH"
+  ],
+  "quiz": [
+   [
+    "Monkey see, monkey do: apes copy every step they see.",
+    false,
+    "Chimpanzees skipped a useless step on a puzzle box and went straight to the reward."
+   ],
+   [
+    "A baby animal who does something on the first try, with no practice, is using instinct.",
+    true,
+    "An instinct is something animals are born able to do. Learning needs experience."
+   ],
+   [
+    "An animal repeats an action more often when it brings something good.",
+    true,
+    "The good thing is called a reward, and it makes the action more likely next time."
+   ],
+   [
+    "Animals act only by instinct, and only people really learn.",
+    false,
+    "Dogs, crows, bees and fish all change what they do after experience."
+   ],
+   [
+    "Young animals can learn which foods are safe by watching others eat them.",
+    true,
+    "Watching saves them from trying something harmful themselves."
+   ],
+   [
+    "Working out a new problem means trying every way until one works.",
+    false,
+    "Working it out joins what you already know. Trying every way is trial and error."
+   ],
+   [
+    "You can copy what someone achieved without copying the exact steps they used.",
+    true,
+    "That is called emulation. You copy the goal, then find your own way."
+   ],
+   [
+    "Learning alone is always better than learning by copying.",
+    false,
+    "Some skills, like termite fishing, are too hard to find alone, and copying makes them much quicker."
+   ],
+   [
+    "A crow has to be hurt by a person before the crow learns that the person is dangerous.",
+    false,
+    "Crows learn from other crows which people are dangerous."
+   ],
+   [
+    "A new way of doing something can spread through a group and last for years.",
+    true,
+    "Macaques on Koshima island copied one monkey's potato washing, and it became a tradition."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Baby turtle crawling to sea",
+     "Newborn calf drinking milk",
+     "Newly hatched chick pecking",
+     "Parrot saying 'hello'"
+    ],
+    "Parrot saying 'hello'",
+    "The first three are things animals are born able to do. The parrot learned the word by hearing it."
+   ],
+   [
+    [
+     "Chimp watching termite fishing",
+     "Crow learning from crows",
+     "Macaque copying potato washing",
+     "Rat finding the way alone"
+    ],
+    "Rat finding the way alone",
+    "The first three learn from watching others. The rat learns only from trying alone."
+   ],
+   [
+    [
+     "Copying a useless tap",
+     "Copying every step shown",
+     "Repeating steps that do nothing",
+     "Reaching the goal your own way"
+    ],
+    "Reaching the goal your own way",
+    "The first three copy the exact actions seen. The last copies only the goal, not the steps."
+   ],
+   [
+    [
+     "Crow's stick",
+     "Chimpanzee's twig",
+     "Monkey's cracking stone",
+     "Termite mound"
+    ],
+    "Termite mound",
+    "A stick, a twig and a stone are held or moved to get something done. The mound is what the animal works on."
+   ],
+   [
+    [
+     "Dog repeats trick for treat",
+     "Bird avoids bitter insect",
+     "Rat stops pressing shock bar",
+     "Crow copies friends' fear"
+    ],
+    "Crow copies friends' fear",
+    "The first three learn from what happened to themselves. The crow learns by watching others."
+   ]
+  ]
+ }
 }

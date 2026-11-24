@@ -4185,14 +4185,24 @@
     "source": "Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation)",
     "teaching": "All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures.",
     "link": "In this lesson, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain.",
-    "verse": ["सव्वे पाणा पियाउया", "सुह-साया दुक्ख-पडिकूला", "अप्पिय-वहा पिय-जीविणो जीविउ-कामा", "सव्वेसिं जीवियं पियं"],
+    "verse": [
+     "सव्वे पाणा पियाउया",
+     "सुह-साया दुक्ख-पडिकूला",
+     "अप्पिय-वहा पिय-जीविणो जीविउ-कामा",
+     "सव्वेसिं जीवियं पियं"
+    ],
     "verse_lang": "pra"
    },
    {
     "source": "Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book)",
     "teaching": "Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man?",
     "link": "We can watch what an ant or a butterfly does, but we cannot step inside their body to feel what they feel. In the dream, Zhuangzi imagines being a butterfly. Then he is not sure which one he really is. It shows how hard it is to know what it is like to be a different creature.",
-    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？"],
+    "verse": [
+     "昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。",
+     "俄然覺，則蘧蘧然周也。",
+     "不知周之夢爲胡蝶與？",
+     "胡蝶之夢爲周與？"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -4228,8 +4238,121 @@
   "story": "In 1758 the Swedish scientist Carl Linnaeus sorted all animals into six groups. Four were animals with backbones: mammals, birds, amphibians and fish. Every other animal went into just two groups, 'insects' and 'worms'. So a crab, a spider and a butterfly were all 'insects'. A snail, an octopus and a starfish were all 'worms'. In 1793 a new natural history museum opened in Paris. Jean-Baptiste Lamarck, then 49 years old, was put in charge of the insects and worms. He studied their bodies closely and saw that they were not two kinds at all. Crabs breathe with gills and have ten legs. Spiders have eight legs and no feelers. His colleague Georges Cuvier showed that snails, clams and octopuses share one body plan, so he grouped them as molluscs. Lamarck gave all these animals one shared name, 'animals without backbones', or invertebrates. By 1801 he had split them into many separate classes. Scientists still use most of those groups today.",
   "who": "Carl Linnaeus, Jean-Baptiste Lamarck and Georges Cuvier",
   "when": "1758 to 1801",
-  "wrong_idea": "Every animal without a backbone is either an insect or a worm. Lamarck and Cuvier looked closely at their bodies and found many different groups."
+  "wrong_idea": "Every animal without a backbone is either an insect or a worm. Lamarck and Cuvier looked closely at their bodies and found many different groups.",
+  "context": "Is every animal without a backbone either an insect or a worm? This card tells the true story of scientists who looked closely at these animals and found many different groups."
  },
  "playtest": "Played Backbone or Not? and Guess My Minibeast in my head with 2 and with 4 players, and wrote out every card (30 and 12 all present). Fixes to the games: the practice card is shuffled back so the 30-card counts stay true, the silverfish card no longer gives itself away, honeybee and mosquito cards now differ (4 wings and 2 wings) so no two cards are the same, Guess My Minibeast now has an end (8 questions, then everyone picks once), and mat pictures match the printed mats. Went through e1 to e3, a1 to a7, p1, c1 and c2 as a family would: in Water Bones the child could not be held and the ruler read by one adult, so the child now rests both hands on a chair; minutes were raised to match the steps (Water Bones 38, Armour Tubes 27 with six tubes of each shape for the two tries); Many Small Suckers now lists the rice needed and a stopping point; the jellyfish bubble is now marble-sized so it fits the bottle neck; the star in Five-Arm Fold has clear drawing steps; the snail, spider and wormery steps say honestly that they need a live animal and what to expect if few are found. The square tube may match the round tube in Armour Tubes, and the air-bottle sit test may sink only a few millimetres; both are said plainly. Removed warnings that were not real hazards (scissors) and kept the real ones (sitting on bottles, falling rice, cutting a bottle, spiders). Removed the repeated Many Small Suckers think question, the Darwin 40-year line in the wormery, one repeated insect question in the quiz and the weakest joke (9 jokes left). Changed the jellyfish line from 'no brain' to 'a net of nerves instead of a brain'. Added fish markets from the south, east and west and Assam muga silk for India-wide examples. The one 'cannot feel anything' line is a claim the unit shows to be wrong, so it stays.",
- "warm": {"words": ["SHELL", "SNAIL", "BONES", "WORMS", "SPINE"], "quiz": [["Most kinds of animals have no backbone.", true, "About 95 out of every 100 kinds of animal are invertebrates."], ["An animal with no backbone has no skeleton at all.", false, "A skeleton can be liquid held in tight, a shell, or armour on the outside."], ["An earthworm stays firm because liquid is held tight inside their body.", true, "Muscles in their skin squeeze the liquid in, like water in a bottle with the cap on."], ["A snail finds an empty shell and moves into it.", false, "A snail's own body makes their shell, from the same material as chalk."], ["A crab has to break out of their old armour to grow.", true, "Hard armour cannot stretch, so they moult and grow a bigger one."], ["Animals without backbones are simple, lower animals.", false, "Life is a branching tree, not a ladder. An octopus can solve puzzles, and bees learn."], ["A jellyfish has no bones and their body is mostly water.", true, "About 95 parts in 100 of their body are water, and the sea holds them up."], ["A starfish is not really a fish.", true, "A starfish is an invertebrate with five arms and no backbone, so scientists prefer the name 'sea star'."], ["Spiders are insects, because they have legs and armour on the outside.", false, "Insects have six legs and three body parts. Spiders have eight legs and two body parts."], ["Maggots appear on rotting meat by themselves, with no flies needed.", false, "Meat covered with cloth stays free of maggots, because flies cannot lay eggs on it."]], "odd": [[["Snail", "Crab", "Jellyfish", "Frog"], "Frog", "Snails, crabs and jellyfish have no backbone. A frog has one."], [["Crab", "Spider", "Centipede", "Snail"], "Snail", "Crabs, spiders and centipedes have armour outside and legs that bend at joints. A snail has neither."], [["Ant", "Bee", "Housefly", "Spider"], "Spider", "Ants, bees and houseflies are insects with six legs and three body parts. A spider has eight legs and two body parts."], [["Crab", "Beetle", "Spider", "Earthworm"], "Earthworm", "Crabs, beetles and spiders must shed their hard outside armour to grow. An earthworm has no armour."], [["Snail shell", "Chalk", "Eggshell", "Iron nail"], "Iron nail", "Snail shell, chalk and eggshell are made of calcium carbonate. An iron nail is metal."]]}
+ "warm": {
+  "words": [
+   "SHELL",
+   "SNAIL",
+   "BONES",
+   "WORMS",
+   "SPINE"
+  ],
+  "quiz": [
+   [
+    "Most kinds of animals have no backbone.",
+    true,
+    "About 95 out of every 100 kinds of animal are invertebrates."
+   ],
+   [
+    "An animal with no backbone has no skeleton at all.",
+    false,
+    "A skeleton can be liquid held in tight, a shell, or armour on the outside."
+   ],
+   [
+    "An earthworm stays firm because liquid is held tight inside their body.",
+    true,
+    "Muscles in their skin squeeze the liquid in, like water in a bottle with the cap on."
+   ],
+   [
+    "A snail finds an empty shell and moves into it.",
+    false,
+    "A snail's own body makes their shell, from the same material as chalk."
+   ],
+   [
+    "A crab has to break out of their old armour to grow.",
+    true,
+    "Hard armour cannot stretch, so they moult and grow a bigger one."
+   ],
+   [
+    "Animals without backbones are simple, lower animals.",
+    false,
+    "Life is a branching tree, not a ladder. An octopus can solve puzzles, and bees learn."
+   ],
+   [
+    "A jellyfish has no bones and their body is mostly water.",
+    true,
+    "About 95 parts in 100 of their body are water, and the sea holds them up."
+   ],
+   [
+    "A starfish is not really a fish.",
+    true,
+    "A starfish is an invertebrate with five arms and no backbone, so scientists prefer the name 'sea star'."
+   ],
+   [
+    "Spiders are insects, because they have legs and armour on the outside.",
+    false,
+    "Insects have six legs and three body parts. Spiders have eight legs and two body parts."
+   ],
+   [
+    "Maggots appear on rotting meat by themselves, with no flies needed.",
+    false,
+    "Meat covered with cloth stays free of maggots, because flies cannot lay eggs on it."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Snail",
+     "Crab",
+     "Jellyfish",
+     "Frog"
+    ],
+    "Frog",
+    "Snails, crabs and jellyfish have no backbone. A frog has one."
+   ],
+   [
+    [
+     "Crab",
+     "Spider",
+     "Centipede",
+     "Snail"
+    ],
+    "Snail",
+    "Crabs, spiders and centipedes have armour outside and legs that bend at joints. A snail has neither."
+   ],
+   [
+    [
+     "Ant",
+     "Bee",
+     "Housefly",
+     "Spider"
+    ],
+    "Spider",
+    "Ants, bees and houseflies are insects with six legs and three body parts. A spider has eight legs and two body parts."
+   ],
+   [
+    [
+     "Crab",
+     "Beetle",
+     "Spider",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "Crabs, beetles and spiders must shed their hard outside armour to grow. An earthworm has no armour."
+   ],
+   [
+    [
+     "Snail shell",
+     "Chalk",
+     "Eggshell",
+     "Iron nail"
+    ],
+    "Iron nail",
+    "Snail shell, chalk and eggshell are made of calcium carbonate. An iron nail is metal."
+   ]
+  ]
+ }
 }

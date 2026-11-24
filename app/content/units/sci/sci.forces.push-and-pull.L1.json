@@ -1984,7 +1984,8 @@
   "story": "When you throw a ball, your hand pushes it. Then the ball leaves your hand and keeps flying. What keeps it going? About 2,350 years ago, the Greek thinker Aristotle gave an answer. He said the air behind a thrown stone keeps pushing it along. For hundreds of years, many people agreed with him. About 1,500 years ago, John Philoponus, a thinker in Alexandria in Egypt, said this was wrong. If air pushed stones along, he wrote, we could make a stone fly just by moving air hard behind it. But we cannot. He said the throw gives the stone something that keeps it going for a while. About 1,000 years ago, Ibn Sina, a doctor and thinker in Central Asia and Persia, built on this idea. He said the air does not help the stone along. It pushes against the stone and slows it down. In 1687, Isaac Newton in England wrote the rule we use today. A push or a pull starts a thing moving. Then it keeps moving until another push or pull slows it down, stops it or turns it. In France, Émilie du Châtelet translated Newton's book and explained it.",
   "who": "Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a doctor and thinker in Central Asia and Persia; Isaac Newton, an English scientist; Émilie du Châtelet, a French scientist who translated his book",
   "when": "From about 350 BCE to 1759",
-  "wrong_idea": "People thought the air behind a thrown stone keeps pushing it along. Philoponus showed that moving air cannot throw a stone, and Ibn Sina said the air only slows it down."
+  "wrong_idea": "People thought the air behind a thrown stone keeps pushing it along. Philoponus showed that moving air cannot throw a stone, and Ibn Sina said the air only slows it down.",
+  "context": "What keeps a ball moving after it leaves your hand? This card tells the true story of thinkers who gave different answers over hundreds of years."
  },
  "plan": {
   "start_options": [

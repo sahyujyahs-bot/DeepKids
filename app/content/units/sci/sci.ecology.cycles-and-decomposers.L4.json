@@ -2722,21 +2722,29 @@
     "source": "Bhagavad Gita 3.14",
     "teaching": "From food, living beings come into being. Food comes from rain, and rain comes from giving and sharing.",
     "link": "The verse names a loop of food, rain and living beings. The Breathing Soil test shows part of that loop: dead food turns back into the gas and minerals that plants use.",
-    "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।"],
+    "verse": [
+     "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।",
+     "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each returns to its root. Returning to the root is called stillness.",
     "link": "When a leaf rots, its atoms return to the soil and the air that they came from.",
-    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse": [
+     "夫物芸芸，各復歸其根。",
+     "歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Genesis 3:19",
     "teaching": "From dust you were made, and to dust you will return.",
     "link": "Many traditions say this in their own words. Science says it by following the atoms. The carbon and the minerals in a body come from the soil and the air, and they go back there.",
-    "verse": ["כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב"],
+    "verse": [
+     "כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב"
+    ],
     "verse_lang": "he"
    }
   ],
@@ -2773,7 +2781,120 @@
   "story": "In the 1990s, bird watchers in India noticed that vultures were vanishing. Vultures had always cleared the bodies of dead cattle and wild animals. At Keoladeo National Park in Rajasthan, Vibhu Prakash of the Bombay Natural History Society counted nests each year, and the numbers kept falling. By the early 2000s, more than 95 of every 100 vultures of three kinds were gone. Many scientists first thought an infectious disease was spreading from bird to bird. Then Lindsay Oaks and his team tested dead vultures in Pakistan. The birds' kidneys had failed, and they had eaten cattle treated with a painkiller called diclofenac. Their paper in Nature in 2004 showed that the drug was the cause. India banned diclofenac for cattle in 2006.",
   "who": "Vibhu Prakash, Lindsay Oaks, Rhys Green and many other scientists in India, Pakistan and Britain",
   "when": "1990s to 2006",
-  "wrong_idea": "People first thought that an infectious disease was killing the vultures. The team showed that the birds were being poisoned by a painkiller in the dead cattle they ate, and that a vulture's kidneys fail within days of eating it."
+  "wrong_idea": "People first thought that an infectious disease was killing the vultures. The team showed that the birds were being poisoned by a painkiller in the dead cattle they ate, and that a vulture's kidneys fail within days of eating it.",
+  "context": "Why did the vultures of India suddenly begin to disappear? This card tells the true story of the scientists who found out."
  },
- "warm": {"words": ["FUNGI", "HUMUS", "CYCLE", "WORMS", "ROOTS"], "quiz": [["Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.", true, "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."], ["When a log rots, most of it turns into soil.", false, "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."], ["A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.", false, "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."], ["A chopped carrot rots faster than a whole carrot of the same weight.", true, "Decomposers work only on the outside of food, and small pieces have more surface."], ["Matter goes round and round in living things, but energy passes through and leaves as heat.", true, "The same atoms are used again and again, while energy from the Sun is not used again."], ["A lush rainforest must grow on rich soil.", false, "Many rainforests grow on poor soil. Their nutrients are held mostly in living trees and fast-rotting leaf litter."], ["Plastic lasts a very long time because few microbes make enzymes that fit it.", true, "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."], ["The world is better without vultures, because they are dirty.", false, "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."], ["A bioplastic labelled biodegradable will rot like a banana peel in any garden.", false, "Many need the steady heat of a compost plant, about 58 degrees Celsius. Elsewhere they can last for years."], ["Plants can use nutrients that decomposers set free from dead plants and animals.", true, "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."]], "odd": [[["Fungus", "Bacterium", "Mould", "Dung beetle"], "Dung beetle", "Fungi, bacteria and mould digest dead matter with enzymes. The dung beetle only chews it into smaller pieces."], [["Burning wood", "Rotting log", "Running child", "Leaf making food"], "Leaf making food", "The first three give out carbon dioxide as they release energy. A leaf making food takes carbon dioxide in."], [["Chopped carrot", "Grated carrot", "Crushed leaves", "Whole coconut"], "Whole coconut", "The first three have lots of surface for decomposers to work on. A whole coconut has little for its size."], [["Cold mountain top", "Dry desert sand", "Flooded swamp mud", "Warm wet forest floor"], "Warm wet forest floor", "The first three are cold, dry or short of air, so rot is slow. Warm, wet, airy ground rots fast."], [["Carbon atoms", "Nitrogen atoms", "Phosphorus atoms", "Heat from rotting"], "Heat from rotting", "Atoms are used again and again in cycles. Heat is energy that leaves and is not used again."]]}
+ "warm": {
+  "words": [
+   "FUNGI",
+   "HUMUS",
+   "CYCLE",
+   "WORMS",
+   "ROOTS"
+  ],
+  "quiz": [
+   [
+    "Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.",
+    true,
+    "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."
+   ],
+   [
+    "When a log rots, most of it turns into soil.",
+    false,
+    "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."
+   ],
+   [
+    "A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.",
+    false,
+    "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."
+   ],
+   [
+    "A chopped carrot rots faster than a whole carrot of the same weight.",
+    true,
+    "Decomposers work only on the outside of food, and small pieces have more surface."
+   ],
+   [
+    "Matter goes round and round in living things, but energy passes through and leaves as heat.",
+    true,
+    "The same atoms are used again and again, while energy from the Sun is not used again."
+   ],
+   [
+    "A lush rainforest must grow on rich soil.",
+    false,
+    "Many rainforests grow on poor soil. Their nutrients are held mostly in living trees and fast-rotting leaf litter."
+   ],
+   [
+    "Plastic lasts a very long time because few microbes make enzymes that fit it.",
+    true,
+    "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."
+   ],
+   [
+    "The world is better without vultures, because they are dirty.",
+    false,
+    "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."
+   ],
+   [
+    "A bioplastic labelled biodegradable will rot like a banana peel in any garden.",
+    false,
+    "Many need the steady heat of a compost plant, about 58 degrees Celsius. Elsewhere they can last for years."
+   ],
+   [
+    "Plants can use nutrients that decomposers set free from dead plants and animals.",
+    true,
+    "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Fungus",
+     "Bacterium",
+     "Mould",
+     "Dung beetle"
+    ],
+    "Dung beetle",
+    "Fungi, bacteria and mould digest dead matter with enzymes. The dung beetle only chews it into smaller pieces."
+   ],
+   [
+    [
+     "Burning wood",
+     "Rotting log",
+     "Running child",
+     "Leaf making food"
+    ],
+    "Leaf making food",
+    "The first three give out carbon dioxide as they release energy. A leaf making food takes carbon dioxide in."
+   ],
+   [
+    [
+     "Chopped carrot",
+     "Grated carrot",
+     "Crushed leaves",
+     "Whole coconut"
+    ],
+    "Whole coconut",
+    "The first three have lots of surface for decomposers to work on. A whole coconut has little for its size."
+   ],
+   [
+    [
+     "Cold mountain top",
+     "Dry desert sand",
+     "Flooded swamp mud",
+     "Warm wet forest floor"
+    ],
+    "Warm wet forest floor",
+    "The first three are cold, dry or short of air, so rot is slow. Warm, wet, airy ground rots fast."
+   ],
+   [
+    [
+     "Carbon atoms",
+     "Nitrogen atoms",
+     "Phosphorus atoms",
+     "Heat from rotting"
+    ],
+    "Heat from rotting",
+    "Atoms are used again and again in cycles. Heat is energy that leaves and is not used again."
+   ]
+  ]
+ }
 }

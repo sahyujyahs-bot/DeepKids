@@ -3234,7 +3234,8 @@
   "story": "In 1969, Tu Youyou, a Chinese pharmacologist, joined a secret national project to find a medicine for malaria. Her team tested hundreds of plant extracts on infected mice. Sweet wormwood, an old Chinese herb, looked promising at first, but the results were uneven. People usually prepared herbal medicines by boiling or heating. Tu went back to an old handbook written by Ge Hong more than 1,600 years ago. It said to soak the herb in cold water and wring out the juice. She guessed that heat might be destroying the part that works. So she changed one thing, the heat of the extraction, and kept the plant the same. In 1971 a low-heat extract worked very well on infected animals. Tu and colleagues reportedly tried it on themselves first, to check it was safe. The medicine, artemisinin, now treats malaria around the world. Tu shared the Nobel Prize in 2015.",
   "who": "Tu Youyou, a Chinese pharmacologist, and her research team",
   "when": "1969 to 1971, and the Nobel Prize in 2015",
-  "wrong_idea": "Herbal medicines were usually prepared by heating or boiling. Prepared this way, sweet wormwood gave uneven results, and some people thought the herb was not useful. Tu's team found that the heat was spoiling the active part, and a gentler extraction worked."
+  "wrong_idea": "Herbal medicines were usually prepared by heating or boiling. Prepared this way, sweet wormwood gave uneven results, and some people thought the herb was not useful. Tu's team found that the heat was spoiling the active part, and a gentler extraction worked.",
+  "context": "Why did a medicine from an old herb work for some and not for others? This card tells the true story of a Chinese scientist and her team who repeated their tests."
  },
  "roots": {
   "context": "We have dropped spinners again and again, found averages and ranges, and learned to say no more than the numbers say. Now we ask what the wobble in every measurement tells us about the world and about ourselves.",
@@ -3254,21 +3255,31 @@
     "source": "Udana 6.4 (Tittha Sutta)",
     "teaching": "A group of blind men each touched a different part of an elephant. Each described the elephant as something different, such as a pillar, a rope or a fan. Each was sure he knew the elephant, and they began to quarrel.",
     "link": "Each drop of the spinner is like one touch. It gives a true part of the picture, and no more. Many drops together give the shape of the whole.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Bhagavad Gita 2.48",
     "teaching": "The Gita teaches evenness of mind in success and in failure, and calls this evenness yoga.",
     "link": "A scientist who hopes for one answer can lean towards it. Staying calm, whether or not the result is the one you hoped for, helps the test stay honest.",
-    "verse": ["योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।", "सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।"],
+    "verse": [
+     "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।",
+     "सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Analects of Confucius 2.17",
     "teaching": "Confucius told his student what knowing means: when you know something, say that you know it, and when you do not know something, admit that you do not know it.",
     "link": "A conclusion that says only what the results show follows this teaching. 'We cannot tell yet' is also knowledge.",
-    "verse": ["由，誨女知之乎！知之爲知之，不知爲不知，是知也。"],
+    "verse": [
+     "由，誨女知之乎！知之爲知之，不知爲不知，是知也。"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -3054,14 +3054,21 @@
     "source": "Tao Te Ching 42",
     "teaching": "All things carry the dark, yin, on their back and hold the light, yang, in their arms. Blending the two, they reach harmony.",
     "link": "Every atom holds plus and minus together, and their balance is what makes an ordinary, quiet object. Your balloon showed what happens when that balance is upset a little.",
-    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse": [
+     "萬物負陰而抱陽，沖氣以為和。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.32",
     "teaching": "The hymn tells how Indra struck the serpent Vritra with his thunderbolt, the vajra, and set free the waters held back in the clouds.",
     "link": "The people who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. Science explains the link with charge instead of with a god.",
-    "verse": ["इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री ।", "अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम्", "अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष ।", "वाश्रा इव धेनवः स्यन्दमाना अञ्जः समुद्रमव जग्मुरापः"],
+    "verse": [
+     "इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री ।",
+     "अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम्",
+     "अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष ।",
+     "वाश्रा इव धेनवः स्यन्दमाना अञ्जः समुद्रमव जग्मुरापः"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3101,7 +3108,120 @@
   "story": "In the 1700s, people could make small sparks by rubbing glass tubes. Some wondered whether lightning was the same thing, only bigger. Many others thought it was something quite different, and in many towns church bells were rung during storms to drive lightning away. In 1750, Benjamin Franklin, a printer and scientist in Philadelphia in America, suggested a test. Put a tall iron rod on high ground, standing on something that does not conduct, and see whether a passing storm cloud charges it. In France, Thomas-François Dalibard read Franklin's idea and set up a tall iron rod in a garden at Marly-la-Ville, near Paris. On 10 May 1752, while Dalibard was away, a storm passed over. His helper brought a wire close to the rod, and sparks jumped across with a crackle, just like the sparks from rubbed glass. Lightning was electricity. Franklin later wrote that he had done a similar test with a kite, though some historians doubt the details. In 1753, Georg Richmann was killed by lightning in St Petersburg while doing a test like this, so nobody should ever try it. Franklin's idea became the lightning conductor, which slowly replaced bell ringing as protection.",
   "who": "Benjamin Franklin, a printer and scientist in Philadelphia, and Thomas-François Dalibard, a scientist in France",
   "when": "1750 (Franklin's proposal) and 10 May 1752 (the sparks at Marly-la-Ville)",
-  "wrong_idea": "Many people thought lightning was a different thing from the small sparks of rubbed glass, and that ringing church bells would keep it away. The sparks drawn from the iron rod showed that lightning is electricity, and lightning conductors protected buildings where bells had not."
+  "wrong_idea": "Many people thought lightning was a different thing from the small sparks of rubbed glass, and that ringing church bells would keep it away. The sparks drawn from the iron rod showed that lightning is electricity, and lightning conductors protected buildings where bells had not.",
+  "context": "Is lightning the same thing as the small sparks we make by rubbing? This card tells the true story of a scientist who tested it with an iron rod in a storm."
  },
- "warm": {"words": ["SPARK", "ATOMS", "STORM", "CLOUD", "WATER"], "quiz": [["Rubbing a balloon on hair moves electrons from the hair onto the balloon.", true, "The electrons were already in the hair. Rubbing only moves them, so the balloon gains what the hair loses."], ["A paper bit jumps to a charged balloon only if the paper is charged too.", false, "The paper is neutral. The balloon shifts the charges inside it a tiny way, so the near side gets the opposite charge and is pulled."], ["Two things with the same kind of charge push each other apart.", true, "Same charges repel and opposite charges attract, and the closer they are, the stronger the push or pull."], ["Lightning never strikes the same place twice.", false, "Tall, pointed things are struck again and again. Some tall buildings are struck many times a year."], ["Static electricity works badly on a damp day because water lets charge leak away.", true, "Damp air leaves a thin layer of water on things, and the charge escapes through it."], ["The rubber tyres of a car keep you safe from lightning.", false, "Lightning jumps kilometres through air, so rubber cannot stop it. A closed car is safe because its metal body carries the charge around you."], ["Thunder is the sound of air bursting outwards after lightning heats it very fast.", true, "Lightning heats the air in its path so quickly that the air bursts outwards with a bang."], ["Static electricity and the electricity in a wire are two different kinds.", false, "Both are electric charge carried by electrons. Static charge stays still, and in a wire the charge moves."], ["The closer two charges are, the stronger their push or pull.", true, "Electric force gets stronger as charges come nearer and weaker as they move apart."], ["A storm cloud gets its charge because the Sun's light fills it with electricity.", false, "Charge builds up as tiny ice crystals and bits of hail bump into each other inside the cloud."]], "odd": [[["Metal spoon", "Salty water", "Human body", "Dry plastic comb"], "Dry plastic comb", "Metal, salty water and the body let charge move through them, but dry plastic is an insulator that holds charge in place."], [["Plus and minus", "Balloon and neutral paper", "Hair and rubbed balloon", "Two minus charges"], "Two minus charges", "The first three pull towards each other, but two charges of the same kind push apart."], [["Dry winter air", "Dry hair", "Dry plastic comb", "Damp rainy air"], "Damp rainy air", "The first three help charge stay where it is put, but damp air has water that lets charge leak away."], [["Inside a house", "Closed metal-roof car", "Inside a shop", "Under a tall tree"], "Under a tall tree", "The first three shelter you from lightning, but a tall lone tree is often struck and is dangerous."], [["Small spark from a door handle", "Lightning", "Thunder", "Neutral new balloon"], "Neutral new balloon", "The first three come from charge jumping through air and heating it, but a neutral balloon has no extra charge."]]}
+ "warm": {
+  "words": [
+   "SPARK",
+   "ATOMS",
+   "STORM",
+   "CLOUD",
+   "WATER"
+  ],
+  "quiz": [
+   [
+    "Rubbing a balloon on hair moves electrons from the hair onto the balloon.",
+    true,
+    "The electrons were already in the hair. Rubbing only moves them, so the balloon gains what the hair loses."
+   ],
+   [
+    "A paper bit jumps to a charged balloon only if the paper is charged too.",
+    false,
+    "The paper is neutral. The balloon shifts the charges inside it a tiny way, so the near side gets the opposite charge and is pulled."
+   ],
+   [
+    "Two things with the same kind of charge push each other apart.",
+    true,
+    "Same charges repel and opposite charges attract, and the closer they are, the stronger the push or pull."
+   ],
+   [
+    "Lightning never strikes the same place twice.",
+    false,
+    "Tall, pointed things are struck again and again. Some tall buildings are struck many times a year."
+   ],
+   [
+    "Static electricity works badly on a damp day because water lets charge leak away.",
+    true,
+    "Damp air leaves a thin layer of water on things, and the charge escapes through it."
+   ],
+   [
+    "The rubber tyres of a car keep you safe from lightning.",
+    false,
+    "Lightning jumps kilometres through air, so rubber cannot stop it. A closed car is safe because its metal body carries the charge around you."
+   ],
+   [
+    "Thunder is the sound of air bursting outwards after lightning heats it very fast.",
+    true,
+    "Lightning heats the air in its path so quickly that the air bursts outwards with a bang."
+   ],
+   [
+    "Static electricity and the electricity in a wire are two different kinds.",
+    false,
+    "Both are electric charge carried by electrons. Static charge stays still, and in a wire the charge moves."
+   ],
+   [
+    "The closer two charges are, the stronger their push or pull.",
+    true,
+    "Electric force gets stronger as charges come nearer and weaker as they move apart."
+   ],
+   [
+    "A storm cloud gets its charge because the Sun's light fills it with electricity.",
+    false,
+    "Charge builds up as tiny ice crystals and bits of hail bump into each other inside the cloud."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Metal spoon",
+     "Salty water",
+     "Human body",
+     "Dry plastic comb"
+    ],
+    "Dry plastic comb",
+    "Metal, salty water and the body let charge move through them, but dry plastic is an insulator that holds charge in place."
+   ],
+   [
+    [
+     "Plus and minus",
+     "Balloon and neutral paper",
+     "Hair and rubbed balloon",
+     "Two minus charges"
+    ],
+    "Two minus charges",
+    "The first three pull towards each other, but two charges of the same kind push apart."
+   ],
+   [
+    [
+     "Dry winter air",
+     "Dry hair",
+     "Dry plastic comb",
+     "Damp rainy air"
+    ],
+    "Damp rainy air",
+    "The first three help charge stay where it is put, but damp air has water that lets charge leak away."
+   ],
+   [
+    [
+     "Inside a house",
+     "Closed metal-roof car",
+     "Inside a shop",
+     "Under a tall tree"
+    ],
+    "Under a tall tree",
+    "The first three shelter you from lightning, but a tall lone tree is often struck and is dangerous."
+   ],
+   [
+    [
+     "Small spark from a door handle",
+     "Lightning",
+     "Thunder",
+     "Neutral new balloon"
+    ],
+    "Neutral new balloon",
+    "The first three come from charge jumping through air and heating it, but a neutral balloon has no extra charge."
+   ]
+  ]
+ }
 }

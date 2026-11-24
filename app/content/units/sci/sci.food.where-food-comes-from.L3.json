@@ -3831,7 +3831,13 @@
     "source": "Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli)",
     "teaching": "The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.'",
     "link": "In this lesson, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति", "अहमन्नमहमन्नमहमन्नम्"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति",
+     "अहमन्नमहमन्नमहमन्नम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3876,8 +3882,121 @@
   "story": "For thousands of years, people made curd, bread and idli without knowing why the food changed. In the 1830s, a few scientists looked at fermenting liquids under microscopes and saw tiny yeast cells. But the famous German chemist Justus von Liebig said fermentation was only a chemical breakdown, like rotting. The yeast cells, he said, were not doing the work. In 1857, the French scientist Louis Pasteur studied liquids that were turning sour, like souring milk. Under his microscope he found living cells far smaller than yeast. When he added a few of them to a fresh sugary liquid, they multiplied, and the liquid turned sour. Without them, it stayed fresh. He showed that each kind of fermentation is done by its own kind of living microbe. In 1897, Eduard Buchner found that juice squeezed out of yeast, with no living cells left inside, could also ferment sugar. It held enzymes, chemicals the yeast makes. So both sides were partly right: living microbes do the work, using chemicals they make.",
   "who": "Louis Pasteur, Justus von Liebig and Eduard Buchner",
   "when": "1857 to 1897",
-  "wrong_idea": "Fermentation is only a chemical breakdown, like rotting, and the tiny living cells in it play no part."
+  "wrong_idea": "Fermentation is only a chemical breakdown, like rotting, and the tiny living cells in it play no part.",
+  "context": "What happens when milk turns into curd or dough rises into bread? This card tells the true story of scientists who argued about what is going on."
  },
  "playtest": "Played both games in my head with 2 and 4 players. Pass the Sunlight: counted all 37 cards (4 SUN, 9 plants, 6 animals, 13 foods, 2 helpers, 2 Earth, 1 surprise), made the HELPER cards needed (Curd and Idli must follow their helper), took the dead example (Curd right after Milk without a helper), and added an end for when a round passes with no play. Where Am I From: counted the 24 mystery cards, 7 helper cards and the 10 tokens per player, swapped cauliflower for tamarind to add a South Indian food, and made the token page say it is printed once per player. Followed the three experiments, six activities, the project and two challenges step by step: minutes and schedules add up; checks that assumed a result now say 'Suppose'; the curd test says what to do if the kitchen is cold; the plant-part thali and plate sorting now say how to make their labels; the seed safe now sprinkles water each day so the damp test is real, and sun drying moved to a sunny windowsill; the family-recipe safety line (no cooking step) was removed. Removed the repeated 'claim, evidence and reasoning' paragraph (kept once, in the curd test), one repeated curd-test question and the repeated ghee chain question, two weak jokes (8 kept), and fixed a cousin, a baby's bottle and a vegetarian assumption. Added South, West and East examples to the markets, seasons, chains, bee boxes and the summer and winter sort. The three videos were checked to exist with the same titles. I left the sources list as it is (editor notes, not shown to families) and did not change the unit's science or structure.",
- "warm": {"words": ["PLANT", "SEEDS", "ROOTS", "GRAIN", "FUNGI"], "quiz": [["Curd is made when tiny microbes change milk.", true, "Microbes feed on milk and slowly change it, so it turns thick and sour."], ["Plants get most of their food from the soil.", false, "Plants make food from air, water and sunlight; soil gives only small amounts of minerals."], ["Mushrooms are plants that can grow without sunlight.", false, "Mushrooms are fungi; they cannot make food and feed on dead things like wood and leaves."], ["Every food chain on land begins with a plant.", true, "Plants catch sunlight and make food, so the energy in a meal first came from the Sun."], ["Milk can be traced back to the grass that the cow ate.", true, "A cow makes milk from the plants she eats, so milk also begins with plants."], ["Salt is food that comes from a plant or an animal.", false, "Salt comes from sea water or the ground, which were never alive."], ["Scientists call a tomato a vegetable because we cook it like one.", false, "Scientists call it a fruit because it grows from a flower and holds seeds; vegetable is a cooking word."], ["A dry seed is a baby plant with a store of food beside them.", true, "The stored food feeds the baby plant, and we eat that store in grains, dal and nuts."], ["Old food traditions like making idli are only superstition.", false, "People used microbes to make idli and curd long before they knew microbes existed, by careful watching."], ["Your body is built from the food you eat.", true, "Atoms from your food are used to build and replace the parts of your body."]], "odd": [[["Rice", "Wheat", "Ragi", "Rajma"], "Rajma", "Rice, wheat and ragi are grains, the seeds of grass plants; rajma is a bean."], [["Carrot", "Radish", "Beetroot", "Cabbage"], "Cabbage", "Carrot, radish and beetroot are roots that grow under the ground; cabbage is a leafy part."], [["Idli batter", "Dosa batter", "Curd", "Fresh milk"], "Fresh milk", "Idli batter, dosa batter and curd are changed by microbes; fresh milk has not been fermented."], [["Mango", "Egg", "Mushroom", "Salt"], "Salt", "Mango, egg and mushroom were made by living things; salt comes from the non-living Earth."], [["Grass", "Algae", "Neem tree", "Goat"], "Goat", "Grass, algae and neem make food from sunlight; a goat cannot, so she must eat plants."]]}
+ "warm": {
+  "words": [
+   "PLANT",
+   "SEEDS",
+   "ROOTS",
+   "GRAIN",
+   "FUNGI"
+  ],
+  "quiz": [
+   [
+    "Curd is made when tiny microbes change milk.",
+    true,
+    "Microbes feed on milk and slowly change it, so it turns thick and sour."
+   ],
+   [
+    "Plants get most of their food from the soil.",
+    false,
+    "Plants make food from air, water and sunlight; soil gives only small amounts of minerals."
+   ],
+   [
+    "Mushrooms are plants that can grow without sunlight.",
+    false,
+    "Mushrooms are fungi; they cannot make food and feed on dead things like wood and leaves."
+   ],
+   [
+    "Every food chain on land begins with a plant.",
+    true,
+    "Plants catch sunlight and make food, so the energy in a meal first came from the Sun."
+   ],
+   [
+    "Milk can be traced back to the grass that the cow ate.",
+    true,
+    "A cow makes milk from the plants she eats, so milk also begins with plants."
+   ],
+   [
+    "Salt is food that comes from a plant or an animal.",
+    false,
+    "Salt comes from sea water or the ground, which were never alive."
+   ],
+   [
+    "Scientists call a tomato a vegetable because we cook it like one.",
+    false,
+    "Scientists call it a fruit because it grows from a flower and holds seeds; vegetable is a cooking word."
+   ],
+   [
+    "A dry seed is a baby plant with a store of food beside them.",
+    true,
+    "The stored food feeds the baby plant, and we eat that store in grains, dal and nuts."
+   ],
+   [
+    "Old food traditions like making idli are only superstition.",
+    false,
+    "People used microbes to make idli and curd long before they knew microbes existed, by careful watching."
+   ],
+   [
+    "Your body is built from the food you eat.",
+    true,
+    "Atoms from your food are used to build and replace the parts of your body."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Rice",
+     "Wheat",
+     "Ragi",
+     "Rajma"
+    ],
+    "Rajma",
+    "Rice, wheat and ragi are grains, the seeds of grass plants; rajma is a bean."
+   ],
+   [
+    [
+     "Carrot",
+     "Radish",
+     "Beetroot",
+     "Cabbage"
+    ],
+    "Cabbage",
+    "Carrot, radish and beetroot are roots that grow under the ground; cabbage is a leafy part."
+   ],
+   [
+    [
+     "Idli batter",
+     "Dosa batter",
+     "Curd",
+     "Fresh milk"
+    ],
+    "Fresh milk",
+    "Idli batter, dosa batter and curd are changed by microbes; fresh milk has not been fermented."
+   ],
+   [
+    [
+     "Mango",
+     "Egg",
+     "Mushroom",
+     "Salt"
+    ],
+    "Salt",
+    "Mango, egg and mushroom were made by living things; salt comes from the non-living Earth."
+   ],
+   [
+    [
+     "Grass",
+     "Algae",
+     "Neem tree",
+     "Goat"
+    ],
+    "Goat",
+    "Grass, algae and neem make food from sunlight; a goat cannot, so she must eat plants."
+   ]
+  ]
+ }
 }

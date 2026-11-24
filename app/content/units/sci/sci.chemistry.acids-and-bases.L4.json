@@ -465,21 +465,31 @@
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Uddalaka tells his son Shvetaketu that food we eat divides into three. The coarsest part leaves the body, the middle part becomes flesh, and the finest part becomes the mind.",
     "link": "Digestion begins in the acid of the stomach. The acid and the enzymes cut food into pieces small enough to build a body. The dal and rice you eat are broken down and become part of you.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति",
+     "यो मध्यमस्तन्मांसम्",
+     "योऽणिष्ठस्तन्मनः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book II, chapter 6",
     "teaching": "Aristotle taught that the right amount is a middle between too much and too little, and that the middle is different for different people. A trained wrestler needs more food than a beginner.",
     "link": "The right pH is also a middle that depends on the place. Pepsin needs pH 2, and blood needs pH 7.4. The same number would be wrong in the other place.",
-    "verse": ["πρὸς ἡμᾶς δὲ ὃ μήτε πλεονάζει μήτε ἐλλείπει· τοῦτο δ’ οὐχ ἕν, οὐδὲ ταὐτὸν πᾶσιν.", "Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ."],
+    "verse": [
+     "πρὸς ἡμᾶς δὲ ὃ μήτε πλεονάζει μήτε ἐλλείπει· τοῦτο δ’ οὐχ ἕν, οὐδὲ ταὐτὸν πᾶσιν.",
+     "Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "All things carry the dark and embrace the light, and by blending their breath they reach harmony.",
     "link": "Acid and base are opposites, and pure water holds them in equal balance. The body uses both to stay in harmony.",
-    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse": [
+     "萬物負陰而抱陽，沖氣以為和。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2769,7 +2779,8 @@
   "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In about 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend. The bacteria grow slowly, and the extra days gave them just enough time to show up. Many doctors still did not believe them. So in 1984, Marshall drank a liquid that held the bacteria. Within days he felt ill, and a thin camera on a tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
   "who": "Barry Marshall and Robin Warren, doctors in Perth, Australia",
   "when": "1979 to 1984, and the Nobel Prize in 2005",
-  "wrong_idea": "Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them."
+  "wrong_idea": "Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them.",
+  "context": "What really causes sore patches in the stomach? This card tells the true story of two doctors in Australia who found out, against what everyone believed."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Antacid Showdown: the quarter-teaspoon scoop counts (about 2 to 4 for cooking soda, 3 to 5 for crushed tablets, 2 to 4 for eggshell) come from working out the amounts, and have not been tried at the kitchen table. The quantities may need changing. Eggshell powder reacts slowly, so the step says to stir longer. Salt is the control and should do nothing. The Eno Mystery result is the least certain. The liquid left after the fizz should be a little basic, but the colour may come out blue or blue-violet, or stay purple, so the step says to write what you see. Shield the Shell: the petroleum jelly coat should keep vinegar off for ten minutes. Whether a thin gel with soda holds out is not known, which is why it is a challenge. The story's vat details are simplified. Dyers differ in what they add and how they judge a vat. The Water Diary may show no change in the open cups, because strips read whole numbers, and the step says so. Rain is optional. Facts checked on 17 Nov 2026: Easter 1982 culture, 1984 drink, 2005 Nobel Prize, 1909 Sorensen, 1978 Mitchell, paper citations and the 1 in 550 million water figure were confirmed. Softened: Marshall's start with Warren is now 'about 1981', his illness 'within days' (it began about day 3), the share of people carrying the bacterium is now 'more than half' (Hooi 2017), the Nehru Science Centre description no longer names galleries, and the stomach-lining replacement time stays 'every few days' (about 3 days for surface cells). Not yet checked: the pH Ladder card ranges against a pH meter. The videos have no address yet.",
  "warm": {

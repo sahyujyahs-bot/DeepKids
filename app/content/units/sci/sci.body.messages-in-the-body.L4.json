@@ -3034,7 +3034,8 @@
   "who": "William Bayliss and Ernest Starling at University College London. The idea they tested came from Ivan Pavlov's laboratory in St Petersburg.",
   "when": "The test was done on 16 January 1902. Starling first used the word hormone in lectures in 1905.",
   "wrong_idea": "That every message in the body travels along nerves. Bayliss and Starling cut all the nerves to a loop of gut. Its message still reached the pancreas, so it had travelled in the blood.",
-  "art": "A laboratory of 1902 with two men in waistcoats at a bench, glass tubes and a brass clock, and a drawing on the wall of a loop of gut joined to the body only by blood vessels."
+  "art": "A laboratory of 1902 with two men in waistcoats at a bench, glass tubes and a brass clock, and a drawing on the wall of a loop of gut joined to the body only by blood vessels.",
+  "context": "Do all the messages in the body travel along nerves? This card tells the true story of two scientists in London who cut the nerves to a piece of gut to find out."
  },
  "roots": {
   "context": "In this lesson you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.",
@@ -3054,14 +3055,27 @@
     "source": "Chandogya Upanishad 5.1.6 to 5.1.15",
     "teaching": "Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay.",
     "link": "The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This lesson found the same thing in the way the parts send and answer messages.",
-    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse": [
+     "सा ह वागुच्चक्राम",
+     "सा संवत्सरं प्रोष्य पर्येत्योवाच",
+     "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्",
+     "भगवन्नेधि",
+     "त्वं नः श्रेष्ठोऽसि"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 2, 'Discussion on Making All Things Equal'",
     "teaching": "Zhuangzi lists the hundred joints, the nine openings and the six organs of his body. He asks which of them he should feel closest to. He asks whether they are all servants, or whether they take turns as ruler. He leaves the question open.",
     "link": "This is the question that a reflex raises. Your spinal cord moved your hand, your kidneys answered the water, and your brain was told afterwards. Zhuangzi's question about which part rules is still a fair one.",
-    "verse": ["百骸九竅六藏，賅而存焉，吾誰與爲親？", "汝皆悅之乎？", "其有私焉？", "如是，皆有爲臣妾乎？", "其臣妾不足以相治乎？", "其遞相爲君臣乎？"],
+    "verse": [
+     "百骸九竅六藏，賅而存焉，吾誰與爲親？",
+     "汝皆悅之乎？",
+     "其有私焉？",
+     "如是，皆有爲臣妾乎？",
+     "其臣妾不足以相治乎？",
+     "其遞相爲君臣乎？"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -2782,7 +2782,8 @@
   "story": "In 1790, Marc-Auguste Pictet, a scientist in Geneva in Switzerland, set up two curved metal mirrors facing each other across a room. In front of one mirror he put a thermometer. In front of the other he put something hot. The thermometer rose, though nothing touched it. The mirrors were bouncing the heat across the room. Then Pictet put a flask of snow where the hot thing had been. The thermometer fell. It looked as if the snow was sending out rays of cold, and the mirrors were carrying them. Some scientists thought cold might be a real thing that travels, just like heat. In 1791, Pierre Prévost, another scientist in Geneva, explained it differently. Everything sends out heat all the time, he said, and warmer things send out more. The thermometer was sending heat to the snow and getting less back than it gave. So the thermometer cooled. Scientists today agree with Prévost. Cold is not a thing that moves. Only heat moves, and a cold thing is one that has less of it.",
   "who": "Marc-Auguste Pictet and Pierre Prévost, scientists in Geneva",
   "when": "1790 (Pictet's mirrors and snow) and 1791 (Prévost's explanation)",
-  "wrong_idea": "When snow in front of a mirror made a distant thermometer fall, it seemed that cold was a thing that could travel. Prévost showed that the thermometer was simply losing more heat to the snow than it got back."
+  "wrong_idea": "When snow in front of a mirror made a distant thermometer fall, it seemed that cold was a thing that could travel. Prévost showed that the thermometer was simply losing more heat to the snow than it got back.",
+  "context": "Can cold travel from place to place like heat? This card tells the true story of scientists in Geneva who put snow in front of a mirror."
  },
  "warm": {
   "words": [

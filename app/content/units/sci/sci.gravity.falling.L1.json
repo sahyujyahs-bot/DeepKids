@@ -1971,14 +1971,20 @@
     "source": "Atharva Veda 12.1, the hymn to the Earth (verse 6)",
     "teaching": "The Prithvi Sukta, an old Sanskrit hymn to the Earth from the Atharva Veda, calls the Earth the bearer of all, the holder of treasures, and the firm ground on which every moving thing rests.",
     "link": "In Take Away the Holder, every falling thing ended up on the floor, and the floor rests on the ground. The Prithvi Sukta praises the Earth for holding everything up. Science adds that the Earth also pulls everything down onto itself.",
-    "verse": ["विश्वंभरा वसुधानी प्रतिष्ठा हिरण्यवक्षा जगतो निवेशनी ।", "वैश्वानरं बिभ्रती भूमिरग्निमिन्द्रऋषभा द्रविणे नो दधातु"],
+    "verse": [
+     "विश्वंभरा वसुधानी प्रतिष्ठा हिरण्यवक्षा जगतो निवेशनी ।",
+     "वैश्वानरं बिभ्रती भूमिरग्निमिन्द्रऋषभा द्रविणे नो दधातु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The highest good is like water. Water helps all things and does not fight. It flows to the low places that people look down on.",
     "link": "In Falling Watch, the water from the tap always went down, to the lowest place it could reach. The Earth's pull is why water always finds the low places. The Tao Te Ching praises water for going there.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2017,7 +2023,8 @@
   "story": "Long ago, people thought some things fall and other things rise, just by their nature. About 2,350 years ago, the Greek thinker Aristotle taught this. Stones and water fall, he said, but smoke, air and fire go up. Many people agreed for about two thousand years. Then, in 1638, the Italian scientist Galileo Galilei wrote about a test. He pushed extra air into a glass bottle and weighed it. Then he let the air out and weighed it again. The bottle was lighter, so air has weight, and the Earth pulls on air too. So why does smoke go up? Hot, smoky air is lighter than the cooler air around it. The heavier air sinks underneath and pushes the smoke up, the way water pushes a ball up in a bucket. Things go up only when something pushes them up.",
   "who": "Aristotle, a Greek thinker; Galileo Galilei, an Italian scientist",
   "when": "About 350 BCE (Aristotle) and 1638 (Galileo's book)",
-  "wrong_idea": "People thought smoke, air and fire go up by nature, and are not pulled down. Galileo weighed air and found it has weight, so the Earth pulls air too. Smoke rises only because heavier air around it pushes it up."
+  "wrong_idea": "People thought smoke, air and fire go up by nature, and are not pulled down. Galileo weighed air and found it has weight, so the Earth pulls air too. Smoke rises only because heavier air around it pushes it up.",
+  "context": "Why does smoke go up when everything else falls down? This card tells the true story of a scientist who weighed air."
  },
  "plan": {
   "start_options": [
@@ -2086,5 +2093,117 @@
   ]
  },
  "playtest": "Played both card games with 2 and with 4 players: the let-go game now has a reader who hides the back, a winner, 12 printed cards and 12 tokens, and the smoke card replaces the thrown ball so every UP card matches its token. Walked the Let-Go Test, dot drop, holder hunt, falling watch, marble run and toy challenge in a flat: minutes add up. Fixed the intro giving the answer, the pie chart and maths counts to match the ten things, bird landing counted as falling, unintroduced names, boy-heavy names, and weak jokes.",
- "warm": {"words": ["EARTH", "FALLS", "SHELF", "FLOOR", "STONE"], "quiz": [["A stone and a feather both fall to the ground when you let go.", true, "The Earth pulls both down; the feather only falls more slowly."], ["A blown-up balloon floats and does not fall.", false, "A balloon falls slowly because air gets in its way, but it still falls."], ["A ball stays on a table because the table holds it up.", true, "Something that holds a thing up is called a support, and without it the ball would fall."], ["Air pushes things down to the ground.", false, "Air slows falling things down; the pull of the Earth makes them fall."], ["Air makes a falling feather go slowly.", true, "Air gets in the way of light, wide things, so they fall slowly."], ["The Earth pulls only heavy things.", false, "The Earth pulls everything, light things too."], ["A ball you let go of falls straight down, right under your hand.", true, "Down means towards the ground, so a dropped ball lands under the spot where you let go."], ["A thing that is not falling is not being pulled by the Earth.", false, "The Earth still pulls it; a hand, shelf or string holds it up."], ["A ripe mango falls from the tree when nothing holds it any more.", true, "The Earth's pull makes the mango fall as soon as the stalk lets go."], ["A thing falls only if you push it down.", false, "Letting go is enough, because the Earth pulls the thing down."]], "odd": [[["feather", "paper", "cotton", "coin"], "coin", "Feather, paper and cotton are light and wide, so air slows them; a coin falls fast."], [["hand", "shelf", "string", "rain"], "rain", "A hand, shelf and string hold things up as supports; rain is not held, so it falls."], [["on the floor", "on the ground", "under your hand", "in the sky"], "in the sky", "A dropped thing goes down and lands below your hand, never up into the sky."], [["fall", "drop", "tumble", "rise"], "rise", "Fall, drop and tumble mean moving down; rise means moving up, away from the ground."], [["rain falling", "leaf falling", "spoon dropped", "kite on string"], "kite on string", "Rain, a leaf and a spoon are falling; the string holds the kite up."]]}
+ "warm": {
+  "words": [
+   "EARTH",
+   "FALLS",
+   "SHELF",
+   "FLOOR",
+   "STONE"
+  ],
+  "quiz": [
+   [
+    "A stone and a feather both fall to the ground when you let go.",
+    true,
+    "The Earth pulls both down; the feather only falls more slowly."
+   ],
+   [
+    "A blown-up balloon floats and does not fall.",
+    false,
+    "A balloon falls slowly because air gets in its way, but it still falls."
+   ],
+   [
+    "A ball stays on a table because the table holds it up.",
+    true,
+    "Something that holds a thing up is called a support, and without it the ball would fall."
+   ],
+   [
+    "Air pushes things down to the ground.",
+    false,
+    "Air slows falling things down; the pull of the Earth makes them fall."
+   ],
+   [
+    "Air makes a falling feather go slowly.",
+    true,
+    "Air gets in the way of light, wide things, so they fall slowly."
+   ],
+   [
+    "The Earth pulls only heavy things.",
+    false,
+    "The Earth pulls everything, light things too."
+   ],
+   [
+    "A ball you let go of falls straight down, right under your hand.",
+    true,
+    "Down means towards the ground, so a dropped ball lands under the spot where you let go."
+   ],
+   [
+    "A thing that is not falling is not being pulled by the Earth.",
+    false,
+    "The Earth still pulls it; a hand, shelf or string holds it up."
+   ],
+   [
+    "A ripe mango falls from the tree when nothing holds it any more.",
+    true,
+    "The Earth's pull makes the mango fall as soon as the stalk lets go."
+   ],
+   [
+    "A thing falls only if you push it down.",
+    false,
+    "Letting go is enough, because the Earth pulls the thing down."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "feather",
+     "paper",
+     "cotton",
+     "coin"
+    ],
+    "coin",
+    "Feather, paper and cotton are light and wide, so air slows them; a coin falls fast."
+   ],
+   [
+    [
+     "hand",
+     "shelf",
+     "string",
+     "rain"
+    ],
+    "rain",
+    "A hand, shelf and string hold things up as supports; rain is not held, so it falls."
+   ],
+   [
+    [
+     "on the floor",
+     "on the ground",
+     "under your hand",
+     "in the sky"
+    ],
+    "in the sky",
+    "A dropped thing goes down and lands below your hand, never up into the sky."
+   ],
+   [
+    [
+     "fall",
+     "drop",
+     "tumble",
+     "rise"
+    ],
+    "rise",
+    "Fall, drop and tumble mean moving down; rise means moving up, away from the ground."
+   ],
+   [
+    [
+     "rain falling",
+     "leaf falling",
+     "spoon dropped",
+     "kite on string"
+    ],
+    "kite on string",
+    "Rain, a leaf and a spoon are falling; the string holds the kite up."
+   ]
+  ]
+ }
 }
