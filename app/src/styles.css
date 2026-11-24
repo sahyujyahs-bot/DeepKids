@@ -5047,13 +5047,6 @@ dialog .fxfab {
   font: 600 var(--fs-3) var(--body);
   white-space: nowrap;
 }
-.fxwhym {
-  background: color-mix(in srgb, #0f8a7e 14%, var(--surface));
-  border-left: 4px solid #0f8a7e;
-  border-radius: 12px;
-  padding: 10px 12px;
-  font-size: var(--fs-4) !important;
-}
 .fxroots .fxvoice b {
   color: #b0638c;
 }

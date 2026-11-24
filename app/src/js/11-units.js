@@ -22,6 +22,7 @@ const FXE = {
   maths: "➗",
   applications: "⚙️",
   spotted: "🔍",
+  did_you_know: "📰",
   photos: "📷",
   open_questions: "🔭",
   ask_kids: "🗣️",
@@ -492,6 +493,7 @@ const FXORDER = [
   "challenging",
   "roots",
   "spotted",
+  "did_you_know",
   "ask_kids",
   "photos",
   "models",
@@ -501,7 +503,7 @@ const FXORDER = [
   "buy",
 ];
 // the last of these are extras to dip into: they are not scheduled and a unit is finished without them
-const FXOPT = new Set(["spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy"]);
+const FXOPT = new Set(["spotted", "did_you_know", "ask_kids", "photos", "models", "jokes", "song", "links", "buy"]);
 // the field a unit belongs to, for the words on its cards
 const fxWho = (u) =>
   u.id.startsWith("math.") ? ["Mathematicians", "mathematicians", "maths"] : ["Scientists", "scientists", "science"];
@@ -522,6 +524,7 @@ function fxCards(u) {
     "photos",
     "models",
     "spotted",
+    "did_you_know",
     "ask_kids",
     "song",
     "links",
@@ -721,7 +724,7 @@ function fxCards(u) {
         u.maths.forEach((m, i) =>
           add(
             "math." + i,
-            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ ${u.id.startsWith("math.") ? "Problem" : "Maths from our experiments · problem"} ${i + 1} of ${u.maths.length}</span>${m.why_maths ? `<p class="fxwhym"><b>${u.id.startsWith("math.") ? "Why this problem?" : "Why maths here?"}</b> ${esc(m.why_maths)}</p>` : ""}${fxHow(u, m)}${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details>${u.id.startsWith("math.") ? "" : `<p class="fxsm">Doing this adds the maths idea behind it to your queue next.</p>`}</div>`,
+            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ Question ${i + 1} of ${u.maths.length}</span>${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details></div>`,
             m.problem,
           ),
         );
@@ -757,6 +760,14 @@ function fxCards(u) {
           "spot",
           `<div class="fxtxt"><span class="fxeb">🔍 Spot it around you</span><div class="fxlistv">${u.spotted.map((s, i) => `<div class="fxslide">${fxImg(u, "spot." + i, s.art)}<p>${esc(s.text)}</p></div>`).join("")}</div></div>`,
           u.spotted.map((s) => s.text).join(" "),
+          { wide: 1 },
+        );
+        break;
+      case "did_you_know":
+        add(
+          "dyk",
+          `<div class="fxtxt"><span class="fxeb">📰 Did you know?</span><div class="fxlistv">${u.did_you_know.map((d) => `<div class="fxslide"><p>${esc(d.text)}</p></div>`).join("")}</div></div>`,
+          u.did_you_know.map((d) => d.text).join(" "),
           { wide: 1 },
         );
         break;
@@ -855,6 +866,7 @@ const FXS = {
   spotted: ["Spot it around you", "🔍", "Look for these at home and outside this week."],
   ask_kids: ["Questions for the day", "🗣️", "For the parent: drop these in at meals and on walks."],
   song: ["Song", "🎵", "Our song for this topic."],
+  did_you_know: ["Did you know?", "📰", "True stories and facts from around India."],
   links: ["Try online and go see", "🌐", "Simulations to play with and places in India to visit."],
   buy: ["Things that help", "🛒", "Tools, books and games that make this unit richer, and where each is used."],
 };
@@ -934,6 +946,7 @@ const FXSHOW = [
   "maths",
   "roots",
   "jokes",
+  "did_you_know",
   "videos",
   "links",
   "song",
