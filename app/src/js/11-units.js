@@ -764,6 +764,7 @@ function fxCards(u) {
         );
         break;
       case "did_you_know":
+        if (!u.did_you_know?.length) break;
         add(
           "dyk",
           `<div class="fxtxt"><span class="fxeb">📰 Did you know?</span><div class="fxlistv">${u.did_you_know.map((d) => `<div class="fxslide"><p>${esc(d.text)}</p></div>`).join("")}</div></div>`,
