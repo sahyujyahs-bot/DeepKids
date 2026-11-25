@@ -1895,7 +1895,8 @@
      "p": "Draw the seed leaves of a mustard seedling and a methi seedling, side by side. Label each one.",
      "a": "Mustard: two tiny heart-shaped leaves, each with a notch at the top. Methi: two small, smooth, oval leaves.",
      "why": "A strong drawing shows a clear difference in shape, from looking closely at real seedlings.",
-     "art": "Two empty boxes, labelled mustard and methi."
+     "art": "Two empty boxes, labelled mustard and methi.",
+     "chart": {"type": "frame", "shape": "boxes", "labels": ["mustard", "methi"]}
     },
     {
      "t": "truefalse",
@@ -2143,7 +2144,8 @@
      "p": "Draw a cell as a big circle with a nucleus inside. Draw the DNA in the nucleus, an RNA copy leaving it, and a ribosome building a protein. Label all four.",
      "a": "A big circle with a smaller circle inside. In the small circle, a long twisted line labelled DNA. A short line labelled RNA crossing out of the nucleus. A small round ribosome with a chain of beads, labelled protein.",
      "why": "A strong drawing shows the DNA staying inside and the copy going out, in the right order.",
-     "art": "A large empty circle."
+     "art": "A large empty circle.",
+     "chart": {"type": "frame", "shape": "circle"}
     },
     {
      "t": "fill",
@@ -2237,7 +2239,8 @@
      "p": "Draw a twisted ladder of DNA with 6 rungs. Write a letter on each end of every rung. Remember: A always pairs with T, and C with G.",
      "a": "Six rungs, each with one of the pairs A and T, T and A, C and G, or G and C. For example A-T, C-G, G-C, T-A, A-T, G-C.",
      "why": "A strong drawing never pairs A with C or G, or T with C or G. The pairing rule is how a cell can copy DNA exactly.",
-     "art": "Two long wavy lines twisting around each other, with six empty rungs."
+     "art": "Two long wavy lines twisting around each other, with six empty rungs.",
+     "chart": {"type": "frame", "shape": "ladder", "rungs": 6}
     },
     {
      "t": "mcq",

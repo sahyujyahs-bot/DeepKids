@@ -105,6 +105,25 @@ function fxDisc(r) {
     ).join("");
   return `<svg class="fxdisc" viewBox="0 0 100 100" role="img" aria-label="${esc(r.label || "round whole")}"><circle cx="50" cy="50" r="46"/>${on}${cuts}</svg>`;
 }
+/* a printable drawing area for a "draw it" question: empty labelled boxes, a big circle, or a ladder with empty rungs */
+function fxFrame(c) {
+  const ink = 'fill="none" stroke="#2B2340" stroke-width="2.5" stroke-dasharray="7 5"';
+  if (c.shape === "circle")
+    return `<svg viewBox="0 0 300 150" role="img" aria-label="An empty circle to draw in"><circle cx="150" cy="75" r="66" ${ink}/></svg>`;
+  if (c.shape === "ladder") {
+    const n = c.rungs || 6,
+      step = 44,
+      x0 = 22 + step / 2,
+      xs = Array.from({ length: n }, (_, i) => x0 + step * i),
+      y = (x, s) => 75 + s * 34 * Math.cos(((x - x0) * Math.PI) / step),
+      strand = (s) =>
+        `<path d="M10 ${y(10, s).toFixed(1)}${Array.from({ length: 97 }, (_, k) => ` L${10 + k * 3} ${y(10 + k * 3, s).toFixed(1)}`).join("")}" fill="none" stroke="#2B2340" stroke-width="2.5"/>`;
+    return `<svg viewBox="0 0 300 150" role="img" aria-label="A twisted ladder with empty rungs to fill">${strand(1)}${strand(-1)}${xs.map((x) => `<line x1="${x}" x2="${x}" y1="${y(x, 1).toFixed(1)}" y2="${y(x, -1).toFixed(1)}" stroke="#2B2340" stroke-width="2" stroke-dasharray="4 4"/><rect x="${x - 8}" y="${(y(x, 1) - 8).toFixed(1)}" width="16" height="16" rx="3" fill="#fff" stroke="#2B2340" stroke-width="2"/><rect x="${x - 8}" y="${(y(x, -1) - 8).toFixed(1)}" width="16" height="16" rx="3" fill="#fff" stroke="#2B2340" stroke-width="2"/>`).join("")}</svg>`;
+  }
+  const L = c.labels || [],
+    w = (280 - 14 * (L.length - 1)) / (L.length || 1);
+  return `<svg viewBox="0 0 300 150" role="img" aria-label="Empty boxes to draw in">${L.map((t, i) => `<rect x="${10 + i * (w + 14)}" y="8" width="${w}" height="104" rx="10" ${ink}/><text x="${10 + i * (w + 14) + w / 2}" y="134" font-size="14" font-weight="700" text-anchor="middle" fill="#2B2340">${esc(t)}</text>`).join("")}</svg>`;
+}
 function fxChart(c) {
   if (!c) return "";
   const T = c.title ? `<p class="fxct">${esc(c.title)}</p>` : "",
@@ -143,6 +162,7 @@ function fxChart(c) {
   }
   if (c.type === "sum")
     return `<figure class="fxchart">${T}<div class="fxwork">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxworkans">${esc(c.answer || "?")}</div></div></figure>`;
+  if (c.type === "frame") return `<figure class="fxchart">${T}${fxFrame(c)}</figure>`;
   if (c.type === "scale") {
     const mn = c.min ?? 0,
       mx = c.max ?? 10,
