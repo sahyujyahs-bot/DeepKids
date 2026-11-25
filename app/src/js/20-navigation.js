@@ -296,6 +296,7 @@ function drawAll() {
 }
 function renderMain() {
   if (tab === "today" && ui.lastTab && ui.lastTab !== "today") ui.tday = null;
+  if (ui.lastTab !== tab) track(tab);
   ui.lastTab = tab;
   fixWork();
   fixRoutines();

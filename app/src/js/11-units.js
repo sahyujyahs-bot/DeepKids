@@ -1018,6 +1018,7 @@ function fxProgress(id) {
 async function fxOpen(id, straightIn) {
   if (!DATA.units?.[id]) return toast("This unit isn't in the app yet");
   if (!dkUnitOpen(id)) return dkLocked();
+  track("Unit: " + DATA.units[id].title, { unit_id: id });
   let u;
   try {
     if (!FXFULL[id]) toast("Opening…", 900);

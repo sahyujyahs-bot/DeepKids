@@ -7789,6 +7789,10 @@ function sfx(k) {
     SFX[k]();
   } catch (e) {}
 }
+// which screen or lesson is open, for the website's visit counts (nothing the family typed is sent; absent elsewhere)
+function track(screen, extra) {
+  if (window.gtag) window.gtag("event", "screen_view", { screen_name: screen, ...extra });
+}
 // finishing something: the winning tune and confetti
 function celebrate() {
   sfx("win");
@@ -15625,6 +15629,7 @@ function fxProgress(id) {
 async function fxOpen(id, straightIn) {
   if (!DATA.units?.[id]) return toast("This unit isn't in the app yet");
   if (!dkUnitOpen(id)) return dkLocked();
+  track("Unit: " + DATA.units[id].title, { unit_id: id });
   let u;
   try {
     if (!FXFULL[id]) toast("Opening…", 900);
@@ -26224,6 +26229,7 @@ function drawAll() {
 }
 function renderMain() {
   if (tab === "today" && ui.lastTab && ui.lastTab !== "today") ui.tday = null;
+  if (ui.lastTab !== tab) track(tab);
   ui.lastTab = tab;
   fixWork();
   fixRoutines();
@@ -26383,6 +26389,7 @@ function playItem(it, toExperiment) {
   // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
   if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit, true);
   setTimeout(autoRead, 100);
+  track("Lesson: " + it.u.k);
   const st = stepState(it),
     exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),
     lab = exp >= 0 ? exp : st.findIndex((x) => x.sec === "lab");

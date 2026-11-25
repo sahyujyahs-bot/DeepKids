@@ -57,6 +57,10 @@ function sfx(k) {
     SFX[k]();
   } catch (e) {}
 }
+// which screen or lesson is open, for the website's visit counts (nothing the family typed is sent; absent elsewhere)
+function track(screen, extra) {
+  if (window.gtag) window.gtag("event", "screen_view", { screen_name: screen, ...extra });
+}
 // finishing something: the winning tune and confetti
 function celebrate() {
   sfx("win");

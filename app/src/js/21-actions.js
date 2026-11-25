@@ -3,6 +3,7 @@ function playItem(it, toExperiment) {
   // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
   if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit, true);
   setTimeout(autoRead, 100);
+  track("Lesson: " + it.u.k);
   const st = stepState(it),
     exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),
     lab = exp >= 0 ? exp : st.findIndex((x) => x.sec === "lab");
