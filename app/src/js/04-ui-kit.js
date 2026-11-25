@@ -61,6 +61,16 @@ function sfx(k) {
 function track(screen, extra) {
   if (window.gtag) window.gtag("event", "screen_view", { screen_name: screen, ...extra });
 }
+// how long the app was on screen, sent each time it goes to the background or is closed (seconds only)
+let visibleSince = Date.now();
+function trackVisibleTime() {
+  if (!document.hidden) {
+    visibleSince = Date.now();
+    return;
+  }
+  const seconds = Math.round((Date.now() - visibleSince) / 1000);
+  if (window.gtag && seconds >= 3) window.gtag("event", "time_on_app", { seconds, transport_type: "beacon" });
+}
 // finishing something: the winning tune and confetti
 function celebrate() {
   sfx("win");
