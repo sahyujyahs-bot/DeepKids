@@ -2865,5 +2865,10 @@
   "when": "1969 to 1972 (Moon rocks brought back), 2008 (Chandrayaan-1 launched), 2009 (water traces reported) and 2018 (polar ice found in its data)",
   "wrong_idea": "Most scientists thought the Moon was completely dry, because the Apollo rocks seemed to have no water. Chandrayaan-1 measured the light reflected by the Moon and found the gap that water leaves, over much of the surface. Later its data showed ice in the dark polar craters.",
   "context": "Is there water on the Moon? This card tells the true story of a space team from India who searched for it."
- }
+ },
+ "did_you_know": [
+  {
+   "text": "The Space Museum at Thumba, near Thiruvananthapuram, is in the old church where India's rocket story began."
+  }
+ ]
 }
