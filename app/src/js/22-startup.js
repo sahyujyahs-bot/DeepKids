@@ -659,7 +659,7 @@ document.addEventListener(
     S.extra = { ...(S.extra || {}), [s]: [...new Set([...ex, k])] };
     if (b.dataset.front) S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
     commit();
-    sfx("ok");
+    celebrate();
     toast(
       b.dataset.front
         ? "Added to the plan. It comes next in " + SUBJ[s] + "."

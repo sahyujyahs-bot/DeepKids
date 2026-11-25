@@ -216,7 +216,7 @@ function lifeQueue(id) {
   const L = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
   const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
   m.queued = [...m.queued, ...L.map((l) => l.k)];
-  sfx("ok");
+  celebrate();
   toast(msg, 4500);
   commit();
   renderSheet();

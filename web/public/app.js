@@ -7881,7 +7881,7 @@ const FXS = {
     "The words we'll need. Look at the picture, guess the meaning, then tap the card to turn it over.",
   ],
   explanations: [
-    "How it really works",
+    "The core ideas",
     "💡",
     "Now we go deep: from your shoe, down to atoms, out to the Moon. Some answers are agreed; some scientists still argue about.",
   ],
@@ -10497,9 +10497,9 @@ Object.assign(ACT, {
   pin(b, e, a, k) {
     const s = b.dataset.s;
     S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
-    sfx("ok");
     toast("That's up next");
     sheet.close();
+    celebrate();
     commit();
   },
   ppick(b, e, a, k) {
@@ -14432,7 +14432,7 @@ function lifeQueue(id) {
   const L = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
   const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
   m.queued = [...m.queued, ...L.map((l) => l.k)];
-  sfx("ok");
+  celebrate();
   toast(msg, 4500);
   commit();
   renderSheet();
@@ -19628,7 +19628,7 @@ document.addEventListener(
     S.extra = { ...(S.extra || {}), [s]: [...new Set([...ex, k])] };
     if (b.dataset.front) S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
     commit();
-    sfx("ok");
+    celebrate();
     toast(
       b.dataset.front
         ? "Added to the plan. It comes next in " + SUBJ[s] + "."

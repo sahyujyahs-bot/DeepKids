@@ -833,7 +833,7 @@ const FXS = {
     "The words we'll need. Look at the picture, guess the meaning, then tap the card to turn it over.",
   ],
   explanations: [
-    "How it really works",
+    "The core ideas",
     "💡",
     "Now we go deep: from your shoe, down to atoms, out to the Moon. Some answers are agreed; some scientists still argue about.",
   ],

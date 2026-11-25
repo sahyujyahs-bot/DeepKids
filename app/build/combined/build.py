@@ -74,7 +74,7 @@ import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
 FXORDER = ("intro", "activities", "experiments", "terms", "explanations", "videos", "how_we_found_out", "story", "games", "worksheets", "quiz", "applications", "maths", "projects", "challenges", "big_questions", "open_questions", "challenging", "roots", "spotted", "did_you_know", "ask_kids", "photos", "models", "jokes", "song", "links", "buy")
 FLOWK = ("games", "experiments", "activities", "projects", "challenges")
-PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "how_we_found_out": "How we found out",
+PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "The core ideas", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
         "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you", "did_you_know": "Did you know?",
         "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}

@@ -1136,9 +1136,9 @@ Object.assign(ACT, {
   pin(b, e, a, k) {
     const s = b.dataset.s;
     S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
-    sfx("ok");
     toast("That's up next");
     sheet.close();
+    celebrate();
     commit();
   },
   ppick(b, e, a, k) {
