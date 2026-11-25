@@ -389,7 +389,7 @@ function buildDayPlan(date) {
         title: "Daily check-ins",
         sub:
           open
-            .map((e) => e.title)
+            .map((e) => e.name || e.title)
             .slice(0, 2)
             .join(" · ") + (open.length > 2 ? ` +${open.length - 2}` : ""),
         done: isT && open.every((e) => e.checks.includes(today)),

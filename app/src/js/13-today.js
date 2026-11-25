@@ -208,12 +208,16 @@ function itemDetail(it, date, upNext) {
     return `${j ? `<div class="ask"><span class="eyebrow">Joke 1</span>${esc(j[0])} <i>${esc(j[1])}</i></div>` : ""}<div class="row"><button class="btn" data-act="games">Jokes and games</button></div>`;
   }
   if (it.kind === "exps")
-    return `<div class="col" style="gap:8px">${S.exps
-      .filter((e) => !e.closed && e.start <= date)
-      .map(
-        (e) =>
-          `<div class="row between nowrap"><span class="sm" style="font-weight:800">${esc(e.title)}</span><button class="btn xs ${e.checks.includes(today) ? "soft" : ""}" data-act="check" data-e="${e.id}">${e.checks.includes(today) ? "Checked" : "Check"}</button></div>`,
-      )
+    return `<div class="col" style="gap:12px">${[
+      ...S.exps.filter((e) => !e.closed && e.start <= date),
+      ...fxOngoing(date),
+    ]
+      .map((e) => {
+        const day = e.day || Math.round((parse(date) - parse(e.start)) / 864e5) + 1,
+          did = e.checks.includes(today),
+          look = e.look || "Look at it, then draw or write down what has changed since yesterday.";
+        return `<div class="row between nowrap"><span style="min-width:0"><b class="sm">${esc(e.name || e.title)}</b><span class="xs muted"> · day ${day}</span><br><span class="sm">Check: ${esc(look)}</span></span><button class="btn xs ${did ? "soft" : ""}" data-act="check" ${e.key ? `data-key="${esc(e.key)}"` : `data-e="${e.id}"`}>${did ? "Checked ✓" : "Checked"}</button></div>`;
+      })
       .join("")}</div>`;
   if (it.kind === "event") {
     const e = it.ev;
@@ -298,7 +302,7 @@ function tRow(it, date, focus) {
       : "";
   const upNext =
     (it === focus ? it.kind !== "lesson" || open : it.kind === "lesson" && open) && date === today && !it.done;
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${upNext ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date, upNext)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : it.kind === "event" && it.ev ? evShort(it.ev) : it.kind === "exps" ? esc(it.sub) : esc(ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${upNext ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date, upNext)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
@@ -929,6 +933,7 @@ Object.assign(ACT, {
         .forEach((x) => {
           if (!x.checks.includes(today)) x.checks.push(today);
         });
+      fxOngoing(date).forEach((x) => fxTick(x.key));
       sfx("ok");
     } else if (it.kind === "lesson") {
       if (it.done) {
@@ -1092,7 +1097,12 @@ Object.assign(ACT, {
   },
   check(b, e, a, k) {
     const x = S.exps.find((x) => x.id === b.dataset.e);
-    if (x && !x.checks.includes(today)) {
+    if (b.dataset.key) {
+      fxTick(b.dataset.key);
+      sfx("ok");
+      toast("Checked for today ✓");
+      commit();
+    } else if (x && !x.checks.includes(today)) {
       x.checks.push(today);
       sfx("ok");
       toast("Checked for today ✓");

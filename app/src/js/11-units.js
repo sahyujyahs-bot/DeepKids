@@ -2030,7 +2030,11 @@ function fxOngoing(date) {
       const t = (p[8] || []).find((x) => x[0] === day);
       out.push({
         title: `${p[1]} · day ${day} of ${p[5]}` + (t ? ": " + t[2] : ""),
-        checks: [],
+        name: p[1],
+        day,
+        look: t ? t[2] : "",
+        key: id + "|" + p[0] + "|" + date,
+        checks: (S.fxck || {})[id + "|" + p[0] + "|" + date] || [],
         mins: t ? +t[1] || 5 : 5,
         fx: id,
       });
@@ -2038,6 +2042,10 @@ function fxOngoing(date) {
   });
   return out;
 }
+// ticking today's check on a day of a unit's multi-day part
+const fxTick = (key) => {
+  S.fxck = { ...(S.fxck || {}), [key]: [today] };
+};
 const fxOM = (open) => Math.min(30, 5 + open.filter((e) => e.fx).reduce((a, e) => a + e.mins, 0));
 /* linked units: when a part is finished, the units it links to (a maths problem's maths unit, a project's units) join tomorrow's plan */
 /* the DeepKids-track year plan (DATA.combined) lists topics in teaching order; each topic with written units is taught through

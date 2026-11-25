@@ -1312,9 +1312,9 @@ function logSession(u, kind) {
   }
   S.log = S.log.slice(0, 3000);
 }
-function addExp(title, topic) {
+function addExp(title, topic, look) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
-    S.exps.push({ id: newId(), title, topic, start: today, checks: [], closed: false });
+    S.exps.push({ id: newId(), title, topic, look, start: today, checks: [], closed: false });
 }
 const htmlToEl = (h) => {
   const t = document.createElement("template");
@@ -1797,7 +1797,7 @@ function buildDayPlan(date) {
         title: "Daily check-ins",
         sub:
           open
-            .map((e) => e.title)
+            .map((e) => e.name || e.title)
             .slice(0, 2)
             .join(" · ") + (open.length > 2 ? ` +${open.length - 2}` : ""),
         done: isT && open.every((e) => e.checks.includes(today)),
@@ -4412,7 +4412,7 @@ Object.assign(ACT, {
     commit();
   },
   startexp(b, e, a, k) {
-    addExp(b.dataset.title, b.dataset.topic);
+    addExp(b.dataset.title, b.dataset.topic, b.dataset.look);
     sfx("ok");
     toast("Started. Tick it once a day under Daily check-ins.");
     commit();
@@ -9082,7 +9082,11 @@ function fxOngoing(date) {
       const t = (p[8] || []).find((x) => x[0] === day);
       out.push({
         title: `${p[1]} · day ${day} of ${p[5]}` + (t ? ": " + t[2] : ""),
-        checks: [],
+        name: p[1],
+        day,
+        look: t ? t[2] : "",
+        key: id + "|" + p[0] + "|" + date,
+        checks: (S.fxck || {})[id + "|" + p[0] + "|" + date] || [],
         mins: t ? +t[1] || 5 : 5,
         fx: id,
       });
@@ -9090,6 +9094,10 @@ function fxOngoing(date) {
   });
   return out;
 }
+// ticking today's check on a day of a unit's multi-day part
+const fxTick = (key) => {
+  S.fxck = { ...(S.fxck || {}), [key]: [today] };
+};
 const fxOM = (open) => Math.min(30, 5 + open.filter((e) => e.fx).reduce((a, e) => a + e.mins, 0));
 /* linked units: when a part is finished, the units it links to (a maths problem's maths unit, a project's units) join tomorrow's plan */
 /* the DeepKids-track year plan (DATA.combined) lists topics in teaching order; each topic with written units is taught through
@@ -11288,12 +11296,16 @@ function itemDetail(it, date, upNext) {
     return `${j ? `<div class="ask"><span class="eyebrow">Joke 1</span>${esc(j[0])} <i>${esc(j[1])}</i></div>` : ""}<div class="row"><button class="btn" data-act="games">Jokes and games</button></div>`;
   }
   if (it.kind === "exps")
-    return `<div class="col" style="gap:8px">${S.exps
-      .filter((e) => !e.closed && e.start <= date)
-      .map(
-        (e) =>
-          `<div class="row between nowrap"><span class="sm" style="font-weight:800">${esc(e.title)}</span><button class="btn xs ${e.checks.includes(today) ? "soft" : ""}" data-act="check" data-e="${e.id}">${e.checks.includes(today) ? "Checked" : "Check"}</button></div>`,
-      )
+    return `<div class="col" style="gap:12px">${[
+      ...S.exps.filter((e) => !e.closed && e.start <= date),
+      ...fxOngoing(date),
+    ]
+      .map((e) => {
+        const day = e.day || Math.round((parse(date) - parse(e.start)) / 864e5) + 1,
+          did = e.checks.includes(today),
+          look = e.look || "Look at it, then draw or write down what has changed since yesterday.";
+        return `<div class="row between nowrap"><span style="min-width:0"><b class="sm">${esc(e.name || e.title)}</b><span class="xs muted"> · day ${day}</span><br><span class="sm">Check: ${esc(look)}</span></span><button class="btn xs ${did ? "soft" : ""}" data-act="check" ${e.key ? `data-key="${esc(e.key)}"` : `data-e="${e.id}"`}>${did ? "Checked ✓" : "Checked"}</button></div>`;
+      })
       .join("")}</div>`;
   if (it.kind === "event") {
     const e = it.ev;
@@ -11378,7 +11390,7 @@ function tRow(it, date, focus) {
       : "";
   const upNext =
     (it === focus ? it.kind !== "lesson" || open : it.kind === "lesson" && open) && date === today && !it.done;
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${upNext ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date, upNext)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : it.kind === "event" && it.ev ? evShort(it.ev) : it.kind === "exps" ? esc(it.sub) : esc(ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${upNext ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date, upNext)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
@@ -12009,6 +12021,7 @@ Object.assign(ACT, {
         .forEach((x) => {
           if (!x.checks.includes(today)) x.checks.push(today);
         });
+      fxOngoing(date).forEach((x) => fxTick(x.key));
       sfx("ok");
     } else if (it.kind === "lesson") {
       if (it.done) {
@@ -12172,7 +12185,12 @@ Object.assign(ACT, {
   },
   check(b, e, a, k) {
     const x = S.exps.find((x) => x.id === b.dataset.e);
-    if (x && !x.checks.includes(today)) {
+    if (b.dataset.key) {
+      fxTick(b.dataset.key);
+      sfx("ok");
+      toast("Checked for today ✓");
+      commit();
+    } else if (x && !x.checks.includes(today)) {
       x.checks.push(today);
       sfx("ok");
       toast("Checked for today ✓");
@@ -12979,7 +12997,7 @@ function ideasHtml() {
   return trackIdeas(3)
     .map(
       ({ u, e }) =>
-        `<div class="trow"><span class="tic">🌱</span><div style="min-width:0;flex:1"><b>${esc(e.title)}</b><br><span class="xs muted">${esc(chT(u))} · ${esc(SUBJ[u.subj])}</span></div><button class="btn xs soft" data-act="startexp" data-title="${esc(e.title)}" data-topic="${esc(chT(u))}">Start</button></div>`,
+        `<div class="trow"><span class="tic">🌱</span><div style="min-width:0;flex:1"><b>${esc(e.title)}</b><br><span class="xs muted">${esc(chT(u))} · ${esc(SUBJ[u.subj])}</span></div><button class="btn xs soft" data-act="startexp" data-title="${esc(e.title)}" data-topic="${esc(chT(u))}" data-look="${esc(e.question || "")}">Start</button></div>`,
     )
     .join("");
 }

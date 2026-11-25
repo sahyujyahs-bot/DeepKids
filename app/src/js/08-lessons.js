@@ -1029,7 +1029,7 @@ Object.assign(ACT, {
     commit();
   },
   startexp(b, e, a, k) {
-    addExp(b.dataset.title, b.dataset.topic);
+    addExp(b.dataset.title, b.dataset.topic, b.dataset.look);
     sfx("ok");
     toast("Started. Tick it once a day under Daily check-ins.");
     commit();

@@ -272,9 +272,9 @@ function logSession(u, kind) {
   }
   S.log = S.log.slice(0, 3000);
 }
-function addExp(title, topic) {
+function addExp(title, topic, look) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
-    S.exps.push({ id: newId(), title, topic, start: today, checks: [], closed: false });
+    S.exps.push({ id: newId(), title, topic, look, start: today, checks: [], closed: false });
 }
 const htmlToEl = (h) => {
   const t = document.createElement("template");
