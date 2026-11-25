@@ -2193,5 +2193,10 @@
   "when": "1939 (Einstein's paper), 1992 and 1995 (the two teams begin), 2020 (Nobel Prize)",
   "wrong_idea": "Einstein and many other scientists thought nature would never squeeze a star small enough to make a black hole. Ghez and Genzel tracked stars racing round the centre of our galaxy and showed that something 4 million times as heavy as the Sun is packed there, unseen: a black hole.",
   "context": "Do black holes really exist? This card tells the true story of astronomers who watched stars race around the centre of our galaxy."
- }
+ },
+ "did_you_know": [
+  {
+   "text": "LIGO-India, a gravitational-wave detector, is being built near Aundha Nagnath in Hingoli district, Maharashtra."
+  }
+ ]
 }

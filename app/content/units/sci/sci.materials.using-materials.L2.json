@@ -2059,5 +2059,10 @@
   ],
   "walkthrough": "Tilt test checked as a parent and child in a flat: a 30 cm chopping board, a steel katori with 10 coins, rubber bands stretched round the board, cloth, newspaper, a plastic sheet and the bare board, three slow lifts each, about 25 minutes."
  },
- "playtest": "New unit. The tilt test uses only a chopping board, a katori, coins, rubber bands, cloth, newspaper and a plastic sheet. Rubber gives a clearly higher tilt than the rest; the other materials may come out close together, and the steps say so."
+ "playtest": "New unit. The tilt test uses only a chopping board, a katori, coins, rubber bands, cloth, newspaper and a plastic sheet. Rubber gives a clearly higher tilt than the rest; the other materials may come out close together, and the steps say so.",
+ "did_you_know": [
+  {
+   "text": "Much of India's coir is made in Kerala."
+  }
+ ]
 }
