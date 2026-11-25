@@ -114,6 +114,8 @@ index = f'''<!doctype html>
 <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="DeepKids Gurukul">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","G-GYJLZ0FVJE",{{allow_google_signals:false,allow_ad_personalization_signals:false}})</script>
 {head}
 <style>html,body{{margin:0;background:var(--bg,#FFF6EC)}}#dkLoading{{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}}</style>
 </head>

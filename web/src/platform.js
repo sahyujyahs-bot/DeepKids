@@ -73,7 +73,7 @@
     iamLife();
     const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};
     document.querySelectorAll(".dkgo").forEach(x=>x.onclick=async()=>{x.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}});
-    $("#dkGuest").onclick=()=>{try{localStorage.setItem("dk-guest","1")}catch(e){}location.reload()};
+    $("#dkGuest").onclick=()=>{try{localStorage.setItem("dk-guest","1");sessionStorage.setItem("dk-gs","1")}catch(e){}location.reload()};
     const b=$("#dkGoogle");
     // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
     // app), so phones use the plain button: the whole page goes to Google and comes back signed in
@@ -186,6 +186,7 @@
   /* ---------- without signing in: the family's plan stays on this phone; no database, photos or AI ---------- */
   function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
+    try{if(sessionStorage.getItem("dk-gs")){sessionStorage.removeItem("dk-gs");window.gtag&&gtag("event","guest_start")}}catch(e){}
     window.DK_PLATFORM={name:"web",guest:true,edits:{list:async()=>[],canEdit:async()=>false},signOut:async()=>{try{localStorage.removeItem("dk-guest")}catch(e){}location.reload()},user:()=>null,plus:()=>({on:false})}}
 
   /* ---------- DeepKids Plus: status and Razorpay checkout ---------- */
