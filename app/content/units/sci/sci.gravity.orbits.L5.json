@@ -1,0 +1,2939 @@
+{
+ "id": "sci.gravity.orbits.L5",
+ "title": "Gravity, orbits and satellites: how a thing can fall all the time and never land",
+ "level": 5,
+ "summary": {
+  "text": "The space station is only about 400 kilometres above us, and gravity pulls it almost as hard as it pulls you. So why does it not fall down? In this lesson you will whirl a pouch of rice on a thread to find out what an orbit needs, and send a stream of water past an upturned bowl. You will find that a satellite is falling all the time, and that it moves sideways so fast that it keeps missing the ground. You will also follow India's own road to orbit, from Aryabhata to Chandrayaan and Mangalyaan.",
+  "art": "The Earth seen from the side with a thin blue line of air, and a small space station just above the line with a curved arrow showing it falling round the Earth."
+ },
+ "intro": {
+  "hook": "Draw the Earth as a circle as wide as a steel plate. How far from the edge of the circle would you draw the space station: a hand away, a step away, or across the room?",
+  "text": "Most people put the station far away, because astronauts float there. On a drawing where the Earth is about 13 centimetres wide, the station is only 4 millimetres above the line. Gravity there is almost nine tenths as strong as on the ground. Something else must be keeping the station up. In How High Is Space you will draw this, and then you will test what an orbit needs.",
+  "art": "A child's drawing of the Earth as a circle traced round a steel plate, with three question marks at different distances from it and a tiny dot almost touching the circle."
+ },
+ "outcomes": [
+  "By the end I can say what a satellite is, and tell a natural satellite from an artificial one.",
+  "By the end I can explain an orbit as falling round: sideways speed and the pull of gravity working together.",
+  "By the end I can say what happens to a launched thing that is too slow, fast enough to orbit, or faster than escape speed.",
+  "By the end I can explain why astronauts float although gravity still pulls on them.",
+  "By the end I can use my own test to show that a stronger pull, or a closer orbit, needs a quicker trip round.",
+  "By the end I can name three kinds of orbit and the jobs that satellites in them do, with examples from India.",
+  "By the end I can tell how India reached orbit, the Moon and Mars, and name people the usual telling leaves out.",
+  "By the end I can give both sides of one open debate about orbits, and say what I think and why."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Satellite",
+   "meaning": "A satellite is a thing that goes round a bigger thing, held by the bigger thing's gravity.",
+   "example": "The Moon is a satellite of the Earth. INSAT-3DS is a satellite of the Earth too.",
+   "art": "The Earth with the Moon far away and a small man-made satellite close by, both on curved paths round it."
+  },
+  {
+   "term": "Natural satellite",
+   "meaning": "A natural satellite is a satellite that nobody made. A moon is a natural satellite of a planet.",
+   "example": "The Earth has one natural satellite, the Moon. Saturn has more than 270 known moons.",
+   "art": "Saturn with its rings and several small moons round it."
+  },
+  {
+   "term": "Artificial satellite",
+   "meaning": "An artificial satellite is a machine that people build and send into orbit to do a job.",
+   "example": "Aryabhata, launched on 19 April 1975, was India's first artificial satellite.",
+   "art": "A many-sided satellite covered in dark solar cells, with the Earth behind it."
+  },
+  {
+   "term": "Orbit",
+   "meaning": "An orbit is the path of a thing that keeps falling round another thing without landing on it.",
+   "example": "The space station's orbit takes it once round the Earth in about 92 minutes.",
+   "art": "A dotted oval path round the Earth with a small spacecraft on it."
+  },
+  {
+   "term": "Orbital speed",
+   "meaning": "Orbital speed is the sideways speed a thing needs to stay in an orbit at a given height.",
+   "example": "Just above the air, the orbital speed is about 7.8 kilometres every second.",
+   "art": "A satellite above the Earth with a long sideways arrow marked 7.8 km each second."
+  },
+  {
+   "term": "Escape speed",
+   "meaning": "Escape speed is the speed at which a thing with no engine, thrown from a world, never falls back.",
+   "example": "The escape speed from the Earth's surface is about 11.2 kilometres every second.",
+   "art": "A spacecraft leaving the Earth on a path that opens out and does not close."
+  },
+  {
+   "term": "Free fall",
+   "meaning": "Free fall is moving with only gravity acting on you, and nothing pushing or holding you.",
+   "example": "A mango dropping from a branch is in free fall. So is a satellite in orbit.",
+   "art": "A falling mango on one side and a satellite in orbit on the other, each with one arrow pointing to the Earth's centre."
+  },
+  {
+   "term": "Weightlessness",
+   "meaning": "Weightlessness is the feeling of having no weight. It comes when you and everything round you fall together, so nothing pushes on you.",
+   "example": "Astronauts in the space station float because the station and the astronauts fall together.",
+   "art": "An astronaut floating inside a station beside a floating spoon and a floating drop of water."
+  },
+  {
+   "term": "Ellipse",
+   "meaning": "An ellipse is a stretched circle, like the outline of an egg seen from the side. Most orbits are ellipses.",
+   "example": "Chandrayaan-3 went round the Earth in longer and longer ellipses before it left for the Moon.",
+   "art": "A circle and beside it a stretched oval, with the Earth near one end of the oval."
+  },
+  {
+   "term": "Period",
+   "meaning": "The period of an orbit is the time for one full trip round.",
+   "example": "The Moon's period is about 27 days. The space station's period is about 92 minutes.",
+   "art": "A clock face beside the Earth and Moon, with one full loop of the Moon's path marked 27 days."
+  },
+  {
+   "term": "Low Earth orbit",
+   "meaning": "A low Earth orbit is an orbit less than about 2,000 kilometres above the ground.",
+   "example": "The space station and India's Cartosat mapping satellites are in low Earth orbit.",
+   "art": "The Earth with a satellite path drawn very close to its surface."
+  },
+  {
+   "term": "Polar orbit",
+   "meaning": "A polar orbit is an orbit that passes over or near the North Pole and the South Pole.",
+   "example": "A satellite in a polar orbit sees every part of the Earth, strip by strip, as the Earth turns below it.",
+   "art": "The Earth with a satellite path going over both poles and strips marked on the ground below."
+  },
+  {
+   "term": "Geostationary orbit",
+   "meaning": "A geostationary orbit is the orbit 35,786 kilometres above the equator. A satellite there goes round once a day, in step with the turning Earth.",
+   "example": "From the ground, an INSAT weather satellite stays in one place in the sky all day and all night.",
+   "art": "The Earth with a satellite far above the equator and a line down to one spot in India, shown at two different times of day."
+  },
+  {
+   "term": "Launch vehicle",
+   "meaning": "A launch vehicle is a rocket that carries a satellite up above the air and gives it sideways speed.",
+   "example": "India's PSLV and LVM3 are launch vehicles. They lift off from Sriharikota in Andhra Pradesh.",
+   "art": "A tall rocket rising from a launch pad beside the sea, with its path bending over towards the east."
+  },
+  {
+   "term": "Space debris",
+   "meaning": "Space debris is anything in orbit that no longer works: dead satellites, used rocket parts and broken pieces.",
+   "example": "A fleck of paint in orbit moves so fast that it can chip a space station window.",
+   "art": "The Earth with many small dots round it, a few of them shown large as broken panels and old rocket parts."
+  },
+  {
+   "term": "Perigee and apogee",
+   "meaning": "Perigee is the point of an orbit nearest to the Earth. Apogee is the point farthest from it.",
+   "example": "A satellite moves fastest at perigee and slowest at apogee.",
+   "art": "A stretched orbit round the Earth with the near point and the far point labelled."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "A satellite is anything that goes round a bigger thing",
+   "status": "defined",
+   "definition": "A satellite is a thing that goes round a bigger thing, held by gravity. A natural satellite was made by nobody. An artificial satellite is built and launched by people.",
+   "description": "The Moon is the Earth's natural satellite. The Earth and the other planets go round the Sun, so they are natural satellites of the Sun. Artificial satellites are machines. In 2025 there were more than 10,000 working ones round the Earth, and more than half belonged to one internet company. A planet and a satellite differ in what they go round: a planet goes round a star, and a moon goes round a planet. Here is a closer look. The Earth does not stay still while the Moon goes round it. Both go round a balance point between them. The Earth has 81 times the Moon's mass, so that point lies inside the Earth, about 1,700 kilometres below the ground. The Earth makes a small circle round it each month.",
+   "examples": [
+    "The Moon is 3,84,400 kilometres away and takes about 27 days to go round the Earth.",
+    "Jupiter has more than 90 known moons, and Saturn has more than 270.",
+    "India's first artificial satellite was Aryabhata, launched on 19 April 1975.",
+    "The Earth is a satellite of the Sun. One trip round takes one year."
+   ],
+   "perspectives": [
+    {
+     "who": "Astronomers who name the worlds (the International Astronomical Union)",
+     "explanation": "The Moon goes round the Earth, so the Moon is the Earth's satellite. The balance point of the two lies inside the Earth, and that settles which one is the satellite."
+    },
+    {
+     "who": "The writer and biochemist Isaac Asimov, in an essay of 1963",
+     "explanation": "The Sun pulls the Moon more than twice as hard as the Earth does. Seen from the Sun, the Moon's path never loops backwards. It always bends towards the Sun. So the Earth and the Moon can also be called a double planet, going round the Sun together."
+    },
+    {
+     "who": "India's astronomers, in the Sanskrit tradition",
+     "explanation": "The old word is graha, which means 'one that seizes'. The Sun and the Moon were both counted as grahas, because both move against the stars. The newer word for a satellite, upagraha, means a companion graha. What we call a thing depends on what we choose to watch."
+    }
+   ],
+   "art": "The Sun with the Earth going round it, the Moon going round the Earth, and a tiny artificial satellite going round the Earth close in.",
+   "context": "This card says what a satellite is. It is here because the word covers the Moon, the Earth and a machine like INSAT."
+  },
+  {
+   "concept": "An orbit is falling round",
+   "status": "defined",
+   "definition": "An orbit is the path of a thing that moves sideways so fast that, as it falls, the ground curves away beneath it. It keeps falling and keeps missing.",
+   "description": "Throw a ball level and it curves down to the ground. Throw it faster and it lands farther away. The Water Cannon shows this with a stream of water. Now think of a very high mountain, above the air. The Earth is round. Over every 8 kilometres, its surface curves down by about 5 metres. A dropped thing falls about 5 metres in its first second. So a thing that moves 8 kilometres sideways every second falls 5 metres, and the ground has also dropped away by 5 metres. It is no closer to the ground than before. This goes on, second after second, all the way round. Isaac Newton drew this picture of a cannon on a mountain. A satellite needs no engine to keep going, because above the air nothing slows it. It needs a rocket only to get up there and to gain its sideways speed. In Orbit in Your Hand, the thread pulled the pouch inwards all the time, and the pouch still never came in. The pull did not shorten the circle. It bent the path.",
+   "examples": [
+    "The space station moves about 7.7 kilometres every second. That is Chennai to Bengaluru in about 40 seconds.",
+    "A satellite with its engine off stays in orbit. Vanguard 1 was launched in 1958 and is still going round, silent since 1964.",
+    "The Moon is in orbit too. It falls towards the Earth by about 1.4 millimetres every second, while it moves 1 kilometre sideways."
+   ],
+   "perspectives": [
+    {
+     "who": "Isaac Newton, in 1687",
+     "explanation": "A moving thing goes straight unless a force acts on it. Gravity is a force that pulls the satellite towards the Earth's centre. That pull bends the straight path into a closed curve."
+    },
+    {
+     "who": "Albert Einstein, in 1915",
+     "explanation": "No force pulls the satellite at all. The Earth's mass bends space and time round it. The satellite moves along the straightest path there is in that bent space and time, and to us the path looks like a circle."
+    },
+    {
+     "who": "Aristotle and most thinkers for about 2,000 years after him",
+     "explanation": "Things in the sky are made of a different, perfect stuff, and circling is simply what that stuff does. Things on the Earth fall. This fitted what people saw, and it was given up only when one rule explained both the falling mango and the circling Moon."
+    }
+   ],
+   "art": "Newton's mountain: the Earth with a tall mountain, and four paths from its top, three landing farther and farther away and the fourth going all the way round.",
+   "context": "This card explains what an orbit is. It comes after your whirling test, and it is the main idea of the lesson."
+  },
+  {
+   "concept": "Too slow, just right, too fast",
+   "status": "defined",
+   "definition": "A thing launched sideways above the air falls back if it is too slow. It orbits if it reaches orbital speed. It never comes back if it reaches escape speed.",
+   "description": "Just above the air, the orbital speed is about 7.8 kilometres every second. Slower than that, the path meets the ground. At that speed, the path is a circle. Faster than that, the thing swings out into a stretched loop called an ellipse and comes back to where it started. Johannes Kepler found in 1609 that the planets move in ellipses. At about 11.2 kilometres every second, the loop never closes. This is the escape speed. The word needs care. A thing that escapes has not left gravity behind, because the Earth's pull never ends. It only grows weaker with distance. Escape means the thing will never fall back. A rocket with its engine running does not have to reach 11.2 kilometres a second near the ground. That number is for a thing thrown with no engine. ISRO used ellipses to save fuel. Chandrayaan-3 and Mangalyaan went round the Earth several times. At the lowest and fastest point of each loop, the engine gave a short push, and the far end of the loop swung farther out. The last push sent the spacecraft away.",
+   "examples": [
+    "A cricket ball hit for six leaves the bat at about 40 metres every second. Orbit needs about 200 times that speed.",
+    "Before leaving for Mars, Mangalyaan's loops reached about 1,93,000 kilometres from the Earth.",
+    "The Moon is a smaller world, and its escape speed is about 2.4 kilometres every second.",
+    "A thing that escapes the Earth is still in orbit round the Sun."
+   ],
+   "perspectives": [],
+   "art": "The Earth with three paths from one launch point: a short curve that lands, a circle, a stretched oval, and an open curve that leaves.",
+   "context": "This card says what speed does to a launched thing. It is here because the same launch can end in three ways.",
+   "one_view": "These speeds are measured and used for every launch, so scientists do not argue about them. The word 'escape' is the part that needs care, and the description explains it."
+  },
+  {
+   "concept": "Higher orbits are slower and take longer",
+   "status": "defined",
+   "definition": "The farther a satellite is from the Earth, the weaker the pull on it, the slower it needs to go, and the longer one trip round takes.",
+   "description": "In Near and Far, the pouch on the short thread went round sooner than the pouch on the long thread. When you added the Earth's own rule, a four times stronger pull at half the distance, it went round much sooner still. Real satellites follow the same pattern. The space station, 400 kilometres up, goes round in about 92 minutes. Navigation satellites of the GPS system, about 20,200 kilometres up, take 12 hours. A satellite 35,786 kilometres above the equator takes one day, so it keeps step with the turning Earth. The Moon, 3,84,400 kilometres away, takes about 27 days. Kepler found the exact rule in 1619 from the planets. Newton showed in 1687 that the rule follows from gravity growing weaker with distance. At twice the distance from the Earth's centre, the pull is one quarter as strong.",
+   "examples": [
+    "The space station moves 7.7 kilometres every second. The Moon moves only about 1 kilometre every second.",
+    "Mercury, close to the Sun, goes round it in 88 days. Neptune, far out, takes about 165 years.",
+    "Jupiter's moon Io, close in, goes round in under 2 days. Callisto, far out, takes almost 17 days."
+   ],
+   "perspectives": [],
+   "art": "The Earth with four orbits drawn at different heights, each labelled with its time for one trip: 92 minutes, 12 hours, 1 day and 27 days.",
+   "context": "This card is about how height changes an orbit. It explains the result of your second whirling test.",
+   "one_view": "The time for one trip is measured for every satellite, moon and planet, and all of them fit Kepler's rule. The one place where the rule seems to fail is the outer parts of galaxies, and that debate has its own card."
+  },
+  {
+   "concept": "Astronauts float because they are falling",
+   "status": "defined",
+   "definition": "Astronauts in orbit feel weightless because they, their station and everything in it fall together. Gravity has not gone away.",
+   "description": "At the height of the space station, each kilogram is pulled with about 8.7 newtons. On the ground it is about 9.8 newtons. So gravity up there is almost nine tenths as strong. If the station stood on a tower 400 kilometres tall, the astronauts would walk about and feel nearly their normal weight. They float because nothing holds them up. The floor falls exactly as fast as their feet, so the floor never pushes on them. The weight you feel is the push of the floor. Scientists call the state in orbit free fall, or microgravity. An astronaut still has all of her mass. A heavy box still takes a hard push to start moving and a hard push to stop. Bodies of humans and other animals are built for the push of the ground. In orbit, bones lose about 1 part in 100 of their strength each month. So astronauts exercise for about two hours every day, strapped down with stretchy cords.",
+   "examples": [
+    "Rakesh Sharma spent almost 8 days in orbit in April 1984, on the Salyut 7 station.",
+    "Sunita Williams ran a full marathon on the space station's treadmill in 2007, held down by cords.",
+    "Shubhanshu Shukla became the first Indian on the International Space Station in June 2025.",
+    "Water in orbit does not pour. It gathers into floating balls."
+   ],
+   "perspectives": [
+    {
+     "who": "Isaac Newton's way of saying it",
+     "explanation": "Gravity pulls the astronaut down with almost her full weight. She feels nothing because no floor pushes back. Her weight is still there, and only the feeling of it has gone."
+    },
+    {
+     "who": "Albert Einstein, who called this his happiest thought, in 1907",
+     "explanation": "A person in free fall feels no force because no force acts on her. She is the one at rest. The person standing on the ground is the one being pushed, upwards, by the floor, every moment."
+    },
+    {
+     "who": "Doctors who look after astronauts",
+     "explanation": "For the body, what matters is the missing push. Bones, muscles, the heart and the balance sensors in the ear all change in orbit, whatever name we give the state."
+    }
+   ],
+   "art": "An astronaut floating inside a station, with one arrow from her towards the Earth labelled gravity and no arrow from the floor.",
+   "context": "This card explains why astronauts float. It is here because many books say there is no gravity in space, and that is not true."
+  },
+  {
+   "concept": "The Moon is falling too, and it pulls back",
+   "status": "defined",
+   "definition": "The Moon is in free fall round the Earth, held by the same gravity that pulls a mango down. The Moon's gravity pulls on the Earth too, and that makes the tides.",
+   "description": "The Moon is about 60 times as far from the Earth's centre as you are. Gravity grows weaker with distance: at 60 times the distance it is 60 times 60, or 3,600 times, weaker. A mango falls about 5 metres in its first second. Divide that by 3,600 and you get about 1.4 millimetres. That is how far the Moon falls towards the Earth each second, and it is just enough to keep bending its path into an orbit. Newton did this sum and found that it matched. The Moon pulls the near side of the Earth a little harder than the far side. This stretches the oceans into two bulges, and the turning Earth carries each coast through them. That is why most coasts have two high tides a day. The tides also slowly push the Moon outwards. It moves away from us by about 3.8 centimetres every year.",
+   "examples": [
+    "Scientists bounce laser light off mirrors left on the Moon and time its return. Chandrayaan-3's lander carries one such mirror.",
+    "At Chandipur in Odisha, the sea goes out by up to 5 kilometres at low tide and comes back at high tide.",
+    "The same side of the Moon always faces us, because the Earth's pull slowed the Moon's spin long ago."
+   ],
+   "perspectives": [],
+   "art": "The Earth and the Moon, with the Moon's straight-ahead path drawn as a dotted line and a small arrow showing its fall towards the Earth.",
+   "context": "This card is about the Earth's natural satellite. It is here because the Moon was the first test of the idea that an orbit is a fall.",
+   "one_view": "The Moon's distance, its fall and its drift outwards are measured directly with lasers, and scientists do not offer another reading of them. How the Moon first formed is not settled, and it is among the open questions."
+  },
+  {
+   "concept": "Kinds of orbit and the jobs they do",
+   "status": "defined",
+   "definition": "Engineers choose an orbit for the job. Low orbits give sharp pictures. A polar orbit covers the whole Earth. A geostationary orbit watches one side of the Earth all the time.",
+   "description": "A satellite in low Earth orbit is close, so its cameras see small things, such as a single road. But it rushes past a town in a few minutes. A low satellite in a polar orbit goes over the poles while the Earth turns below, so it sees every place, strip by strip. India's Resourcesat, Cartosat and Oceansat work this way. They map crops, floods, forests and the colour of the sea. A geostationary satellite is 35,786 kilometres up, above the equator. It goes round once a day, so it stays over one spot. It sees about a third of the Earth all the time, though with less detail. INSAT and GSAT satellites there carry television and telephone signals and watch the weather. This is why a dish on a roof never has to turn. Navigation satellites tell a phone where it is. The phone needs signals from at least four of them. India's system is called NavIC.",
+   "examples": [
+    "INSAT-3DS, launched in February 2024, takes a picture of the clouds over India every half hour or sooner.",
+    "Fishers along the coast get messages on where fish are likely to be, made in Hyderabad from Oceansat's pictures of the sea.",
+    "In October 2013, satellites tracked Cyclone Phailin for days. About ten lakh people in Odisha and Andhra Pradesh moved to safety in time.",
+    "From anywhere in India, dishes point to the southern half of the sky, because geostationary satellites sit above the equator."
+   ],
+   "perspectives": [],
+   "art": "The Earth with three labelled orbits: a low ring over the poles, a ring of navigation satellites in the middle, and a single satellite far above the equator.",
+   "context": "This card is about the orbits satellites use. It is here so you can link each job, such as weather or maps, to the orbit that suits it.",
+   "one_view": "These orbits are engineering choices, and anyone can check them by tracking the satellites. The arguments are about how a crowded sky should be shared, and that has its own card."
+  },
+  {
+   "concept": "Getting up there: rockets",
+   "status": "defined",
+   "definition": "A rocket throws hot exhaust out of its back at great speed, and that pushes the rocket forward. It lifts a satellite above the air, then tips over to give it sideways speed.",
+   "description": "Reaching space is the smaller part of a rocket's work. Space begins only about 100 kilometres up. The larger part is reaching 7.8 kilometres every second sideways. So a rocket goes straight up for only a short time, and then it leans over and speeds along above the sea. A rocket must carry all its fuel with it, and also the oxygen to burn it. About nine tenths of a rocket's mass at lift-off is fuel and oxygen. To save mass, a rocket is built in stages. Each stage drops away when it is empty. The Earth helps a little. The ground at Sriharikota moves east at about 450 metres every second as the Earth spins. A rocket launched towards the east starts with that speed. This is one reason India's launch site is on the east coast, with the Bay of Bengal under the rocket's path.",
+   "examples": [
+    "India's first rocket rose from Thumba, a fishing village in Kerala, on 21 November 1963. Its parts came to the launch pad by bicycle.",
+    "PSLV, the Polar Satellite Launch Vehicle, has four stages. LVM3 carried Chandrayaan-3 in July 2023.",
+    "Mysore's army under Hyder Ali and Tipu Sultan used rockets with iron cases in the 1780s and 1790s. They flew farther than any rockets in Europe at that time.",
+    "The Russian teacher Konstantin Tsiolkovsky worked out in 1903 how much fuel a rocket needs to reach orbit."
+   ],
+   "perspectives": [],
+   "art": "A rocket's path from a launch pad on the coast, going up, bending over the sea and dropping two used stages, with the satellite released level at the top.",
+   "context": "This card is about how a satellite gets its speed. It is here because a rocket's main job is sideways speed, not height.",
+   "one_view": "How a rocket works is tested at every launch, and engineers agree on it. Other ways to reach orbit, such as a cable from the ground, are still only designs on paper."
+  },
+  {
+   "concept": "India's road to orbit, the Moon and Mars",
+   "status": "defined",
+   "definition": "India built its space programme to serve people on the ground first: weather warnings, television for villages, maps and telephones. Later it went to the Moon, Mars and the Sun.",
+   "description": "Vikram Sarabhai began the work in 1962, and ISRO was formed on 15 August 1969. Aryabhata, India's first satellite, was built in sheds at Peenya in Bengaluru by a team led by U. R. Rao. A Soviet rocket launched it on 19 April 1975. On 18 July 1980, India's own rocket, SLV-3, put the Rohini satellite into orbit from Sriharikota. A. P. J. Abdul Kalam led that rocket's team. INSAT-1B, launched in 1983, began the INSAT system for television, telephones and weather. Chandrayaan-1 went into orbit round the Moon in 2008 and helped to find water on the Moon. Mangalyaan left for Mars on 5 November 2013 and went into orbit there on 24 September 2014, at India's first try. Chandrayaan-3 landed near the Moon's south pole on 23 August 2023. Aditya-L1 reached its place for watching the Sun in January 2024. Thousands of people did this work, and many who led it were women.",
+   "examples": [
+    "Ritu Karidhal and Nandini Harinath helped to run Mangalyaan's flight. B. P. Dakshayani led the team that worked out its path. Moumita Dutta and Minal Rohit built its instruments.",
+    "M. Vanitha was project director of Chandrayaan-2, and Ritu Karidhal was its mission director.",
+    "N. Valarmathi from Ariyalur in Tamil Nadu led the radar satellite RISAT-1. T. K. Anuradha led the communication satellite GSAT-12.",
+    "Nigar Shaji from Sengottai in Tamil Nadu led Aditya-L1. Kalpana Kalahasti was associate project director of Chandrayaan-3.",
+    "The fishing families of Thumba and their bishop, Peter Bernard Pereira, gave their church and land for the first rocket station."
+   ],
+   "perspectives": [
+    {
+     "who": "Vikram Sarabhai, who founded the programme",
+     "explanation": "Some people ask why a developing country should work in space. Sarabhai answered that India was not racing anyone to the Moon. It had to be second to none in using the newest tools for the real problems of people and society."
+    },
+    {
+     "who": "The economist Jean Drèze, speaking about the Mars mission in 2013",
+     "explanation": "A country where many children are underfed should put food, health and schools first. A Mars mission looks like a wish to be seen as a great power."
+    },
+    {
+     "who": "People on the coast who use the satellites",
+     "explanation": "For a fisher who gets a cyclone warning two days early, or a village that got its first television lessons by satellite in 1975, space work is not about pride. It is a tool they use."
+    }
+   ],
+   "art": "A timeline with five pictures: a rocket nose on a bicycle at Thumba, the many-sided Aryabhata, an INSAT dish in a village, Mangalyaan near Mars, and the Chandrayaan-3 lander on the Moon.",
+   "context": "This card tells how India reached orbit and went beyond. It is here because the usual telling names a few men and leaves out many of the people who did the work."
+  },
+  {
+   "concept": "A crowded sky: space debris and bright satellites",
+   "status": "debated",
+   "definition": "Low Earth orbit is filling with satellites and with debris. People disagree about how many it can hold safely, and about who should decide.",
+   "description": "Everything in low orbit moves at about 7 to 8 kilometres every second. At that speed, a loose bolt hits as hard as a speeding lorry. Radars track about 40,000 objects more than 10 centimetres across, and there are far more small pieces. On 10 February 2009, a working satellite and a dead one crashed into each other for the first time and made thousands of new pieces. Very low orbits clean themselves. A trace of air still reaches a few hundred kilometres up. It slows low satellites, and they sink and burn up. The space station sinks about 2 kilometres a month and must be pushed back up. Higher orbits keep their debris for hundreds of years. Satellites also reflect sunlight. Thousands of them leave streaks across astronomers' pictures, and they change the night sky that every being on the Earth has always had.",
+   "examples": [
+    "Aryabhata sank slowly and burned up in February 1992, almost 17 years after its launch.",
+    "In March 2019, India tested a weapon on its own satellite, about 300 kilometres up. Most of the pieces fell within months because the orbit was so low.",
+    "ISRO moves its satellites out of the way of debris many times each year.",
+    "Dung beetles steer by the band of the Milky Way, and many birds that fly at night steer by the stars."
+   ],
+   "perspectives": [
+    {
+     "who": "Donald Kessler, a NASA scientist, in 1978",
+     "explanation": "Past a certain crowding, each crash makes pieces that cause more crashes. The debris then grows by itself, even if nobody launches anything more. Some orbits could become unusable."
+    },
+    {
+     "who": "Companies that fly thousands of internet satellites",
+     "explanation": "Their satellites fly low, steer round debris by themselves, and burn up within about five years when they stop working. They bring the internet to villages, ships and mountains that cables never reach."
+    },
+    {
+     "who": "Astronomers, through the International Astronomical Union",
+     "explanation": "Bright satellites spoil pictures of the sky and drown faint radio signals from space. The dark and quiet sky belongs to everyone and needs rules to protect it."
+    },
+    {
+     "who": "Sky-watching peoples and scientists who study other animals",
+     "explanation": "Many peoples keep calendars, stories and sea routes in the stars. Night-flying birds, moths and dung beetles steer by the sky too. Nobody asked any of them before the sky was changed."
+    }
+   ],
+   "art": "The Earth ringed by many small dots, with a telescope picture below it crossed by bright streaks.",
+   "context": "This card is about the crowding of low orbit. It is here because it is a live argument, and your generation will have to settle it."
+  },
+  {
+   "concept": "How far does gravity reach, and what is it?",
+   "status": "idea",
+   "definition": "Gravity has no edge. The Earth's pull grows weaker with distance, and it never becomes zero. What gravity is, deep down, is still being worked out.",
+   "description": "Here is what we know so far. Every thing with mass pulls every other thing. The pull between two things grows with their masses and falls quickly with distance. This rule, from Newton, is good enough to fly a spacecraft to Mars. Newton himself said he did not know how the pull crosses empty space. Einstein gave a deeper picture in 1915: mass bends space and time, and things move along the bends. That picture explains small things Newton's rule gets wrong, such as the slow turning of Mercury's orbit. It is used every day, because clocks on navigation satellites run faster than clocks on the ground by about 38 millionths of a second each day, and the system must correct for that. In 2015, detectors caught ripples in space and time from two black holes that fell together. A detector of this kind is being built at Aundha in Maharashtra. What is still missing is how gravity fits with the rules of the smallest particles.",
+   "examples": [
+    "The Sun's gravity holds comets that are a thousand times farther away than Neptune.",
+    "Our whole galaxy is held together by gravity. The Sun takes about 23 crore years to go once round its centre.",
+    "The Voyager spacecraft, launched in 1977, are still slowing down a little because the Sun still pulls on them."
+   ],
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Gravity is a pull between any two masses, across any distance. Newton gave the rule for its strength. He refused to guess at its cause."
+    },
+    {
+     "who": "Albert Einstein",
+     "explanation": "Gravity is the shape of space and time. Mass bends them, and that bend tells things how to move."
+    },
+    {
+     "who": "Brahmagupta of Bhinmal, in 628 CE",
+     "explanation": "It is the nature of the Earth to attract and hold things, as it is the nature of water to flow. The scholar al-Biruni reported this view of his about 400 years later."
+    },
+    {
+     "who": "Physicists who work on quantum gravity today",
+     "explanation": "At the smallest scales, gravity should come in tiny packets, like light does. Nobody has detected such a packet, and no one theory of it is agreed."
+    }
+   ],
+   "art": "The Earth sitting in a bent grid of lines, with a satellite following a curved line of the grid round it.",
+   "context": "This card is about gravity itself. It is here because an orbit is gravity's work, and nobody yet knows fully what gravity is."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The oldest machine still circling above us has been silent for sixty years.",
+   "evidence": "Vanguard 1 has been in orbit since 17 March 1958. Its radio went silent in 1964, and it is still tracked today by radar."
+  },
+  {
+   "text": "Orbits low enough to touch the thin upper air do not last.",
+   "evidence": "The Skylab station sank and broke up over the Indian Ocean and Australia on 11 July 1979. Aryabhata burned up in February 1992. The space station is boosted several times a year."
+  },
+  {
+   "text": "Water on the Moon was first mapped by a spacecraft circling overhead, and no lander was needed.",
+   "evidence": "In 2009, an instrument on Chandrayaan-1 read the sunlight bouncing off the Moon's soil and found the mark of water in it. Chandrayaan-1's own probe, dropped near the south pole in November 2008, had sensed water on its way down."
+  },
+  {
+   "text": "Thousands of planets circling distant stars keep Kepler's timing.",
+   "evidence": "The moons of Jupiter and Saturn, and thousands of planets found round other stars, all fit the rule that links distance and time for one trip."
+  },
+  {
+   "text": "Things of different mass share the same orbit at the same speed.",
+   "evidence": "An astronaut, a spanner and a 400-tonne station move round together. In 1971 on the Moon, David Scott dropped a hammer and a feather, and they landed together."
+  },
+  {
+   "text": "A star wobbles when a planet circles it, and that wobble is how many planets were discovered.",
+   "evidence": "In 1995, Michel Mayor and Didier Queloz saw the star 51 Pegasi swing to and fro every 4 days. A planet and the star were circling a balance point between them, as the Earth and the Moon do."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Astronauts float because they are too far from the Earth for gravity to reach them.",
+   "who": "Many films, toy boxes and older school books",
+   "for": "Astronauts do float, and on the ground nothing floats. Space also looks very far away, so it seems natural that gravity runs out before it.",
+   "against": "The station is only 400 kilometres up, and gravity there is almost nine tenths of its strength on the ground. Without gravity, the station would fly off in a straight line and never come round again. Astronauts float because they fall together with the station.",
+   "status": "rejected",
+   "context": "This card is about the most common wrong idea about orbits. It is here so that you can say what is true instead."
+  },
+  {
+   "claim": "A satellite needs its engine running to stay in orbit.",
+   "who": "A common belief, because every vehicle on the Earth needs an engine to keep going",
+   "for": "A car, a boat and an aeroplane all slow down and stop when the engine stops. On the Earth, friction and air are always there.",
+   "against": "Above the air, almost nothing slows a satellite. The Moon has had no engine for more than 400 crore years. Satellites use small engines only to change orbit, or to make up for the thin air that reaches low orbits.",
+   "status": "rejected",
+   "context": "This card is about engines in orbit. It is here because what is true on a road is not true above the air."
+  },
+  {
+   "claim": "Aryabhata taught, in 499 CE, that the Earth and the planets go round the Sun.",
+   "who": "The mathematician B. L. van der Waerden, and some popular books in India",
+   "for": "Aryabhata said plainly that the Earth spins, and that the stars only seem to move. Some of the numbers in his planet tables match the planets' trips round the Sun.",
+   "against": "In his book the planets, the Sun and the Moon all go round the Earth. Most historians of Indian astronomy, such as Kim Plofker, read his numbers as part of an Earth-centred model. A spinning Earth is a different idea from an Earth in orbit.",
+   "status": "minority",
+   "context": "This card is about what Aryabhata really wrote. It is here because praise that goes past the evidence does not honour him."
+  },
+  {
+   "claim": "The stars at the edges of galaxies go round too fast for Newton's rule, so the rule for gravity must be changed when the pull is very weak.",
+   "who": "The physicist Mordehai Milgrom, since 1983, and a small group of astronomers",
+   "for": "Vera Rubin and Kent Ford found in the 1970s that the outer stars of galaxies do not slow down with distance, as the planets do. Milgrom's changed rule predicts the speeds in most galaxies from the visible stars alone.",
+   "against": "Most astronomers keep the rule and say there is unseen matter, called dark matter, adding its pull. Pictures of colliding clusters of galaxies and the oldest light in the universe fit dark matter better. But nobody has caught a particle of dark matter.",
+   "status": "minority",
+   "context": "This card is about orbits of stars in galaxies. It is here because it is the one place where the rule for orbits may be incomplete."
+  },
+  {
+   "claim": "A country with many poor people should not spend money on space.",
+   "who": "The economist Jean Drèze and other writers, about the Mars mission of 2013",
+   "for": "Money is limited, and children's food, health and schools are urgent. Mangalyaan cost about 450 crore rupees.",
+   "against": "Weather and cyclone satellites have saved many thousands of lives, and satellites serve farmers, fishers and schools every day. The Mars mission cost each Indian about 4 rupees. But the benefit of a Moon or Mars mission is harder to count than the benefit of a weather satellite.",
+   "status": "debated",
+   "context": "This card is about whether space work is worth its cost. It is here because people who care about India disagree on it."
+  },
+  {
+   "claim": "Low orbit can safely hold tens of thousands more satellites.",
+   "who": "Companies building satellite internet, and some space agencies",
+   "for": "Low orbits clean themselves through the drag of the thin air. New satellites steer away from danger by themselves. No runaway chain of crashes has happened so far.",
+   "against": "Kessler's sums say crowding can pass a tipping point without warning. One failed satellite cannot steer. Astronomers and sky-watching peoples already count a cost, and no single body has the power to set a limit.",
+   "status": "debated",
+   "context": "This card is about how full the sky should get. It is here because the answer is being decided now."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The space station falls all the time and never lands. Is it falling, or is it staying up?",
+   "kind": "deep",
+   "hint": "Think about what you mean by each word. Does falling have to end on the ground?"
+  },
+  {
+   "q": "In your whirling test, the thread pulled the pouch inwards, and the pouch never came inwards. What did the pull do, then?",
+   "kind": "deep",
+   "hint": "Remember the Wall with a Gap. What did the marble do when the wall stopped pushing?"
+  },
+  {
+   "q": "An astronaut feels no weight in orbit, and you feel no pull as you fall round the Sun. Can you ever feel gravity itself?",
+   "kind": "deep",
+   "hint": "Ask what you really feel when you stand, sit or jump."
+  },
+  {
+   "q": "If the Earth's pull never ends, where does the Earth stop and space begin?",
+   "kind": "deep",
+   "hint": "Try to find a place for the line: the top of the air, the Moon's orbit, or nowhere."
+  },
+  {
+   "q": "The same rule moves a mango, the Moon and a galaxy. Why should one rule work everywhere?",
+   "kind": "big",
+   "hint": "Imagine a universe with one rule for the ground and another for the sky. How would it look different?"
+  },
+  {
+   "q": "Who should decide how many satellites fill the night sky?",
+   "kind": "big",
+   "hint": "List everyone who uses the sky: fishers, astronomers, phone users, birds, children not yet born."
+  },
+  {
+   "q": "Is sending a spacecraft to Mars a good use of a country's money and minds?",
+   "kind": "big",
+   "hint": "Think of what is gained that can be counted, and what cannot be counted."
+  },
+  {
+   "q": "The Moon moves away by the width of two fingers every year. Does the Earth still own the Moon, or did it ever?",
+   "kind": "big",
+   "hint": "Remember that the Sun pulls the Moon harder than the Earth does."
+  }
+ ],
+ "story": {
+  "title": "The Rocket That Leaned Over",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "A made-up story. Selvi, Arul, Paatti and Mariam are imagined. These things are real: rockets rise from Sriharikota island, people watch them from Pazhaverkadu across the lake, the sea under the rocket's path is closed to boats on launch days, and every rocket leans over soon after lift-off.",
+  "text": [
+   "On launch days, nobody in Pazhaverkadu went to sea. The notice had come three days before. The water under the rocket's path was closed until evening. So the boats lay in a row on the sand, and Selvi's grandmother, Paatti, had no catch to dry.",
+   "Selvi was eleven. Her cousin Arul was eight, and he had come all the way from Madurai to see the rocket. The two of them sat on an upturned boat beside Paatti and looked north across the lake, to the long green line of Sriharikota island.",
+   "\"Mariam akka is over there,\" said Selvi. Mariam lived two doors away. She was a technician at the spaceport, and she checked the pipes that fill the rocket. \"She won't even see it go. She'll be indoors, watching numbers.\"",
+   "\"How high will it go?\" asked Arul.",
+   "\"This one is taking a satellite about 500 kilometres up.\"",
+   "Arul worked it out on his fingers. \"That's like here to Madurai.\"",
+   "\"Nearly the same,\" said Selvi.",
+   "\"Then space is not far at all! I came that far on a bus!\"",
+   "\"Paatti's sister in Kochi lives farther away than space,\" said Selvi, and Paatti snorted.",
+   "A light came first, low on the island, brighter than a welding torch. There was no sound for a long time. Then the sound arrived all at once, a rumble that Arul felt in his chest. The rocket rose on a white pillar, straight up.",
+   "Then it leaned.",
+   "Arul jumped to his feet. \"It's tipping over! Akka, it's going wrong! It will fall in the sea!\"",
+   "\"It leans every time, kanna,\" said Paatti. \"I have watched thirty of them lean. Ask her why. I only know that they do.\"",
+   "Selvi picked up a flat pebble and put it in Arul's hand. \"Throw this out over the water. Level, not up.\"",
+   "He threw. The pebble curved down and went in with a plop, a few boat-lengths out.",
+   "\"Harder.\"",
+   "He threw another one with his whole body. It curved down and went in, twice as far out.",
+   "\"Mariam akka made me do this last year until my arm hurt,\" said Selvi. \"What did the second pebble do that the first one didn't?\"",
+   "\"Nothing. It just went farther before it came down.\"",
+   "\"So both of them fell. But the faster one landed farther off. Now look at the far edge of the sea. When a boat comes home, what do you see first?\"",
+   "Arul knew this one. \"The top of the mast. Then the rest.\"",
+   "\"Because the sea is not flat. It bends away from us. So think. If you could throw a pebble so hard that the sea bent away under it as fast as the pebble dropped...\"",
+   "Arul stood very still. \"It would never reach the water.\"",
+   "\"It would keep on falling, right round the world, and hit you on the back of the head.\" Selvi pointed at the bent white trail. \"That is what the rocket is doing. Going up is the small part. It has to throw the satellite sideways, nearly 8 kilometres every second. So it leans over and runs.\"",
+   "\"Then the satellite is falling?\"",
+   "\"The whole time. It falls and it misses.\"",
+   "Paatti had been listening with her eyes on the sky. \"Then tell me this,\" she said. \"When your grandfather's anchor fell from the boat, it went down and it stopped at the bottom. Things that fall, land. That is what falling means.\"",
+   "Selvi opened her mouth and shut it again. Mariam akka had never said anything about that. \"Maybe landing is not a part of falling, Paatti,\" she said slowly. \"Maybe landing is only the ground getting in the way.\"",
+   "Paatti did not say yes or no. The trail was a thin scratch now, bent by the high winds, and the spark at its tip went out over the Bay of Bengal.",
+   "Mariam came home after dark, tired and smiling. The satellite was in its orbit, she said, and its rocket had been switched off for hours. They all went down to the sand. A steady point of light was crossing among the stars, with no sound and no flame.",
+   "\"That is one,\" said Mariam. \"It isn't ours. Ours is too small to see tonight. But it is doing the same thing.\"",
+   "\"With its engine off?\" said Arul. \"What keeps it going?\"",
+   "\"What is up there to stop it?\" said Mariam.",
+   "Arul watched the light until it faded. The Moon was coming up over the lake, orange and slow. He looked at it for a while.",
+   "\"Akka. Is the Moon falling too?\"",
+   "\"What do you think?\" said Mariam.",
+   "He did not answer. After a minute he said, more quietly, \"And us? Is the Earth falling round the Sun?\"",
+   "Nobody spoke. Paatti pressed her palm flat on the cool sand. \"Sixty-eight years I have sat on this beach,\" she said, \"and I thought I was sitting still.\""
+  ],
+  "epiphany": "For the parent: both pebbles fell, and the faster one only landed farther away. On a round Earth, a thing thrown fast enough falls for ever without landing. That is an orbit, and it is why a rocket leans over to gain sideways speed. Paatti's question is left open on purpose. Ask your child what they think falling means.",
+  "ask": [
+   "Paatti says that things that fall, land. Selvi says landing is only the ground getting in the way. Who do you agree with, and why?",
+   "Why does a rocket lean over instead of going straight up all the way?",
+   "The satellite's engine was off, and it kept going. What would stop a boat whose engine is off? Why is orbit different?",
+   "Arul asks whether the Moon is falling. What would you tell him, and how would you show it?",
+   "Paatti thought she was sitting still. Was she? What would you need to know to decide?"
+  ],
+  "art": [
+   "A row of fishing boats pulled up on the sand beside a wide lake, with a girl, a younger boy and a grandmother sitting on an upturned boat and looking at a far green island.",
+   "A rocket rising on a white trail from the far island, the trail starting to bend over towards the sea, and the boy jumping to his feet and pointing.",
+   "The boy throwing a flat pebble level out over the water while the girl watches, with two splash marks at different distances.",
+   "The girl pointing at the far edge of the sea, where only the mast of a distant boat shows above the water.",
+   "Four people on dark sand looking up at a single steady point of light crossing the stars, with an orange Moon rising over the lake."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Falls Back, Orbits or Escapes? The launch card game",
+   "mins": 20,
+   "players": [
+    "alone",
+    "2 players",
+    "3 players",
+    "4 players"
+   ],
+   "context": "This is a card game about what speed does to a launched thing. Each card describes a real or imagined launch. You decide whether the thing falls back, stays in orbit or escapes, and you give your reason.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 launch cards to cut out (the answer is on the back)",
+     "items": [
+      {
+       "f": "A batter hits a six. The ball leaves the bat at 40 metres every second.",
+       "b": "FALLS BACK. Orbit near the ground needs about 7,900 metres every second. The ball has about one two-hundredth of that."
+      },
+      {
+       "f": "A satellite is 300 kilometres up, above the air, moving sideways at 7.7 kilometres every second.",
+       "b": "ORBITS. It falls all the time, and the ground curves away just as fast."
+      },
+      {
+       "f": "A rocket goes straight up to 300 kilometres. It has no sideways speed. Its engine stops.",
+       "b": "FALLS BACK. Height alone does not make an orbit. Without sideways speed it comes straight down."
+      },
+      {
+       "f": "The space station's engines stay switched off for one whole day.",
+       "b": "ORBITS. A satellite needs no engine to keep going, because almost nothing slows it."
+      },
+      {
+       "f": "An astronaut outside the space station lets go of a spanner.",
+       "b": "ORBITS. The spanner already has the station's speed, so it goes on circling the Earth beside her."
+      },
+      {
+       "f": "A spacecraft just above the air moves away from the Earth at 12 kilometres every second.",
+       "b": "ESCAPES. Escape speed is about 11.2 kilometres every second. It will not fall back to the Earth. It is still in orbit round the Sun."
+      },
+      {
+       "f": "The Moon moves at about 1 kilometre every second, 3,84,400 kilometres from the Earth.",
+       "b": "ORBITS. So far out, the Earth's pull is weak, and 1 kilometre every second is the right speed for a circle."
+      },
+      {
+       "f": "A dead satellite is 200 kilometres up, where a trace of air still drags on it. Think about the next few months.",
+       "b": "FALLS BACK. The thin air slows it, so it sinks into thicker air and burns up. A player who says ORBITS, for now, has a fair point too."
+      },
+      {
+       "f": "A bullet leaves a gun on a mountain top, level, at 1 kilometre every second.",
+       "b": "FALLS BACK. It lands a few kilometres away. It needs almost 8 times that speed, and it needs to be above the air."
+      },
+      {
+       "f": "A thing just above the air moves sideways at 9 kilometres every second.",
+       "b": "ORBITS. It is too fast for a circle and too slow to escape. It swings out on a stretched loop, an ellipse, and comes back."
+      },
+      {
+       "f": "Mangalyaan fires its engine near the Earth for the last time, on 1 December 2013, and passes escape speed.",
+       "b": "ESCAPES. It left the Earth for good and went into orbit round the Sun, on a path that met Mars ten months later."
+      },
+      {
+       "f": "A satellite in orbit is stopped dead, so that it has no sideways speed at all.",
+       "b": "FALLS BACK. Gravity was pulling it the whole time. Without sideways speed, nothing makes it miss."
+      },
+      {
+       "f": "A weather satellite is 35,786 kilometres above the equator, moving at 3 kilometres every second.",
+       "b": "ORBITS. It goes round once a day, in step with the turning Earth, so it stays above one place."
+      },
+      {
+       "f": "An astronaut on the space station throws a ball backwards at 10 metres every second.",
+       "b": "ORBITS. The ball still moves forwards at about 7,650 metres every second. It goes into an orbit a little lower than the station's."
+      },
+      {
+       "f": "The Earth moves at 30 kilometres every second, 15 crore kilometres from the Sun.",
+       "b": "ORBITS. It orbits the Sun. At the Earth's distance, escaping from the Sun needs about 42 kilometres every second."
+      },
+      {
+       "f": "Voyager 1 is far beyond the planets, moving away from the Sun at 17 kilometres every second.",
+       "b": "ESCAPES. So far out, the Sun's pull is weak, and 17 kilometres every second is more than enough to leave it for good."
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "3 sign cards for each player: FALLS BACK, ORBITS, ESCAPES",
+     "items": [
+      "FALLS BACK",
+      "ORBITS",
+      "ESCAPES"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the launch cards and put them in a pile, question side up. Each player takes a set of 3 sign cards.",
+    "One player reads the top card aloud. Everyone thinks for 10 seconds.",
+    "On the count of three, every player holds up one sign card.",
+    "Turn the card over and read the answer and the reason. A player scores 1 point for the right sign.",
+    "Any player may then give a reason in their own words, for the answer on the card or for a different one. A reason the other players accept scores 1 more point.",
+    "After 16 cards, the player with the most points wins.",
+    "Playing alone: score 1 point for each right sign. Try to reach 12 out of 16, then play again."
+   ],
+   "setup": [
+    {
+     "art": "Sixteen cut-out cards in a pile on a table with three sign cards in front of each of two players.",
+     "caption": "1. Cut out the launch cards and the sign cards. Make a pile."
+    },
+    {
+     "art": "Two players each holding up one sign card, one reading ORBITS and one reading FALLS BACK.",
+     "caption": "2. Read a card, think, and hold up a sign together."
+    },
+    {
+     "art": "A turned-over card showing its answer, and a score sheet with tally marks.",
+     "caption": "3. Turn the card over, read the reason, and score."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the 16 launch cards. 2. Cut out 3 sign cards for each player. 3. Shuffle the launch cards. 4. Put them in a pile, question side up.",
+     "say": "Each card is a launch. We decide whether the thing falls back, stays in orbit or escapes. Two numbers help: about 8 kilometres every second to orbit near the Earth, and about 11 to escape.",
+     "kid": "Cut out the cards and the signs. Shuffle the launch cards. Put them in a pile.",
+     "adult": true,
+     "context": "This is step 1 of Falls Back, Orbits or Escapes. Here you set up the cards."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "1. Read the top card aloud. 2. Count to ten. 3. Show your signs together. 4. Turn the card over and read the back. 5. Score the signs and the reasons. 6. Go on until the pile is finished.",
+     "say": "Before we turn it over, tell me your reason. Is the thing above the air? Does it have sideways speed? Is the speed enough?",
+     "kid": "Read a card. Think. Show your sign. Turn the card over. Score your points.",
+     "parent": "The card about the dead satellite 200 kilometres up has two fair answers. Give the reason point to any player who defends one of them well.",
+     "context": "This is step 2 of Falls Back, Orbits or Escapes. Here you play through the 16 cards."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Add up the points. 2. Each player picks the card that surprised them most and says why.",
+     "say": "Which card did most of us get wrong? What did we forget when we chose?",
+     "kid": "Add up the points. Pick the card that surprised you most. Say why.",
+     "think": "Make up a seventeenth card of your own. Which sign is its answer?",
+     "context": "This is step 3 of Falls Back, Orbits or Escapes. Here you count the points and talk about the surprises."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Orbit in Your Hand: does a stronger pull need a faster circle?",
+   "mins": 30,
+   "days": 1,
+   "context": "In this experiment you whirl a small pouch of rice in a circle on a thread. A hanging load of rice pulls the pouch inwards, as gravity pulls a satellite. You find out how the time for ten rounds changes when the pull grows.",
+   "question": "A pouch circles on a thread, pulled inwards by a hanging load. When the load is 2 times and 4 times as heavy, how does the time for ten rounds change?",
+   "predict": "Guess first. With twice the load, will ten rounds take more time, less time or the same? What about four times the load? Say why you think so, and write it down.",
+   "fair_test": "Only the load changes: 1, 2 and then 4 load pouches. The satellite pouch, the length of thread, the person whirling and the person timing stay the same. Time ten rounds three times for each load, because one try can be a fluke.",
+   "results_table": [
+    "Load pouches hanging",
+    "Try 1: time for 10 rounds (s)",
+    "Try 2 (s)",
+    "Try 3 (s)",
+    "Middle time (s)"
+   ],
+   "materials": [
+    {
+     "item": "strong smooth thread, 130 centimetres long: nylon thread, dental floss, or polyester sewing thread used double",
+     "qty": 1,
+     "buy": "b-thread"
+    },
+    {
+     "item": "an empty ball-pen barrel, with the refill and the end cap taken out, so that both ends are open and smooth",
+     "qty": 1
+    },
+    {
+     "item": "raw rice, about one and a half cups, and a tablespoon",
+     "qty": 1
+    },
+    {
+     "item": "5 small thin plastic bags, or 5 corners from larger bags",
+     "qty": 1
+    },
+    {
+     "item": "2 paper clips and some sticky tape",
+     "qty": 1
+    },
+    {
+     "item": "a ruler or measuring tape, a pen, and scissors",
+     "qty": 1
+    },
+    {
+     "item": "a phone stopwatch, or a clock that shows seconds",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Whirl only the soft pouch of rice, never a hard thing. Stand in the middle of a clear space, with everyone else at least 2 metres away or sitting on the floor. Switch off the ceiling fan, and keep away from lights and shelves. Check the knots before every run. The rice stays clean inside the bags, so cook it afterwards as usual.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Make the pouches and the whirler. Practise. Time ten rounds with 1, 2 and 4 load pouches. Write what you think, what you saw and why."
+    }
+   ],
+   "record": "Fill in the table. For each load, circle the middle one of the three times. Write three lines: what I think, what I saw, and why.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example results: middle time for 10 rounds",
+    "x": "Load pouches hanging",
+    "y": "Time for 10 rounds (s)",
+    "data": [
+     {
+      "label": "1 pouch",
+      "value": 10.4
+     },
+     {
+      "label": "2 pouches",
+      "value": 7.6
+     },
+     {
+      "label": "4 pouches",
+      "value": 5.3
+     }
+    ],
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+   },
+   "setup": [
+    {
+     "art": "A small knotted plastic pouch of rice tied to a thread, and four larger knotted pouches of rice beside a tablespoon.",
+     "caption": "1. Make one satellite pouch with 2 spoons of rice and four load pouches with 4 spoons each."
+    },
+    {
+     "art": "A thread running down through an open pen barrel, with the small pouch at the top end and a paper-clip hook at the bottom end.",
+     "caption": "2. Pass the thread through the pen barrel. Tie a paper-clip hook at the free end."
+    },
+    {
+     "art": "A child holding the pen barrel upright above her head and whirling the small pouch in a level circle, with one load pouch hanging below her hand.",
+     "caption": "3. Whirl the satellite pouch in a level circle above your head."
+    },
+    {
+     "art": "A close view of the bottom of the barrel with a paper clip on the thread 2 centimetres below it, and a helper holding a phone stopwatch.",
+     "caption": "4. Keep the marker clip steady just below the barrel while a helper times ten rounds."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Cut 130 centimetres of thread with scissors. 2. Put 2 level tablespoons of rice in the corner of a small bag. 3. Twist the bag and knot it tightly. This is the satellite pouch. 4. Tie one end of the thread round the twist with three knots. 5. Tape over the knots.",
+     "say": "We are making a small soft satellite. It must be tied on very well, because we are going to whirl it.",
+     "kid": "Ask a grown-up to cut the thread. Put 2 spoons of rice in a bag corner. Knot the bag. Tie the thread on with three knots.",
+     "adult": true,
+     "parent": "Pull hard on the thread to test the knots. If the bag slips, wind tape round the twist and tie again above the tape.",
+     "context": "This is step 1 of Orbit in Your Hand. Here you make the satellite pouch."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Make 4 load pouches, each with 4 level tablespoons of rice, and knot them. 2. Pass the free end of the thread down through the pen barrel. 3. Open one paper clip into a hook and tie it to the free end. 4. Hook one load pouch on, through the plastic above its knot. 5. Mark the thread with a pen, 50 centimetres from the satellite pouch.",
+     "say": "The load pulls the thread down through the barrel. That pull is our gravity. It tugs the satellite pouch towards the barrel all the time.",
+     "kid": "Make 4 load pouches with 4 spoons of rice each. Put the thread through the barrel. Hook one load on. Mark the thread at 50 cm.",
+     "parent": "Each load pouch is about 50 grams. Four of them use about one cup of rice.",
+     "context": "This is step 2 of Orbit in Your Hand. Here you make the loads and thread the barrel."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Hold the pen mark at the top of the barrel. Fix the second paper clip on the thread, 2 centimetres below the barrel. 2. Stand in the clear space and hold the barrel upright above your head. 3. Whirl the satellite pouch in a level circle. 4. Start slowly. Speed up until the clip rises to 2 centimetres below the barrel. 5. Hold it there for ten rounds without touching the thread.",
+     "say": "The clip is our marker. When it stays just below the barrel, the pouch is circling at 50 centimetres. Slow down a little and see what the clip does.",
+     "kid": "Hold the barrel above your head. Whirl the pouch in a level circle. Keep the clip just below the barrel.",
+     "ask": [
+      {
+       "q": "What happens to the pouch when you whirl more slowly?",
+       "good": [
+        "The load pulls the thread down.",
+        "The pouch comes in closer to the barrel.",
+        "The clip sinks."
+       ]
+      }
+     ],
+     "parent": "This takes a few tries. Small steady movements of the wrist work better than big ones. If the thread sticks, rub the rim of the barrel smooth or change to a smoother thread.",
+     "context": "This is step 3 of Orbit in Your Hand. Here you practise holding a steady circle."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Stop and ask for a guess before any timing. Write the guess and the reason in the notebook.",
+     "say": "Next we hang two loads, and then four. Will ten rounds take more time, less time, or the same? Why do you think so?",
+     "kid": "Guess first. More rice pulls harder. Will ten rounds take longer or shorter? Write down why.",
+     "parent": "Do not correct the guess. Many children expect a heavier load to slow things down.",
+     "context": "This is step 4 of Orbit in Your Hand. Here you make your guess and give a reason."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Whirl with 1 load pouch until the clip holds steady. 2. The helper starts the stopwatch and counts ten rounds aloud. 3. Write the time. 4. Do this three times.",
+     "say": "Tell me when the clip is steady. I will count ten rounds from then.",
+     "kid": "Whirl until the clip is steady. Your helper times ten rounds. Do it three times.",
+     "parent": "You need two people for this step. If the three times differ by more than 2 seconds, do one more try.",
+     "context": "This is step 5 of Orbit in Your Hand. Here you time ten rounds with one load."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Hook a second load pouch on beside the first. 2. Check that the clip is still 2 centimetres below the barrel when the mark is at the top. 3. Time ten rounds, three times.",
+     "say": "Now the pull is twice as strong. Keep the clip in the same place, so that the circle is the same size.",
+     "kid": "Hook on a second load. Keep the clip in the same place. Time ten rounds, three times.",
+     "context": "This is step 6 of Orbit in Your Hand. Here you time ten rounds with two loads."
+    },
+    {
+     "id": "s7",
+     "mins": 3,
+     "do": "1. Hook on all 4 load pouches. 2. Time ten rounds, three times. 3. If the rounds are too quick to count, count twenty and halve the time.",
+     "say": "Now the pull is four times as strong as at the start. Feel what your wrist has to do to keep the clip steady.",
+     "kid": "Hook on all 4 loads. Time ten rounds, three times. Feel what your wrist must do.",
+     "context": "This is step 7 of Orbit in Your Hand. Here you time ten rounds with four loads."
+    },
+    {
+     "id": "s8",
+     "mins": 4,
+     "do": "1. For each load, circle the middle one of the three times. 2. Write three lines: what I think, what I saw, and why. 3. Compare the result with the guess.",
+     "say": "What did a stronger pull need from the pouch? Look at one load and four loads. How do the two times compare? This thread pulls equally hard at every distance. The Earth's pull does not, and the next test looks at that.",
+     "kid": "Circle the middle time for each load. Write what you think, what you saw, and why.",
+     "check": {
+      "t": "mcq",
+      "q": "With a stronger pull and the same circle, what must the pouch do to stay out?",
+      "options": [
+       "Go round more slowly",
+       "Go round faster",
+       "Go round at the same speed",
+       "Stop whirling"
+      ],
+      "a": 1,
+      "why": "A stronger pull bends the path more sharply. To stay on the same circle, the pouch must move faster. Going slowly lets the load win, and the pouch is pulled in. With four times the pull, ten rounds take about half the time."
+     },
+     "parent": "With four times the load, the time for ten rounds should be roughly half. Friction at the barrel makes the numbers rough, so look at the direction of the change. The test cannot show how gravity changes with height, because a hanging load pulls equally at every length of thread.",
+     "think": "Closer to the Earth, gravity pulls harder. What does that tell you about the speed of a low satellite?",
+     "context": "This is step 8 of Orbit in Your Hand. Here you work out what the times show."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Near and Far: does a closer satellite go round sooner?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you use the whirler from Orbit in Your Hand again. You change the length of the thread, and then you add the Earth's own rule: four times the pull at half the distance.",
+   "question": "Does a pouch on a shorter thread take less time for ten rounds? What happens when the pull also grows four times, as the Earth's pull does at half the distance?",
+   "predict": "Guess first. Will ten rounds on the short thread take more time, less time or the same as on the long thread? Say why you think so. Then guess what four times the pull will do on the short thread.",
+   "fair_test": "From run A to run B, only the length of the thread changes. From run B to run C, only the load changes. The satellite pouch, the person whirling and the person timing stay the same. Time ten rounds three times in every run.",
+   "results_table": [
+    "Run",
+    "Thread length (cm)",
+    "Load pouches",
+    "Try 1 (s)",
+    "Try 2 (s)",
+    "Try 3 (s)",
+    "Middle time for 10 rounds (s)"
+   ],
+   "materials": [
+    {
+     "item": "the whirler, the satellite pouch and the 4 load pouches from Orbit in Your Hand",
+     "qty": 1
+    },
+    {
+     "item": "a ruler or measuring tape and a pen",
+     "qty": 1
+    },
+    {
+     "item": "a phone stopwatch, or a clock that shows seconds",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Whirl only the soft pouch of rice, never a hard thing. Stand in the middle of a clear space, with everyone else at least 2 metres away or sitting on the floor. Switch off the ceiling fan, and keep away from lights and shelves. Check the knots before every run. The rice stays clean inside the bags, so cook it afterwards as usual. The long thread needs more room: clear a space at least 2 metres wide.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Mark the thread at 70 and 35 centimetres. Time ten rounds in runs A, B and C. Compare the three middle times."
+    }
+   ],
+   "record": "Fill in the table for runs A, B and C. Write one sentence comparing A with B, and one comparing B with C. Then write what this model of an orbit cannot show.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example results: middle time for 10 rounds",
+    "x": "Run",
+    "y": "Time for 10 rounds (s)",
+    "data": [
+     {
+      "label": "A: 70 cm, 1 load",
+      "value": 12.1
+     },
+     {
+      "label": "B: 35 cm, 1 load",
+      "value": 8.6
+     },
+     {
+      "label": "C: 35 cm, 4 loads",
+      "value": 4.5
+     }
+    ],
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+   },
+   "setup": [
+    {
+     "art": "A thread laid along a measuring tape with two pen marks, one 70 centimetres and one 35 centimetres from the small pouch.",
+     "caption": "1. Mark the thread 70 centimetres and 35 centimetres from the satellite pouch."
+    },
+    {
+     "art": "A child whirling the pouch in a wide circle on the long thread, with one load pouch hanging below.",
+     "caption": "2. Run A: the long thread, with one load."
+    },
+    {
+     "art": "The same child whirling the pouch in a small circle on the short thread, with four load pouches hanging below.",
+     "caption": "3. Runs B and C: the short thread, with one load and then with four."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Mark the thread 70 centimetres from the satellite pouch, and again at 35 centimetres. 2. Hook on 1 load pouch. 3. Ask for the two guesses and write them down with the reasons.",
+     "say": "First the pouch circles far out, then close in. Which will finish ten rounds sooner? Why do you think so?",
+     "kid": "Mark the thread at 70 cm and at 35 cm. Guess which circle is quicker. Write down why.",
+     "context": "This is step 1 of Near and Far. Here you mark the thread and make your guesses."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Hold the 70 centimetre mark at the top of the barrel. Move the marker clip to 2 centimetres below the barrel. 2. Whirl until the clip holds steady. 3. Time ten rounds, three times. 4. Write the times as run A.",
+     "say": "This is the far orbit. Keep the circle level and the clip steady.",
+     "kid": "Set the thread to 70 cm. Whirl until the clip is steady. Time ten rounds, three times.",
+     "parent": "Check the room first. The pouch now sweeps a circle more than a metre wide.",
+     "context": "This is step 2 of Near and Far. Here you time the far orbit, run A."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Hold the 35 centimetre mark at the top of the barrel and move the clip again. 2. Keep 1 load pouch on. 3. Time ten rounds, three times. 4. Write the times as run B.",
+     "say": "Only the distance has changed. The pull is the same as in run A.",
+     "kid": "Set the thread to 35 cm. Keep one load on. Time ten rounds, three times.",
+     "context": "This is step 3 of Near and Far. Here you time the near orbit with the same pull, run B."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Keep the thread at 35 centimetres. 2. Hook on all 4 load pouches. 3. Time ten rounds, three times. If they are too quick to count, count twenty rounds and halve the time. 4. Write the times as run C.",
+     "say": "Round the Earth, half the distance means four times the pull. So this run is the near orbit as the Earth would make it.",
+     "kid": "Keep the thread at 35 cm. Hook on all 4 loads. Time ten rounds, three times.",
+     "context": "This is step 4 of Near and Far. Here you time the near orbit with four times the pull, run C."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Circle the middle time in each run. 2. Compare A with B, then B with C, then A with C. 3. Write what you think, what you saw and why. 4. Talk about what the model leaves out.",
+     "say": "Which orbit took the longest for ten rounds? Which took the shortest? Runs A and C follow the Earth's rule for two orbits, one twice as far as the other.",
+     "kid": "Circle the middle times. Compare A with B, then B with C. Write what you found.",
+     "check": {
+      "t": "mcq",
+      "q": "Two satellites circle the Earth. One is twice as far from the Earth's centre as the other. Which takes longer for one trip?",
+      "options": [
+       "The nearer one",
+       "The farther one",
+       "Both take the same time",
+       "It depends on their mass"
+      ],
+      "a": 1,
+      "why": "The farther satellite has a longer way round, and the weaker pull out there lets it move more slowly. Both make its trip longer. The mass of a satellite does not change its orbit. In your test, run A took almost three times as long as run C."
+     },
+     "parent": "Run A should take the longest and run C the shortest, with A close to three times C. The model leaves out a great deal. A thread pulls only along itself, air slows the pouch, and your hand keeps adding energy. Real satellites need no hand.",
+     "think": "The Moon is 60 times as far from the Earth's centre as a low satellite. How long would you expect its trip to take?",
+     "context": "This is step 5 of Near and Far. Here you compare the three runs."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How High Is Space? The Earth, the station and the Moon to scale",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you draw the Earth to scale and place the space station, a television satellite and the Moon at their real distances. You find out how close an orbit can be.",
+   "materials": [
+    {
+     "item": "a large sheet of newspaper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a small plate or lid about 13 centimetres wide, to draw round",
+     "qty": 1
+    },
+    {
+     "item": "a ruler with millimetre marks, and a measuring tape if you have one",
+     "qty": 1
+    },
+    {
+     "item": "a grain of rice, a coin and a peppercorn",
+     "qty": 1
+    }
+   ],
+   "record": "Keep the drawing. Write on it: 1 centimetre is 1,000 kilometres. Write the three real distances beside the three marks.",
+   "setup": [
+    {
+     "art": "A child drawing a circle round a small plate on a sheet of newspaper on the floor.",
+     "caption": "1. Draw round a plate about 13 centimetres wide. This is the Earth."
+    },
+    {
+     "art": "A close view of the circle's edge with a ruler showing a dot 4 millimetres outside the line.",
+     "caption": "2. Mark the space station 4 millimetres above the line."
+    },
+    {
+     "art": "A floor with the newspaper at one end and a measuring tape stretched almost 4 metres to a single peppercorn.",
+     "caption": "3. Put the peppercorn Moon 3 metres and 84 centimetres away."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the newspaper on the floor at one end of the room. 2. Draw round the plate. This circle is the Earth, and 1 centimetre stands for 1,000 kilometres. 3. Ask for three guesses. The rice is the space station, the coin is a television satellite and the peppercorn is the Moon.",
+     "say": "Put the rice where you think the space station flies. Then place the coin and the peppercorn. Tell me why you chose each place.",
+     "kid": "Draw round the plate. That is the Earth. Put the rice, the coin and the peppercorn where you think they belong.",
+     "context": "This is step 1 of How High Is Space. Here you draw the Earth and guess the distances."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. The space station flies 400 kilometres up. On the drawing that is 4 millimetres. 2. Mark a dot 4 millimetres outside the circle and move the rice there. 3. Look at the pencil line. Nearly all of the air lies inside its thickness.",
+     "say": "The station is this close. Astronauts there see the ground go by, and can pick out cities at night. Does that surprise you?",
+     "kid": "Mark a dot 4 mm outside the circle. That is where the space station flies.",
+     "ask": [
+      {
+       "q": "Why did you think it was farther away?",
+       "good": [
+        "Because astronauts float.",
+        "Because rockets are so big.",
+        "Because space sounds far."
+       ]
+      }
+     ],
+     "context": "This is step 2 of How High Is Space. Here you place the space station at its real height."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. A television or weather satellite in geostationary orbit is 35,786 kilometres up. 2. Measure 36 centimetres straight out from the circle and put the coin there. 3. The Moon is 3,84,400 kilometres from the Earth. Measure 3 metres and 84 centimetres from the centre of the circle. 4. Put the peppercorn there.",
+     "say": "The peppercorn is about the right size for the Moon on this drawing. Every human who has stood on another world stood on that peppercorn.",
+     "kid": "Put the coin 36 cm from the circle. Put the peppercorn 3 metres 84 cm away.",
+     "parent": "If the room is shorter than 4 metres, run the tape out through a door.",
+     "context": "This is step 3 of How High Is Space. Here you place a geostationary satellite and the Moon."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Stand back and look at all three. Then ask the question below, and let the guesses stand until the experiment.",
+     "say": "At the station's height, gravity is almost nine tenths as strong as here on the floor. So gravity has not run out. What do you think keeps the station from falling down?",
+     "kid": "Look at the rice. Gravity is nearly as strong there as here. So what keeps the station up?",
+     "think": "If you could build a tower 4 millimetres tall on this drawing and stand on top, would you float?",
+     "context": "This is step 4 of How High Is Space. Here you ask what holds the station up."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Water Cannon: fall, and miss",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity a stream of water shoots sideways from a hole in a bottle, in the bathroom. Every drop in the stream is falling. You find out what sideways speed does to the place where a falling thing lands.",
+   "materials": [
+    {
+     "item": "a 1 litre plastic bottle with its cap",
+     "qty": 1
+    },
+    {
+     "item": "a thick needle or the point of a compass, and a pencil to widen the hole",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    },
+    {
+     "item": "a steel bowl about 15 centimetres wide",
+     "qty": 1
+    },
+    {
+     "item": "a low stool or an upturned bucket, and a mug of water",
+     "qty": 1
+    },
+    {
+     "item": "3 coins, to mark where the stream lands",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up makes the hole. Do this in the bathroom, and dry the floor afterwards so that nobody slips. Use the water for mopping or for plants.",
+   "record": "Draw the bottle, the bowl and three streams: a fast one, a middle one and a slow one. Mark where each lands.",
+   "setup": [
+    {
+     "art": "A grown-up making a small hole in the side of a plastic bottle, 5 centimetres above its base.",
+     "caption": "1. A grown-up makes a hole as wide as a matchstick, 5 centimetres above the base."
+    },
+    {
+     "art": "A full bottle standing on a low stool in a bathroom with tape over the hole, and an upturned steel bowl on the floor about 30 centimetres away.",
+     "caption": "2. Fill the bottle. Stand it on the stool. Put the upturned bowl 30 centimetres away."
+    },
+    {
+     "art": "A stream of water curving out of the bottle, passing over the upturned bowl and landing beyond it.",
+     "caption": "3. Pull off the tape and watch where the stream lands."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. A grown-up makes a hole in the side of the bottle with the needle, 5 centimetres above the base. 2. Widen it with a pencil tip to the width of a matchstick. 3. Tape over the hole and fill the bottle to the top. Leave the cap off. 4. Stand the bottle on the stool. 5. Put the bowl upside down on the floor, 30 centimetres from the stool.",
+     "say": "The hole points sideways. So the water will leave the bottle moving sideways, not downwards.",
+     "kid": "Ask a grown-up to make the hole. Tape it. Fill the bottle. Put the bowl upside down on the floor.",
+     "adult": true,
+     "context": "This is step 1 of the Water Cannon. Here you set up the bottle and the bowl."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Ask for a guess before pulling the tape. Draw the guessed path in the notebook.",
+     "say": "The water comes out fastest when the bottle is full. As the bottle empties, will the stream land nearer, farther, or in the same place? Why?",
+     "kid": "Guess first. As the bottle empties, where will the stream land? Draw your guess.",
+     "context": "This is step 2 of the Water Cannon. Here you guess how the stream will change."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Pull off the tape. 2. Put a coin where the stream lands at the start. 3. Put a second coin when the bottle is half empty, and a third when it is nearly empty. 4. Watch what the stream does at the bowl.",
+     "say": "Watch one bit of the stream. Does it ever go up? Is there any moment when the water is not falling?",
+     "kid": "Pull off the tape. Mark where the stream lands three times. Watch it at the bowl.",
+     "parent": "A full bottle sends the stream about 50 centimetres, past the bowl. Then the stream lands on the bowl, and at the end it falls short. Move the bowl if your stool is higher or lower.",
+     "context": "This is step 3 of the Water Cannon. Here you watch the stream slow down and land closer."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Tape the hole, fill the bottle again and screw the cap on. 2. Pull off the tape and squeeze the bottle with both hands. 3. Try to send the stream right over the bowl. 4. Talk about what you saw.",
+     "say": "Every drop fell the whole time. The fast ones landed far away and went past the bowl. The bowl is only a picture of the round Earth. What would a drop need to do to miss the whole Earth?",
+     "kid": "Fill it again. Put the cap on. Squeeze hard. Can the stream go right over the bowl?",
+     "think": "The real Earth curves down only 5 metres in every 8 kilometres. How fast would a drop have to go to keep missing it?",
+     "context": "This is step 4 of the Water Cannon. Here you squeeze to make a faster stream."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "The Wall with a Gap: where does a circling thing go when the pull stops?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity a marble rolls round the inside of a curved card wall and comes to a gap. You find out which way a circling thing goes when nothing pushes it inwards any more.",
+   "materials": [
+    {
+     "item": "a strip of card about 60 centimetres long and 4 centimetres wide, from a cereal box (two shorter strips taped end to end will do)",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape and scissors",
+     "qty": 1
+    },
+    {
+     "item": "a marble",
+     "qty": 1
+    },
+    {
+     "item": "3 coins",
+     "qty": 1
+    },
+    {
+     "item": "a table with a smooth top",
+     "qty": 1
+    }
+   ],
+   "record": "Draw the wall from above. Draw the three paths you chose between, and go over the real one in colour.",
+   "setup": [
+    {
+     "art": "A strip of card standing on its edge on a table, bent into three quarters of a circle and taped down in four places.",
+     "caption": "1. Tape the card strip on its edge, in three quarters of a circle."
+    },
+    {
+     "art": "Three coins on the table beyond the gap in the wall: one on the curve carried on, one straight ahead, and one out to the side.",
+     "caption": "2. Put coins on three possible paths beyond the gap."
+    },
+    {
+     "art": "A marble rolling fast along the inside of the card wall towards the gap.",
+     "caption": "3. Roll the marble along the inside of the wall."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Cut the card strip with scissors. 2. Stand it on its edge on the table and bend it into three quarters of a circle, about 25 centimetres wide. 3. Tape it to the table in four places. 4. Roll the marble gently along the inside to check that it follows the wall.",
+     "say": "The wall pushes the marble inwards all the way round. Without the wall, the marble would not turn.",
+     "kid": "Ask a grown-up to cut the card. Tape it on its edge in a curve. Leave a gap.",
+     "adult": true,
+     "context": "This is step 1 of the Wall with a Gap. Here you build the curved wall."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Put one coin where the circle would carry on. 2. Put one straight ahead from the end of the wall. 3. Put one out to the side, pointing away from the centre. 4. Ask for a guess and a reason.",
+     "say": "The marble will come out of the gap. Which coin will it roll towards? Why do you think so?",
+     "kid": "Put down three coins. Guess which coin the marble will roll to. Say why.",
+     "context": "This is step 2 of the Wall with a Gap. Here you guess the path beyond the gap."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Roll the marble briskly along the inside of the wall. 2. Watch its path beyond the gap. 3. Do it five times.",
+     "say": "Watch the moment it leaves the wall. Does it curve, or does it go straight?",
+     "kid": "Roll the marble fast along the wall. Watch where it goes. Do it five times.",
+     "parent": "The marble goes straight on from the end of the wall, along the line it was moving on at that moment. It does not carry on curving, and it does not shoot outwards from the centre.",
+     "context": "This is step 3 of the Wall with a Gap. Here you test the path five times."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "Compare the result with the guess, and ask the question below.",
+     "say": "Once the wall stopped pushing, the marble went straight. For a satellite, what does the job of the wall?",
+     "kid": "The marble went straight. What does the wall's job for a satellite?",
+     "think": "If the Earth's gravity were switched off for a moment, which way would the Moon go?",
+     "context": "This is step 4 of the Wall with a Gap. Here you link the wall to gravity."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Satellite Spotting: dishes by day, a moving light by night",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you look for signs of real satellites. By day you study the dishes on roofs. After sunset you look for a satellite crossing the sky. Do it if you can see roofs and sky from a balcony, a terrace or the street.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone with a compass, or knowledge of where the Sun sets",
+     "qty": 1
+    },
+    {
+     "item": "a phone or computer, to look up when the space station passes",
+     "qty": 1
+    }
+   ],
+   "safety": "Go on to a terrace or the street only with a grown-up. Never look at the Sun.",
+   "record": "Draw five dishes with an arrow for the way each one points. Write the date, the time and the direction of any satellite you saw.",
+   "setup": [
+    {
+     "art": "Several dish antennas on the roofs and balconies of a block of flats, all tilted the same way.",
+     "caption": "1. Find five dishes and note which way each one points."
+    },
+    {
+     "art": "A child and a grown-up on a terrace just after sunset, looking at a steady point of light crossing the sky.",
+     "caption": "2. After sunset, watch for a steady light that moves and does not blink."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. From a window, a balcony or the street, find five dish antennas. 2. For each one, note the compass direction it points in and how steeply it tilts up. 3. Draw them in the notebook.",
+     "say": "Look at where each dish points. Do they agree with each other? Has any of them moved since last week?",
+     "kid": "Find five dishes. Note which way each one points. Draw them.",
+     "adult": true,
+     "context": "This is step 1 of Satellite Spotting. Here you study the dishes on roofs."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Talk about the pattern. Then ask the question below.",
+     "say": "The dishes point to the southern part of the sky, and they never turn. But a satellite cannot stand still. So how can a dish that never moves keep facing one?",
+     "kid": "The dishes never turn. But satellites move. How can that be?",
+     "check": {
+      "t": "mcq",
+      "q": "Why can a television dish stay fixed?",
+      "options": [
+       "Its satellite is not moving",
+       "Its satellite goes round once a day, in step with the Earth",
+       "The signal comes from a tower",
+       "The dish follows the satellite at night"
+      ],
+      "a": 1,
+      "why": "A geostationary satellite goes round the Earth once a day, above the equator. The ground below turns at the same rate, so the satellite stays over one spot. It is moving at about 3 kilometres every second. It only looks still from the ground."
+     },
+     "parent": "Dishes of one television company all point the same way. Another company may use a different satellite, so its dishes point a little differently. In the south of India the dishes tilt up steeply, and in the north they tilt lower.",
+     "context": "This is step 2 of Satellite Spotting. Here you explain why a dish never turns."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. With a grown-up, open NASA's Spot the Station page or the Heavens-Above page. Both are in the links of this lesson. 2. Choose your town. 3. Write down the date, the time and the direction of the next pass that can be seen.",
+     "say": "The station is visible only near dawn or dusk. The sky is dark for us then, but the station is still in sunlight.",
+     "kid": "Look up the next time the space station passes over your town. Write it down.",
+     "context": "This is step 3 of Satellite Spotting. Here you look up the next pass of the space station."
+    },
+    {
+     "id": "s4",
+     "mins": 7,
+     "do": "1. Go out five minutes before the time, with a grown-up. 2. Face the direction given. 3. Watch for a bright, steady light that moves smoothly and does not blink. 4. Follow it until it fades.",
+     "say": "That light is a home with people in it. It crosses our whole sky in about five minutes. A light that blinks is an aeroplane.",
+     "kid": "Go out with a grown-up. Look for a bright steady light that moves. Follow it across the sky.",
+     "adult": true,
+     "wait": "Do this after sunset, at the time you wrote down",
+     "parent": "If there is no pass this week, go out about an hour after sunset on any clear evening. Most steady moving lights at that time are satellites. If it is cloudy, try again another day.",
+     "think": "The station often fades out before it reaches the horizon. What has it flown into?",
+     "context": "This is step 4 of Satellite Spotting. Here you watch a satellite cross the sky."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Moon Tracker: measure a real orbit with your fist",
+   "days": 5,
+   "mins": 40,
+   "context": "In this five-day project you watch the Earth's natural satellite move along its orbit. You measure how far the Moon shifts each evening, and work out roughly how long one trip round the Earth takes. Do it if you can see the evening sky from a balcony, a terrace or the street.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a calendar that shows the phases of the Moon",
+     "qty": 1
+    },
+    {
+     "item": "a clock",
+     "qty": 1
+    }
+   ],
+   "safety": "Go on to a terrace or the street after dark only with a grown-up.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose a spot, a time and a landmark. Measure the Moon's distance from the landmark in fists."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Measure again at the same time, from the same spot."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Measure again."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Measure again."
+    },
+    {
+     "day": 5,
+     "mins": 15,
+     "what": "Measure for the last time. Find the Moon's shift each day and work out the time for one trip."
+    }
+   ],
+   "record": "A table with the date, the time, the number of fists from the landmark, and a small drawing of the Moon's shape each evening. Then your sum for the time of one trip.",
+   "setup": [
+    {
+     "art": "A calendar page with the new Moon marked and an arrow to the date three days after it.",
+     "caption": "1. Start two to four days after the new Moon, when a thin Moon shows in the evening."
+    },
+    {
+     "art": "A child on a balcony holding one fist out at arm's length, measuring from the edge of a water tank to a crescent Moon.",
+     "caption": "2. Count the fists from your landmark to the Moon, at the same time each evening."
+    },
+    {
+     "art": "A notebook page with five small drawings of the Moon, each farther from a drawn water tank than the one before.",
+     "caption": "3. Draw the Moon's place and shape each evening for five days."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Find the date of the new Moon on a calendar. Start two to four days after it. 2. Soon after sunset, find the Moon in the western sky. 3. Choose a spot to stand on and a landmark near where the Sun went down, such as a water tank. 4. Hold your fist out at arm's length. Count how many fists fit between the landmark and the Moon. 5. Write the time, the count and the Moon's shape.",
+     "say": "One fist at arm's length covers about 10 degrees of sky. A full turn of the sky is 360 degrees, which is 36 fists.",
+     "kid": "Go out with a grown-up after sunset. Find the Moon. Count the fists from your landmark to the Moon.",
+     "adult": true,
+     "wait": "Do this on day 1, two to four days after the new Moon",
+     "parent": "Lead time: check the calendar first. Just after the new Moon, the thin Moon is in the western sky for an hour or two after sunset.",
+     "context": "This is step 1 of Moon Tracker. Here you take the first measurement."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. On days 2, 3 and 4, stand on the same spot at the same clock time. 2. Count the fists from the landmark to the Moon. 3. Write the count and draw the Moon's shape. Each evening takes 5 minutes.",
+     "say": "Has the Moon moved since yesterday? Which way, and by how many fists?",
+     "kid": "Each evening, stand on the same spot at the same time. Count the fists again.",
+     "adult": true,
+     "wait": "Do this on days 2, 3 and 4",
+     "parent": "If clouds hide the Moon, miss that day and write the gap in days beside the next count.",
+     "context": "This is step 2 of Moon Tracker. Here you measure on three more evenings."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. On day 5, measure for the last time. 2. Take the first count from the last count, and divide by the number of days between them. That is the Moon's shift each day, in fists. 3. Divide 36 fists by that shift. The answer is the number of days for one trip.",
+     "say": "The Moon has been falling round the Earth all week, and you measured it with your hand. How many days does your sum give for one full trip?",
+     "kid": "Measure once more. Find how many fists the Moon moves each day. Divide 36 by that number.",
+     "adult": true,
+     "wait": "Do this on day 5",
+     "parent": "The Moon shifts by a little more than one fist each day, so the sum gives about 30 days. From one new Moon to the next is 29 and a half days. Against the stars, one trip takes about 27 days. The two differ because the Earth moves on round the Sun during the month.",
+     "think": "Your fist gave about 30 days, and the Moon's trip against the stars takes 27. Which one is the real length of the orbit?",
+     "context": "This is step 3 of Moon Tracker. Here you work out the time for one trip."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Mission Control: choose an orbit for each job",
+   "mins": 30,
+   "context": "This is a design challenge. A district on the coast needs three things from satellites. You choose the orbits, test them on an orange, and stay inside a budget. There is more than one good answer.",
+   "problem": "A district on the coast of Tamil Nadu wants three things. It wants a cyclone watch that never looks away. It wants sharp pictures of every paddy field every few days. It wants position signals for its fishing boats. Choose the orbits, show on an orange why each one works, and keep within the budget.",
+   "constraints": [
+    "A low satellite, 500 to 900 kilometres up, sees sharp detail. But it passes over any one place for only a few minutes at a time.",
+    "A geostationary satellite sees one third of the Earth all the time, with less detail. It must sit above the equator.",
+    "A boat needs signals from at least 4 navigation satellites at the same moment.",
+    "In this challenge, one launch to low orbit costs 1 token and one launch to geostationary orbit costs 3 tokens. You have 9 tokens."
+   ],
+   "materials": [
+    "an orange, a sweet lime or a ball about 7 centimetres wide",
+    "2 rubber bands that fit round it",
+    "a pen that writes on the peel",
+    "a peppercorn or a small bead",
+    "a ruler",
+    "9 coins or buttons as tokens",
+    "a notebook and a pencil"
+   ],
+   "general": [
+    "One geostationary satellite for the cyclone watch and one low polar satellite for the fields. For the boats, use a navigation system that already exists, such as NavIC or GPS. This costs 4 tokens.",
+    "The same plan with two low polar satellites, so that each field is seen twice as often. This costs 5 tokens."
+   ],
+   "creative": [
+    "Six small low satellites spaced round one polar orbit, so that one of them passes over the district every few hours. Picture companies now work this way.",
+    "A satellite that goes round once a day in a tilted orbit and draws a figure of eight over India. Some of NavIC's satellites do this.",
+    "No new cyclone satellite at all. Share the pictures of a satellite that is already there, and spend the saved tokens on sirens and shelters on the ground."
+   ],
+   "your_turn": "Now change the job. A district in the Himalayas wants to watch its glaciers and warn villages of floods from melting lakes. Or choose a job that matters where you live. Plan the orbits, count the tokens and explain your plan to someone at home.",
+   "setup": [
+    {
+     "art": "An orange with a rubber band round its middle as the equator and a pen dot just above the band.",
+     "caption": "1. Put a rubber band round the middle of the orange. Mark your district with a dot."
+    },
+    {
+     "art": "Two hands: one holding a second rubber band still round the orange from top to bottom, the other turning the orange inside it.",
+     "caption": "2. Hold a second band over the poles and turn the orange under it."
+    },
+    {
+     "art": "A peppercorn held 20 centimetres above the band on the orange, with a ruler beside it.",
+     "caption": "3. Hold a peppercorn 20 centimetres above the equator."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Put one rubber band round the middle of the orange. This is the equator. 2. Mark a dot one finger-width above the band. This is the district. 3. Read the problem and the four rules aloud. 4. Lay out the 9 tokens.",
+     "say": "The orange is the Earth. Its stalk end is the North Pole. Which way does the real Earth turn?",
+     "kid": "Put a band round the orange. Mark your district with a dot. Lay out 9 tokens.",
+     "parent": "The Earth turns towards the east. Seen from above the North Pole, that is anticlockwise.",
+     "context": "This is step 1 of Mission Control. Here you make the orange Earth and read the rules."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Put the second band round the orange over both poles. This is a polar orbit. 2. Hold that band still and slowly turn the orange inside it. 3. Watch the dot. 4. Now hold the second band along the equator instead, and turn the orange again.",
+     "say": "Does the dot pass under the polar band? Would every place on the orange pass under it? What about the band along the equator?",
+     "kid": "Hold a band over the poles. Turn the orange inside it. Does your dot pass under the band?",
+     "ask": [
+      {
+       "q": "Which orbit lets one satellite see the whole Earth?",
+       "good": [
+        "The one over the poles.",
+        "The polar orbit, because the Earth turns under it."
+       ]
+      }
+     ],
+     "parent": "On this orange, a low orbit is only 3 to 5 millimetres above the peel. That is why a low satellite sees sharp detail.",
+     "context": "This is step 2 of Mission Control. Here you test a polar orbit and an orbit along the equator."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Hold the peppercorn 20 centimetres above the band, straight out from the equator. This is geostationary height on this scale. 2. Turn the orange and move the peppercorn round with it, in step. 3. Look from the peppercorn towards the orange. How much of the orange can it see?",
+     "say": "The peppercorn stays over one place. It sees a large part of one side of the orange, but from far away. Can it see the poles well?",
+     "kid": "Hold the peppercorn 20 cm above the band. Turn both together. What can it see?",
+     "context": "This is step 3 of Mission Control. Here you test a geostationary orbit."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Choose an orbit for each of the three jobs. 2. Pay for each launch with tokens. 3. Draw the plan. 4. Explain it to someone at home, and answer one hard question about it.",
+     "say": "Tell me your plan and what each choice gives up. Then I will ask you one hard question. There is more than one good plan.",
+     "kid": "Choose your orbits. Pay with tokens. Draw your plan. Explain it to someone.",
+     "think": "What would you change if the sky above your district were already crowded with other people's satellites?",
+     "context": "This is step 4 of Mission Control. Here you choose, pay and defend your plan."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Satellites, orbits and falling round (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these is a natural satellite of the Earth?",
+     "opts": [
+      "The Moon",
+      "INSAT-3DS",
+      "The space station",
+      "The Sun"
+     ],
+     "a": 0,
+     "why": "The Moon goes round the Earth and nobody made it. INSAT-3DS and the space station were built by people. The Earth goes round the Sun, not the other way.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "A satellite's engine is switched off. Why does it keep going round?",
+     "opts": [
+      "The air pushes it along",
+      "Almost nothing is there to slow it",
+      "The Earth's spin drags it",
+      "It slows down and stops within a day"
+     ],
+     "a": 1,
+     "why": "Above the air there is almost no friction, so a moving thing keeps moving. On the ground, things stop because friction and air slow them. Gravity bends the satellite's path but does not slow it in a circular orbit.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A thing is launched level, above the air, at 5 kilometres every second. What happens?",
+     "opts": [
+      "It orbits in a circle",
+      "It falls back to the ground",
+      "It escapes from the Earth",
+      "It hangs still"
+     ],
+     "a": 1,
+     "why": "Orbit just above the air needs about 7.8 kilometres every second. At 5, the thing falls faster than the ground curves away, so its path meets the ground. It does travel a very long way first.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Why do astronauts in the space station float?",
+     "opts": [
+      "Gravity does not reach that high",
+      "They fall together with the station",
+      "The station spins them",
+      "There is no air to hold them down"
+     ],
+     "a": 1,
+     "why": "The station and everything in it fall round the Earth together, so the floor never pushes on anyone's feet. Gravity is almost as strong there as on the ground. Air does not hold people down anywhere.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Which orbit lets a satellite stay above one place in India?",
+     "opts": [
+      "A low polar orbit",
+      "A geostationary orbit",
+      "Any orbit, if the engine is on",
+      "The Moon's orbit"
+     ],
+     "a": 1,
+     "why": "A geostationary satellite goes round once a day above the equator, in step with the turning Earth. A low satellite takes about 90 minutes for a trip, so it rushes past every place.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: gravity at the height of the space station is almost as strong as on the ground.",
+     "a": true,
+     "why": "True. The station is only 400 kilometres up. Each kilogram there is pulled with about 8.7 newtons, and on the ground with about 9.8.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: the hardest part of a rocket's work is lifting the satellite very high.",
+     "a": false,
+     "why": "False. Space begins only about 100 kilometres up. The harder part is giving the satellite its sideways speed of nearly 8 kilometres every second. That is why a rocket leans over soon after lift-off.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "The speed needed to orbit just above the air is about ____ kilometres every second.",
+     "a": [
+      "8",
+      "7.8",
+      "7.9"
+     ],
+     "why": "It is about 7.8. At that speed a thing moves about 8 kilometres sideways while it falls 5 metres, and the ground curves down by 5 metres too.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "India's first satellite, launched in 1975, was named ____.",
+     "a": [
+      "Aryabhata"
+     ],
+     "why": "It was named after the astronomer Aryabhata, who wrote in 499 CE that the Earth spins. A team led by U. R. Rao built it in Bengaluru.",
+     "outcome": 6
+    },
+    {
+     "t": "match",
+     "p": "Match each satellite or spacecraft to its job.",
+     "a": "pairs as given",
+     "pairs": [
+      [
+       "INSAT-3DS",
+       "watches clouds and cyclones"
+      ],
+      [
+       "Cartosat",
+       "makes sharp maps of the ground"
+      ],
+      [
+       "NavIC",
+       "tells boats and phones where they are"
+      ],
+      [
+       "Chandrayaan-3",
+       "landed near the Moon's south pole"
+      ],
+      [
+       "Aditya-L1",
+       "watches the Sun"
+      ]
+     ],
+     "why": "Each job needs its own orbit or path. A strong answer could also say which of these are in orbit round the Earth.",
+     "outcome": 5
+    },
+    {
+     "t": "sort",
+     "p": "Sort these satellites by who made them.",
+     "a": "see items",
+     "cats": [
+      "Natural satellite",
+      "Artificial satellite"
+     ],
+     "items": [
+      [
+       "the Moon",
+       "Natural satellite"
+      ],
+      [
+       "Aryabhata",
+       "Artificial satellite"
+      ],
+      [
+       "Titan, which goes round Saturn",
+       "Natural satellite"
+      ],
+      [
+       "the space station",
+       "Artificial satellite"
+      ],
+      [
+       "the Earth, which goes round the Sun",
+       "Natural satellite"
+      ],
+      [
+       "Rohini",
+       "Artificial satellite"
+      ]
+     ],
+     "why": "Moons and planets were made by nobody. Aryabhata, Rohini and the space station were built and launched by people.",
+     "outcome": 0
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the shortest trip round the Earth to the longest.",
+     "a": [
+      "The space station, 400 kilometres up",
+      "A GPS satellite, 20,200 kilometres up",
+      "An INSAT satellite, 35,786 kilometres up",
+      "The Moon, 3,84,400 kilometres away"
+     ],
+     "items": [
+      "The Moon, 3,84,400 kilometres away",
+      "The space station, 400 kilometres up",
+      "An INSAT satellite, 35,786 kilometres up",
+      "A GPS satellite, 20,200 kilometres up"
+     ],
+     "why": "The trips take about 92 minutes, 12 hours, 1 day and 27 days. The farther out a satellite is, the weaker the pull, the slower it goes and the longer its way round.",
+     "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Earth with a tall mountain. Draw three balls fired level from the top: slow, faster, and fast enough to orbit.",
+     "a": "Three curved paths from the mountain top. The slow one lands near the mountain. The faster one lands farther round the Earth. The third goes all the way round and comes back to the mountain.",
+     "why": "A strong drawing shows every path curving down towards the Earth, because every ball is falling. Only the sideways speed differs. The third path never meets the ground.",
+     "outcome": 1,
+     "art": "A circle for the Earth with a tall mountain on top and room for three paths."
+    },
+    {
+     "t": "write",
+     "p": "A friend says a satellite is above gravity. Write your reply, using one thing you drew or measured.",
+     "a": "Gravity reaches the satellite and is almost as strong there as on the ground. On the scale drawing the station was only 4 millimetres above the Earth. The satellite stays up because it moves sideways so fast that it keeps missing the ground as it falls.",
+     "why": "A strong answer says that gravity is still there, and gives sideways speed as the reason the satellite does not land. It uses the scale drawing, the whirling pouch or the water stream as evidence.",
+     "lines": 4,
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about India's Mars mission.",
+     "views": [
+      {
+       "who": "An economist",
+       "says": "Many children here are underfed. That money should have gone to food, health and schools first."
+      },
+      {
+       "who": "A space scientist",
+       "says": "The mission cost each person about 4 rupees. The skills it built also go into weather and mapping satellites."
+      },
+      {
+       "who": "A fisher on the Odisha coast",
+       "says": "I care about the cyclone warnings. If Mars work makes those better, good. If not, I am not sure."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give two reasons. Then say what one of the others gets right.",
+     "a": "A strong answer picks a view and supports it with facts, such as the cost, the lives saved by cyclone warnings, or the needs of children. It also grants a fair point to another view.",
+     "why": "People who care about India disagree on this. The economist is right that money is limited. The scientist is right that the cost was small and the skills are shared. The fisher is right to ask what reaches the ground.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Speeds, heights and the people who got us there (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "In a whirling test, the hanging load is made four times as heavy. About how long do ten rounds take now?",
+     "opts": [
+      "Four times as long",
+      "Twice as long",
+      "The same time",
+      "Half as long"
+     ],
+     "a": 3,
+     "why": "A stronger pull needs a faster circle. With four times the pull, the pouch must go about twice as fast, so ten rounds take about half the time. Expecting a heavier load to slow things down mixes up the load with the pouch.",
+     "outcome": 4,
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A satellite is moved from a low orbit to a much higher one. What is true of its new orbit?",
+     "opts": [
+      "It moves more slowly",
+      "It moves faster",
+      "Its speed is unchanged",
+      "It must keep its engine on"
+     ],
+     "a": 0,
+     "why": "Farther out, the pull is weaker, so a slower speed is enough for a circle. The space station moves 7.7 kilometres every second, and the Moon only about 1.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A spacecraft leaves the Earth faster than escape speed. Which is true?",
+     "opts": [
+      "It has left the Earth's gravity behind",
+      "It will not fall back to the Earth",
+      "Its engine must stay on for ever",
+      "It stops when its fuel ends"
+     ],
+     "a": 1,
+     "why": "Escape means it never falls back. The Earth's pull still reaches it and keeps slowing it, but never enough to bring it home. Above the air, a thing with no fuel keeps moving.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Why does India launch its rockets from the east coast, towards the east?",
+     "opts": [
+      "The Earth's spin adds speed, and the sea lies below",
+      "The east is nearer to the Moon",
+      "Gravity is much weaker in the east",
+      "Rockets cannot fly over land"
+     ],
+     "a": 0,
+     "why": "The ground at Sriharikota moves east at about 450 metres every second, and a rocket launched east keeps that speed. Used stages fall into the Bay of Bengal, away from towns.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: an astronaut has no mass while in orbit.",
+     "a": false,
+     "why": "False. She has all her mass. She feels no weight because nothing pushes up on her. A heavy box in orbit is still hard to start moving and hard to stop.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: the Moon is slowly moving away from the Earth.",
+     "a": true,
+     "why": "True. Laser light timed to mirrors on the Moon and back shows it moving away by about 3.8 centimetres each year. The tides it raises on the Earth push it outwards.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "A stretched circle, the shape of most orbits, is called an ____.",
+     "a": [
+      "ellipse"
+     ],
+     "why": "Kepler found in 1609 that the planets move in ellipses. A circle is the special case of an ellipse that is not stretched at all.",
+     "outcome": 2
+    },
+    {
+     "t": "count",
+     "p": "The space station goes round the Earth in about 90 minutes. How many trips does it make in 24 hours?",
+     "a": 16,
+     "why": "24 hours is 24 times 60, which is 1,440 minutes. 1,440 divided by 90 is 16. So astronauts see about 16 sunrises every day.",
+     "outcome": 4
+    },
+    {
+     "t": "count",
+     "p": "On a drawing, 1 centimetre stands for 1,000 kilometres. The Moon is 3,84,000 kilometres away. How many centimetres is that?",
+     "a": 384,
+     "why": "Divide the real distance by 1,000. 3,84,000 divided by 1,000 is 384 centimetres, which is 3 metres and 84 centimetres.",
+     "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each scientist to work she led or shared in.",
+     "a": "pairs as given",
+     "pairs": [
+      [
+       "Ritu Karidhal",
+       "helped to run Mangalyaan's flight"
+      ],
+      [
+       "M. Vanitha",
+       "project director of Chandrayaan-2"
+      ],
+      [
+       "Nigar Shaji",
+       "led Aditya-L1, which watches the Sun"
+      ],
+      [
+       "N. Valarmathi",
+       "led the radar satellite RISAT-1"
+      ],
+      [
+       "T. K. Anuradha",
+       "led the communication satellite GSAT-12"
+      ]
+     ],
+     "why": "These are a few of the many women who led India's space work. A strong answer could add one more name and what she did.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Three of these flew in low Earth orbit. Which one did not?",
+     "opts": [
+      "The space station",
+      "Cartosat",
+      "INSAT-3DS",
+      "Aryabhata"
+     ],
+     "a": 2,
+     "why": "INSAT-3DS is in geostationary orbit, 35,786 kilometres above the equator, so that it can watch the same clouds all day. The other three flew a few hundred kilometres up.",
+     "outcome": 5
+    },
+    {
+     "t": "label",
+     "p": "On a stretched orbit round the Earth, label perigee, apogee, and where the satellite is fastest and slowest.",
+     "a": [
+      "Perigee: the point nearest the Earth",
+      "Apogee: the point farthest from the Earth",
+      "Fastest at perigee",
+      "Slowest at apogee"
+     ],
+     "why": "Falling towards the Earth speeds a satellite up, so it is fastest at its nearest point. Moving away slows it, so it is slowest at its farthest point.",
+     "outcome": 2,
+     "art": "A stretched oval orbit with the Earth near one end and four blank label lines."
+    },
+    {
+     "t": "write",
+     "p": "Explain why a television dish on a roof never needs to turn.",
+     "a": "Its satellite is in geostationary orbit above the equator. It goes round once a day, exactly as fast as the Earth turns. So it stays above one spot, and the dish can keep pointing at it.",
+     "why": "A strong answer says the satellite is moving, and that it keeps step with the turning ground. A weaker answer says the satellite stands still.",
+     "lines": 4,
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A marble rolling round a curved wall goes straight when the wall ends. What does this tell you about the Moon?",
+     "a": "A moving thing goes straight unless something pushes or pulls it sideways. The Moon would go straight too. The Earth's gravity does the job of the wall and keeps bending the Moon's path into an orbit.",
+     "why": "A strong answer links the wall's push to the pull of gravity, and says that the Moon would move off in a straight line without it.",
+     "lines": 4,
+     "outcome": 1,
+     "how": "a3"
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about filling low orbit with satellites.",
+     "views": [
+      {
+       "who": "An engineer at an internet company",
+       "says": "Our satellites fly low and burn up within five years. They bring the internet to villages that cables never reach."
+      },
+      {
+       "who": "An astronomer",
+       "says": "Bright streaks cross my pictures every night. The dark sky belongs to everyone."
+      },
+      {
+       "who": "A scientist who studies debris",
+       "says": "Past a certain crowding, crashes make pieces that cause more crashes. We do not know where that point is."
+      }
+     ],
+     "ask": "Whose worry or hope seems most important to you? Give your reasons. What rule would you make?",
+     "a": "A strong answer weighs a benefit against a risk, uses a fact from the lesson, and suggests a rule, such as a limit on numbers or on brightness.",
+     "why": "Scientists and governments have not settled this. The engineer is right that low orbits clean themselves and that the internet helps people. The astronomer and the debris scientist are right that the costs fall on everyone, including those who were never asked.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "The Moon's fall, crowded skies and open debates (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "The Moon is 60 times as far from the Earth's centre as you are. How much weaker is the Earth's pull there?",
+     "opts": [
+      "60 times weaker",
+      "120 times weaker",
+      "3,600 times weaker",
+      "It is not weaker"
+     ],
+     "a": 2,
+     "why": "The pull falls with the distance multiplied by itself. 60 times 60 is 3,600. Choosing 60 forgets that the pull spreads out in every direction, like light from a lamp.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "An astronaut in orbit pushes a floating box with a mass of 100 kilograms. What does she find?",
+     "opts": [
+      "It moves at the lightest touch",
+      "It is hard to start and hard to stop",
+      "It drops to the floor",
+      "It has lost its mass"
+     ],
+     "a": 1,
+     "why": "The box is weightless, but it still has 100 kilograms of mass. Mass is what makes a thing hard to speed up or slow down. Astronauts have been bruised by forgetting this.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Stars at a galaxy's edge move faster than the rule for orbits predicts. What do most astronomers think?",
+     "opts": [
+      "Unseen matter adds its pull",
+      "The stars push themselves along",
+      "The telescopes are faulty",
+      "Gravity stops at the edge"
+     ],
+     "a": 0,
+     "why": "Most astronomers say unseen dark matter adds extra pull. A smaller group says the rule for gravity changes when the pull is very weak. Nobody has yet caught a particle of dark matter, so the question is open.",
+     "outcome": 7
+    },
+    {
+     "t": "count",
+     "p": "The Earth curves down 5 metres every 8 kilometres. A satellite covers 8 kilometres each second. How many metres must it fall?",
+     "a": 5,
+     "why": "It must fall as much as the ground curves away, which is 5 metres. A dropped thing falls about 5 metres in its first second, so 8 kilometres every second is the speed that keeps missing.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "Mangalyaan cost 450 crore rupees. India had 125 crore people. How many rupees is that each, to the nearest rupee?",
+     "a": 4,
+     "why": "450 divided by 125 is 3.6, which rounds to 4 rupees. A sum like this helps in the debate, but it does not settle whether the money was best spent this way.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: a heavy satellite must move faster than a light one to stay in the same orbit.",
+     "a": false,
+     "why": "False. Gravity pulls a heavier satellite harder, but a heavier satellite is also harder to turn. The two cancel exactly. An astronaut, a spanner and the whole station share one orbit at one speed.",
+     "outcome": 4
+    },
+    {
+     "t": "order",
+     "p": "Put these events in order, earliest first.",
+     "a": [
+      "Aryabhata is launched on a Soviet rocket",
+      "Rohini goes up on India's own rocket, SLV-3",
+      "INSAT-1B begins the INSAT system",
+      "Mangalyaan goes into orbit round Mars",
+      "Chandrayaan-3 lands on the Moon"
+     ],
+     "items": [
+      "Mangalyaan goes into orbit round Mars",
+      "Aryabhata is launched on a Soviet rocket",
+      "Chandrayaan-3 lands on the Moon",
+      "INSAT-1B begins the INSAT system",
+      "Rohini goes up on India's own rocket, SLV-3"
+     ],
+     "why": "The years are 1975, 1980, 1983, 2014 and 2023. India first built a satellite, then its own rocket, then satellites that served people, and then went to other worlds.",
+     "outcome": 6
+    },
+    {
+     "t": "sort",
+     "p": "Sort each job by the orbit that suits it best.",
+     "a": "see items",
+     "cats": [
+      "Low polar orbit",
+      "Geostationary orbit"
+     ],
+     "items": [
+      [
+       "mapping every paddy field in sharp detail",
+       "Low polar orbit"
+      ],
+      [
+       "watching a cyclone hour by hour",
+       "Geostationary orbit"
+      ],
+      [
+       "sending television to fixed dishes",
+       "Geostationary orbit"
+      ],
+      [
+       "photographing a glacier's cracks",
+       "Low polar orbit"
+      ],
+      [
+       "measuring the colour of every ocean",
+       "Low polar orbit"
+      ]
+     ],
+     "why": "Sharp detail and whole-Earth cover need a low orbit over the poles. A steady watch on one region, or a signal to dishes that never turn, needs a satellite that stays above one spot.",
+     "outcome": 5
+    },
+    {
+     "t": "odd",
+     "p": "Three of these would bring the space station down. Which one would not?",
+     "opts": [
+      "Stopping its sideways speed",
+      "Thin air dragging on it for years",
+      "Switching its engines off for a day",
+      "A crash that slows it greatly"
+     ],
+     "a": 2,
+     "why": "The station's engines are off nearly all the time. It needs sideways speed, not thrust. Anything that takes away much of that speed lets the fall meet the ground.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A dead satellite or a broken piece left in orbit is called space ____.",
+     "a": [
+      "debris",
+      "junk"
+     ],
+     "why": "Space debris moves at 7 to 8 kilometres every second, so even a small piece can wreck a working satellite.",
+     "outcome": 7
+    },
+    {
+     "t": "write",
+     "p": "Some books say Aryabhata taught that the Earth goes round the Sun. How would you check a claim like this?",
+     "a": "Look for what he wrote in his own book, in a careful translation. Ask what historians who read Sanskrit astronomy say, and whether they agree. Keep apart the two ideas: he clearly wrote that the Earth spins, which is not the same as the Earth going round the Sun.",
+     "why": "A strong answer goes to the source and to the people who study it, and separates a spinning Earth from an orbiting Earth. It may add that praise beyond the evidence does not honour a scientist.",
+     "lines": 4,
+     "outcome": 7
+    },
+    {
+     "t": "write",
+     "p": "Is the space station falling, or is it staying up? Give your own answer, with reasons.",
+     "a": "Either answer can be defended. It is falling, because only gravity acts on it and it curves towards the Earth all the time. It is staying up, because it never gets closer to the ground. A good answer says what the writer means by falling.",
+     "why": "A strong answer says clearly what 'falling' means to the writer and uses the idea of sideways speed. There is no single right answer to this question.",
+     "lines": 4,
+     "outcome": 1
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Earth and the Moon going round their shared balance point. Mark where the point is.",
+     "a": "A large Earth and a small Moon on opposite sides of a point. The point is inside the Earth, about three quarters of the way from its centre to its surface. The Earth makes a small circle round it and the Moon a large one.",
+     "why": "A strong drawing puts the point inside the Earth, on the side facing the Moon, and keeps the Earth and the Moon on opposite sides of it.",
+     "outcome": 0,
+     "art": "A large circle for the Earth and a small circle for the Moon far to one side, with room for two paths."
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists explain why an astronaut in orbit floats.",
+     "views": [
+      {
+       "who": "Isaac Newton's way",
+       "says": "Gravity pulls her with almost her full weight. She floats because no floor pushes back."
+      },
+      {
+       "who": "Albert Einstein's way",
+       "says": "No force acts on her at all. The person on the ground is the one being pushed, by the floor."
+      }
+     ],
+     "ask": "Which way of saying it makes more sense to you? Why? What does each one explain well?",
+     "a": "A strong answer chooses one and says why. It also notes that both give the same result for every measurement in orbit, and that Einstein's picture explains a few things Newton's does not.",
+     "why": "Both ways give the right numbers for the space station. Newton's is simpler and is used to plan most flights. Einstein's goes deeper and is needed for very exact clocks. Neither is 'the' true one for every purpose.",
+     "outcome": 3
+    },
+    {
+     "t": "label",
+     "p": "On a rocket's path to orbit, label lift-off, the lean, a stage dropping away, and the satellite's release.",
+     "a": [
+      "Lift-off: at the launch pad on the coast",
+      "Leans over: soon after lift-off, while still in the air",
+      "A used stage drops: over the sea, part of the way up",
+      "Satellite released: at the top, moving level at orbital speed"
+     ],
+     "why": "The rocket goes straight up only at first. It then leans over to build sideways speed. Empty stages drop into the sea so that the rest is lighter. The satellite is let go when it is moving level and fast enough.",
+     "outcome": 1,
+     "art": "A curved path rising from a coast, bending over the sea and levelling off, with four blank label lines."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is an artificial satellite?",
+   "opts": [
+    "The Moon",
+    "Titan",
+    "Cartosat",
+    "The Earth"
+   ],
+   "a": 2,
+   "why": "Cartosat is a mapping satellite built by ISRO. The Moon and Titan are moons, and the Earth is a planet. Nobody made them.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What does a planet go round, and what does a moon go round?",
+   "opts": [
+    "A planet: a star. A moon: a planet",
+    "Both go round a star only",
+    "A planet: a moon. A moon: a star",
+    "Neither goes round anything"
+   ],
+   "a": 0,
+   "why": "A planet is a satellite of a star, and a moon is a satellite of a planet. The Moon also travels round the Sun, along with the Earth.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a satellite in orbit not hit the ground?",
+   "opts": [
+    "Gravity does not reach it",
+    "It falls, and the ground curves away as fast",
+    "Thin air holds it up",
+    "Its engine holds it up"
+   ],
+   "a": 1,
+   "why": "The satellite falls all the time. It moves sideways so fast that the round Earth curves away beneath it by the same amount. Gravity does reach it, and its engine is off.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A satellite is in orbit above the air. What would it do if gravity vanished?",
+   "opts": [
+    "Stay where it is",
+    "Go straight on, away from the Earth",
+    "Drop to the ground",
+    "Carry on in its circle"
+   ],
+   "a": 1,
+   "why": "A moving thing goes straight unless something bends its path. Gravity is what bends a satellite's path into a circle. Without it, the satellite would leave along a straight line.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A thing above the air moves sideways at 9 kilometres every second. What is its path?",
+   "opts": [
+    "A circle",
+    "A stretched loop that comes back",
+    "Straight down",
+    "A path that never comes back"
+   ],
+   "a": 1,
+   "why": "It is faster than the 7.8 needed for a circle and slower than the 11.2 needed to escape. So it swings out on an ellipse and returns.",
+   "outcome": 2
+  },
+  {
+   "t": "truefalse",
+   "p": "True or false: a spacecraft that reaches escape speed has gone beyond the reach of the Earth's gravity.",
+   "a": false,
+   "why": "False. The Earth's pull never ends. It only grows weaker. Escape speed means the spacecraft will never fall back, although the pull goes on slowing it a little for ever.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Imagine the space station standing still on a tower 400 kilometres tall. What would the astronauts feel?",
+   "opts": [
+    "They would float",
+    "Nearly their normal weight",
+    "No weight at all",
+    "One sixth of their weight"
+   ],
+   "a": 1,
+   "why": "Gravity at that height is almost nine tenths as strong as on the ground, and the tower's floor would push up on them. They float in orbit only because the floor is falling with them. One sixth is the Moon's surface.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these satellites takes the longest to go once round the Earth?",
+   "opts": [
+    "One that is 400 kilometres up",
+    "One that is 20,000 kilometres up",
+    "One that is 36,000 kilometres up",
+    "They all take the same time"
+   ],
+   "a": 2,
+   "why": "The higher the orbit, the weaker the pull, the slower the satellite and the longer its way round. The three trips take about 92 minutes, 12 hours and 1 day.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You whirl a pouch on a thread and double the hanging load. To keep the same circle, how must you whirl?",
+   "opts": [
+    "Faster",
+    "More slowly",
+    "At the same speed",
+    "It makes no difference"
+   ],
+   "a": 0,
+   "why": "A stronger pull bends the path more sharply, so the pouch must go faster to stay out on the same circle. If you whirl at the old speed, the load pulls the pouch in.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which satellite would you choose to photograph every village in India in sharp detail?",
+   "opts": [
+    "One in geostationary orbit",
+    "One in a low polar orbit",
+    "One in orbit round the Moon",
+    "A navigation satellite"
+   ],
+   "a": 1,
+   "why": "A low satellite is close enough to see detail. In a polar orbit, the Earth turns beneath it, so in time it passes over every village. A geostationary satellite is about 60 times farther away.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "What did Mangalyaan do in September 2014?",
+   "opts": [
+    "It landed on the Moon",
+    "It went into orbit round Mars",
+    "It became India's first satellite",
+    "It carried astronauts to a station"
+   ],
+   "a": 1,
+   "why": "Mangalyaan went into orbit round Mars on 24 September 2014, at India's first try. The Moon landing was Chandrayaan-3 in 2023, and the first satellite was Aryabhata in 1975.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Why do some scientists worry about tens of thousands of new satellites?",
+   "opts": [
+    "Crashes can make debris that causes more crashes",
+    "Satellites use up the Earth's gravity",
+    "They make the Earth much heavier",
+    "They block the Sun's light by day"
+   ],
+   "a": 0,
+   "why": "Donald Kessler showed in 1978 that in a crowded orbit, each crash makes pieces that can cause further crashes. Gravity cannot be used up, and satellites are tiny beside the Earth.",
+   "outcome": 7
+  },
+  {
+   "t": "truefalse",
+   "p": "True or false: scientists all agree on why stars at the edges of galaxies move so fast.",
+   "a": false,
+   "why": "False. Most think unseen dark matter adds its pull, but no particle of it has been found. A smaller group thinks the rule for gravity needs changing when the pull is very weak.",
+   "outcome": 7
+  }
+ ],
+ "videos": [
+  {
+   "title": "Why Doesn't the Moon Fall to Earth? Exploring Orbits and Gravity",
+   "channel": "NASA Night Sky Network",
+   "youtube": "OKXVRu6JL54",
+   "mins": 5,
+   "why": "To see the Moon's orbit explained as a fall that keeps missing, with a demonstration you can copy at home.",
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here, and the length is not confirmed: a parent should preview it."
+  },
+  {
+   "title": "Newton's Cannonball",
+   "channel": "Debbink Physics",
+   "youtube": "8bEwClJBMGA",
+   "mins": 4,
+   "why": "To see Newton's cannon on a mountain fired at different speeds, until the ball goes right round the Earth.",
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here, and the length is not confirmed: a parent should preview it."
+  },
+  {
+   "title": "What Did India's Mars Orbiter Mission See On Mars? | MOM Mangalyaan ISRO",
+   "channel": "Astrum",
+   "youtube": "LW4PLbguuE8",
+   "mins": 6,
+   "why": "To see the pictures Mangalyaan sent back from its orbit round Mars, and how its long stretched orbit was used.",
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here, and the length is not confirmed: a parent should preview it. Watch the first 6 minutes."
+  }
+ ],
+ "applications": [
+  "Weather satellites such as INSAT-3DS track cyclones over the Bay of Bengal and the Arabian Sea, so that people on the coast can move in time.",
+  "Navigation satellites tell phones, buses, trains, ships and fishing boats where they are. India's own system is NavIC.",
+  "Television, village telephone links and bank machines in far-off places send their signals through geostationary satellites.",
+  "Mapping satellites such as Cartosat and Resourcesat measure crops, floods, forest cover, city growth and the shrinking of glaciers.",
+  "Oceansat's pictures of the sea are turned into daily advice for fishers on where fish are likely to gather.",
+  "Space agencies plan every flight to the Moon and Mars as a chain of orbits, using gravity to save fuel.",
+  "Astronomers weigh a planet, a star or a whole galaxy by timing whatever goes round it.",
+  "Doctors use what astronauts' bodies do in orbit to understand bone loss and balance problems in people on the ground."
+ ],
+ "spotted": [
+  {
+   "text": "Dish antennas on roofs and balconies, all tilted towards the same patch of the southern sky.",
+   "art": "A row of dish antennas on the roof of a block of flats, all pointing the same way."
+  },
+  {
+   "text": "A steady point of light crossing the sky an hour after sunset, with no blinking.",
+   "art": "A dusk sky over a city with one small point of light and a faint line showing its path."
+  },
+  {
+   "text": "The Moon, a little farther east each evening at the same time.",
+   "art": "Three evenings side by side, with the Moon farther from a water tank in each."
+  },
+  {
+   "text": "The cloud picture in the weather report, taken from 36,000 kilometres up.",
+   "art": "A television screen showing a satellite picture of clouds swirling over the Bay of Bengal."
+  },
+  {
+   "text": "The blue dot on a phone map, worked out from the signals of four or more satellites.",
+   "art": "A phone showing a map with a blue dot, and four small satellites drawn above it."
+  },
+  {
+   "text": "High tide and low tide on any beach, twice a day, as the Earth turns under the Moon's pull.",
+   "art": "A beach at low tide with boats resting on wet sand, and the same beach at high tide."
+  },
+  {
+   "text": "A rocket's trail bending over towards the sea, seen from the coast near Sriharikota.",
+   "art": "A white rocket trail rising from an island and curving over the sea, watched from a beach."
+  },
+  {
+   "text": "A ball thrown level, curving down to the ground: the first part of an orbit.",
+   "art": "A child throwing a ball level across a courtyard, with the ball's curved path dotted in."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do the outer stars of galaxies go round so fast?",
+   "why_open": "Either there is unseen dark matter, or the rule for gravity changes when the pull is very weak. Nobody has found a dark matter particle, and no changed rule fits every measurement."
+  },
+  {
+   "q": "How exactly did the Moon form?",
+   "why_open": "Most scientists think a world the size of Mars hit the young Earth, and the Moon gathered from the wreck. But Moon rocks are almost the same as Earth rocks, and a simple crash should have left more of the other world in them."
+  },
+  {
+   "q": "How much water ice is in the dark craters at the Moon's poles, and can it be used?",
+   "why_open": "Chandrayaan-1 and other orbiters saw signs of ice from above. No machine has yet dug into a dark crater floor and measured it."
+  },
+  {
+   "q": "How many satellites and pieces of debris can low orbit hold before crashes begin to multiply?",
+   "why_open": "It depends on how well satellites steer, how often they fail, and how fast the thin air clears each height. The models disagree, and the only full test would be the disaster itself."
+  },
+  {
+   "q": "Can humans and other animals stay healthy for years without the push of the ground?",
+   "why_open": "The longest single stay in orbit is about 14 months. Nobody knows what three years, the time for a trip to Mars and back, does to bones, eyes and the heart, or whether a baby could grow normally."
+  },
+  {
+   "q": "Is there a large unseen planet far beyond Neptune?",
+   "why_open": "In 2016 Konstantin Batygin and Michael Brown showed that some small far-off worlds have orbits that line up strangely. A hidden planet could explain it. So could chance, or the places where telescopes happened to look. Nobody has seen the planet."
+  }
+ ],
+ "ask_kids": [
+  "If you threw a ball hard enough, could it come right round the Earth and hit you on the back? What would be in its way?",
+  "Is the Moon falling right now? How could you tell?",
+  "Why does the dish on the roof never need to turn?",
+  "You are moving round the Sun at 30 kilometres every second. Why can you not feel it?",
+  "If you were in the space station, how would you drink water, sleep and brush your teeth?",
+  "What would you want a satellite to watch over in our town or village?",
+  "Who should be asked before thousands of new satellites are put in the night sky?",
+  "When you jump, you are in free fall for a moment. Do you feel your weight then?"
+ ],
+ "jokes": [
+  {
+   "j": "Why does a satellite never get anywhere?",
+   "a": "It spends all its time falling and missing."
+  },
+  {
+   "j": "What did the Earth say to the Moon?",
+   "a": "You keep falling for me, and you keep missing."
+  },
+  {
+   "j": "Why did the rocket lean over?",
+   "a": "Going up was the easy part. Sideways was the real work."
+  },
+  {
+   "j": "How does the Moon cut its hair?",
+   "a": "Eclipse it."
+  },
+  {
+   "j": "Why can't astronauts pour a cup of tea?",
+   "a": "The tea and the cup are falling together, so the tea will not come out."
+  },
+  {
+   "j": "What is a satellite's favourite game?",
+   "a": "Missing the ground."
+  },
+  {
+   "j": "What did the low satellite shout to the high satellite?",
+   "a": "Hurry up! And the high one said: there is no rush up here."
+  },
+  {
+   "j": "Why did Mangalyaan go round the Earth six times before leaving?",
+   "a": "It was taking a run-up."
+  },
+  {
+   "j": "Why did the dish on the roof stay so calm?",
+   "a": "Its satellite never left its side, even at 3 kilometres a second."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "On your drawing, 1 centimetre stands for 1,000 kilometres. A geostationary satellite is 35,786 kilometres above the ground. How many centimetres from the circle is that, to the nearest centimetre?",
+   "answer": "36 centimetres.",
+   "explain": "Divide by 1,000. 35,786 divided by 1,000 is 35.786, which rounds to 36.",
+   "math_unit": "math.measurement-basics.scale-models.L5",
+   "context": "This is about How High Is Space. You place a satellite on a scale drawing of the Earth.",
+   "why_maths": "A scale lets one sheet of paper hold distances far too large to see at once.",
+   "how": "a1"
+  },
+  {
+   "problem": "The space station moves 7.7 kilometres every second. How far does it go in one minute?",
+   "answer": "462 kilometres.",
+   "explain": "One minute is 60 seconds. 7.7 times 60 is 462. That is farther than Chennai to Madurai, in one minute.",
+   "math_unit": "math.time.speed.L5",
+   "context": "This is about the speed of a low orbit. You turn a speed in seconds into a distance in a minute.",
+   "why_maths": "Multiplying a speed by a time gives a distance, and that makes a huge speed easier to picture."
+  },
+  {
+   "problem": "The space station takes 92 minutes for one trip round the Earth. How many full trips does it finish in 24 hours, and how many minutes are left over?",
+   "answer": "15 full trips, with 60 minutes left over.",
+   "explain": "24 hours is 1,440 minutes. 15 times 92 is 1,380, and 16 times 92 is 1,472, which is too many. 1,440 minus 1,380 is 60.",
+   "math_unit": "math.division.remainders-and-cycles.L5",
+   "context": "This is about the period of an orbit, the time for one trip round.",
+   "why_maths": "Dividing a day by the time for one trip tells how often a satellite comes round, and the remainder tells where it is at midnight."
+  },
+  {
+   "problem": "In Orbit in Your Hand, three tries for ten rounds gave 10.4, 9.8 and 10.9 seconds. What is the middle time? How long did one round take at that time?",
+   "answer": "The middle time is 10.4 seconds. One round took 1.04 seconds.",
+   "explain": "Put the times in order: 9.8, 10.4, 10.9. The middle one is 10.4. Divide by 10 to get the time for one round, which is 1.04 seconds.",
+   "math_unit": "math.data.averages.L5",
+   "context": "This is about Orbit in Your Hand. You choose one fair number from three tries.",
+   "why_maths": "One try can be a fluke. The middle of three tries is a steadier number to compare.",
+   "how": "e1"
+  },
+  {
+   "problem": "The Moon moves away from the Earth by 3.8 centimetres every year. How far will it move in 100 years? Give the answer in metres.",
+   "answer": "3.8 metres.",
+   "explain": "3.8 times 100 is 380 centimetres. 380 centimetres is 3.8 metres. That is a tiny part of 3,84,400 kilometres.",
+   "math_unit": "math.fractions.decimal-operations.L5",
+   "context": "This is about the Moon's slow drift outwards, measured with lasers.",
+   "why_maths": "Multiplying a small yearly change by many years shows whether it matters over a lifetime."
+  },
+  {
+   "problem": "A satellite is moved to 3 times its distance from the Earth's centre. The Earth pulled it with 90 newtons before. How hard does the Earth pull it now?",
+   "answer": "10 newtons.",
+   "explain": "The pull falls with the distance multiplied by itself. 3 times 3 is 9. 90 divided by 9 is 10.",
+   "math_unit": "math.number-sense.powers-and-roots.L5",
+   "context": "This is about how gravity weakens with distance, which sets the speed of every orbit.",
+   "why_maths": "Squaring the distance gives how much weaker the pull is, and the pull decides how fast a satellite must go."
+  },
+  {
+   "problem": "The space station's circle round the Earth is about 42,500 kilometres long. One trip takes 92 minutes. About how many kilometres does it cover each minute?",
+   "answer": "About 462 kilometres each minute.",
+   "explain": "42,500 divided by 92 is about 462. This matches 7.7 kilometres every second, because 7.7 times 60 is 462.",
+   "math_unit": "math.shapes-2d.circles.L5",
+   "context": "This is about the length of an orbit and the time it takes.",
+   "why_maths": "The distance round a circle, divided by the time for one trip, gives the speed, and it can be checked against the speed measured another way."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.gravity.L5",
+  "title": "Gravity",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "PhET Gravity and Orbits",
+   "url": "https://phet.colorado.edu/en/simulations/gravity-and-orbits",
+   "kind": "simulation",
+   "why": "Launch a satellite or a moon at different speeds and see it fall back, orbit or escape. Switch gravity off and watch it go straight."
+  },
+  {
+   "title": "NASA Spot the Station",
+   "url": "https://spotthestation.nasa.gov/",
+   "kind": "interactive",
+   "why": "Find the next time the space station passes over your town, for Satellite Spotting."
+  },
+  {
+   "title": "Heavens-Above",
+   "url": "https://www.heavens-above.com/",
+   "kind": "interactive",
+   "why": "Lists of bright satellites passing over any place, with sky charts. For the parent to set up."
+  },
+  {
+   "title": "ISRO, the Indian Space Research Organisation",
+   "url": "https://www.isro.gov.in/",
+   "kind": "interactive",
+   "why": "News, pictures and the list of every Indian launch and satellite."
+  },
+  {
+   "title": "MOSDAC, India's weather satellite data centre (ISRO)",
+   "url": "https://www.mosdac.gov.in",
+   "kind": "interactive",
+   "why": "Today's cloud pictures over India from the INSAT satellites."
+  },
+  {
+   "title": "Bhuvan, the map portal of ISRO",
+   "url": "https://bhuvan.nrsc.gov.in",
+   "kind": "interactive",
+   "why": "Find your own street in pictures taken by Indian satellites in low orbit."
+  },
+  {
+   "title": "Launch View Gallery, Satish Dhawan Space Centre",
+   "url": "https://lvg.shar.gov.in/",
+   "kind": "place",
+   "where": "Sriharikota, Andhra Pradesh",
+   "why": "Families can register to watch a rocket launch from the viewing gallery. Check the dates and the rules before you plan a trip."
+  },
+  {
+   "title": "Space Museum, Vikram Sarabhai Space Centre",
+   "url": "https://www.vssc.gov.in/",
+   "kind": "place",
+   "where": "Thumba, Thiruvananthapuram",
+   "why": "The museum is in the old church that the fishing families of Thumba gave for India's first rocket station. Ask about visiting hours before you go."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "https://www.vismuseum.gov.in/",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "It has a space gallery with models of Indian rockets and satellites."
+  },
+  {
+   "title": "Nehru Planetarium",
+   "url": "https://www.nehru-centre.org/",
+   "kind": "place",
+   "where": "Mumbai",
+   "why": "Sky shows about the Moon, the planets and their orbits."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-thread",
+   "item": "A reel of strong nylon thread, or a pack of dental floss",
+   "kind": "material",
+   "why": "For the whirler in Orbit in Your Hand and Near and Far. It slides smoothly through the pen barrel. Polyester sewing thread used double also works.",
+   "url": "https://www.amazon.in/s?k=nylon+thread+reel",
+   "used_in": [
+    "e1",
+    "e2"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "Those Magnificent Women and Their Flying Machines: ISRO's Mission to Mars, by Minnie Vaid (Speaking Tiger, 2019)",
+   "kind": "book",
+   "why": "The stories of the women scientists who worked on Mangalyaan, told from interviews with them.",
+   "url": "https://www.amazon.in/s?k=Those+Magnificent+Women+and+Their+Flying+Machines+Minnie+Vaid",
+   "used_in": [
+    "ws-stretch"
+   ],
+   "plan": "Read one scientist's chapter aloud after the card on India's road to orbit, before the stretch worksheet. It is written for adults, so the parent reads and retells."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Is the Moon a natural or an artificial satellite?",
+   "a": "Natural. Nobody made it."
+  },
+  {
+   "q": "Does a satellite need its engine on to stay in orbit?",
+   "a": "No. Above the air, almost nothing slows it."
+  },
+  {
+   "q": "About how fast must a thing go to orbit just above the air?",
+   "a": "About 8 kilometres every second."
+  },
+  {
+   "q": "Why do astronauts float?",
+   "a": "They fall together with their station, so nothing pushes on them."
+  },
+  {
+   "q": "Which goes round sooner: a low satellite or a high one?",
+   "a": "The low one. The pull is stronger there, so it moves faster on a shorter path."
+  },
+  {
+   "q": "What was India's first satellite?",
+   "a": "Aryabhata, launched on 19 April 1975."
+  },
+  {
+   "q": "What do we call the speed at which a thing never falls back?",
+   "a": "Escape speed. From the Earth it is about 11.2 kilometres every second."
+  },
+  {
+   "q": "Which way would the Moon go if the Earth's gravity vanished?",
+   "a": "Straight on, along the line it was moving on."
+  }
+ ],
+ "warm": {
+  "words": [
+   "ORBIT",
+   "SPEED",
+   "EARTH",
+   "SPACE",
+   "ROUND"
+  ],
+  "quiz": [
+   [
+    "Gravity at the height of the space station is almost as strong as on the ground.",
+    true,
+    "It is almost nine tenths as strong. The station is only 400 kilometres up."
+   ],
+   [
+    "A satellite stays up because its engine keeps pushing it.",
+    false,
+    "Its engine is off. It stays up because of its sideways speed."
+   ],
+   [
+    "The Moon is falling towards the Earth all the time.",
+    true,
+    "It falls about 1.4 millimetres each second and moves sideways fast enough to keep missing."
+   ],
+   [
+    "A higher satellite goes round the Earth faster than a lower one.",
+    false,
+    "Higher up the pull is weaker, so the satellite moves more slowly and takes longer."
+   ],
+   [
+    "A geostationary satellite is not moving.",
+    false,
+    "It moves at about 3 kilometres every second, in step with the turning Earth."
+   ],
+   [
+    "A thing at escape speed has left the Earth's gravity behind.",
+    false,
+    "The pull never ends. Escape means the thing will not fall back."
+   ],
+   [
+    "Mangalyaan went into orbit round Mars at India's first try.",
+    true,
+    "It arrived on 24 September 2014."
+   ],
+   [
+    "An astronaut in orbit still has all her mass.",
+    true,
+    "Only the feeling of weight is gone, because nothing pushes up on her."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "The Moon",
+     "Titan",
+     "Cartosat",
+     "Io"
+    ],
+    "Cartosat",
+    "The others are natural moons. Cartosat was built by people."
+   ],
+   [
+    [
+     "Aryabhata",
+     "Rohini",
+     "INSAT-1B",
+     "Sputnik 1"
+    ],
+    "Sputnik 1",
+    "The others are Indian satellites. Sputnik 1 was the Soviet Union's, and the first of all."
+   ],
+   [
+    [
+     "Falls back",
+     "Orbits",
+     "Escapes",
+     "Hangs still"
+    ],
+    "Hangs still",
+    "A launched thing can do the first three. Nothing above the Earth can hang still."
+   ],
+   [
+    [
+     "Perigee",
+     "Apogee",
+     "Ellipse",
+     "Newton"
+    ],
+    "Newton",
+    "The others describe the shape of an orbit. The newton is a unit of force."
+   ]
+  ]
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "a2",
+   "a3",
+   "story",
+   "e2",
+   "g1",
+   "ws-core",
+   "videos",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "a4",
+   "c1",
+   "ws-stretch",
+   "p1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Founder's notebook, the gravity page (ideas/by_topic/gravity.md): the ISS notes ('if no normal force is holding us, why are we not falling into gravity? Because of sideways velocity, 7.6 km/s, 13 to 15 orbits per day'). They are the centre of the explanations 'An orbit is falling round' and 'Astronauts float because they are falling'.",
+   "Founder's notebook, 'Escaping G: orbital velocity' with the hula hoop, Moon and ISS, and planets round the Sun, and the True or False and Answer card sets. They are the starting point of the game Falls Back, Orbits or Escapes and of the explanation 'Too slow, just right, too fast'.",
+   "Founder's notebook, the activity ideas 'create a model of orbits with string and weights' and the tides notes (two bulges, the Moon moving away 3.8 cm a year, the same face towards the Earth). They became Orbit in Your Hand, Near and Far, and the explanation on the Moon.",
+   "Curriculum entry sci.gravity.orbits.L5: gravity and satellites, natural and artificial satellites, escape speed. Board chapters Cambridge Stage 5 5.2 'Gravity and satellites' and NIOS Level B Lesson 11 'Solar System and Earth'.",
+   "Other lessons were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The walking drop and the marble to the cup are in sci.gravity.falling.L4. The cloth model of bent space, escape speed by jumping and Lagrange points are in sci.gravity.falling.L3. The normal force is in sci.gravity.weight-and-mass.L5."
+  ],
+  "science": [
+   "Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3 (the Moon test). Newton, I. (1728). A Treatise of the System of the World (the cannon on a mountain).",
+   "Hooke, R. Letter to Newton, 24 November 1679, in The Correspondence of Isaac Newton, vol. 2 (Cambridge University Press, 1960).",
+   "Kepler, J. (1609). Astronomia Nova. Kepler, J. (1619). Harmonices Mundi.",
+   "Du Châtelet, É. (1759). Principes mathématiques de la philosophie naturelle (translation of and commentary on Newton).",
+   "Einstein, A. (1915). Die Feldgleichungen der Gravitation. For the 'happiest thought' of 1907: Pais, A. (1982). Subtle is the Lord, chapter 9.",
+   "Asimov, I. (1963). 'Just Mooning Around', The Magazine of Fantasy and Science Fiction (the Sun's pull on the Moon and the double planet).",
+   "Al-Biruni (about 1030), India, chapter 26, quoting Brahmagupta on the Earth attracting things. Translation by E. C. Sachau (1910).",
+   "Plofker, K. (2009). Mathematics in India. Princeton University Press (on Aryabhata's model). Van der Waerden, B. L. (1987). 'The heliocentric system in Greek, Persian and Hindu astronomy', Annals of the New York Academy of Sciences 500.",
+   "Kessler, D. J. and Cour-Palais, B. G. (1978). Collision frequency of artificial satellites: the creation of a debris belt. Journal of Geophysical Research 83.",
+   "European Space Agency, Space Environment Report (2025), for the numbers of tracked objects and working satellites.",
+   "Rubin, V. C. and Ford, W. K. (1970). Rotation of the Andromeda Nebula. Astrophysical Journal 159. Milgrom, M. (1983). A modification of the Newtonian dynamics. Astrophysical Journal 270. Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. Astrophysical Journal Letters 648.",
+   "Dickey, J. O. et al. (1994). Lunar laser ranging: a continuing legacy of the Apollo program. Science 265 (the Moon's drift of 3.8 cm a year).",
+   "Pieters, C. M. et al. (2009). Character and spatial distribution of OH/H2O on the surface of the Moon seen by M3 on Chandrayaan-1. Science 326.",
+   "Batygin, K. and Brown, M. E. (2016). Evidence for a distant giant planet in the Solar System. Astronomical Journal 151.",
+   "Dacke, M. et al. (2013). Dung beetles use the Milky Way for orientation. Current Biology 23.",
+   "ISRO mission pages for Aryabhata, SLV-3, INSAT-1B, Chandrayaan-1, the Mars Orbiter Mission, Chandrayaan-2, Chandrayaan-3, Aditya-L1 and INSAT-3DS (isro.gov.in). Rao, U. R. (2014). India's Rise as a Space Power. Vaid, M. (2019). Those Magnificent Women and Their Flying Machines.",
+   "Sarabhai, V. Address quoted on ISRO's page on its founder ('There are some who question the relevance of space activities in a developing nation'). Drèze, J., quoted in press reports on the Mars mission, November 2013.",
+   "Weinberg, S. (1977). The First Three Minutes. Chandogya Upanishad 8.1.3 (translation: P. Olivelle, 1996). Tao Te Ching 25. Newton's translation of the Emerald Tablet, Keynes MS 28, King's College, Cambridge.",
+   "To verify before print: that B. P. Dakshayani led flight dynamics for the Mars Orbiter Mission, the shelf mark Keynes MS 28, the wording of Jean Drèze's 2013 remark, and the current number of working satellites."
+  ]
+ },
+ "how_we_found_out": {
+  "context": "How did people find out that an orbit is a fall? This card tells how one rule replaced two.",
+  "story": "For about 2,000 years, most scholars followed the Greek thinker Aristotle. He taught that the sky and the Earth obey different rules. Things on the Earth fall and stop. The Moon and the stars are made of a perfect stuff that circles for ever. This fitted what everyone saw, because mangoes fall and the Moon does not. In 1679, Robert Hooke wrote to Isaac Newton with a new idea. An orbit could be a straight movement that is bent, all the time, by a pull towards the centre. Newton did the sums. The Moon is 60 times as far from the Earth's centre as a mango is. He found that the Moon falls towards the Earth 3,600 times more gently than the mango, which is exactly what one rule for both would give. He published this in 1687, and he drew a cannon on a mountain firing a ball right round the world. Émilie du Châtelet translated and explained his book in French, and France still uses her version. On 4 October 1957, the Soviet satellite Sputnik 1 did what Newton had drawn.",
+  "who": "Robert Hooke, Isaac Newton and Émilie du Châtelet, and the builders of Sputnik 1, led by Sergei Korolev.",
+  "when": "Hooke's letter was written in 1679. Newton's book came out in 1687, and du Châtelet's translation in 1759. Sputnik 1 flew in 1957.",
+  "wrong_idea": "That the sky and the Earth follow different rules: sky things circle for ever by their nature, and earthly things fall. It was believable because nobody had ever seen a sky thing fall or an earthly thing circle. It was shown wrong when Newton's sum for the Moon's fall matched the fall of things on the ground, and again when people put a thing made on the ground into orbit.",
+  "art": "Newton's drawing of a cannon on a mountain top with paths curving round the Earth, and beside it the small metal ball of Sputnik 1 with four thin aerials."
+ },
+ "roots": {
+  "context": "In this lesson you drew the space station 4 millimetres above the Earth and held an orbit on a thread. Here we ask what a fall that never lands says about the sky, the ground and us.",
+  "deep_truth": {
+   "truth": "On your drawing, the space station was 4 millimetres above the Earth, and gravity pulls it almost as hard as it pulls you. It stays up only because it never stops falling. The Moon falls by the same rule as a dropped mango. So the sky has no rules of its own. 'Up there' and 'down here' are one place.",
+   "habit": "We split the world into the ground, where things fall, and the sky, where things float or hang. We also treat falling and staying up as opposites. An orbit is both at once, so neither split holds.",
+   "evidence": "In How High Is Space, the station sat just above the line of the Earth, where gravity is almost nine tenths as strong as on the ground. In Orbit in Your Hand, the pouch stayed out in its circle only while the thread pulled it inwards. Newton's sum gives the Moon a fall of 1.4 millimetres each second, which is a mango's fall made 3,600 times weaker by distance."
+  },
+  "three": {
+   "who_am_i": "You are in orbit now. With the Earth, you fall round the Sun at about 30 kilometres every second, and you feel nothing, just as an astronaut feels nothing. The matter of your body follows the rule that the Moon follows.",
+   "what_is_life": "Life on the Earth grew up with the Moon's orbit. Corals, crabs and many other sea animals time their eggs by the Moon and the tides. The bodies of humans and other animals are shaped by the push of the ground, and they begin to change when that push is gone.",
+   "what_is_this_world": "It is a world where one rule runs from a pebble to a galaxy. Nothing in it hangs in place by itself. Each thing is held on its path by the others."
+  },
+  "thread": "A mango, the Moon, the Earth and the Sun look like separate things with separate ways of moving. This lesson's tests show one fall, at different speeds and distances. An orbit is not something the Moon has by itself. It is something the Earth and the Moon do together, round a point they share. Everything is one thing showing up as many, and gravity is among the plainest places to see it. Some sages said this long ago and some thinkers disagree, and both are given here.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 8.1.3",
+    "teaching": "As far as this space reaches, so far reaches the space within the heart. Both heaven and earth are held within it.",
+    "link": "The sage does not put heaven in one place and earth in another. Both are held in one space. This lesson found the same from the outside: one rule of falling holds the mango and the Moon."
+   },
+   {
+    "source": "The Emerald Tablet, in Isaac Newton's own translation of about 1680 (Keynes MS 28, King's College, Cambridge). The text first appears in Arabic, in the Book of the Secret of Creation, around the 800s CE.",
+    "teaching": "That which is below is like that which is above, and that which is above is like that which is below.",
+    "link": "Newton copied out this old saying by hand, a few years before he showed that the Moon falls as a stone does. The saying proved nothing. His sums and measurements did. But it shows that the question was asked long before him, in Arabic and in Latin."
+   },
+   {
+    "source": "Tao Te Ching 25",
+    "teaching": "Humans follow the Earth. The Earth follows heaven. Heaven follows the Way. The Way follows what is natural to it.",
+    "link": "Laozi's lines join the ground and the sky in one chain, each following the next, with one Way running through all of them. An orbit is a small case of it: you follow the Earth, and the Earth follows the Sun."
+   }
+  ],
+  "science": [
+   {
+    "text": "One rule of gravity describes a falling mango, the Moon, the planets and every satellite. Each spacecraft flight tests it again.",
+    "status": "settled"
+   },
+   {
+    "text": "A thing in free fall feels no weight, whether it is a child in mid-jump or an astronaut in orbit.",
+    "status": "settled"
+   },
+   {
+    "text": "At the edges of galaxies, stars move faster than the rule predicts from the matter we see. Most astronomers add unseen dark matter. A few change the rule.",
+    "status": "debated"
+   },
+   {
+    "text": "What gravity is at the smallest scales, and why the universe follows one rule at all, science has not answered.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Steven Weinberg, a physicist, and Madhvacharya, the teacher of Dvaita",
+   "view": "Weinberg held that one rule everywhere shows only that matter behaves alike everywhere. It does not show that things are one, or that the universe means anything. He wrote in 1977 that the more the universe seems comprehensible, the more it also seems pointless. Madhvacharya of Udupi taught in the 1200s that the differences between one thing and another are real and lasting. In his view, the mango and the Moon may obey one law and still be truly two."
+  },
+  "practice": {
+   "title": "Sit still at 30 kilometres a second",
+   "mins": 3,
+   "say": "Sit on the floor and close your eyes. Feel the floor push up on you. Now remember that the floor, the building and the whole Earth are falling round the Sun. You are falling with them, about 30 kilometres every second. Breathe slowly ten times. Look for any feeling of that movement. Then open your eyes, and tell me what you found.",
+   "kid": "Sit on the floor. Close your eyes. Feel the floor push up. You and the Earth are falling round the Sun. Breathe slowly ten times. Can you feel the fall?"
+  },
+  "ask": [
+   "If the Moon and a mango fall by one rule, is there any real line between the sky and the ground?",
+   "You are falling round the Sun and you feel nothing. What else might be happening to you that you do not notice?",
+   "The Earth and the Moon go round a point they share. Is an orbit something one thing does, or something two things do?",
+   "Weinberg says one rule everywhere means nothing more than that. What do you say?"
+  ],
+  "art": "A child sitting cross-legged on a floor, drawn small on a round Earth, with the Moon on its curved path round the Earth and the Earth on its curved path round the Sun."
+ },
+ "playtest": "The experiments, activities and the game were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. Orbit in Your Hand (core) depends on a thread that slides freely through the pen barrel. Friction at the rim lets the marker clip hold over a range of speeds, so the times are rough: expect ten rounds to take about 10, 7 and 5 seconds with 1, 2 and 4 loads, and look at the direction of the change. Two people are needed, one to whirl and one to time. A hanging load pulls equally at every thread length, which gravity does not, and the lesson says so. Near and Far needs a clear space 2 metres wide. In the Water Cannon the distances depend on the height of the stool, so the bowl may need moving. Satellite Spotting and Moon Tracker need a view of the sky and are outside the core path. The Moon Tracker must start two to four days after a new Moon."
+}
