@@ -1,0 +1,511 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.sound.sources-of-sound.L3": {
+   "videos": [
+    {
+     "title": "Sound is produced from a vibration | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "UArKngC3NGQ",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Sound is produced by a vibrating object.",
+     "confidence": "high"
+    },
+    {
+     "title": "Production of sound | Mechanical waves and sound | Physics | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "nGKffdaI4Pg",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "How vibrating objects produce sound.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan India clip is short and on level; it does not cover feeling vibration with the hands."
+  },
+  "sci.sound.waves.L3": {
+   "videos": [
+    {
+     "title": "Wave properties | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "t27NSviEsX8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Waves carry energy through a medium without moving the material along.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Wave transmission | Waves | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "3fY-DB9D6uU",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Waves transmit energy through a material.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "The video covers wave energy moving through a medium; the Mexican wave and the slinky are not shown, and ripples only briefly."
+  },
+  "sci.states.crystals.L3": {
+   "videos": [
+    {
+     "title": "Crystallisation | Is matter  around us pure? | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "hBpmLf-8G2A",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Crystallisation: crystals form from a solution.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Molecules, crystals, and diatomic elements | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "thXilnp5UNQ",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Crystals are made of repeating arrangements of particles.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan's crystal videos are about lattices and crystallisation in older chemistry; none grows salt or sugar crystals at home."
+  },
+  "sci.states.dissolving.L3": {
+   "videos": [
+    {
+     "title": "Soluble and Insoluble | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "abFdZAJNurw",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Some substances dissolve in water and some do not.",
+     "confidence": "high"
+    },
+    {
+     "title": "Solutions | Solute, Solvent and Solutions | Grade 8 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "kYgGI9Ox3gU",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Solute, solvent and solution.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not cover lemonade; it explains solute, solvent and which things dissolve."
+  },
+  "sci.states.evaporation-and-condensation.L3": {
+   "videos": [
+    {
+     "title": "Condensation | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "t2H9fbmzwjM",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Water vapour in air turns back into liquid (condensation).",
+     "confidence": "high"
+    },
+    {
+     "title": "Evaporation and its cooling effect| Matter in our surroundings | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "RtzzCrfZAL8",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Liquid water turns into vapour (evaporation).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers the science of both changes; puddles and misty windows are not shown."
+  },
+  "sci.states.liquids-up-close.L3": {
+   "videos": [
+    {
+     "title": "Surface tension | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "4ELxJ53mMHE",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Surface tension: the stretchy skin that lets small things rest on water.",
+     "confidence": "high"
+    },
+    {
+     "title": "Cohesion and adhesion | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jppj2KKJpk8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why water molecules stick together.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Surface tension is covered well; thick and thin flow (viscosity) is only in older medical-level videos, so it is left out."
+  },
+  "sci.states.particles.L3": {
+   "videos": [
+    {
+     "title": "Characteristics of particles of matter | Matter in our surroundings | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "axxD_eWk7M0",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Matter is made of tiny particles.",
+     "confidence": "high"
+    },
+    {
+     "title": "States of matter | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gBiF-OLUVTY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "States of matter as particles.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers particles in solids, liquids and gases; does not show sugar dissolving."
+  },
+  "sci.story-of-universe.galaxies-and-big-bang.L3": {
+   "videos": [
+    {
+     "title": "Big bang introduction | Scale of the universe | Cosmology & Astronomy | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "eUF59jCFcyQ",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "The universe began with the Big Bang and has been expanding.",
+     "confidence": "high"
+    },
+    {
+     "title": "Galaxies and gravity | Earth in space | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "tNGVqoOLl-k",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Galaxies and what holds them together.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Hubble image of galaxies | Scale of the universe | Cosmology & Astronomy | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Wl4re38deh0",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Hubble image: galaxies of many shapes and far distances.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Big bang video is long and older level; light-travel-time as looking back is not clearly covered here."
+  },
+  "sci.story-of-universe.galaxies.L3": {
+   "videos": [
+    {
+     "title": "Stars and Galaxies | The Universe | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "BH4q7oSsFVU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Galaxies are huge collections of stars; our Milky Way.",
+     "confidence": "high"
+    },
+    {
+     "title": "Galaxies and gravity | Earth in space | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "tNGVqoOLl-k",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Galaxies are held together by gravity.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.the-very-small.atoms.L3": {
+   "videos": [
+    {
+     "title": "Atoms | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "KyBgxe-rU48",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Everything is made of atoms, the tiny building blocks of matter.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Atoms and Molecules | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "EXCa58rcIKc",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Introduction to atoms and molecules.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not cover the cutting-paper-in-half idea."
+  },
+  "sci.waste.compost-and-disposal.L3": {
+   "videos": [
+    {
+     "title": "Biodegradable and Non Biodegradable waste | Environmental Management | Class 9 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "rpcha-bYbyk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Biodegradable waste breaks down naturally.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers biodegradable waste, not the compost bin, worms or microbes in action."
+  },
+  "sci.waste.reduce-reuse-recycle.L3": {
+   "videos": [
+    {
+     "title": "4 R Principle | Synthetic Fibres and Plastics | Class 8 | Physical Science | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "OsEdkGPvSvs",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "The 4 R principle: reduce, reuse, recycle, recover.",
+     "confidence": "high"
+    },
+    {
+     "title": "Plastics and environment | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "cyQPaXuHKDU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Plastic waste and how to reduce its harm.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.waste.sorting-waste.L3": {
+   "videos": [
+    {
+     "title": "Biodegradable and Non Biodegradable waste | Environmental Management | Class 9 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "rpcha-bYbyk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Sorting waste as biodegradable or not.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers sorting into biodegradable and non-biodegradable; not clean-neighbourhood habits."
+  },
+  "sci.water.saving-water.L3": {
+   "videos": [
+    {
+     "title": "Every drop counts | Water Management | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Dozbgnftdao",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Saving water: every drop counts.",
+     "confidence": "high"
+    },
+    {
+     "title": "Filtration | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "rv6h2tw8-2M",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Filtration separates solid dirt from water.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Filtering is covered by two chemistry clips; they show the method, not home water filters."
+  },
+  "sci.water.water-cycle.L3": {
+   "videos": [
+    {
+     "title": "The water cycle | Weather and climate | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "r2dnUvP1JgM",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Evaporation, clouds, rain and rivers return water around.",
+     "confidence": "high"
+    },
+    {
+     "title": "How are clouds formed? | Rain where does it come from? | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Av4NV_yauT8",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How clouds form and rain falls.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.weather.weather.L3": {
+   "videos": [
+    {
+     "title": "Understanding Weather | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "fPKtoSvSMTY",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What weather is and how it is observed.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Weather | Weather and climate | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "U5ikrkOGio0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Weather: temperature, wind and rain.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not show rain gauges or wind vanes being used."
+  },
+  "sci.weather.wind-and-air.L3": {
+   "videos": [
+    {
+     "title": "Winds| Air, Winds and Cyclones | Science | Grade 7 | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "t2AvZZrQ6PU",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Wind is moving air, caused by differences in air heating.",
+     "confidence": "high"
+    },
+    {
+     "title": "Wind power | Science | Khan Academy (IN accent)",
+     "channel": "Khan Academy India - English",
+     "youtube": "3nJG9USOGrA",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Wind power: wind turning turbines.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Kites and windmills are not shown; the video explains why air moves."
+  },
+  "sci.what-is-life.cells.L3": {
+   "videos": [
+    {
+     "title": "Comparing animal and plant cells | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "HjC-eMiMDfo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Living things are made of cells.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Types of cells | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Z8wtQuiCwD8",
+     "mins": 15,
+     "pitch": "on level",
+     "matches": "Types of cells.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not show onion or cheek cells under a microscope."
+  },
+  "sci.what-is-life.edge-of-life.L3": {
+   "videos": [
+    {
+     "title": "Viruses | Living World and Classification of Microbes | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XoDUY7pMkU0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Viruses: are they alive?",
+     "confidence": "medium"
+    },
+    {
+     "title": "Seed dormancy | Plant growth and development | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8yXnB5_Ew8U",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Seed dormancy: seeds wait before sprouting.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Viruses only; dormant seeds and fire are not covered, and tardigrades not at all."
+  },
+  "sci.what-is-life.signs-of-life.L3": {
+   "videos": [
+    {
+     "title": "What makes something living? | The Living World | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "tMfaKTBH6d8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "What makes something living: the life processes.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.animal-communication.L2": {
+   "videos": [
+    {
+     "title": "Animal communication",
+     "channel": "Khan Academy",
+     "youtube": "f0_8Umbbr2w",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Animals send messages to each other.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan videos are older-level; birdsong, barks and purrs specifically are not shown."
+  },
+  "sci.animal-behaviour.born-knowing.L2": {
+   "videos": [
+    {
+     "title": "Operant conditioning: Innate vs learned behaviors | Behavior | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "bGpw7NeXyBc",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Innate behaviours (born knowing) versus learned ones.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Older-level video; does not mention spiders spinning webs."
+  },
+  "sci.animals.animal-babies.L2": {
+   "videos": [],
+   "note": "No Khan video fits growing up and caring for young at this level."
+  },
+  "sci.animals.animal-bodies.L2": {
+   "videos": [],
+   "note": "No Khan video covers how animals move, eat and breathe at this level."
+  },
+  "sci.animals.animals-around-us.L2": {
+   "videos": [
+    {
+     "title": "Classification of Animals | Classification of Living Organisms | Middle School |Science|Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "YUUeO02eUKk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Grouping animals by their body features.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Classification videos are older level and about phyla, not pets and wild animals."
+  },
+  "sci.animals.insects.L2": {
+   "videos": [
+    {
+     "title": "Phylum Arthropoda - part 1 | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "KbVX6Mb9dKQ",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Arthropods: insects and spiders, with jointed legs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Spiders and worms in the garden are not covered."
+  }
+ }
+}

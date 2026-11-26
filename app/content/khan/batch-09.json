@@ -1,0 +1,469 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.electricity.static-and-charge.L3": {
+   "videos": [
+    {
+     "title": "Atmospheric Electric Charge | Static Electricity | Middle School | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "LXEXJwqh1dg",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Charge building up and lightning as a giant spark.",
+     "confidence": "high"
+    },
+    {
+     "title": "Static electricity | Physics",
+     "channel": "Khan Academy",
+     "youtube": "D5pJKu_QjRo",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Rubbing objects builds up charge that makes things stick together.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Balloons sticking to walls and lifting hair are not shown directly."
+  },
+  "sci.energy.energy-around-us.L3": {
+   "videos": [],
+   "note": "No Khan video teaches the plain idea that energy makes things move, light, heat and sound."
+  },
+  "sci.energy.heat-moves.L3": {
+   "videos": [
+    {
+     "title": "Thermal energy and heat transfer | Middle school chemistry",
+     "channel": "Khan Academy",
+     "youtube": "n3boAYB7T3k",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Heat moves from hot to cold objects.",
+     "confidence": "high"
+    },
+    {
+     "title": "Thermal conduction, convection, and radiation | Thermodynamics",
+     "channel": "Khan Academy",
+     "youtube": "8GQvMt-ow4w",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Heat moving through a metal by conduction, plus convection and radiation.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Convection and radiation go beyond the unit; the spoon-in-tea example is not shown."
+  },
+  "sci.energy.heat.L3": {
+   "videos": [
+    {
+     "title": "Measuring temperature | Middle school physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "kdOzQf1ZRtk",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Measuring temperature with a thermometer.",
+     "confidence": "high"
+    },
+    {
+     "title": "Thermal energy, temperature, and heat",
+     "channel": "Khan Academy",
+     "youtube": "-7Gl-yKF6Y4",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Difference between heat and temperature; heat flows from hot to cold.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.stored-energy.L3": {
+   "videos": [
+    {
+     "title": "Potential energy | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "5VVY0MSkrd0",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Energy stored by height and by a stretched or compressed object.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Potential energy | Energy | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "oGzwVYPxKjg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Stored energy waiting to be used.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover food or batteries as stored (chemical) energy."
+  },
+  "sci.environment.caring.L3": {
+   "videos": [],
+   "note": "Khan has no video on what the environment is or natural versus man-made things for this level."
+  },
+  "sci.environment.conservation.L3": {
+   "videos": [
+    {
+     "title": "Conservation of Plants & Animals | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "qQ_0n0_h9Ko",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why and how living things are conserved.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Freshwater use and conservation | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "6N-W1guncoo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Conserving water.",
+     "confidence": "high"
+    },
+    {
+     "title": "Protecting natural resources | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "DhgROZK_f2k",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Ways to conserve the environment.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Useful animals and their care are not covered."
+  },
+  "sci.environment.pollution.L3": {
+   "videos": [
+    {
+     "title": "Air Pollution | Pollution | Maharashtra Grade-8 Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "bLcXpcOF3lc",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Dirty air and where it comes from.",
+     "confidence": "high"
+    },
+    {
+     "title": "Water Pollution - Causes & Types of Pollutants | MH Grade-8 Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "HDkStIVUE_Y",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Dirty water and where it comes from.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Land pollution is not covered."
+  },
+  "sci.evolution.story-of-life.L3": {
+   "videos": [],
+   "note": "No Khan video on the RNA idea or the origin of life suited to this unit."
+  },
+  "sci.food.balanced-diet.L3": {
+   "videos": [
+    {
+     "title": "Introduction to Nutrients | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What the body needs from food, the basis of a balanced plate.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Macronutrients | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "tZB6qj_AcZ0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Carbohydrates, proteins and fats in a diet.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Malnutrition and Overweight | Nutrition and Diet",
+     "channel": "Khan Academy India - English",
+     "youtube": "lQ-pHt5HoyE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "What an unhealthy diet leads to.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not walk through building a balanced plate."
+  },
+  "sci.food.food-safety.L3": {
+   "videos": [
+    {
+     "title": "Food Protection & Preservation Part 1 | Food Safety",
+     "channel": "Khan Academy India - English",
+     "youtube": "YrMjjX-M0o0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Keeping food safe from harmful microbes.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Food Protection & Preservation Part 2 | Food Safety",
+     "channel": "Khan Academy India - English",
+     "youtube": "F5uCuKP-_m4",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "More ways food is kept safe.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Not specifically washing, covering and cooking at home, nor the parts of food."
+  },
+  "sci.food.nutrients.L3": {
+   "videos": [
+    {
+     "title": "Introduction to Nutrients | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The kinds of nutrients in food.",
+     "confidence": "high"
+    },
+    {
+     "title": "Macronutrients | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "tZB6qj_AcZ0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Carbohydrates, proteins and fats.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to vitamins and minerals | Biology foundations",
+     "channel": "Khan Academy",
+     "youtube": "TBNCqRCsSvY",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Vitamins and minerals.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Food groups and water are not covered as such."
+  },
+  "sci.food.where-food-comes-from.L3": {
+   "videos": [],
+   "note": "No matching Khan video; traditional food knowledge is not taught."
+  },
+  "sci.forces.changing-motion.L3": {
+   "videos": [],
+   "note": "No Khan video on forces changing shape by squashing, stretching and twisting."
+  },
+  "sci.forces.flight.L3": {
+   "videos": [],
+   "note": "No Khan Academy video on kites, gliding or how things fly at this level."
+  },
+  "sci.forces.friction.L3": {
+   "videos": [
+    {
+     "title": "Friction and its types | Middle School Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "pSV9DdD0jgI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Friction opposes motion and depends on surfaces.",
+     "confidence": "high"
+    },
+    {
+     "title": "Is Friction necessary? | Middle School Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "eKEnL9mtLlw",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Where friction helps and where it slows things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Testing shoes and slopes is not shown."
+  },
+  "sci.forces.measuring-forces.L3": {
+   "videos": [],
+   "note": "No Khan video on forcemeters; force in newtons appears only in older videos."
+  },
+  "sci.forces.push-and-pull.L3": {
+   "videos": [
+    {
+     "title": "Forces | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "emZftp_UBKs",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Forces as pushes and pulls with a direction.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Net force | Movement and forces | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "fwDWJZkrtUE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Forces drawn as arrows and combined.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Goes beyond push and pull into combining forces."
+  },
+  "sci.forces.simple-machines.L3": {
+   "videos": [
+    {
+     "title": "What are Simple Machines? | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "obSJFsodXVk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How simple machines make work easier.",
+     "confidence": "high"
+    },
+    {
+     "title": "Intro to Levers | Simple Machines | Middle School",
+     "channel": "Khan Academy India - English",
+     "youtube": "oiUftEqK9S0",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Levers.",
+     "confidence": "high"
+    },
+    {
+     "title": "Wheel-Axle and Pulleys | Simple Machines | Middle School",
+     "channel": "Khan Academy India - English",
+     "youtube": "lRixcLBC3kQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Wheels and pulleys.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "See-saw balance is only touched on via levers."
+  },
+  "sci.forces.stretching-springs.L3": {
+   "videos": [
+    {
+     "title": "Intro to springs and Hooke's law | Work and energy",
+     "channel": "Khan Academy",
+     "youtube": "ZzwuHS9ldbY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "A stretched spring pulls back.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Uses formulas; rubber bands and elastic are not covered."
+  },
+  "sci.genetics.dna-and-rna.L3": {
+   "videos": [
+    {
+     "title": "DNA replication and RNA transcription and translation",
+     "channel": "Khan Academy",
+     "youtube": "6gUY5NoX1Lk",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "DNA holds instructions that are read by RNA to make proteins.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Detailed high-school level; the simple idea of instructions in every living thing is only the start."
+  },
+  "sci.gravity.falling.L3": {
+   "videos": [
+    {
+     "title": "Would a brick or feather fall faster? | Physics",
+     "channel": "Khan Academy",
+     "youtube": "36Rym2q4H94",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Heavy and light things fall together without air.",
+     "confidence": "high"
+    },
+    {
+     "title": "Falling objects | Physics",
+     "channel": "Khan Academy",
+     "youtube": "wf8SYTb4r-g",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Gravity pulls objects down at the same rate.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Galileo's question is not told as a story."
+  },
+  "sci.gravity.weight-and-mass.L3": {
+   "videos": [
+    {
+     "title": "Mass & weight | Gravity | Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "INZNifEXOcQ",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Weight is the pull of gravity on mass.",
+     "confidence": "high"
+    },
+    {
+     "title": "Weight and Mass",
+     "channel": "Khan Academy",
+     "youtube": "hIMYdNPIjZw",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Difference between mass and weight.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Forcemeter measuring is not shown."
+  },
+  "sci.habitats.adaptations.L3": {
+   "videos": [
+    {
+     "title": "Adaptations | Organisms and Populations | Biology",
+     "channel": "Khan Academy India - English",
+     "youtube": "g2bV8mT7ryo",
+     "mins": 16,
+     "pitch": "older: watch together",
+     "matches": "How living things are suited to their surroundings.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Natural selection and adaptation",
+     "channel": "Khan Academy",
+     "youtube": "giw2ELZr-bE",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How adaptations arise.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Aimed at older students; does not go through heat, cold, water and dark examples one by one."
+  },
+  "sci.habitats.habitats.L3": {
+   "videos": [
+    {
+     "title": "Habitat (Intro and types) | Science | Grade 6",
+     "channel": "Khan Academy India - English",
+     "youtube": "0cdteShyjh8",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What a habitat is and its types.",
+     "confidence": "high"
+    },
+    {
+     "title": "Tree, our house and garden as a habitat | Class 6",
+     "channel": "Khan Academy India - English",
+     "youtube": "AJkVDsHt_U0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Habitats near us.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Desert, sea and pond are not each covered."
+  },
+  "sci.health.exercise-and-rest.L3": {
+   "videos": [],
+   "note": "No suitable Khan video on exercise, sleep or yoga for children."
+  }
+ }
+}

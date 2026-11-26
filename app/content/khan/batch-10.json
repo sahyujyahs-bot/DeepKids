@@ -1,0 +1,322 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.health.feelings-and-wellbeing.L3": {
+   "videos": [],
+   "note": "Khan does not teach kindness, friendship or feelings at this level; no honest match."
+  },
+  "sci.how-we-know.asking-questions.L3": {
+   "videos": [
+    {
+     "title": "Scientific Method | Wonderful World of Science | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "4YdPXRPpZFk",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Asking a question and planning how to find out by observing and testing.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover observing over time as such."
+  },
+  "sci.how-we-know.fair-tests.L3": {
+   "videos": [
+    {
+     "title": "Introduction to experimental design | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ceWyayKg3QY",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Controlling variables so that only one thing changes in a test.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "High-school pitch; does not cover recording results in simple tables."
+  },
+  "sci.how-we-know.questioning-evidence.L3": {
+   "videos": [],
+   "note": "Khan has nothing on asking 'says who?' or telling science from stories at this level."
+  },
+  "sci.how-we-know.stories-of-discovery.L3": {
+   "videos": [],
+   "note": "No Khan video on accidental discoveries or who got the credit."
+  },
+  "sci.india.national-identity.L3": {
+   "videos": [],
+   "note": "Indian national symbols are not taught by Khan."
+  },
+  "sci.light.colour.L3": {
+   "videos": [
+    {
+     "title": "Newton's prism experiment",
+     "channel": "Khan Academy India - English",
+     "youtube": "Mqy7T0KtXV8",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "A prism splits sunlight into many colours and they recombine to white.",
+     "confidence": "high"
+    },
+    {
+     "title": "Dispersion (& rainbows) | The human eye & the colourful world | Physics class 10 | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "fywXvl38Va0",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Dispersion of sunlight into colours and how rainbows form.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Class 10 pitch; uses ray diagrams and some terms the child will not need."
+  },
+  "sci.light.how-we-see.L3": {
+   "videos": [
+    {
+     "title": "Parts of the eye | Human eye & the colourful world | Class 10 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7HGxjs_aYyg",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Light enters the eye and the eye forms the image we see.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers how the eye works, not the point that we see objects because light bounces off them into the eye."
+  },
+  "sci.light.living-light.L3": {
+   "videos": [],
+   "note": "Khan does not teach bioluminescence at this level."
+  },
+  "sci.light.reflection.L3": {
+   "videos": [
+    {
+     "title": "Laws of reflection",
+     "channel": "Khan Academy India - English",
+     "youtube": "PZ9BoVm5WxM",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Light bounces off mirrors at the same angle it arrives.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Reflection of light - Intro | Light | Class 10 Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eWago54rGRQ",
+     "mins": 1,
+     "pitch": "older: watch together",
+     "matches": "Short intro: mirrors reflect light.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover mirror writing or left-right flipping."
+  },
+  "sci.light.transparent-opaque.L3": {
+   "videos": [
+    {
+     "title": "Opaque, transparent and translucent | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Bc8UvDA3WfE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Transparent, translucent and opaque materials.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not cover uses such as curtains or sunglasses."
+  },
+  "sci.light.what-is-light.L3": {
+   "videos": [
+    {
+     "title": "Speed of light and distance from sun (scientific notation word problem) | Pre-Algebra | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "dD71fFNwVJw",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Light is very fast and takes minutes to cross from the Sun.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "A maths word problem using scientific notation; it uses the speed of light and the Sun's distance rather than explaining light."
+  },
+  "sci.magnets.magnets-and-materials.L3": {
+   "videos": [
+    {
+     "title": "Ferromagnetism & curie temperature | Magnetism & matter | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8a2IZZdIeXw",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Iron, nickel and cobalt are the materials magnets strongly attract.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Class 12 physics; goes well beyond attraction of metals."
+  },
+  "sci.making-things.biomimicry.L3": {
+   "videos": [],
+   "note": "No Khan video on inventions copied from nature."
+  },
+  "sci.making-things.design-and-build.L3": {
+   "videos": [
+    {
+     "title": "The engineering design process | Middle school science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "HnPpUPzrdBI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Designing for a purpose, building and improving.",
+     "confidence": "high"
+    },
+    {
+     "title": "Testing an engineering design | Middle school science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "RHamb6fs1CQ",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Testing a design and improving it.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.making-things.houses-and-shelter.L3": {
+   "videos": [],
+   "note": "Khan does not cover houses from natural materials or safety rules."
+  },
+  "sci.materials.magnetic-materials.L3": {
+   "videos": [
+    {
+     "title": "Ferromagnetism & curie temperature | Magnetism & matter | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8a2IZZdIeXw",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Which materials (iron, nickel, cobalt) are strongly magnetic.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Magnetic effect on Non-Magnetic Materials | Exploring Magnets | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "RnP4i4Hnyt4",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "What happens when a magnet meets non-magnetic materials.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover that not all metals are magnetic in a simple test."
+  },
+  "sci.materials.properties.L3": {
+   "videos": [],
+   "note": "No Khan video compares and measures properties of everyday materials at this level."
+  },
+  "sci.materials.sorting-materials.L3": {
+   "videos": [
+    {
+     "title": "Objects & Their Classification | Different Types of Objects | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "JOb9xcq0EL4",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Sorting objects into groups by their features.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Sorts objects generally, not specifically materials in more than one way."
+  },
+  "sci.materials.testing-materials.L3": {
+   "videos": [],
+   "note": "No Khan video on fair tests of materials."
+  },
+  "sci.materials.using-materials.L3": {
+   "videos": [],
+   "note": "No Khan video linking uses of materials to properties."
+  },
+  "sci.materials.what-is-it-made-of.L3": {
+   "videos": [
+    {
+     "title": "Natural resources | Earth and society | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "sIM0PGv8h08",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Where raw materials come from in nature.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "About natural resources generally; does not cover sorting natural versus man-made materials."
+  },
+  "sci.me-and-others.me-and-others.L3": {
+   "videos": [],
+   "note": "Not taught by Khan at this level."
+  },
+  "sci.microorganisms.germs.L3": {
+   "videos": [
+    {
+     "title": "Diseases caused by microorganisms | The World of Microorganisms | Grade 8 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "N4fiPVQUTW8",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Some microbes cause disease and how they spread.",
+     "confidence": "medium"
+    },
+    {
+     "title": "This Is The Way We Wash Our Hands | Staying Healthy | Circle Time with Khan Academy Kids",
+     "channel": "Khan Academy Kids",
+     "youtube": "hungOoC1o_M",
+     "mins": 15,
+     "pitch": "on level",
+     "matches": "Washing hands to stay well.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "The Kids video is a circle-time song session; the Grade 8 video does not teach handwashing."
+  },
+  "sci.microorganisms.parasites.L3": {
+   "videos": [
+    {
+     "title": "Types of Parasites | Biology in Human Welfare | Class 11 | Zoology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "w_-JDNbI18c",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "What parasites are and the kinds that live on or in a host.",
+     "confidence": "medium"
+    },
+    {
+     "title": "What is malaria? | Biology in Human Welfare | Class 11 | Zoology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "gN8bOVbqz-0",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Malaria and the mosquito.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Class 11 pitch; does not cover keeping safe from lice, ticks or fleas."
+  },
+  "sci.motion.newtons-laws.L3": {
+   "videos": [
+    {
+     "title": "Newton's first law | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Q0T2zjmvvA0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Things keep doing what they are doing unless a force acts.",
+     "confidence": "high"
+    },
+    {
+     "title": "Newton's first law of motion | Laws of motion | Physics class 9 | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "iZz7jaEypjY",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Same law with everyday examples.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

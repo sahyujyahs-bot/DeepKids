@@ -1,0 +1,453 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.health.sleep.L2": {
+   "videos": [],
+   "note": "Khan has no child-level sleep video; the only matches are MCAT-level sleep stages."
+  },
+  "sci.how-we-know.asking-questions.L2": {
+   "videos": [
+    {
+     "title": "The scientific method",
+     "channel": "Khan Academy",
+     "youtube": "N6IAzlugWw0",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Asking a question, making a prediction (hypothesis) and testing it.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Scientific Method | Wonderful World of Science | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "4YdPXRPpZFk",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The steps of the scientific method, starting from a question.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Neither separates testable from untestable questions explicitly."
+  },
+  "sci.light.light-sources.L2": {
+   "videos": [
+    {
+     "title": "Sources of light | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "krVJWL5DyrM",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Sources of light, natural and artificial.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not stress that the Moon only reflects light or that darkness is absence of light."
+  },
+  "sci.light.shadows.L2": {
+   "videos": [
+    {
+     "title": "How Shadows are Formed| Light and the Formation of Shadows | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "f6_kp6jcdIM",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Shadows form when an object blocks light.",
+     "confidence": "high"
+    },
+    {
+     "title": "Light travels in a straight line | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "EasN5Z8kElg",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "Light travels in straight lines, which is why blocked light leaves a shadow.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No shadow puppets."
+  },
+  "sci.light.transparent-opaque.L2": {
+   "videos": [
+    {
+     "title": "Opaque, transparent and translucent | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Bc8UvDA3WfE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Transparent, translucent and opaque materials and what light does in each.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.natural-and-made.L2": {
+   "videos": [
+    {
+     "title": "Introduction to Polymers and Synthetic Fibers | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "e1PDpTKJtGY",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Man-made (synthetic) materials versus natural ones, with plastic as the example.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Production of Paper | Substances in Daily Use | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "OEbf9ffkyy8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How paper is made from a natural material, wood.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on how glass is made."
+  },
+  "sci.materials.properties.L2": {
+   "videos": [
+    {
+     "title": "Physical Properties of Metal| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "w0CyHVX_ruE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Physical properties of metals (strong, shiny, bendable).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Opaque, transparent and translucent | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Bc8UvDA3WfE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Transparent, translucent and opaque as a property.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover waterproof or stretchy."
+  },
+  "sci.materials.testing-materials.L2": {
+   "videos": [],
+   "note": "No Khan video on fair-testing everyday materials."
+  },
+  "sci.materials.using-materials.L2": {
+   "videos": [
+    {
+     "title": "Properties and uses of plastic | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "jJjLKRrZy2Y",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why plastic's properties suit it to particular uses.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Physical Properties of Metal| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "w0CyHVX_ruE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Metal properties that decide where metals are used.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers only plastics and metals, not a general choose-the-right-material idea."
+  },
+  "sci.microorganisms.microbes-everywhere.L2": {
+   "videos": [
+    {
+     "title": "Friend or Foe ? | Understanding Microorganism | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "LqL492kifkU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Microorganisms are everywhere, some helpful and some harmful.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Classification of Microorganisms | Classification of Microbes | Middle School|Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Yt6N59q-b8I",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "The kinds of microorganisms, too small to see.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not specifically cover hands, soil or curd."
+  },
+  "sci.mind.sense-of-self.L2": {
+   "videos": [],
+   "note": ""
+  },
+  "sci.motion.kinds-of-motion.L2": {
+   "videos": [
+    {
+     "title": "Types of Motion | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "P95qI_3fQ8U",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Types of motion: straight, circular and back-and-forth.",
+     "confidence": "high"
+    },
+    {
+     "title": "Concept of Motion | Middle School Science| Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "GyRZ-OD-aFE",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "What motion and rest are.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.motion.speed.L2": {
+   "videos": [
+    {
+     "title": "Speed and Average Speed | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Z5mA_l-ptqk",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Speed as how fast something moves; faster and slower.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Uses speed calculations; child unit is about comparing races."
+  },
+  "sci.order-chaos.cause-and-effect.L2": {
+   "videos": [],
+   "note": "Khan's cause-and-effect videos are about reading or statistics, not this concept."
+  },
+  "sci.order-chaos.chance.L2": {
+   "videos": [
+    {
+     "title": "Coin flipping probability | Probability and Statistics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "mkyZ45KQYi4",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Probability of coin tosses: outcomes are uncertain but we can say how likely each is.",
+     "confidence": "high"
+    },
+    {
+     "title": "Die rolling probability | Probability and combinatorics | Precalculus | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "O4Qnsubo2tg",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Probability of dice rolls.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Pitched at older students with fractions."
+  },
+  "sci.order-chaos.order-and-chaos.L2": {
+   "videos": [],
+   "note": "No Khan video on order versus chaos."
+  },
+  "sci.planet-earth.rocks.L2": {
+   "videos": [
+    {
+     "title": "The rock cycle | The geosphere | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "rmH4W92eHVM",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The three kinds of rock and how they change.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover rocks' uses."
+  },
+  "sci.plants.plant-parts.L2": {
+   "videos": [
+    {
+     "title": "All About Leaves | Plant Structure & Functions | Middle school Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XOYrMXtOYq8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The leaf and its job.",
+     "confidence": "high"
+    },
+    {
+     "title": "Root System | Plant Structure and Functions | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eO_X7JGaOek",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "The root system and its job.",
+     "confidence": "high"
+    },
+    {
+     "title": "Function of roots | Plants: Parts and Functions | Class 6 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Sd6ug5FCl3c",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What roots do for the plant.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not compare cactus, lotus and banyan or cover edible parts."
+  },
+  "sci.plants.plant-senses.L2": {
+   "videos": [
+    {
+     "title": "Phototropism  | Plant Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "2A_LKrLlhxE",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Plants bend towards light (phototropism).",
+     "confidence": "high"
+    },
+    {
+     "title": "Tropism (Types, positive & negative) | Control & Coordination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "J9D8a7lHZSQ",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Plant responses to light, gravity and touch (tropism).",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not show the touch-me-not."
+  },
+  "sci.plants.what-plants-need.L2": {
+   "videos": [
+    {
+     "title": "Photosynthesis in organisms | Matter and energy in organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "_BLShUdXbN4",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Plants use light, water and air to make their food.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Plant Nutrition - Introduction | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "0rN-rSDK73w",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How plants get their nutrition.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover warmth or soil."
+  },
+  "sci.sound.music.L2": {
+   "videos": [
+    {
+     "title": "Sound is produced from a vibration | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "UArKngC3NGQ",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Sound comes from vibration, as in strings and drums.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Sound waves | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "9u1PjsBfrmg",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "How sound waves carry from vibrating things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Not about rhythm, beat or building instruments."
+  },
+  "sci.space-time.dimensions.L2": {
+   "videos": [
+    {
+     "title": "Recognizing common 3D shapes",
+     "channel": "Khan Academy",
+     "youtube": "tqxQSSzuXX0",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Recognizing solid 3D shapes.",
+     "confidence": "medium"
+    },
+    {
+     "title": "2D drawings of 3D objects | Three Dimensional Objects and Nets | MH Grade 5 | Math | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "u9BPAJe1jFE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Drawing flat 2D pictures of 3D objects.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on a flat creature's world."
+  },
+  "sci.space-time.space.L2": {
+   "videos": [],
+   "note": "Khan's scale-of-the-universe videos are about sizes, not what space is."
+  },
+  "sci.space-time.time.L2": {
+   "videos": [
+    {
+     "title": "Measuring Time | Middle School Science| Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "e_kXwIj8A5I",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Measuring time: clocks and units.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover before and after or different ideas about time."
+  },
+  "sci.states.floating-and-sinking.L2": {
+   "videos": [
+    {
+     "title": "Floats and Sinks | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "5rqalGDqkEE",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "What floats and what sinks.",
+     "confidence": "high"
+    },
+    {
+     "title": "Density | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "w1P3q2GiTx4",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Density explains floating and sinking.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not stress guessing before testing."
+  },
+  "sci.states.melting-and-solidifying.L2": {
+   "videos": [
+    {
+     "title": "Phase changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Aeddl02frBE",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Melting and freezing as phase changes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Changing States of Matter : Part 1 | Middle School | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "KrR3VPGt6BY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Changes of state of matter.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover chocolate or wax specifically."
+  }
+ }
+}
