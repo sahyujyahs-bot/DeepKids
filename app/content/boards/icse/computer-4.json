@@ -1,0 +1,76 @@
+{
+  "board": "ICSE",
+  "subject": "computer",
+  "class": 4,
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
+  "topics": [
+    {
+      "topic": "Computers - Storage and Memory Device",
+      "covers": [
+        "Tell data from information",
+        "Know the basic storage units: bits and bytes",
+        "Explain internal and external memory and what each is for",
+        "Name primary and secondary storage devices",
+        "Relate bits and bytes to the ON and OFF states of a digital system"
+      ]
+    },
+    {
+      "topic": "GUI Operating System - Desktop Management",
+      "covers": [
+        "Recall what the operating system and GUI do",
+        "Use the Task Bar, Quick Launch Bar and shortcut menu",
+        "Set the date, time and speaker volume",
+        "Customise the windows settings"
+      ]
+    },
+    {
+      "topic": "Tools of Word Processor",
+      "covers": [
+        "Use editing tools: undo, redo, spell check, grammar check and thesaurus",
+        "Format text: font size, colour, bold, italics and underline",
+        "Change text alignment, line spacing and paragraph spacing",
+        "Use shortcut keys",
+        "Preview and print a document",
+        "Tell editing from formatting"
+      ]
+    },
+    {
+      "topic": "The Internet - Web Browser",
+      "covers": [
+        "Explain what a network is and what an internet connection needs",
+        "Label the parts of a browser window: address bar, refresh, home, back, forward, history, favourites, new tab and stop",
+        "Explain the terms www, URL, ISP and net surfing",
+        "Use a search engine with good keywords",
+        "Browse responsibly and follow netiquette"
+      ]
+    },
+    {
+      "topic": "Presentation Software - An Introduction",
+      "covers": [
+        "Explain the purpose of presentation software",
+        "Open and exit the software and name the parts of its window",
+        "Choose slide layouts to suit the task",
+        "Add text and images to slides",
+        "Insert slides, move between them and present a slide show"
+      ]
+    },
+    {
+      "topic": "Step-Wise Thinking",
+      "covers": [
+        "Explain reasoning and problem solving",
+        "Analyse a task and break it into simple steps",
+        "Predict possible ways to reach a goal",
+        "Plan a real task, such as a picnic or a birthday party"
+      ]
+    },
+    {
+      "topic": "Features of File Management",
+      "covers": [
+        "Copy and move a file or folder from one place to another",
+        "Rename and delete files and folders",
+        "Never tamper with other people's files or folders"
+      ]
+    }
+  ],
+  "gaps": []
+}

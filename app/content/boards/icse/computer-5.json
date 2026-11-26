@@ -1,0 +1,70 @@
+{
+  "board": "ICSE",
+  "subject": "computer",
+  "class": 5,
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
+  "topics": [
+    {
+      "topic": "Evolution of Computers",
+      "covers": [
+        "Tell the story of computers, starting from the abacus in the late 1930s",
+        "Know that computers are grouped into five generations by their hardware",
+        "Compare the five generations of computers",
+        "Name the characteristics and limitations of computers",
+        "Keep up with new technology developments"
+      ]
+    },
+    {
+      "topic": "Types of Software",
+      "covers": [
+        "Define software as the programs that make a computer do its tasks",
+        "Tell system software from application software",
+        "Name the other types: operation support, utility, general purpose and customised software",
+        "Back up files",
+        "Scan a drive, folder or file for problems",
+        "Use the defragmentation utility"
+      ]
+    },
+    {
+      "topic": "Advanced Features of Word Processor",
+      "covers": [
+        "Use advanced formatting: format painter, subscript, superscript and shadow",
+        "Use find, replace and insert tools",
+        "Add headers and footers",
+        "Insert columns, page breaks and line breaks",
+        "Set tabs, indents, margins, page orientation and page size",
+        "Insert shapes and pictures, and add borders and shading"
+      ]
+    },
+    {
+      "topic": "Presentation Software - Special Effects",
+      "covers": [
+        "Build a presentation with a built-in template",
+        "Change the colour scheme and background colour",
+        "Set the alignment of text on slides",
+        "Add clip art, WordArt and shapes",
+        "Apply formatting effects so that key points stand out"
+      ]
+    },
+    {
+      "topic": "An Introduction to Scratch Programming",
+      "covers": [
+        "Explain programming as turning steps into instructions a computer can run",
+        "Find their way around the Scratch screen",
+        "Use basic motion, pen and sound blocks",
+        "Make simple games, stories or art in Scratch",
+        "Build logical thinking"
+      ]
+    },
+    {
+      "topic": "Internet Services",
+      "covers": [
+        "Name the ways to connect to the internet: dial-up, broadband and wireless",
+        "Use internet services safely",
+        "Follow netiquette when communicating online",
+        "Act as a responsible netizen"
+      ]
+    }
+  ],
+  "gaps": []
+}

@@ -1,125 +1,132 @@
 {
   "board": "ICSE",
-  "subject": "evs",
+  "subject": "science",
   "class": 4,
-  "source_urls": [
-    "https://byjus.com/icse-class-4-science-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Human Body: Food We Eat",
       "covers": [
-        "Food for energy, growth and protection",
-        "Food components",
-        "Balanced diet",
-        "Avoiding food wastage"
+        "Name the food items a family uses, on ordinary days and on special occasions",
+        "Sort food by its job: energy, body building and protection from disease",
+        "Name the components of food: carbohydrates, proteins, fats, vitamins, minerals, water and roughage",
+        "Explain in their own words why a balanced diet matters",
+        "Explain why children, adults and elders need different amounts and kinds of food",
+        "Suggest ways to avoid wasting food"
       ]
     },
     {
       "topic": "Human Body: The Teeth",
       "covers": [
-        "Types and positions of teeth",
-        "Structure and functions of teeth",
-        "Teeth in infants and adults",
-        "Care of teeth and gums",
-        "Dental check-ups",
-        "Food and dental health"
+        "Name the kinds of teeth and where they sit in the mouth",
+        "Draw a tooth and label its parts, and say what each kind of tooth does",
+        "Compare the number of teeth in infants and adults",
+        "Give reasons why teeth and gums get damaged",
+        "Suggest ways to keep teeth and gums healthy: brushing, healthy food and regular check-ups",
+        "Understand what causes cavities and how to prevent them"
       ]
     },
     {
       "topic": "Human Body: The Digestive and Excretory Systems",
       "covers": [
-        "Digestive organs and their functions",
-        "Chewing and bowel movements",
-        "Need for water",
-        "Excretory organs",
-        "Healthy habits"
+        "Name the organs of the digestive system and say what each one does",
+        "Name the organs of the excretory system and say what each one does",
+        "Explain why chewing food well helps digestion",
+        "Explain why water is needed for digestion and for removing wastes",
+        "Explain why regular bowel movements matter",
+        "List habits that keep the digestive and excretory organs healthy"
       ]
     },
     {
       "topic": "Adaptations in Animals",
       "covers": [
-        "Why animals need adaptations",
-        "Adaptations on land and in water",
-        "Body features of herbivores, carnivores and omnivores",
-        "Caring for animals"
+        "Explain why animals need adaptations to survive in their habitats",
+        "Give examples of adaptations for life on land and in water",
+        "Link the body parts of herbivores, carnivores and omnivores with what they eat",
+        "Give examples of animals in each of these three food groups",
+        "Show care and concern for animals"
       ]
     },
     {
       "topic": "Adaptations in Plants",
       "covers": [
-        "Why plants need adaptations",
-        "Adaptations on land, in water, in deserts and in hills"
+        "Explain why plants need adaptations to survive in their habitat",
+        "Give examples of plant adaptations on land, in water, in deserts and in hilly areas",
+        "Draw pictures of different plant adaptations"
       ]
     },
     {
       "topic": "Plants in the Surroundings and Environment",
       "covers": [
-        "Parts of plants and their uses",
-        "Roots and stems",
-        "Leaf functions, photosynthesis and transpiration",
-        "Iodine test for starch",
-        "Plant products"
+        "Classify plants as herbs, shrubs and trees",
+        "Identify tap roots and fibrous roots, and give examples of plants with each",
+        "Describe the work of the stem and the leaf in simple words",
+        "Explain photosynthesis and transpiration in simple, non-technical words",
+        "Use a hand lens to find stomata on a leaf",
+        "Show that a leaf has starch, using the iodine test, with help from elders",
+        "Name plant products such as wood, coir, rubber and fibres, and their uses"
       ]
     },
     {
       "topic": "Air",
       "covers": [
-        "Properties and composition of air",
-        "Breathing and burning",
-        "Causes of air pollution",
-        "Preventive measures"
+        "Show that air has weight, takes up space and expands when heated",
+        "Name the parts of air: gases and water vapour",
+        "Explain breathing and burning in simple words",
+        "Name the causes of air pollution, such as dust, smoke, spitting and germs",
+        "Suggest ways to keep the air clean"
       ]
     },
     {
       "topic": "Materials and Solutions",
       "covers": [
-        "Solvent, solute and solution",
-        "Soluble and insoluble substances",
-        "Separation by sedimentation, decantation, filtration and evaporation"
+        "Explain solvent, solute and solution, with everyday examples",
+        "Tell soluble and insoluble substances apart, in water and in oil",
+        "Make solutions using different solvents",
+        "Separate solid from liquid by sedimentation, decantation, filtration and evaporation",
+        "Give an example of each separation method, such as sand in water and sugar in water"
       ]
     },
     {
       "topic": "Light",
       "covers": [
-        "Natural and artificial sources",
-        "Luminous and non-luminous objects",
-        "Transparent, translucent and opaque objects",
-        "Uses of light",
-        "Shadow formation"
+        "Name natural and artificial sources of light",
+        "Tell luminous objects from non-luminous objects",
+        "Tell transparent, translucent and opaque objects apart, with examples",
+        "Explain in simple language how a shadow is formed",
+        "Appreciate how natural light is used in daily life",
+        "Find ways to save light energy"
       ]
     },
     {
       "topic": "Measurement",
       "covers": [
-        "Why we measure",
-        "Everyday examples",
-        "Rulers, tapes, weighing machines, thermometers and clocks",
-        "How to use them"
+        "Explain why we need units to measure things",
+        "Name measuring instruments: scale, tape, weighing machine, ruler, thermometer and clock",
+        "Say what each instrument measures, and how to read and use it",
+        "Give everyday examples where measuring is needed, such as buying goods or telling time"
       ]
     },
     {
       "topic": "Push and Pull",
       "covers": [
-        "Meaning and difference",
-        "Examples",
-        "Force and its effects",
-        "Muscular, gravitational, magnetic and frictional forces"
+        "Tell push and pull apart, with examples",
+        "Explain that a force can change the shape or direction of an object",
+        "Name the forces met in daily life: muscular, gravitational, magnetic and frictional",
+        "Explain each force in their own words, with a daily-life example",
+        "Show push and pull in group activities, with safety in mind"
       ]
     },
     {
       "topic": "Friction as a Force",
       "covers": [
-        "Meaning of friction",
-        "Reducing friction",
-        "Uses and harmful effects",
-        "Examples"
+        "Explain friction in their own words, with examples from daily life",
+        "Name the uses of friction, such as grip for walking and for stopping",
+        "Name the harmful effects of friction",
+        "Show how oil or powder reduces friction",
+        "Carry out simple activities that show friction on different surfaces"
       ]
     }
   ],
-  "gaps": [
-    "Byjus calls this subject Science; it is filed here as the EVS/science slot for Class 4.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

@@ -2,40 +2,72 @@
   "board": "ICSE",
   "subject": "maths",
   "class": 2,
-  "source_urls": [
-    "https://byjus.com/icse-class-2-maths-syllabus/",
-    "https://byjus.com/icse/icse-syllabus"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Numbers",
-      "covers": []
+      "covers": [
+        "Read and write numbers up to 999 and say their names",
+        "Use place value of hundreds, tens and ones to read, write and compare numbers",
+        "Arrange numbers in ascending and descending order",
+        "Find the greatest and smallest two-digit and three-digit numbers from given digits",
+        "Find the place value and face value of digits in a three-digit number",
+        "Show amounts up to 100 rupees with a few notes and coins"
+      ]
     },
     {
       "topic": "Number Operations",
-      "covers": []
+      "covers": [
+        "Add and subtract two-digit numbers, with and without regrouping, using place value",
+        "Know that adding or subtracting zero leaves the number unchanged",
+        "Notice that addition can be done in any order, through patterns",
+        "Solve and make up problems that need two-digit addition or subtraction",
+        "Estimate a sum or difference before working it out",
+        "Build multiplication tables of 2, 3, 4 and 5 through repeated addition and skip counting",
+        "Share and group objects equally, which leads to repeated subtraction",
+        "Add and subtract two-digit numbers in their head"
+      ]
     },
     {
       "topic": "Geometry",
-      "covers": []
+      "covers": [
+        "Describe 2D and 3D shapes by what can be seen and felt",
+        "Name cuboid, cylinder, cone and sphere, and rectangle, square, triangle and circle",
+        "Trace the 2D outlines of 3D objects",
+        "Tell straight lines from curved lines",
+        "Draw straight lines that are vertical, horizontal or slanting",
+        "Make 2D shapes by folding and cutting paper, and count their sides and corners"
+      ]
     },
     {
       "topic": "Measurement",
-      "covers": []
+      "covers": [
+        "Measure length and distance using uniform units such as a pencil or a paper clip",
+        "Measure how much a container holds using cups, spoons or buckets",
+        "Compare objects by weight, using a simple balance",
+        "Name the days of the week and the months of the year",
+        "Put events that take hours or days in order"
+      ]
     },
     {
       "topic": "Data Handling",
-      "covers": []
+      "covers": [
+        "Read simple charts and graphs from daily life, such as a bus timetable",
+        "Show information as a pictograph",
+        "Collect and tally data in groups",
+        "Draw simple conclusions from what the data shows"
+      ]
     },
     {
       "topic": "Patterns",
-      "covers": []
+      "covers": [
+        "Find the unit that repeats in a given pattern",
+        "Extend patterns using the repeating unit",
+        "Make their own patterns with shapes, objects and numbers"
+      ]
     }
   ],
   "gaps": [
-    "Publisher page gives theme headings only; no sub-topics were published on it.",
-    "Page does not name CISCE as the source.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Teaching processes and learning resources are left out; the file lists only what a child learns."
   ]
 }

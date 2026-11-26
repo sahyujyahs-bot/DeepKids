@@ -2,49 +2,47 @@
   "board": "ICSE",
   "subject": "english",
   "class": 5,
-  "source_urls": [
-    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
-  ],
-  "source_quality": "third-party",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Broad aims: listening, speaking, reading and writing",
+      "topic": "Listening and Speaking",
       "covers": [
-        "Listen for cues and draw inferences",
-        "Speak to discuss ideas logically and creatively",
-        "Read independently, infer meaning and read critically",
-        "Write clearly and in an organised way for different purposes"
+        "Share and explain their ideas and viewpoints in class",
+        "Ask and answer questions on a topic",
+        "Interpret and analyse content, and draw conclusions from key details",
+        "Use material from other sources, such as the internet, to reinforce what is taught",
+        "Understand the speaker's message, both spoken and unspoken (body language, expression)",
+        "Connect ideas from texts to their own life, comparing information",
+        "Use gestures, eye contact, clear pace, and suitable tone, stress and intonation",
+        "Take dictation of an unseen passage"
       ]
     },
     {
-      "topic": "Recommended reading (Class V)",
+      "topic": "Reading and Writing",
       "covers": [
-        "Tagore's 'Kabuliwala'",
-        "Gulliver's Travels",
-        "Treasure Island",
-        "Oliver Twist",
-        "Robinson Crusoe",
-        "Autobiographies of Gandhi, Kalam, Nehru and Mandela",
-        "The Diary of Anne Frank"
+        "Identify the main aspects and broad outline of a text, and explain events and why they happened, using key details",
+        "Link opinions and reasons with words, phrases and clauses",
+        "Work out the meaning of words and figurative language, such as similes",
+        "Use technology to gather information for a project presentation",
+        "Write at least two paragraphs of about 150 words on a given topic",
+        "Write narratives with details of actions, thoughts and feelings, linked with 'firstly', 'then', 'later' and 'finally'",
+        "Write short notes and write-ups from their own experience on self-concept, respect for diversity and responsible behaviour",
+        "Follow the writing process: plan, write, revise, edit and rewrite"
       ]
     },
     {
-      "topic": "Reading and writing activities (all classes)",
+      "topic": "Grammar and Vocabulary in Context",
       "covers": [
-        "Reading aloud, silently and in groups",
-        "Word wall and vocabulary tree",
-        "Completing a story and picture composition",
-        "Recording a process, such as making a sandwich",
-        "Book talks and character illustrations",
-        "Simple comprehension on seen and unseen passages",
-        "Spelling, word search and word games",
-        "Writing for the school magazine, newsletters and soft boards"
+        "Use vocabulary suited to different registers, such as cookery, yoga or sports",
+        "Use adverbs, conjunctions, prepositions and interjections, and the kinds of adverbs",
+        "Learn the meaning and use of common idioms and proverbs",
+        "Use plural possessives, comparisons of adjectives and adverbs, and contractions such as 'can't' and 'won't'",
+        "Use irregular verbs in simple and continuous tenses, such as break, broke, broken",
+        "Spell commonly used words correctly",
+        "Use direct and reported speech in dialogue",
+        "Make the subject and verb agree at a higher level"
       ]
     }
   ],
-  "gaps": [
-    "Only recommended reading and activities were found; no per-class grammar, oral or writing topics.",
-    "Copy is on advocatetanmoy.com, which shows no CISCE syllabus code or issue date.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

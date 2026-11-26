@@ -2,42 +2,85 @@
   "board": "ICSE",
   "subject": "social",
   "class": 4,
-  "source_urls": [
-    "https://byjus.com/icse-class-4-social-studies-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "The Story of the Past and Evidence in History",
-      "covers": []
+      "topic": "The Story of the Past and Evidences in History",
+      "covers": [
+        "Explain what history is and how past events affect today",
+        "Talk with grandparents and record their family's history",
+        "Tell apart the ancient, medieval and modern periods of history",
+        "Tell archaeological sources from literary sources",
+        "Explain why old records and sources must be kept safe",
+        "Tell apart the work of a historian and an archaeologist"
+      ]
     },
     {
       "topic": "Almanac",
-      "covers": []
+      "covers": [
+        "Compare the Gregorian and Saka calendars",
+        "Draw a timeline and mark AD (CE) and BC (BCE) on it",
+        "Put events in order and mark them on a timeline",
+        "Mark important dates on the school calendar",
+        "Make their own calendar using what they know about how calendars work"
+      ]
     },
     {
       "topic": "Responsibilities of a Good Citizen",
-      "covers": []
+      "covers": [
+        "Explain civic sense and what a citizen is",
+        "Know why being a good neighbour matters",
+        "Show how to care for public and private places such as schools, hospitals, parks and monuments",
+        "Explain the role of elections and voting",
+        "Explain the role of a class monitor or prefect",
+        "Show respect for public property and suggest ways to look after it",
+        "Start to solve small problems in school and the neighbourhood"
+      ]
     },
     {
-      "topic": "The Earth: Its Movements and Forms",
-      "covers": []
+      "topic": "The Earth- Its Movements & Forms",
+      "covers": [
+        "Explain the Earth's axis, rotation and revolution",
+        "Explain day and night, and the seasons",
+        "Name the four realms of the Earth: lithosphere, hydrosphere, atmosphere and biosphere",
+        "Identify major landforms such as mountains, plateaus, plains and deserts",
+        "Locate oceans and continents on an outline map of the world",
+        "Use signs, symbols, colours and scale on a map",
+        "Use scale and cardinal directions for mapping"
+      ]
     },
     {
       "topic": "Our State",
-      "covers": []
+      "covers": [
+        "Find their own state on the map of India",
+        "Locate the capital, important cities, rivers and landforms of their state",
+        "Describe the state's climate, seasons and vegetation",
+        "Name the main crops and farming of the state",
+        "Appreciate the state's cultural heritage, including its folk songs, dances and festivals"
+      ]
     },
     {
-      "topic": "India: Unity in Diversity",
-      "covers": []
+      "topic": "India- Unity in Diversity",
+      "covers": [
+        "Name the major physical divisions of India, such as the Himalayas, Northern Plains and Peninsular Plateau",
+        "Locate major mountains, plateaus and rivers on a map of India",
+        "Name the major rivers of India and say which are perennial and which are not",
+        "Compare the food, festivals, languages and ways of life in different parts of India",
+        "Understand how land features affect where people live and how many live there",
+        "Recognise the things that unite people despite their differences"
+      ]
     },
     {
-      "topic": "Pollution and its Impact on the Environment",
-      "covers": []
+      "topic": "Pollution- Its Impact on the Environment",
+      "covers": [
+        "Explain what pollution is and its causes, effects and prevention",
+        "Describe air, water and noise pollution with examples",
+        "Explain the ideas of reduce, reuse and recycle, and how to dispose of waste properly",
+        "Sort waste into biodegradable and non-biodegradable, and use dustbins for each",
+        "Understand why clean, safe water matters and how to save water at home",
+        "Suggest ways to reduce each kind of pollution"
+      ]
     }
   ],
-  "gaps": [
-    "Byjus gives topic titles only, no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

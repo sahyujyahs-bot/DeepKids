@@ -1,0 +1,70 @@
+{
+  "board": "ICSE",
+  "subject": "computer",
+  "class": 3,
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
+  "topics": [
+    {
+      "topic": "A Computer System",
+      "covers": [
+        "Define a computer system as hardware and software working together",
+        "Tell hardware (the physical parts) from software (the programs)",
+        "Explain the IPO model: input, process and output",
+        "Name the parts of the CPU: control unit, memory unit and arithmetic logic unit",
+        "Explain why software is needed to make hardware work",
+        "Name some common application software"
+      ]
+    },
+    {
+      "topic": "GUI Operating System - An Introduction",
+      "covers": [
+        "Explain what an operating system does",
+        "Know the terms GUI, windows, buttons and icons",
+        "Name the desktop parts: icons, taskbar and start button",
+        "Open, move and arrange desktop icons, and change the wallpaper and screensaver",
+        "Tell safe mode from normal mode",
+        "Log in and shut down the computer in the right order",
+        "List the types of operating system and what each does"
+      ]
+    },
+    {
+      "topic": "Word Processor - An Introduction",
+      "covers": [
+        "Explain the purpose of a word processor",
+        "Name the parts of the word processor window",
+        "Create, save and close a file",
+        "Tell Save from Save As",
+        "Open and edit an existing file",
+        "Respect others' files and never open or change them without permission"
+      ]
+    },
+    {
+      "topic": "The Internet - An Introduction",
+      "covers": [
+        "Explain what the internet is and what it is used for",
+        "List the advantages and disadvantages of the internet",
+        "Know basic words: browser, website, webpage, home page and search engine",
+        "Open a website by typing its web address",
+        "Follow best practices and online safety rules",
+        "Act as a responsible digital citizen"
+      ]
+    },
+    {
+      "topic": "Fun with Paint",
+      "covers": [
+        "Use Paint tools such as the colour picker and free-form selection",
+        "Copy, move and resize parts of a picture",
+        "Save files in formats such as .png and .jpg"
+      ]
+    },
+    {
+      "topic": "File Management - Organisation of Folders",
+      "covers": [
+        "Explain what a folder is",
+        "Create, save and open a file and a folder",
+        "Save a file in a folder using a path"
+      ]
+    }
+  ],
+  "gaps": []
+}

@@ -2,45 +2,46 @@
   "board": "ICSE",
   "subject": "english",
   "class": 2,
-  "source_urls": [
-    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
-  ],
-  "source_quality": "third-party",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Broad aims: listening, speaking, reading and writing",
+      "topic": "Listening and Speaking",
       "covers": [
-        "Listen for cues and draw inferences",
-        "Speak to discuss ideas logically and creatively",
-        "Read independently, infer meaning and read critically",
-        "Write clearly and in an organised way for different purposes"
+        "Take part in role play, skits and conversations",
+        "Retell a story with the right facts and descriptive details, in clear full sentences",
+        "Join small-group and class discussions and stay on the topic",
+        "Name the key ideas in a text read aloud",
+        "Ask and answer questions about what a speaker says, to clarify and learn more",
+        "Tell stories and recite poems aloud with expression",
+        "Use full sentences when asked for detail or clarification",
+        "Use new vocabulary to ask questions and give information"
       ]
     },
     {
-      "topic": "Recommended reading (Classes I and II)",
+      "topic": "Reading and Writing",
       "covers": [
-        "Fables from Aesop, the Panchatantra and the Jatakas",
-        "Picture-led stories such as Peter Rabbit, Noddy and Pinocchio",
-        "Ladybird Read Aloud series"
+        "Interpret a picture by answering simple questions",
+        "Put pictures in order and explain how events follow on from each other",
+        "Describe characters and feelings in a passage, and how their actions move the story on",
+        "Read aloud and silently with understanding, and answer comprehension questions in writing",
+        "Retell and write stories, folktales and myths from different cultures",
+        "Take dictation of three- and four-letter words and sentences",
+        "Write 8 to 10 standalone lines on a given topic, such as a zoo visit or a favourite food",
+        "Write about personal experiences and real-life situations"
       ]
     },
     {
-      "topic": "Reading and writing activities (all classes)",
+      "topic": "Grammar and Vocabulary in Context",
       "covers": [
-        "Reading aloud, silently and in groups",
-        "Word wall and vocabulary tree",
-        "Completing a story and picture composition",
-        "Recording a process, such as making a sandwich",
-        "Book talks and character illustrations",
-        "Simple comprehension on seen and unseen passages",
-        "Spelling, word search and word games",
-        "Writing for the school magazine, newsletters and soft boards"
+        "Recognise nouns as naming words, verbs as action words, adjectives as describing words, 'and' and 'but' as joining words, and prepositions as position words, in context",
+        "Use common and proper nouns, and countable and uncountable nouns, correctly",
+        "Use capital letters, commas and question marks correctly",
+        "Use 'myself', 'ourselves', 'himself' and 'herself' correctly",
+        "Work out a word's meaning from its context",
+        "Use words and phrases suited to their age",
+        "Identify and use homophones, antonyms and synonyms"
       ]
     }
   ],
-  "gaps": [
-    "Only recommended reading and activities were found; no per-class grammar, oral or writing topics.",
-    "Copy is on advocatetanmoy.com, which shows no CISCE syllabus code or issue date.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

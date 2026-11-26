@@ -2,49 +2,45 @@
   "board": "ICSE",
   "subject": "english",
   "class": 4,
-  "source_urls": [
-    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
-  ],
-  "source_quality": "third-party",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Broad aims: listening, speaking, reading and writing",
+      "topic": "Listening and Speaking",
       "covers": [
-        "Listen for cues and draw inferences",
-        "Speak to discuss ideas logically and creatively",
-        "Read independently, infer meaning and read critically",
-        "Write clearly and in an organised way for different purposes"
+        "Take part in meaningful discussions with teachers and classmates on a range of topics",
+        "Answer questions, comment, and add more to a topic",
+        "Report on a topic in an organised way, with facts and descriptive details",
+        "Tell a story or recount an experience in a logical order, at a clear pace",
+        "Enjoy English poems, songs, riddles and tongue twisters, and pick out the key ideas",
+        "Identify key situations, share ideas and give opinions",
+        "Take dictation of a passage they have read"
       ]
     },
     {
-      "topic": "Recommended reading (Class IV)",
+      "topic": "Reading and Writing",
       "covers": [
-        "Feluda stories",
-        "The Narnia books",
-        "Alice in Wonderland",
-        "Harry Potter",
-        "Winnie-the-Pooh",
-        "Black Beauty",
-        "Biographies of Einstein and Helen Keller"
+        "Read texts with comprehension: find details, the order of ideas and events, and the main idea, in print or braille",
+        "Relate ideas to their own experience and self-awareness",
+        "Enjoy reading beyond the set text",
+        "Work out meanings of unfamiliar words from context, and use a dictionary or thesaurus",
+        "Write at least two paragraphs of about 150 words on a given topic",
+        "Write narratives with details of actions, thoughts, feelings and emotions",
+        "Link sentences with 'firstly', 'then', 'later' and 'finally' to show time and bring the piece to a close",
+        "Write letters to a parent, friend or relative"
       ]
     },
     {
-      "topic": "Reading and writing activities (all classes)",
+      "topic": "Grammar and Vocabulary in Context",
       "covers": [
-        "Reading aloud, silently and in groups",
-        "Word wall and vocabulary tree",
-        "Completing a story and picture composition",
-        "Recording a process, such as making a sandwich",
-        "Book talks and character illustrations",
-        "Simple comprehension on seen and unseen passages",
-        "Spelling, word search and word games",
-        "Writing for the school magazine, newsletters and soft boards"
+        "Learn common idioms, adages and proverbs, and explain their meaning",
+        "Make the subject and verb agree",
+        "Use capital letters correctly in titles of books and poems",
+        "Use punctuation correctly in dialogue",
+        "Show singular possession with an apostrophe, and tell plurals from possessives",
+        "Spell class-level words correctly, checking references when needed",
+        "Use age-appropriate vocabulary in context"
       ]
     }
   ],
-  "gaps": [
-    "Only recommended reading and activities were found; no per-class grammar, oral or writing topics.",
-    "Copy is on advocatetanmoy.com, which shows no CISCE syllabus code or issue date.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

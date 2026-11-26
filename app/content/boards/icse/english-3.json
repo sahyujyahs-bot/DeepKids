@@ -2,48 +2,43 @@
   "board": "ICSE",
   "subject": "english",
   "class": 3,
-  "source_urls": [
-    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
-  ],
-  "source_quality": "third-party",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Broad aims: listening, speaking, reading and writing",
+      "topic": "Listening and Speaking",
       "covers": [
-        "Listen for cues and draw inferences",
-        "Speak to discuss ideas logically and creatively",
-        "Read independently, infer meaning and read critically",
-        "Write clearly and in an organised way for different purposes"
+        "Tell a story or recount an experience with relevant facts",
+        "Give descriptive details, speaking clearly at a pace others can follow",
+        "Speak to an audience with suitable volume and pitch, and answer questions",
+        "Narrate stories and recite poems with expression, for enjoyment",
+        "Use correct grammar and specific words to give ideas and supporting details",
+        "Take part in drama and role play",
+        "Take dictation of short stories"
       ]
     },
     {
-      "topic": "Recommended reading (Class III)",
+      "topic": "Reading and Writing",
       "covers": [
-        "Ruskin Bond stories",
-        "Roald Dahl",
-        "Charlotte's Web",
-        "The Wizard of Oz",
-        "Heidi",
-        "Amar Chitra Katha comics"
+        "Interpret a picture and ask questions that make them think critically",
+        "Read prose and poems aloud with fluency and expression",
+        "Write a paragraph of about 100 words with one central idea and a conclusion, using linking words such as 'because', 'and' and 'also'",
+        "Write personal, narrative or descriptive pieces from their own experience or real life",
+        "Write a simple letter to a parent, friend or relative"
       ]
     },
     {
-      "topic": "Reading and writing activities (all classes)",
+      "topic": "Grammar and Vocabulary in Context",
       "covers": [
-        "Reading aloud, silently and in groups",
-        "Word wall and vocabulary tree",
-        "Completing a story and picture composition",
-        "Recording a process, such as making a sandwich",
-        "Book talks and character illustrations",
-        "Simple comprehension on seen and unseen passages",
-        "Spelling, word search and word games",
-        "Writing for the school magazine, newsletters and soft boards"
+        "Understand subject and predicate, and what nouns, pronouns, verbs, adjectives and adverbs do in a sentence",
+        "Use collective and material nouns, and regular, irregular and plural nouns",
+        "Use simple past, present and future tenses",
+        "Use different kinds of adjectives, and 'a', 'an' and 'the' correctly",
+        "Put words in alphabetical order by their first two letters",
+        "Use glossaries and dictionaries, print and digital, to find word meanings",
+        "Show singular possession with an apostrophe, and tell plurals from possessives",
+        "Use prefixes, suffixes and vocabulary suited to their age"
       ]
     }
   ],
-  "gaps": [
-    "Only recommended reading and activities were found; no per-class grammar, oral or writing topics.",
-    "Copy is on advocatetanmoy.com, which shows no CISCE syllabus code or issue date.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

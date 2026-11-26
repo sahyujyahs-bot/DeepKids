@@ -2,44 +2,87 @@
   "board": "ICSE",
   "subject": "maths",
   "class": 4,
-  "source_urls": [
-    "https://byjus.com/icse-class-4-maths-syllabus/",
-    "https://byjus.com/icse/icse-syllabus"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Numbers",
-      "covers": []
+      "covers": [
+        "Read and write numbers up to six digits (lakh) using the Indian system",
+        "Know how the international system groups digits differently, and compare the two",
+        "Write numbers in expanded form and back using place value",
+        "Compare numbers and arrange them in ascending and descending order",
+        "Form the greatest and smallest six-digit numbers from given digits",
+        "Read and write Roman numerals I, V and X, up to 39",
+        "Find half, one-fourth and three-fourths in pictures, folded paper and groups of objects",
+        "Know like, unlike, unit and equivalent fractions, and add and subtract like fractions"
+      ]
     },
     {
       "topic": "Number Operations",
-      "covers": []
+      "covers": [
+        "Add and subtract numbers up to four digits, with and without regrouping",
+        "Build multiplication tables up to 10 by spotting patterns instead of rote learning",
+        "Multiply two- and three-digit numbers by the standard method and the lattice method",
+        "Divide one number by a single-digit number using dots, grouping, multiplication facts and repeated subtraction",
+        "Use all four operations in problems about money, length, mass and capacity",
+        "Write word problems for a given number statement",
+        "Estimate sums, differences and products, and check them in their head"
+      ]
     },
     {
       "topic": "Playing with Numbers",
-      "covers": []
+      "covers": [
+        "Find factors, prime factors and multiples of numbers",
+        "Tell prime numbers from composite numbers",
+        "Test whether a number divides exactly by 2, 3, 4, 5, 9 and 10",
+        "Find the highest common factor (HCF) and lowest common multiple (LCM) by listing and by common division"
+      ]
     },
     {
       "topic": "Geometry",
-      "covers": []
+      "covers": [
+        "Identify shapes around them and describe their features",
+        "Find the centre, radius and diameter of a circle, and how they relate",
+        "Find which shapes tile a region, and tile a region with one or more shapes",
+        "Make shapes with a 7-piece tangram",
+        "Draw a cube or cuboid from a given net",
+        "Show reflection symmetry through paper folding, paper cutting and ink blots",
+        "Draw top, front and side views of simple objects"
+      ]
     },
     {
       "topic": "Measurement",
-      "covers": []
+      "covers": [
+        "Convert metres to centimetres and back",
+        "Solve problems on lengths and distances in daily life using the four operations",
+        "Estimate the distance between two places, then check by measuring",
+        "Weigh objects on a balance using grams and kilograms",
+        "Measure the volume of containers in litres and millilitres, and relate these units to everyday objects",
+        "Convert between days, hours and minutes",
+        "Read clock time to the minute, use a.m. and p.m., and link the 12-hour and 24-hour clocks",
+        "Find the area and perimeter of simple shapes, using a square or a book as a unit"
+      ]
     },
     {
       "topic": "Data Handling",
-      "covers": []
+      "covers": [
+        "Show collected data as a pictograph using stickers or pictures",
+        "Read bar graphs and say what is more or less",
+        "Draw a bar graph from data they have collected",
+        "Draw conclusions from graphs found in newspapers and magazines"
+      ]
     },
     {
       "topic": "Patterns",
-      "covers": []
+      "covers": [
+        "Identify patterns that have more than one feature, such as growing or reducing patterns",
+        "Make a rule to extend a growing or reducing pattern of shapes or numbers",
+        "See that patterns in numbers and shapes lead to general rules, the start of algebra"
+      ]
     }
   ],
   "gaps": [
-    "Publisher page gives theme headings only; no sub-topics were published on it.",
-    "Page does not name CISCE as the source.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Teaching processes and learning resources are left out; the file lists only what a child learns.",
+    "Some fraction symbols in the text extract are garbled; the file uses the written outcomes only."
   ]
 }

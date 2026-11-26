@@ -2,42 +2,85 @@
   "board": "ICSE",
   "subject": "social",
   "class": 5,
-  "source_urls": [
-    "https://byjus.com/icse-class-5-social-studies-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Evolution of Mankind",
-      "covers": []
+      "covers": [
+        "Trace the stages of human evolution on earth",
+        "Name the sources of evidence for human evolution: fossils, bones, tools, cave paintings and utensils",
+        "Compare the four Stone Ages and the Iron Age",
+        "Trace how transport and communication have changed, from the wheel to satellites",
+        "Explain how writing, printing, the telegraph and the telephone changed life",
+        "Explain how trade and voyages helped commerce grow"
+      ]
     },
     {
-      "topic": "The Constitution of India: Basic Features",
-      "covers": []
+      "topic": "The Constitution of India- Basic Features",
+      "covers": [
+        "Explain why a constitution is needed and what it does",
+        "List the fundamental rights and duties of a citizen",
+        "Explain the basic features of India's democratic government",
+        "Describe the steps of an election and why choosing the right representative matters",
+        "Describe a citizen's responsibilities in a democracy"
+      ]
     },
     {
-      "topic": "The Earth: Its Geographical Features",
-      "covers": []
+      "topic": "The Earth- Its Geographical Features",
+      "covers": [
+        "Use latitudes and longitudes to find places on a map or globe",
+        "Find out how time zones differ between places",
+        "Name the three major temperature zones: torrid, temperate and frigid",
+        "Tell weather from climate and name the factors that affect climate",
+        "Explain solar and lunar eclipses with diagrams",
+        "Explain what climate change is and why climates change"
+      ]
     },
     {
-      "topic": "India: A Diverse Country",
-      "covers": []
+      "topic": "India- A Diverse Country",
+      "covers": [
+        "Locate India and its neighbouring countries on the world map",
+        "Compare the size of India with its neighbours",
+        "Relate the climate of different regions to the summer, winter and monsoon seasons",
+        "Name the main types of natural vegetation: tropical evergreen, deciduous, thorn and scrub, and montane forest",
+        "Compare vegetation and climate in different parts of India, and give reasons",
+        "Explain why natural vegetation must be conserved"
+      ]
     },
     {
-      "topic": "The Environment: Major Concerns",
-      "covers": []
+      "topic": "The Environment- Major Concerns",
+      "covers": [
+        "Name the biotic and abiotic components of the environment",
+        "Explain how people in different regions of the world depend on each other",
+        "Explain the reasons for ozone depletion and for global warming",
+        "Describe the effects of global warming",
+        "Name natural disasters such as earthquakes, cyclones, floods, droughts, volcanic eruptions and landslides, with their precautions",
+        "Take part in mock drills and follow rules that reduce pollution"
+      ]
     },
     {
       "topic": "Natural Resources",
-      "covers": []
+      "covers": [
+        "Explain what a resource is and give examples",
+        "Tell renewable and non-renewable resources apart",
+        "Name renewable resources: air, water, soil, plants, animals, solar energy and wind energy",
+        "Name non-renewable resources: coal, petroleum and minerals",
+        "Explain how resources are used in daily life",
+        "Suggest ways to save and conserve resources"
+      ]
     },
     {
       "topic": "Major Occupations in India",
-      "covers": []
+      "covers": [
+        "Tell food crops from cash crops and name the main types of crops",
+        "Compare old and new methods of farming",
+        "Explain livestock rearing",
+        "Tell man-made things from machine-made things",
+        "Tell raw materials from finished products",
+        "Name large-scale and small-scale industries",
+        "Respect the skills of craftspeople and the hard work of farmers"
+      ]
     }
   ],
-  "gaps": [
-    "Byjus gives topic titles only, no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

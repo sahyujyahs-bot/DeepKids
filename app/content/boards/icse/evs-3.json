@@ -1,60 +1,132 @@
 {
   "board": "ICSE",
-  "subject": "evs",
+  "subject": "science",
   "class": 3,
-  "source_urls": [
-    "https://byjus.com/icse-class-3-science-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Living and Non-living Things",
-      "covers": []
+      "topic": "Living and Non-Living things",
+      "covers": [
+        "Name living and non-living things they see around them",
+        "Tell living things from non-living things by what can be observed",
+        "Sort things into living and non-living groups",
+        "Describe the features of living and non-living things in their own words",
+        "Draw living and non-living things and name them",
+        "Feel care and sensitivity towards plants, animals and the environment"
+      ]
     },
     {
       "topic": "Human Body",
-      "covers": []
+      "covers": [
+        "Find and name the main internal organs on a picture, model or cut-out",
+        "Draw the major internal organs and label them",
+        "Name the parts of the respiratory system (nose, windpipe, lungs) and what each does",
+        "Explain breathing in and breathing out in their own words, using a model",
+        "Explain why proper breathing and deep breathing are good for health",
+        "Name the causes of air pollution and suggest ways to reduce it, at an awareness level"
+      ]
     },
     {
       "topic": "Animals: Birds",
-      "covers": []
+      "covers": [
+        "Recognise and name common birds seen in their surroundings",
+        "Draw birds and label their body parts: beaks, feet and feathers",
+        "Group birds by beak, feather and claw types",
+        "Describe what some common birds eat, and how birds fly",
+        "Recognise the nests of some birds, such as the weaver, tailor and woodpecker",
+        "Make a model of a nest with local materials",
+        "Care for birds, for example by setting up a bird bath"
+      ]
     },
     {
       "topic": "Animals: Common Insects",
-      "covers": []
+      "covers": [
+        "Name common insects, such as ants, beetles, bees, flies, mosquitoes and butterflies",
+        "Label the body parts of an insect: head, thorax, abdomen, legs and wings",
+        "Explain the life cycle of a butterfly and of a honey bee in their own words",
+        "Name insects that harm people, and suggest ways to protect against them",
+        "Explain why social insects such as ants and bees are useful to people",
+        "Feel compassion for insects and other small creatures"
+      ]
     },
     {
       "topic": "Plants in the Surroundings",
-      "covers": []
+      "covers": [
+        "Name the parts of a plant (root, stem, leaf, flower and fruit) and say what each does",
+        "Name the parts of a seed and tell different kinds of seeds apart, such as gram and green pea",
+        "Know that germination needs water, air and warmth",
+        "Carry out a simple seed germination experiment with help from elders",
+        "Appreciate the beauty of plants, through leaves and flowers",
+        "Care for plants and their surroundings"
+      ]
     },
     {
       "topic": "Food We Get from Plants",
-      "covers": []
+      "covers": [
+        "Classify plants as herbs, shrubs, trees and climbers, with examples",
+        "Name the parts of plants we eat: leaves, roots, fruits, seeds and flowers",
+        "Name plant products such as oil, spices and pulses",
+        "Name some medicinal plants and the seeds, leaves or buds used from them",
+        "Draw and colour plants and fruits",
+        "Show respect for food and avoid wasting it"
+      ]
     },
     {
       "topic": "Forms of Matter: Solids, Liquids and Gases",
-      "covers": []
+      "covers": [
+        "Tell natural things from man-made things in the surroundings",
+        "Identify solids, liquids and gases from what can be observed about them",
+        "Give examples of each form found at home and around them",
+        "Watch simple experiments that show the properties of each form, such as ice, water and vapour",
+        "Explain the uses of solids, liquids and gases in daily life"
+      ]
     },
     {
       "topic": "Some Properties of Water",
-      "covers": []
+      "covers": [
+        "Observe some properties of water",
+        "Sort materials into those that dissolve in water and those that do not",
+        "Make simple solutions with salt and sugar",
+        "Find out which objects float and which sink",
+        "Notice that warm water and stirring help substances dissolve"
+      ]
     },
     {
       "topic": "Water as a Resource",
-      "covers": []
+      "covers": [
+        "Name the three forms of water: solid, liquid and gas",
+        "Explain the water cycle, including evaporation and condensation, in simple words",
+        "Draw the water cycle and label the forms of water in it",
+        "Name the common causes of water pollution",
+        "Describe simple ways to purify water at home or school",
+        "Explain rainwater harvesting and why it helps to conserve water"
+      ]
     },
     {
       "topic": "Sun as a Natural Resource",
-      "covers": []
+      "covers": [
+        "Describe the uses of the sun, such as drying and cooking",
+        "Explain how a solar cooker, a solar cell and a solar heater work, in simple terms",
+        "Explain that plants need sunlight to make their food",
+        "Explain why living things need the sun",
+        "Tell renewable and non-renewable sources of energy apart, with examples",
+        "Suggest ways to save energy at home and at school"
+      ]
     },
     {
       "topic": "Cleanliness, Health and Hygiene",
-      "covers": []
+      "covers": [
+        "Keep their own body clean: hands, nails, hair, teeth and clothes",
+        "Name the causes of unclean surroundings, such as polythene, spitting and garbage",
+        "List the do's and don'ts for keeping surroundings clean",
+        "Suggest ways to keep public places clean",
+        "Know what helps the body stay healthy: food, rest, exercise and play",
+        "Know about the Swachh Bharat Abhiyan, and small actions that help it"
+      ]
     }
   ],
   "gaps": [
-    "Byjus calls this subject Science; it is filed here as the EVS/science slot for Class 3.",
-    "Byjus gives topic titles only, no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Causes, effects and prevention of air pollution are taught in depth in Class IV Social Studies, so Class III covers only awareness.",
+    "The curriculum does not name fixed bird or insect species; the teacher chooses the examples to suit the children."
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "board": "ICSE",
+  "subject": "computer",
+  "class": 1,
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
+  "topics": [
+    {
+      "topic": "Computer - A Machine",
+      "covers": [
+        "Understand that a computer is a machine made by humans",
+        "Know that a computer does its work by following the inputs and instructions it is given",
+        "Tell a desktop from a laptop",
+        "Name some things a computer can do, such as play games and music or book tickets",
+        "Sort objects into natural things and man-made things"
+      ]
+    },
+    {
+      "topic": "Uses of a Computer",
+      "covers": [
+        "Name places where computers are used",
+        "List everyday uses: typing, music, games, the internet, email and chat",
+        "Know that computers store data and give information"
+      ]
+    },
+    {
+      "topic": "Parts of a Computer",
+      "covers": [
+        "Name the main parts: monitor, keyboard, mouse and CPU",
+        "Say what each main part does: input, processing and output",
+        "Name extra devices such as printer, scanner, microphone and speaker",
+        "Show how the parts are connected and work together"
+      ]
+    },
+    {
+      "topic": "Using Computers - Do's and Don'ts",
+      "covers": [
+        "Keep the computer clean and handle it gently",
+        "Sit with the right posture and distance from the screen",
+        "Avoid touching connecting cords and wires, and never bang the computer",
+        "Share the computer, take turns, and never snatch a mouse or keyboard from a friend",
+        "Close the computer properly when turns are over",
+        "Keep the sound at a comfortable level"
+      ]
+    },
+    {
+      "topic": "Computer Mouse",
+      "covers": [
+        "Name the left and right buttons and the scroll wheel",
+        "Use the left click, right click and scroll wheel",
+        "Know why a mouse pad helps the mouse move smoothly",
+        "Build hand control by practising with the mouse"
+      ]
+    },
+    {
+      "topic": "Computer Keyboard",
+      "covers": [
+        "Find the alphabet, number and arrow keys",
+        "Use keys to type text and move around",
+        "Know that the keyboard is mainly used to type text"
+      ]
+    },
+    {
+      "topic": "Storage Devices",
+      "covers": [
+        "Describe data in simple words",
+        "Name storage devices such as pen drive, data card, CD and DVD",
+        "Know that data can be stored for a short time or for a long time"
+      ]
+    }
+  ],
+  "gaps": []
+}

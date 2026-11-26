@@ -1,64 +1,146 @@
 {
   "board": "ICSE",
-  "subject": "evs",
+  "subject": "science",
   "class": 5,
-  "source_urls": [
-    "https://byjus.com/icse-class-5-science-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Human Body: The Circulatory System",
-      "covers": []
+      "covers": [
+        "Name the organs of the circulatory system: heart, arteries and veins",
+        "Draw and label the circulatory organs, and find them on a body cut-out",
+        "Describe the work of each organ and the circulation of blood in simple terms",
+        "Tell arteries and veins apart, and name a few major ones",
+        "Explain the functions of blood",
+        "Practise yoga and deep breathing to keep the heart healthy"
+      ]
     },
     {
       "topic": "Human Body: The Skeletal System",
-      "covers": []
+      "covers": [
+        "Name the major bones: skull, jawbone, backbone, chest bone, arm and leg bones",
+        "Describe the work of the major bones",
+        "Locate the main joints, such as the shoulder, elbow and knee, and say how they work",
+        "Name other kinds of joints in the body",
+        "Name calcium-rich foods that keep bones strong",
+        "Do simple exercises and practise good posture when sitting and standing"
+      ]
     },
     {
       "topic": "Food and Health",
-      "covers": []
+      "covers": [
+        "Name the components of a balanced diet and explain why it matters",
+        "Sort healthy food from junk food",
+        "Explain the harm that junk food can do",
+        "Suggest ways to make a diet healthier, such as sprouting and fermented foods",
+        "Name deficiency diseases, such as night blindness, rickets, scurvy and goitre, and ways to prevent them",
+        "Name lifestyle diseases, such as obesity, anaemia, diabetes and blood pressure, and ways to avoid them",
+        "Know, at an awareness level, that food can be adulterated"
+      ]
     },
     {
       "topic": "Pollination",
-      "covers": []
+      "covers": [
+        "Name the parts of a flower and draw them",
+        "Locate the parts of a flower that take part in pollination",
+        "Explain pollination in simple technical terms",
+        "Tell self-pollination from cross-pollination, with examples",
+        "Tell bisexual flowers from unisexual flowers",
+        "Explain why plants need pollination"
+      ]
     },
     {
       "topic": "Plant Reproduction",
-      "covers": []
+      "covers": [
+        "Draw and label the male and female parts of a flower",
+        "Explain fertilisation and how a seed forms",
+        "Explain sexual and vegetative reproduction, with examples such as potato, ginger, carrot and Bryophyllum",
+        "Name the ways seeds spread: by air, by water and by animals",
+        "Explain why seed dispersal matters",
+        "Carry out simple experiments on seed germination"
+      ]
     },
     {
       "topic": "Solids, Liquids and Gases",
-      "covers": []
+      "covers": [
+        "Describe the properties of solids, such as a definite shape",
+        "Describe the properties of liquids: they take the shape of their container and flow",
+        "Describe the properties of gases: they have no definite shape or volume",
+        "Show the composition of air in a diagram",
+        "Explain land and sea breezes and monsoon winds in simple terms",
+        "Explain why ventilators, windows and fans are useful in houses",
+        "Separate solids from liquids by sedimentation, decantation and filtration"
+      ]
     },
     {
       "topic": "Interdependence in Living Beings: Plants and Animals",
-      "covers": []
+      "covers": [
+        "Explain that plants make their own food, so they are producers",
+        "Explain that animals depend on plants and other animals, so they are consumers",
+        "Classify living things as producers and consumers, with examples",
+        "Explain a simple food chain using examples from daily life",
+        "Name decomposers and scavengers, with examples",
+        "Explain how hunting and forest fires upset the balance of nature",
+        "Make a model of a food chain"
+      ]
     },
     {
       "topic": "Sound and Noise",
-      "covers": []
+      "covers": [
+        "Tell pleasant sounds from unpleasant sounds",
+        "Recognise sounds made by common objects, animals, trees and fallen leaves",
+        "Explain the difference between sound and noise",
+        "Name warning sounds, such as a fire alarm or an ambulance siren, and why they save lives",
+        "List the causes of noise pollution and ways to reduce noise",
+        "Explain how loud sound can harm health"
+      ]
     },
     {
       "topic": "Work and Energy",
-      "covers": []
+      "covers": [
+        "Explain what work is, with examples from daily life",
+        "Tell when work is done and when it is not",
+        "Explain why energy is needed to do work",
+        "Tell work and energy apart, with examples",
+        "Name renewable and non-renewable sources of energy",
+        "Name the forms of energy: light, heat, electricity and sound",
+        "Explain why energy should be saved"
+      ]
     },
     {
       "topic": "Light and Shadows",
-      "covers": []
+      "covers": [
+        "Classify objects as transparent, translucent or opaque",
+        "Form shadows, and infer what conditions are needed for them",
+        "Describe how the sun seems to change from morning to evening, without looking straight at it",
+        "Explain in simple terms why day and night happen",
+        "Tell rotation and revolution of the earth apart, in simple words",
+        "Explain solar and lunar eclipses in simple language"
+      ]
     },
     {
       "topic": "Simple Machines",
-      "covers": []
+      "covers": [
+        "Name tools and simple machines used in daily life, such as the lever, screw and pulley",
+        "Explain the three classes of levers (I, II and III), with examples",
+        "Relate body joints, such as the elbow and knee, to levers",
+        "Draw and label different machines",
+        "Make simple models and show how a machine works"
+      ]
     },
     {
       "topic": "Cleanliness and Hygiene",
-      "covers": []
+      "covers": [
+        "Show when and how to wash their hands properly",
+        "Identify diseases that come from unclean surroundings and poor personal hygiene",
+        "Sort garbage into degradable and non-degradable, with examples",
+        "Suggest ways to reduce non-degradable garbage",
+        "Dispose of garbage properly, and make slogans to spread awareness",
+        "Share cleanliness and hygiene habits with their family"
+      ]
     }
   ],
   "gaps": [
-    "Byjus calls this subject Science; it is filed here as the EVS/science slot for Class 5.",
-    "Byjus gives topic titles only, no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Day and night are explained here only in simple terms; the detail is left to Social Studies and Geography."
   ]
 }

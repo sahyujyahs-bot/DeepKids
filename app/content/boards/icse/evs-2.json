@@ -2,75 +2,194 @@
   "board": "ICSE",
   "subject": "evs",
   "class": 2,
-  "source_urls": [
-    "https://byjus.com/icse-class-2-evs-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Theme 1: About Me",
-      "covers": []
+      "topic": "About Me",
+      "covers": [
+        "Describe themselves in speech and in simple writing: likes, dislikes and hobbies, and respect other people's",
+        "Say what the external body parts and sense organs do",
+        "Draw a self-portrait and label the external body parts",
+        "Solve shadow puzzles and find body parts in a picture",
+        "Look after their body parts and sense organs",
+        "Notice how people differ, and appreciate those differences",
+        "Make their own name card with a logo",
+        "Name their own feelings and other people's, and manage them"
+      ]
     },
     {
-      "topic": "Theme 2: Others in My World",
-      "covers": []
+      "topic": "Others in my World",
+      "covers": [
+        "Name extended family members and say how each is related to them",
+        "Draw a family tree that includes distant relatives",
+        "Describe how festivals and national days are celebrated at home, at school and in the neighbourhood",
+        "Understand why loud crackers, loud music and chemical colours should be avoided",
+        "Look after pets with empathy and compassion",
+        "Show care and concern for old, sick and differently abled people",
+        "Appreciate the help neighbours give one another",
+        "Describe the role of each family member, and their own role"
+      ]
     },
     {
-      "topic": "Theme 3: My Needs: Food",
-      "covers": []
+      "topic": "My Needs: Food",
+      "covers": [
+        "Name common food items, such as cereals, pulses, fruits, vegetables and milk",
+        "Say why the body needs food",
+        "Sort food by where it comes from: plants or animals",
+        "Know that different foods help the body in different ways: energy, body building, repair, protection and water",
+        "Tell healthy food from junk food, and say why junk food is not good",
+        "Respect the variety of food eaten by different families and peers",
+        "Care for food and avoid wasting it"
+      ]
     },
     {
-      "topic": "Theme 4: My Needs: Water",
-      "covers": []
+      "topic": "My Needs: Water",
+      "covers": [
+        "Name natural and man-made sources of water, such as rain, lake, river, well and hand pump",
+        "Say how plants, animals and people need water",
+        "Know some ways to purify drinking water at home and school",
+        "Know, at an awareness level, what causes water pollution",
+        "Notice that many foods contain water",
+        "Suggest ways to stop misusing water and to re-use it",
+        "Take sensible precautions in the rain, such as using an umbrella and raincoat",
+        "Make slogans and drawings about saving water"
+      ]
     },
     {
-      "topic": "Theme 5: My Needs: Shelter",
-      "covers": []
+      "topic": "My Needs: Shelter",
+      "covers": [
+        "Name the different types of houses in cities, villages and other parts of the world",
+        "Give reasons why houses are different from one another",
+        "Name the materials used to build different houses",
+        "Draw and label the parts of a house",
+        "Explain why light and fresh air matter in a house",
+        "Keep the house and household things clean",
+        "Make a simple model of a house and decorate it"
+      ]
     },
     {
-      "topic": "Theme 6: My Needs: Clothing",
-      "covers": []
+      "topic": "My Needs: Clothing",
+      "covers": [
+        "Explain why living things need clothes",
+        "Name materials used for clothes, such as cotton, silk, wool, canvas and rayon",
+        "Tell natural fibres from man-made fibres, with examples",
+        "Say which clothes suit which season: cotton in summer, silk and wool in winter, rayon and synthetic in the rains",
+        "Draw and label clothes worn by boys and girls",
+        "Suggest ways to care for cotton and silk clothes at home",
+        "Make clothes-related origami, such as paper dresses"
+      ]
     },
     {
-      "topic": "Theme 7: My Needs: Air",
-      "covers": []
+      "topic": "My Needs: Air",
+      "covers": [
+        "Show, with help from elders, that air has weight, takes up space and expands",
+        "Observe and describe some properties of air",
+        "Name the causes of air pollution, including smoke and fumes",
+        "Suggest ways to deal with smoke and fumes that pollute the air",
+        "Name some diseases that spread through the air, and how to prevent them",
+        "Do simple breathing exercises, asanas and deep breathing for healthy living",
+        "Write slogans and songs to prevent air pollution"
+      ]
     },
     {
-      "topic": "Theme 8: Keeping Oneself Clean, Safe and Healthy",
-      "covers": []
+      "topic": "Keeping Oneself Clean, Safe and Healthy",
+      "covers": [
+        "Find reasons for filth and garbage around them",
+        "Use dustbins and separate wet and dry garbage",
+        "Describe how garbage is thrown away at home and in the neighbourhood",
+        "Know the benefits of exercise, yoga and games",
+        "Take part in play, recreation and outdoor games",
+        "Recognise good touch and bad touch, and talk about them with trusted adults",
+        "Keep themselves safe from household tools",
+        "Explain the proverb that cleanliness is next to godliness"
+      ]
     },
     {
-      "topic": "Theme 9: Places in the Neighbourhood",
-      "covers": []
+      "topic": "Places in the Neighbourhood",
+      "covers": [
+        "Draw a map of the places in their locality",
+        "Explain why public places are needed in a neighbourhood",
+        "Name each place and say what it is used for",
+        "Name people who help us, such as the postman, a courier worker, a gas delivery worker and a mason",
+        "Know where to get help in an emergency: the police station and the fire brigade",
+        "Name recreation places in the neighbourhood",
+        "Act out community helpers and say how each one helps"
+      ]
     },
     {
-      "topic": "Theme 10: Plants",
-      "covers": []
+      "topic": "Plants",
+      "covers": [
+        "Revisit what they learnt about plants in Class I",
+        "Name the parts of a plant (root, stem, leaf, flower, fruit and seed) and say what each one does",
+        "Tell plants that grow on land, in water and as climbers apart, with examples",
+        "Name plant products used in daily life",
+        "Understand how some plant parts change shape to suit their use, such as underground stems and roots",
+        "Name medicinal plants such as tulsi, neem, clove and ginger",
+        "Appreciate tree planting and look after plants"
+      ]
     },
     {
-      "topic": "Theme 11: Animals",
-      "covers": []
+      "topic": "Animals",
+      "covers": [
+        "Revisit what they learnt about animals in Class I",
+        "Name the body parts of pet animals",
+        "Describe what animals do: they move, grow and eat",
+        "Name the homes of animals: underground, in trees, near water and under water",
+        "Understand why animals need shelter",
+        "Explain the life cycle of a butterfly",
+        "Sort animals by their habits, features and food",
+        "Show care and compassion for pets and other animals"
+      ]
     },
     {
-      "topic": "Theme 12: Transport",
-      "covers": []
+      "topic": "Transport",
+      "covers": [
+        "Name the transport seen in the neighbourhood and in cities",
+        "Name the fuels that run vehicles: petrol, diesel, CNG and electricity",
+        "Compare the traffic in cities and in villages",
+        "Give reasons for traffic jams, and suggest ways to reduce them",
+        "Discuss how vehicles cause air and noise pollution",
+        "Value wheelchairs and ramps in schools and public places",
+        "Suggest ways to save petrol and diesel",
+        "Draw or stick pictures of different vehicles"
+      ]
     },
     {
-      "topic": "Theme 13: Communication",
-      "covers": []
+      "topic": "Communication",
+      "covers": [
+        "Explain why communication matters in daily life",
+        "Name the ways people communicate in cities and public places",
+        "Discuss the good and bad uses of different ways of communicating",
+        "Know, at an awareness level, how email, SMS and the internet are used",
+        "Use communication for fun and recreation",
+        "Know how to guard against misuse of phones and other devices",
+        "Demonstrate some ways of communicating"
+      ]
     },
     {
-      "topic": "Theme 14: The World Around Me: Sun, Moon, Sky and Stars",
-      "covers": []
+      "topic": "The World Around Me: Sun, Moon, Sky and Stars",
+      "covers": [
+        "Name the heavenly bodies seen in the day and at night",
+        "Tell the sun, moon and stars apart by what they look like",
+        "Describe the sky in the day, in the afternoon and at night",
+        "Draw the heavenly bodies, and sunny, cloudy and rainy days",
+        "Know, through pictures, what the solar system is and how day and night happen",
+        "Read simple symbolic maps and route maps",
+        "Write or collect poems, songs and pictures about the sky"
+      ]
     },
     {
-      "topic": "Theme 15: Time, Space and Direction",
-      "covers": []
+      "topic": "Time, Space and Direction",
+      "covers": [
+        "Tell the parts of a day apart: morning, afternoon, evening and night",
+        "Talk about what they did today and yesterday, and what they will do tomorrow",
+        "Know left and right, above and below, near and far, and up and down",
+        "Give and follow simple directions",
+        "Describe where objects are: on, in, below or above",
+        "Find places and objects in their surroundings, with help identifying directions",
+        "Make a scrapbook or picture map of their day and their surroundings"
+      ]
     }
   ],
-  "gaps": [
-    "Byjus lists 15 themes with no sub-topics.",
-    "Page does not name CISCE as the source.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

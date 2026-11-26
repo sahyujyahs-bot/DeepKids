@@ -2,56 +2,118 @@
   "board": "ICSE",
   "subject": "maths",
   "class": 5,
-  "source_urls": [
-    "https://byjus.com/icse-class-5-maths-syllabus/",
-    "https://byjus.com/icse/icse-syllabus"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Numbers",
-      "covers": []
+      "covers": [
+        "Read and write large numbers up to crores in the Indian system",
+        "Compare the Indian and international systems, and read and write numbers in the international system",
+        "Write numbers in expanded form and back, and compare large numbers by place value",
+        "Form the greatest and smallest numbers from given digits",
+        "Round numbers to the nearest 10, 100 and 1000",
+        "Represent numbers with Roman symbols"
+      ]
     },
     {
       "topic": "Number Operations",
-      "covers": []
+      "covers": [
+        "Use place value beyond 1000 in the four operations",
+        "Use the standard methods for adding, subtracting and multiplying large numbers",
+        "Divide a number by a number of up to two digits, by the standard method and by splitting the number",
+        "Estimate sums, differences, products and quotients, and check them",
+        "Solve real-life problems with the four operations, and write word problems for given statements",
+        "Explain what factors and multiples mean, and find some of each"
+      ]
     },
     {
       "topic": "Fractions and Decimals",
-      "covers": []
+      "covers": [
+        "Tell proper, improper and mixed fractions apart",
+        "Write equivalent fractions and find the fractional part of a collection",
+        "Compare and order three or more fractions",
+        "Add and subtract unlike fractions and mixed numbers",
+        "Multiply and divide fractions, understanding 'of' as multiplication",
+        "Read decimal fractions with denominators 10, 100 and 1000, and their place value",
+        "Compare, order, add and subtract decimal fractions",
+        "Multiply decimals by 10, 100 and 1000, and by other decimals"
+      ]
     },
     {
       "topic": "Playing with Numbers (Factors and Multiples)",
-      "covers": []
+      "covers": [
+        "Find multiples and factors of numbers, using factor trees and skip counting",
+        "Tell prime, composite, twin prime and co-prime numbers apart",
+        "Find prime and composite numbers up to 100",
+        "Test divisibility by 2, 3, 4, 5, 9, 10 and 11 by spotting rules",
+        "Find HCF and LCM by listing and by common division",
+        "See how HCF and LCM are related, and use one to find the other"
+      ]
     },
     {
       "topic": "Introduction to Negative Numbers",
-      "covers": []
+      "covers": [
+        "Show whole numbers and integers on a number line",
+        "Understand integers as counting numbers, zero and negatives of counting numbers",
+        "Use negative numbers for temperature below zero, sea level and profit and loss",
+        "Compare and order integers on a number line",
+        "Add and subtract integers"
+      ]
     },
     {
       "topic": "Geometry",
-      "covers": []
+      "covers": [
+        "Explore angles, and classify them as right, acute or obtuse by drawing and tracing",
+        "Find right angles and other angles in the classroom and environment",
+        "Recognise reflection and rotational symmetry in 2D shapes and letters",
+        "Find symmetry in familiar 3D shapes such as a cube",
+        "Make cubes, cuboids, cylinders and cones from given nets, and trace nets from boxes",
+        "Learn the words plane, point, line, line segment, ray, parallel, intersecting and perpendicular",
+        "Draw plan, elevation and side views of 3D objects"
+      ]
     },
     {
       "topic": "Measurement",
-      "covers": []
+      "covers": [
+        "Convert between larger and smaller units of length, weight, time and money",
+        "Estimate the volume of a solid in known units, such as a bucket being about 20 mugs",
+        "Solve problems on money, length, weight, capacity and time with the four operations",
+        "Explain area and perimeter, and see that the two are not linked",
+        "Find the area and perimeter of simple shapes, using squared grids"
+      ]
     },
     {
       "topic": "Introduction to Percentage",
-      "covers": []
+      "covers": [
+        "Understand percent as a fraction out of 100",
+        "Link fractions, decimals and percentages",
+        "Show percentages in pictures",
+        "Convert fractions and decimals to percentages, and back",
+        "Solve simple word problems on percentages, such as marks in a test"
+      ]
     },
     {
       "topic": "Data Handling",
-      "covers": []
+      "covers": [
+        "Collect data from daily life and show it in a table and a bar graph",
+        "Interpret a given bar graph",
+        "Read and interpret pie charts and line graphs from newspapers and magazines",
+        "Present a group project with tables and graphs"
+      ]
     },
     {
       "topic": "Patterns",
-      "covers": []
+      "covers": [
+        "Observe and extend patterns with a unit of repeat",
+        "Extend a progressive pattern by finding its rule",
+        "Create a pattern with more than one feature",
+        "Find triangular and square numbers, and their rules",
+        "Find later terms of a number pattern from its rule, without listing the earlier terms"
+      ]
     }
   ],
   "gaps": [
-    "Publisher page gives theme headings only; no sub-topics were published on it.",
-    "Page does not name CISCE as the source.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Teaching processes and learning resources are left out; the file lists only what a child learns.",
+    "Some decimal examples in the text extract are garbled; the file uses the written outcomes only."
   ]
 }

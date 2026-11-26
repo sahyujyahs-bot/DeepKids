@@ -2,85 +2,47 @@
   "board": "ICSE",
   "subject": "english",
   "class": 1,
-  "source_urls": [
-    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
-    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Animal Sounds",
-      "covers": []
-    },
-    {
-      "topic": "Tenses",
-      "covers": []
-    },
-    {
-      "topic": "Nouns",
-      "covers": []
-    },
-    {
-      "topic": "Young One of Animals",
-      "covers": []
-    },
-    {
-      "topic": "Verbs",
-      "covers": []
-    },
-    {
-      "topic": "Pronouns",
-      "covers": []
-    },
-    {
-      "topic": "Adjectives",
-      "covers": []
-    },
-    {
-      "topic": "Opposites",
-      "covers": []
-    },
-    {
-      "topic": "Good Manners",
-      "covers": []
-    },
-    {
-      "topic": "Silent Letters",
-      "covers": []
-    },
-    {
-      "topic": "Plurals",
-      "covers": []
-    },
-    {
-      "topic": "Articles",
-      "covers": []
-    },
-    {
-      "topic": "Recommended reading (Classes I and II)",
+      "topic": "Listening and Speaking",
       "covers": [
-        "Fables from Aesop, the Panchatantra and the Jatakas",
-        "Picture-led stories such as Peter Rabbit, Noddy and Pinocchio",
-        "Ladybird Read Aloud series"
+        "Take turns listening and speaking in class talk about set topics",
+        "Reply to what others say and ask questions to clear up doubts",
+        "Answer questions about the main details of a story read aloud",
+        "Recite simple poems with actions and expression",
+        "Describe people, places and things in their own words",
+        "Express ideas and feelings clearly in complete sentences",
+        "Follow simple two-step directions, and give them",
+        "Use words and phrases picked up from talk, stories and reading"
       ]
     },
     {
-      "topic": "Reading and writing activities (all classes)",
+      "topic": "Reading and Writing",
       "covers": [
-        "Reading aloud, silently and in groups",
-        "Word wall and vocabulary tree",
-        "Completing a story and picture composition",
-        "Recording a process, such as making a sandwich",
-        "Book talks and character illustrations",
-        "Simple comprehension on seen and unseen passages",
-        "Spelling, word search and word games",
-        "Writing for the school magazine, newsletters and soft boards"
+        "Read with help from pictures, in print or tactile form, alone and in groups",
+        "Draw or add pictures to make ideas and feelings clear",
+        "Say who is telling the story at different points in a passage",
+        "Read grade-level text fluently, pausing at the right places",
+        "Write words and sentences, starting with a capital letter and ending with a full stop",
+        "Write about familiar topics, such as 'my teacher'",
+        "Tell one or more linked events in order, using pictures and charts, and say how they felt",
+        "Take dictation of three- and four-letter words and short sentences"
+      ]
+    },
+    {
+      "topic": "Grammar and Vocabulary in Context",
+      "covers": [
+        "Use naming, action, describing and position words, with their opposites, in context",
+        "Understand one and many, and she/he; use 'a', 'an' and 'the'",
+        "Write all upper and lower case letters",
+        "Use common, proper and possessive nouns, and match singular and plural nouns with verbs",
+        "Use verbs for simple past, present and future",
+        "Use adjectives, conjunctions, determiners and prepositions; capital letters for names; commas, full stops, question and exclamation marks",
+        "Spell three- and four-letter words, and sound out words not yet taught",
+        "Put words in alphabetical order by their first letter"
       ]
     }
   ],
-  "gaps": [
-    "Embibe gives 12 chapter titles only, with no content under each; it reads like a grammar chapter list, not a council outline.",
-    "Broad aims and the Class I-II reading list come from a third-party copy of the English primary curriculum (advocatetanmoy.com); the published Class I grammar, oral and literature targets were not found.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

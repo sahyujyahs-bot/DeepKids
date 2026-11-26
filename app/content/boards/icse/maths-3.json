@@ -2,40 +2,76 @@
   "board": "ICSE",
   "subject": "maths",
   "class": 3,
-  "source_urls": [
-    "https://byjus.com/icse-class-3-maths-syllabus/",
-    "https://byjus.com/icse/icse-syllabus"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Numbers",
-      "covers": []
+      "covers": [
+        "Read and write numbers up to 9999 using place value",
+        "Know the expanded form, place value and face value of digits in four-digit numbers",
+        "Count forwards and backwards from any number",
+        "Compare two numbers by place value and arrange numbers in order",
+        "Form the greatest and smallest numbers from given digits, with and without repeats",
+        "Find rules for comparing numbers by noticing patterns"
+      ]
     },
     {
       "topic": "Number Operations",
-      "covers": []
+      "covers": [
+        "Add and subtract three-digit numbers, with and without regrouping, up to 999",
+        "Estimate a sum or difference, then check the answer",
+        "Choose the right operation for a real-life problem shown in pictures or stories",
+        "Learn multiplication tables of 2, 3, 4, 5 and 10, and see multiplication as repeated addition",
+        "Understand division as equal sharing and equal grouping, and find it by repeated subtraction",
+        "Add and subtract small amounts of money, and make simple rate charts and bills",
+        "Work out sums and differences of two-digit numbers in their head"
+      ]
     },
     {
       "topic": "Geometry",
-      "covers": []
+      "covers": [
+        "Recognise straight and curved lines in 2D shapes",
+        "Make 2D shapes by paper folding, cutting on a dot grid, and drawing straight lines",
+        "Describe 2D shapes by counting their sides, corners and diagonals",
+        "Fill a region with one shape so there are no gaps or overlaps, and tell which shapes can do this",
+        "Make shapes with tangram pieces",
+        "Read a simple map, which need not be to scale, and draw one",
+        "Draw line pictures of 3D objects on paper"
+      ]
     },
     {
-      "topic": "Measurements",
-      "covers": []
+      "topic": "Measurement",
+      "covers": [
+        "Measure length and distance in centimetres and metres with a scale or measuring tape",
+        "Understand how a metre and a centimetre are related",
+        "Estimate and check the lengths of objects nearby",
+        "Weigh objects on a simple balance using stones or other non-standard weights",
+        "Compare containers by capacity, and see that pouring does not change the amount",
+        "Find a given day and date on a calendar",
+        "Read the time to the hour on a clock or watch, and read the 12-hour and 24-hour clock",
+        "Convert between days and hours, and between hours and minutes"
+      ]
     },
     {
       "topic": "Data Handling",
-      "covers": []
+      "covers": [
+        "Collect data for a purpose and record it with tally marks",
+        "Show data as a pictograph or a bar chart",
+        "Sort and compare data",
+        "Draw conclusions from the data"
+      ]
     },
     {
       "topic": "Patterns",
-      "covers": []
+      "covers": [
+        "Find the unit of repeat in a pattern",
+        "Extend a pattern using the unit of repeat",
+        "Create their own patterns with a unit of repeat"
+      ]
     }
   ],
   "gaps": [
-    "Publisher page gives theme headings only; no sub-topics were published on it.",
-    "Page does not name CISCE as the source.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Teaching processes and learning resources are left out; the file lists only what a child learns.",
+    "The key concepts list multiplication tables of 7 and 9; the learning outcomes list only 2, 3, 4, 5 and 10. The file follows the outcomes."
   ]
 }

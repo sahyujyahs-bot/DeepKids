@@ -2,72 +2,74 @@
   "board": "ICSE",
   "subject": "maths",
   "class": 1,
-  "source_urls": [
-    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
-    "https://byjus.com/icse-class-1-maths-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Numbers up to 20",
-      "covers": []
+      "topic": "Numbers",
+      "covers": [
+        "Count objects up to 20 using pictures, things and written numerals",
+        "Say and write numbers from 1 to 20, and recognise numbers up to 99",
+        "Group objects by shape, size or other visible features",
+        "Compare numbers up to 20 and put them in order",
+        "Make two-digit numbers from given digit cards",
+        "Find the numbers before, after and between two others",
+        "Bundle sticks into tens and ones to see what each digit means",
+        "Understand zero as what is left when everything is taken away"
+      ]
     },
     {
-      "topic": "Place Value",
-      "covers": []
+      "topic": "Number Operations",
+      "covers": [
+        "Use addition and subtraction of numbers up to 20 in everyday life",
+        "Build addition facts up to 9 with objects",
+        "Subtract within 9 by taking away",
+        "Tell short number stories that match an addition or subtraction",
+        "Add and subtract numbers up to 99 without carrying or borrowing",
+        "Solve everyday problems shown in pictures or told in words"
+      ]
     },
     {
-      "topic": "Numbers up to 100",
-      "covers": []
-    },
-    {
-      "topic": "Addition",
-      "covers": []
-    },
-    {
-      "topic": "Subtraction",
-      "covers": []
-    },
-    {
-      "topic": "Simple Multiplication",
-      "covers": []
-    },
-    {
-      "topic": "Introduction to Division",
-      "covers": []
-    },
-    {
-      "topic": "Shapes",
-      "covers": []
+      "topic": "Geometry",
+      "covers": [
+        "Describe the features of solid shapes in their own words",
+        "Name and recognise cuboid, cylinder, cone and sphere",
+        "Trace the outline of a 3D object to get a 2D shape",
+        "Name rectangle, square, triangle and circle",
+        "Tell straight lines from curved lines",
+        "Draw straight lines that are vertical, horizontal or slanting",
+        "Link shapes to objects around them"
+      ]
     },
     {
       "topic": "Measurement",
-      "covers": []
-    },
-    {
-      "topic": "Time",
-      "covers": []
-    },
-    {
-      "topic": "Money",
-      "covers": []
+      "covers": [
+        "Measure short lengths with body units such as a finger or hand span",
+        "Estimate a length, then check it by measuring",
+        "Use words like near, far, longer, taller and shorter to compare",
+        "Compare how heavy or light objects are",
+        "Order containers from smallest to largest capacity",
+        "Put events in order of time, such as earlier and later",
+        "Tell apart events that take a short time from those that take a long time"
+      ]
     },
     {
       "topic": "Data Handling",
-      "covers": []
+      "covers": [
+        "Collect simple information from daily life, such as birthdays or favourites",
+        "Record what they collect with pictures or numerals",
+        "Read and explain information shown in simple visuals"
+      ]
     },
     {
       "topic": "Patterns",
-      "covers": []
-    },
-    {
-      "topic": "Days, Weeks and Months",
-      "covers": []
+      "covers": [
+        "Notice patterns in shapes and numbers around them",
+        "Extend and complete a sequence",
+        "Explain why a pattern should continue the way it does"
+      ]
     }
   ],
   "gaps": [
-    "Embibe lists 14 chapter titles only; no content under each chapter was found.",
-    "Byjus Class 1 page gives six themes (Numbers, Number Operations, Geometry, Measurement, Data Handling, Patterns) and no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "Teaching processes and learning resources are left out; the file lists only what a child learns."
   ]
 }

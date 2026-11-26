@@ -2,38 +2,79 @@
   "board": "ICSE",
   "subject": "social",
   "class": 3,
-  "source_urls": [
-    "https://byjus.com/icse-class-3-social-studies-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
       "topic": "Understanding Changes",
-      "covers": []
+      "covers": [
+        "Compare nuclear, joint and single-parent families",
+        "Share how their family, neighbourhood and surroundings have changed",
+        "Compare how food, homes, clothes, transport and entertainment have changed over time",
+        "Think and talk fairly about gender roles in work and play",
+        "Draw a timeline of family members' birthdays",
+        "Name and list important holidays and festivals",
+        "Put events in order on a calendar and timeline, and know the idea of AD and BC",
+        "Adjust to a change such as moving home or school"
+      ]
     },
     {
       "topic": "Community: Helping Each Other",
-      "covers": []
+      "covers": [
+        "Name community helpers such as soldiers, farmers, teachers, doctors, police and firefighters, and what each one does",
+        "See how people in a community depend on each other",
+        "Respect all kinds of work and the dignity of labour",
+        "Show care for old, sick, needy and differently abled people",
+        "Thank school support staff and domestic workers",
+        "Take part in a cleanliness drive",
+        "Feel empathy by imagining another child's life, such as a rag picker's"
+      ]
     },
     {
       "topic": "Safety Rules",
-      "covers": []
+      "covers": [
+        "Follow safety rules at home, in school and on the road",
+        "Use everyday objects such as knives, irons and gadgets safely",
+        "Use phones, tablets and the internet safely, with an adult",
+        "Know and obey basic road signs, signals and walking and cycling rules",
+        "Know basic first aid and emergency numbers such as 101, 102 and 103",
+        "Tell a good touch from a bad touch",
+        "Recognise bullying and speak up about it"
+      ]
     },
     {
-      "topic": "India: A Land of Rich Heritage",
-      "covers": []
+      "topic": "India- A Land of Rich Heritage",
+      "covers": [
+        "Understand what heritage is and why it matters",
+        "Name important buildings, monuments and national symbols",
+        "Know great national leaders and what they achieved",
+        "Retell stories from epics and folk tales such as the Panchatantra and Jataka tales",
+        "List national and local festivals and take part in them respectfully",
+        "Feel pride in the country's art, traditions and culture"
+      ]
     },
     {
-      "topic": "The Earth: An Introduction",
-      "covers": []
+      "topic": "The Earth- An Introduction",
+      "covers": [
+        "Know that the Earth is a planet in the solar system",
+        "Name the Sun, planets, satellites and stars",
+        "Explain what makes the Earth unique, such as air, water and its distance from the Sun",
+        "Know the shape of the Earth",
+        "Tell a globe (a 3D model of the Earth) from a map (a 2D picture of the Earth)",
+        "Compare physical and political maps",
+        "Use directions and a compass"
+      ]
     },
     {
-      "topic": "The Environment: An Introduction",
-      "covers": []
+      "topic": "The Environment- An Introduction",
+      "covers": [
+        "Explain what the environment is and why cleanliness matters",
+        "Name the three main kinds of pollution: air, water and noise",
+        "Find causes and effects of each kind of pollution",
+        "Understand the importance of trees and green belts, through the Chipko movement and Van Mahotsav",
+        "Take part in tree planting and cleanliness drives",
+        "Build healthy habits that protect the environment"
+      ]
     }
   ],
-  "gaps": [
-    "Byjus gives topic titles only, no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
-  ]
+  "gaps": []
 }

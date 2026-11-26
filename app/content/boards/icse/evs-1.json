@@ -2,73 +2,173 @@
   "board": "ICSE",
   "subject": "evs",
   "class": 1,
-  "source_urls": [
-    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
-    "https://byjus.com/icse-class-1-evs-syllabus/"
-  ],
-  "source_quality": "publisher",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [
     {
-      "topic": "Living and Non-Living Things",
-      "covers": []
+      "topic": "About Me",
+      "covers": [
+        "Know and share personal details: own name, parents' and siblings' names, address, birthday and phone number",
+        "Name the main body parts and say what the sense organs and large body parts do",
+        "Draw the large parts of the body",
+        "Share hobbies, likes and dislikes, and enjoy hearing about other children's",
+        "Notice differences among classmates, such as hair, eyes, height and weight",
+        "Solve a 6-8 piece body puzzle alone",
+        "Name their own feelings and other people's, and begin to manage strong emotions",
+        "Take part in small and large group activities and help with shared work"
+      ]
     },
     {
-      "topic": "Animals",
-      "covers": []
+      "topic": "Others in my World",
+      "covers": [
+        "Name family members and say how each one is related to them",
+        "Tell a joint family from a nuclear family, and give reasons why families differ",
+        "Draw a family tree of grandparents, parents and children",
+        "Describe what each family member does and how they help at home",
+        "Share the festivals the family celebrates and what they do on them",
+        "Name neighbours and friends, and see how neighbours help each other",
+        "Play indoor and outdoor games with others, and know the rules",
+        "Respect differences in families and treat pets kindly"
+      ]
+    },
+    {
+      "topic": "My Needs - Food We Eat",
+      "covers": [
+        "Name food eaten at home, both raw and cooked, and food made for festivals",
+        "Sort foods into those that come from plants and those that come from animals",
+        "Give reasons why the food of babies, children and elders is different",
+        "Understand why food should not be wasted, and show respect for it",
+        "Recognise simple healthy eating habits",
+        "Appreciate that families eat different foods",
+        "Make rhymes, songs or riddles about food"
+      ]
+    },
+    {
+      "topic": "My Needs - Water",
+      "covers": [
+        "Name the water sources at home and around them",
+        "Describe the different uses of water in the family",
+        "Tell apart activities that need water from those that do not",
+        "Describe simple things seen about water: colour, taste, smell and shape",
+        "Name the containers used to store water and say why water is stored",
+        "Suggest ways to re-use water and to avoid wasting it"
+      ]
+    },
+    {
+      "topic": "My Needs - Shelter",
+      "covers": [
+        "Describe their own house and name its rooms and the work done in each",
+        "Tell apart the different kinds of houses seen around them",
+        "Explain why people need a house and why it should be kept clean",
+        "Know the use of a dustbin",
+        "Name ways to decorate a house, such as with rangoli",
+        "Make simple house models and decorations with clay or other materials",
+        "Share poems or songs about houses"
+      ]
+    },
+    {
+      "topic": "My Needs - Clothing",
+      "covers": [
+        "Explain why people need clothes",
+        "Name the clothes worn by themselves, their family and at school",
+        "Say which clothes are worn in different seasons, festivals and occasions",
+        "Name clothes worn by boys and girls at home",
+        "Draw and colour the clothes they wear",
+        "Make simple dresses by folding paper (origami)",
+        "Know how to keep clothes clean and cared for"
+      ]
+    },
+    {
+      "topic": "My Needs - Air",
+      "covers": [
+        "Know that air is all around, for example by feeling wind or flying a kite",
+        "Name ways living things use air",
+        "Give reasons why air becomes dirty",
+        "List the harmful effects of unclean air on living things",
+        "Try simple activities with air, with help from elders",
+        "Understand that planting trees keeps the air clean and fresh"
+      ]
+    },
+    {
+      "topic": "Keeping Oneself Clean, Safe and Healthy",
+      "covers": [
+        "Keep their hands, body, nails, teeth, hair and clothes clean",
+        "Keep the house and school surroundings clean and use the dustbin",
+        "Name ways to stay healthy: rest, exercise, yoga, deep breathing and play",
+        "Play indoor and outdoor games for fun and recreation",
+        "Know how to stay safe at home and in public places",
+        "Recognise good touch and bad touch, and know to talk to family about them",
+        "Do simple exercises and asanas to keep the body fit"
+      ]
+    },
+    {
+      "topic": "Places in the Neighbourhood",
+      "covers": [
+        "Name places nearby, such as school, hospital, park, water bodies, market, bank, post office and bus or railway station",
+        "Say what each place is used for in daily life",
+        "Name people who work in these places and what they do, such as doctor, teacher, driver and gardener",
+        "Say how people in the community keep public places clean",
+        "Know how to behave in public places",
+        "Show respect for all kinds of work"
+      ]
     },
     {
       "topic": "Plants",
-      "covers": []
+      "covers": [
+        "Know that plants have main parts, and name the plants and trees in school and at home",
+        "Tell plants that grow on land from those that grow in water",
+        "Name some medicinal plants used in daily life",
+        "Name the fruits and vegetables we eat, and the parts of plants we eat as food",
+        "Draw and label the main parts of a plant",
+        "Care for and protect plants"
+      ]
     },
     {
-      "topic": "My Body",
-      "covers": []
+      "topic": "Animals",
+      "covers": [
+        "Name animals and birds seen in their surroundings",
+        "Name the main body parts of animals",
+        "Tell pet, domestic and wild animals apart, with examples",
+        "Name animals and birds that live on land, in water and in the air",
+        "Recognise the sounds of common animals and birds, and copy them",
+        "Draw and make masks of pet and wild animals",
+        "Show care and compassion for animals and birds"
+      ]
     },
     {
-      "topic": "Home",
-      "covers": []
-    },
-    {
-      "topic": "Air, Water and Weather",
-      "covers": []
-    },
-    {
-      "topic": "Shelter",
-      "covers": []
-    },
-    {
-      "topic": "Safety and First Aid",
-      "covers": []
-    },
-    {
-      "topic": "Clothes",
-      "covers": []
-    },
-    {
-      "topic": "Food",
-      "covers": []
-    },
-    {
-      "topic": "Water",
-      "covers": []
-    },
-    {
-      "topic": "Health and Hygiene",
-      "covers": []
-    },
-    {
-      "topic": "Light and Sound",
-      "covers": []
+      "topic": "Transport",
+      "covers": [
+        "Name the modes of transport seen around them, on land, in water and in the air",
+        "Name some jobs connected with transport",
+        "Give examples of transport used on land, in water and in the air",
+        "Say what causes noise around them from vehicles",
+        "Know the work of traffic police, traffic lights and emergency vehicles",
+        "Suggest ways to reduce smoke and noise from vehicles",
+        "Draw and collect pictures of different vehicles"
+      ]
     },
     {
       "topic": "Communication",
-      "covers": []
+      "covers": [
+        "Name ways of communicating at home and in the neighbourhood, such as radio, TV and newspapers",
+        "Say what each way of communicating is used for",
+        "Understand that messages can be misused",
+        "Know, at a simple level, that email, SMS and the internet are ways to communicate",
+        "Make poems, songs and drawings about communication"
+      ]
+    },
+    {
+      "topic": "The World Around Me (Sun, Moon, Sky and Stars)",
+      "covers": [
+        "Notice what the sky looks like in the morning, afternoon and at night",
+        "Name the sun, moon and stars, and say what each is like",
+        "Draw and colour the sun, moon and stars",
+        "Describe sunny, cloudy, rainy, summer and winter days in their own words",
+        "Share stories, songs and poems about the sky",
+        "Make sun, moon and star masks, puppets or collages"
+      ]
     }
   ],
   "gaps": [
-    "Embibe gives 14 chapter titles only; no content under each chapter was found.",
-    "'Water' appears twice (inside 'Air, Water and Weather' and as its own chapter); kept as the source gives it.",
-    "Byjus Class 1 EVS page gives 14 themes (About Me to The World Around Me) with different wording and no sub-topics.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "'Time, Space and Direction' is a theme in the Class II section only, so it is left out of Class I."
   ]
 }

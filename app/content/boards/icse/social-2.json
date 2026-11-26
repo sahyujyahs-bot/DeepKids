@@ -2,13 +2,9 @@
   "board": "ICSE",
   "subject": "social",
   "class": 2,
-  "source_urls": [
-    "https://byjus.com/icse/icse-syllabus"
-  ],
-  "source_quality": "third-party",
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
   "topics": [],
   "gaps": [
-    "No Social Studies topics for Class II were found: the Byjus hub lists Social Studies only from Class 3, and no other source was reached.",
-    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+    "This curriculum has no Social Studies topics for Class II. Social Studies is listed for Classes III to V, and Classes I and II are taught inside EVS (Environmental Studies)."
   ]
 }

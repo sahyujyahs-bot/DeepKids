@@ -1,0 +1,72 @@
+{
+  "board": "ICSE",
+  "subject": "computer",
+  "class": 2,
+  "source": "CISCE Curriculum for Primary Classes I-V (2016), official",
+  "topics": [
+    {
+      "topic": "Computer - An Electronic Device",
+      "covers": [
+        "Know that a computer is an electronic device",
+        "Explain the input, process and output (IPO) cycle",
+        "Compare the way a computer works with the way a human works",
+        "List advantages of computers: speed, storage, automation, calculation and learning",
+        "List disadvantages: effects on health and environment, viruses and cybercrime",
+        "Practise healthy habits while using a computer"
+      ]
+    },
+    {
+      "topic": "Role of Computers",
+      "covers": [
+        "Recall the many uses of computers",
+        "Name places where computers help: classroom, office and home",
+        "Connect computer use to topics they study in other subjects"
+      ]
+    },
+    {
+      "topic": "Input and Output Devices",
+      "covers": [
+        "Tell input devices (keyboard, mouse) from output devices (printer, monitor)",
+        "Explain the function of each input and output device",
+        "Know that some output devices, such as CDs and pen drives, also store data",
+        "Draw and name common devices"
+      ]
+    },
+    {
+      "topic": "Keyboard - Special Keys",
+      "covers": [
+        "Find the special and punctuation keys and say what they do",
+        "Know that some keys work in combination, such as Shift with a letter",
+        "Know a key combination such as Ctrl+Alt+Del",
+        "Practise the keys through worksheets and computer quizzes"
+      ]
+    },
+    {
+      "topic": "Mouse - an Input Device",
+      "covers": [
+        "List the activities done with the mouse buttons",
+        "Drag and drop objects with the mouse",
+        "Switch the left and right buttons when needed"
+      ]
+    },
+    {
+      "topic": "Introduction to Paint",
+      "covers": [
+        "Explain what Paint software is for",
+        "Open, minimise, maximise and close the Paint window",
+        "Save a file in a chosen place and open an existing file",
+        "Draw pictures with the shape tools",
+        "Make simple pictures such as birthday cards and posters"
+      ]
+    },
+    {
+      "topic": "File Management - An Introduction",
+      "covers": [
+        "Understand that files are documents, pictures or presentations made with software",
+        "Know why files need to be organised on a computer",
+        "Save a file to a given path"
+      ]
+    }
+  ],
+  "gaps": []
+}
