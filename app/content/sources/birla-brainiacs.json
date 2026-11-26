@@ -1,0 +1,31 @@
+{
+  "id": "birla-brainiacs",
+  "name": "Birla Brainiacs",
+  "kind": "online-school",
+  "url": "https://www.birlabrainiacs.com/",
+  "board": ["NIOS", "CBSE", "Cambridge"],
+  "classes": "Nursery-12",
+  "languages": [],
+  "format": "live online classes with daily recordings shared; Scholar Groups (one teacher, many students), Focus Pods (1:5), Signature (1:1)",
+  "timings": null,
+  "timings_note": "The site mentions a flexible schedule and adaptable class timings; hours, days and session length are not published.",
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "The Indian pathway for Grades 1-5 is mapped to NCERT with NIOS certification. The site also describes a British pathway for Primary Grades 1-5 based on the Cambridge curriculum.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Homepage menu; the fee page was not found at the addresses tried, so confirm with the school.",
+  "source_urls": ["https://www.birlabrainiacs.com/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction",
+    "class hours and days per week",
+    "session length",
+    "subjects for Classes 1-5",
+    "syllabus link (only academic calendar PDFs seen)",
+    "topics by period",
+    "fee amounts (fee page not found)"
+  ]
+}

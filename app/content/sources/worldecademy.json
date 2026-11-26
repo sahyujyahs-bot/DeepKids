@@ -1,0 +1,29 @@
+{
+  "id": "worldecademy",
+  "name": "The World Ecademy",
+  "kind": "online-school",
+  "url": "https://www.theworldecademy.com/",
+  "board": ["NIOS", "BOSSE"],
+  "classes": "Nursery-12",
+  "languages": ["English"],
+  "format": "live small groups (maximum 20 learners per class), with recorded videos as backup",
+  "timings": "Live classes Monday to Friday; start times stated for UAE (7:30 am) and Saudi Arabia (6:30 am) only",
+  "timings_note": "India start times and session length are not stated.",
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "Primary (Grades 1-5) follows the TWE Integrated curriculum, which the site says blends NCERT, NIOS, BOSSE and Pearson Edexcel standards. Primary learners follow NIOS or BOSSE levels A and B.",
+    "syllabus_url": "https://theworldecademy.com/curricula/",
+    "topics_by_period": null
+  },
+  "fees_note": "India annual tuition for 2027-28: Rs 42,500 (Nursery) to Rs 67,500 (Grade 8); admission fee Rs 1,000. Grades 1-5 are not priced separately.",
+  "how_to_check": "Homepage fee section, 2027-28 figures for India.",
+  "source_urls": ["https://www.theworldecademy.com/", "https://theworldecademy.com/curricula/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "subjects for Classes 1-5",
+    "India class hours and session length",
+    "student-teacher ratio",
+    "topics by period",
+    "Grades 1-5 fee amounts (given only for Nursery-8 range)"
+  ]
+}

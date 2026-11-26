@@ -1,0 +1,28 @@
+{
+  "id": "zuvio",
+  "name": "Zuvio Global School",
+  "kind": "online-school",
+  "url": "https://www.zuvioglobalschool.com/",
+  "board": ["CBSE"],
+  "classes": "KG-12",
+  "languages": [],
+  "format": "live (site says 100% live online); small interactive groups, maximum 15:1",
+  "timings": "Classes fall within 9:00 AM to 1:00 PM; about 2.5 hours for Primary; 5 days a week (Monday to Friday)",
+  "timings_note": "Start times vary by grade; exact slots are not published.",
+  "subjects_primary": ["English", "Mathematics", "Environmental Studies", "Hindi or second language", "Science", "Social Studies", "Art and music", "Digital literacy"],
+  "curriculum": {
+    "summary": "Grades 1-5 follow a CBSE-mapped curriculum that the site says is chapter-aligned with NCERT and ready for NCF. The site also mentions a reading programme and, for Grades 3-5, coding and communication.",
+    "syllabus_url": "https://www.zuvioglobalschool.com/curriculum",
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Admissions menu, Fees page (/admissions/fees); amounts are not shown in the text.",
+  "source_urls": ["https://www.zuvioglobalschool.com/", "https://www.zuvioglobalschool.com/curriculum"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction (medium not named)",
+    "exact session length per grade",
+    "topics by period",
+    "fee amounts (fee page shows none in text)"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "k8",
+  "name": "K8 School",
+  "kind": "online-school",
+  "url": "https://k8school.com/",
+  "board": [],
+  "classes": "Nursery-8",
+  "languages": [],
+  "format": "not stated (online); one page version gives a maximum 15:1 student-teacher ratio",
+  "timings": "2-4 hours daily, as listed on the site; class hours and days per week not stated",
+  "timings_note": "Class hours and days per week are not stated on the site.",
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "The site says it follows a 'world's best online curriculum' but does not name subjects or link a syllabus. Classes 1-5 content is not described.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Admissions menu, 'Fee Structure' section (2026-27); amounts appear only in images.",
+  "source_urls": ["https://k8school.com/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "board",
+    "languages",
+    "format (live or recorded)",
+    "class hours and days per week",
+    "subjects for Classes 1-5",
+    "syllabus link",
+    "topics by period",
+    "fee amounts (shown only in images, not readable as text)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "spruha",
+  "name": "Spruha Virtual School",
+  "kind": "online-school",
+  "url": "https://spruhaedu.in/",
+  "board": ["NIOS"],
+  "classes": "1-10",
+  "languages": ["English (medium)", "Hindi", "Kannada", "Sanskrit", "Marathi"],
+  "format": "mixed: live interactive classes plus recorded learning resources; group size not stated",
+  "timings": "9:00 AM to 1:00 PM, per the curriculum page; days per week and session length not stated",
+  "timings_note": "The homepage refers only to available class schedules.",
+  "subjects_primary": ["English", "Hindi", "Mathematics", "Environmental Studies", "Computer Science", "Art and Craft", "Music"],
+  "curriculum": {
+    "summary": "Primary (Grades 1-5) follows the NIOS framework; the site says the school is not affiliated with NIOS. Core subjects are English, Hindi, maths and EVS, with computer science, art and craft, and music alongside.",
+    "syllabus_url": "https://spruhaedu.in/nios-school-curriculum/",
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Curriculum page at spruhaedu.in/nios-school-curriculum/ for timings; the fee section was not located.",
+  "source_urls": ["https://spruhaedu.in/", "https://spruhaedu.in/nios-school-curriculum/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "days per week",
+    "session length",
+    "group size or student-teacher ratio",
+    "topics by period",
+    "fee amounts (fee page not found)",
+    "which languages are offered to which grades"
+  ]
+}
