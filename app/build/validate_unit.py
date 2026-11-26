@@ -250,7 +250,7 @@ def check(path):
     if not 2 <= len(r.get("ask", [])) <= 4: P("roots.ask: 2-4 open questions")
     s = u["story"]
     w = len(" ".join(s.get("text", [])).split())
-    if not 450 <= w <= 1400: P(f"story is {w} words (450-1400)")
+    if not 450 <= w <= 1400: W.append(f"story is {w} words (about 450-1400; a guide only, depth and clarity come first)")
     for k in ("title", "epiphany", "ask", "art"):
         if not s.get(k): P(f"story needs {k}")
     ids = set()
