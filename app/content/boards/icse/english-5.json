@@ -1,0 +1,50 @@
+{
+  "board": "ICSE",
+  "subject": "english",
+  "class": 5,
+  "source_urls": [
+    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
+  ],
+  "source_quality": "third-party",
+  "topics": [
+    {
+      "topic": "Broad aims: listening, speaking, reading and writing",
+      "covers": [
+        "Listen for cues and draw inferences",
+        "Speak to discuss ideas logically and creatively",
+        "Read independently, infer meaning and read critically",
+        "Write clearly and in an organised way for different purposes"
+      ]
+    },
+    {
+      "topic": "Recommended reading (Class V)",
+      "covers": [
+        "Tagore's 'Kabuliwala'",
+        "Gulliver's Travels",
+        "Treasure Island",
+        "Oliver Twist",
+        "Robinson Crusoe",
+        "Autobiographies of Gandhi, Kalam, Nehru and Mandela",
+        "The Diary of Anne Frank"
+      ]
+    },
+    {
+      "topic": "Reading and writing activities (all classes)",
+      "covers": [
+        "Reading aloud, silently and in groups",
+        "Word wall and vocabulary tree",
+        "Completing a story and picture composition",
+        "Recording a process, such as making a sandwich",
+        "Book talks and character illustrations",
+        "Simple comprehension on seen and unseen passages",
+        "Spelling, word search and word games",
+        "Writing for the school magazine, newsletters and soft boards"
+      ]
+    }
+  ],
+  "gaps": [
+    "Only recommended reading and activities were found; no per-class grammar, oral or writing topics.",
+    "Copy is on advocatetanmoy.com, which shows no CISCE syllabus code or issue date.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

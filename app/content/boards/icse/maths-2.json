@@ -1,0 +1,41 @@
+{
+  "board": "ICSE",
+  "subject": "maths",
+  "class": 2,
+  "source_urls": [
+    "https://byjus.com/icse-class-2-maths-syllabus/",
+    "https://byjus.com/icse/icse-syllabus"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Numbers",
+      "covers": []
+    },
+    {
+      "topic": "Number Operations",
+      "covers": []
+    },
+    {
+      "topic": "Geometry",
+      "covers": []
+    },
+    {
+      "topic": "Measurement",
+      "covers": []
+    },
+    {
+      "topic": "Data Handling",
+      "covers": []
+    },
+    {
+      "topic": "Patterns",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Publisher page gives theme headings only; no sub-topics were published on it.",
+    "Page does not name CISCE as the source.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

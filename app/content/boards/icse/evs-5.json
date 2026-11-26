@@ -1,0 +1,64 @@
+{
+  "board": "ICSE",
+  "subject": "evs",
+  "class": 5,
+  "source_urls": [
+    "https://byjus.com/icse-class-5-science-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Human Body: The Circulatory System",
+      "covers": []
+    },
+    {
+      "topic": "Human Body: The Skeletal System",
+      "covers": []
+    },
+    {
+      "topic": "Food and Health",
+      "covers": []
+    },
+    {
+      "topic": "Pollination",
+      "covers": []
+    },
+    {
+      "topic": "Plant Reproduction",
+      "covers": []
+    },
+    {
+      "topic": "Solids, Liquids and Gases",
+      "covers": []
+    },
+    {
+      "topic": "Interdependence in Living Beings: Plants and Animals",
+      "covers": []
+    },
+    {
+      "topic": "Sound and Noise",
+      "covers": []
+    },
+    {
+      "topic": "Work and Energy",
+      "covers": []
+    },
+    {
+      "topic": "Light and Shadows",
+      "covers": []
+    },
+    {
+      "topic": "Simple Machines",
+      "covers": []
+    },
+    {
+      "topic": "Cleanliness and Hygiene",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Byjus calls this subject Science; it is filed here as the EVS/science slot for Class 5.",
+    "Byjus gives topic titles only, no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

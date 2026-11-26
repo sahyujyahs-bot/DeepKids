@@ -1,0 +1,73 @@
+{
+  "board": "ICSE",
+  "subject": "maths",
+  "class": 1,
+  "source_urls": [
+    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
+    "https://byjus.com/icse-class-1-maths-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Numbers up to 20",
+      "covers": []
+    },
+    {
+      "topic": "Place Value",
+      "covers": []
+    },
+    {
+      "topic": "Numbers up to 100",
+      "covers": []
+    },
+    {
+      "topic": "Addition",
+      "covers": []
+    },
+    {
+      "topic": "Subtraction",
+      "covers": []
+    },
+    {
+      "topic": "Simple Multiplication",
+      "covers": []
+    },
+    {
+      "topic": "Introduction to Division",
+      "covers": []
+    },
+    {
+      "topic": "Shapes",
+      "covers": []
+    },
+    {
+      "topic": "Measurement",
+      "covers": []
+    },
+    {
+      "topic": "Time",
+      "covers": []
+    },
+    {
+      "topic": "Money",
+      "covers": []
+    },
+    {
+      "topic": "Data Handling",
+      "covers": []
+    },
+    {
+      "topic": "Patterns",
+      "covers": []
+    },
+    {
+      "topic": "Days, Weeks and Months",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Embibe lists 14 chapter titles only; no content under each chapter was found.",
+    "Byjus Class 1 page gives six themes (Numbers, Number Operations, Geometry, Measurement, Data Handling, Patterns) and no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

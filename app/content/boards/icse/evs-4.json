@@ -1,0 +1,125 @@
+{
+  "board": "ICSE",
+  "subject": "evs",
+  "class": 4,
+  "source_urls": [
+    "https://byjus.com/icse-class-4-science-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Human Body: Food We Eat",
+      "covers": [
+        "Food for energy, growth and protection",
+        "Food components",
+        "Balanced diet",
+        "Avoiding food wastage"
+      ]
+    },
+    {
+      "topic": "Human Body: The Teeth",
+      "covers": [
+        "Types and positions of teeth",
+        "Structure and functions of teeth",
+        "Teeth in infants and adults",
+        "Care of teeth and gums",
+        "Dental check-ups",
+        "Food and dental health"
+      ]
+    },
+    {
+      "topic": "Human Body: The Digestive and Excretory Systems",
+      "covers": [
+        "Digestive organs and their functions",
+        "Chewing and bowel movements",
+        "Need for water",
+        "Excretory organs",
+        "Healthy habits"
+      ]
+    },
+    {
+      "topic": "Adaptations in Animals",
+      "covers": [
+        "Why animals need adaptations",
+        "Adaptations on land and in water",
+        "Body features of herbivores, carnivores and omnivores",
+        "Caring for animals"
+      ]
+    },
+    {
+      "topic": "Adaptations in Plants",
+      "covers": [
+        "Why plants need adaptations",
+        "Adaptations on land, in water, in deserts and in hills"
+      ]
+    },
+    {
+      "topic": "Plants in the Surroundings and Environment",
+      "covers": [
+        "Parts of plants and their uses",
+        "Roots and stems",
+        "Leaf functions, photosynthesis and transpiration",
+        "Iodine test for starch",
+        "Plant products"
+      ]
+    },
+    {
+      "topic": "Air",
+      "covers": [
+        "Properties and composition of air",
+        "Breathing and burning",
+        "Causes of air pollution",
+        "Preventive measures"
+      ]
+    },
+    {
+      "topic": "Materials and Solutions",
+      "covers": [
+        "Solvent, solute and solution",
+        "Soluble and insoluble substances",
+        "Separation by sedimentation, decantation, filtration and evaporation"
+      ]
+    },
+    {
+      "topic": "Light",
+      "covers": [
+        "Natural and artificial sources",
+        "Luminous and non-luminous objects",
+        "Transparent, translucent and opaque objects",
+        "Uses of light",
+        "Shadow formation"
+      ]
+    },
+    {
+      "topic": "Measurement",
+      "covers": [
+        "Why we measure",
+        "Everyday examples",
+        "Rulers, tapes, weighing machines, thermometers and clocks",
+        "How to use them"
+      ]
+    },
+    {
+      "topic": "Push and Pull",
+      "covers": [
+        "Meaning and difference",
+        "Examples",
+        "Force and its effects",
+        "Muscular, gravitational, magnetic and frictional forces"
+      ]
+    },
+    {
+      "topic": "Friction as a Force",
+      "covers": [
+        "Meaning of friction",
+        "Reducing friction",
+        "Uses and harmful effects",
+        "Examples"
+      ]
+    }
+  ],
+  "gaps": [
+    "Byjus calls this subject Science; it is filed here as the EVS/science slot for Class 4.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

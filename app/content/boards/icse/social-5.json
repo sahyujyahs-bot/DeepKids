@@ -1,0 +1,43 @@
+{
+  "board": "ICSE",
+  "subject": "social",
+  "class": 5,
+  "source_urls": [
+    "https://byjus.com/icse-class-5-social-studies-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Evolution of Mankind",
+      "covers": []
+    },
+    {
+      "topic": "The Constitution of India: Basic Features",
+      "covers": []
+    },
+    {
+      "topic": "The Earth: Its Geographical Features",
+      "covers": []
+    },
+    {
+      "topic": "India: A Diverse Country",
+      "covers": []
+    },
+    {
+      "topic": "The Environment: Major Concerns",
+      "covers": []
+    },
+    {
+      "topic": "Natural Resources",
+      "covers": []
+    },
+    {
+      "topic": "Major Occupations in India",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Byjus gives topic titles only, no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

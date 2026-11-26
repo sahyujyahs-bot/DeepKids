@@ -1,0 +1,39 @@
+{
+  "board": "ICSE",
+  "subject": "social",
+  "class": 3,
+  "source_urls": [
+    "https://byjus.com/icse-class-3-social-studies-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Understanding Changes",
+      "covers": []
+    },
+    {
+      "topic": "Community: Helping Each Other",
+      "covers": []
+    },
+    {
+      "topic": "Safety Rules",
+      "covers": []
+    },
+    {
+      "topic": "India: A Land of Rich Heritage",
+      "covers": []
+    },
+    {
+      "topic": "The Earth: An Introduction",
+      "covers": []
+    },
+    {
+      "topic": "The Environment: An Introduction",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Byjus gives topic titles only, no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

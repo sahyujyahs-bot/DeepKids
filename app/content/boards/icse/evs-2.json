@@ -1,0 +1,76 @@
+{
+  "board": "ICSE",
+  "subject": "evs",
+  "class": 2,
+  "source_urls": [
+    "https://byjus.com/icse-class-2-evs-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Theme 1: About Me",
+      "covers": []
+    },
+    {
+      "topic": "Theme 2: Others in My World",
+      "covers": []
+    },
+    {
+      "topic": "Theme 3: My Needs: Food",
+      "covers": []
+    },
+    {
+      "topic": "Theme 4: My Needs: Water",
+      "covers": []
+    },
+    {
+      "topic": "Theme 5: My Needs: Shelter",
+      "covers": []
+    },
+    {
+      "topic": "Theme 6: My Needs: Clothing",
+      "covers": []
+    },
+    {
+      "topic": "Theme 7: My Needs: Air",
+      "covers": []
+    },
+    {
+      "topic": "Theme 8: Keeping Oneself Clean, Safe and Healthy",
+      "covers": []
+    },
+    {
+      "topic": "Theme 9: Places in the Neighbourhood",
+      "covers": []
+    },
+    {
+      "topic": "Theme 10: Plants",
+      "covers": []
+    },
+    {
+      "topic": "Theme 11: Animals",
+      "covers": []
+    },
+    {
+      "topic": "Theme 12: Transport",
+      "covers": []
+    },
+    {
+      "topic": "Theme 13: Communication",
+      "covers": []
+    },
+    {
+      "topic": "Theme 14: The World Around Me: Sun, Moon, Sky and Stars",
+      "covers": []
+    },
+    {
+      "topic": "Theme 15: Time, Space and Direction",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Byjus lists 15 themes with no sub-topics.",
+    "Page does not name CISCE as the source.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "board": "ICSE",
+  "subject": "social",
+  "class": 4,
+  "source_urls": [
+    "https://byjus.com/icse-class-4-social-studies-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "The Story of the Past and Evidence in History",
+      "covers": []
+    },
+    {
+      "topic": "Almanac",
+      "covers": []
+    },
+    {
+      "topic": "Responsibilities of a Good Citizen",
+      "covers": []
+    },
+    {
+      "topic": "The Earth: Its Movements and Forms",
+      "covers": []
+    },
+    {
+      "topic": "Our State",
+      "covers": []
+    },
+    {
+      "topic": "India: Unity in Diversity",
+      "covers": []
+    },
+    {
+      "topic": "Pollution and its Impact on the Environment",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Byjus gives topic titles only, no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "board": "ICSE",
+  "subject": "social",
+  "class": 2,
+  "source_urls": [
+    "https://byjus.com/icse/icse-syllabus"
+  ],
+  "source_quality": "third-party",
+  "topics": [],
+  "gaps": [
+    "No Social Studies topics for Class II were found: the Byjus hub lists Social Studies only from Class 3, and no other source was reached.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

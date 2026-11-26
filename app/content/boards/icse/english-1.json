@@ -1,0 +1,86 @@
+{
+  "board": "ICSE",
+  "subject": "english",
+  "class": 1,
+  "source_urls": [
+    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
+    "https://advocatetanmoy.com/english-curriculum-for-primary-classes-cisce/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Animal Sounds",
+      "covers": []
+    },
+    {
+      "topic": "Tenses",
+      "covers": []
+    },
+    {
+      "topic": "Nouns",
+      "covers": []
+    },
+    {
+      "topic": "Young One of Animals",
+      "covers": []
+    },
+    {
+      "topic": "Verbs",
+      "covers": []
+    },
+    {
+      "topic": "Pronouns",
+      "covers": []
+    },
+    {
+      "topic": "Adjectives",
+      "covers": []
+    },
+    {
+      "topic": "Opposites",
+      "covers": []
+    },
+    {
+      "topic": "Good Manners",
+      "covers": []
+    },
+    {
+      "topic": "Silent Letters",
+      "covers": []
+    },
+    {
+      "topic": "Plurals",
+      "covers": []
+    },
+    {
+      "topic": "Articles",
+      "covers": []
+    },
+    {
+      "topic": "Recommended reading (Classes I and II)",
+      "covers": [
+        "Fables from Aesop, the Panchatantra and the Jatakas",
+        "Picture-led stories such as Peter Rabbit, Noddy and Pinocchio",
+        "Ladybird Read Aloud series"
+      ]
+    },
+    {
+      "topic": "Reading and writing activities (all classes)",
+      "covers": [
+        "Reading aloud, silently and in groups",
+        "Word wall and vocabulary tree",
+        "Completing a story and picture composition",
+        "Recording a process, such as making a sandwich",
+        "Book talks and character illustrations",
+        "Simple comprehension on seen and unseen passages",
+        "Spelling, word search and word games",
+        "Writing for the school magazine, newsletters and soft boards"
+      ]
+    }
+  ],
+  "gaps": [
+    "Embibe gives 12 chapter titles only, with no content under each; it reads like a grammar chapter list, not a council outline.",
+    "Broad aims and the Class I-II reading list come from a third-party copy of the English primary curriculum (advocatetanmoy.com); the published Class I grammar, oral and literature targets were not found.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}

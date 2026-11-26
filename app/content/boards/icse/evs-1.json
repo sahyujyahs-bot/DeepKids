@@ -1,0 +1,74 @@
+{
+  "board": "ICSE",
+  "subject": "evs",
+  "class": 1,
+  "source_urls": [
+    "https://www.embibe.com/exams/icse-syllabus-for-class-1",
+    "https://byjus.com/icse-class-1-evs-syllabus/"
+  ],
+  "source_quality": "publisher",
+  "topics": [
+    {
+      "topic": "Living and Non-Living Things",
+      "covers": []
+    },
+    {
+      "topic": "Animals",
+      "covers": []
+    },
+    {
+      "topic": "Plants",
+      "covers": []
+    },
+    {
+      "topic": "My Body",
+      "covers": []
+    },
+    {
+      "topic": "Home",
+      "covers": []
+    },
+    {
+      "topic": "Air, Water and Weather",
+      "covers": []
+    },
+    {
+      "topic": "Shelter",
+      "covers": []
+    },
+    {
+      "topic": "Safety and First Aid",
+      "covers": []
+    },
+    {
+      "topic": "Clothes",
+      "covers": []
+    },
+    {
+      "topic": "Food",
+      "covers": []
+    },
+    {
+      "topic": "Water",
+      "covers": []
+    },
+    {
+      "topic": "Health and Hygiene",
+      "covers": []
+    },
+    {
+      "topic": "Light and Sound",
+      "covers": []
+    },
+    {
+      "topic": "Communication",
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Embibe gives 14 chapter titles only; no content under each chapter was found.",
+    "'Water' appears twice (inside 'Air, Water and Weather' and as its own chapter); kept as the source gives it.",
+    "Byjus Class 1 EVS page gives 14 themes (About Me to The World Around Me) with different wording and no sub-topics.",
+    "The official CISCE primary curriculum PDF (cisce.org) returned HTTP 403 to WebFetch and curl, so this file is built from publisher or third-party pages, not the council document."
+  ]
+}
