@@ -1,0 +1,403 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.food.food-safety.L4": {
+   "videos": [
+    {
+     "title": "Food Protection & Preservation Part 1 | Food Safety | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "YrMjjX-M0o0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How food is protected from harmful microbes and kept safe.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Food Wastage & Spoilage Part 1 | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "Mt62fQPq1IQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why food spoils: microbes growing on it.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan India middle-school videos; they cover keeping food safe from microbes, not the specific point that safe-looking food can still make you ill."
+  },
+  "sci.body.immune-system.L5": {
+   "videos": [
+    {
+     "title": "B lymphocytes (B cells)",
+     "channel": "Khan Academy",
+     "youtube": "Z36dUduOk1Y",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Antibodies and memory cells.",
+     "confidence": "high"
+    },
+    {
+     "title": "What is HIV and AIDS?",
+     "channel": "khanacademymedicine",
+     "youtube": "17pfZUlAqow",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "How HIV attacks the immune system.",
+     "confidence": "high"
+    },
+    {
+     "title": "Allergies (what causes them?)",
+     "channel": "Khan Academy India - English",
+     "youtube": "_joRsyd5B9I",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Allergies as the immune system over-reacting.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Pitched at nursing/biology students; watch together. Nothing on Jenner and Onesimus or autoimmunity. The HIV video is from Khan Academy's medicine channel; it is frank about transmission."
+  },
+  "sci.india.government-and-rights.L3": {
+   "videos": [],
+   "note": "Khan has nothing on the Indian Right to Education, RTI, MNREGA or globalisation at this level."
+  },
+  "sci.energy.stored-energy.L4": {
+   "videos": [
+    {
+     "title": "Potential energy stored in a spring",
+     "channel": "Khan Academy",
+     "youtube": "eVl5zs6Lqy0",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Energy stored in a stretched spring grows with the square of the stretch (twice the pull, four times the energy).",
+     "confidence": "high"
+    },
+    {
+     "title": "Elastic Potential Energy | Grade 11 Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "_fi79YH6iXU",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Elastic energy stored in a stretched spring.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Uses formulas and Hooke's law; kids can follow the demonstration idea, skip the maths."
+  },
+  "sci.weather.forecasting.L3": {
+   "videos": [
+    {
+     "title": "Weather | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "U5ikrkOGio0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "What makes weather and how it changes.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Observing & Recording Weather | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "J9Co6JtTb3Y",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Observing and recording weather as the basis of a forecast.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on weather sayings and signs."
+  },
+  "sci.health.hygiene.L3": {
+   "videos": [],
+   "note": "No Khan Academy (or Khan Academy Kids) video on hygiene and cleanliness at this level found."
+  },
+  "sci.day-night-seasons.seasons.L3": {
+   "videos": [
+    {
+     "title": "Seasons | The Earth-sun-moon system",
+     "channel": "Khan Academy",
+     "youtube": "0r9Lc7oYq5M",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why we have seasons.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Seasons | Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "2lSnnH12tJ4",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Earth's tilt and the cause of the seasons.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "These explain why seasons happen; nothing on how plants, animals and people change with them."
+  },
+  "sci.classification.sorting-living-things.L4": {
+   "videos": [
+    {
+     "title": "Classification of Animals | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "YUUeO02eUKk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Grouping animals, vertebrates and invertebrates.",
+     "confidence": "high"
+    },
+    {
+     "title": "Classification of animals | Animal kingdom | Biology",
+     "channel": "Khan Academy India - English",
+     "youtube": "01T15fMv5Uo",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Vertebrate and invertebrate groups in more depth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.basic-needs.basic-needs.L3": {
+   "videos": [],
+   "note": "No Khan video on basic needs of air, water, food, clothing and shelter, or on needs versus wants for this age."
+  },
+  "sci.story-of-universe.black-holes.L3": {
+   "videos": [
+    {
+     "title": "Black holes | Stars, black holes and galaxies",
+     "channel": "Khan Academy",
+     "youtube": "JoL2pO3O0rg",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Gravity so strong that not even light escapes.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Older pitch; Sal's drawings make the idea clear."
+  },
+  "sci.magnets.poles.L3": {
+   "videos": [
+    {
+     "title": "Introduction to magnetism",
+     "channel": "Khan Academy",
+     "youtube": "8Y4JSp5U82I",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Magnetic poles and how they attract and repel.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Magnetic force | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "u-3cEw0uDC0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Magnetic force between magnets.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.inheritance.L5": {
+   "videos": [
+    {
+     "title": "Chromosomes and genes | Middle school biology",
+     "channel": "Khan Academy",
+     "youtube": "taH5kyoQG0Q",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "DNA, genes and chromosomes in simple terms.",
+     "confidence": "high"
+    },
+    {
+     "title": "Genes, DNA & chromosomes | Heredity & Evolution",
+     "channel": "Khan Academy India - English",
+     "youtube": "IdWqsI0DSzE",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "How DNA carries inherited features.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Sources of genetic variation | High school biology",
+     "channel": "Khan Academy",
+     "youtube": "D0XYWKm_LoM",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Why offspring and siblings differ.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on nature versus nurture."
+  },
+  "sci.water.water-sources-and-uses.L3": {
+   "videos": [
+    {
+     "title": "The water cycle | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "r2dnUvP1JgM",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Where rain and fresh water come from.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Freshwater use and conservation | Middle school",
+     "channel": "Khan Academy",
+     "youtube": "6N-W1guncoo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Using fresh water and the problem of quantity.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Every drop counts | Water Management",
+     "channel": "Khan Academy India - English",
+     "youtube": "Dozbgnftdao",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Saving and managing water.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing specific on storing and cleaning water at home."
+  },
+  "sci.habitats.water-habitats.L3": {
+   "videos": [],
+   "note": "No Khan video found on ponds, rivers and seas as homes for fish, frogs and lotus."
+  },
+  "sci.nothing-and-forever.zero.L3": {
+   "videos": [],
+   "note": "Khan has only maths on zero (division by zero, zero pairs); nothing on the history of zero, place value origins or Brahmagupta."
+  },
+  "sci.chemistry-detectives.finding-out-whats-inside.L3": {
+   "videos": [
+    {
+     "title": "Chromatography | Middle school physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "SMVQq2--W2A",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Separating mixtures such as ink by chromatography.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing from Khan on flame colours at this level."
+  },
+  "sci.plants.what-plants-need.L3": {
+   "videos": [],
+   "note": "Khan's plant videos cover photosynthesis and growth theory; none teaches fair tests or measuring plant growth."
+  },
+  "sci.forces.flight.L4": {
+   "videos": [],
+   "note": "No Khan video on drag, balance and control in flight at an accessible level."
+  },
+  "sci.animal-behaviour.animal-societies.L3": {
+   "videos": [],
+   "note": "Nothing from Khan on elephant herds, ant colonies or wolf packs as societies."
+  },
+  "sci.mind.thinking-and-memory.L3": {
+   "videos": [
+    {
+     "title": "Growing your mind",
+     "channel": "Khan Academy",
+     "youtube": "WtKJrB5rOKs",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Practice and learning change the brain.",
+     "confidence": "medium"
+    },
+    {
+     "title": "LearnStorm Growth Mindset: The Truth About Your Brain",
+     "channel": "Khan Academy",
+     "youtube": "rf8FX2sI3gU",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "The brain changes and grows with effort.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Both are about brain growth with practice; nothing on memory games."
+  },
+  "sci.family.family.L3": {
+   "videos": [],
+   "note": "Khan has nothing on family members, relations or the status of girls and women at this level."
+  },
+  "sci.air.air-around-us.L3": {
+   "videos": [],
+   "note": "No Khan video found on air taking up space and having weight."
+  },
+  "sci.light.refraction.L3": {
+   "videos": [
+    {
+     "title": "Refraction in a glass of water | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "sv8-y7N0Ryw",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Why things look bent in water.",
+     "confidence": "high"
+    },
+    {
+     "title": "Refraction in water | Geometric optics",
+     "channel": "Khan Academy",
+     "youtube": "jxptCXHLxKQ",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "How light bends going into water.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing simple on magnifying glasses."
+  },
+  "sci.sky.sun-moon-stars.L3": {
+   "videos": [
+    {
+     "title": "The solar system | Earth in space",
+     "channel": "Khan Academy",
+     "youtube": "wTyqO-tfs7Q",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Sun and planets.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Stars and Galaxies | The Universe",
+     "channel": "Khan Academy India - English",
+     "youtube": "BH4q7oSsFVU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What stars are.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.making-things.cloth.L5": {
+   "videos": [
+    {
+     "title": "Introduction to Fiber Cloth | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "VTG1HpI8w8A",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Fibres, spinning yarn and making cloth.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Fabrication of Clothes | Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "Zx16qafQRfk",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Weaving, knitting and stitching.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on handloom, embroidery or recycling."
+  },
+  "mind.thinking-and-memory.L3": {
+   "videos": [],
+   "note": "Khan's two mindset videos are about attitude to learning, not how memory works; dropped on review."
+  }
+ }
+}

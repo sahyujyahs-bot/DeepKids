@@ -25,6 +25,7 @@ node "$ROOT/app/tests/seg.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/refresher.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/addflow.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/findbar.js" http://127.0.0.1:8777/app.html
+node "$ROOT/app/tests/khan.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/worklists.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/ontrack.js" http://127.0.0.1:8777/app.html
 [ "$1" = snapshot ] && node "$ROOT/app/tests/snapshot.js" http://127.0.0.1:8777/app.html "${2:-$ROOT/app/tests/snapshots}"

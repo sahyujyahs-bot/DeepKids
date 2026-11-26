@@ -15371,9 +15371,12 @@ function fxCards(u) {
         u.videos.forEach((v, i) =>
           add(
             "vid." + i,
-            `<div class="fxtxt"><span class="fxeb">▶️ Video ${i + 1} of ${u.videos.length} · ${v.mins} min · ${esc(v.channel)}</span><h2>${esc(v.title)}</h2>${v.youtube ? `<div class="fxvid" data-yt="${esc(v.youtube)}" style="background-image:url('https://i.ytimg.com/vi/${esc(v.youtube)}/hqdefault.jpg')"><button class="fxb" data-fx="play">▶ Play here</button></div><a class="fxsm" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=${esc(v.youtube)}">Open on YouTube</a>` : `<a class="fxb" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=${encodeURIComponent(v.title + " " + v.channel)}">Find it on YouTube</a>`}<p class="fxsm">${esc(v.why)}</p></div>`,
+            fxVidCard(v, `▶️ Video ${i + 1} of ${u.videos.length} · ${v.mins} min · ${esc(v.channel)}`),
             v.title,
           ),
+        );
+        (u.khan || []).forEach((v, i) =>
+          add("khan." + i, fxVidCard(v, `▶️ More from Khan Academy · ${v.mins} min · ${esc(v.channel)}`), v.title),
         );
         break;
       case "quiz":
@@ -15812,6 +15815,10 @@ function fxLearn(u) {
   return L.length
     ? `<section class="fxlearn"><h2>What you will learn</h2><ul>${L.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></section>`
     : "";
+}
+// a video card: the player when we have the video, a YouTube search when we only know what to look for
+function fxVidCard(v, eyebrow) {
+  return `<div class="fxtxt"><span class="fxeb">${eyebrow}</span><h2>${esc(v.title)}</h2>${v.youtube ? `<div class="fxvid" data-yt="${esc(v.youtube)}" style="background-image:url('https://i.ytimg.com/vi/${esc(v.youtube)}/hqdefault.jpg')"><button class="fxb" data-fx="play">▶ Play here</button></div><a class="fxsm" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=${esc(v.youtube)}">Open on YouTube</a>` : `<a class="fxb" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=${encodeURIComponent(v.title + " " + v.channel)}">Find it on YouTube</a>`}<p class="fxsm">${esc(v.why)}</p></div>`;
 }
 function fxDraw(open, cards) {
   const u = FXU,

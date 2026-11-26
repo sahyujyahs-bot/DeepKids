@@ -135,6 +135,8 @@ def card_pic(img):
         if src and os.path.exists(os.path.join(APP, 'content', src)): return src
     return ''
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
+KHAN = {}
+for _f in sorted(glob.glob(os.path.join(APP, 'content', 'khan', '*.json'))): KHAN.update(json.load(open(_f))['units'])
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
     u = json.load(open(f)); t = TL.get(u['id']); CUR = CURS.get(u['id'].split('.')[0], {})
@@ -156,6 +158,9 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
             q, _, ans = jk.partition('? ')
             if not any(x['j'].startswith(q[:30]) for x in u['jokes']):
                 u['jokes'].append({"j": q + ('?' if ans else ''), "a": ans, "src": ik})
+    # free Khan Academy videos that teach the same concept (app/content/khan), shown after the unit's own three
+    kv = KHAN.get(u['id'], {}).get('videos', [])
+    if kv: u['khan'] = [{"title": x['title'], "channel": x['channel'], "youtube": x['youtube'], "mins": x['mins'], "why": x['matches'] + (" Pitched older: best watched together." if x['pitch'].startswith('older') else "")} for x in kv]
     # the full unit is its own file (app/units/<id>.json, loaded when opened); data.json keeps a small index entry
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
