@@ -1,6 +1,13 @@
 /* Content and fixed tables: DATA (filled in by the build), subjects, boards, defaults */
 const DATA = /*DATA*/ null;
 // the build puts all content here (app/build/data.json)
+// how complete each board subject is, shown beside it when a family picks subjects: Science has full lessons, the rest are growing
+const SUBJ_STATE = {
+  sci: ["Full lessons", "full"],
+  math: ["More being written", "part"],
+  eng: ["Guides coming soon", "soon"],
+  hin: ["Guides coming soon", "soon"],
+};
 const SUBJ = { ...DATA.subjects, sci: "Science", wml: "Main lesson", wart: "Arts & handwork" },
   SUBJ_KEYS = Object.keys(SUBJ),
   UNIT_SUBJ = [...new Set(Object.keys(DATA.units || {}).map((id) => id.split(".")[0]))]; // subjects that have DeepKids units

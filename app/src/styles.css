@@ -7533,6 +7533,22 @@ select.inp {
   display: grid;
   justify-items: start;
 }
+.lvrow .substate {
+  grid-column: 2 / -1;
+  justify-self: start;
+}
+.substate {
+  white-space: nowrap;
+  font-size: var(--fs-1);
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--sun) 22%, var(--surface));
+}
+.substate.full {
+  background: color-mix(in srgb, var(--good) 16%, var(--surface));
+  color: var(--good);
+}
 
 .pk.pkflash {
   outline: 3px solid var(--tang);

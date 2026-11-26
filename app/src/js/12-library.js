@@ -580,16 +580,14 @@ function summaryOf(u) {
     .map((t) => DATA.items.find((i) => i.k === t.k))
     .filter(Boolean);
   const s = T.map((i) => i.c?.covers).filter(Boolean);
-  return s.length
-    ? [...new Set(s)].join(" ")
-    : "Summary coming soon. (Placeholder: we collate this from every book that covers the topic.)";
+  return [...new Set(s)].join(" ");
 }
 function ideasOf(u) {
   if (u.board === "gen") return { sum: u.gen.plusSummary || "", ideas: (u.gen.ideas || []).map(String) };
   if (u.board === "mine") return { sum: u.c.p.summary, ideas: [] };
   const x = u.c?.x;
   if (x) return { sum: x.oneness, ideas: x.deep.map((d) => d.q) };
-  return { sum: "", ideas: ["Placeholder: challenging ideas for this topic are being written."] };
+  return { sum: "", ideas: [] };
 }
 function relatedOf(u) {
   const pool = allUnits(),
@@ -622,9 +620,8 @@ function topicOverview(u, packed) {
     R = relatedOf(u),
     sub = subjectsOf(u);
   let h = `<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length ? T.map((t) => `<span class="chip">${esc(t.txt)}</span>`).join("") : `<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length > 1 ? sub.map((s) => `<span class="chip ${subjClass(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("") : ""}</div>
-    ${packed ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
-  // the placeholder line is not content; the real big ideas of a combined topic sit under "Think deeper"
-  if (I.sum || I.ideas.some((i) => !/^placeholder/i.test(i)))
+    ${packed || !summaryOf(u) ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
+  if (I.sum || I.ideas.length)
     h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul>${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;

@@ -892,7 +892,11 @@ function chapterView() {
     U = u?.c?.units || [],
     M = u?.c?.more || [],
     more = M.length ? moreFromOtherSites(M) : "";
-  if (!U.length) return chapterPage() + more;
+  const unwritten =
+    u && u.board !== "combined" && !U.length && ["eng", "hin", "math"].includes(u.subj)
+      ? `<section class="card fxnew"><span class="eyebrow">Guide being written</span><p class="sm">We're still writing the guide for this chapter. For now: read it together, talk about it, and let ${esc(S.child || "your child")} retell it in their own words.</p></section>`
+      : "";
+  if (!U.length) return unwritten + chapterPage() + more;
   const n = u.c?.p?.days?.length,
     own = u.board === "combined";
   return (

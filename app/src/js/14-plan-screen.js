@@ -165,7 +165,7 @@ function subjCard() {
   )
     .map(
       (k) =>
-        `<button class="chip ${subjClass(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k) ? "✓ " : "+ "}${SUBJ[k]}</button>`,
+        `<button class="chip ${subjClass(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k) ? "✓ " : "+ "}${SUBJ[k]}${S.board === "waldorf" ? "" : ` <small>· ${SUBJ_STATE[k][0]}</small>`}</button>`,
     )
     .join(
       "",

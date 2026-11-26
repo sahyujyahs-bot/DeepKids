@@ -65,7 +65,7 @@ function startOnboarding() {
         age: S.age,
         board: S.setup ? S.board : "combined", // a new family starts on the DeepKids track; a family changing its set-up keeps its own
         plus: S.plus,
-        subjects: S.subjects,
+        subjects: S.setup ? S.subjects : S.subjects.filter((x) => !["eng", "hin"].includes(x)), // new families start with the subjects that have full content
         levels: S.levels,
         // a family changing its set-up has already chosen each subject's class, so pressing Build my plan must not reset them to the age's class
         picked: S.setup ? Object.fromEntries(S.subjects.map((x) => [x, 1])) : {},
@@ -127,11 +127,14 @@ const obTrack = (d) => {
 const obSubjClass = (d) =>
   `<section class="obcard"><h2 class="obct">Subjects and classes</h2><p class="sm">We chose these for age ${d.age || 8}. Change anything that does not fit ${esc(d.child || "your child")}: tap a class, or untick a subject. Not sure of a class? Take the quiz.</p>
    <div class="lvlist">${visSubj(d.board)
+     .filter((x) => !(d.board === "combined" && ["eng", "hin"].includes(x)))
      .map((x) => {
        const on = d.subjects.includes(x);
-       return `<div class="lvrow ${subjClass(x)}${on ? "" : " off"}"><button type="button" class="subjtick" aria-pressed="${on}" aria-label="${SUBJ[x]}" data-s="${x}">${on ? "✓" : ""}</button><span class="lvname"><b>${SUBJ[x]}</b>${on && fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : ""}</span>${on ? `<div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>` : `<span class="xs muted">Left out</span>`}</div>`;
+       return `<div class="lvrow ${subjClass(x)}${on ? "" : " off"}"><button type="button" class="subjtick" aria-pressed="${on}" aria-label="${SUBJ[x]}" data-s="${x}">${on ? "✓" : ""}</button><span class="lvname"><b>${SUBJ[x]}</b>${on && fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : ""}</span>${on ? `<div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>` : `<span class="xs muted">Left out</span>`}${SUBJ_STATE[x] && d.board !== "waldorf" ? `<span class="substate ${SUBJ_STATE[x][1]}">${SUBJ_STATE[x][0]}</span>` : ""}</div>`;
      })
-     .join("")}</div></section>`;
+     .join(
+       "",
+     )}</div>${d.board === "combined" ? `<p class="xs muted">Coming to the DeepKids track: History and Geography.</p>` : ""}</section>`;
 function viewOnboarding() {
   const d = ob.d;
   d.boards = d.boards || (["ncert", "cambridge", "nios"].includes(d.board) ? [d.board] : []);
@@ -152,6 +155,7 @@ function obNext() {
   if (!d.board || d.board === "none") return no("Pick how you want to learn");
   if (["ncert", "cambridge", "nios"].includes(d.board) && !d.boards.length) return no("Pick at least one board");
   if (d.board === "combined" || d.board === "waldorf") d.boards = [];
+  if (d.board === "combined") d.subjects = d.subjects.filter((x) => !["eng", "hin"].includes(x));
   d.mode = "booksplus";
   if (!d.subjects.length) return no("Pick at least one subject");
   // a subject whose level was not chosen starts at the class that suits the age

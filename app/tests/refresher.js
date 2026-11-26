@@ -37,6 +37,7 @@ const { chromium } = require("playwright");
   const r = await p.evaluate(async () => {
     S.guide = { on: false };
     document.getElementById("guide")?.remove();
+    S.subjects = ["math", "eng", "hin", "sci"]; // new families start without English and Hindi; this test needs every subject
     const out = {};
     // every DeepKids unit and the first book chapter of each other subject count as completed
     window.fxUnitSt = () => "completed";

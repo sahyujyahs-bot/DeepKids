@@ -2,6 +2,13 @@
 /* Content and fixed tables: DATA (filled in by the build), subjects, boards, defaults */
 const DATA = window.DK_DATA;
 // the build puts all content here (app/build/data.json)
+// how complete each board subject is, shown beside it when a family picks subjects: Science has full lessons, the rest are growing
+const SUBJ_STATE = {
+  sci: ["Full lessons", "full"],
+  math: ["More being written", "part"],
+  eng: ["Guides coming soon", "soon"],
+  hin: ["Guides coming soon", "soon"],
+};
 const SUBJ = { ...DATA.subjects, sci: "Science", wml: "Main lesson", wart: "Arts & handwork" },
   SUBJ_KEYS = Object.keys(SUBJ),
   UNIT_SUBJ = [...new Set(Object.keys(DATA.units || {}).map((id) => id.split(".")[0]))]; // subjects that have DeepKids units
@@ -4285,7 +4292,11 @@ function chapterView() {
     U = u?.c?.units || [],
     M = u?.c?.more || [],
     more = M.length ? moreFromOtherSites(M) : "";
-  if (!U.length) return chapterPage() + more;
+  const unwritten =
+    u && u.board !== "combined" && !U.length && ["eng", "hin", "math"].includes(u.subj)
+      ? `<section class="card fxnew"><span class="eyebrow">Guide being written</span><p class="sm">We're still writing the guide for this chapter. For now: read it together, talk about it, and let ${esc(S.child || "your child")} retell it in their own words.</p></section>`
+      : "";
+  if (!U.length) return unwritten + chapterPage() + more;
   const n = u.c?.p?.days?.length,
     own = u.board === "combined";
   return (
@@ -9984,16 +9995,14 @@ function summaryOf(u) {
     .map((t) => DATA.items.find((i) => i.k === t.k))
     .filter(Boolean);
   const s = T.map((i) => i.c?.covers).filter(Boolean);
-  return s.length
-    ? [...new Set(s)].join(" ")
-    : "Summary coming soon. (Placeholder: we collate this from every book that covers the topic.)";
+  return [...new Set(s)].join(" ");
 }
 function ideasOf(u) {
   if (u.board === "gen") return { sum: u.gen.plusSummary || "", ideas: (u.gen.ideas || []).map(String) };
   if (u.board === "mine") return { sum: u.c.p.summary, ideas: [] };
   const x = u.c?.x;
   if (x) return { sum: x.oneness, ideas: x.deep.map((d) => d.q) };
-  return { sum: "", ideas: ["Placeholder: challenging ideas for this topic are being written."] };
+  return { sum: "", ideas: [] };
 }
 function relatedOf(u) {
   const pool = allUnits(),
@@ -10026,9 +10035,8 @@ function topicOverview(u, packed) {
     R = relatedOf(u),
     sub = subjectsOf(u);
   let h = `<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length ? T.map((t) => `<span class="chip">${esc(t.txt)}</span>`).join("") : `<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length > 1 ? sub.map((s) => `<span class="chip ${subjClass(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("") : ""}</div>
-    ${packed ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
-  // the placeholder line is not content; the real big ideas of a combined topic sit under "Think deeper"
-  if (I.sum || I.ideas.some((i) => !/^placeholder/i.test(i)))
+    ${packed || !summaryOf(u) ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
+  if (I.sum || I.ideas.length)
     h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul>${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
@@ -12406,7 +12414,7 @@ function subjCard() {
   )
     .map(
       (k) =>
-        `<button class="chip ${subjClass(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k) ? "✓ " : "+ "}${SUBJ[k]}</button>`,
+        `<button class="chip ${subjClass(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k) ? "✓ " : "+ "}${SUBJ[k]}${S.board === "waldorf" ? "" : ` <small>· ${SUBJ_STATE[k][0]}</small>`}</button>`,
     )
     .join(
       "",
@@ -16807,7 +16815,7 @@ function startOnboarding() {
         age: S.age,
         board: S.setup ? S.board : "combined", // a new family starts on the DeepKids track; a family changing its set-up keeps its own
         plus: S.plus,
-        subjects: S.subjects,
+        subjects: S.setup ? S.subjects : S.subjects.filter((x) => !["eng", "hin"].includes(x)), // new families start with the subjects that have full content
         levels: S.levels,
         // a family changing its set-up has already chosen each subject's class, so pressing Build my plan must not reset them to the age's class
         picked: S.setup ? Object.fromEntries(S.subjects.map((x) => [x, 1])) : {},
@@ -16869,11 +16877,14 @@ const obTrack = (d) => {
 const obSubjClass = (d) =>
   `<section class="obcard"><h2 class="obct">Subjects and classes</h2><p class="sm">We chose these for age ${d.age || 8}. Change anything that does not fit ${esc(d.child || "your child")}: tap a class, or untick a subject. Not sure of a class? Take the quiz.</p>
    <div class="lvlist">${visSubj(d.board)
+     .filter((x) => !(d.board === "combined" && ["eng", "hin"].includes(x)))
      .map((x) => {
        const on = d.subjects.includes(x);
-       return `<div class="lvrow ${subjClass(x)}${on ? "" : " off"}"><button type="button" class="subjtick" aria-pressed="${on}" aria-label="${SUBJ[x]}" data-s="${x}">${on ? "✓" : ""}</button><span class="lvname"><b>${SUBJ[x]}</b>${on && fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : ""}</span>${on ? `<div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>` : `<span class="xs muted">Left out</span>`}</div>`;
+       return `<div class="lvrow ${subjClass(x)}${on ? "" : " off"}"><button type="button" class="subjtick" aria-pressed="${on}" aria-label="${SUBJ[x]}" data-s="${x}">${on ? "✓" : ""}</button><span class="lvname"><b>${SUBJ[x]}</b>${on && fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : ""}</span>${on ? `<div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>` : `<span class="xs muted">Left out</span>`}${SUBJ_STATE[x] && d.board !== "waldorf" ? `<span class="substate ${SUBJ_STATE[x][1]}">${SUBJ_STATE[x][0]}</span>` : ""}</div>`;
      })
-     .join("")}</div></section>`;
+     .join(
+       "",
+     )}</div>${d.board === "combined" ? `<p class="xs muted">Coming to the DeepKids track: History and Geography.</p>` : ""}</section>`;
 function viewOnboarding() {
   const d = ob.d;
   d.boards = d.boards || (["ncert", "cambridge", "nios"].includes(d.board) ? [d.board] : []);
@@ -16894,6 +16905,7 @@ function obNext() {
   if (!d.board || d.board === "none") return no("Pick how you want to learn");
   if (["ncert", "cambridge", "nios"].includes(d.board) && !d.boards.length) return no("Pick at least one board");
   if (d.board === "combined" || d.board === "waldorf") d.boards = [];
+  if (d.board === "combined") d.subjects = d.subjects.filter((x) => !["eng", "hin"].includes(x));
   d.mode = "booksplus";
   if (!d.subjects.length) return no("Pick at least one subject");
   // a subject whose level was not chosen starts at the class that suits the age
