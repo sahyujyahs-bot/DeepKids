@@ -1,0 +1,143 @@
+{
+  "board": "NCERT",
+  "subject": "hindi",
+  "class": 3,
+  "book": "Veena (वीणा)",
+  "source_urls": [
+    "https://ftp.vedantu.com/ncert-solutions/ncert-solutions-class-3-hindi"
+  ],
+  "source_quality": "titles-only",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "सीखो",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "2",
+      "title": "चींटी",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "कितने पैर?",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "बया हमारी चिड़िया रानी!",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "आम का पेड़",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "बीरबल की खिचड़ी",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "मित्र को पत्र",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "चतुर गीदड़",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "प्रकृति पर्व – फूलदेई",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "रस्साकशी",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "एक जादुई पिटारा",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "अपना-अपना काम",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "13",
+      "title": "पेड़ों की अम्मा 'तिमक्का'",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "14",
+      "title": "किसान की होशियारी",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "15",
+      "title": "भारत",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "16",
+      "title": "चंद्रयान",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "17",
+      "title": "बोलने वाली माँद",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "18",
+      "title": "हम अनेक किंतु एक",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Titles only. No chapter description was found. Type is a placeholder 'unit' because the source gave no type. Topics and covers are left empty.",
+    "Only titles were found, on a vedantu page. Type and theme per chapter are not stated, so they are placeholders.",
+    "Data.json lists this book as Veena. The request named Joyful Hindi / Rimjhim; the file follows the app's data."
+  ]
+}

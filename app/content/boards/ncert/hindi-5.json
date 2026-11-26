@@ -1,0 +1,100 @@
+{
+  "board": "NCERT",
+  "subject": "hindi",
+  "class": 5,
+  "book": "Veena (वीणा)",
+  "source_urls": [],
+  "source_quality": "titles-only",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Kiran",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "2",
+      "title": "Nyay ki Kursi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Chaand ka Kurta",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "Sanken",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "Sundariya",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Chatur Chitrakar",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "Mera Bachpan",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "Kaziranga Rashtriya Udyan ki Yatra",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "Nyay",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "Teen Machhliyan",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "Hamare ye Kalamandir",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "Ganga ki Kahani",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Titles only. No chapter description was found. Type is a placeholder 'unit' because the source gave no type. Topics and covers are left empty.",
+    "Titles taken from the app's data.json. No source page was fetched to check them, so they are unverified.",
+    "Chapter types and themes not found.",
+    "Data.json lists this book as Veena. The request named Joyful Hindi / Rimjhim; the file follows the app's data."
+  ]
+}

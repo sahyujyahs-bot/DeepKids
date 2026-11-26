@@ -1,1 +1,106 @@
-{"board":"Cambridge Primary","subject":"english","class":5,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/23894-cambridge-primary-english-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[{"topic":"Reading: explicit and implicit meaning","covers":["Find information in non-fiction texts to add to what is already known.","Pull out key points and group and link ideas.","Find information quickly and accurately from different sources.","Quote accurately from more than one point in a story to support answers.","Identify the point of view from which a story is told."]}],"gaps":["Phonics, spelling and vocabulary is not a strand in this outline (three strands: Reading, Writing, Speaking and listening).","Writing: strand objectives are general. No Stage 5 examples are given in the public outline.","Speaking and listening: no Stage 5 objectives are given in the public outline.","The public outline shows Reading examples only.","The public outline is dated February 2019 (v1.19). The current framework may differ. Check the Cambridge Primary support site (login needed).","class is set to the stage number (Stage 5)."]}
+{
+ "board": "Cambridge Primary",
+ "subject": "english",
+ "class": 5,
+ "source": "Learner's Book contents",
+ "topics": [
+  {
+   "topic": "There's a lesson in that",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads fables and identifies their morals and proverbs",
+    "Looks at point of view, dialogue and figurative language",
+    "Holds a discussion and retells a fable"
+   ]
+  },
+  {
+   "topic": "Exploring space",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads and compares biographies and journals",
+    "Works on the past tense and on linking sentences",
+    "Plans and writes a biography, and discusses interviews",
+    "Writes a journal or blog"
+   ]
+  },
+  {
+   "topic": "Reflections",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Listens to and discusses poems",
+    "Learns the form of a haiku and writes haiku",
+    "Compares and performs poems"
+   ]
+  },
+  {
+   "topic": "Myths and legends forever",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Tests knowledge of myths and legends and explores their text",
+    "Works on direct and reported speech and on language",
+    "Discusses heroes and viewpoints",
+    "Builds a short screenplay and writes a myth or legend"
+   ]
+  },
+  {
+   "topic": "Tell me how ...",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Shares knowledge about a topic and learns about style",
+    "Follows and writes clear, precise instructions",
+    "Finds out more and makes notes",
+    "Uses connectives and complex sentences to write an explanation text"
+   ]
+  },
+  {
+   "topic": "A different type of story",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads The Way through the Woods and other stories",
+    "Develops poetic language and reads with understanding",
+    "Writes a poem using a frame"
+   ]
+  },
+  {
+   "topic": "A box of delights",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads fairy tales, The Iron Man and traditional tales",
+    "Compares and contrasts stories",
+    "Looks at verb tenses, pronouns and prepositions",
+    "Writes a synopsis and their own tale"
+   ]
+  },
+  {
+   "topic": "Share your views",
+   "strand": "Speaking and listening",
+   "subtopics": [],
+   "covers": [
+    "Analyses posters and film reviews",
+    "Learns to sound persuasive when giving information",
+    "Gives an oral review and chooses formal or informal language"
+   ]
+  },
+  {
+   "topic": "Let's perform",
+   "strand": "Speaking and listening",
+   "subtopics": [],
+   "covers": [
+    "Performs poems and stories adapted for performance",
+    "Creates characters for a play",
+    "Writes a play script and performs a play"
+   ]
+  }
+ ],
+ "gaps": [
+  "Units taken from the contents page only; only the Unit 1 opening page was read.",
+  "The contents page gives no per-unit focus labels, so each unit has one strand chosen from its lesson titles."
+ ]
+}

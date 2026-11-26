@@ -1,0 +1,274 @@
+{
+  "board": "NCERT",
+  "subject": "maths",
+  "class": 5,
+  "book": "Maths Mela, Class 5",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "We the Travellers – I",
+      "topics": [
+        "reading and writing large numbers",
+        "ten thousand and beyond",
+        "place value with tokens",
+        "number names",
+        "vehicles and travel"
+      ],
+      "covers": [
+        "Adds thousands in a row and reads the answer up to ten thousand",
+        "Places counting tokens in a place value chart of ten thousands, thousands, hundreds, tens and ones",
+        "Writes a number in figures and in words, such as ten thousand fifty-eight",
+        "Talks about how people travelled long ago and how many vehicles are in their state",
+        "Asks family elders about a past trip and works out its distance and duration"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Fractions",
+      "topics": [
+        "comparing fractions of the same whole",
+        "equivalent fractions",
+        "fraction kit",
+        "making wholes from fraction pieces",
+        "shading parts of a grid"
+      ],
+      "covers": [
+        "Decides whether one third of a chocolate is bigger than one half of another, and explains that the wholes must be the same",
+        "Shades parts of grids and finds fractions that are equal, such as 1/3 and 2/6",
+        "Uses a fraction kit to find how many small pieces fit into a larger piece",
+        "Makes a whole using only certain pieces from the kit",
+        "Divides shapes into more equal parts to show a fraction in more than one way"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "Angles as Turns",
+      "topics": [
+        "full, half and quarter turns",
+        "clockwise and anticlockwise",
+        "right, acute, obtuse and straight angles",
+        "turns of the clock hand"
+      ],
+      "covers": [
+        "Plays a statue game turning a full turn, a half turn and a quarter turn",
+        "Finds turns in everyday things such as a giant wheel and the minute hand",
+        "Works out what two half turns in the same direction make",
+        "Learns the names right, acute, obtuse and straight for different sized angles"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "We the Travellers – II",
+      "topics": [
+        "addition and subtraction of large numbers",
+        "regrouping",
+        "the link between addition and subtraction",
+        "consecutive number sums",
+        "fuel use"
+      ],
+      "covers": [
+        "Swaps numbers between two groups to make two sums equal, using the fewest swaps",
+        "Subtracts 82 minus 37 by regrouping tens into ones and checks by adding back",
+        "Works out fuel left or used for different vehicles, from motorbikes to trains",
+        "Uses facts such as 67 minus 21 to find related facts like 67 minus 46",
+        "Finds sums of consecutive numbers, such as 1 + 2 + 3 + 4 = 10"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "Far and Near",
+      "topics": [
+        "metres, centimetres and kilometres",
+        "converting between units",
+        "double number lines",
+        "comparing lengths in different units",
+        "long distances"
+      ],
+      "covers": [
+        "Chooses metres or centimetres for the height of India Gate, a handkerchief and a mobile phone",
+        "Matches lengths of saris and stoles written in cm with the same lengths written in metres",
+        "Compares lengths such as 456 cm and 5 m using the signs for greater than, less than and equal to",
+        "Learns that 1,000 metres make one kilometre and works out how many ropes make 1 km",
+        "Plans water stations for a kilometre race"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "The Dairy Farm",
+      "topics": [
+        "multiplication facts and strategies",
+        "order of factors",
+        "multiplying by 10s and 100s",
+        "groups of pouches",
+        "multiplication puzzles"
+      ],
+      "covers": [
+        "Finds the numbers hidden behind shapes in multiplication puzzles",
+        "Shows that 3 times 2 and 2 times 3 give the same product, and tests other pairs",
+        "Works out how many pouches fit into each arrangement of rows and columns that make 60",
+        "Multiplies by 10 and 100 by looking at the pattern of zeros",
+        "Uses clues to find a two-digit number that is a multiple of 9 and odd"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "Shapes and Patterns",
+      "topics": [
+        "weaving paper patterns",
+        "tessellation",
+        "rhombus and parallelogram",
+        "making patterns with shapes"
+      ],
+      "covers": [
+        "Makes a paper mat by cutting slits in folded paper and weaving two colours of strips over and under",
+        "Looks at woven baskets and talks about the weaving patterns",
+        "Names the shapes in a pattern, including rhombuses and parallelograms",
+        "Tries to fit shapes together with no gaps to make a tessellation",
+        "Finds right angles in the shapes used to build the pattern"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "Weight and Capacity",
+      "topics": [
+        "grams and kilograms",
+        "reading weighing scales",
+        "converting kg and g",
+        "litres and millilitres",
+        "comparing weights"
+      ],
+      "covers": [
+        "Checks a list of item weights and ticks the ones written in a sensible unit",
+        "Reads weighing scales with kilograms and grams, and works out what the pointer shows",
+        "Converts 3 kg 500 g into grams and back",
+        "Compares fruits such as watermelon and pineapple to find the heaviest and lightest",
+        "Works out capacity in litres and millilitres for containers and bottles"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Coconut Farm",
+      "topics": [
+        "division as the reverse of multiplication",
+        "dividend, divisor and quotient",
+        "division facts from an array",
+        "division by 10 and 100",
+        "place value in division"
+      ],
+      "covers": [
+        "Writes two division facts from one multiplication fact shown as an array of coconuts",
+        "Learns that dividend equals divisor times quotient, and uses it to check answers",
+        "Fills in the missing factor in a division such as 150 divided by 3",
+        "Divides by 10, 20 and 100, and notices what happens to the quotient",
+        "Fills a place value chart for division problems"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Symmetrical Designs",
+      "topics": [
+        "lines of symmetry",
+        "reflection symmetry",
+        "folding to cut symmetrical shapes",
+        "letters with symmetry",
+        "patterns with symmetry"
+      ],
+      "covers": [
+        "Cuts out the letter A by folding paper in half and drawing half the letter along the fold",
+        "Folds paper into quarters to cut out the letter H, which has two lines of symmetry",
+        "Decides which letters can be cut out by drawing only half of them",
+        "Finds the lines of symmetry in letters and shapes",
+        "Makes symmetrical designs and checks them by folding"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "Grandmother's Quilt",
+      "topics": [
+        "perimeter of shapes",
+        "area and covering a surface",
+        "rectangles with a given perimeter",
+        "tiling with squares and rectangles"
+      ],
+      "covers": [
+        "Works out the perimeter of a square with equal sides, and chooses the right length of lace to cover a border",
+        "Draws two rectangles that each have a given perimeter such as 26 cm or 18 cm",
+        "Counts the square patches used to make a rug",
+        "Covers a table with triangles, circles, squares and rectangles and talks about which covers it best",
+        "Learns the difference between perimeter (around a shape) and area (the space inside)"
+      ]
+    },
+    {
+      "n": "12",
+      "title": "Racing Seconds",
+      "topics": [
+        "seconds, minutes and hours",
+        "12-hour and 24-hour clock",
+        "time taken for an activity",
+        "elapsed time",
+        "comparing durations"
+      ],
+      "covers": [
+        "Estimates how many seconds everyday actions take, such as blinking or washing hands, then checks by timing",
+        "Works out start time, finish time and time spent practising yoga",
+        "Finds how much time has passed between two clock times, such as 1:15 pm and 1:42 pm",
+        "Converts times between 12-hour and 24-hour formats",
+        "Compares how long three children took to paint a picture and names the longest and shortest"
+      ]
+    },
+    {
+      "n": "13",
+      "title": "Animal Jumps",
+      "topics": [
+        "factors and multiples",
+        "common factors",
+        "common multiples",
+        "arrays to show factors",
+        "multiplier games"
+      ],
+      "covers": [
+        "Finds the missing multiplier when numbers come out of a box",
+        "Makes arrays for numbers such as 12 and lists its factors",
+        "Lists the multiples of two numbers, such as 4 and 6, and finds the common ones",
+        "Checks whether a number is a common factor of two numbers, such as 24 and 36",
+        "Works out which numbers an animal lands on when it jumps 5 or 10 steps from zero"
+      ]
+    },
+    {
+      "n": "14",
+      "title": "Maps and Locations",
+      "topics": [
+        "compass directions",
+        "facing the rising sun",
+        "reading a simple map",
+        "giving directions",
+        "bus routes"
+      ],
+      "covers": [
+        "Works out north, south, east and west when facing the rising sun",
+        "Says which way a person's left and right hands point when facing a direction",
+        "Follows a bus route on a map from a stop, naming the direction at each step",
+        "Describes where a house, park or market is from a landmark",
+        "Makes a direction arrow for their own room"
+      ]
+    },
+    {
+      "n": "15",
+      "title": "Data Through Pictures",
+      "topics": [
+        "pictographs with a symbol scale",
+        "reading a table of counts",
+        "comparing counts",
+        "true or false questions about data"
+      ],
+      "covers": [
+        "Collects classmates' TV viewing hours and records them in a table",
+        "Answers questions such as how many children watch TV for less than two hours",
+        "Reads a pictograph where one icon stands for several items, such as 5 toys",
+        "Counts the two-wheelers passing a point on three days using icons",
+        "Records daily routines in a table and reads what they show"
+      ]
+    }
+  ],
+  "gaps": []
+}

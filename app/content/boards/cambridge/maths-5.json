@@ -1,1 +1,218 @@
-{"board":"Cambridge Primary","subject":"maths","class":5,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/25127-cambridge-primary-maths-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[{"topic":"Number: Numbers and the number system","covers":["Count on and back in steps of any size, including past zero, and extend number sequences.","Say what each digit means in numbers up to one million, and partition them.","Multiply and divide numbers up to 10 000 by 10 or 100 and see the effect.","Read, write and compare decimals to two places and fractions with tenths and hundredths.","Order and compare negative and positive numbers on a number line and temperature scale, and work out a rise or fall.","Round whole numbers and decimals to the nearest 10, 100, 1000 or whole number.","Change improper fractions to mixed numbers and find simple fractions and percentages of quantities.","Use ratio and proportion to solve problems, such as scaling a recipe."]},{"topic":"Number: Multiplication and division","covers":["Multiply two-digit numbers by two-digit numbers, and multiply a decimal with one place by a single-digit number.","Divide three-digit numbers by single-digit numbers, with and without remainders.","Decide whether to round an answer up or down after division, depending on the context.","Use brackets to set the order of operations."]}],"gaps":["Public outline gives examples only, so this list is partial.","Geometry, Measure (including area, perimeter, time), Handling data (including probability, which starts at Stage 5) and Problem solving are not in the public outline for Stage 5.","The public outline is dated February 2019 (v1.19). The current framework may differ. Check the Cambridge Primary support site (login needed).","class is set to the stage number (Stage 5)."]}
+{
+  "board": "Cambridge Primary",
+  "subject": "maths",
+  "class": 5,
+  "source": "Learner's Book 2nd edition (2684) contents",
+  "topics": [
+    {
+      "topic": "The number system",
+      "strand": "Number",
+      "subtopics": [
+        "1.1 Understanding place value",
+        "1.2 Rounding decimal numbers"
+      ],
+      "covers": [
+        "Understand place value in large whole numbers and decimals",
+        "Round decimal numbers"
+      ]
+    },
+    {
+      "topic": "2D shape and pattern",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "2.1 Triangles",
+        "2.2 Symmetry"
+      ],
+      "covers": [
+        "Classify triangles",
+        "Recognise line symmetry in shapes"
+      ]
+    },
+    {
+      "topic": "Numbers and sequences",
+      "strand": "Number",
+      "subtopics": [
+        "3.1 Counting and sequences",
+        "3.2 Square and triangular numbers",
+        "3.3 Prime and composite numbers"
+      ],
+      "covers": [
+        "Continue and describe number sequences",
+        "Recognise square and triangular numbers",
+        "Tell prime numbers from composite numbers"
+      ]
+    },
+    {
+      "topic": "Averages",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "4.1 Mode and median"
+      ],
+      "covers": [
+        "Find the mode and the median of a set of data"
+      ]
+    },
+    {
+      "topic": "Addition and subtraction",
+      "strand": "Number",
+      "subtopics": [
+        "5.1 Addition and subtraction including decimal numbers",
+        "5.2 Addition and subtraction of positive and negative numbers"
+      ],
+      "covers": [
+        "Add and subtract decimal numbers",
+        "Add and subtract positive and negative numbers"
+      ]
+    },
+    {
+      "topic": "3D shapes",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "6.1 Nets of cubes and drawing 3D shapes"
+      ],
+      "covers": [
+        "Use nets to picture 3D shapes",
+        "Make 2D drawings of 3D shapes"
+      ]
+    },
+    {
+      "topic": "Fractions, decimals and percentages",
+      "strand": "Number",
+      "subtopics": [
+        "7.1 Understanding fractions",
+        "7.2 Percentages, decimals and fractions",
+        "7.3 Equivalence and comparison"
+      ],
+      "covers": [
+        "Understand fractions",
+        "Change between percentages, decimals and fractions",
+        "Compare and order equivalent amounts"
+      ]
+    },
+    {
+      "topic": "Probability",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "8.1 Likelihood",
+        "8.2 Experiments and simulations"
+      ],
+      "covers": [
+        "Describe how likely an event is",
+        "Compare experiment results with what is expected"
+      ]
+    },
+    {
+      "topic": "Addition and subtraction of fractions",
+      "strand": "Number",
+      "subtopics": [
+        "9.1 Addition and subtraction of fractions"
+      ],
+      "covers": [
+        "Add and subtract fractions"
+      ]
+    },
+    {
+      "topic": "Angles",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "10.1 Angles"
+      ],
+      "covers": [
+        "Measure and name angles, including reflex angles"
+      ]
+    },
+    {
+      "topic": "Multiplication and division",
+      "strand": "Number",
+      "subtopics": [
+        "11.1 Multiplication",
+        "11.2 Division",
+        "11.3 Tests of divisibility"
+      ],
+      "covers": [
+        "Multiply and divide",
+        "Use tests to see whether one number divides another"
+      ]
+    },
+    {
+      "topic": "Data",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "12.1 Representing and interpreting data",
+        "12.2 Frequency diagrams and line graphs"
+      ],
+      "covers": [
+        "Draw and read data displays",
+        "Read frequency diagrams and line graphs"
+      ]
+    },
+    {
+      "topic": "Ratio and proportion",
+      "strand": "Number",
+      "subtopics": [
+        "13.1 Ratio and proportion"
+      ],
+      "covers": [
+        "Understand ratio and proportion"
+      ]
+    },
+    {
+      "topic": "Area and perimeter",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "14.1 Area and perimeter"
+      ],
+      "covers": [
+        "Find the area and perimeter of shapes"
+      ]
+    },
+    {
+      "topic": "Multiplying and dividing fractions and decimals",
+      "strand": "Number",
+      "subtopics": [
+        "15.1 Multiplying and dividing fractions",
+        "15.2 Multiplying a decimal and a whole number"
+      ],
+      "covers": [
+        "Multiply and divide fractions",
+        "Multiply a decimal by a whole number"
+      ]
+    },
+    {
+      "topic": "Time",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "16.1 Time intervals and time zones"
+      ],
+      "covers": [
+        "Work out time intervals",
+        "Compare times in different time zones"
+      ]
+    },
+    {
+      "topic": "Number and the laws of arithmetic",
+      "strand": "Number",
+      "subtopics": [
+        "17.1 The laws of arithmetic"
+      ],
+      "covers": [
+        "Use the laws of arithmetic to make calculations easier"
+      ]
+    },
+    {
+      "topic": "Position and direction",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "18.1 Coordinates and translation"
+      ],
+      "covers": [
+        "Read and plot coordinates",
+        "Translate shapes on a grid"
+      ]
+    }
+  ],
+  "gaps": [
+    "The scan of Learner's Book 5 (1345) has no contents page, so the 2nd edition (2684) contents are used.",
+    "Covers are written from the contents subtopics and the unit opening pages. Projects and the glossary are not listed as topics."
+  ]
+}

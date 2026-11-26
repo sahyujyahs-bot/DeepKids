@@ -1,0 +1,107 @@
+{
+  "board": "NCERT",
+  "subject": "hindi",
+  "class": 4,
+  "book": "Veena (वीणा)",
+  "source_urls": [],
+  "source_quality": "titles-only",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Chidiya ka Geet",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "2",
+      "title": "Bagiche ka Ghongha",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Neem",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "Hamara Aahar",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "Aasman Gira",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Jaipur se Patra",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "Nakli Heere",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "Onam ke Rang",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "Mithaiyon ka Sammelan",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "Camera",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "Kavita ka Kamaal",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "Shatranj mein Maat",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "13",
+      "title": "Hamara Aditya",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Titles only. No chapter description was found. Type is a placeholder 'unit' because the source gave no type. Topics and covers are left empty.",
+    "Titles taken from the app's data.json. No source page was fetched to check them, so they are unverified.",
+    "Chapter types and themes not found.",
+    "Data.json lists this book as Veena. The request named Joyful Hindi / Rimjhim; the file follows the app's data."
+  ]
+}

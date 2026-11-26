@@ -1,0 +1,246 @@
+{
+  "board": "NCERT",
+  "subject": "maths",
+  "class": 3,
+  "book": "Maths Mela, Class 3",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "What's in a Name?",
+      "topics": [
+        "counting without number names",
+        "tally marks",
+        "keeping track of large groups"
+      ],
+      "covers": [
+        "Follows a story about herders who make a mark for each cow leaving and strike one off for each cow returning",
+        "Uses tally marks to keep track of 36 cows and 23 sheep",
+        "Works out how many cows came home when the marks left on the wall show the rest",
+        "Tries different ways to count a big group without using numbers, such as the children entering a classroom"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Toy Joy",
+      "topics": [
+        "3D shapes: cube, cuboid, cone, cylinder",
+        "faces, edges and curved surfaces",
+        "making models from boxes and bottles"
+      ],
+      "covers": [
+        "Names the shapes of boxes, bottles and cones used to make animal and bird faces",
+        "Counts how many of each solid shape a toy rocket or engine uses",
+        "Says which faces are flat and which are curved, and which edges are straight",
+        "Builds houses, towers or rockets from shape objects and describes how they are arranged",
+        "Learns that a cube is a special kind of cuboid"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "Double Century",
+      "topics": [
+        "how number symbols came to be",
+        "the digit 0",
+        "counting and estimating objects",
+        "numbers up to 200 on a snakes-and-ladders board",
+        "making 100"
+      ],
+      "covers": [
+        "Estimates and then counts oranges, bangles, laddoos and other things in a picture",
+        "Fills in missing numbers on a board that goes up to 100",
+        "Plays a game with numbers that add up to 100, such as 70 and 30",
+        "Makes 100 by jumping along a number line in different ways",
+        "Works out what number comes one more or one less than a given number"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "Vacation with My Nani Maa",
+      "topics": [
+        "addition and subtraction within 20",
+        "number facts",
+        "tens frames",
+        "a number trick with hidden seeds"
+      ],
+      "covers": [
+        "Finds the number hidden under a cloth by thinking of the number that makes 9, 10 or 20",
+        "Adds two groups of sweets, such as 7 and 5, and then finds the amount left after taking some away",
+        "Uses a tens frame to add and subtract, for example 6 + 8",
+        "Plays a card game where three cards that form a sum or difference are kept",
+        "Adds the number of books children collected for a grandmother"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "Fun with Shapes",
+      "topics": [
+        "2D shapes in rangoli",
+        "curved and straight lines",
+        "faces of boxes",
+        "making shapes from paper"
+      ],
+      "covers": [
+        "Copies a rangoli made on dots and names the shapes in it",
+        "Counts how many shapes in a rangoli are made with curved lines and how many with straight lines",
+        "Makes a rangoli design from objects found in the classroom",
+        "Looks at flattened boxes to find the 2D shapes that make up a solid",
+        "Folds a square of paper to make an envelope"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "House of Hundreds – I",
+      "topics": [
+        "counting beyond 200",
+        "reading and writing 3-digit numbers",
+        "number names in hundreds",
+        "comparing numbers",
+        "adding 1 or 10 to a number"
+      ],
+      "covers": [
+        "Counts torans and bangles in a mela, using hundreds, tens and ones",
+        "Counts toffees in boxes from 200 to 300 and sees that 299 plus one is 300",
+        "Works out how many more torans are needed to reach 300",
+        "Fills in missing numbers on a number track going past 200",
+        "Adds or subtracts 1, 10 or 20 from a given number, then writes the change in words"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "Raksha Bandhan",
+      "topics": [
+        "repeated addition",
+        "multiplication as equal groups",
+        "counting objects for a festival"
+      ],
+      "covers": [
+        "Counts leaves, glasses, pomegranates and flowers in a decorated home",
+        "Works out how many threads, flowers and beads are needed for 5 rakhis",
+        "Writes equal additions such as 2 + 2 + 2 + 2 + 2 as 5 times 2",
+        "Learns that 5 times 4 means 5 groups of 4 beads",
+        "Makes a rakhi at home"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "Fair Share",
+      "topics": [
+        "sharing equally",
+        "halves of a whole",
+        "checking that two parts are equal",
+        "fair sharing"
+      ],
+      "covers": [
+        "Decides whether a paratha or chocolate has been shared equally",
+        "Folds a rectangle or square of paper to find different ways to make a half",
+        "Shades the shapes where half of the whole is coloured",
+        "Shares mangoes equally between two children",
+        "Discusses whether a set of shared things, such as a tree and fruit, is fair"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "House of Hundreds – II",
+      "topics": [
+        "hundreds, tens and ones with tiles",
+        "place value of 3-digit numbers",
+        "locating numbers on a number line",
+        "estimating large counts"
+      ],
+      "covers": [
+        "Shows numbers such as 832 and 504 with hundred, ten and one tiles",
+        "Finds the number of sacks of rice by counting in hundreds, tens and ones",
+        "Locates numbers such as 530, 590 and 703 on a number line between 500 and 900",
+        "Makes a guess about the number of crows or students and checks it by counting",
+        "Reads a story about estimating a count of crows and what the guesses mean"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Fun at Class Party!",
+      "topics": [
+        "measuring length with informal units",
+        "hand spans and footsteps",
+        "paper strings",
+        "longest and shortest",
+        "distance"
+      ],
+      "covers": [
+        "Finds the height of a door with informal units such as a hand span or a paper string",
+        "Compares a table measured by two children with different hand spans and asks why they differ",
+        "Picks the longest and the shortest strings in a picture",
+        "Measures the distance between two walls and thinks of other ways to measure it",
+        "Discusses which way of measuring length is better and why"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "Filling and Lifting",
+      "topics": [
+        "capacity of containers",
+        "comparing glasses by pouring",
+        "more and less volume",
+        "litre, half litre and quarter litre"
+      ],
+      "covers": [
+        "Works out whether six big glasses of juice would be as many as six small ones",
+        "Pours milk from different glasses into same-sized glasses to see who drank the most",
+        "Guesses how many small bowls fill a glass or bottle, then checks by pouring",
+        "Decides whether a vessel holds more or less than one litre using a 1 litre measure",
+        "Matches vessels to a litre, half litre or quarter litre"
+      ]
+    },
+    {
+      "n": "12",
+      "title": "Give and Take",
+      "topics": [
+        "adding 3-digit numbers with carrying",
+        "subtracting 3-digit numbers with borrowing",
+        "box diagrams for word problems",
+        "combining ten tens into a hundred"
+      ],
+      "covers": [
+        "Adds 364 and 52 saplings using a box diagram, grouping ones, tens and hundreds",
+        "Works out 230 minus 75 by taking away ones first, then tens",
+        "Changes 1 hundred into 10 tens when there are not enough tens to take away",
+        "Checks answers using a number line with jumps of 10",
+        "Solves word problems about saplings sold or packed in a nursery"
+      ]
+    },
+    {
+      "n": "13",
+      "title": "Time Goes On",
+      "topics": [
+        "months and the calendar",
+        "weeks and days",
+        "counting forward from a date",
+        "reading a calendar"
+      ],
+      "covers": [
+        "Builds a full calendar for July by writing the dates under each weekday",
+        "Counts how many Sundays a month has and lists the Thursdays",
+        "Finds the date and weekday three days after a given date",
+        "Works out the reopening date after a 15-day school closure"
+      ]
+    },
+    {
+      "n": "14",
+      "title": "The Surajkund Fair",
+      "topics": [
+        "symmetry: a line dividing a shape into equal halves",
+        "patterns on mela objects",
+        "making symmetrical malas with beads"
+      ],
+      "covers": [
+        "Spots things at a fair that look the same on the left and right",
+        "Folds a traced rangoli to see whether its two halves match",
+        "Draws the lines of symmetry in rangoli designs",
+        "Makes malas with 8 beads, 4 of each colour, and colours which are symmetrical",
+        "Looks around for other symmetrical objects"
+      ]
+    }
+  ],
+  "gaps": [
+    "Chapter 11: the 'Lifting' half of the title is not described; the text read covered capacity only."
+  ]
+}

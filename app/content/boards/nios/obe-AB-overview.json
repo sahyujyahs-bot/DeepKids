@@ -1,0 +1,42 @@
+{
+  "levels": {
+    "A": {
+      "subjects": [
+        "Hindi (A101)",
+        "English (A109)",
+        "Environmental Studies (A102)",
+        "Mathematics (A103)",
+        "Basic Computer Skills (A104)",
+        "Veda (A145), Vijnana - Bharatiya Jnana Parampara (A146), Yoga (A147)",
+        "Group 1 other languages: Bengali, Marathi, Telugu, Urdu, Gujarati, Kannada, Sanskrit, Punjabi, Tamil, Oriya, Malayalam, Assamese, Kashmiri, Konkani, Dogri, Nepali, Bodo, Manipuri, Maithili, Santhali, Sindhi",
+        "Pre-vocational: Cutting/Tailoring/Dress Making (A106), Beauty Culture (A107), Food Processing (A108), Toy Making (A131), Painting (A132), Bee Keeping (A133), and others in Group 3"
+      ],
+      "lessons_found": []
+    },
+    "B": {
+      "subjects": [
+        "Hindi (B101)",
+        "English (B109)",
+        "Environmental Studies (B102)",
+        "Mathematics (B103)",
+        "Basic Computer Skills (B104)",
+        "Veda (B145), Vijnana (B146), Yoga (B147)",
+        "Group 1 other languages (same list as Level A)",
+        "Pre-vocational: Cutting/Tailoring/Dress Making (B106), Beauty Culture (B107), Food Processing (B108), Toy Making (B131), Painting (B132), Bee Keeping (B133), and others in Group 3"
+      ],
+      "lessons_found": []
+    }
+  },
+  "source_urls": [
+    "https://cdn.nios.ac.in/cms/documents/2026/Jun/24/1782278647_Open_Basic_Education_Prospectus__Adults__2026-27.pdf"
+  ],
+  "gaps": [
+    "Subject list for A and B taken from Table 2 of the OBE Prospectus 2026-27 (adults, read as text). Codes marked * or ** in the table were not interpreted; the table does not say what they mean in this extract.",
+    "No Social Science or Science at Levels A or B (table shows '-'). Social Science (C102) and Science (C105) are Level C only.",
+    "No lesson or module titles for Levels A or B were found. The prospectus has none; the NIOS Level A/B textbooks were not reached.",
+    "Level B equivalence: the 2026-27 prospectus says Class 5. A search snippet of a 2015 NIOS guideline said Class VI, and a third-party site said Class 4-5. Not resolved.",
+    "Level A equivalence: the 2026-27 prospectus says Class 3 (search snippets also mention Classes I-III).",
+    "Not fetched: OBE Prospectus 2021-22 (returned 503 on fetch), NIOS OBE programme page (503), Level B English PDF nios.ac.in/media/documents/Bleveleng.pdf (connection reset by the egress proxy, twice). Third-party pages (byjus.com) list only EVS, Maths and Basic Computer Skills for A and B; not used as a source.",
+    "Environmental Studies and Science lesson titles at Levels A/B were not found, so no Environmental Studies / Science lesson lists are recorded."
+  ]
+}

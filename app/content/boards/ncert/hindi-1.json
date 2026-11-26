@@ -1,0 +1,151 @@
+{
+  "board": "NCERT",
+  "subject": "hindi",
+  "class": 1,
+  "book": "Sarangi (सारंगी)",
+  "source_urls": [
+    "https://www.studiestoday.com/ncert-solution/548/hindi.html",
+    "https://www.shaalaa.com/textbook-solutions/ncert-solutions-hindi-sarangi-class-1_929"
+  ],
+  "source_quality": "titles-only",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Meena ka Parivar",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "2",
+      "title": "Dada-Dadi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Reena ka Din",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "Rani Bhi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "Mithai",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Teen Sathi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "Waah Mere Ghode",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "Khatre mein Saanp",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "Aloo ki Sadak",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "Jhoolam-Jhooli",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "Bhutte",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "Phooli Roti",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "13",
+      "title": "Mela",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "14",
+      "title": "Barkha aur Megha",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "15",
+      "title": "Holi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "16",
+      "title": "Janamdin par Ped Lagao",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "17",
+      "title": "Hawa",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "18",
+      "title": "Kitni Pyaari Hai Ye Duniya",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "19",
+      "title": "Chaand ka Bachcha",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Titles only. No chapter description was found. Type is a placeholder 'unit' because the source gave no type. Topics and covers are left empty.",
+    "Only titles were found, on a study site and a search. Type and theme per chapter are not stated, so they are placeholders.",
+    "Data.json lists this book as Sarangi. The request named Joyful Hindi / Rimjhim; the file follows the app's data."
+  ]
+}

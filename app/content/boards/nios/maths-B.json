@@ -1,0 +1,90 @@
+{
+ "board": "NIOS OBE",
+ "subject": "maths",
+ "level": "B",
+ "approx_class": 5,
+ "book": "Mathematics, Open Basic Education Level B (English medium), NIOS",
+ "modules": [
+  {
+   "module": "All lessons (book has no modules)",
+   "lessons": [
+    {
+     "n": "1",
+     "title": "Numbers",
+     "covers": [
+      "Read and write numbers from 1001 to 1,00,00,000 in digits and words",
+      "Place value and expanded form of numerals",
+      "Compare numbers and order them, ascending and descending",
+      "Make the smallest and greatest four-digit numbers from given digits"
+     ]
+    },
+    {
+     "n": "2",
+     "title": "Addition, subtraction, multiplication and division",
+     "covers": [
+      "Add and subtract larger numbers",
+      "Multiply and divide by numbers up to three digits",
+      "Estimate products and quotients and check them by working them out",
+      "Solve everyday problems with the four operations"
+     ]
+    },
+    {
+     "n": "3",
+     "title": "Fractions",
+     "covers": [
+      "Understand fractions through pictures",
+      "Find equivalent fractions and write fractions in lowest terms",
+      "Compare and order fractions",
+      "Convert mixed and improper fractions, and add, subtract, multiply and divide fractions"
+     ]
+    },
+    {
+     "n": "4",
+     "title": "Decimals",
+     "covers": [
+      "Write tenths, hundredths and thousandths as decimals, and back",
+      "Compare and order decimals",
+      "Add, subtract, multiply and divide decimals by whole numbers",
+      "Percent as a fraction out of 100, and converting between decimals and percent",
+      "Measurement units (length, weight, volume, time, temperature, rupees) and converting between them"
+     ]
+    },
+    {
+     "n": "5",
+     "title": "Perimeter, area and volume",
+     "covers": [
+      "Find the perimeter of plane figures",
+      "Find the area of plane figures",
+      "Find the volume of solid figures",
+      "Use these in everyday tasks such as fencing, tiling and filling containers"
+     ]
+    },
+    {
+     "n": "6",
+     "title": "Geometry",
+     "covers": [
+      "Recognise symmetry and symmetrical shapes",
+      "Lines, line segments and rays",
+      "Acute, right and obtuse angles; measure and draw angles with a protractor",
+      "Draw a circle with and without a compass; name its centre, radius, diameter and circumference",
+      "Recognise parallel and perpendicular lines around us"
+     ]
+    },
+    {
+     "n": "7",
+     "title": "Data handling",
+     "covers": [
+      "What data are and why we need them",
+      "Ways to collect data",
+      "Read and understand data shown in graphs"
+     ]
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "The book has no module grouping; all seven lessons sit under one group.",
+  "The measurement section (its heading is numbered 5, around book pages 111 to 117) falls inside the Decimals lesson pages, so it is listed under lesson 4.",
+  "Lessons 5 to 7 were checked from the 'From this lesson' lists only; lesson 2 has a long multi-part section which was not read in full."
+ ]
+}

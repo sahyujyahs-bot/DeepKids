@@ -1,0 +1,132 @@
+{
+  "board": "NCERT",
+  "subject": "english",
+  "class": 1,
+  "book": "Mridang",
+  "source_urls": [
+    "https://vedantu.com/ncert-solutions/ncert-solutions-class-1-english-mridang"
+  ],
+  "source_quality": "third-party",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Two Little Hands",
+      "type": "poem",
+      "topics": [
+        "body parts",
+        "actions of the hands"
+      ],
+      "covers": [
+        "Names of body parts and what hands can do",
+        "Rhyme and repeated lines"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Greetings",
+      "type": "unit",
+      "topics": [
+        "greetings",
+        "polite speech"
+      ],
+      "covers": [
+        "Greeting people at different times of day",
+        "Polite words for meeting people"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "Picture Time",
+      "type": "unit",
+      "topics": [
+        "picture reading",
+        "vocabulary"
+      ],
+      "covers": [
+        "Naming things seen in pictures",
+        "Looking closely at details"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "The Cap Seller and the Monkeys",
+      "type": "story",
+      "topics": [
+        "clever trick",
+        "monkeys"
+      ],
+      "covers": [
+        "A cap-seller outwits mischievous monkeys"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "A Farm",
+      "type": "poem",
+      "topics": [
+        "farm animals",
+        "animal sounds"
+      ],
+      "covers": [
+        "Farm animals and the sounds they make",
+        "Rhyme and repeated lines"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "Fun with Pictures",
+      "type": "unit",
+      "topics": [
+        "objects in pictures",
+        "counting"
+      ],
+      "covers": [
+        "Identifying objects in pictures",
+        "Counting and colouring"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "The Food We Eat",
+      "type": "unit",
+      "topics": [
+        "food",
+        "healthy eating"
+      ],
+      "covers": [
+        "Types of food we eat",
+        "Healthy eating and gratitude for food"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "The Four Seasons",
+      "type": "unit",
+      "topics": [
+        "seasons",
+        "nature"
+      ],
+      "covers": [
+        "Spring, summer, autumn and winter and how nature changes"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Anandi's Rainbow",
+      "type": "unit",
+      "topics": [
+        "rainbow",
+        "colours"
+      ],
+      "covers": [
+        "Colours of the rainbow",
+        "Appreciating nature"
+      ]
+    }
+  ],
+  "gaps": [
+    "Chapter type (story, poem or unit) is not stated by the source for most chapters; 'unit' is used where the source did not say story or poem.",
+    "Grammar and phonics items per chapter were not found. The source only says the book covers letter sounds, letter combinations and basic sentence formation.",
+    "NCERT official site unreachable (ncert.nic.in returned 503 and a TLS error). Detail is from a third-party page."
+  ]
+}

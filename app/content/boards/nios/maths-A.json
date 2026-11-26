@@ -1,0 +1,86 @@
+{
+ "board": "NIOS OBE",
+ "subject": "maths",
+ "level": "A",
+ "approx_class": 3,
+ "book": "Mathematics, Open Basic Education Level A (English medium), NIOS, 2016 print",
+ "modules": [
+  {
+   "module": "All lessons (book has no modules)",
+   "lessons": [
+    {
+     "n": "1",
+     "title": "Reading, understanding, forming and writing numbers",
+     "covers": [
+      "Read and write numbers from 1 to 1000 in digits and in words",
+      "Place value of ones, tens and hundreds",
+      "Find the smallest and greatest four-digit numbers",
+      "Put three-digit numbers in ascending and descending order"
+     ]
+    },
+    {
+     "n": "2",
+     "title": "Addition and subtraction of numbers",
+     "covers": [
+      "Add and subtract one-digit numbers",
+      "Add and subtract two- and three-digit numbers, with and without carrying or borrowing",
+      "Estimate sums and differences",
+      "Add and subtract rupees and paise in shopping and money situations"
+     ]
+    },
+    {
+     "n": "3",
+     "title": "Multiplication",
+     "covers": [
+      "Multiplication as repeated addition",
+      "Learn the tables from 1 to 10",
+      "Multiply one-digit by one-digit numbers",
+      "Multiply two- and three-digit numbers by one- and two-digit numbers (product under 1000)"
+     ]
+    },
+    {
+     "n": "4",
+     "title": "Division",
+     "covers": [
+      "Division as repeated subtraction",
+      "Divide two- and three-digit numbers by one-digit numbers",
+      "Share things equally in everyday situations"
+     ]
+    },
+    {
+     "n": "5",
+     "title": "Fraction",
+     "covers": [
+      "Idea of equal parts of a whole or a group",
+      "Read and write fractions with numerator and denominator",
+      "Halves, thirds and similar parts in daily life"
+     ]
+    },
+    {
+     "n": "6",
+     "title": "Measurement",
+     "covers": [
+      "Measure length in centimetres, metres and kilometres",
+      "Weigh things in grams and kilograms",
+      "Measure liquids in litres and millilitres",
+      "Choose the right unit for a measurement"
+     ]
+    },
+    {
+     "n": "7",
+     "title": "Geometrical figures",
+     "covers": [
+      "Square, rectangle and triangle on a flat surface",
+      "Solid shapes: cuboid, cube, cylinder, cone and sphere",
+      "Make designs with flat shapes",
+      "Draw and measure figures with pencil and ruler"
+     ]
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "The book has no module grouping; all seven lessons sit under one group.",
+  "Assessment sheets (after lessons 2 and 4 and after lesson 7) and the model question paper are not listed."
+ ]
+}

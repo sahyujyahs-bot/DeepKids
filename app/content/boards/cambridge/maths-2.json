@@ -1,1 +1,197 @@
-{"board":"Cambridge Primary","subject":"maths","class":2,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/25127-cambridge-primary-maths-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[],"gaps":["Stage 2 is not in the public outline. It gives examples for Stages 1, 3 and 5 only, so no objectives are listed here.","All strands for Stage 2 (Number, Geometry, Measure, Handling data, Problem solving) are missing. Full list is only on the Cambridge Primary support site (login needed).","The public outline is dated February 2019 (v1.19). The current framework may differ.","class is set to the stage number (Stage 2)."]}
+{
+  "board": "Cambridge Primary",
+  "subject": "maths",
+  "class": 2,
+  "source": "Learner's Book 2nd edition (2683) contents",
+  "topics": [
+    {
+      "topic": "Numbers to 100",
+      "strand": "Number",
+      "subtopics": [
+        "1.1 Numbers to 100",
+        "1.2 Counting up to 100 objects",
+        "1.3 Comparing and ordering numbers"
+      ],
+      "covers": [
+        "Read, write and understand numbers up to 100",
+        "Count larger groups of objects by grouping them",
+        "Compare and put numbers to 100 in order"
+      ]
+    },
+    {
+      "topic": "Geometry",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "2.1 3D shapes",
+        "2.2 2D shape and symmetry",
+        "2.3 Fractions of shapes"
+      ],
+      "covers": [
+        "Name and recognise 3D shapes",
+        "Recognise 2D shapes and lines of symmetry",
+        "Find simple fractions of shapes"
+      ]
+    },
+    {
+      "topic": "Measures",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "3.1 Length",
+        "3.2 Drawing and measuring lines"
+      ],
+      "covers": [
+        "Compare and measure lengths",
+        "Draw and measure straight lines accurately"
+      ]
+    },
+    {
+      "topic": "Statistics",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "4.1 Carroll diagrams and tally charts"
+      ],
+      "covers": [
+        "Sort objects using Carroll diagrams",
+        "Record results in tally charts"
+      ]
+    },
+    {
+      "topic": "Working with numbers to 100",
+      "strand": "Number",
+      "subtopics": [
+        "5.1 Addition",
+        "5.2 Subtraction",
+        "5.3 Multiplication",
+        "5.4 Division"
+      ],
+      "covers": [
+        "Add and subtract within 100",
+        "Begin to multiply and divide with numbers to 100"
+      ]
+    },
+    {
+      "topic": "Money",
+      "strand": "Number",
+      "subtopics": [
+        "6.1 Money"
+      ],
+      "covers": [
+        "Work with amounts of money",
+        "Solve simple everyday problems with money"
+      ]
+    },
+    {
+      "topic": "Time",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "7.1 Units of time and the calendar"
+      ],
+      "covers": [
+        "Know the units of time",
+        "Read and use the calendar"
+      ]
+    },
+    {
+      "topic": "Numbers to 100 (2)",
+      "strand": "Number",
+      "subtopics": [
+        "8.1 Numbers in words, rounding and regrouping",
+        "8.2 Fractions of numbers"
+      ],
+      "covers": [
+        "Write numbers to 100 in words",
+        "Round and regroup tens and ones",
+        "Find fractions of numbers"
+      ]
+    },
+    {
+      "topic": "Statistics (2)",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "9.1 Venn diagrams, lists and tables",
+        "9.2 Pictograms and block graphs"
+      ],
+      "covers": [
+        "Sort information using Venn diagrams",
+        "Organise information in lists and tables",
+        "Read and draw pictograms and block graphs"
+      ]
+    },
+    {
+      "topic": "Calculating",
+      "strand": "Number",
+      "subtopics": [
+        "10.1 Adding and subtracting two 2-digit numbers",
+        "10.2 Connecting addition and subtraction",
+        "10.3 Multiplication",
+        "10.4 Division"
+      ],
+      "covers": [
+        "Add and subtract two 2-digit numbers",
+        "See how addition and subtraction are linked",
+        "Multiply and divide"
+      ]
+    },
+    {
+      "topic": "Geometry (2)",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "11.1 Angles and turns",
+        "11.2 Circles"
+      ],
+      "covers": [
+        "Recognise angles and turns",
+        "Identify and draw circles"
+      ]
+    },
+    {
+      "topic": "Telling the time",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "12.1 Telling the time"
+      ],
+      "covers": [
+        "Read clock times",
+        "Understand how a clock shows hours and minutes"
+      ]
+    },
+    {
+      "topic": "Measures (2)",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "13.1 Mass and temperature",
+        "13.2 Capacity"
+      ],
+      "covers": [
+        "Measure and compare mass and temperature",
+        "Measure and compare capacity"
+      ]
+    },
+    {
+      "topic": "Pattern and probability",
+      "strand": "Statistics and probability",
+      "subtopics": [
+        "14.1 Pattern and probability"
+      ],
+      "covers": [
+        "Continue and make patterns",
+        "Talk about how likely events are"
+      ]
+    },
+    {
+      "topic": "Symmetry, position and movement",
+      "strand": "Geometry and measure",
+      "subtopics": [
+        "15.1 Symmetry, position and movement"
+      ],
+      "covers": [
+        "Find lines of symmetry",
+        "Describe position and movement"
+      ]
+    }
+  ],
+  "gaps": [
+    "The scanned Learner's Book 2 (1342) has no contents page, so the 2nd edition (2683) contents are used.",
+    "Covers are written from the contents subtopics and a few unit opening pages. The unit 'What you will learn' lines were not read for each unit."
+  ]
+}

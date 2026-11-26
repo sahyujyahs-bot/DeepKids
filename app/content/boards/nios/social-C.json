@@ -1,0 +1,67 @@
+{
+  "board": "NIOS OBE",
+  "subject": "social",
+  "level": "C",
+  "approx_class": 8,
+  "book": "Social Science (NIOS Open Basic Education, Level C)",
+  "modules": [
+    {
+      "module": "Social science and how we study the past",
+      "lessons": [
+        {"n": "0", "title": "Social Studies: An Introduction", "covers": ["what social science studies and why", "how history, geography, economics, political science and sociology connect"]},
+        {"n": "1", "title": "Evolution of Human Civilization", "covers": ["how people moved from early life to settled society (title only)"]},
+        {"n": "2", "title": "Vedic Civilization", "covers": ["the Vedic period (title only)"]},
+        {"n": "3", "title": "Life After Vedic Civilization", "covers": ["the period after the Vedic age (title only)"]},
+        {"n": "4", "title": "Social, Economic and Political System after the Mauryas", "covers": ["society, economy and rule after the Mauryas (title only)"]}
+      ]
+    },
+    {
+      "module": "Medieval and colonial history",
+      "lessons": [
+        {"n": "5", "title": "Delhi Sultanate", "covers": ["the Delhi Sultanate (title only)"]},
+        {"n": "6", "title": "Mughals and After Them", "covers": ["the Mughal period and what followed (title only)"]},
+        {"n": "7", "title": "Rule of British Company", "covers": ["rule by the British East India Company (title only)"]},
+        {"n": "8", "title": "British Rule and Independent India", "covers": ["British rule and the move to independence (title only)"]}
+      ]
+    },
+    {
+      "module": "India: land, resources and farming",
+      "lessons": [
+        {"n": "9", "title": "Our Country: India", "covers": ["India's location, size and surrounding seas and mountains", "physical divisions: mountains, plateaus, plains", "climate and the monsoon", "soils, soil conservation, water, forests and biodiversity"]},
+        {"n": "10", "title": "Mineral and Energy Resources of India", "covers": ["minerals used by industry", "traditional and non-traditional energy sources"]},
+        {"n": "11", "title": "Agriculture in India", "covers": ["farming in India (title only)"]},
+        {"n": "12", "title": "Development of Industry", "covers": ["growth of industry (title only)"]}
+      ]
+    },
+    {
+      "module": "Transport, population and economy",
+      "lessons": [
+        {"n": "13", "title": "Means of Transport and Communication", "covers": ["roads, rail, water and air transport; communication (title only)"]},
+        {"n": "14", "title": "Population Explosion and Population Control", "covers": ["population growth and ways to control it (title only)"]},
+        {"n": "15", "title": "Economic Life", "covers": ["how people earn and the economy (title only)"]}
+      ]
+    },
+    {
+      "module": "Government and citizens",
+      "lessons": [
+        {"n": "16", "title": "Nature of Government System", "covers": ["types and working of government (title only)"]},
+        {"n": "17", "title": "Constitution of India", "covers": ["the Constitution (title only)"]},
+        {"n": "18", "title": "State Government", "covers": ["state government (title only)"]},
+        {"n": "19", "title": "Democracy and Local Administration", "covers": ["democracy and local bodies (title only)"]}
+      ]
+    },
+    {
+      "module": "Development today",
+      "lessons": [
+        {"n": "20", "title": "Our Advancing Steps", "covers": ["Skill India and its benefits", "Digital India", "Clean India and cleanliness", "Clean Ganga and the river's importance"]}
+      ]
+    }
+  ],
+  "gaps": [
+    "Source: Social_Science_Level_C.pdf (346 pages, scanned: no text layer). Contents page and the opening pages of lessons 0, 9, 10 and 20 were OCR'd. Other covers are from titles only.",
+    "The contents list 21 lessons (numbered 0 to 20), but the preface says the book has 15 chapters. The preface text looks copied from another level; check the book.",
+    "Lesson numbers in the OCR were partly garbled; numbering 0 to 20 follows the contents page as read at 200 dpi.",
+    "Module grouping is ours, not a NIOS module structure.",
+    "Level C social science is for Class 8 and is far above the 6 to 10 age range; use only for reference."
+  ]
+}

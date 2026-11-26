@@ -1,0 +1,109 @@
+{
+  "board": "NCERT",
+  "subject": "english",
+  "class": 3,
+  "book": "Santoor",
+  "source_urls": [
+    "https://vedantu.com/ncert-solutions/ncert-solutions-class-3-english-santoor",
+    "https://schools.aglasem.com/ncert-books-class-3-english/"
+  ],
+  "source_quality": "third-party",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Colours",
+      "type": "unit",
+      "topics": [],
+      "covers": [
+        "Exploring colours and their significance"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Badal and Moti",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Best Friends",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "Out in the Garden",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "Talking Toys",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Paper Boats",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "The Big Laddoo",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "Thank God",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "Madhu's Wish",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "Night",
+      "type": "poem",
+      "topics": [],
+      "covers": [
+        "A poetic look at nighttime"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "Chanda Mama Counts the Stars",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "Chandrayaan",
+      "type": "unit",
+      "topics": [],
+      "covers": [
+        "A short introduction to India's space mission, Chandrayaan"
+      ]
+    }
+  ],
+  "gaps": [
+    "Sources gave chapter type and a short description only. Vocabulary, grammar and skills per chapter were not found, so those are left empty.",
+    "Chapters with empty covers have no source description. The source gave only the title and type.",
+    "Competishun's list (which adds 'Badal and Moti (continued)', 'Good Food' and 'The Sky') conflicts with the other sources. It was not used.",
+    "NCERT official site unreachable (ncert.nic.in returned 503 and a TLS error). Detail is from third-party pages."
+  ]
+}

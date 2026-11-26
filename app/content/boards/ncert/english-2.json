@@ -1,0 +1,177 @@
+{
+  "board": "NCERT",
+  "subject": "english",
+  "class": 2,
+  "book": "Mridang",
+  "source_urls": [
+    "https://vedantu.com/ncert-solutions/ncert-solutions-class-2-english-mridang"
+  ],
+  "source_quality": "third-party",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "My Bicycle",
+      "type": "unit",
+      "topics": [
+        "bicycle",
+        "excitement"
+      ],
+      "covers": [
+        "A child's excitement about a new bicycle"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Picture Reading",
+      "type": "unit",
+      "topics": [
+        "picture reading",
+        "description"
+      ],
+      "covers": [
+        "Describing what is seen in a picture",
+        "Observation skills"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "It is Fun",
+      "type": "unit",
+      "topics": [
+        "animal actions",
+        "sounds"
+      ],
+      "covers": [
+        "Imitating how animals move and sound"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "Seeing without Seeing",
+      "type": "unit",
+      "topics": [
+        "senses",
+        "touch",
+        "smell"
+      ],
+      "covers": [
+        "Learning about the senses, especially touch and smell"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "Come Back Soon",
+      "type": "unit",
+      "topics": [
+        "separation",
+        "feelings"
+      ],
+      "covers": [
+        "Feelings of missing someone and being reunited"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "Between Home and School",
+      "type": "unit",
+      "topics": [
+        "everyday objects",
+        "places"
+      ],
+      "covers": [
+        "Objects and places met on the way to school"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "This is My Town",
+      "type": "unit",
+      "topics": [
+        "community",
+        "local places"
+      ],
+      "covers": [
+        "Local places and the roles of people in a town"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "A Show of Clouds",
+      "type": "unit",
+      "topics": [
+        "clouds",
+        "imagination"
+      ],
+      "covers": [
+        "Cloud shapes and imaginative comparisons"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "My Name",
+      "type": "unit",
+      "topics": [
+        "names",
+        "identity"
+      ],
+      "covers": [
+        "The meaning of one's name",
+        "Personal identity"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "The Crow",
+      "type": "unit",
+      "topics": [
+        "crow",
+        "birds"
+      ],
+      "covers": [
+        "The crow: its appearance and sounds"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "The Smart Monkey",
+      "type": "story",
+      "topics": [
+        "clever behaviour",
+        "monkey"
+      ],
+      "covers": [
+        "A monkey's clever behaviour"
+      ]
+    },
+    {
+      "n": "12",
+      "title": "Little Drops of Water",
+      "type": "unit",
+      "topics": [
+        "water",
+        "environment"
+      ],
+      "covers": [
+        "Saving water and caring for the environment"
+      ]
+    },
+    {
+      "n": "13",
+      "title": "We are all Indians",
+      "type": "unit",
+      "topics": [
+        "unity",
+        "diversity",
+        "culture"
+      ],
+      "covers": [
+        "Unity in India's cultural diversity"
+      ]
+    }
+  ],
+  "gaps": [
+    "Chapter type is not stated by the source for most chapters; 'unit' is used where the source did not say story or poem.",
+    "No grammar items were listed by the source. Only general sentence formation was mentioned.",
+    "NCERT official site unreachable (ncert.nic.in returned 503 and a TLS error). Detail is from a third-party page."
+  ]
+}

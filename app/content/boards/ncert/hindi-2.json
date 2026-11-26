@@ -1,0 +1,198 @@
+{
+  "board": "NCERT",
+  "subject": "hindi",
+  "class": 2,
+  "book": "Sarangi (सारंगी)",
+  "source_urls": [],
+  "source_quality": "titles-only",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Neema ki Dadi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "2",
+      "title": "Ghar",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Mala ki Chandi ki Payal",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "Maa",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "5",
+      "title": "Thathu aur Main",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Cheenta",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "Tillu Ji",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "8",
+      "title": "Teen Dost",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "9",
+      "title": "Duniya Rang-Birangi",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "Kaun",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "Baingani Jojo",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "12",
+      "title": "Toshiya ka Sapna",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "13",
+      "title": "Taalaab",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "14",
+      "title": "Beej",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "15",
+      "title": "Kisan",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "16",
+      "title": "Mooli",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "17",
+      "title": "Barsaat aur Mendhak",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "18",
+      "title": "Sher aur Choohe ki Dosti",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "19",
+      "title": "Out",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "20",
+      "title": "Chhupan-Chhupai",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "21",
+      "title": "Haathi Cycle Chala Raha Tha",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "22",
+      "title": "Chaar Dishayen",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "23",
+      "title": "Chanda Mama",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "24",
+      "title": "Gire Taal mein Chanda Mama",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "25",
+      "title": "Sabse Bada Chhata",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "26",
+      "title": "Baadal",
+      "type": "unit",
+      "topics": [],
+      "covers": []
+    }
+  ],
+  "gaps": [
+    "Titles only. No chapter description was found. Type is a placeholder 'unit' because the source gave no type. Topics and covers are left empty.",
+    "Titles taken from the app's data.json. No source page was fetched to check them, so they are unverified.",
+    "Chapter types and themes not found.",
+    "Data.json lists this book as Sarangi. The request named Joyful Hindi / Rimjhim; the file follows the app's data."
+  ]
+}

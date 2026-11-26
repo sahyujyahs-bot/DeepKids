@@ -1,0 +1,60 @@
+{
+  "board": "NIOS OBE",
+  "subject": "english",
+  "level": "C",
+  "approx_class": 8,
+  "book": "My Book of English (NIOS Open Basic Education, Level C)",
+  "modules": [
+    {
+      "module": "Lessons 1-5 (before Student's Assignment 1)",
+      "lessons": [
+        {"n": "1", "title": "Beena and Amit", "covers": ["saying your name and age in short sentences", "reading simple self-introductions"]},
+        {"n": "2", "title": "Amit's Family", "covers": ["family words: mother, father, brother, sister", "'X is my father' type sentences about family"]},
+        {"n": "3", "title": "Things I Do", "covers": ["daily-routine verbs: wash, eat, drink, brush, comb, read, play", "filling blanks with the right verb and object"]},
+        {"n": "4", "title": "Beena's School", "covers": ["school things and people (teacher, desk, board, chalk)", "short sentences describing a school day", "rhyming word pairs (pen/hen, cat/mat)"]},
+        {"n": "5", "title": "My Hands And Legs", "covers": ["body parts", "simple sentences about what the body does"]}
+      ]
+    },
+    {
+      "module": "Lessons 6-12 (before Student's Assignment 2)",
+      "lessons": [
+        {"n": "6", "title": "Let's Travel", "covers": ["vehicles: aeroplane, bus, train, ship", "a short rhyming poem read aloud"]},
+        {"n": "7", "title": "Fruits and Vegetables", "covers": ["names of common fruits and vegetables"]},
+        {"n": "8", "title": "Visiting Grandmother", "covers": ["family visit and describing a relative"]},
+        {"n": "9", "title": "Games I Play", "covers": ["names of games", "saying what you play"]},
+        {"n": "10", "title": "Kamla's Family", "covers": ["family words in a second story", "sentences about a family member"]},
+        {"n": "11", "title": "Going To School", "covers": ["getting ready for school in order", "reading a short story about a child going to school"]},
+        {"n": "12", "title": "We are Playing Games Now", "covers": ["present continuous: 'we are playing'", "describing what people are doing now"]}
+      ]
+    },
+    {
+      "module": "Lessons 13-18 (before Student's Assignment 3)",
+      "lessons": [
+        {"n": "13", "title": "I'll be a Pilot", "covers": ["talking about future jobs", "'I will be a ...' sentences"]},
+        {"n": "14", "title": "Trees And Flowers", "covers": ["plants and parts of plants", "simple descriptions of trees and flowers"]},
+        {"n": "15", "title": "What Will You Buy?", "covers": ["shopping words and asking about prices", "'what will you buy' questions and answers"]},
+        {"n": "16", "title": "The Village Fair", "covers": ["a village fair story", "colours and clothes in a short reading passage"]},
+        {"n": "17", "title": "We Missed You Father", "covers": ["missing someone and telling them so", "simple letter-like sentences"]},
+        {"n": "18", "title": "Mohan Uses Please", "covers": ["polite words: please, thank you, sorry", "using good manners in class"]}
+      ]
+    },
+    {
+      "module": "Lessons 19-25 (before Student's Assignment 4)",
+      "lessons": [
+        {"n": "19", "title": "Little Brown Puppy", "covers": ["a short story about an animal", "describing a pet"]},
+        {"n": "20", "title": "My Zoo", "covers": ["names of zoo animals", "saying which animal you like"]},
+        {"n": "21", "title": "Water Harvesting", "covers": ["saving rain water (roof drains, pipes, tank)", "reading a passage about a village practice"]},
+        {"n": "22", "title": "How To Be In The Cricket Team?", "covers": ["sports vocabulary", "how to try for a team"]},
+        {"n": "23", "title": "The Drum", "covers": ["a short story: Raju wants a drum", "how he gets one"]},
+        {"n": "24", "title": "I Wonder", "covers": ["wondering questions", "'I wonder why' sentences"]},
+        {"n": "25", "title": "I Love My Country", "covers": ["patriotic short lines about the country", "reading and speaking short verses"]}
+      ]
+    }
+  ],
+  "gaps": [
+    "Source: OBEEnglish_LevelC.pdf (112 pages, text layer present). Contents list and first pages of lessons 1-6, 11, 16, 18, 21, 23 were read. Covers for the other lessons are from the titles only.",
+    "The book is an early-primary reader (names, family, simple sentences), not Class 8 English. The file does not match the 'approx_class 8' label; check before using it for age 8 to 10 or Level C.",
+    "The book also has four Student's Assignments, a 'New words' list (page 101) and a sample question paper (page 104). Not read.",
+    "Modules are grouped by the Student's Assignment breaks in the book, not by any NIOS module name. The book has no named modules."
+  ]
+}

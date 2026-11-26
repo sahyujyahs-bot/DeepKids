@@ -1,1 +1,106 @@
-{"board":"Cambridge Primary","subject":"english","class":3,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/23894-cambridge-primary-english-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[{"topic":"Reading: explicit and implicit meaning","covers":["Answer questions using single points from a text.","Scan a passage to find specific information.","Identify the main points or gist of a text.","Begin to infer meanings beyond the literal, such as a character's motives.","Work out the meaning of unknown words from their context."]}],"gaps":["Phonics, spelling and vocabulary is not a strand in this outline (three strands: Reading, Writing, Speaking and listening).","Writing: strand objectives are general. No Stage 3 examples are given in the public outline.","Speaking and listening: no Stage 3 objectives are given in the public outline.","The public outline shows Reading examples only.","The public outline is dated February 2019 (v1.19). The current framework may differ. Check the Cambridge Primary support site (login needed).","class is set to the stage number (Stage 3)."]}
+{
+ "board": "Cambridge Primary",
+ "subject": "english",
+ "class": 3,
+ "source": "Learner's Book contents",
+ "topics": [
+  {
+   "topic": "Ordinary days",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads stories about ordinary children and their settings",
+    "Works on verbs, characters and dialogue",
+    "Sequences events, plans a story and writes it",
+    "Improves their own story"
+   ]
+  },
+  {
+   "topic": "Let's have a party",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads and writes party invitations, lists and instructions",
+    "Works out whether a text is fiction or non-fiction",
+    "Plans and writes instructions for a party game",
+    "Improves their instructions"
+   ]
+  },
+  {
+   "topic": "See, hear, feel, enjoy",
+   "strand": "Speaking and listening",
+   "subtopics": [],
+   "covers": [
+    "Changes a poem into a play script and performs it",
+    "Reads and writes poems about the senses",
+    "Writes, performs and publishes a poem"
+   ]
+  },
+  {
+   "topic": "Fiery beginnings",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads myths, legends and fables about fire",
+    "Learns about pronouns, paragraphs and joining sentences",
+    "Plans, writes and improves a fable"
+   ]
+  },
+  {
+   "topic": "Letters",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads letters, postcards and other mail",
+    "Learns how to read carefully, and about apostrophes",
+    "Writes a letter, including a letter of complaint, and improves it"
+   ]
+  },
+  {
+   "topic": "Poems from around the world",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads poems that describe places and countries",
+    "Looks at word pictures and animal songs",
+    "Writes and performs a poem"
+   ]
+  },
+  {
+   "topic": "Dragons and pirates",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads adventure stories about dragons and pirates",
+    "Writes story beginnings and character portraits",
+    "Works on setting, dialogue and paragraphs",
+    "Plans, writes and improves a story"
+   ]
+  },
+  {
+   "topic": "Wonderful world",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads information texts about places",
+    "Uses a library, skims and scans, and looks at how non-fiction is laid out",
+    "Plans a talk and gives it",
+    "Plans, writes and improves an information text"
+   ]
+  },
+  {
+   "topic": "Laughing allowed",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads jokes, wordplay, funny poems and limericks",
+    "Reads calligrams and mnemonics",
+    "Writes and performs a funny poem"
+   ]
+  }
+ ],
+ "gaps": [
+  "Units taken from the contents page only; only the Unit 1 opening page was read.",
+  "The contents page gives no per-unit focus labels, so each unit has one strand chosen from its lesson titles."
+ ]
+}

@@ -1,0 +1,135 @@
+{
+  "board": "NCERT",
+  "subject": "english",
+  "class": 4,
+  "book": "Santoor",
+  "source_urls": [
+    "https://odinnclasses.com/class-4-english-santoor-ncert-solutions/",
+    "https://schools.aglasem.com/ncert-books-class-4-english/"
+  ],
+  "source_quality": "third-party",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Together We Can",
+      "type": "unit",
+      "topics": [
+        "teamwork",
+        "unity"
+      ],
+      "covers": [
+        "Teamwork and unity"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "The Tinkling Bells",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "3",
+      "title": "Be Smart, Be Safe",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "4",
+      "title": "One Thing at a Time",
+      "type": "unit",
+      "topics": [
+        "focus"
+      ],
+      "covers": [
+        "Doing one task at a time to do it well",
+        "Making a list of words (activity)"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "The Old Stag",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "6",
+      "title": "Braille",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "7",
+      "title": "Fit Body, Fit Mind, Fit Nation",
+      "type": "poem",
+      "topics": [
+        "fitness",
+        "sports",
+        "adjectives"
+      ],
+      "covers": [
+        "Fitness, sports and healthy habits",
+        "Adjectives that begin with the same letter as a name"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "The Lagori Champions",
+      "type": "story",
+      "topics": [
+        "village games",
+        "friendship"
+      ],
+      "covers": [
+        "A village game of lagori and a group of friends"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Hekko",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "10",
+      "title": "The Swing",
+      "type": "story",
+      "topics": [],
+      "covers": []
+    },
+    {
+      "n": "11",
+      "title": "A Journey to the Magical Mountains",
+      "type": "story",
+      "topics": [
+        "mountains",
+        "family stories"
+      ],
+      "covers": [
+        "A girl's walks and mountain stories with her grandfather"
+      ]
+    },
+    {
+      "n": "12",
+      "title": "Maheshwar",
+      "type": "unit",
+      "topics": [
+        "history",
+        "Ahilya Bai"
+      ],
+      "covers": [
+        "Ahilya Bai, queen of Maheshwar, and her works there (informational)"
+      ]
+    }
+  ],
+  "gaps": [
+    "Chapter types for most chapters are not stated; 'unit' is used where the source did not say story or poem. Chapter 12 is informational.",
+    "Several chapters have no description in any source found (Tinkling Bells, Be Smart Be Safe, The Old Stag, Braille, Hekko, The Swing). Their covers are left empty.",
+    "Grammar and vocabulary per chapter were not found, except the adjectives item for Chapter 7 and the word-list activity for Chapter 4.",
+    "NCERT official site unreachable (ncert.nic.in returned 503 and a TLS error). Detail is from third-party pages."
+  ]
+}

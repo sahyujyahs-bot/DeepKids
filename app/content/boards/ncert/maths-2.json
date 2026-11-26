@@ -1,0 +1,195 @@
+{
+  "board": "NCERT",
+  "subject": "maths",
+  "class": 2,
+  "book": "Joyful Mathematics, Class 2",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "A Day at the Beach",
+      "topics": [
+        "counting in groups of ten",
+        "tens and ones",
+        "packs and bundles",
+        "counting by skipping"
+      ],
+      "covers": [
+        "Counts shells, boats and fruit at a seashore picture by making groups instead of one by one",
+        "Writes how many tens and loose ones are in a bunch of bananas or a string of shells",
+        "Splits 25, 43, 35 and 58 chikoos into trays of ten and the rest",
+        "Lists things that come in packs of ten",
+        "Matches a number of chikoos to the trays and loose fruit that make it up, with blocks and strips for ten and one"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Shapes Around Us",
+      "topics": [
+        "3D shapes: cube, cuboid, cylinder, cone, sphere",
+        "shapes of everyday objects",
+        "comparing shapes of musical instruments"
+      ],
+      "covers": [
+        "Looks at musical instruments and finds which ones match the shape of a drum or a matka",
+        "Matches everyday objects with the solid shape each one is closest to",
+        "Finds the odd shape out among a set of objects",
+        "Explains how instruments are played, by beating, plucking or blowing",
+        "Talks about how a harmonium's shape differs from a drum's"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "Fun with Numbers",
+      "topics": [
+        "numbers 1 to 100",
+        "number line and number chart",
+        "skip counting in 2s, 5s and 10s",
+        "counting backward",
+        "number patterns"
+      ],
+      "covers": [
+        "Counts beads on a ginladi (bead frame) and makes number cards for numbers like 38 or 98",
+        "Moves along a number strip, forward and backward, to reach a target number",
+        "Plays a guessing game where yes or no questions narrow down a secret number",
+        "Finds the numbers on a number chart that a skip-counting frog lands on",
+        "Completes number patterns and says what comes before a number"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "Shadow Story",
+      "topics": [
+        "shadows and light",
+        "shadow length through the day",
+        "tracing outlines of objects",
+        "shadow puppetry"
+      ],
+      "covers": [
+        "Makes animal shapes with their hands and acts out a shadow play",
+        "Notes when shadows appear and when they disappear",
+        "Changes the position of a torch and sees how the shadow changes",
+        "Compares shadow length at different times of the day",
+        "Traces the outline of everyday objects such as a bottle cap or eraser and matches traces"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "Playing with Lines",
+      "topics": [
+        "vertical, horizontal and slanting lines",
+        "curved lines",
+        "making shapes from straight lines"
+      ],
+      "covers": [
+        "Sorts yoga poses by the lines they make: standing, sleeping, slanting or curved",
+        "Holds a thread taut and then slacken it to see straight and not-straight lines",
+        "Traces missing lines in a picture",
+        "Makes new shapes using straight lines drawn on dot grids"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "Decoration for Festival",
+      "topics": [
+        "adding two-digit numbers",
+        "tens and ones",
+        "carrying over",
+        "number line jumps",
+        "adding large groups"
+      ],
+      "covers": [
+        "Completes a table of flowers in garlands, showing tens and ones for each child",
+        "Adds two numbers by adding tens and ones separately, such as 10 + 2 and 50 + 3",
+        "Works out 25 + 12 and 57 + 34 by counting on or using a number line",
+        "Solves sums like 24 + 43 by breaking one number into tens and ones",
+        "Adds blocks or sticks that two friends have collected"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "Rani's Gift",
+      "topics": [
+        "non-standard units such as hand spans",
+        "estimating and measuring length",
+        "longer and shorter paths"
+      ],
+      "covers": [
+        "Works out why a carpenter's bed measured in hand spans came out different",
+        "Estimates and then measures the length of a desk, a blackboard and a window with a textbook",
+        "Finds the shortest path from home to school, marking it on a picture",
+        "Picks the longest and shortest path between two points and checks with a thread"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "Grouping and Sharing",
+      "topics": [
+        "multiplication as equal groups",
+        "the times sign",
+        "tables of 2, 3, 4, 5 and 10",
+        "arrays"
+      ],
+      "covers": [
+        "Counts wheels of autorickshaws, cars and bicycles by adding equal groups",
+        "Writes repeated addition as multiplication, for example 4 times 2 is 8",
+        "Fills in the number of groups and items in each group for butterflies, octopuses and soldiers",
+        "Builds tables of 2, 3, 5 and 10 by counting groups",
+        "Notices that 4 groups of 3 and 3 groups of 4 give the same total"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Which Season Is It?",
+      "topics": [
+        "months and the calendar",
+        "days in each month",
+        "weeks and days",
+        "time taken by activities",
+        "festivals across seasons"
+      ],
+      "covers": [
+        "Reads a calendar for the year and sorts months by how many days they have",
+        "Counts days in a week and adds days to find a total",
+        "Discusses which seasons they like and why, and which festivals fall in each season",
+        "Says whether an activity takes days, hours or months, such as cooking or growing a plant",
+        "Learns the names of seasons in Hindi and other languages"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Fun at the Fair",
+      "topics": [
+        "rupees and paise in everyday use",
+        "adding and taking away money",
+        "money left after spending",
+        "notes of 100, 200 and 500 rupees"
+      ],
+      "covers": [
+        "Works out how much was spent on rides by adding the cost of each ride",
+        "Finds money left by subtracting spending from the amount given",
+        "Checks a friend's spending by adding back the amounts spent",
+        "Finds the cost of rides using tickets, for example 2 tickets at 15 rupees each",
+        "Learns the larger notes in common use"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "Data Handling",
+      "topics": [
+        "tables and tally",
+        "pictures of data",
+        "most and least",
+        "comparing counts with more than and less than",
+        "a small survey"
+      ],
+      "covers": [
+        "Counts favourite colours and fruits in a picture and fills in a table",
+        "Reads a chart of how students come to school, such as on foot, by bus or by bicycle",
+        "Says which item is liked most and least, and compares counts",
+        "Reads a table of games played and fills in the blanks",
+        "Surveys the families of classmates and records how many people live in each home"
+      ]
+    }
+  ],
+  "gaps": []
+}

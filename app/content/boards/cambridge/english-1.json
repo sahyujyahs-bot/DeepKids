@@ -1,1 +1,109 @@
-{"board":"Cambridge Primary","subject":"english","class":1,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/23894-cambridge-primary-english-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[{"topic":"Reading: explicit and implicit meaning","covers":["Find information in labels, lists and captions.","Predict what happens next in a story.","Talk about events in a story and make simple inferences about characters and events."]}],"gaps":["The public outline lists three strands: Reading, Writing, Speaking and listening. Phonics, spelling and vocabulary is not a strand in this outline.","Writing: the strand objectives are general. No Stage 1 examples are given in the public outline.","Speaking and listening: no Stage 1 objectives are given in the public outline.","The public outline shows examples for Reading only. Reading objectives beyond those examples are not listed.","The public outline is dated February 2019 (v1.19). The current framework may differ. Check the Cambridge Primary support site (login needed).","class is set to the stage number (Stage 1)."]}
+{
+ "board": "Cambridge Primary",
+ "subject": "english",
+ "class": 1,
+ "source": "Learner's Book contents",
+ "topics": [
+  {
+   "topic": "Playing with friends",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads a short story about friends and a bike race",
+    "Retells a story in their own words",
+    "Talks about games and making things, such as a robot and a dragon",
+    "Thinks about stories featuring Bear, Hedgehog and Dragon"
+   ]
+  },
+  {
+   "topic": "Finding out and making",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads labels and signs, including capital letters",
+    "Writes labels of their own",
+    "Follows and checks instructions, including recipes and numbered pictures",
+    "Writes new instructions"
+   ]
+  },
+  {
+   "topic": "Rhyme time",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads and says number rhymes, funny rhymes and silly rhymes",
+    "Notices how rhymes sound",
+    "Reads a rhyme that tells a story",
+    "Changes a rhyme to make a new one"
+   ]
+  },
+  {
+   "topic": "Joining-in stories",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads traditional tales, including Chicken Licken and The Runaway Chapati",
+    "Predicts what happens next and joins in with repeated lines",
+    "Changes characters, the setting or the ending of a traditional tale"
+   ]
+  },
+  {
+   "topic": "Reading to find out",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Finds out about different types of books",
+    "Uses contents pages and an index",
+    "Reads and writes a simple report",
+    "Understands special words and pictures in non-fiction"
+   ]
+  },
+  {
+   "topic": "Rhyme time 2",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Plays with language and sound in poems",
+    "Reads themed poems, birthday rhymes and a rhyme called Bad Day, Good Day",
+    "Changes a rhyme to make a new one"
+   ]
+  },
+  {
+   "topic": "Make-believe stories",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Tunes in to make-believe stories and imagined ideas",
+    "Reads stories such as The Jigaree and Zoom to the Moon",
+    "Thinks of imaginative responses and checks the story",
+    "Acts out a story and writes a make-believe story"
+   ]
+  },
+  {
+   "topic": "Things that have happened",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Retells events in order",
+    "Writes a diary and a recount of a week or a holiday",
+    "Uses connective words to link events",
+    "Writes and checks a letter such as Aman's letter"
+   ]
+  },
+  {
+   "topic": "Poems and rhymes on a theme",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Notices rhyme and repetition in poems",
+    "Compares non-rhyming and descriptive poems",
+    "Reads poems about a theme, such as Every Time I Climb a Tree",
+    "Writes a descriptive poem"
+   ]
+  }
+ ],
+ "gaps": [
+  "Units taken from the contents page only (lesson titles); only the Unit 1 opening page was read.",
+  "The contents page gives no per-unit focus labels, so each unit has one strand chosen from its lesson titles."
+ ]
+}

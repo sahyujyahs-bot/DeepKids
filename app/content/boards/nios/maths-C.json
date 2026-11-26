@@ -1,0 +1,223 @@
+{
+ "board": "NIOS OBE",
+ "subject": "maths",
+ "level": "C",
+ "approx_class": 8,
+ "book": "Mathematics, Open Basic Education Level C (file Math_C_level_103.pdf), NIOS",
+ "modules": [
+  {
+   "module": "Module I: Arithmetic",
+   "lessons": [
+    {
+     "n": "1",
+     "title": "Natural and whole numbers (integers)",
+     "covers": [
+      "Natural and whole numbers and the four operations on them",
+      "Factors, multiples, prime and twin primes",
+      "HCF and LCM",
+      "Divisibility rules"
+     ]
+    },
+    {
+     "n": "2",
+     "title": "Integers",
+     "covers": [
+      "Show integers on a number line and order them",
+      "Absolute value of an integer",
+      "Add, subtract and multiply integers, and use grouping symbols"
+     ]
+    },
+    {
+     "n": "3",
+     "title": "Square, square root, cube and cube root",
+     "covers": [
+      "Squares of numbers and their patterns",
+      "Square roots by factorisation and by division",
+      "Cubes and cube roots of perfect cubes",
+      "Word problems using square and cube roots"
+     ]
+    }
+   ]
+  },
+  {
+   "module": "Module II: Algebra",
+   "lessons": [
+    {
+     "n": "4",
+     "title": "Introduction to algebra",
+     "covers": [
+      "Constants and variables",
+      "Writing a formula, such as the perimeter of a square",
+      "Terms, coefficients, like and unlike terms"
+     ]
+    },
+    {
+     "n": "5",
+     "title": "Algebraic expressions and operations",
+     "covers": [
+      "Types of algebraic expressions, degree and value",
+      "Add, subtract and multiply algebraic expressions"
+     ]
+    },
+    {
+     "n": "6",
+     "title": "Linear equations in one variable",
+     "covers": [
+      "What an equation is; turning sentences into equations",
+      "Solve linear equations by doing the same to both sides",
+      "Solve everyday problems with linear equations"
+     ]
+    }
+   ]
+  },
+  {
+   "module": "Module III: Ratio, percentage and interest",
+   "lessons": [
+    {
+     "n": "7",
+     "title": "Ratio and proportion",
+     "covers": [
+      "Ratio and proportion, and types of proportion",
+      "Unitary method",
+      "Time and work problems"
+     ]
+    },
+    {
+     "n": "8",
+     "title": "Percentage and its applications",
+     "covers": [
+      "Percent as a fraction and as a decimal",
+      "Find a percent of an amount",
+      "Profit, loss and discount"
+     ]
+    },
+    {
+     "n": "9",
+     "title": "Simple and compound interest",
+     "covers": [
+      "Simple interest",
+      "Compound interest"
+     ]
+    }
+   ]
+  },
+  {
+   "module": "Module IV: Geometry",
+   "lessons": [
+    {
+     "n": "10",
+     "title": "Fundamental geometrical concepts",
+     "covers": [
+      "Points, lines, rays and line segments",
+      "Measure and draw line segments with a scale"
+     ]
+    },
+    {
+     "n": "11",
+     "title": "Angles and parallel lines",
+     "covers": [
+      "Measure and draw angles; types of angles",
+      "Pairs of angles",
+      "Parallel, non-parallel and perpendicular lines"
+     ]
+    },
+    {
+     "n": "12",
+     "title": "Triangles and their types",
+     "covers": [
+      "Parts of a triangle; altitudes and medians",
+      "Angle sum property and exterior angles",
+      "Classify triangles; properties of isosceles triangles",
+      "Pythagoras theorem"
+     ]
+    },
+    {
+     "n": "13",
+     "title": "Quadrilaterals and their types",
+     "covers": [
+      "Parts of a quadrilateral",
+      "Sum of the angles of a quadrilateral",
+      "Types such as trapezium and parallelogram"
+     ]
+    },
+    {
+     "n": "14",
+     "title": "Circle",
+     "covers": [
+      "Parts and elements of a circle",
+      "Draw a circle",
+      "Angle in a semicircle; distance of chords from the centre"
+     ]
+    },
+    {
+     "n": "15",
+     "title": "Congruent and symmetric figures",
+     "covers": [
+      "Congruent figures and the tests SSS, SAS, ASA and RHS for triangles",
+      "Symmetry and lines of symmetry"
+     ]
+    }
+   ]
+  },
+  {
+   "module": "Module V: Mensuration and statistics",
+   "lessons": [
+    {
+     "n": "16",
+     "title": "Area of plane figures",
+     "covers": [
+      "Area as the region a figure covers; standard units",
+      "Perimeter of rectilinear figures",
+      "Area of triangle, rectangle, square and parallelogram",
+      "Circumference and area of a circle"
+     ]
+    },
+    {
+     "n": "17",
+     "title": "Volume of solids",
+     "covers": [
+      "Faces, edges and vertices of a cuboid",
+      "Volume of a cube and a cuboid"
+     ]
+    },
+    {
+     "n": "18",
+     "title": "Introduction to statistics",
+     "covers": [
+      "Collecting and presenting data; frequency",
+      "Classifying data into categories",
+      "Bar graphs and choosing a scale",
+      "Pie charts"
+     ]
+    }
+   ]
+  },
+  {
+   "module": "Module VI: Vedic mathematics",
+   "lessons": [
+    {
+     "n": "19",
+     "title": "Introduction to Vedic mathematics",
+     "covers": [
+      "Why teach and learn Vedic mathematics",
+      "The Vedic sutras and what they mean",
+      "Quick addition and subtraction methods using sutras"
+     ]
+    },
+    {
+     "n": "20",
+     "title": "Application of Vedic mathematics",
+     "covers": [
+      "Quick multiplication methods using sutras",
+      "Quick squaring and cube-root methods"
+     ]
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "Class 8 level: above our 6 to 10 age range. Recorded for reference only.",
+  "Covers for lessons 12 to 15, 17 and 19 come from the section headings, not from reading each lesson's first page.",
+  "Lesson 17 has no separate 'From this lesson' list in the text, so its covers come from its section headings."
+ ]
+}

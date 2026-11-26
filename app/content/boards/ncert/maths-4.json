@@ -1,0 +1,249 @@
+{
+  "board": "NCERT",
+  "subject": "maths",
+  "class": 4,
+  "book": "Maths Mela, Class 4",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Shapes Around Us",
+      "topics": [
+        "3D shapes: prisms and pyramids",
+        "faces, corners and edges",
+        "nets of boxes",
+        "building models of monuments"
+      ],
+      "covers": [
+        "Builds a model of a city monument from wooden blocks and names the parts used",
+        "Makes prisms and pyramids from paper and card",
+        "Opens a box into its net and folds it back",
+        "Fills a table counting faces, corners and edges for a cube, cuboid, prism and pyramid",
+        "Notices patterns in the counts, for example that a cube is also a prism"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Hide and Seek",
+      "topics": [
+        "views of objects: top, front and side",
+        "viewing from different positions"
+      ],
+      "covers": [
+        "Matches three drawings of the same brick to the child who drew each one, and explains why they differ",
+        "Works out which view a picture shows: top, front or side",
+        "Decides what a person standing at one spot can see of the children who are hiding",
+        "Looks at a tree from the top and from the front and compares the two"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "Pattern Around Us",
+      "topics": [
+        "counting in arrangements and layers",
+        "patterns with money",
+        "grouping to count fast"
+      ],
+      "covers": [
+        "Counts coconut trees and the coconuts on them by multiplying equal groups",
+        "Counts laddoos and pedas in stacked trays with the same arrangement",
+        "Works out the value of play money laid out in patterns",
+        "Makes amounts such as 36, 125 and 183 rupees with notes and coins and asks classmates to find them",
+        "Compares two ways of arranging coins and writes the number of each"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "Thousands Around Us",
+      "topics": [
+        "numbers up to 1000 and beyond",
+        "place value of 2- and 3-digit numbers",
+        "the Indian number system",
+        "hundreds, tens and ones blocks"
+      ],
+      "covers": [
+        "Writes donation quantities such as 4 ones and 7 tens, or ten more than 312, as numbers",
+        "Shows numbers such as 52 and 145 people with hundred, ten and one blocks",
+        "Estimates large numbers from real life, such as the people at a community lunch",
+        "Places numbers in order and finds the largest of a set",
+        "Lists things in the classroom, school or village that come in counts of 1, 10, 100 or 1000"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "Sharing and Measuring",
+      "topics": [
+        "halves, quarters, thirds and fifths",
+        "parts and wholes",
+        "equal sharing"
+      ],
+      "covers": [
+        "Decides whether one half or two quarters of a sheet is the bigger share",
+        "Folds paper to check whether a shape has been divided into equal parts",
+        "Colours figures that are correctly divided into halves",
+        "Draws a line to split shapes into halves",
+        "Shares a whole into equal parts and names each part"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "Measuring Length",
+      "topics": [
+        "metre, half metre and quarter metre",
+        "centimetres",
+        "adding and comparing lengths",
+        "tall, wide, long, deep"
+      ],
+      "covers": [
+        "Measures a classroom object and checks if it is longer or shorter than a metre",
+        "Makes ropes of 1 metre, half a metre and quarter metre, and finds how they fit together",
+        "Uses a measuring tape or ruler to measure in centimetres",
+        "Finds that tall, wide, deep and long all measure length, depending on how an object is held",
+        "Estimates the length of an object before measuring it"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "The Cleanest Village",
+      "topics": [
+        "money in rupees and paise",
+        "adding up costs",
+        "change and balance",
+        "reading a price list",
+        "planning a trip budget"
+      ],
+      "covers": [
+        "Reads a poster for a school field trip to a village and works out the cost per child",
+        "Works out the cost of fruit and vegetables bought per kilogram",
+        "Finds the balance when a sum of money is paid for a bill, such as 150 rupees paid for 113 rupees of shopping",
+        "Works out how much money is needed for groceries and snacks for a trip",
+        "Checks a shopkeeper's balance using a number line or play money"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "Weigh it, Pour it",
+      "topics": [
+        "grams and kilograms",
+        "litres and millilitres",
+        "estimating weight",
+        "weighing with a balance"
+      ],
+      "covers": [
+        "Orders animals by weight from heaviest to lightest",
+        "Estimates the weight of objects, then checks with a weighing balance",
+        "Works out how many 250 gram packets make 1 kilogram",
+        "Shares a total weight into equal packets, for example 10 packets of 100 grams",
+        "Pours liquid and compares capacities of different containers"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Equal Groups",
+      "topics": [
+        "multiples",
+        "counting in equal jumps",
+        "common multiples",
+        "multiplication statements",
+        "splitting a multiplication"
+      ],
+      "covers": [
+        "Finds which numbers an animal lands on when it jumps 3, 4, 6 or 8 steps at a time",
+        "Works out which numbers are common to two animals' jumps",
+        "Writes multiplication statements, such as 12 times 3 for 12 groups of 3",
+        "Works out the petals in 10 lilies by multiplying groups",
+        "Groups 80 petals in fives to find how many flowers there are, since 5 petals make 1 flower"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Elephants, Tigers, and Leopards",
+      "topics": [
+        "addition of large numbers with carrying",
+        "addition chart",
+        "number games",
+        "reverse and add",
+        "population of animals"
+      ],
+      "covers": [
+        "Plays a two-player game of adding 1 or 2 to reach a target number and works out who wins",
+        "Reads an addition chart and notices patterns in the sums",
+        "Finds the total of two elephant counts in neighbouring states, estimating first",
+        "Reverses a 2-digit number, adds the two, and checks what happens for other numbers",
+        "Adds numbers in ones, tens, hundreds and thousands using place value"
+      ]
+    },
+    {
+      "n": "11",
+      "title": "Fun with Symmetry",
+      "topics": [
+        "lines of symmetry",
+        "mirror reflection",
+        "symmetrical and asymmetrical shapes",
+        "ink blot designs"
+      ],
+      "covers": [
+        "Makes an ink design by folding paper and finds the line of symmetry",
+        "Folds and flies paper aeroplanes and marks the lines of symmetry on them",
+        "Works out where a mirror would show the reflection of one half",
+        "Tests whether a plane made without symmetry flies as well as a symmetrical one",
+        "Shares observations with friends about symmetry"
+      ]
+    },
+    {
+      "n": "12",
+      "title": "Ticking Clocks and Turning Calendar",
+      "topics": [
+        "reading clock time",
+        "hours and minutes in a day",
+        "days in months",
+        "leap years",
+        "days of the week",
+        "expiry dates"
+      ],
+      "covers": [
+        "Works out the number of days in February in 2024 and 2025 and what a leap year is",
+        "Lists the leap years before and after 2024",
+        "Finds the day of the week for yesterday, tomorrow and other days from a given day",
+        "Counts how long a biscuit packet has been made and how many days are left before it expires",
+        "Reads clock times for a doctor's day, from waking up to reaching the hospital"
+      ]
+    },
+    {
+      "n": "13",
+      "title": "The Transport Museum",
+      "topics": [
+        "multiplying by 10",
+        "multiplying by 15 and 5",
+        "splitting a multiplication",
+        "times tables patterns",
+        "product puzzles"
+      ],
+      "covers": [
+        "Multiplies a number by 10 using tens and hundreds blocks",
+        "Builds a times table for 15 and notices the pattern in the answers",
+        "Splits a 5 times 15 arrangement into 5 times 10 and 5 times 5 to find the product",
+        "Fills in a number grid where the row and column products are given",
+        "Counts pebbles in an arrangement and writes it as a multiplication"
+      ]
+    },
+    {
+      "n": "14",
+      "title": "Data Handling",
+      "topics": [
+        "collecting data with a question",
+        "tally marks",
+        "tables of data",
+        "most and least liked",
+        "reading a bar graph"
+      ],
+      "covers": [
+        "Chooses which question will best find the most liked subject in a class",
+        "Records children's answers with letter codes and tallies them",
+        "Fills a table with counts for each subject and finds the most liked",
+        "Asks classmates which gola colour they like best and compares counts",
+        "Shows the results as a pictograph"
+      ]
+    }
+  ],
+  "gaps": []
+}

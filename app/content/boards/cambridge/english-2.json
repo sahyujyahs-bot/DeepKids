@@ -1,1 +1,108 @@
-{"board":"Cambridge Primary","subject":"english","class":2,"source_urls":["https://www.cambridgeinternational.org/languages/vietnam/Images/23894-cambridge-primary-english-curriculum-outline.pdf","https://www.cambridgeinternational.org/Images/596754-changes-to-cambridge-primary-and-lower-secondary.pdf"],"source_quality":"official","topics":[],"gaps":["Stage 2 is not in the public outline. It gives Reading examples for Stages 1, 3 and 5 only, so no objectives are listed here.","All strands for Stage 2 (Reading, Writing, Speaking and listening) are missing. Phonics, spelling and vocabulary is not a strand in this outline.","The public outline is dated February 2019 (v1.19). The current framework may differ. Check the Cambridge Primary support site (login needed).","class is set to the stage number (Stage 2)."]}
+{
+ "board": "Cambridge Primary",
+ "subject": "english",
+ "class": 2,
+ "source": "Learner's Book contents",
+ "topics": [
+  {
+   "topic": "Stories about things we know",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads and understands a story about a bad back and retells it by acting",
+    "Learns about characters, settings and story sequence",
+    "Reads and checks stories such as Bunny Money and Eat Your Peas",
+    "Changes a story and writes some of its own"
+   ]
+  },
+  {
+   "topic": "How to write instructions",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Learns what instructions are and how they are set out",
+    "Uses sequence words and writes lists in the correct order",
+    "Makes notes and checks that instructions are complete",
+    "Improves and changes instructions"
+   ]
+  },
+  {
+   "topic": "Rhymes about places and people we know",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads rhymes about families, brothers and sisters",
+    "Reads rhymes about family eating, good manners and shopping",
+    "Reads a fantasy rhyme about shoes"
+   ]
+  },
+  {
+   "topic": "Tales from around the world",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads traditional tales from other countries, such as How the Bear Lost His Tail and Yoshi the Stonecutter",
+    "Retells stories and summarises their themes and shape",
+    "Acts out speech from a story",
+    "Reviews and compares stories"
+   ]
+  },
+  {
+   "topic": "What is my house made of?",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads about building materials and roofs",
+    "Finds information in diagrams and charts",
+    "Reads explanations and uses a dictionary for longer definitions",
+    "Makes notes, plans and writes an explanation"
+   ]
+  },
+  {
+   "topic": "Poems by famous poets",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads word play and rhythm in poems by well-known poets",
+    "Reads shape poems and poems about rivers",
+    "Writes a poem in the style of a poet they have read"
+   ]
+  },
+  {
+   "topic": "Stories by famous writers",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Reads extracts from The Hodgeheg, The Lost Happy Endings and Little Albatross",
+    "Looks at the language used in each story and talks about likes and dislikes",
+    "Plans, writes and improves their own story, with paragraphs"
+   ]
+  },
+  {
+   "topic": "Things under the sea",
+   "strand": "Reading",
+   "subtopics": [],
+   "covers": [
+    "Finds information in texts and uses a glossary",
+    "Summarises information from a text and from a chart",
+    "Reads and plans a report text, then writes and improves one",
+    "Looks at tense and finds information on a screen"
+   ]
+  },
+  {
+   "topic": "All kinds of creatures",
+   "strand": "Writing",
+   "subtopics": [],
+   "covers": [
+    "Reads jokes and poems about cats and animals and reads aloud",
+    "Plans a poem",
+    "Publishes a poem they have written"
+   ]
+  }
+ ],
+ "gaps": [
+  "Units taken from the contents page only; only the Unit 1 opening page was read.",
+  "Lesson 4 of Unit 9 is not legible on the contents page and is not described here.",
+  "The contents page gives no per-unit focus labels, so each unit has one strand chosen from its lesson titles."
+ ]
+}

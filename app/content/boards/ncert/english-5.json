@@ -1,0 +1,136 @@
+{
+  "board": "NCERT",
+  "subject": "english",
+  "class": 5,
+  "book": "Santoor",
+  "source_urls": [
+    "https://www.studiestoday.com/ncert-solution/583/English.html?page=1"
+  ],
+  "source_quality": "third-party",
+  "chapters": [
+    {
+      "n": "1",
+      "title": "Papa's Spectacles",
+      "type": "story",
+      "topics": [
+        "search",
+        "family"
+      ],
+      "covers": [
+        "Papa depends on his spectacles, shown through a fun search for them"
+      ]
+    },
+    {
+      "n": "2",
+      "title": "Gone with the Scooter",
+      "type": "story",
+      "topics": [
+        "humour",
+        "adventure"
+      ],
+      "covers": [
+        "A funny, adventurous scooter episode"
+      ]
+    },
+    {
+      "n": "3",
+      "title": "The Rainbow",
+      "type": "poem",
+      "topics": [
+        "rainbow",
+        "imagery"
+      ],
+      "covers": [
+        "A rainbow as a bridge between earth and sky, like clouds and ships that link far places"
+      ]
+    },
+    {
+      "n": "4",
+      "title": "The Wise Parrot",
+      "type": "story",
+      "topics": [
+        "clever thinking"
+      ],
+      "covers": [
+        "Presence of mind and clever thinking help escape a trap"
+      ]
+    },
+    {
+      "n": "5",
+      "title": "The Frog",
+      "type": "unit",
+      "topics": [
+        "frog",
+        "nature"
+      ],
+      "covers": [
+        "A playful frog and its life in its surroundings"
+      ]
+    },
+    {
+      "n": "6",
+      "title": "What a Tank!",
+      "type": "unit",
+      "topics": [
+        "water",
+        "community"
+      ],
+      "covers": [
+        "A water tank as a centre of local activity and aquatic life"
+      ]
+    },
+    {
+      "n": "7",
+      "title": "Gilli Danda",
+      "type": "unit",
+      "topics": [
+        "traditional games",
+        "coordination"
+      ],
+      "covers": [
+        "A traditional rural game that builds agility and hand-eye coordination"
+      ]
+    },
+    {
+      "n": "8",
+      "title": "The Decision of the Panchayat",
+      "type": "story",
+      "topics": [
+        "fairness",
+        "justice"
+      ],
+      "covers": [
+        "Fairness and truth through a village panchayat's decision"
+      ]
+    },
+    {
+      "n": "9",
+      "title": "Vocation",
+      "type": "poem",
+      "topics": [
+        "work",
+        "freedom"
+      ],
+      "covers": [
+        "A child's wish to roam and work like everyday workers instead of going to school"
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Glass Bangles",
+      "type": "unit",
+      "topics": [
+        "crafts",
+        "tradition"
+      ],
+      "covers": [
+        "Traditional glass bangle craft and cottage industry"
+      ]
+    }
+  ],
+  "gaps": [
+    "Vocabulary and grammar items per chapter were not found on the source page.",
+    "Chapter types for chapters 5, 6, 7 and 10 are not stated by the source; 'unit' is used there.",
+    "NCERT official site unreachable (ncert.nic.in returned 503 and a TLS error). Detail is from a third-party page."
+  ]
+}
