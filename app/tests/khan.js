@@ -10,12 +10,12 @@ const { chromium } = require("playwright");
   await p.waitForTimeout(500);
   const r = await p.evaluate(async () => {
     const u = await (await fetch("units/sci.energy.stored-energy.L4.json")).json();
-    const none = await (await fetch("units/sci.air.air-around-us.L3.json")).json();
+    const none = await (await fetch("units/sci.air.air-around-us.L1.json")).json();
     return {
       n: (u.khan || []).length,
       own: u.videos.length,
       none: (none.khan || []).length,
-      card: (u.khan || [])[0] ? fxVidCard(u.khan[0], "More from Khan Academy") : "",
+      card: (u.khan || [])[0] ? fxVidCard(u.khan[0], "More to watch") : "",
     };
   });
   check(
@@ -24,8 +24,8 @@ const { chromium } = require("playwright");
     JSON.stringify(r),
   );
   check(
-    "the card has the player and the Khan eyebrow",
-    r.card.includes("data-yt=") && r.card.includes("Khan Academy"),
+    "the card has the player and the More to watch eyebrow",
+    r.card.includes("data-yt=") && r.card.includes("More to watch"),
     "",
   );
   check("a unit with no good match carries none", r.none === 0, r.none);

@@ -164,6 +164,26 @@ const { chromium } = require("playwright");
     ],
     indian: { who: "Lakshmi in Kochi", what: "She watches fishing boats float in the harbour every morning." },
     underdog: { who: "Hypatia of Alexandria", what: "A teacher who studied the instruments that measure water." },
+    quiz: [
+      {
+        q: "Why does a boat float?",
+        opts: ["Water pushes up", "It is light", "Wind"],
+        ans: 0,
+        why: "Water pushes up on it.",
+      },
+      {
+        q: "What matters besides weight?",
+        opts: ["Colour", "Shape", "Name"],
+        ans: 1,
+        why: "Shape changes how much water is pushed aside.",
+      },
+      {
+        q: "A spoon in water usually...",
+        opts: ["floats", "sinks", "glows"],
+        ans: 1,
+        why: "Its weight is more than the push.",
+      },
+    ],
   };
   await p.evaluate((L) => {
     SAMPLE = {
@@ -210,6 +230,40 @@ const { chromium } = require("playwright");
     }),
     "",
   );
+  const ks = await p.evaluate(() => "live|" + Object.keys(S.live)[0]);
+  check(
+    "opening it puts the lesson on today's plan like any lesson, and counts as started",
+    await p.evaluate(
+      (k) => dayPlan(today).some((i) => i.kind === "lesson" && i.u?.k === k) && statusOf(k) === "learning",
+      ks,
+    ),
+    "",
+  );
+  check(
+    "a lesson that is started and not finished is in the plan as one to finish",
+    await p.evaluate((k) => plannedUnits(unitBy(k).subj).some((u) => u.k === k) && statusOf(k) === "learning", ks),
+    "",
+  );
+  await p.evaluate(() => document.querySelector('[data-act="flivedone"]').click());
+  await p.waitForTimeout(300);
+  await p.evaluate(() => {
+    document.getElementById("sheet").close();
+    render();
+  });
+  await p.waitForTimeout(300);
+  check(
+    "once done and closed it stays on today's plan, done, to open again",
+    await p.evaluate((k) => dayPlan(today).some((i) => i.kind === "lesson" && i.u?.k === k && i.done), ks),
+    "",
+  );
+  check("it is in history", await p.evaluate((k) => S.log.some((l) => l.key === k), ks), "");
+  check(
+    "and the refresher can ask about it",
+    await p.evaluate((k) => learnedUnits().some((u) => u.k === k) && qBank(unitBy(k)).length === 3, ks),
+    "",
+  );
+  await p.evaluate(() => ACT.flive({ dataset: { id: Object.keys(S.live)[0] } }));
+  await p.waitForTimeout(400);
   await p.click('[data-act="freqfull"]');
   await p.waitForTimeout(500);
   check(
@@ -227,18 +281,78 @@ const { chromium } = require("playwright");
     (L) => ({
       clean: liveCheck(L).length,
       words: liveCheck({ ...L, intro: ["Mankind has a primitive idea.", "Fine."] }).length,
-      it: liveCheck({ ...L, intro: ["A plant grows in the sun and we water it.", "Fine."] }).length,
+      it: liveItSuspects({ ...L, intro: ["A plant grows in the sun and we water it.", "Fine."] }).length,
+      clearIt: liveCheck({ ...L, intro: ["A plant grows in the sun and we water it.", "Fine."] }).length,
       unsafe: liveCheck({ ...L, tryit: [{ ...L.tryit[0], steps: ["Boil it on the stove.", "Wait."] }] }).length,
     }),
     LESSON,
   );
   check("a good lesson passes our checks", lc.clean === 0, JSON.stringify(lc));
   check(
-    "banned words, 'it' for a plant, and unsafe activities are caught",
-    lc.words > 0 && lc.it > 0 && lc.unsafe > 0,
+    "banned words and unsafe activities are caught, and 'it' after a plant is only a suspect for the second look",
+    lc.words > 0 && lc.it > 0 && lc.clearIt === 0 && lc.unsafe > 0,
     JSON.stringify(lc),
   );
+  await p.evaluate(() => {
+    window.claude = Object.freeze({
+      use: async (n) =>
+        n === "request"
+          ? {
+              mine: async () => [
+                { id: "r2", topic: "zzzqqq", status: "ready", unit_id: "sci.energy.stored-energy.L4" },
+              ],
+              send: async () => {},
+              saw: async () => {},
+              mini: async () => {},
+            }
+          : null,
+    });
+  });
   await p.evaluate(() => loadReady());
+  await p.waitForTimeout(500);
+  check(
+    "when the full lesson is ready it comes onto today's plan",
+    await p.evaluate(() =>
+      dayPlan(today).some((i) => i.kind === "lesson" && i.u?.k === "unit|sci.energy.stored-energy.L4"),
+    ),
+    "",
+  );
+  await p.evaluate(() => document.querySelector('[data-act="fready"]').click());
+  await p.waitForTimeout(500);
+  check(
+    "opening it replaces the quick lesson in history, the refresher and started-not-finished",
+    await p.evaluate(
+      (k) =>
+        S.log.some((l) => l.key === "unit|sci.energy.stored-energy.L4") &&
+        !S.log.some((l) => l.key === k) &&
+        !S.progress[k] &&
+        !(S.qgen || {})[k],
+      ks,
+    ),
+    "",
+  );
+  await p.evaluate(() => {
+    document.getElementById("fxDlg")?.close?.();
+    document.getElementById("sheet").open && document.getElementById("sheet").close();
+    render();
+  });
+  await p.evaluate(() => {
+    S.reqSeen = {};
+    window.claude = Object.freeze({
+      use: async (n) =>
+        n === "request"
+          ? {
+              mine: async () => [
+                { id: "r1", topic: "Pulleys", status: "ready", unit_id: "sci.forces.simple-machines.L5" },
+              ],
+              send: async () => {},
+              saw: async () => {},
+              mini: async () => {},
+            }
+          : null,
+    });
+    return loadReady();
+  });
   await p.waitForTimeout(400);
   check(
     "a lesson that is ready shows on Today with Open it",

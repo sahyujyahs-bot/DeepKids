@@ -146,7 +146,7 @@
       try{return await callAI(input,opts)}finally{run.remove()}}
     async function callAI(input,opts={}){const imgs=[];for(const b of (opts.images||[]).slice(0,8)){const s=await shrink(b,1568,.85);imgs.push({media_type:s.type&&s.type.startsWith("image/")?s.type:"image/jpeg",data:await toB64(s)})}
       const docs=[];for(const b of (opts.docs||[]).slice(0,2))docs.push({media_type:"application/pdf",data:await toB64(b)});
-      const body={input,images:imgs,docs,tier:opts.modelTier||"default"};
+      const body={input,images:imgs,docs,tier:opts.modelTier||"default",log:opts.log};
       let r;try{r=await fetch(C.functionsUrl||(C.supabaseUrl+"/functions/v1/claude"),{method:"POST",headers:{"content-type":"application/json",authorization:"Bearer "+await token(),apikey:C.supabaseAnonKey||""},body:JSON.stringify(body),signal:opts.signal})}catch(e){throw err("unavailable","Couldn't reach DeepKids just now.")}
       let j=null;try{j=await r.json()}catch(e){}
       if(!r.ok)throw err(j?.code||(r.status===429?"rate_limited":r.status===401?"not_granted":"unavailable"),j?.message||("HTTP "+r.status));
@@ -176,18 +176,21 @@
   /* ---------- topics searched with no lesson, quick lessons and full-lesson requests (edge function unit-request) ---------- */
   function makeRequest(){const post=(action,b)=>fn("unit-request",{action,...b});return Object.freeze({send:b=>post("request",b),saw:b=>post("searched",b),mini:b=>post("mini",b),async mine(){return (await post("mine",{})).requests||[]}})}
 
+  /* ---------- what the family asked IAm: read it back, or delete it all ---------- */
+  function makeChats(){return Object.freeze({async list(){const {data,error}=await sb.from("iam_chats").select("id,created_at,place,question,answer").order("created_at",{ascending:false}).limit(60);if(error)throw err("db_error",error.message);return data||[]},async clear(){const {error}=await sb.from("iam_chats").delete().eq("user_id",uid);if(error)throw err("db_error",error.message)}})}
+
   /* ---------- downloads ---------- */
   const downloads=Object.freeze({async save({filename,data}){const blob=data instanceof Blob?data:new Blob([data]);const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=filename||"download";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),30000);return "saved"}});
 
   /* ---------- the window.claude the app expects ---------- */
   const caps={};
-  function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),request:makeRequest(),downloads});
+  function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),request:makeRequest(),chats:makeChats(),downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
     window.DK_PLATFORM={name:"web",edits:makeEdits(),signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
     if(AI==="plus"&&plus.payments)window.DK_PLATFORM.upgrade=upgrade}
 
   /* ---------- without signing in: the family's plan stays on this phone; no database, photos or AI ---------- */
-  function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,request:null,downloads});
+  function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,request:null,chats:null,downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
     try{if(sessionStorage.getItem("dk-gs")){sessionStorage.removeItem("dk-gs");window.gtag&&gtag("event","guest_start")}}catch(e){}
     window.DK_PLATFORM={name:"web",guest:true,edits:{list:async()=>[],canEdit:async()=>false},signOut:async()=>{try{localStorage.removeItem("dk-guest")}catch(e){}location.reload()},user:()=>null,plus:()=>({on:false})}}

@@ -1,0 +1,332 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.family.family.L3": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.food.healthy-food.L1": {
+   "videos": [
+    {
+     "title": "The 5 Fabulous Food Groups",
+     "channel": "SciShow Kids",
+     "youtube": "L9ymkJK2QCU",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Food keeps us healthy: different food groups and why we need each.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Why Do We Drink Water? | Importance Of Water | Stay Hydrated",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "31F0laJjyy8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why the body needs water and drinking enough.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.food.where-food-comes-from.L3": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.forces.changing-motion.L1": {
+   "videos": [
+    {
+     "title": "Work, Force & Energy | What Is Force?",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "5-2NLHB4Gxg",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Forces as pushes and pulls that start, stop and change movement.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Slipping, Sliding Science! | Physics for Kids",
+     "channel": "SciShow Kids",
+     "youtube": "Ps90zArJEJY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Friction as the force that slows things down.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.changing-motion.L3": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.forces.flight.L3": {
+   "videos": [
+    {
+     "title": "How Airplanes Fly! | Airplane Science",
+     "channel": "SciShow Kids",
+     "youtube": "VLpSxHwfU04",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How air moving over wings lets things fly and glide.",
+     "confidence": "medium"
+    },
+    {
+     "title": "How Do Animal Wings Work? | The Science of Flight",
+     "channel": "SciShow Kids",
+     "youtube": "4Bp4MgmT0Co",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How birds' wings let them fly and glide.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.flight.L4": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.forces.how-toys-work.L1": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.forces.measuring-forces.L3": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.habitats.city-nature.L2": {
+   "videos": [
+    {
+     "title": "6 Animals Living Their Best Lives in Cities",
+     "channel": "SciShow",
+     "youtube": "BnTrXzLtNDA",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Wild animals that share our towns and cities.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.water-habitats.L3": {
+   "videos": [
+    {
+     "title": "The Water Bodies",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "bNWuQD7QHBc",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Ponds, rivers, lakes and seas as different watery places.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.water-habitats.L5": {
+   "videos": [
+    {
+     "title": "Glowing Ocean Animals!",
+     "channel": "SciShow Kids",
+     "youtube": "fYsAK24le6U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Deep-sea creatures that make their own light.",
+     "confidence": "high"
+    },
+    {
+     "title": "What is Bioluminescence?",
+     "channel": "Nat Geo Kids",
+     "youtube": "9Z_TWHFEHow",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "How and why deep-sea animals glow.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.where-life-lives.L5": {
+   "videos": [
+    {
+     "title": "What Is Pangaea & Plate Tectonic? | Continental Drift",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "AqrInJ8_Nes",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Drifting continents that carried life apart.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Continental Drift 101",
+     "channel": "National Geographic",
+     "youtube": "Wq9kLzm36h0",
+     "mins": 1,
+     "pitch": "older: watch together",
+     "matches": "Continents moving over time.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.exercise-and-rest.L2": {
+   "videos": [
+    {
+     "title": "Why Do We Need To Exercise? | Sid The Science Kid",
+     "channel": "The Jim Henson Company",
+     "youtube": "zABU5blkeps",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Why exercise keeps the body healthy.",
+     "confidence": "high"
+    },
+    {
+     "title": "Why Do We Sleep?",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "CoCL0IB4u4g",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why we sleep and what rest does for the body.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.exercise-and-rest.L3": {
+   "videos": [
+    {
+     "title": "Why Do We Need To Exercise? | Sid The Science Kid",
+     "channel": "The Jim Henson Company",
+     "youtube": "zABU5blkeps",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Why exercise keeps the body healthy.",
+     "confidence": "high"
+    },
+    {
+     "title": "How Exercise Affects Your Brain?",
+     "channel": "Operation Ouch",
+     "youtube": "XzBt1lOHPyQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Regular exercise and how it helps body and mind.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.feelings-and-wellbeing.L3": {
+   "videos": [
+    {
+     "title": "Why Do We Cry When We're Sad?",
+     "channel": "SciShow Kids",
+     "youtube": "jg9OqtXl6OY",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Feelings and what they do in our bodies.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Why Do We Get Mad?",
+     "channel": "SciShow Kids",
+     "youtube": "8Sd4z7Uk_4Y",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Understanding emotions and handling them well.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.feelings-and-wellbeing.L5": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  },
+  "sci.health.hygiene.L3": {
+   "videos": [
+    {
+     "title": "Why Is Washing Your Hands So Important?!",
+     "channel": "Operation Ouch",
+     "youtube": "k93COJLmJhY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Hand washing for cleanliness and health.",
+     "confidence": "high"
+    },
+    {
+     "title": "What If We Stop Bathing? | Importance Of BATHING",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "l2GdFobEcbI",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why keeping clean matters for health.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.sleep.L2": {
+   "videos": [
+    {
+     "title": "Why Do We Sleep?",
+     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
+     "youtube": "CoCL0IB4u4g",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why we sleep and what rest does for the body.",
+     "confidence": "high"
+    },
+    {
+     "title": "Why Do We Need Sleep Anyway?!",
+     "channel": "Operation Ouch",
+     "youtube": "zr3riJJZbI0",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why we sleep and what happens when we do.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.how-we-know.asking-questions.L1": {
+   "videos": [
+    {
+     "title": "Using Our Senses to Explore the Beach!",
+     "channel": "SciShow Kids",
+     "youtube": "zfnwd1wr-K4",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Observing closely with all the senses.",
+     "confidence": "high"
+    },
+    {
+     "title": "Inspect An Insect",
+     "channel": "SciShow Kids",
+     "youtube": "3166nK3Gym8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Looking closely and noticing details.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.how-we-know.questioning-evidence.L3": {
+   "videos": [
+    {
+     "title": "Why people fall for misinformation",
+     "channel": "TED-Ed",
+     "youtube": "hz6GULbowAk",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Stories that only sound true; questioning what we are told.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.how-we-know.stories-of-discovery.L1": {
+   "videos": [],
+   "note": "No close match from reputable channels."
+  }
+ }
+}

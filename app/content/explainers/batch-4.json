@@ -1,0 +1,222 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.how-we-know.stories-of-discovery.L3": {
+   "videos": [
+    {
+     "title": "Rosalind Franklin: DNA's unsung hero",
+     "channel": "TED-Ed",
+     "youtube": "BIP0lYrdirI",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Who got the credit for a discovery and who was left out.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.india.government-and-rights.L3": {
+   "videos": [
+    {
+     "title": "Globalisation Explained with a Block of Chocolate | RMIT Animated Explainer",
+     "channel": "Creativa",
+     "youtube": "wWElNEqbWuk",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Globalisation: how goods and ideas link countries.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No good kid-level video found for RTE, RTI or MNREGA."
+  },
+  "sci.india.national-identity.L3": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.light.living-light.L3": {
+   "videos": [
+    {
+     "title": "Why do fireflies glow?",
+     "channel": "Mystery Science",
+     "youtube": "9MeVxskSUmc",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Fireflies make their own light.",
+     "confidence": "high"
+    },
+    {
+     "title": "Glowing Ocean Animals!",
+     "channel": "SciShow Kids",
+     "youtube": "fYsAK24le6U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Deep-sea animals make their own light.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing good found for glowing mushrooms."
+  },
+  "sci.making-things.biomimicry.L3": {
+   "videos": [
+    {
+     "title": "Biomimicry 101 - Examples Of How We Copied Nature",
+     "channel": "Tinyverse",
+     "youtube": "V2GvQXvjhLA",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Inventions copied from nature.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.making-things.houses-and-shelter.L3": {
+   "videos": [
+    {
+     "title": "Why do buildings fall in earthquakes?",
+     "channel": "TED-Ed",
+     "youtube": "H4VQul_SmCg",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Building design and safety.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.properties.L1": {
+   "videos": [
+    {
+     "title": "Materials And Their Properties",
+     "channel": "ClickView",
+     "youtube": "340MmuY_osY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Describing materials by their properties.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.properties.L3": {
+   "videos": [
+    {
+     "title": "Hunting for Properties: Crash Course Kids #9.1",
+     "channel": "Crash Course Kids",
+     "youtube": "ZZYnERZe3Cg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Comparing and measuring properties of materials.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.properties.L4": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.sorting-materials.L1": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.sorting-materials.L4": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.testing-materials.L2": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.testing-materials.L3": {
+   "videos": [
+    {
+     "title": "Fair Tests",
+     "channel": "ESB Science Blast",
+     "youtube": "yYMPbKbK1yo",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What makes a test fair.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.testing-materials.L4": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.using-materials.L1": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.using-materials.L3": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.using-materials.L4": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.materials.what-is-it-made-of.L1": {
+   "videos": [
+    {
+     "title": "Materials - Science for Kids",
+     "channel": "Primary World",
+     "youtube": "2td5mfgf1OI",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Naming everyday materials.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.me-and-others.me-and-others.L1": {
+   "videos": [
+    {
+     "title": "Sesame Street: We're Different, We're the Same",
+     "channel": "Sesame Street",
+     "youtube": "hUrjb4SZnxg",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "We are alike and different.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.me-and-others.me-and-others.L3": {
+   "videos": [
+    {
+     "title": "Sesame Street: How to be a Good Friend",
+     "channel": "Sesame Street",
+     "youtube": "4ai7ckER2os",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Friendship.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.mind.sense-of-self.L2": {
+   "videos": [],
+   "note": "No close match found."
+  },
+  "sci.motion.swings-and-pendulums.L3": {
+   "videos": [
+    {
+     "title": "Swings, Slides, and Science",
+     "channel": "SciShow Kids",
+     "youtube": "JvSClZ3vHOI",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How a swing moves back and forth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

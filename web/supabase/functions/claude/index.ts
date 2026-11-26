@@ -6,7 +6,8 @@
 // The app asks for a tier; each tier uses the cheapest model that does that job well:
 //   quick   (sorting what a parent typed, tagging photos, filing the home shelf)  Claude Haiku 5.5
 //   default (questions in a unit, checking work, writing quizzes and topics)      Claude Sonnet 5.5
-// Optional: MODEL_QUICK, MODEL_DEFAULT to change a tier's model, DAILY_CALLS (default 80),
+//   complex (the entrance-test paper)                                              Claude Opus 5.5
+// Optional: MODEL_QUICK, MODEL_DEFAULT, MODEL_COMPLEX to change a tier's model, DAILY_CALLS (default 80),
 //   ALLOWED_ORIGINS, INVITE_ONLY ("true" to require public.invites)
 import Anthropic from "npm:@anthropic-ai/sdk@1.1.0";
 import { createClient } from "npm:@supabase/supabase-js@2.118.0";
@@ -14,12 +15,13 @@ import { createClient } from "npm:@supabase/supabase-js@2.118.0";
 const MODELS: Record<string, string> = {
   quick: Deno.env.get("MODEL_QUICK") ?? "claude-haiku-5-5",
   default: Deno.env.get("MODEL_DEFAULT") ?? "claude-sonnet-5-5",
+  complex: Deno.env.get("MODEL_COMPLEX") ?? "claude-opus-5-5",
 };
 const DAILY_CALLS = Number(Deno.env.get("DAILY_CALLS") ?? "80");
 const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://app.deepkids.in,https://deepkids.in,http://localhost:8788").split(",").map((s) => s.trim());
 const INVITE_ONLY = Deno.env.get("INVITE_ONLY") === "true";
 const REQUIRE_PLUS = Deno.env.get("REQUIRE_PLUS") !== "false";
-const EFFORT: Record<string, "low" | "medium" | "high"> = { quick: "low", default: "medium" };
+const EFFORT: Record<string, "low" | "medium" | "high"> = { quick: "low", default: "medium", complex: "high" };
 const anthropic = new Anthropic({ apiKey: Deno.env.get("ANTHROPIC_API_KEY") });
 const admin = createClient(Deno.env.get("SUPABASE_URL")!, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
 
@@ -81,7 +83,7 @@ Deno.serve(async (req) => {
   const { data: use } = await admin.from("ai_usage").select("calls,in_tokens,out_tokens").eq("user_id", user.id).eq("day", day).maybeSingle();
   if ((use?.calls ?? 0) >= DAILY_CALLS) return reply(req, 429, { code: "rate_limited", message: "That's a lot for one day. Try again tomorrow." });
 
-  let body: { input?: string | Turn[]; images?: Img[]; docs?: Img[]; tier?: string };
+  let body: { input?: string | Turn[]; images?: Img[]; docs?: Img[]; tier?: string; log?: { kind?: string; question?: string; place?: string } };
   try { body = await req.json(); } catch { return reply(req, 400, { code: "bad_request", message: "Bad JSON" }); }
   const imgs = (body.images ?? []).slice(0, 8).filter((i) => /^image\/(jpeg|png|webp|gif)$/.test(i.media_type) && typeof i.data === "string");
   const docs = (body.docs ?? []).slice(0, 2).filter((d) => d.media_type === "application/pdf" && typeof d.data === "string" && d.data.length <= MAX_DOC_B64);
@@ -108,7 +110,7 @@ Deno.serve(async (req) => {
   try {
     const stream = anthropic.beta.messages.stream({
       model,
-      max_tokens: docs.length ? 32000 : 16000,
+      max_tokens: tier === "complex" || docs.length ? 32000 : 16000,
       output_config: { effort: EFFORT[tier] ?? "medium" },
       // Sonnet and Opus can hand a refused or overloaded request to a fallback model; Haiku has no fallback
       ...(model.includes("haiku") ? {} : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" }),
@@ -124,6 +126,9 @@ Deno.serve(async (req) => {
     });
     if (msg.stop_reason === "refusal") return reply(req, 422, { code: "refused", message: "Claude couldn't help with that one. Try wording it differently." });
     const text = msg.content.filter((b) => b.type === "text").map((b) => (b as { text: string }).text).join("\n").trim();
+    // IAm conversations are kept for the family (and as totals for DeepKids); a failure to save never stops the answer
+    if (body.log?.kind === "iam" && body.log.question && text)
+      await admin.from("iam_chats").insert({ user_id: user.id, place: String(body.log.place ?? "").slice(0, 200), question: String(body.log.question).slice(0, 2000), answer: text.slice(0, 8000) }).then(() => {}, () => {});
     return reply(req, 200, { text, json: extractJson(text), truncated: msg.stop_reason === "max_tokens", model: msg.model });
   } catch (e) {
     if (e instanceof Anthropic.RateLimitError) return reply(req, 429, { code: "rate_limited", message: "Busy right now. Try again in a minute." });

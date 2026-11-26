@@ -1,0 +1,317 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.basic-needs.basic-needs.L1": {
+   "videos": [
+    {
+     "title": "Basic Needs of Living Things | Science for Kids",
+     "channel": "Little School",
+     "youtube": "4p5e2l-zd5U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Living things need air, water, food and shelter to live.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.basic-needs.basic-needs.L3": {
+   "videos": [
+    {
+     "title": "Basic Needs of Living Things | Science for Kids",
+     "channel": "Little School",
+     "youtube": "4p5e2l-zd5U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Why living things need air, water and food, and how we look after them.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Why Do We Drink Water? | Importance Of Water | Stay Hydrated | The Dr Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "31F0laJjyy8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why the body needs water, one of our basic needs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.body-parts.L1": {
+   "videos": [
+    {
+     "title": "Parts Of The Body | The Dr. Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "jd3bWUAa9qM",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Names the main body parts and what each does.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.growing-old.L3": {
+   "videos": [
+    {
+     "title": "Why Do We Get Old? The Dr. Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "vckbQvaZQkU",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How bodies change as people grow older.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.growing.L2": {
+   "videos": [
+    {
+     "title": "Why Do We Stop Growing? The Dr. Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "GXF8EkmnrJo",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How humans grow from child to adult.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.teeth.L2": {
+   "videos": [
+    {
+     "title": "Why Do We Have Baby Teeth?",
+     "channel": "SciShow Kids",
+     "youtube": "3Gy_gts86jM",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Milk teeth and adult teeth, and why we have two sets.",
+     "confidence": "high"
+    },
+    {
+     "title": "How Your Teeth Work? - The Dr. Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "tvCeSX9Pthw",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Kinds of teeth, their jobs, and looking after them.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.classification.sorting-living-things.L1": {
+   "videos": [
+    {
+     "title": "Amazing Animal Groups | Science for Kids",
+     "channel": "SciShow Kids",
+     "youtube": "gwH8xGmqGmo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Sorting animals into groups by features we can see.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers animals only, not plants."
+  },
+  "sci.community.community-and-helpers.L3": {
+   "videos": [],
+   "note": "No close match found on reputable channels."
+  },
+  "sci.community.festivals.L3": {
+   "videos": [],
+   "note": "No close match found on reputable channels."
+  },
+  "sci.community.transport-and-communication.L3": {
+   "videos": [
+    {
+     "title": "Invention of Wheel | Who Invented Wheel? | History and Evolution of the Wheel | Dr. Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "6UfoM4UbLak",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "How transport developed, starting from the wheel.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Who Invented Telephone? | Invention of Telephone | The Dr Binocs Show",
+     "channel": "Peekaboo Kidz",
+     "youtube": "VNbFLCZ9KEY",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How communication developed, through the telephone.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.cycles-and-decomposers.L3": {
+   "videos": [
+    {
+     "title": "How Compost Is Made: A Field Trip!",
+     "channel": "SciShow Kids",
+     "youtube": "26IO95Xt5WU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Worms and microbes break down dead plants and food scraps into soil.",
+     "confidence": "high"
+    },
+    {
+     "title": "Worms Are Wonderful | Amazing Animals | Backyard Science | SciShow Kids",
+     "channel": "SciShow Kids",
+     "youtube": "l-zc_1vjLnI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Worms and what they do in soil.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.cycles-and-decomposers.L4": {
+   "videos": [
+    {
+     "title": "How Compost Is Made: A Field Trip!",
+     "channel": "SciShow Kids",
+     "youtube": "26IO95Xt5WU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Where dead plants and food go: they turn back into soil.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.cycles-and-decomposers.L5": {
+   "videos": [
+    {
+     "title": "How Compost Is Made: A Field Trip!",
+     "channel": "SciShow Kids",
+     "youtube": "26IO95Xt5WU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Worms and microbes break down dead plants and food scraps into soil.",
+     "confidence": "high"
+    },
+    {
+     "title": "The carbon cycle - Nathaniel Manning",
+     "channel": "TED-Ed",
+     "youtube": "A4cPmHGegKI",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Carbon cycle in simple words.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.electricity.electrical-safety.L2": {
+   "videos": [],
+   "note": "No close match found on reputable channels."
+  },
+  "sci.electricity.uses-of-electricity.L2": {
+   "videos": [
+    {
+     "title": "What If We Had Never Discovered Electricity? | importance of Electricity in our Daily Life",
+     "channel": "Peekaboo Kidz",
+     "youtube": "MW9i8IltNBc",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Where we use electricity in daily life.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.energy-around-us.L3": {
+   "videos": [],
+   "note": "No close match found on reputable channels."
+  },
+  "sci.environment.caring.L1": {
+   "videos": [
+    {
+     "title": "How Recycling Works! | How to Help Our Earth",
+     "channel": "SciShow Kids",
+     "youtube": "VlRVPum9cp4",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Keeping surroundings clean and caring for Earth by recycling.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.environment.caring.L3": {
+   "videos": [],
+   "note": "No close match found on reputable channels."
+  },
+  "sci.evolution.closest-cousins.L2": {
+   "videos": [
+    {
+     "title": "Things You Probably Didn't Know About Cute Bonobos",
+     "channel": "National Geographic",
+     "youtube": "sN-Hj73ES2U",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How bonobos live, play and care for each other.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Bonobos only."
+  },
+  "sci.evolution.inheritance.L1": {
+   "videos": [
+    {
+     "title": "It's All in the Genes—Inheritance and Variation of Traits | MightyOwl Science | 3rd Grade",
+     "channel": "MightyOwl",
+     "youtube": "ZmTSnZ7Z3Vs",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Children inherit features from parents yet differ.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.story-of-life.L3": {
+   "videos": [
+    {
+     "title": "The RNA Origin of Life",
+     "channel": "NOVA PBS Official",
+     "youtube": "VYQQD0KNOis",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "The RNA idea for how life began.",
+     "confidence": "high"
+    },
+    {
+     "title": "The mysterious origins of life on Earth - Luka Seamus Wright",
+     "channel": "TED-Ed",
+     "youtube": "de1hiS_XjWg",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How life may have begun; an open question.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.family.family.L1": {
+   "videos": [
+    {
+     "title": "Different Kinds of Families",
+     "channel": "AMAZE Org",
+     "youtube": "hpCyiyNqzlE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Families come in many kinds.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

@@ -161,6 +161,7 @@ function settingsView() {
   )}
   ${grp("day", "Plan settings", `Lessons from ${clock(toMins(dayDefaults().start))} · lunch ${clock(toMins(dayDefaults().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm self-start" data-act="gotab" data-tab="week" data-seg="family">Open Plan settings</button>`)}
   ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
+  ${grp("iam", "What you asked IAm", "Kept privately for you; delete any time", iamLogCard())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(toMins(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
@@ -252,7 +253,6 @@ function renderSheetBody(top) {
     parent: parentView,
     swap: swapView,
     jsub: jsubView,
-    live: liveView,
   };
   const h = (V[m] || settingsView)();
   updBack();

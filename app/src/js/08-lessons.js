@@ -888,8 +888,9 @@ function chapterPage() {
 // A topic page has two parts, said plainly: the topic's own lesson (short parts that cover the whole topic) first, then
 // the units that go deeper into single ideas
 function chapterView() {
-  const u = unitBy(ui.sheet.k),
-    U = u?.c?.units || [],
+  const u = unitBy(ui.sheet.k);
+  if (u?.live) return liveView(u.live);
+  const U = u?.c?.units || [],
     M = u?.c?.more || [],
     more = M.length ? moreFromOtherSites(M) : "";
   const unwritten =

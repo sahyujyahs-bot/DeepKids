@@ -162,3 +162,20 @@ create policy "own topics are readable" on public.topic_gaps for select using (a
 --        bool_or(status = 'requested') as requested, bool_or(status = 'mini') as mini
 --   from public.topic_gaps where status <> 'ready' group by topic_key
 --  order by bool_or(status = 'requested') desc, families desc;
+
+-- 11. What families ask IAm: the question and his answer, kept for the family to read and delete, and as totals for DeepKids
+-- (which topics families ask about). Added by the claude edge function when the app sends a log; the family can read and delete its own rows.
+create table if not exists public.iam_chats (
+  id          uuid primary key default gen_random_uuid(),
+  user_id     uuid not null references auth.users(id) on delete cascade,
+  created_at  timestamptz not null default now(),
+  place       text,            -- where in the app they opened IAm
+  question    text not null,
+  answer      text
+);
+alter table public.iam_chats enable row level security;
+create policy "own chats are readable" on public.iam_chats for select using (auth.uid() = user_id);
+create policy "own chats can be deleted" on public.iam_chats for delete using (auth.uid() = user_id);
+-- What families ask about most, as totals (no names):
+-- select left(lower(question), 60) as asked, count(*) as times, count(distinct user_id) as families
+--   from public.iam_chats group by 1 order by families desc, times desc limit 50;

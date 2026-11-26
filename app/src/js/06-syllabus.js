@@ -52,7 +52,7 @@ function collateAt(subj, lvl) {
 function addedUnits(subj, lvl) {
   if (lvl !== S.levels[subj]) return [];
   const ex = (S.extra || {})[subj] || [];
-  return [...DATA.items, ...myBookItems()].filter(
+  return [...DATA.items, ...myBookItems(), ...liveItems()].filter(
     (i) => i.subj === subj && ex.includes(i.k) && !(boardsOn().includes(i.board) && i.level >= lvl),
   );
 }
@@ -343,9 +343,10 @@ function chapterRank(u) {
   return mine * 10 + Math.abs((u.level || lv) - lv);
 }
 function allUnits() {
-  if (_all && _all.n === SHARED.topics.length + myBookItems().length) return _all.u;
-  const u = [...DATA.items, ...SHARED.topics.map(genUnit), ...myBookItems()];
-  _all = { n: SHARED.topics.length + myBookItems().length, u };
+  const n = [SHARED.topics.length, myBookItems().length, JSON.stringify(S.live || {}).length].join("|");
+  if (_all && _all.n === n) return _all.u;
+  const u = [...DATA.items, ...SHARED.topics.map(genUnit), ...myBookItems(), ...liveItems()];
+  _all = { n, u };
   return u;
 }
 const MODES = {

@@ -484,6 +484,7 @@ Conversation so far:\n${FXCHAT.slice(-8)
     const r = await sm(input, {
       purpose: "DeepKids will ask Claude, an AI model made by Anthropic, to answer your question.",
       images: pic ? [pic] : [],
+      log: { kind: "iam", question: q || "(photo)", place: d.dataset.where || "" },
     });
     txt = (r?.text || "").trim() || "Sorry, I couldn't answer that. Try asking another way.";
   } catch (e) {

@@ -8726,7 +8726,7 @@ function collateAt(subj, lvl) {
 function addedUnits(subj, lvl) {
   if (lvl !== S.levels[subj]) return [];
   const ex = (S.extra || {})[subj] || [];
-  return [...DATA.items, ...myBookItems()].filter(
+  return [...DATA.items, ...myBookItems(), ...liveItems()].filter(
     (i) => i.subj === subj && ex.includes(i.k) && !(boardsOn().includes(i.board) && i.level >= lvl),
   );
 }
@@ -9017,9 +9017,10 @@ function chapterRank(u) {
   return mine * 10 + Math.abs((u.level || lv) - lv);
 }
 function allUnits() {
-  if (_all && _all.n === SHARED.topics.length + myBookItems().length) return _all.u;
-  const u = [...DATA.items, ...SHARED.topics.map(genUnit), ...myBookItems()];
-  _all = { n: SHARED.topics.length + myBookItems().length, u };
+  const n = [SHARED.topics.length, myBookItems().length, JSON.stringify(S.live || {}).length].join("|");
+  if (_all && _all.n === n) return _all.u;
+  const u = [...DATA.items, ...SHARED.topics.map(genUnit), ...myBookItems(), ...liveItems()];
+  _all = { n, u };
   return u;
 }
 const MODES = {
@@ -11916,8 +11917,9 @@ function chapterPage() {
 // A topic page has two parts, said plainly: the topic's own lesson (short parts that cover the whole topic) first, then
 // the units that go deeper into single ideas
 function chapterView() {
-  const u = unitBy(ui.sheet.k),
-    U = u?.c?.units || [],
+  const u = unitBy(ui.sheet.k);
+  if (u?.live) return liveView(u.live);
+  const U = u?.c?.units || [],
     M = u?.c?.more || [],
     more = M.length ? moreFromOtherSites(M) : "";
   const unwritten =
@@ -15418,7 +15420,7 @@ function fxCards(u) {
           ),
         );
         (u.khan || []).forEach((v, i) =>
-          add("khan." + i, fxVidCard(v, `▶️ More from Khan Academy · ${v.mins} min · ${esc(v.channel)}`), v.title),
+          add("khan." + i, fxVidCard(v, `▶️ More to watch · ${v.mins} min · ${esc(v.channel)}`), v.title),
         );
         break;
       case "quiz":
@@ -17792,6 +17794,13 @@ async function loadReady() {
   try {
     const R = await window.claude?.use?.("request");
     ui.ready = R ? (await R.mine()).filter((r) => r.status === "ready" && r.unit_id && !(S.reqSeen || {})[r.id]) : [];
+    ui.ready.forEach((r) => {
+      const k = "unit|" + r.unit_id;
+      if (unitBy(k) && !(S.reqPlanned || {})[r.id]) {
+        S.reqPlanned = { ...(S.reqPlanned || {}), [r.id]: 1 };
+        chooseDay(unitBy(k).subj, k, today); // the full lesson comes onto today's plan
+      }
+    });
     if (ui.ready.length && tab === "today") render();
   } catch (e) {
     ui.ready = [];
@@ -17801,7 +17810,7 @@ function readyCard() {
   return (ui.ready || [])
     .map(
       (r) =>
-        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
+        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-t="${esc(r.topic)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
     )
     .join("");
 }
@@ -18179,6 +18188,7 @@ Object.assign(ACT, {
     commit();
   },
   fready(b, e, a, k) {
+    replaceLive(b.dataset.t, k); // the full lesson takes the quick one's place in history, the refresher and started-not-finished
     ACT.fseen(b);
     ACT.chapter(b, e, a, k);
   },
@@ -18369,7 +18379,7 @@ const LIVE_BAN =
   /\b(units?|topics?|mankind|primitive|pests?|too advanced|when you are older|five senses|just a theory|simple organisms?|lower animals?)\b/i;
 const LIVE_UNSAFE =
   /\b(knife|knives|blade|stove|flame|matches|lighter|candle|boiling|mains|socket|bleach|medicine|tablet|pills?)\b/i;
-// "it" soon after a living being, a cell or a molecule that does life's work (a rough check, not a grammar parser)
+// "it" soon after a living being, a cell or a molecule that does life's work (a rough pattern, not a grammar parser)
 const LIVE_IT =
   /\b(plants?|animals?|bacteri(?:a|um)|cells?|RNA|DNA|viruses|virus|fung(?:us|i)|trees?|birds?|seeds?|ribosomes?|people|person|child|children|women|woman|men|man)\b[^.?!]{0,45}\b(it|its|itself)\b/i;
 const liveWords = (x) =>
@@ -18380,6 +18390,8 @@ const liveWords = (x) =>
       : x && typeof x === "object"
         ? Object.values(x).flatMap(liveWords)
         : [];
+// sentences with "it" soon after a living being, a cell or a molecule: only suspects, the second look decides which are real
+const liveItSuspects = (l) => liveWords(l).flatMap((t) => t.split(/(?<=[.?!])\s+/).filter((x) => LIVE_IT.test(x)));
 // what is wrong with a lesson the model wrote, in plain sentences it can fix (empty when it is fine)
 function liveCheck(l) {
   const bad = [],
@@ -18400,6 +18412,12 @@ function liveCheck(l) {
     bad.push("It needs 1 or 2 things to try, each with a name, materials, at least 2 steps and what they should see.");
   if (!has(l.indian?.who) || !has(l.indian?.what)) bad.push("It needs an Indian example with a name.");
   if (!has(l.underdog?.who) || !has(l.underdog?.what)) bad.push("It needs an overlooked scientist or thinker, named.");
+  if (
+    !Array.isArray(l.quiz) ||
+    l.quiz.length !== 3 ||
+    l.quiz.some((x) => !has(x?.q) || (x?.opts || []).length !== 3 || !Number.isInteger(x?.ans) || !x.opts[x.ans])
+  )
+    bad.push("It needs exactly 3 quiz questions, each with 3 options and the number of the right one.");
   const text = liveWords(l);
   text.forEach((t) => {
     const b = t.match(LIVE_BAN);
@@ -18409,12 +18427,6 @@ function liveCheck(l) {
     const u = t.match(LIVE_UNSAFE);
     if (u) bad.push(`The activity uses "${u[0]}", which is not safe for a child at home.`);
   });
-  text.forEach((t) =>
-    t.split(/(?<=[.?!])\s+/).forEach((s) => {
-      if (LIVE_IT.test(s))
-        bad.push(`"${s.slice(0, 90)}" calls a living being, a cell or a molecule "it". Use she, he or they.`);
-    }),
-  );
   return [...new Set(bad)].slice(0, 8);
 }
 const livePrompt = (
@@ -18422,25 +18434,27 @@ const livePrompt = (
   fix = [],
 ) => `You write one short lesson for DeepKids, a homeschool app for Indian families with children aged 6–10. A parent searched for: "${topic.slice(0, 80)}". The child is about ${S.age || 8}.
 ${IAM_VOICE}
-Write it at the right level (1 to 5 = Classes 1 to 5) and at full depth: short words, never fewer ideas, never talk down. About 60% of examples from South India, the rest from all of India. Name a real Indian example and a real overlooked scientist or thinker (a woman or an underdog where it fits), only people you are sure exist. Give what is still argued about or not yet known. Never write the words "unit" or "topic". Activities use only things in an ordinary city home, with no flame, stove, knife, mains electricity or medicine, and the result must really happen.
+Write it at the right level (1 to 5 = Classes 1 to 5) and at full depth: short words, never fewer ideas, never talk down. About 60% of examples from South India, the rest from all of India. Name a real Indian example and a real overlooked scientist or thinker (a woman or an underdog where it fits), only people you are sure exist, spelled the way they are usually spelled (if a name has two common spellings, give both, for example "Sundara Row, also written Rao"), and only dates you are sure of. Give what is still argued about or not yet known. Never write the words "unit" or "topic". Activities use only things in an ordinary city home, with no flame, stove, knife, mains electricity or medicine, and the result must really happen.
 Reply with only JSON:
-{"title":"","subj":"math|eng|hin|sci","level":1,"intro":["2-3 short paragraphs"],"ideas":[{"idea":"","argued":"what is still argued about or not yet known"}],"bigq":["exactly 4 questions with no single answer"],"tryit":[{"name":"","materials":[""],"steps":[""],"expect":"what they should see"}],"indian":{"who":"","what":""},"underdog":{"who":"","what":""}}
+{"title":"","subj":"math|eng|hin|sci","level":1,"intro":["2-3 short paragraphs"],"ideas":[{"idea":"","argued":"what is still argued about or not yet known"}],"bigq":["exactly 4 questions with no single answer"],"tryit":[{"name":"","materials":[""],"steps":[""],"expect":"what they should see"}],"indian":{"who":"","what":""},"underdog":{"who":"","what":""},"quiz":[{"q":"a question that tests the idea, not memory","opts":["","",""],"ans":0,"why":"one sentence"}]}
+The quiz has exactly 3 questions, each with 3 options and the index of the right one.
 ${fix.length ? `Your last try had these problems. Fix every one and keep the rest:\n- ${fix.join("\n- ")}` : ""}`;
-const liveReviewPrompt = (l) =>
-  `Check this children's lesson. List only real problems, each with the exact words: age-gating (too advanced, when you are older), a false simplification, one view given as the whole truth, human-centred wording, anything patriarchal, bias of caste, class, religion, language, city or skin colour, or "it" used for a living being, a cell, RNA, DNA or a virus. Reply with only JSON {"problems":[""]}, an empty list if there are none.\n${JSON.stringify(l)}`;
+const liveReviewPrompt = (l, suspects) =>
+  `Check this children's lesson. List only real problems, each with the exact words: age-gating (too advanced, when you are older), a false simplification, one view given as the whole truth, human-centred wording, anything patriarchal, or bias of caste, class, religion, language, city or skin colour; also any named person, date or place that you are not certain is real and correctly spelled (give the usual spelling). A simple check also flagged these sentences for the word "it": ${JSON.stringify(suspects)}. Add a sentence to the problems only if "it" there really stands for a living being, a cell, a ribosome, RNA, DNA or a virus; leave it out if "it" means a thing, a place or an idea. Reply with only JSON {"problems":[""]}, an empty list if there are none.\n${JSON.stringify(l)}`;
 // writes the lesson: write, check, one rewrite if anything is wrong, one more look, and only then is it shown
 async function liveGenerate(topic) {
   if (!SAMPLE || ui.live) return;
   ui.live = { q: topic };
   render();
+  const ask = (p, tier) => SAMPLE.json(p, { modelTier: tier, cache: false }),
+    problems = async (l) =>
+      liveCheck(l).length ? liveCheck(l) : (await ask(liveReviewPrompt(l, liveItSuspects(l)), "quick"))?.problems || [];
   try {
-    let l = await SAMPLE.json(livePrompt(topic), { modelTier: "default", cache: false }),
-      bad = liveCheck(l);
-    if (!bad.length)
-      bad = (await SAMPLE.json(liveReviewPrompt(l), { modelTier: "quick", cache: false }))?.problems || [];
+    let l = await ask(livePrompt(topic), "default"),
+      bad = await problems(l);
     if (bad.length) {
-      l = await SAMPLE.json(livePrompt(topic, bad), { modelTier: "default", cache: false });
-      bad = liveCheck(l);
+      l = await ask(livePrompt(topic, bad), "default");
+      bad = await problems(l);
     }
     if (bad.length) throw { code: "failed_check" };
     const id = slug(topic) + "-" + newId();
@@ -18456,6 +18470,10 @@ async function liveGenerate(topic) {
         made: today,
       },
     };
+    S.qgen = {
+      ...(S.qgen || {}),
+      ["live|" + id]: l.quiz.map((x) => ({ q: x.q, opts: x.opts, ans: x.ans, a: x.opts[x.ans], why: x.why })),
+    }; // the refresher asks these
     commit();
     window.claude
       ?.use?.("request")
@@ -18474,13 +18492,43 @@ async function liveGenerate(topic) {
   ui.live = null;
   render();
 }
+// a lesson written on request is a lesson like any other: planned, logged in history, started or finished, asked again by the refresher
+const liveItem = (L) => ({
+  k: "live|" + L.id,
+  board: "gen",
+  subj: L.subj,
+  level: L.level,
+  book: "Written for you",
+  n: "★",
+  title: L.title,
+  dk: [],
+  live: L.id,
+  gen: {
+    id: L.id,
+    name: L.title,
+    subj: L.subj,
+    level: L.level,
+    hours: 0.3,
+    tags: [],
+    summary: L.lesson.intro.join(" "),
+    ideas: [],
+    plans: { full: [], busy: [] },
+    related: {},
+  },
+});
+const liveItems = () =>
+  Object.values(S.live || {})
+    .filter((L) => !L.full)
+    .map(liveItem);
 // lessons already written on request that fit what was searched
 function liveHits(q) {
   const w = q
     .toLowerCase()
     .split(/\s+/)
     .filter((x) => x.length > 2);
-  return Object.values(S.live || {}).filter((L) => w.some((x) => (L.q + " " + L.title).toLowerCase().includes(x)));
+  return Object.values(S.live || {}).filter(
+    (L) => !L.full && w.some((x) => (L.q + " " + L.title).toLowerCase().includes(x)),
+  );
 }
 function liveRow(L) {
   return `<div class="findrow"><div class="topic ${subjClass(L.subj)}"><div class="trow"><span class="no">✎</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(L.title)}</b><br><span class="xs muted">${SUBJ[L.subj]} · Class ${L.level} · written for you${L.done ? " · done" : ""}</span></span></div></div><div class="row"><button class="btn xs accent" data-act="flive" data-id="${esc(L.id)}">${L.done ? "Open again" : "Do it now"}</button></div></div>`;
@@ -18500,8 +18548,8 @@ function liveCard(q) {
       : `<button class="btn sm line" data-act="freq" data-q="${esc(q)}">Ask DeepKids to write it · free, in 24 hours</button>`
   }</div>${asked ? `<p class="sm">You asked DeepKids to write this. The full lesson will come here within 24 hours.</p>` : ""}`;
 }
-function liveView() {
-  const L = (S.live || {})[ui.sheet.id];
+function liveView(id) {
+  const L = (S.live || {})[id];
   if (!L) return "";
   const l = L.lesson;
   setSheetTitle(L.title);
@@ -18524,11 +18572,18 @@ Object.assign(ACT, {
     liveGenerate(b.dataset.q);
   },
   flive(b) {
+    const L = S.live[b.dataset.id],
+      k = "live|" + L.id;
+    chooseDay(L.subj, k, today); // it joins today's plan like any lesson, and stays there to open again
+    S.progress[k] = S.progress[k] || { status: "learning", sessions: 0, updated: today };
+    commit();
     sfx("flip");
-    openSheet({ mode: "live", id: b.dataset.id });
+    openSheet({ mode: "chapter", k });
   },
   flivedone(b) {
-    S.live[b.dataset.id].done = today;
+    const L = S.live[b.dataset.id];
+    L.done = today;
+    logSession(unitBy("live|" + L.id), "plan"); // history, and the refresher asks its questions later
     sfx("ok");
     celebrate();
     commit();
@@ -18543,6 +18598,23 @@ Object.assign(ACT, {
     }
   },
 });
+// the full lesson replaces the quick one wherever the quick one was tracked: history, the refresher, started-not-finished and the plan
+function replaceLive(topic, key) {
+  const L = Object.values(S.live || {}).find((x) => x.q.toLowerCase() === String(topic).toLowerCase() && !x.full);
+  if (!L) return;
+  const old = "live|" + L.id;
+  S.log.forEach((e) => {
+    if (e.key === old) {
+      e.key = key;
+      e.title = unitBy(key)?.title || e.title;
+    }
+  });
+  delete S.progress[old];
+  delete (S.qgen || {})[old];
+  Object.keys(S.now || {}).forEach((d) => (S.now[d] = S.now[d].filter((k) => k !== old)));
+  if (S.extra?.[L.subj]) S.extra[L.subj] = S.extra[L.subj].filter((k) => k !== old);
+  L.full = key;
+}
 
 /* Notes and study material: a family's own notes (a PDF or photos of pages) become lessons, each put with the matching
    lesson of the plan (c.with), in the same lesson-pack
@@ -25448,6 +25520,7 @@ Conversation so far:\n${FXCHAT.slice(-8)
     const r = await sm(input, {
       purpose: "DeepKids will ask Claude, an AI model made by Anthropic, to answer your question.",
       images: pic ? [pic] : [],
+      log: { kind: "iam", question: q || "(photo)", place: d.dataset.where || "" },
     });
     txt = (r?.text || "").trim() || "Sorry, I couldn't answer that. Try asking another way.";
   } catch (e) {
@@ -25657,6 +25730,48 @@ function iamFollow() {
   const top = [...document.querySelectorAll("dialog[open]")].filter((d) => d.id !== "fxChat").pop() || document.body;
   if (b.parentElement !== top) top.appendChild(b);
 }
+// what the family asked IAm is kept for them under their account: they can read it here and delete it all
+function iamLogCard() {
+  const L = ui.iamlog;
+  return `<p class="sm">Every question you ask IAm, and his answer, is kept privately under your account. DeepKids uses totals, such as which topics many families ask about, to decide what to write next. You can read it here and delete it any time.</p>
+  <button class="btn sm line" data-act="iamlog">${L ? "Refresh" : "Show what I asked"}</button>${
+    L
+      ? L.length
+        ? `<div class="col">${L.map((r) => `<section class="card"><p class="xs muted">${new Date(r.created_at).toLocaleDateString()}${r.place ? " · " + esc(r.place) : ""}</p><b class="sm">${esc(r.question)}</b><p class="sm">${esc(r.answer || "")}</p></section>`).join("")}</div><button class="btn sm soft" data-act="iamclear">${ui.iamSure ? "Yes, delete it all" : "Delete all of it"}</button>`
+        : `<p class="sm muted">Nothing yet.</p>`
+      : ""
+  }`;
+}
+Object.assign(ACT, {
+  async iamlog() {
+    const C = await window.claude?.use?.("chats");
+    if (!C) return toast("Sign in with Google to keep and read what you ask IAm");
+    try {
+      ui.iamlog = await C.list();
+    } catch (e) {
+      return toast("Couldn't read it just now. Please try again in a moment");
+    }
+    ui.iamSure = false;
+    ui.sopen = "iam";
+    renderSheet();
+  },
+  async iamclear() {
+    if (!ui.iamSure) {
+      ui.iamSure = true;
+      ui.sopen = "iam";
+      return renderSheet();
+    }
+    try {
+      await (await window.claude.use("chats")).clear();
+    } catch (e) {
+      return toast("Couldn't delete it just now. Please try again in a moment");
+    }
+    ui.iamlog = [];
+    ui.iamSure = false;
+    toast("Deleted");
+    renderSheet();
+  },
+});
 
 /* Reading aloud */
 function splitSent(t) {
@@ -26453,6 +26568,7 @@ function settingsView() {
   )}
   ${grp("day", "Plan settings", `Lessons from ${clock(toMins(dayDefaults().start))} · lunch ${clock(toMins(dayDefaults().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm self-start" data-act="gotab" data-tab="week" data-seg="family">Open Plan settings</button>`)}
   ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
+  ${grp("iam", "What you asked IAm", "Kept privately for you; delete any time", iamLogCard())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(toMins(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
@@ -26544,7 +26660,6 @@ function renderSheetBody(top) {
     parent: parentView,
     swap: swapView,
     jsub: jsubView,
-    live: liveView,
   };
   const h = (V[m] || settingsView)();
   updBack();

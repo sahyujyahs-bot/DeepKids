@@ -137,6 +137,10 @@ def card_pic(img):
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 KHAN = {}
 for _f in sorted(glob.glob(os.path.join(APP, 'content', 'khan', '*.json'))): KHAN.update(json.load(open(_f))['units'])
+# explainer videos from other science channels for units Khan has none for (app/content/explainers)
+for _f in sorted(glob.glob(os.path.join(APP, 'content', 'explainers', '*.json'))):
+    for _id, _e in json.load(open(_f))['units'].items():
+        if _e.get('videos') and not KHAN.get(_id, {}).get('videos'): KHAN[_id] = _e
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
     u = json.load(open(f)); t = TL.get(u['id']); CUR = CURS.get(u['id'].split('.')[0], {})

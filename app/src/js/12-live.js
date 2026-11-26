@@ -6,7 +6,7 @@ const LIVE_BAN =
   /\b(units?|topics?|mankind|primitive|pests?|too advanced|when you are older|five senses|just a theory|simple organisms?|lower animals?)\b/i;
 const LIVE_UNSAFE =
   /\b(knife|knives|blade|stove|flame|matches|lighter|candle|boiling|mains|socket|bleach|medicine|tablet|pills?)\b/i;
-// "it" soon after a living being, a cell or a molecule that does life's work (a rough check, not a grammar parser)
+// "it" soon after a living being, a cell or a molecule that does life's work (a rough pattern, not a grammar parser)
 const LIVE_IT =
   /\b(plants?|animals?|bacteri(?:a|um)|cells?|RNA|DNA|viruses|virus|fung(?:us|i)|trees?|birds?|seeds?|ribosomes?|people|person|child|children|women|woman|men|man)\b[^.?!]{0,45}\b(it|its|itself)\b/i;
 const liveWords = (x) =>
@@ -17,6 +17,8 @@ const liveWords = (x) =>
       : x && typeof x === "object"
         ? Object.values(x).flatMap(liveWords)
         : [];
+// sentences with "it" soon after a living being, a cell or a molecule: only suspects, the second look decides which are real
+const liveItSuspects = (l) => liveWords(l).flatMap((t) => t.split(/(?<=[.?!])\s+/).filter((x) => LIVE_IT.test(x)));
 // what is wrong with a lesson the model wrote, in plain sentences it can fix (empty when it is fine)
 function liveCheck(l) {
   const bad = [],
@@ -37,6 +39,12 @@ function liveCheck(l) {
     bad.push("It needs 1 or 2 things to try, each with a name, materials, at least 2 steps and what they should see.");
   if (!has(l.indian?.who) || !has(l.indian?.what)) bad.push("It needs an Indian example with a name.");
   if (!has(l.underdog?.who) || !has(l.underdog?.what)) bad.push("It needs an overlooked scientist or thinker, named.");
+  if (
+    !Array.isArray(l.quiz) ||
+    l.quiz.length !== 3 ||
+    l.quiz.some((x) => !has(x?.q) || (x?.opts || []).length !== 3 || !Number.isInteger(x?.ans) || !x.opts[x.ans])
+  )
+    bad.push("It needs exactly 3 quiz questions, each with 3 options and the number of the right one.");
   const text = liveWords(l);
   text.forEach((t) => {
     const b = t.match(LIVE_BAN);
@@ -46,12 +54,6 @@ function liveCheck(l) {
     const u = t.match(LIVE_UNSAFE);
     if (u) bad.push(`The activity uses "${u[0]}", which is not safe for a child at home.`);
   });
-  text.forEach((t) =>
-    t.split(/(?<=[.?!])\s+/).forEach((s) => {
-      if (LIVE_IT.test(s))
-        bad.push(`"${s.slice(0, 90)}" calls a living being, a cell or a molecule "it". Use she, he or they.`);
-    }),
-  );
   return [...new Set(bad)].slice(0, 8);
 }
 const livePrompt = (
@@ -59,25 +61,27 @@ const livePrompt = (
   fix = [],
 ) => `You write one short lesson for DeepKids, a homeschool app for Indian families with children aged 6–10. A parent searched for: "${topic.slice(0, 80)}". The child is about ${S.age || 8}.
 ${IAM_VOICE}
-Write it at the right level (1 to 5 = Classes 1 to 5) and at full depth: short words, never fewer ideas, never talk down. About 60% of examples from South India, the rest from all of India. Name a real Indian example and a real overlooked scientist or thinker (a woman or an underdog where it fits), only people you are sure exist. Give what is still argued about or not yet known. Never write the words "unit" or "topic". Activities use only things in an ordinary city home, with no flame, stove, knife, mains electricity or medicine, and the result must really happen.
+Write it at the right level (1 to 5 = Classes 1 to 5) and at full depth: short words, never fewer ideas, never talk down. About 60% of examples from South India, the rest from all of India. Name a real Indian example and a real overlooked scientist or thinker (a woman or an underdog where it fits), only people you are sure exist, spelled the way they are usually spelled (if a name has two common spellings, give both, for example "Sundara Row, also written Rao"), and only dates you are sure of. Give what is still argued about or not yet known. Never write the words "unit" or "topic". Activities use only things in an ordinary city home, with no flame, stove, knife, mains electricity or medicine, and the result must really happen.
 Reply with only JSON:
-{"title":"","subj":"math|eng|hin|sci","level":1,"intro":["2-3 short paragraphs"],"ideas":[{"idea":"","argued":"what is still argued about or not yet known"}],"bigq":["exactly 4 questions with no single answer"],"tryit":[{"name":"","materials":[""],"steps":[""],"expect":"what they should see"}],"indian":{"who":"","what":""},"underdog":{"who":"","what":""}}
+{"title":"","subj":"math|eng|hin|sci","level":1,"intro":["2-3 short paragraphs"],"ideas":[{"idea":"","argued":"what is still argued about or not yet known"}],"bigq":["exactly 4 questions with no single answer"],"tryit":[{"name":"","materials":[""],"steps":[""],"expect":"what they should see"}],"indian":{"who":"","what":""},"underdog":{"who":"","what":""},"quiz":[{"q":"a question that tests the idea, not memory","opts":["","",""],"ans":0,"why":"one sentence"}]}
+The quiz has exactly 3 questions, each with 3 options and the index of the right one.
 ${fix.length ? `Your last try had these problems. Fix every one and keep the rest:\n- ${fix.join("\n- ")}` : ""}`;
-const liveReviewPrompt = (l) =>
-  `Check this children's lesson. List only real problems, each with the exact words: age-gating (too advanced, when you are older), a false simplification, one view given as the whole truth, human-centred wording, anything patriarchal, bias of caste, class, religion, language, city or skin colour, or "it" used for a living being, a cell, RNA, DNA or a virus. Reply with only JSON {"problems":[""]}, an empty list if there are none.\n${JSON.stringify(l)}`;
+const liveReviewPrompt = (l, suspects) =>
+  `Check this children's lesson. List only real problems, each with the exact words: age-gating (too advanced, when you are older), a false simplification, one view given as the whole truth, human-centred wording, anything patriarchal, or bias of caste, class, religion, language, city or skin colour; also any named person, date or place that you are not certain is real and correctly spelled (give the usual spelling). A simple check also flagged these sentences for the word "it": ${JSON.stringify(suspects)}. Add a sentence to the problems only if "it" there really stands for a living being, a cell, a ribosome, RNA, DNA or a virus; leave it out if "it" means a thing, a place or an idea. Reply with only JSON {"problems":[""]}, an empty list if there are none.\n${JSON.stringify(l)}`;
 // writes the lesson: write, check, one rewrite if anything is wrong, one more look, and only then is it shown
 async function liveGenerate(topic) {
   if (!SAMPLE || ui.live) return;
   ui.live = { q: topic };
   render();
+  const ask = (p, tier) => SAMPLE.json(p, { modelTier: tier, cache: false }),
+    problems = async (l) =>
+      liveCheck(l).length ? liveCheck(l) : (await ask(liveReviewPrompt(l, liveItSuspects(l)), "quick"))?.problems || [];
   try {
-    let l = await SAMPLE.json(livePrompt(topic), { modelTier: "default", cache: false }),
-      bad = liveCheck(l);
-    if (!bad.length)
-      bad = (await SAMPLE.json(liveReviewPrompt(l), { modelTier: "quick", cache: false }))?.problems || [];
+    let l = await ask(livePrompt(topic), "default"),
+      bad = await problems(l);
     if (bad.length) {
-      l = await SAMPLE.json(livePrompt(topic, bad), { modelTier: "default", cache: false });
-      bad = liveCheck(l);
+      l = await ask(livePrompt(topic, bad), "default");
+      bad = await problems(l);
     }
     if (bad.length) throw { code: "failed_check" };
     const id = slug(topic) + "-" + newId();
@@ -93,6 +97,10 @@ async function liveGenerate(topic) {
         made: today,
       },
     };
+    S.qgen = {
+      ...(S.qgen || {}),
+      ["live|" + id]: l.quiz.map((x) => ({ q: x.q, opts: x.opts, ans: x.ans, a: x.opts[x.ans], why: x.why })),
+    }; // the refresher asks these
     commit();
     window.claude
       ?.use?.("request")
@@ -111,13 +119,43 @@ async function liveGenerate(topic) {
   ui.live = null;
   render();
 }
+// a lesson written on request is a lesson like any other: planned, logged in history, started or finished, asked again by the refresher
+const liveItem = (L) => ({
+  k: "live|" + L.id,
+  board: "gen",
+  subj: L.subj,
+  level: L.level,
+  book: "Written for you",
+  n: "★",
+  title: L.title,
+  dk: [],
+  live: L.id,
+  gen: {
+    id: L.id,
+    name: L.title,
+    subj: L.subj,
+    level: L.level,
+    hours: 0.3,
+    tags: [],
+    summary: L.lesson.intro.join(" "),
+    ideas: [],
+    plans: { full: [], busy: [] },
+    related: {},
+  },
+});
+const liveItems = () =>
+  Object.values(S.live || {})
+    .filter((L) => !L.full)
+    .map(liveItem);
 // lessons already written on request that fit what was searched
 function liveHits(q) {
   const w = q
     .toLowerCase()
     .split(/\s+/)
     .filter((x) => x.length > 2);
-  return Object.values(S.live || {}).filter((L) => w.some((x) => (L.q + " " + L.title).toLowerCase().includes(x)));
+  return Object.values(S.live || {}).filter(
+    (L) => !L.full && w.some((x) => (L.q + " " + L.title).toLowerCase().includes(x)),
+  );
 }
 function liveRow(L) {
   return `<div class="findrow"><div class="topic ${subjClass(L.subj)}"><div class="trow"><span class="no">✎</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(L.title)}</b><br><span class="xs muted">${SUBJ[L.subj]} · Class ${L.level} · written for you${L.done ? " · done" : ""}</span></span></div></div><div class="row"><button class="btn xs accent" data-act="flive" data-id="${esc(L.id)}">${L.done ? "Open again" : "Do it now"}</button></div></div>`;
@@ -137,8 +175,8 @@ function liveCard(q) {
       : `<button class="btn sm line" data-act="freq" data-q="${esc(q)}">Ask DeepKids to write it · free, in 24 hours</button>`
   }</div>${asked ? `<p class="sm">You asked DeepKids to write this. The full lesson will come here within 24 hours.</p>` : ""}`;
 }
-function liveView() {
-  const L = (S.live || {})[ui.sheet.id];
+function liveView(id) {
+  const L = (S.live || {})[id];
   if (!L) return "";
   const l = L.lesson;
   setSheetTitle(L.title);
@@ -161,11 +199,18 @@ Object.assign(ACT, {
     liveGenerate(b.dataset.q);
   },
   flive(b) {
+    const L = S.live[b.dataset.id],
+      k = "live|" + L.id;
+    chooseDay(L.subj, k, today); // it joins today's plan like any lesson, and stays there to open again
+    S.progress[k] = S.progress[k] || { status: "learning", sessions: 0, updated: today };
+    commit();
     sfx("flip");
-    openSheet({ mode: "live", id: b.dataset.id });
+    openSheet({ mode: "chapter", k });
   },
   flivedone(b) {
-    S.live[b.dataset.id].done = today;
+    const L = S.live[b.dataset.id];
+    L.done = today;
+    logSession(unitBy("live|" + L.id), "plan"); // history, and the refresher asks its questions later
     sfx("ok");
     celebrate();
     commit();
@@ -180,3 +225,20 @@ Object.assign(ACT, {
     }
   },
 });
+// the full lesson replaces the quick one wherever the quick one was tracked: history, the refresher, started-not-finished and the plan
+function replaceLive(topic, key) {
+  const L = Object.values(S.live || {}).find((x) => x.q.toLowerCase() === String(topic).toLowerCase() && !x.full);
+  if (!L) return;
+  const old = "live|" + L.id;
+  S.log.forEach((e) => {
+    if (e.key === old) {
+      e.key = key;
+      e.title = unitBy(key)?.title || e.title;
+    }
+  });
+  delete S.progress[old];
+  delete (S.qgen || {})[old];
+  Object.keys(S.now || {}).forEach((d) => (S.now[d] = S.now[d].filter((k) => k !== old)));
+  if (S.extra?.[L.subj]) S.extra[L.subj] = S.extra[L.subj].filter((k) => k !== old);
+  L.full = key;
+}

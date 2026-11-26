@@ -153,3 +153,45 @@ function iamFollow() {
   const top = [...document.querySelectorAll("dialog[open]")].filter((d) => d.id !== "fxChat").pop() || document.body;
   if (b.parentElement !== top) top.appendChild(b);
 }
+// what the family asked IAm is kept for them under their account: they can read it here and delete it all
+function iamLogCard() {
+  const L = ui.iamlog;
+  return `<p class="sm">Every question you ask IAm, and his answer, is kept privately under your account. DeepKids uses totals, such as which topics many families ask about, to decide what to write next. You can read it here and delete it any time.</p>
+  <button class="btn sm line" data-act="iamlog">${L ? "Refresh" : "Show what I asked"}</button>${
+    L
+      ? L.length
+        ? `<div class="col">${L.map((r) => `<section class="card"><p class="xs muted">${new Date(r.created_at).toLocaleDateString()}${r.place ? " · " + esc(r.place) : ""}</p><b class="sm">${esc(r.question)}</b><p class="sm">${esc(r.answer || "")}</p></section>`).join("")}</div><button class="btn sm soft" data-act="iamclear">${ui.iamSure ? "Yes, delete it all" : "Delete all of it"}</button>`
+        : `<p class="sm muted">Nothing yet.</p>`
+      : ""
+  }`;
+}
+Object.assign(ACT, {
+  async iamlog() {
+    const C = await window.claude?.use?.("chats");
+    if (!C) return toast("Sign in with Google to keep and read what you ask IAm");
+    try {
+      ui.iamlog = await C.list();
+    } catch (e) {
+      return toast("Couldn't read it just now. Please try again in a moment");
+    }
+    ui.iamSure = false;
+    ui.sopen = "iam";
+    renderSheet();
+  },
+  async iamclear() {
+    if (!ui.iamSure) {
+      ui.iamSure = true;
+      ui.sopen = "iam";
+      return renderSheet();
+    }
+    try {
+      await (await window.claude.use("chats")).clear();
+    } catch (e) {
+      return toast("Couldn't delete it just now. Please try again in a moment");
+    }
+    ui.iamlog = [];
+    ui.iamSure = false;
+    toast("Deleted");
+    renderSheet();
+  },
+});

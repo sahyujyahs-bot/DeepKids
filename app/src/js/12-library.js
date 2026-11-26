@@ -740,6 +740,13 @@ async function loadReady() {
   try {
     const R = await window.claude?.use?.("request");
     ui.ready = R ? (await R.mine()).filter((r) => r.status === "ready" && r.unit_id && !(S.reqSeen || {})[r.id]) : [];
+    ui.ready.forEach((r) => {
+      const k = "unit|" + r.unit_id;
+      if (unitBy(k) && !(S.reqPlanned || {})[r.id]) {
+        S.reqPlanned = { ...(S.reqPlanned || {}), [r.id]: 1 };
+        chooseDay(unitBy(k).subj, k, today); // the full lesson comes onto today's plan
+      }
+    });
     if (ui.ready.length && tab === "today") render();
   } catch (e) {
     ui.ready = [];
@@ -749,7 +756,7 @@ function readyCard() {
   return (ui.ready || [])
     .map(
       (r) =>
-        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
+        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-t="${esc(r.topic)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
     )
     .join("");
 }
@@ -1127,6 +1134,7 @@ Object.assign(ACT, {
     commit();
   },
   fready(b, e, a, k) {
+    replaceLive(b.dataset.t, k); // the full lesson takes the quick one's place in history, the refresher and started-not-finished
     ACT.fseen(b);
     ACT.chapter(b, e, a, k);
   },

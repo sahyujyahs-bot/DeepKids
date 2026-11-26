@@ -1,0 +1,297 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "mind.thinking-and-memory.L3": {
+   "videos": [],
+   "note": "Batch entry has no name, topic or covers text; nothing to match."
+  },
+  "sci.air.air-around-us.L1": {
+   "videos": [],
+   "note": "No reputable non-duplicate match found."
+  },
+  "sci.air.air-around-us.L3": {
+   "videos": [
+    {
+     "title": "How heavy is air? - Dan Quinn",
+     "channel": "TED-Ed",
+     "youtube": "VDf00z8sMFw",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Air has weight and takes up space.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.air.air-around-us.L4": {
+   "videos": [
+    {
+     "title": "How heavy is air? - Dan Quinn",
+     "channel": "TED-Ed",
+     "youtube": "VDf00z8sMFw",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Air presses on everything around us, the idea behind air pressure.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.animal-societies.L3": {
+   "videos": [
+    {
+     "title": "The family structure of elephants - Caitlin O'Connell-Rodwell",
+     "channel": "TED-Ed",
+     "youtube": "VXHRtoH0kIQ",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Elephant herds and the roles of females and the matriarch.",
+     "confidence": "high"
+    },
+    {
+     "title": "Why elephants never forget - Alex Gendler",
+     "channel": "TED-Ed",
+     "youtube": "lSXNqsOoURg",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "The matriarch's memory guides the herd.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.animal-societies.L4": {
+   "videos": [
+    {
+     "title": "Inside A Termite Fortress | Seasonal Wonderlands | BBC Earth",
+     "channel": "BBC Earth",
+     "youtube": "23N1mOm9Cv0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How termites build and run a mound together.",
+     "confidence": "high"
+    },
+    {
+     "title": "How Do Honeybees Get Their Jobs?",
+     "channel": "National Geographic",
+     "youtube": "9ePic3dtykk",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "How bees in a hive share the work.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.foraging-and-survival.L3": {
+   "videos": [
+    {
+     "title": "Camouflage: Animal Hide & Seek",
+     "channel": "SciShow Kids",
+     "youtube": "YOIRci0CKzg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How animals hide to survive (covers hiding, not hunting or grazing).",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.migration.L3": {
+   "videos": [
+    {
+     "title": "Migrations: Big Animal Trips | Science for Kids",
+     "channel": "SciShow Kids",
+     "youtube": "hMAS4SdPj-w",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Animals that travel long distances each year.",
+     "confidence": "high"
+    },
+    {
+     "title": "Bird migration, a perilous journey - Alyssa Klavans",
+     "channel": "TED-Ed",
+     "youtube": "Q-mMMpl_T80",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Why and how birds make their yearly journeys.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.migration.L4": {
+   "videos": [],
+   "note": "No confident match for body fuel and wings for migration."
+  },
+  "sci.animals.animal-babies.L1": {
+   "videos": [],
+   "note": "Only toddler-song or unclear-source results; none good."
+  },
+  "sci.animals.animal-babies.L2": {
+   "videos": [
+    {
+     "title": "Why Are Some Animal Babies So Helpless?",
+     "channel": "SciShow",
+     "youtube": "mCtFU_eezWo",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Caring for young: why some babies need parents and others do not.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-bodies.L2": {
+   "videos": [
+    {
+     "title": "Weird Animal Teeth",
+     "channel": "SciShow Kids",
+     "youtube": "TG3fyVOWqJY",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Teeth fitted to different foods.",
+     "confidence": "high"
+    },
+    {
+     "title": "How Do Animal Wings Work? | The Science of Flight",
+     "channel": "SciShow Kids",
+     "youtube": "4Bp4MgmT0Co",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How wings let animals fly.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-bodies.L4": {
+   "videos": [],
+   "note": "No video on camel, woodpecker or octopus from a reputable channel that wasn't already covered."
+  },
+  "sci.animals.animal-life-cycles.L5": {
+   "videos": [
+    {
+     "title": "Cicadas: The dormant army beneath your feet - Rose Eveleth",
+     "channel": "TED-Ed",
+     "youtube": "8iaoEkpnvVk",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "The strange cicada life cycle underground (not salmon, jellyfish or why many young).",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-minds.L3": {
+   "videos": [
+    {
+     "title": "How smart are crows? - Katharina Brecht",
+     "channel": "TED-Ed",
+     "youtube": "wQ-GmWy_zmM",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Crows learn, remember and use tools.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-minds.L4": {
+   "videos": [
+    {
+     "title": "Why Monkeys Can Only Count To Four",
+     "channel": "MinuteEarth",
+     "youtube": "-9XKiOXaHlI",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Whether animals can count and what that means.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-minds.L5": {
+   "videos": [
+    {
+     "title": "Inside the minds of animals - Bryan B Rasmussen",
+     "channel": "TED-Ed",
+     "youtube": "BDJ8xyQjyhM",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "What animals may think and feel; the consciousness question.",
+     "confidence": "high"
+    },
+    {
+     "title": "Do animals have language? - Michele Bishop",
+     "channel": "TED-Ed",
+     "youtube": "_1FY5kL_zXU",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Animal communication such as bee dances.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animals-around-us.L1": {
+   "videos": [],
+   "note": "Only nursery-rhyme style results; none good."
+  },
+  "sci.animals.animals-around-us.L3": {
+   "videos": [],
+   "note": "No match for animal habits and a week of watching."
+  },
+  "sci.animals.birds.L1": {
+   "videos": [
+    {
+     "title": "Why Do Birds Sing? | Animal Science for Kids",
+     "channel": "SciShow Kids",
+     "youtube": "ytPVMoHLumo",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Bird songs and why birds sing.",
+     "confidence": "high"
+    },
+    {
+     "title": "All About Birds for Children: Animal Learning for Kids - FreeSchool",
+     "channel": "Free School",
+     "youtube": "jF0Id-hH9y4",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Feathers, beaks and nests of birds.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.courtship-and-mates.L4": {
+   "videos": [
+    {
+     "title": "Peacock Courtship | World's Weirdest",
+     "channel": "Nat Geo Animals",
+     "youtube": "TTwT1-TpFhE",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "A peacock's display to attract a mate.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.courtship-and-mates.L5": {
+   "videos": [
+    {
+     "title": "The Sexy Paradox That Stumped Darwin",
+     "channel": "Be Smart",
+     "youtube": "xEJrlQYkuVo",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Sexual selection: why peacock tails evolved. Parent to preview, title says 'sexy'.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

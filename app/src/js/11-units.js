@@ -717,7 +717,7 @@ function fxCards(u) {
           ),
         );
         (u.khan || []).forEach((v, i) =>
-          add("khan." + i, fxVidCard(v, `▶️ More from Khan Academy · ${v.mins} min · ${esc(v.channel)}`), v.title),
+          add("khan." + i, fxVidCard(v, `▶️ More to watch · ${v.mins} min · ${esc(v.channel)}`), v.title),
         );
         break;
       case "quiz":
