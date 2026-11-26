@@ -1,0 +1,40 @@
+{
+  "id": "stayqrious",
+  "name": "StayQrious Neoschool",
+  "kind": "online-school",
+  "url": "https://stayqrious.com",
+  "board": [
+    "Cambridge"
+  ],
+  "classes": "3-8 (admissions page; 'below Grade 3' is an option on the form)",
+  "languages": [],
+  "format": "live, online pods of 8 students with 1 coach (8:1)",
+  "timings": "4 hours a day, Monday to Friday, 9:30am-2:30pm IST (5 days a week)",
+  "timings_note": null,
+  "subjects_primary": [
+    "Mathematics",
+    "Science",
+    "English Language Arts",
+    "Computational Thinking"
+  ],
+  "curriculum": {
+    "summary": "Fully online and project-based, on a Cambridge pathway. Primary years cover maths, science, English language arts and computational thinking, with durable skills as a core subject. Grades 4-5 have their own curriculum page.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "Annual fee of Rs 2,60,000 shown on the admissions form; the page does not say it is for primary grades only.",
+  "how_to_check": "Admissions form on stayqrious.com shows the annual fee; curriculum page lists grade outcomes.",
+  "source_urls": [
+    "https://stayqrious.com",
+    "https://stayqrious.com/curriculum/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "classes for Grades 1-2",
+    "languages of instruction",
+    "syllabus_url",
+    "topics_by_period",
+    "timings_note (no variation stated)",
+    "Grades 4-5 primary curriculum page not read"
+  ]
+}

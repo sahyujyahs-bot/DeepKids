@@ -1,0 +1,44 @@
+{
+  "id": "k12",
+  "name": "K12 Schools Indian Curriculum",
+  "kind": "online-school",
+  "url": "https://k12onlineschools.com",
+  "board": [
+    "CBSE",
+    "NIOS"
+  ],
+  "classes": "1-5 (Indian track primary); Nursery-12 overall",
+  "languages": [],
+  "format": "live interactive classes in a virtual classroom; 1:20 class size",
+  "timings": "4 hours 10 minutes a day, Monday to Friday plus alternate Saturdays",
+  "timings_note": "Alternate Saturdays; exact clock times not shown.",
+  "subjects_primary": [
+    "English",
+    "Second language (compulsory)",
+    "Mathematics",
+    "Social Studies/Science",
+    "Yoga and Mindfulness",
+    "Arts",
+    "ICT"
+  ],
+  "curriculum": {
+    "summary": "Follows the National Curriculum Framework 2020 for Grades 1-5, with textbooks and workbooks sent home. A third language (French or German) is optional from Grade 3; STEM is an optional add-on.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "No amounts on the pages read; an admission fees policy and a pay-fees page are linked from the site.",
+  "how_to_check": "Primary School page on k12onlineschools.com for hours; fee policy page is linked from the menu.",
+  "source_urls": [
+    "https://k12onlineschools.com/?p=6145",
+    "https://k12onlineschools.com/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction",
+    "clock timings",
+    "syllabus_url",
+    "topics_by_period",
+    "fee amounts",
+    "fee policy page not read"
+  ]
+}

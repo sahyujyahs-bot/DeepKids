@@ -1,0 +1,44 @@
+{
+  "id": "vikalp",
+  "name": "Vikalp Online School",
+  "kind": "online-school",
+  "url": "https://vikalpindia.com",
+  "board": [
+    "NIOS",
+    "CBSE"
+  ],
+  "classes": "Nursery-12",
+  "languages": [
+    "English",
+    "Hindi",
+    "French",
+    "Spanish"
+  ],
+  "format": "mixed: digital sessions plus offline activities and workbooks; small groups, no size stated",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "Activity-based, hands-on learning based on NCERT, with experiments and projects followed by workbook work. The school states NIOS exams for Classes 10 and 12 and CBSE pathways through a partner. Primary subjects are not named on the page.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "No fee page found; contact the school (listed on the primary page) for current fees.",
+  "source_urls": [
+    "https://vikalpindia.com",
+    "https://vikalpindia.com/primary"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "classes 1-5 subject list",
+    "timings",
+    "days per week",
+    "live or recorded",
+    "class size",
+    "teaching medium (languages listed are course options)",
+    "syllabus_url",
+    "topics_by_period",
+    "fee amounts"
+  ]
+}

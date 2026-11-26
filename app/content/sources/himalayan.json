@@ -1,0 +1,42 @@
+{
+  "id": "himalayan",
+  "name": "The Himalayan School",
+  "kind": "online-school",
+  "url": "https://thehimalayanschool.in",
+  "board": [
+    "Cambridge"
+  ],
+  "classes": "1-12 (primary pages cover Grades 1-5)",
+  "languages": [],
+  "format": "live classes, 1:20 class size; recorded lessons also available on the LMS",
+  "timings": "About 4 hours of live classes a day, Monday to Friday; clock times not shown",
+  "timings_note": "Total instruction time listed as 4 hours 30 minutes a day.",
+  "subjects_primary": [
+    "English",
+    "Mathematics",
+    "Science",
+    "Language (second language, not named)"
+  ],
+  "curriculum": {
+    "summary": "Follows the Cambridge primary curriculum (British-based) for Grades 1-5, with live classes and reference PDFs and worksheets on the LMS. The Indian track is a separate option that the site describes as CBSE-mapped.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "Fee tables are images on the fees page and could not be read.",
+  "how_to_check": "Fees page at thehimalayanschool.in/fees/ (tables are images; ask admissions).",
+  "source_urls": [
+    "https://thehimalayanschool.in/cambridge-primary-school/",
+    "https://thehimalayanschool.in/about-us/",
+    "https://thehimalayanschool.in/fees/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "clock timings (the page showed blocked)",
+    "languages of instruction",
+    "second language name",
+    "syllabus_url",
+    "topics_by_period",
+    "fee amounts",
+    "Indian-track primary details"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tco-edu4all",
+  "name": "The Class of One Edu4All",
+  "kind": "online-school",
+  "url": "https://www.theclassofone.com/edu4all.php",
+  "board": [],
+  "classes": "Nursery-8 (Grades 1-5 covered here)",
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "format": "remote sessions, teacher-led; 1 teacher to 40 students (1:40); live or recorded not stated",
+  "timings": "Monday to Friday, Grades 1-5: 9:30 AM-12:30 PM (3 hours), Batch 1",
+  "timings_note": "Only Batch 1 times are listed; other batches are not shown.",
+  "subjects_primary": [
+    "English",
+    "Hindi",
+    "Mathematics",
+    "Social Studies",
+    "Science",
+    "ICT"
+  ],
+  "curriculum": {
+    "summary": "Follows the NCERT-based national framework (NEP 2020), taught in English with Hindi compulsory. Grades 1-5 also include co-curricular art, dance and fitness. Board exams are not part of this programme; CBSE is a separate programme.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "No amounts on the pages read. Instalments available; free trial classes; fees not refundable once paid; book sets bought separately.",
+  "how_to_check": "FAQ page at theclassofone.com/faqs-edu4all.php covers fee terms; amounts come from enquiry or demo booking.",
+  "source_urls": [
+    "https://www.theclassofone.com/edu4all.php",
+    "https://www.theclassofone.com/faqs-edu4all.php"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "examination board (none stated)",
+    "live or recorded",
+    "syllabus_url (only a brochure PDF exists)",
+    "topics_by_period",
+    "fee amounts",
+    "Grades 1-2 subject list",
+    "timings for batches other than Batch 1"
+  ]
+}
