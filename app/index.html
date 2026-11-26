@@ -2079,6 +2079,43 @@ dialog.mini::backdrop {
 .rcardj b {
   font: 700 var(--fs-6) var(--display);
 }
+.livewait {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.lwlines {
+  display: grid;
+  gap: 6px;
+  margin-top: 8px;
+  width: 100%;
+}
+.lwlines i {
+  display: block;
+  height: 8px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--line), var(--sun), var(--line));
+  background-size: 200% 100%;
+  animation: lwshine 1.4s linear infinite;
+}
+.lwlines i:nth-child(2) {
+  width: 80%;
+  animation-delay: 0.3s;
+}
+.lwlines i:nth-child(3) {
+  width: 55%;
+  animation-delay: 0.6s;
+}
+@keyframes lwshine {
+  to {
+    background-position: -200% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lwlines i {
+    animation: none;
+  }
+}
 .findrow {
   display: grid;
   gap: 6px;
@@ -8844,14 +8881,8 @@ function schedule(subj, limitDays = 420, fromTomorrow = false) {
       fxWT(d.getDay()) !== "free" &&
       !S.skips[s + "|" + subj] &&
       !(s === today && (doneToday || fromTomorrow))
-    ) {
-      const ready = queue.filter((x) => ((S.hold || {})[x.u.k] || "") <= s); // "Tomorrow" holds a unit back until then
-      if (ready.length) {
-        const t = fxTake(ready, s);
-        queue.splice(queue.indexOf(t), 1);
-        out.push({ date: s, subj, ...t });
-      }
-    }
+    )
+      out.push({ date: s, subj, ...fxTake(queue, s) });
     d.setDate(d.getDate() + 1);
   }
   return out;
@@ -9292,6 +9323,17 @@ function lessonsOn(date) {
     }
     const x = upcoming().find((z) => z.subj === s && z.date === date);
     if (x && !(date === today && ui.more[s])) L.push({ s, u: x.u, n: x.n, tot: x.tot });
+  });
+  // units the family chose to do now or tomorrow (S.now) go in front of the day's other lessons, which move later the same
+  // day (past the end of the study day if need be); a unit already done that day is not added again
+  (S.now?.[date] || []).forEach((k) => {
+    const u = unitBy(k);
+    if (!u || rank[statusOf(k)] >= 2 || L.some((z) => z.u.k === k && z.done)) return;
+    const i = L.findIndex((z) => z.u.k === k),
+      tot = sessionsFor(u),
+      l = i >= 0 ? L.splice(i, 1)[0] : { s: u.subj, u, n: Math.min(done(k), tot - 1) + 1, tot, bonus: true },
+      at = L.findIndex((z) => !z.done);
+    L.splice(at < 0 ? L.length : at, 0, l);
   });
   return L;
 }
@@ -16614,7 +16656,9 @@ function fxUnitStOf(k) {
     (core.length && core.filter(([, x]) => x === "done").length / core.length >= 0.8)
   )
     return "completed";
-  return X.some((x) => x !== "none") ? "learning" : "none";
+  return X.some((x) => x !== "none") || Object.keys(fxSt().done[id] || {}).some((d) => d.startsWith("open:"))
+    ? "learning"
+    : "none";
 }
 // Today ticks a unit's lesson done when its day's parts are all done, or the day's time is used up, whichever comes first
 function fxLogSession(id) {
@@ -17698,10 +17742,68 @@ function topicRow(u) {
   const T = tagsOf(u)[0];
   return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(statusOf(u.k))}</button></div>`;
 }
+// the family chose to do this unit on this day: it goes in front of that day's other lessons, which move later the same day
+function chooseDay(s, k, date) {
+  planLesson(s, k);
+  S.now = { ...(S.now || {}), [date]: [...new Set([...(S.now?.[date] || []), k])] };
+  commit();
+}
 // a search result with what a parent can do with it: do it now, tomorrow, or in the queue
 function findRow(u) {
   const a = (act) => `data-act="${act}" data-k="${esc(u.k)}" data-s="${u.subj}"`;
   return `<div class="findrow">${topicRow(u)}<div class="row"><button class="btn xs accent" ${a("fnow")}>Do it now</button><button class="btn xs soft" ${a("fmorrow")}>Tomorrow</button><button class="btn xs soft" ${a("fqueue")}>Add to queue</button></div></div>`;
+}
+// asking DeepKids to write a lesson that does not exist yet: it is saved, the founder is emailed, and the family is told when it is ready
+async function requestLesson(topic, lesson, subj, level) {
+  const R = await window.claude?.use?.("request");
+  if (!R) {
+    toast("Sign in with Google to ask DeepKids for the full lesson");
+    return false;
+  }
+  try {
+    await R.send({ topic, subj, level, lesson });
+    S.askedLesson = { ...(S.askedLesson || {}), [topic.toLowerCase()]: today };
+    commit();
+    toast("Thank you. DeepKids will write, review and send the full lesson within 24 hours", 4500);
+    return true;
+  } catch (e) {
+    toast(e?.code === "rate_limited" ? e.message : "Couldn't send that just now. Please try again in a moment");
+    return false;
+  }
+}
+// every search that finds nothing is recorded for DeepKids, even when the family does nothing more: what to write next
+async function noteGap(q) {
+  q = q.trim();
+  const key = q.toLowerCase();
+  if (!q || (ui.gaps || {})[key] || topicHits(q).length || liveHits(q).length) return;
+  ui.gaps = { ...(ui.gaps || {}), [key]: 1 };
+  try {
+    await (await window.claude?.use?.("request"))?.saw({ topic: q });
+  } catch (e) {}
+}
+// a topic searched for on Today: shown, and recorded if nothing matched
+function findTopic(q) {
+  ui.fq = q;
+  render();
+  noteGap(q);
+}
+// lessons the family asked for that are now ready (shown on Today until they are opened or put away)
+async function loadReady() {
+  try {
+    const R = await window.claude?.use?.("request");
+    ui.ready = R ? (await R.mine()).filter((r) => r.status === "ready" && r.unit_id && !(S.reqSeen || {})[r.id]) : [];
+    if (ui.ready.length && tab === "today") render();
+  } catch (e) {
+    ui.ready = [];
+  }
+}
+function readyCard() {
+  return (ui.ready || [])
+    .map(
+      (r) =>
+        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
+    )
+    .join("");
 }
 function topicsTab() {
   const q = ui.libq || "",
@@ -17714,8 +17816,10 @@ function topicsTab() {
     <p class="xs muted">${q ? `${hits.length} found in the syllabuses and DeepKids topics.` : "Search, or browse every chapter of every board below."}</p></div>`;
   if (q) {
     h +=
+      liveHits(q).map(liveRow).join("") +
       hits.map(findRow).join("") +
-      `<section class="card r-out tint"><b class="h5">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm self-start" data-act="tgen" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm err">${esc(ui.terr)}</p>` : ""}</section></section>`;
+      (hits.length || liveHits(q).length ? "" : liveCard(q)) +
+      `</section>`;
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
@@ -17775,81 +17879,6 @@ const slug = (s) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "")
     .slice(0, 60) || "topic";
-async function genTopic() {
-  const q = (ui.libq || "").trim();
-  if (!q || !SAMPLE) return;
-  ui.tgen = true;
-  ui.terr = "";
-  render();
-  const list = DATA.items
-    .filter((i) => i.board === "ncert" || i.level <= 5)
-    .map((i) => `${i.k}: ${i.title}`)
-    .join("\n")
-    .slice(0, 40000);
-  const prompt = `You write topics for DeepKids, a homeschool app for Indian families with children aged 6–10 (Levels 1–5 = Classes 1–5). A parent searched for: "${q.slice(0, 80)}". The child is ${S.age}.
-Write one topic level for this, pitched at the right level. Keep substance; never dumb it down. Include Indian perspectives and, where they fit, Vedic, consciousness and oneness ideas, and at least one real scientific debate or contrarian view. Use only English.
-Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
-${list}
-Reply with only JSON:
-{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
-Give exactly 3 full-day plans (about 60–90 minutes each) and 3 short plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
-  try {
-    const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
-    if (!r || !r.name) throw { code: "invalid_json" };
-    const g = {
-      id: slug(r.name),
-      name: String(r.name).slice(0, 80),
-      subj: SUBJ[r.subj] ? r.subj : "sci",
-      subjects: (r.subjects || []).filter((s) => SUBJ[s]),
-      level: Math.min(5, Math.max(1, +r.level || S.levels[r.subj] || 1)),
-      hours: Math.min(20, Math.max(1, +r.hours || 3)),
-      tags: (r.tags || []).filter((k) => DATA.items.some((i) => i.k === k)).slice(0, 6),
-      summary: String(r.summary || "").slice(0, 1200),
-      plusSummary: String(r.plusSummary || "").slice(0, 400),
-      ideas: (r.ideas || []).slice(0, 5).map((x) => String(x).slice(0, 300)),
-      plans: { full: (r.plans?.full || []).slice(0, 3), busy: (r.plans?.busy || []).slice(0, 3) },
-      related: {
-        prereq: (r.related?.prereq || []).slice(0, 4).map(String),
-        deeper: (r.related?.deeper || []).slice(0, 4).map(String),
-        wider: (r.related?.wider || []).slice(0, 4).map(String),
-      },
-      books: (r.books || []).slice(0, 5).map((b) => ({
-        title: String(b.title || "").slice(0, 100),
-        author: String(b.author || "").slice(0, 80),
-        why: String(b.why || "").slice(0, 160),
-      })),
-      source: "search",
-      query: q.slice(0, 80),
-      reviewed: false,
-      createdAt: Date.now(),
-      by: UID || "",
-    };
-    SHARED.topics = [...SHARED.topics.filter((x) => x.id !== g.id), g];
-    _all = null;
-    if (DBH) {
-      try {
-        await DBH.collection("topics").doc(g.id).set(g);
-        await DBH.collection("searches").add({ q: q.slice(0, 80), topic: g.id, at: Date.now(), by: UID || "" });
-      } catch (e) {
-        ui.terr = "Saved on this device only; the shared library couldn't be reached.";
-      }
-    }
-    ui.tgen = false;
-    sfx("win");
-    render();
-    openSheet({ mode: "chapter", k: "gen|" + g.id });
-  } catch (e) {
-    ui.tgen = false;
-    ui.terr =
-      {
-        not_granted: "Claude wasn't allowed for this page.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        invalid_json: "The topic didn't come back in the right shape. Try again.",
-      }[e?.code] || "Something went wrong. Try again.";
-    sfx("no");
-    render();
-  }
-}
 function prereqOf(u) {
   if (u.board === "gen") return [];
   if (u.subj === "math") {
@@ -18143,16 +18172,27 @@ function viewLibrary() {
 
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
-  fnow(b, e, a, k) {
-    qPut("les", b.dataset.s, "les:" + k, "first");
+  fseen(b) {
+    S.reqSeen = { ...(S.reqSeen || {}), [b.dataset.id]: 1 };
+    ui.ready = (ui.ready || []).filter((r) => r.id !== b.dataset.id);
+    sfx("tap");
+    commit();
+  },
+  fready(b, e, a, k) {
+    ACT.fseen(b);
     ACT.chapter(b, e, a, k);
   },
+  fnow(b, e, a, k) {
+    chooseDay(b.dataset.s, k, today);
+    if (k.startsWith("unit|")) {
+      if (sheet.open) sheet.close();
+      fxOpen(k.slice(5), true); // a DeepKids unit starts straight away, in its own screen, so its progress is tracked like any other
+    } else ACT.chapter(b, e, a, k);
+  },
   fmorrow(b, e, a, k) {
-    qPut("les", b.dataset.s, "les:" + k, "first");
-    S.hold = { ...(S.hold || {}), [k]: addDays(today, 1) };
+    chooseDay(b.dataset.s, k, addDays(today, 1));
     sfx("ok");
     toast("Added to tomorrow's plan");
-    commit();
   },
   fqueue(b, e, a, k) {
     qPut("les", b.dataset.s, "les:" + k, "last");
@@ -18175,9 +18215,9 @@ Object.assign(ACT, {
   },
   tfind(b, e, a, k) {
     ui.libq = document.getElementById("tq")?.value || "";
-    ui.terr = "";
     sfx("tap");
     render();
+    noteGap(ui.libq);
   },
   tsearch(b, e, a, k) {
     ui.libq = b.dataset.q;
@@ -18186,10 +18226,6 @@ Object.assign(ACT, {
     if (sheet.open) sheet.close();
     render();
     scrollTo(0, 0);
-  },
-  tgen(b, e, a, k) {
-    sfx("tap");
-    genTopic();
   },
   rt(b, e, a, k) {
     ui.rt = b.dataset.t;
@@ -18322,6 +18358,189 @@ Object.assign(ACT, {
     sfx("flip");
     toast("Taken off the shelf");
     commit();
+  },
+});
+
+/* Lessons written on request: when nothing in DeepKids matches a topic, Claude writes a short lesson (an introduction, key ideas,
+   big think questions and things to try), checked against our rules before the family sees it. The family does it from the sheet,
+   and at the end can ask DeepKids for the full lesson, which we write, review and send within a day. Kept in S.live. */
+// words and habits that break our rules; the lesson is sent back to be rewritten once if any show up
+const LIVE_BAN =
+  /\b(units?|topics?|mankind|primitive|pests?|too advanced|when you are older|five senses|just a theory|simple organisms?|lower animals?)\b/i;
+const LIVE_UNSAFE =
+  /\b(knife|knives|blade|stove|flame|matches|lighter|candle|boiling|mains|socket|bleach|medicine|tablet|pills?)\b/i;
+// "it" soon after a living being, a cell or a molecule that does life's work (a rough check, not a grammar parser)
+const LIVE_IT =
+  /\b(plants?|animals?|bacteri(?:a|um)|cells?|RNA|DNA|viruses|virus|fung(?:us|i)|trees?|birds?|seeds?|ribosomes?|people|person|child|children|women|woman|men|man)\b[^.?!]{0,45}\b(it|its|itself)\b/i;
+const liveWords = (x) =>
+  typeof x === "string"
+    ? [x]
+    : Array.isArray(x)
+      ? x.flatMap(liveWords)
+      : x && typeof x === "object"
+        ? Object.values(x).flatMap(liveWords)
+        : [];
+// what is wrong with a lesson the model wrote, in plain sentences it can fix (empty when it is fine)
+function liveCheck(l) {
+  const bad = [],
+    has = (x) => typeof x === "string" && x.trim().length > 2;
+  if (!l || typeof l !== "object") return ["It was not the JSON asked for."];
+  if (!has(l.title)) bad.push("A title is missing.");
+  if (!Array.isArray(l.intro) || l.intro.filter(has).length < 2)
+    bad.push("The introduction needs 2 or 3 short paragraphs.");
+  if (!Array.isArray(l.ideas) || l.ideas.filter((x) => has(x?.idea) && has(x?.argued)).length < 2)
+    bad.push("It needs 2 or 3 key ideas, each with what is still argued about or not yet known.");
+  if (!Array.isArray(l.bigq) || l.bigq.filter(has).length !== 4) bad.push("It needs exactly 4 big think questions.");
+  const T = Array.isArray(l.tryit) ? l.tryit : [];
+  if (
+    T.length < 1 ||
+    T.length > 2 ||
+    T.some((t) => !has(t?.name) || !(t?.materials || []).length || (t?.steps || []).length < 2 || !has(t?.expect))
+  )
+    bad.push("It needs 1 or 2 things to try, each with a name, materials, at least 2 steps and what they should see.");
+  if (!has(l.indian?.who) || !has(l.indian?.what)) bad.push("It needs an Indian example with a name.");
+  if (!has(l.underdog?.who) || !has(l.underdog?.what)) bad.push("It needs an overlooked scientist or thinker, named.");
+  const text = liveWords(l);
+  text.forEach((t) => {
+    const b = t.match(LIVE_BAN);
+    if (b) bad.push(`Never write "${b[0]}".`);
+  });
+  liveWords(l.tryit).forEach((t) => {
+    const u = t.match(LIVE_UNSAFE);
+    if (u) bad.push(`The activity uses "${u[0]}", which is not safe for a child at home.`);
+  });
+  text.forEach((t) =>
+    t.split(/(?<=[.?!])\s+/).forEach((s) => {
+      if (LIVE_IT.test(s))
+        bad.push(`"${s.slice(0, 90)}" calls a living being, a cell or a molecule "it". Use she, he or they.`);
+    }),
+  );
+  return [...new Set(bad)].slice(0, 8);
+}
+const livePrompt = (
+  topic,
+  fix = [],
+) => `You write one short lesson for DeepKids, a homeschool app for Indian families with children aged 6–10. A parent searched for: "${topic.slice(0, 80)}". The child is about ${S.age || 8}.
+${IAM_VOICE}
+Write it at the right level (1 to 5 = Classes 1 to 5) and at full depth: short words, never fewer ideas, never talk down. About 60% of examples from South India, the rest from all of India. Name a real Indian example and a real overlooked scientist or thinker (a woman or an underdog where it fits), only people you are sure exist. Give what is still argued about or not yet known. Never write the words "unit" or "topic". Activities use only things in an ordinary city home, with no flame, stove, knife, mains electricity or medicine, and the result must really happen.
+Reply with only JSON:
+{"title":"","subj":"math|eng|hin|sci","level":1,"intro":["2-3 short paragraphs"],"ideas":[{"idea":"","argued":"what is still argued about or not yet known"}],"bigq":["exactly 4 questions with no single answer"],"tryit":[{"name":"","materials":[""],"steps":[""],"expect":"what they should see"}],"indian":{"who":"","what":""},"underdog":{"who":"","what":""}}
+${fix.length ? `Your last try had these problems. Fix every one and keep the rest:\n- ${fix.join("\n- ")}` : ""}`;
+const liveReviewPrompt = (l) =>
+  `Check this children's lesson. List only real problems, each with the exact words: age-gating (too advanced, when you are older), a false simplification, one view given as the whole truth, human-centred wording, anything patriarchal, bias of caste, class, religion, language, city or skin colour, or "it" used for a living being, a cell, RNA, DNA or a virus. Reply with only JSON {"problems":[""]}, an empty list if there are none.\n${JSON.stringify(l)}`;
+// writes the lesson: write, check, one rewrite if anything is wrong, one more look, and only then is it shown
+async function liveGenerate(topic) {
+  if (!SAMPLE || ui.live) return;
+  ui.live = { q: topic };
+  render();
+  try {
+    let l = await SAMPLE.json(livePrompt(topic), { modelTier: "default", cache: false }),
+      bad = liveCheck(l);
+    if (!bad.length)
+      bad = (await SAMPLE.json(liveReviewPrompt(l), { modelTier: "quick", cache: false }))?.problems || [];
+    if (bad.length) {
+      l = await SAMPLE.json(livePrompt(topic, bad), { modelTier: "default", cache: false });
+      bad = liveCheck(l);
+    }
+    if (bad.length) throw { code: "failed_check" };
+    const id = slug(topic) + "-" + newId();
+    S.live = {
+      ...(S.live || {}),
+      [id]: {
+        id,
+        q: topic,
+        title: l.title,
+        subj: SUBJ[l.subj] ? l.subj : "sci",
+        level: Math.min(5, Math.max(1, +l.level || 1)),
+        lesson: l,
+        made: today,
+      },
+    };
+    commit();
+    window.claude
+      ?.use?.("request")
+      .then((R) => R?.mini({ topic, subj: S.live[id].subj, level: S.live[id].level, lesson: l }).catch(() => {}));
+  } catch (e) {
+    ui.live = {
+      q: topic,
+      err:
+        e?.code === "failed_check"
+          ? "I couldn't write one that meets our standards just now. Please try again in a moment."
+          : aiError(e),
+    };
+    render();
+    return;
+  }
+  ui.live = null;
+  render();
+}
+// lessons already written on request that fit what was searched
+function liveHits(q) {
+  const w = q
+    .toLowerCase()
+    .split(/\s+/)
+    .filter((x) => x.length > 2);
+  return Object.values(S.live || {}).filter((L) => w.some((x) => (L.q + " " + L.title).toLowerCase().includes(x)));
+}
+function liveRow(L) {
+  return `<div class="findrow"><div class="topic ${subjClass(L.subj)}"><div class="trow"><span class="no">✎</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(L.title)}</b><br><span class="xs muted">${SUBJ[L.subj]} · Class ${L.level} · written for you${L.done ? " · done" : ""}</span></span></div></div><div class="row"><button class="btn xs accent" data-act="flive" data-id="${esc(L.id)}">${L.done ? "Open again" : "Do it now"}</button></div></div>`;
+}
+// what the search shows when nothing in DeepKids matches: the offer, the writing animation, or what went wrong
+function liveCard(q) {
+  if (ui.live?.q === q && !ui.live.err)
+    return `<section class="card livewait">${iamFace("mini")}<div><b class="h5">Writing a lesson on “${esc(q)}”…</b><p class="xs muted">It is checked against our rules before you see it.</p><div class="lwlines"><i></i><i></i><i></i></div></div></section>`;
+  const asked = (S.askedLesson || {})[q.toLowerCase()];
+  return `<p class="sm">Nothing on “${esc(q)}” yet.</p>${ui.live?.err ? `<p class="sm err">${esc(ui.live.err)}</p>` : ""}<div class="row">${
+    SAMPLE
+      ? `<button class="btn sm accent" data-act="fgen" data-q="${esc(q)}">Write this lesson for me</button>`
+      : lockBtn("topic", "btn sm accent", "Write this lesson for me")
+  }${
+    asked
+      ? ""
+      : `<button class="btn sm line" data-act="freq" data-q="${esc(q)}">Ask DeepKids to write it · free, in 24 hours</button>`
+  }</div>${asked ? `<p class="sm">You asked DeepKids to write this. The full lesson will come here within 24 hours.</p>` : ""}`;
+}
+function liveView() {
+  const L = (S.live || {})[ui.sheet.id];
+  if (!L) return "";
+  const l = L.lesson;
+  setSheetTitle(L.title);
+  return `<section class="card"><span class="eyebrow">Written for you · ${SUBJ[L.subj]} · Class ${L.level}</span><h2 class="fs6">${esc(L.title)}</h2>${l.intro.map((p) => `<p>${esc(p)}</p>`).join("")}<p class="xs muted">Written for you in minutes and not yet reviewed by DeepKids. The full lesson is better: ask for it at the end.</p></section>
+   <section class="sec"><div class="sech"><h3>Key ideas</h3></div><div class="col">${l.ideas.map((x) => `<section class="card"><b>${esc(x.idea)}</b><p class="sm muted">Still argued or not yet known: ${esc(x.argued)}</p></section>`).join("")}</div></section>
+   <section class="sec"><div class="sech"><h3>Big think</h3><span class="xs muted">No single answer</span></div><section class="card"><ol class="sm">${l.bigq.map((q) => `<li>${esc(q)}</li>`).join("")}</ol></section></section>
+   <section class="sec"><div class="sech"><h3>Try it now</h3></div>${l.tryit.map((t) => `<section class="card"><b>${esc(t.name)}</b><p class="xs muted">You need: ${t.materials.map(esc).join(", ")}</p><ol class="sm">${t.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol><p class="sm"><b>You should see:</b> ${esc(t.expect)}</p></section>`).join("")}</section>
+   <section class="sec"><section class="card"><b>${esc(l.indian.who)}</b><p class="sm">${esc(l.indian.what)}</p></section><section class="card"><b>${esc(l.underdog.who)}</b><p class="sm">${esc(l.underdog.what)}</p></section></section>
+   <section class="card r-you tint">${
+     L.requested
+       ? `<b class="h5">Thank you</b><p class="sm">DeepKids will write the full lesson, review it and send it to you here within 24 hours.</p>`
+       : `<b class="h5">Want the full lesson?</b><p class="sm">DeepKids writes it in full depth, reviews it, and sends it to you within 24 hours.</p><button class="btn accent" data-act="freqfull" data-id="${esc(L.id)}">Request the full lesson</button>`
+   }${L.done ? "" : `<button class="btn sm soft" data-act="flivedone" data-id="${esc(L.id)}">I did it</button>`}</section>`;
+}
+Object.assign(ACT, {
+  async freq(b) {
+    if (await requestLesson(b.dataset.q)) render();
+  },
+  fgen(b) {
+    liveGenerate(b.dataset.q);
+  },
+  flive(b) {
+    sfx("flip");
+    openSheet({ mode: "live", id: b.dataset.id });
+  },
+  flivedone(b) {
+    S.live[b.dataset.id].done = today;
+    sfx("ok");
+    celebrate();
+    commit();
+    renderSheet();
+  },
+  async freqfull(b) {
+    const L = S.live[b.dataset.id];
+    if (await requestLesson(L.q, L.lesson, L.subj, L.level)) {
+      L.requested = today;
+      commit();
+      renderSheet();
+    }
   },
 });
 
@@ -19409,13 +19628,10 @@ function firstWeekCard() {
 // search at the top of Today: a topic in, the units we have out, each one to do now, tomorrow or later
 function findBar() {
   const q = (ui.fq || "").trim(),
-    hits = q ? topicHits(q).slice(0, 6) : [];
+    hits = q ? topicHits(q).slice(0, 6) : [],
+    mine = q ? liveHits(q) : [];
   return `<section class="sec findbar"><div class="row nowrap"><input class="inp" id="fq" placeholder="What shall we learn? volcanoes, fractions, Akbar…" value="${esc(ui.fq || "")}" maxlength="80"><button class="btn sm" data-act="ffind">${q ? "Clear" : "Find"}</button></div>${
-    q
-      ? hits.length
-        ? hits.map(findRow).join("")
-        : `<p class="sm">Nothing on “${esc(q)}” yet.</p><button class="btn sm line" data-act="tsearch" data-q="${esc(q)}">Search the library and explore it as a new topic</button>`
-      : ""
+    q ? mine.map(liveRow).join("") + hits.map(findRow).join("") + (hits.length || mine.length ? "" : liveCard(q)) : ""
   }</section>`;
 }
 function viewToday() {
@@ -19433,7 +19649,7 @@ function viewToday() {
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
-  h += findBar();
+  h += findBar() + readyCard();
   // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
   h += `<div class="todaygrid">${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
@@ -19472,9 +19688,11 @@ function fxTodayTop(animate) {
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
   ffind() {
-    ui.fq = ui.fq ? "" : (document.getElementById("fq")?.value || "").trim();
     sfx("tap");
-    render();
+    if (ui.fq) {
+      ui.fq = "";
+      render();
+    } else findTopic((document.getElementById("fq")?.value || "").trim());
   },
   topen(b, e, a, k) {
     const id = b.dataset.id,
@@ -20386,19 +20604,22 @@ function qLinked(units) {
   const first = days[0];
   return `${units.length === 1 ? "Added to the queue" : `${units.length} topics added to the queue`}${first ? `. First lesson: ${first === today ? "today" : fmt(first)}` : ""}`;
 }
-function qPut(ty, s, r, where) {
-  // a lesson from a subject that isn't in the plan yet brings the subject in
-  if (ty === "les" && s && !S.subjects.includes(s)) {
-    const u = unitBy(r.slice(r.indexOf(":") + 1));
+// a lesson the family chose is part of their plan: its subject comes into the plan if it was not there, and the lesson is
+// added if it was not already planned
+function planLesson(s, k) {
+  if (s && !S.subjects.includes(s)) {
     S.subjects = [...S.subjects, s];
-    S.levels = { ...(S.levels || {}), [s]: S.levels?.[s] || u?.level || 1 };
+    S.levels = { ...(S.levels || {}), [s]: S.levels?.[s] || unitBy(k)?.level || 1 };
   }
+  if (!plannedUnits(s).some((z) => z.k === k))
+    S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+}
+function qPut(ty, s, r, where) {
   const key = r.slice(r.indexOf(":") + 1);
   if (ty === "les") {
     const k = key,
       u = unitBy(k);
-    if (!plannedUnits(s).some((z) => z.k === k))
-      S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+    planLesson(s, k);
     const nx = ((S.next || {})[s] || []).filter((x) => x !== k),
       cur = plannedAt(s, S.levels[s])
         .filter((z) => rank[statusOf(z.k)] < 2 && z.k !== k)
@@ -26323,6 +26544,7 @@ function renderSheetBody(top) {
     parent: parentView,
     swap: swapView,
     jsub: jsubView,
+    live: liveView,
   };
   const h = (V[m] || settingsView)();
   updBack();
@@ -26833,8 +27055,7 @@ document.addEventListener("keydown", (e) => {
   }
   if (e.key === "Enter" && e.target.id === "fq") {
     e.preventDefault();
-    ui.fq = e.target.value.trim();
-    render();
+    findTopic(e.target.value.trim());
   }
 });
 if ("speechSynthesis" in window)
@@ -27686,5 +27907,5 @@ document.addEventListener(
 document.addEventListener("visibilitychange", trackVisibleTime);
 /* History: every finished part, named clearly (lesson parts of board chapters too, not only whole chapters) */
 // To finish: units show all parts and the core path separately
-boot();
+boot().then(loadReady);
 </script>

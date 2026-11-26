@@ -1955,7 +1955,9 @@ function fxUnitStOf(k) {
     (core.length && core.filter(([, x]) => x === "done").length / core.length >= 0.8)
   )
     return "completed";
-  return X.some((x) => x !== "none") ? "learning" : "none";
+  return X.some((x) => x !== "none") || Object.keys(fxSt().done[id] || {}).some((d) => d.startsWith("open:"))
+    ? "learning"
+    : "none";
 }
 // Today ticks a unit's lesson done when its day's parts are all done, or the day's time is used up, whichever comes first
 function fxLogSession(id) {

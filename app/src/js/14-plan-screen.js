@@ -505,19 +505,22 @@ function qLinked(units) {
   const first = days[0];
   return `${units.length === 1 ? "Added to the queue" : `${units.length} topics added to the queue`}${first ? `. First lesson: ${first === today ? "today" : fmt(first)}` : ""}`;
 }
-function qPut(ty, s, r, where) {
-  // a lesson from a subject that isn't in the plan yet brings the subject in
-  if (ty === "les" && s && !S.subjects.includes(s)) {
-    const u = unitBy(r.slice(r.indexOf(":") + 1));
+// a lesson the family chose is part of their plan: its subject comes into the plan if it was not there, and the lesson is
+// added if it was not already planned
+function planLesson(s, k) {
+  if (s && !S.subjects.includes(s)) {
     S.subjects = [...S.subjects, s];
-    S.levels = { ...(S.levels || {}), [s]: S.levels?.[s] || u?.level || 1 };
+    S.levels = { ...(S.levels || {}), [s]: S.levels?.[s] || unitBy(k)?.level || 1 };
   }
+  if (!plannedUnits(s).some((z) => z.k === k))
+    S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+}
+function qPut(ty, s, r, where) {
   const key = r.slice(r.indexOf(":") + 1);
   if (ty === "les") {
     const k = key,
       u = unitBy(k);
-    if (!plannedUnits(s).some((z) => z.k === k))
-      S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+    planLesson(s, k);
     const nx = ((S.next || {})[s] || []).filter((x) => x !== k),
       cur = plannedAt(s, S.levels[s])
         .filter((z) => rank[statusOf(z.k)] < 2 && z.k !== k)

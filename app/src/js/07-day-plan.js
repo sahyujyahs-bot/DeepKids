@@ -282,6 +282,17 @@ function lessonsOn(date) {
     const x = upcoming().find((z) => z.subj === s && z.date === date);
     if (x && !(date === today && ui.more[s])) L.push({ s, u: x.u, n: x.n, tot: x.tot });
   });
+  // units the family chose to do now or tomorrow (S.now) go in front of the day's other lessons, which move later the same
+  // day (past the end of the study day if need be); a unit already done that day is not added again
+  (S.now?.[date] || []).forEach((k) => {
+    const u = unitBy(k);
+    if (!u || rank[statusOf(k)] >= 2 || L.some((z) => z.u.k === k && z.done)) return;
+    const i = L.findIndex((z) => z.u.k === k),
+      tot = sessionsFor(u),
+      l = i >= 0 ? L.splice(i, 1)[0] : { s: u.subj, u, n: Math.min(done(k), tot - 1) + 1, tot, bonus: true },
+      at = L.findIndex((z) => !z.done);
+    L.splice(at < 0 ? L.length : at, 0, l);
+  });
   return L;
 }
 function buildDayPlan(date) {

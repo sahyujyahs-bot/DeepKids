@@ -690,10 +690,68 @@ function topicRow(u) {
   const T = tagsOf(u)[0];
   return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(statusOf(u.k))}</button></div>`;
 }
+// the family chose to do this unit on this day: it goes in front of that day's other lessons, which move later the same day
+function chooseDay(s, k, date) {
+  planLesson(s, k);
+  S.now = { ...(S.now || {}), [date]: [...new Set([...(S.now?.[date] || []), k])] };
+  commit();
+}
 // a search result with what a parent can do with it: do it now, tomorrow, or in the queue
 function findRow(u) {
   const a = (act) => `data-act="${act}" data-k="${esc(u.k)}" data-s="${u.subj}"`;
   return `<div class="findrow">${topicRow(u)}<div class="row"><button class="btn xs accent" ${a("fnow")}>Do it now</button><button class="btn xs soft" ${a("fmorrow")}>Tomorrow</button><button class="btn xs soft" ${a("fqueue")}>Add to queue</button></div></div>`;
+}
+// asking DeepKids to write a lesson that does not exist yet: it is saved, the founder is emailed, and the family is told when it is ready
+async function requestLesson(topic, lesson, subj, level) {
+  const R = await window.claude?.use?.("request");
+  if (!R) {
+    toast("Sign in with Google to ask DeepKids for the full lesson");
+    return false;
+  }
+  try {
+    await R.send({ topic, subj, level, lesson });
+    S.askedLesson = { ...(S.askedLesson || {}), [topic.toLowerCase()]: today };
+    commit();
+    toast("Thank you. DeepKids will write, review and send the full lesson within 24 hours", 4500);
+    return true;
+  } catch (e) {
+    toast(e?.code === "rate_limited" ? e.message : "Couldn't send that just now. Please try again in a moment");
+    return false;
+  }
+}
+// every search that finds nothing is recorded for DeepKids, even when the family does nothing more: what to write next
+async function noteGap(q) {
+  q = q.trim();
+  const key = q.toLowerCase();
+  if (!q || (ui.gaps || {})[key] || topicHits(q).length || liveHits(q).length) return;
+  ui.gaps = { ...(ui.gaps || {}), [key]: 1 };
+  try {
+    await (await window.claude?.use?.("request"))?.saw({ topic: q });
+  } catch (e) {}
+}
+// a topic searched for on Today: shown, and recorded if nothing matched
+function findTopic(q) {
+  ui.fq = q;
+  render();
+  noteGap(q);
+}
+// lessons the family asked for that are now ready (shown on Today until they are opened or put away)
+async function loadReady() {
+  try {
+    const R = await window.claude?.use?.("request");
+    ui.ready = R ? (await R.mine()).filter((r) => r.status === "ready" && r.unit_id && !(S.reqSeen || {})[r.id]) : [];
+    if (ui.ready.length && tab === "today") render();
+  } catch (e) {
+    ui.ready = [];
+  }
+}
+function readyCard() {
+  return (ui.ready || [])
+    .map(
+      (r) =>
+        `<section class="card r-you tint"><b class="h5">Your lesson on “${esc(r.topic)}” is ready</b><p class="sm">DeepKids wrote it for you.</p><div class="row"><button class="btn sm accent" data-act="fready" data-id="${esc(r.id)}" data-k="unit|${esc(r.unit_id)}">Open it</button><button class="btn sm soft" data-act="fseen" data-id="${esc(r.id)}">Later</button></div></section>`,
+    )
+    .join("");
 }
 function topicsTab() {
   const q = ui.libq || "",
@@ -706,8 +764,10 @@ function topicsTab() {
     <p class="xs muted">${q ? `${hits.length} found in the syllabuses and DeepKids topics.` : "Search, or browse every chapter of every board below."}</p></div>`;
   if (q) {
     h +=
+      liveHits(q).map(liveRow).join("") +
       hits.map(findRow).join("") +
-      `<section class="card r-out tint"><b class="h5">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm self-start" data-act="tgen" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm err">${esc(ui.terr)}</p>` : ""}</section></section>`;
+      (hits.length || liveHits(q).length ? "" : liveCard(q)) +
+      `</section>`;
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
@@ -767,81 +827,6 @@ const slug = (s) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "")
     .slice(0, 60) || "topic";
-async function genTopic() {
-  const q = (ui.libq || "").trim();
-  if (!q || !SAMPLE) return;
-  ui.tgen = true;
-  ui.terr = "";
-  render();
-  const list = DATA.items
-    .filter((i) => i.board === "ncert" || i.level <= 5)
-    .map((i) => `${i.k}: ${i.title}`)
-    .join("\n")
-    .slice(0, 40000);
-  const prompt = `You write topics for DeepKids, a homeschool app for Indian families with children aged 6–10 (Levels 1–5 = Classes 1–5). A parent searched for: "${q.slice(0, 80)}". The child is ${S.age}.
-Write one topic level for this, pitched at the right level. Keep substance; never dumb it down. Include Indian perspectives and, where they fit, Vedic, consciousness and oneness ideas, and at least one real scientific debate or contrarian view. Use only English.
-Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
-${list}
-Reply with only JSON:
-{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
-Give exactly 3 full-day plans (about 60–90 minutes each) and 3 short plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
-  try {
-    const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
-    if (!r || !r.name) throw { code: "invalid_json" };
-    const g = {
-      id: slug(r.name),
-      name: String(r.name).slice(0, 80),
-      subj: SUBJ[r.subj] ? r.subj : "sci",
-      subjects: (r.subjects || []).filter((s) => SUBJ[s]),
-      level: Math.min(5, Math.max(1, +r.level || S.levels[r.subj] || 1)),
-      hours: Math.min(20, Math.max(1, +r.hours || 3)),
-      tags: (r.tags || []).filter((k) => DATA.items.some((i) => i.k === k)).slice(0, 6),
-      summary: String(r.summary || "").slice(0, 1200),
-      plusSummary: String(r.plusSummary || "").slice(0, 400),
-      ideas: (r.ideas || []).slice(0, 5).map((x) => String(x).slice(0, 300)),
-      plans: { full: (r.plans?.full || []).slice(0, 3), busy: (r.plans?.busy || []).slice(0, 3) },
-      related: {
-        prereq: (r.related?.prereq || []).slice(0, 4).map(String),
-        deeper: (r.related?.deeper || []).slice(0, 4).map(String),
-        wider: (r.related?.wider || []).slice(0, 4).map(String),
-      },
-      books: (r.books || []).slice(0, 5).map((b) => ({
-        title: String(b.title || "").slice(0, 100),
-        author: String(b.author || "").slice(0, 80),
-        why: String(b.why || "").slice(0, 160),
-      })),
-      source: "search",
-      query: q.slice(0, 80),
-      reviewed: false,
-      createdAt: Date.now(),
-      by: UID || "",
-    };
-    SHARED.topics = [...SHARED.topics.filter((x) => x.id !== g.id), g];
-    _all = null;
-    if (DBH) {
-      try {
-        await DBH.collection("topics").doc(g.id).set(g);
-        await DBH.collection("searches").add({ q: q.slice(0, 80), topic: g.id, at: Date.now(), by: UID || "" });
-      } catch (e) {
-        ui.terr = "Saved on this device only; the shared library couldn't be reached.";
-      }
-    }
-    ui.tgen = false;
-    sfx("win");
-    render();
-    openSheet({ mode: "chapter", k: "gen|" + g.id });
-  } catch (e) {
-    ui.tgen = false;
-    ui.terr =
-      {
-        not_granted: "Claude wasn't allowed for this page.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        invalid_json: "The topic didn't come back in the right shape. Try again.",
-      }[e?.code] || "Something went wrong. Try again.";
-    sfx("no");
-    render();
-  }
-}
 function prereqOf(u) {
   if (u.board === "gen") return [];
   if (u.subj === "math") {
@@ -1135,16 +1120,27 @@ function viewLibrary() {
 
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
-  fnow(b, e, a, k) {
-    qPut("les", b.dataset.s, "les:" + k, "first");
+  fseen(b) {
+    S.reqSeen = { ...(S.reqSeen || {}), [b.dataset.id]: 1 };
+    ui.ready = (ui.ready || []).filter((r) => r.id !== b.dataset.id);
+    sfx("tap");
+    commit();
+  },
+  fready(b, e, a, k) {
+    ACT.fseen(b);
     ACT.chapter(b, e, a, k);
   },
+  fnow(b, e, a, k) {
+    chooseDay(b.dataset.s, k, today);
+    if (k.startsWith("unit|")) {
+      if (sheet.open) sheet.close();
+      fxOpen(k.slice(5), true); // a DeepKids unit starts straight away, in its own screen, so its progress is tracked like any other
+    } else ACT.chapter(b, e, a, k);
+  },
   fmorrow(b, e, a, k) {
-    qPut("les", b.dataset.s, "les:" + k, "first");
-    S.hold = { ...(S.hold || {}), [k]: addDays(today, 1) };
+    chooseDay(b.dataset.s, k, addDays(today, 1));
     sfx("ok");
     toast("Added to tomorrow's plan");
-    commit();
   },
   fqueue(b, e, a, k) {
     qPut("les", b.dataset.s, "les:" + k, "last");
@@ -1167,9 +1163,9 @@ Object.assign(ACT, {
   },
   tfind(b, e, a, k) {
     ui.libq = document.getElementById("tq")?.value || "";
-    ui.terr = "";
     sfx("tap");
     render();
+    noteGap(ui.libq);
   },
   tsearch(b, e, a, k) {
     ui.libq = b.dataset.q;
@@ -1178,10 +1174,6 @@ Object.assign(ACT, {
     if (sheet.open) sheet.close();
     render();
     scrollTo(0, 0);
-  },
-  tgen(b, e, a, k) {
-    sfx("tap");
-    genTopic();
   },
   rt(b, e, a, k) {
     ui.rt = b.dataset.t;

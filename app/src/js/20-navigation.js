@@ -252,6 +252,7 @@ function renderSheetBody(top) {
     parent: parentView,
     swap: swapView,
     jsub: jsubView,
+    live: liveView,
   };
   const h = (V[m] || settingsView)();
   updBack();

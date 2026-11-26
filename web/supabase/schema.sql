@@ -134,3 +134,31 @@ create policy "everyone reads edits" on public.content_edits for select to authe
 create policy "editors write edits" on public.content_edits for all to authenticated
   using (exists (select 1 from public.editors e where lower(e.email) = lower(auth.jwt() ->> 'email')))
   with check (exists (select 1 from public.editors e where lower(e.email) = lower(auth.jwt() ->> 'email')));
+
+-- 10. Topics families searched for that DeepKids has no lesson on (the "Write this lesson for me" and "Ask DeepKids to write it" buttons).
+-- One row per family and topic. status goes searched -> mini (a quick lesson was written for them) -> requested (they asked for the full
+-- lesson, which is written first) -> ready (published). Rows are added and changed only by the edge function unit-request.
+create table if not exists public.topic_gaps (
+  id           uuid primary key default gen_random_uuid(),
+  user_id      uuid not null references auth.users(id) on delete cascade,
+  topic        text not null,
+  topic_key    text not null,                          -- the topic in lower case without punctuation, to count the same search together
+  subj         text,
+  level        int,
+  status       text not null default 'searched',       -- searched | mini | requested | ready
+  searches     int not null default 1,
+  lesson       jsonb,                                  -- the quick lesson the family was shown, if there was one
+  unit_id      text,                                   -- set when the full lesson is published
+  first_seen   timestamptz not null default now(),
+  last_seen    timestamptz not null default now(),
+  requested_at timestamptz,
+  ready_at     timestamptz,
+  unique (user_id, topic_key)
+);
+alter table public.topic_gaps enable row level security;
+create policy "own topics are readable" on public.topic_gaps for select using (auth.uid() = user_id);  -- writes only through the function
+-- What to write next: the topics families search for most, requested ones first
+-- select topic_key, max(topic) as topic, count(*) as families, sum(searches) as searches,
+--        bool_or(status = 'requested') as requested, bool_or(status = 'mini') as mini
+--   from public.topic_gaps where status <> 'ready' group by topic_key
+--  order by bool_or(status = 'requested') desc, families desc;

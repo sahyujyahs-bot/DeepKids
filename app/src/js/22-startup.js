@@ -160,8 +160,7 @@ document.addEventListener("keydown", (e) => {
   }
   if (e.key === "Enter" && e.target.id === "fq") {
     e.preventDefault();
-    ui.fq = e.target.value.trim();
-    render();
+    findTopic(e.target.value.trim());
   }
 });
 if ("speechSynthesis" in window)
@@ -1013,4 +1012,4 @@ document.addEventListener(
 document.addEventListener("visibilitychange", trackVisibleTime);
 /* History: every finished part, named clearly (lesson parts of board chapters too, not only whole chapters) */
 // To finish: units show all parts and the core path separately
-boot();
+boot().then(loadReady);

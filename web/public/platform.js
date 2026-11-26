@@ -173,18 +173,21 @@
     async del(k){const {error}=await t().delete().eq("k",k);if(error)throw err("db_error",error.message)},
     async canEdit(){try{const e=(session?.user?.email||"").toLowerCase();if(!e)return false;const {data}=await sb.from("editors").select("email").eq("email",e).maybeSingle();return !!data}catch(x){return false}}})}
 
+  /* ---------- topics searched with no lesson, quick lessons and full-lesson requests (edge function unit-request) ---------- */
+  function makeRequest(){const post=(action,b)=>fn("unit-request",{action,...b});return Object.freeze({send:b=>post("request",b),saw:b=>post("searched",b),mini:b=>post("mini",b),async mine(){return (await post("mine",{})).requests||[]}})}
+
   /* ---------- downloads ---------- */
   const downloads=Object.freeze({async save({filename,data}){const blob=data instanceof Blob?data:new Blob([data]);const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=filename||"download";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),30000);return "saved"}});
 
   /* ---------- the window.claude the app expects ---------- */
   const caps={};
-  function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),downloads});
+  function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),request:makeRequest(),downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
     window.DK_PLATFORM={name:"web",edits:makeEdits(),signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
     if(AI==="plus"&&plus.payments)window.DK_PLATFORM.upgrade=upgrade}
 
   /* ---------- without signing in: the family's plan stays on this phone; no database, photos or AI ---------- */
-  function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,downloads});
+  function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,request:null,downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
     try{if(sessionStorage.getItem("dk-gs")){sessionStorage.removeItem("dk-gs");window.gtag&&gtag("event","guest_start")}}catch(e){}
     window.DK_PLATFORM={name:"web",guest:true,edits:{list:async()=>[],canEdit:async()=>false},signOut:async()=>{try{localStorage.removeItem("dk-guest")}catch(e){}location.reload()},user:()=>null,plus:()=>({on:false})}}

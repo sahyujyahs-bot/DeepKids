@@ -207,14 +207,8 @@ function schedule(subj, limitDays = 420, fromTomorrow = false) {
       fxWT(d.getDay()) !== "free" &&
       !S.skips[s + "|" + subj] &&
       !(s === today && (doneToday || fromTomorrow))
-    ) {
-      const ready = queue.filter((x) => ((S.hold || {})[x.u.k] || "") <= s); // "Tomorrow" holds a unit back until then
-      if (ready.length) {
-        const t = fxTake(ready, s);
-        queue.splice(queue.indexOf(t), 1);
-        out.push({ date: s, subj, ...t });
-      }
-    }
+    )
+      out.push({ date: s, subj, ...fxTake(queue, s) });
     d.setDate(d.getDate() + 1);
   }
   return out;

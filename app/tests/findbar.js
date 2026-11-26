@@ -61,26 +61,12 @@ const { chromium } = require("playwright");
   });
   await p.click('.findrow [data-act="fmorrow"]');
   await p.waitForTimeout(300);
-  const held = await p.evaluate((f) => {
-    const tomorrow = addDays(today, 1);
-    const sch = schedule(f.s, 60);
-    return {
-      hold: S.hold?.[f.k],
-      tomorrow,
-      onToday: sch.some((x) => x.date === today && x.u.k === f.k),
-      first: sch.find((x) => x.u.k === f.k)?.date,
-    };
+  const tom = await p.evaluate((f) => {
+    const L = dayPlan(addDays(today, 1)).filter((i) => i.kind === "lesson" && !i.done);
+    return { first: L[0]?.u?.k, k: f.k, onToday: dayPlan(today).some((i) => i.kind === "lesson" && i.u?.k === f.k) };
   }, first);
-  check(
-    "Tomorrow holds the unit back until tomorrow",
-    held.hold === held.tomorrow && !held.onToday,
-    JSON.stringify(held),
-  );
-  check(
-    "and the unit is in the plan on a day from tomorrow",
-    !held.first || held.first >= held.tomorrow,
-    JSON.stringify(held),
-  );
+  check("Tomorrow puts the unit first among tomorrow's lessons", tom.first === tom.k, JSON.stringify(tom));
+  check("and leaves today's plan alone", !tom.onToday, JSON.stringify(tom));
   await p.click('.findrow [data-act="fqueue"]');
   await p.waitForTimeout(300);
   const q = await p.evaluate((f) => {
@@ -88,15 +74,181 @@ const { chromium } = require("playwright");
     return nx.indexOf(f.k) === nx.length - 1 || nx.indexOf(f.k) >= 0;
   }, first);
   check("Add to queue keeps it in the queue", q, "");
+  await p.evaluate(() => {
+    window.__req = null;
+    window.__calls = [];
+    window.claude = Object.freeze({
+      use: async (n) =>
+        n === "request"
+          ? {
+              send: async (b) => {
+                window.__req = b;
+                window.__calls.push("send:" + b.topic);
+              },
+              saw: async (b) => {
+                window.__calls.push("saw:" + b.topic);
+              },
+              mini: async (b) => {
+                window.__calls.push("mini:" + b.topic);
+              },
+              mine: async () => [
+                { id: "r1", topic: "Pulleys", status: "ready", unit_id: "sci.forces.simple-machines.L5" },
+              ],
+            }
+          : null,
+    });
+  });
   await p.fill("#fq", "zzzqqq");
   await p.press("#fq", "Enter");
   await p.waitForTimeout(300);
   check(
-    "no match says so and offers the library",
-    await p.evaluate(() => !!document.querySelector('.findbar [data-act="tsearch"]')),
+    "no match says so, with no confusing library button",
+    await p.evaluate(
+      () =>
+        document.querySelector(".findbar").textContent.includes("Nothing on") &&
+        !document.querySelector('.findbar [data-act="tsearch"]'),
+    ),
     "",
   );
-  await p.click('.findbar [data-act="tsearch"]');
+  check(
+    "without AI the write button is locked and leads to Plus",
+    await p.evaluate(() => !!document.querySelector('.findbar [data-act="plus"][data-r="topic"]')),
+    "",
+  );
+  check(
+    "every search that finds nothing is recorded, even with no other action",
+    await p.evaluate(() => window.__calls.includes("saw:zzzqqq")),
+    "",
+  );
+  check(
+    "no match offers the free request too, even without AI",
+    await p.evaluate(() => !!document.querySelector('.findbar [data-act="freq"]')),
+    "",
+  );
+  await p.evaluate(() => document.querySelector('.findbar [data-act="freq"]').click());
+  await p.waitForTimeout(500);
+  check(
+    "asking for the full lesson without a quick lesson is recorded and shown as asked",
+    await p.evaluate(
+      () =>
+        window.__calls.includes("send:zzzqqq") &&
+        document.querySelector(".findbar").textContent.includes("You asked DeepKids"),
+    ),
+    "",
+  );
+  const LESSON = {
+    title: "Why zzzqqq sinks",
+    subj: "sci",
+    level: 3,
+    intro: ["Things sink or float for a reason.", "Water pushes back, and they push down."],
+    ideas: [
+      {
+        idea: "Water pushes up on everything in it.",
+        argued: "Scientists still study how this changes with tiny sizes.",
+      },
+      { idea: "Shape matters as much as weight.", argued: "Nobody has one neat rule for every shape." },
+    ],
+    bigq: [
+      "Why do some boats float?",
+      "Is a lotus leaf floating or resting?",
+      "Could water ever hold up a mountain?",
+      "What sinks that you expected to float?",
+    ],
+    tryit: [
+      {
+        name: "Sink or float",
+        materials: ["a bowl of water", "a spoon", "a leaf"],
+        steps: ["Guess first.", "Put each in the water."],
+        expect: "The spoon sinks and the leaf floats.",
+      },
+    ],
+    indian: { who: "Lakshmi in Kochi", what: "She watches fishing boats float in the harbour every morning." },
+    underdog: { who: "Hypatia of Alexandria", what: "A teacher who studied the instruments that measure water." },
+  };
+  await p.evaluate((L) => {
+    SAMPLE = {
+      json: async (pr, o) => {
+        await new Promise((r) => setTimeout(r, 400));
+        return o.modelTier === "quick" ? { problems: [] } : L;
+      },
+      limits: async () => ({}),
+    };
+    render();
+  }, LESSON);
+  await p.waitForTimeout(300);
+  check(
+    "with AI on, the button writes the lesson",
+    await p.evaluate(() => !!document.querySelector('.findbar [data-act="fgen"]')),
+    "",
+  );
+  await p.click('.findbar [data-act="fgen"]');
+  await p.waitForTimeout(80);
+  check("it shows it is writing", await p.evaluate(() => !!document.querySelector(".findbar .livewait .lwlines")), "");
+  await p.waitForTimeout(1800);
+  check(
+    "the quick lesson is recorded for DeepKids",
+    await p.evaluate(() => window.__calls.includes("mini:zzzqqq")),
+    "",
+  );
+  check(
+    "when written, the button becomes Do it now",
+    await p.evaluate(() => document.querySelector('.findbar [data-act="flive"]')?.textContent === "Do it now"),
+    "",
+  );
+  await p.click('.findbar [data-act="flive"]');
+  await p.waitForTimeout(400);
+  check(
+    "the lesson opens with big think questions, things to try and the full-lesson request",
+    await p.evaluate(() => {
+      const t = document.getElementById("sheetBody").textContent;
+      return (
+        document.getElementById("sheet").open &&
+        t.includes("Big think") &&
+        t.includes("Try it now") &&
+        t.includes("Request the full lesson")
+      );
+    }),
+    "",
+  );
+  await p.click('[data-act="freqfull"]');
+  await p.waitForTimeout(500);
+  check(
+    "the request carries the topic and the lesson",
+    await p.evaluate(() => window.__req?.topic === "zzzqqq" && !!window.__req?.lesson),
+    "",
+  );
+  check(
+    "and says DeepKids will send the full lesson within 24 hours",
+    await p.evaluate(() => document.getElementById("sheetBody").textContent.includes("within 24 hours")),
+    "",
+  );
+  await p.evaluate(() => document.getElementById("sheet").close());
+  const lc = await p.evaluate(
+    (L) => ({
+      clean: liveCheck(L).length,
+      words: liveCheck({ ...L, intro: ["Mankind has a primitive idea.", "Fine."] }).length,
+      it: liveCheck({ ...L, intro: ["A plant grows in the sun and we water it.", "Fine."] }).length,
+      unsafe: liveCheck({ ...L, tryit: [{ ...L.tryit[0], steps: ["Boil it on the stove.", "Wait."] }] }).length,
+    }),
+    LESSON,
+  );
+  check("a good lesson passes our checks", lc.clean === 0, JSON.stringify(lc));
+  check(
+    "banned words, 'it' for a plant, and unsafe activities are caught",
+    lc.words > 0 && lc.it > 0 && lc.unsafe > 0,
+    JSON.stringify(lc),
+  );
+  await p.evaluate(() => loadReady());
+  await p.waitForTimeout(400);
+  check(
+    "a lesson that is ready shows on Today with Open it",
+    await p.evaluate(() => !!document.querySelector('[data-act="fready"]')),
+    "",
+  );
+  await p.click('[data-act="fseen"]');
+  await p.waitForTimeout(300);
+  check("Later puts the card away", await p.evaluate(() => !document.querySelector('[data-act="fready"]')), "");
+  await p.evaluate(() => ACT.tsearch({ dataset: { q: "magnet" } }));
   await p.waitForTimeout(400);
   await p.fill("#tq", "volcano");
   await p.click('[data-act="tfind"]');
@@ -109,6 +261,48 @@ const { chromium } = require("playwright");
   await p.click('.findrow [data-act="fnow"]');
   await p.waitForTimeout(400);
   check("Do it now opens the unit", await p.evaluate(() => document.getElementById("sheet").open), "");
+  await p.evaluate(() => {
+    document.getElementById("sheet").open && document.getElementById("sheet").close();
+    const u =
+      topicHits("volcano").find((x) => x.k.startsWith("unit|")) ||
+      topicHits("magnet").find((x) => x.k.startsWith("unit|"));
+    ACT.fnow({ dataset: { s: u.subj } }, null, "fnow", u.k);
+    window.__nowUnit = u.k;
+  });
+  await p.waitForTimeout(1500);
+  check(
+    "Do it now on a DeepKids unit opens the unit itself",
+    await p.evaluate(() => !!document.getElementById("fxDlg")?.open),
+    "",
+  );
+  // Do it now: the day's other lessons move later the same day, nothing is pushed to another day, and it works even when
+  // that subject's lesson is already done
+  const nowT = await p.evaluate(() => {
+    const titles = () =>
+      dayPlan(today)
+        .filter((i) => i.kind === "lesson" && !i.done)
+        .map((i) => i.u.k);
+    const before = titles(),
+      sched = dayPlan(today).find((i) => i.kind === "lesson" && !i.done && i.s === "sci"),
+      pick = topicHits("magnet").find((x) => x.k.startsWith("unit|") && !before.includes(x.k));
+    if (sched) logSession(sched.u, "plan");
+    ACT.fnow({ dataset: { s: pick.subj } }, null, "fnow", pick.k);
+    const after = titles();
+    return { before, after, pick: pick.k, doneBefore: !!sched };
+  });
+  const keep = nowT.before.filter((k) => !nowT.after.includes(k));
+  check("Do it now puts the unit in today's lessons", nowT.after.includes(nowT.pick), JSON.stringify(nowT));
+  check(
+    "and no other planned lesson is pushed off the day",
+    keep.length === 0 || nowT.doneBefore,
+    JSON.stringify({ keep, ...nowT }),
+  );
+  check(
+    "it also works after that subject's lesson was already done",
+    nowT.doneBefore ? nowT.after.includes(nowT.pick) : true,
+    JSON.stringify(nowT),
+  );
+  await p.waitForTimeout(800);
   let bad = 0;
   for (const r of out) {
     if (!r.ok) bad++;

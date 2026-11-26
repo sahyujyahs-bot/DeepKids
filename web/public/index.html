@@ -2103,6 +2103,43 @@ dialog.mini::backdrop {
 .rcardj b {
   font: 700 var(--fs-6) var(--display);
 }
+.livewait {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.lwlines {
+  display: grid;
+  gap: 6px;
+  margin-top: 8px;
+  width: 100%;
+}
+.lwlines i {
+  display: block;
+  height: 8px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--line), var(--sun), var(--line));
+  background-size: 200% 100%;
+  animation: lwshine 1.4s linear infinite;
+}
+.lwlines i:nth-child(2) {
+  width: 80%;
+  animation-delay: 0.3s;
+}
+.lwlines i:nth-child(3) {
+  width: 55%;
+  animation-delay: 0.6s;
+}
+@keyframes lwshine {
+  to {
+    background-position: -200% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lwlines i {
+    animation: none;
+  }
+}
 .findrow {
   display: grid;
   gap: 6px;
@@ -7608,9 +7645,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 class="fs6">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" class="col"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="6cd5f4f442ac3717c8";window.DK_APPV="6cd5f4f442";window.DK_DATAV="ac3701104f"</script>
-<script src="/config.js?v=6cd5f4f442ac3717c8"></script>
+<script>window.DK_BUILD="7405bbaee2ac37a871";window.DK_APPV="7405bbaee2";window.DK_DATAV="ac3701104f"</script>
+<script src="/config.js?v=7405bbaee2ac37a871"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6cd5f4f442ac3717c8"></script>
+<script src="/platform.js?v=7405bbaee2ac37a871"></script>
 </body>
 </html>
