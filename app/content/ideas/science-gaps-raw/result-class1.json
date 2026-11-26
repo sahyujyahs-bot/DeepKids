@@ -1,0 +1,344 @@
+{
+ "class": 1,
+ "covered": 45,
+ "partial": [
+  {
+   "concept": "Know own name, address, birthday, phone number and family names",
+   "boards": [
+    "ICSE: About Me"
+   ],
+   "unit": "sci.me-and-others.me-and-others.L1",
+   "missing_part": "Personal details and knowing family names/address; the unit is about likes and being kind"
+  },
+  {
+   "concept": "Take part in group activities and help with shared work",
+   "boards": [
+    "ICSE: About Me"
+   ],
+   "unit": "sci.me-and-others.me-and-others.L1",
+   "missing_part": "Working together on shared tasks"
+  },
+  {
+   "concept": "Joint family versus nuclear family and why families differ",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.family.family.L1",
+   "missing_part": "Joint and nuclear families named and compared"
+  },
+  {
+   "concept": "What each family member does and how they help at home",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.family.family.L1",
+   "missing_part": "Roles and helping at home (L3 unit has it)"
+  },
+  {
+   "concept": "Raw and cooked food, and festival food",
+   "boards": [
+    "ICSE: My Needs - Food We Eat"
+   ],
+   "unit": "sci.food.where-food-comes-from.L1",
+   "missing_part": "Raw vs cooked (cooking is in kitchen-science L2) and festival foods"
+  },
+  {
+   "concept": "Look, taste, smell and shape of water",
+   "boards": [
+    "ICSE: My Needs - Water"
+   ],
+   "unit": "sci.states.solids-liquids-gases.L2",
+   "missing_part": "Water's colour, taste, smell; taking the shape of its container"
+  },
+  {
+   "concept": "Why people need a house and why it should be kept clean",
+   "boards": [
+    "ICSE: My Needs - Shelter"
+   ],
+   "unit": "sci.basic-needs.basic-needs.L1",
+   "missing_part": "Why a house is needed (protection) and keeping it clean"
+  },
+  {
+   "concept": "Use of a dustbin",
+   "boards": [
+    "ICSE: My Needs - Shelter"
+   ],
+   "unit": "sci.waste.sorting-waste.L2",
+   "missing_part": "Why we use a dustbin and not litter"
+  },
+  {
+   "concept": "Clothes for different seasons, festivals and occasions",
+   "boards": [
+    "ICSE: My Needs - Clothing"
+   ],
+   "unit": "sci.weather.weather.L1",
+   "missing_part": "Seasons are only at L2; festival and occasion clothes absent"
+  },
+  {
+   "concept": "Keeping clothes clean and cared for",
+   "boards": [
+    "ICSE: My Needs - Clothing"
+   ],
+   "unit": "sci.health.hygiene.L1",
+   "missing_part": "Hygiene unit covers body, not clothes"
+  },
+  {
+   "concept": "Planting trees keeps the air clean and fresh",
+   "boards": [
+    "ICSE: My Needs - Air"
+   ],
+   "unit": "sci.environment.caring.L1",
+   "missing_part": "The link between trees and fresh air"
+  },
+  {
+   "concept": "Ways to stay healthy: rest, exercise, yoga, deep breathing, indoor/outdoor play",
+   "boards": [
+    "ICSE: Keeping Oneself Clean, Safe and Healthy",
+    "ICSE: Keeping Oneself Clean, Safe and Healthy",
+    "ICSE: Keeping Oneself Clean, Safe and Healthy"
+   ],
+   "unit": "sci.health.exercise-and-rest.L2",
+   "missing_part": "Yoga/asanas and deep breathing (L3 mentions yoga); games and play"
+  },
+  {
+   "concept": "Animals and birds of land, water and air",
+   "boards": [
+    "ICSE: Animals"
+   ],
+   "unit": "sci.animals.animals-around-us.L2",
+   "missing_part": "Explicit land/water/air grouping"
+  }
+ ],
+ "late": [
+  {
+   "concept": "Festivals the family celebrates",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.community.festivals.L3",
+   "level": 3
+  },
+  {
+   "concept": "Neighbours and how they help each other",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.community.community-and-helpers.L3",
+   "level": 3
+  },
+  {
+   "concept": "Families eat different foods",
+   "boards": [
+    "ICSE: My Needs - Food We Eat"
+   ],
+   "unit": "sci.food.balanced-diet.L4",
+   "level": 4
+  },
+  {
+   "concept": "Containers for storing water and why water is stored",
+   "boards": [
+    "ICSE: My Needs - Water"
+   ],
+   "unit": "sci.water.water-sources-and-uses.L3",
+   "level": 3
+  },
+  {
+   "concept": "Re-using water and not wasting it",
+   "boards": [
+    "ICSE: My Needs - Water"
+   ],
+   "unit": "sci.water.saving-water.L3",
+   "level": 3
+  },
+  {
+   "concept": "Different kinds of houses",
+   "boards": [
+    "ICSE: My Needs - Shelter"
+   ],
+   "unit": "sci.making-things.houses-and-shelter.L3",
+   "level": 3
+  },
+  {
+   "concept": "Living things use air (breathing)",
+   "boards": [
+    "ICSE: My Needs - Air"
+   ],
+   "unit": "sci.air.air-around-us.L3",
+   "level": 3
+  },
+  {
+   "concept": "Why air becomes dirty and its harm",
+   "boards": [
+    "ICSE: My Needs - Air",
+    "ICSE: My Needs - Air"
+   ],
+   "unit": "sci.environment.pollution.L3",
+   "level": 3
+  },
+  {
+   "concept": "Places in the neighbourhood, their uses, workers, keeping public places clean, respect for work",
+   "boards": [
+    "ICSE: Places in the Neighbourhood",
+    "ICSE: Places in the Neighbourhood",
+    "ICSE: Places in the Neighbourhood",
+    "ICSE: Places in the Neighbourhood",
+    "ICSE: Places in the Neighbourhood"
+   ],
+   "unit": "sci.community.community-and-helpers.L3",
+   "level": 3
+  },
+  {
+   "concept": "Plants of land versus water",
+   "boards": [
+    "ICSE: Plants"
+   ],
+   "unit": "sci.habitats.water-habitats.L3",
+   "level": 3
+  },
+  {
+   "concept": "Medicinal plants in daily life",
+   "boards": [
+    "ICSE: Plants"
+   ],
+   "unit": "sci.plants.plant-variety.L3",
+   "level": 3
+  },
+  {
+   "concept": "Modes of transport on land, water, air, and transport jobs",
+   "boards": [
+    "ICSE: Transport",
+    "ICSE: Transport",
+    "ICSE: Transport"
+   ],
+   "unit": "sci.community.transport-and-communication.L3",
+   "level": 3
+  },
+  {
+   "concept": "Traffic police, traffic lights, emergency vehicles",
+   "boards": [
+    "ICSE: Transport"
+   ],
+   "unit": "sci.community.transport-and-communication.L3",
+   "level": 3
+  },
+  {
+   "concept": "Noise and smoke from vehicles and reducing them",
+   "boards": [
+    "ICSE: Transport",
+    "ICSE: Transport"
+   ],
+   "unit": "sci.environment.pollution.L3",
+   "level": 3
+  },
+  {
+   "concept": "Ways of communicating (radio, TV, newspaper, email, SMS, internet) and their uses",
+   "boards": [
+    "ICSE: Communication",
+    "ICSE: Communication",
+    "ICSE: Communication"
+   ],
+   "unit": "sci.community.transport-and-communication.L3",
+   "level": 3
+  }
+ ],
+ "missing": [
+  {
+   "concept": "Family tree of grandparents, parents, children",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "suggested_unit": "My family tree",
+   "topic_hint": "Family and friends"
+  },
+  {
+   "concept": "Why babies, children and elders eat different food",
+   "boards": [
+    "ICSE: My Needs - Food We Eat"
+   ],
+   "suggested_unit": "Food for babies, children and grandparents",
+   "topic_hint": "Food and nutrition"
+  },
+  {
+   "concept": "Not wasting food, respecting food",
+   "boards": [
+    "ICSE: My Needs - Food We Eat"
+   ],
+   "suggested_unit": "Never waste food",
+   "topic_hint": "Food and nutrition (or Waste)"
+  },
+  {
+   "concept": "Own house, its rooms and what is done in each",
+   "boards": [
+    "ICSE: My Needs - Shelter"
+   ],
+   "suggested_unit": "The rooms in my home",
+   "topic_hint": "Our basic needs (or Making things)"
+  },
+  {
+   "concept": "Why we need clothes; clothes we and others wear",
+   "boards": [
+    "ICSE: My Needs - Clothing",
+    "ICSE: My Needs - Clothing",
+    "ICSE: My Needs - Clothing"
+   ],
+   "suggested_unit": "What we wear and why",
+   "topic_hint": "Our basic needs"
+  },
+  {
+   "concept": "Staying safe at home and in public places",
+   "boards": [
+    "ICSE: Keeping Oneself Clean, Safe and Healthy"
+   ],
+   "suggested_unit": "Staying safe at home and outside",
+   "topic_hint": "Health and well-being"
+  },
+  {
+   "concept": "Good touch and bad touch; telling a trusted adult",
+   "boards": [
+    "ICSE: Keeping Oneself Clean, Safe and Healthy"
+   ],
+   "suggested_unit": "My body is mine: safe and unsafe touch",
+   "topic_hint": "Health and well-being"
+  },
+  {
+   "concept": "Behaving well in public places",
+   "boards": [
+    "ICSE: Places in the Neighbourhood"
+   ],
+   "suggested_unit": "Manners in public places",
+   "topic_hint": "Community and neighbourhood"
+  },
+  {
+   "concept": "Messages can be misused",
+   "boards": [
+    "ICSE: Communication"
+   ],
+   "suggested_unit": "Safe messages: who can I trust?",
+   "topic_hint": "Community and neighbourhood (transport and communication)"
+  },
+  {
+   "concept": "Indoor and outdoor games and their rules",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "suggested_unit": "Playing fair: games and rules",
+   "topic_hint": "Health and well-being"
+  }
+ ],
+ "skipped_non_science": [
+  "ICSE: My Needs - Food We Eat - Make rhymes, songs or riddles about food",
+  "ICSE: My Needs - Shelter - Make simple house models and decorations with clay or other materials",
+  "ICSE: My Needs - Shelter - Name ways to decorate a house, such as with rangoli",
+  "ICSE: My Needs - Shelter - Share poems or songs about houses",
+  "ICSE: My Needs - Clothing - Draw and colour the clothes they wear",
+  "ICSE: My Needs - Clothing - Make simple dresses by folding paper (origami)",
+  "ICSE: Animals - Draw and make masks of pet and wild animals",
+  "ICSE: Transport - Draw and collect pictures of different vehicles",
+  "ICSE: Communication - Make poems, songs and drawings about communication",
+  "ICSE: The World Around Me (Sun, Moon, Sky and Stars) - Draw and colour the sun, moon and stars",
+  "ICSE: The World Around Me (Sun, Moon, Sky and Stars) - Share stories, songs and poems about the sky",
+  "ICSE: The World Around Me (Sun, Moon, Sky and Stars) - Make sun, moon and star masks, puppets or collages",
+  "ICSE: About Me - Solve a 6-8 piece body puzzle alone"
+ ],
+ "note": "late includes units at level 3 (marked level) and 4; no level 1-2 unit exists. skipped_non_science are drawing/craft/rhyme items, not counted."
+}

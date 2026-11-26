@@ -1,0 +1,158 @@
+{
+ "class": 4,
+ "covered": 91,
+ "partial": [
+  {
+   "concept": "Link body parts of herbivores, carnivores and omnivores with what they eat, with examples of each group",
+   "boards": [
+    "ICSE: Adaptations in Animals"
+   ],
+   "unit": "animals.animal-bodies.L4",
+   "missing_part": "Teeth, eyes and gut matched to plant-eating, meat-eating and mixed diets; naming the three food groups with examples (L4 covers camel, woodpecker, octopus only)"
+  },
+  {
+   "concept": "Identify tap roots and fibrous roots, with examples",
+   "boards": [
+    "ICSE: Plants in the Surroundings and Environment"
+   ],
+   "unit": "plants.plant-parts.L3",
+   "missing_part": "The two root types (tap and fibrous) and which plants have each"
+  },
+  {
+   "concept": "Use a hand lens to find stomata on a leaf",
+   "boards": [
+    "ICSE: Plants in the Surroundings and Environment"
+   ],
+   "unit": "plants.water-transport.L4",
+   "missing_part": "Stomata as the leaf pores, and looking for them with a hand lens"
+  },
+  {
+   "concept": "Plant products such as wood, coir, rubber and fibres, and their uses",
+   "boards": [
+    "ICSE: Plants in the Surroundings and Environment"
+   ],
+   "unit": "plants.plant-variety.L3",
+   "missing_part": "Coir, rubber and plant fibres (only wood is named)"
+  },
+  {
+   "concept": "Separate solid from liquid by sedimentation, decantation, filtration and evaporation, with examples (sand in water, sugar in water)",
+   "boards": [
+    "ICSE: Materials and Solutions"
+   ],
+   "unit": "states.dissolving.L5",
+   "missing_part": "Sedimentation and decantation; only filtering and evaporating are named"
+  },
+  {
+   "concept": "Name and explain forces met in daily life: muscular, gravitational, magnetic and frictional",
+   "boards": [
+    "ICSE: Push and Pull"
+   ],
+   "unit": "forces.push-and-pull.L3",
+   "missing_part": "Muscular force as a named force and a single overview tying the four daily-life forces together (gravity, magnets and friction have their own units)"
+  },
+  {
+   "concept": "Show how oil or powder reduces friction",
+   "boards": [
+    "ICSE: Friction as a Force"
+   ],
+   "unit": "forces.friction.L5",
+   "missing_part": "Lubricants: oil, grease and powder reducing friction"
+  },
+  {
+   "concept": "Appreciate how natural light is used in daily life",
+   "boards": [
+    "ICSE: Light"
+   ],
+   "unit": "light.transparent-opaque.L3",
+   "missing_part": "Daylight use in homes and daily life (windows, skylights, solar drying) as its own idea"
+  },
+  {
+   "concept": "Explain why water is needed for digestion and for removing wastes",
+   "boards": [
+    "ICSE: Human Body: The Digestive and Excretory Systems"
+   ],
+   "unit": "body.kidneys-and-waste.L5",
+   "missing_part": "Water's role in digestion and in flushing wastes (L5 covers water-salt balance only)"
+  }
+ ],
+ "early": [
+  {
+   "concept": "Name the kinds of teeth, where they sit and what each does; compare teeth in infants and adults; keep teeth and gums healthy",
+   "boards": [
+    "ICSE: Human Body: The Teeth"
+   ],
+   "unit": "body.teeth.L2"
+  },
+  {
+   "concept": "Name natural and artificial sources of light; tell luminous from non-luminous objects",
+   "boards": [
+    "ICSE: Light"
+   ],
+   "unit": "light.light-sources.L2"
+  }
+ ],
+ "social": [
+  {
+   "concept": "Community as togetherness and interdependence",
+   "boards": [
+    "NCERT: Living Together"
+   ]
+  },
+  {
+   "concept": "Sharing in festivals",
+   "boards": [
+    "NCERT: Living Together"
+   ]
+  },
+  {
+   "concept": "Transport and communication then and now",
+   "boards": [
+    "NCERT: Exploring Our Neighbourhood"
+   ]
+  },
+  {
+   "concept": "Community institutions",
+   "boards": [
+    "NCERT: Exploring Our Neighbourhood"
+   ]
+  },
+  {
+   "concept": "Banks and money basics",
+   "boards": [
+    "NCERT: Exploring Our Neighbourhood"
+   ]
+  },
+  {
+   "concept": "Tribal art",
+   "boards": [
+    "NCERT: Growing up with Nature"
+   ]
+  }
+ ],
+ "missing": [
+  {
+   "concept": "Draw a tooth and label its parts; reasons teeth and gums get damaged; what causes cavities and how to prevent them",
+   "boards": [
+    "ICSE: Human Body: The Teeth"
+   ],
+   "suggested_unit": "Inside a tooth: enamel, cavities and keeping teeth strong",
+   "topic_hint": "body (Teeth, currently only level 2)"
+  },
+  {
+   "concept": "Why regular bowel movements matter (roughage, water, constipation); habits that keep the digestive and excretory organs healthy",
+   "boards": [
+    "ICSE: Human Body: The Digestive and Excretory Systems"
+   ],
+   "suggested_unit": "A healthy gut and bladder: fibre, water and good habits",
+   "topic_hint": "body (digestion / kidneys-and-waste)"
+  },
+  {
+   "concept": "Why we need units to measure; instruments (ruler, tape, weighing machine, thermometer, clock): what each measures and how to read it; everyday uses of measuring",
+   "boards": [
+    "ICSE: Measurement"
+   ],
+   "suggested_unit": "Measuring things: units and instruments",
+   "topic_hint": "new topic: Measurement (or how-we-know)"
+  }
+ ]
+}

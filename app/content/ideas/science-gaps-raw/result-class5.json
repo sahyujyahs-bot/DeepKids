@@ -1,0 +1,236 @@
+{
+ "class": 5,
+ "covered": 138,
+ "partial": [
+  {
+   "concept": "Tell arteries and veins apart; name a few major blood vessels",
+   "boards": [
+    "ICSE: Human Body: The Circulatory System"
+   ],
+   "unit": "sci.body.heart-blood-breath.L5",
+   "missing_part": "How arteries and veins differ, and the names of major vessels (aorta, vena cava, pulmonary vessels)"
+  },
+  {
+   "concept": "Name the major bones (skull, jaw, backbone, ribs, arm and leg bones)",
+   "boards": [
+    "ICSE: Human Body: The Skeletal System"
+   ],
+   "unit": "sci.body.skeleton.L4",
+   "missing_part": "Names and places of the major bones"
+  },
+  {
+   "concept": "Other kinds of joints in the body (hinge, ball-and-socket, pivot, fixed)",
+   "boards": [
+    "ICSE: Human Body: The Skeletal System"
+   ],
+   "unit": "sci.body.skeleton.L5",
+   "missing_part": "Types of joints beyond 'joints work in pairs of muscles'"
+  },
+  {
+   "concept": "Calcium-rich foods that keep bones strong",
+   "boards": [
+    "ICSE: Human Body: The Skeletal System"
+   ],
+   "unit": "sci.food.nutrients.L4",
+   "missing_part": "Calcium specifically, milk/ragi/sesame as sources, and the link to bones"
+  },
+  {
+   "concept": "Making a diet healthier with sprouting and fermented foods",
+   "boards": [
+    "ICSE: Food and Health"
+   ],
+   "unit": "sci.microorganisms.helpful-microbes.L4",
+   "missing_part": "Sprouting (more nutrients) and fermented foods as part of a healthy diet"
+  },
+  {
+   "concept": "Self-pollination versus cross-pollination, with examples",
+   "boards": [
+    "ICSE: Pollination"
+   ],
+   "unit": "sci.seeds-and-life-cycles.pollination.L5",
+   "missing_part": "The two kinds of pollination named and compared with examples"
+  },
+  {
+   "concept": "Separating solids from liquids: sedimentation, decantation, filtration",
+   "boards": [
+    "ICSE: Solids, Liquids and Gases"
+   ],
+   "unit": "sci.states.dissolving.L5",
+   "missing_part": "Sedimentation and decantation (filtering and evaporating are covered)"
+  },
+  {
+   "concept": "Decomposers and scavengers, with examples",
+   "boards": [
+    "ICSE: Interdependence in Living Beings: Plants and Animals"
+   ],
+   "unit": "sci.ecology.cycles-and-decomposers.L4",
+   "missing_part": "Scavengers (vultures, crows, hyenas) and how they differ from decomposers"
+  },
+  {
+   "concept": "Noise pollution: causes, ways to reduce it, and how loud sound harms health",
+   "boards": [
+    "ICSE: Sound and Noise"
+   ],
+   "unit": "sci.environment.pollution.L5",
+   "missing_part": "Causes of noise, how loud sound damages hearing, practical ways to cut noise"
+  },
+  {
+   "concept": "Protecting crops (pests, weeds) in the farming year",
+   "boards": [
+    "NIOS: Soil and Crops"
+   ],
+   "unit": "sci.planet-earth.soil-and-crops.L5",
+   "missing_part": "Pests, weeds and ways to protect crops; weeding"
+  },
+  {
+   "concept": "Three classes of levers (I, II, III) with examples",
+   "boards": [
+    "ICSE: Simple Machines"
+   ],
+   "unit": "sci.forces.simple-machines.L5",
+   "missing_part": "Class 1, 2 and 3 levers sorted by position of load, effort and fulcrum"
+  }
+ ],
+ "early": [
+  {
+   "concept": "Yoga and deep breathing to keep the heart healthy",
+   "boards": [
+    "ICSE: Human Body: The Circulatory System"
+   ],
+   "unit": "sci.health.exercise-and-rest.L3"
+  }
+ ],
+ "social": [
+  {
+   "concept": "Republic Day, national symbols, currency, languages, clothing, dance and music",
+   "boards": [
+    "NCERT: Our Vibrant Country"
+   ]
+  },
+  {
+   "concept": "Unity in diversity, peace and harmony; people and customs of India",
+   "boards": [
+    "NCERT: Our Vibrant Country",
+    "NIOS: Peace, Unity and Harmony in Indian Society"
+   ]
+  },
+  {
+   "concept": "Culture and heritage and why to conserve them",
+   "boards": [
+    "NIOS: India's Cultural and Natural Heritage"
+   ]
+  },
+  {
+   "concept": "Ashoka and Akbar",
+   "boards": [
+    "NIOS: Peace, Unity and Harmony in Indian Society"
+   ]
+  },
+  {
+   "concept": "Small families, girls' education, equality of men and women, dowry and the law, female foeticide",
+   "boards": [
+    "NIOS: Our Social Issues"
+   ]
+  },
+  {
+   "concept": "Freedom struggle: British rule, people from every state, Gandhiji and other leaders, safeguarding independence",
+   "boards": [
+    "NIOS: Our Freedom Struggle"
+   ]
+  },
+  {
+   "concept": "States and Union Territories, India on the world map, physical features, resources, climate, crops and vegetation of the states",
+   "boards": [
+    "NIOS: The States of India and their Physical Features"
+   ]
+  },
+  {
+   "concept": "Democracy, right to vote, how government works, rural and urban administration",
+   "boards": [
+    "NIOS: Our Community and Public Administration"
+   ]
+  }
+ ],
+ "missing": [
+  {
+   "concept": "Simple exercises and good posture for strong bones",
+   "boards": [
+    "ICSE: Human Body: The Skeletal System"
+   ],
+   "suggested_unit": "Sit, stand, stay strong: posture and exercise",
+   "topic_hint": "body (Bones, skeleton and muscles) or health"
+  },
+  {
+   "concept": "Healthy food versus junk food, and the harm junk food does",
+   "boards": [
+    "ICSE: Food and Health"
+   ],
+   "suggested_unit": "Junk food: what it is and what it does to the body",
+   "topic_hint": "food (A balanced diet)"
+  },
+  {
+   "concept": "Lifestyle diseases (obesity, anaemia, diabetes, blood pressure) and how to avoid them",
+   "boards": [
+    "ICSE: Food and Health"
+   ],
+   "suggested_unit": "Diseases of modern living: sugar, salt, weight and iron",
+   "topic_hint": "health (Diseases and medicines)"
+  },
+  {
+   "concept": "Food adulteration: awareness that food can be adulterated, simple home checks",
+   "boards": [
+    "ICSE: Food and Health"
+   ],
+   "suggested_unit": "Is my food pure? Adulteration and simple tests",
+   "topic_hint": "food (Keeping food safe)"
+  },
+  {
+   "concept": "Bisexual (complete) and unisexual flowers",
+   "boards": [
+    "ICSE: Pollination"
+   ],
+   "suggested_unit": "Flowers with both parts and flowers with one",
+   "topic_hint": "seeds-and-life-cycles (pollination)"
+  },
+  {
+   "concept": "Vegetative reproduction: potato, ginger, carrot, Bryophyllum, and sexual versus vegetative reproduction",
+   "boards": [
+    "ICSE: Plant Reproduction"
+   ],
+   "suggested_unit": "Plants without seeds: new plants from leaves, stems and roots",
+   "topic_hint": "seeds-and-life-cycles (new topic slot: Plants making copies)"
+  },
+  {
+   "concept": "Ventilators, windows and fans: why houses need moving air",
+   "boards": [
+    "ICSE: Solids, Liquids and Gases"
+   ],
+   "suggested_unit": "Fresh air in the house: windows, ventilators and fans",
+   "topic_hint": "air"
+  },
+  {
+   "concept": "Sound versus noise; pleasant and unpleasant sounds",
+   "boards": [
+    "ICSE: Sound and Noise"
+   ],
+   "suggested_unit": "Sound or noise? Pleasant and unpleasant sounds",
+   "topic_hint": "sound"
+  },
+  {
+   "concept": "Warning sounds (fire alarm, siren) and why they save lives",
+   "boards": [
+    "ICSE: Sound and Noise"
+   ],
+   "suggested_unit": "Sounds that warn: alarms, sirens and horns",
+   "topic_hint": "sound"
+  },
+  {
+   "concept": "Body joints as levers (elbow, knee, jaw)",
+   "boards": [
+    "ICSE: Simple Machines"
+   ],
+   "suggested_unit": "Your body is full of levers",
+   "topic_hint": "forces (Simple machines) or body"
+  }
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "class": 2,
+ "covered": 96,
+ "partial": [
+  {
+   "concept": "Shadow puzzles: matching shadows to body parts and objects",
+   "boards": [
+    "ICSE: About Me"
+   ],
+   "unit": "sci.light.shadows.L2",
+   "missing_part": "Shadow matching/puzzle activity linked to body parts and shapes"
+  },
+  {
+   "concept": "Family tree including distant relatives",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.family.family.L3",
+   "missing_part": "Drawing a family tree across generations and distant relatives"
+  },
+  {
+   "concept": "Why loud crackers, loud music and chemical colours are avoided at festivals",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.environment.pollution.L3",
+   "missing_part": "Festival-specific noise and chemical-colour harm to hearing, animals and water; hearing protection is only in sound.hearing.L3"
+  },
+  {
+   "concept": "Caring for pets with empathy and compassion",
+   "boards": [
+    "ICSE: Animals",
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.animals.animals-around-us.L2",
+   "missing_part": "How to look after a pet (food, water, shelter, kindness); the unit only compares pets and wild animals"
+  },
+  {
+   "concept": "Care and concern for old, sick and differently abled people",
+   "boards": [
+    "ICSE: Others in my World"
+   ],
+   "unit": "sci.body.growing-old.L3",
+   "missing_part": "Helping sick and differently abled people; unit covers ageing and kindness in general"
+  },
+  {
+   "concept": "Respecting the variety of food eaten by different families",
+   "boards": [
+    "ICSE: My Needs: Food"
+   ],
+   "unit": "sci.food.where-food-comes-from.L3",
+   "missing_part": "Explicit respect for different families' food customs and choices"
+  },
+  {
+   "concept": "Caring for food and not wasting it",
+   "boards": [
+    "ICSE: My Needs: Food"
+   ],
+   "unit": "sci.waste.reduce-reuse-recycle.L3",
+   "missing_part": "Food waste at home and plate (leftovers, sharing food); unit is about general reuse and recycling"
+  },
+  {
+   "concept": "Many foods contain water",
+   "boards": [
+    "ICSE: My Needs: Water"
+   ],
+   "unit": "sci.food.nutrients.L3",
+   "missing_part": "Noticing and testing water in fruits, vegetables and cooked food; water is only listed as a nutrient"
+  },
+  {
+   "concept": "Parts of a house (draw and label)",
+   "boards": [
+    "ICSE: My Needs: Shelter"
+   ],
+   "unit": "sci.making-things.houses-and-shelter.L3",
+   "missing_part": "Naming and labelling roof, wall, door, window, floor, kitchen etc."
+  },
+  {
+   "concept": "Which clothes suit which season (cotton in summer, wool in winter)",
+   "boards": [
+    "ICSE: My Needs: Clothing"
+   ],
+   "unit": "sci.day-night-seasons.seasons.L2",
+   "missing_part": "Linking fibre/cloth type to season and weather; unit covers seasons and dressing for weather but not why materials suit them"
+  },
+  {
+   "concept": "Air has weight, takes up space and expands",
+   "boards": [
+    "ICSE: My Needs: Air"
+   ],
+   "unit": "sci.air.air-around-us.L3",
+   "missing_part": "Air expands when warmed; hands-on demonstrations"
+  },
+  {
+   "concept": "Ways to deal with smoke and fumes that pollute air",
+   "boards": [
+    "ICSE: My Needs: Air"
+   ],
+   "unit": "sci.environment.pollution.L3",
+   "missing_part": "Solutions: fewer fires and vehicles, trees, cleaner cooking; unit covers sources only (what we can change is at L5)"
+  },
+  {
+   "concept": "Diseases that spread through the air and how to prevent them",
+   "boards": [
+    "ICSE: My Needs: Air"
+   ],
+   "unit": "sci.microorganisms.germs.L3",
+   "missing_part": "Airborne illnesses (cold, flu, cough) and covering coughs/masks; unit covers germs generally"
+  },
+  {
+   "concept": "Breathing exercises, asanas and deep breathing",
+   "boards": [
+    "ICSE: My Needs: Air"
+   ],
+   "unit": "sci.health.exercise-and-rest.L3",
+   "missing_part": "Guided breathing exercises and deep breathing; unit mentions exercise and yoga only"
+  },
+  {
+   "concept": "Places in the neighbourhood (public and recreation places) and what each is used for",
+   "boards": [
+    "ICSE: Places in the Neighbourhood"
+   ],
+   "unit": "sci.community.community-and-helpers.L3",
+   "missing_part": "The places themselves: park, market, post office, hospital, school, library and why a neighbourhood needs them"
+  },
+  {
+   "concept": "Where to get help in an emergency (police station, fire brigade)",
+   "boards": [
+    "ICSE: Places in the Neighbourhood"
+   ],
+   "unit": "sci.community.community-and-helpers.L3",
+   "missing_part": "Emergency services, who to call and when; unit covers public services generally"
+  },
+  {
+   "concept": "Left and right, above and below, near and far, up and down",
+   "boards": [
+    "ICSE: Time, Space and Direction"
+   ],
+   "unit": "sci.space-time.space.L2",
+   "missing_part": "Left/right, above/below, up/down; unit covers near and far only"
+  },
+  {
+   "concept": "Describing where objects are (on, in, below, above)",
+   "boards": [
+    "ICSE: Time, Space and Direction"
+   ],
+   "unit": "sci.space-time.space.L2",
+   "missing_part": "Position words and describing location of objects"
+  }
+ ],
+ "late": [
+  {
+   "concept": "Why houses differ (climate, place, materials)",
+   "boards": [
+    "ICSE: My Needs: Shelter"
+   ],
+   "unit": "sci.habitats.lands-and-lives.L4"
+  },
+  {
+   "concept": "Clothes: fibres (cotton, silk, wool, rayon), natural vs man-made, caring for and drawing clothes",
+   "boards": [
+    "ICSE: My Needs: Clothing"
+   ],
+   "unit": "sci.making-things.cloth.L5"
+  },
+  {
+   "concept": "Medicinal plants (tulsi, neem, clove, ginger)",
+   "boards": [
+    "ICSE: Plants"
+   ],
+   "unit": "sci.plants.plant-variety.L4"
+  },
+  {
+   "concept": "Fuels that run vehicles (petrol, diesel, CNG, electricity) and saving them",
+   "boards": [
+    "ICSE: Transport"
+   ],
+   "unit": "sci.energy.sources-and-saving.L4"
+  }
+ ],
+ "missing": [
+  {
+   "concept": "Making a name card with a logo about myself",
+   "boards": [
+    "ICSE: About Me"
+   ],
+   "suggested_unit": "My name card: what makes me me",
+   "topic_hint": "me-and-others"
+  },
+  {
+   "concept": "Why light and fresh air matter in a house",
+   "boards": [
+    "ICSE: My Needs: Shelter"
+   ],
+   "suggested_unit": "Why a house needs windows: light and fresh air",
+   "topic_hint": "making-things (Houses and shelter) / air"
+  },
+  {
+   "concept": "Good touch and bad touch; telling a trusted adult",
+   "boards": [
+    "ICSE: Keeping Oneself Clean, Safe and Healthy"
+   ],
+   "suggested_unit": "My body is mine: safe touch and who to tell",
+   "topic_hint": "health (new topic: Staying safe)"
+  },
+  {
+   "concept": "Staying safe from household tools (knives, scissors, stoves, hot things)",
+   "boards": [
+    "ICSE: Keeping Oneself Clean, Safe and Healthy"
+   ],
+   "suggested_unit": "Safe at home: sharp, hot and heavy things",
+   "topic_hint": "health (new topic: Staying safe)"
+  },
+  {
+   "concept": "Traffic in cities and villages; why traffic jams happen and how to reduce them",
+   "boards": [
+    "ICSE: Transport"
+   ],
+   "suggested_unit": "Traffic: busy roads and quiet roads",
+   "topic_hint": "community (Transport and communication)"
+  },
+  {
+   "concept": "Wheelchairs and ramps: making places work for everyone",
+   "boards": [
+    "ICSE: Transport"
+   ],
+   "suggested_unit": "Ramps and wheelchairs: places for everyone",
+   "topic_hint": "community / me-and-others"
+  },
+  {
+   "concept": "Phones, email, SMS and the internet: what they do and using them safely",
+   "boards": [
+    "ICSE: Communication"
+   ],
+   "suggested_unit": "Phones and the internet: using them kindly and safely",
+   "topic_hint": "community (Transport and communication) or new topic: Technology around us"
+  }
+ ]
+}

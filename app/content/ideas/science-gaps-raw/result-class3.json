@@ -1,0 +1,158 @@
+{
+ "class": 3,
+ "covered": 121,
+ "partial": [
+  {
+   "concept": "Group birds by beak, feather and claw types",
+   "boards": [
+    "ICSE: Animals: Birds"
+   ],
+   "unit": "sci.animals.birds.L4",
+   "missing_part": "Beaks and feet are covered; feather types and grouping birds by all three are not"
+  },
+  {
+   "concept": "Care for birds, for example setting up a bird bath",
+   "boards": [
+    "ICSE: Animals: Birds"
+   ],
+   "unit": "sci.animals.birds.L1",
+   "missing_part": "Only feeding birds, at level 1; no bird bath or water for birds at levels 2-4"
+  },
+  {
+   "concept": "Label the body parts of an insect: head, thorax, abdomen, legs, wings",
+   "boards": [
+    "ICSE: Animals: Common Insects"
+   ],
+   "unit": "sci.animals.insects.L2",
+   "missing_part": "Only counting legs; the three body parts and wings are not taught"
+  },
+  {
+   "concept": "Life cycle of a butterfly and of a honey bee",
+   "boards": [
+    "ICSE: Animals: Common Insects"
+   ],
+   "unit": "sci.animals.animal-life-cycles.L3",
+   "missing_part": "Butterfly is covered; the honey bee life cycle is not"
+  },
+  {
+   "concept": "Name insects that harm people and ways to protect against them",
+   "boards": [
+    "ICSE: Animals: Common Insects"
+   ],
+   "unit": "sci.microorganisms.parasites.L3",
+   "missing_part": "Only mosquito, lice and fleas; flies, cockroaches, crop pests and protection ideas are not covered"
+  },
+  {
+   "concept": "Parts of the respiratory system (nose, windpipe, lungs) and breathing in and out, using a model",
+   "boards": [
+    "ICSE: Human Body"
+   ],
+   "unit": "sci.body.heart-blood-breath.L3",
+   "missing_part": "Lungs and breath are felt, but the air path (nose, windpipe, lungs) and a breathing model are not taught"
+  },
+  {
+   "concept": "Uses of the sun (drying, cooking) and how a solar cooker, solar cell and solar heater work",
+   "boards": [
+    "ICSE: Sun as a Natural Resource"
+   ],
+   "unit": "sci.energy.sources-and-saving.L4",
+   "missing_part": "Sun is only listed as an energy source; no sun drying or cooking, no solar cooker, cell or heater"
+  },
+  {
+   "concept": "Warm water and stirring help substances dissolve",
+   "boards": [
+    "ICSE: Some Properties of Water"
+   ],
+   "unit": "sci.states.dissolving.L3",
+   "missing_part": "Dissolving and not dissolving are covered; the effect of warmth and stirring is not"
+  },
+  {
+   "concept": "Plant products such as oil, spices and pulses",
+   "boards": [
+    "ICSE: Food We Get from Plants"
+   ],
+   "unit": "sci.plants.plant-variety.L3",
+   "missing_part": "Plant uses are general (food, medicine, shade, wood); oil, spices and pulses are not named"
+  },
+  {
+   "concept": "Uses of solids, liquids and gases in daily life",
+   "boards": [
+    "ICSE: Forms of Matter: Solids, Liquids and Gases"
+   ],
+   "unit": "sci.states.solids-liquids-gases.L2",
+   "missing_part": "States and examples are covered; their everyday uses are not"
+  }
+ ],
+ "late": [
+  {
+   "concept": "Explain rainwater harvesting and why it helps conserve water",
+   "boards": [
+    "ICSE: Water as a Resource"
+   ],
+   "unit": "sci.water.saving-water.L5"
+  },
+  {
+   "concept": "Tell renewable and non-renewable sources of energy apart, with examples",
+   "boards": [
+    "ICSE: Sun as a Natural Resource"
+   ],
+   "unit": "sci.energy.sources-and-saving.L5"
+  }
+ ],
+ "social": [
+  {
+   "concept": "Family, relations in a family, parents' responsibility, status of girls and women",
+   "boards": [
+    "NIOS: Concept of Family and Interpersonal Relations"
+   ]
+  },
+  {
+   "concept": "Professions around us, public services, family, neighbourhood and community in society",
+   "boards": [
+    "NIOS: Our Social Environment"
+   ]
+  },
+  {
+   "concept": "Festivals across India and of different religions; national festivals",
+   "boards": [
+    "NIOS: Our Festivals"
+   ]
+  },
+  {
+   "concept": "Transport and communication: how they developed, road signs, effect on environment",
+   "boards": [
+    "NIOS: Transport and Communication"
+   ]
+  },
+  {
+   "concept": "National flag and colours, national days, anthem and song, national symbols",
+   "boards": [
+    "NIOS: National Identity"
+   ]
+  },
+  {
+   "concept": "Globalisation, Right to Education, Right to Information",
+   "boards": [
+    "NIOS: Our Social and Economic Environment"
+   ]
+  }
+ ],
+ "missing": [
+  {
+   "concept": "Explain why proper and deep breathing are good for health",
+   "boards": [
+    "ICSE: Human Body"
+   ],
+   "suggested_unit": "Breathing well: deep breaths and why they help",
+   "topic_hint": "Our bodies"
+  },
+  {
+   "concept": "Swachh Bharat Abhiyan and small actions that help it",
+   "boards": [
+    "ICSE: Cleanliness, Health and Hygiene"
+   ],
+   "suggested_unit": "Swachh Bharat: small actions for a clean India",
+   "topic_hint": "Caring for the environment"
+  }
+ ]
+}
