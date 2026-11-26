@@ -1,0 +1,561 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.animals.animal-minds.L3": {
+   "videos": [],
+   "note": "Khan has no video on animal minds, crows or dogs; the nearest (operant conditioning, intelligence) are psychology-level and off topic."
+  },
+  "sci.animals.animals-around-us.L3": {
+   "videos": [],
+   "note": "Local animal habits and a week of watching are not taught by Khan."
+  },
+  "sci.animals.invertebrates.L3": {
+   "videos": [
+    {
+     "title": "Phylum Arthropoda - part 1",
+     "channel": "Khan Academy India - English",
+     "youtube": "KbVX6Mb9dKQ",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Insects, spiders and crabs: the arthropods.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phylum  Mollusca",
+     "channel": "Khan Academy India - English",
+     "youtube": "P2VdEh7Juz8",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Snails and other molluscs: soft bodies, no backbone.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phylum Cnidaria",
+     "channel": "Khan Academy India - English",
+     "youtube": "LjaS-XY1gbE",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Jellyfish and their relatives: no backbone.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan India biology videos by phylum, pitched at older students."
+  },
+  "sci.animals.vertebrate-groups.L3": {
+   "videos": [
+    {
+     "title": "Classification of Animals",
+     "channel": "Khan Academy India - English",
+     "youtube": "YUUeO02eUKk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How animals are grouped, including the vertebrate groups.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Chondrichthyes and Osteichthyes",
+     "channel": "Khan Academy India - English",
+     "youtube": "77pxrS8I2qg",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Fish: how they live and breathe.",
+     "confidence": "high"
+    },
+    {
+     "title": "Amphibians",
+     "channel": "Khan Academy India - English",
+     "youtube": "APgk7yiV_9M",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Amphibians: breathing and young.",
+     "confidence": "high"
+    }
+   ],
+   "note": "No Khan videos for reptiles, birds or mammals in simple form; the grade 11 Khan India videos on Reptiles and Mammals also exist."
+  },
+  "sci.body.body-parts.L3": {
+   "videos": [
+    {
+     "title": "Human Skin",
+     "channel": "Khan Academy India - English",
+     "youtube": "QpWLcSah4lc",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The skin as an external organ and its jobs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Only skin is covered; care of other body parts and private parts is not taught by Khan."
+  },
+  "sci.body.growing-old.L3": {
+   "videos": [],
+   "note": "Khan has no suitable video on how bodies change over a lifetime for this age."
+  },
+  "sci.body.heart-blood-breath.L3": {
+   "videos": [
+    {
+     "title": "Meet the heart!",
+     "channel": "khanacademymedicine",
+     "youtube": "Vi1JK6IYVt8",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The heart pumps blood.",
+     "confidence": "high"
+    },
+    {
+     "title": "Meet the lungs",
+     "channel": "khanacademymedicine",
+     "youtube": "qGiPZf7njqY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Lungs take in air.",
+     "confidence": "high"
+    },
+    {
+     "title": "Flow through the heart",
+     "channel": "khanacademymedicine",
+     "youtube": "7XaftdE_h60",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How blood flows through the heart and on to the lungs and body.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan medicine videos, pitched at nursing students."
+  },
+  "sci.body.how-babies-grow.L3": {
+   "videos": [
+    {
+     "title": "Human fertilization and early development",
+     "channel": "Khan Academy",
+     "youtube": "-7WKUNG9v-w",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "One cell after fertilization grows into an embryo.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pregnancy and Embryonic Development",
+     "channel": "Khan Academy India - English",
+     "youtube": "iKL3goUeVrk",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Growing in the womb.",
+     "confidence": "high"
+    },
+    {
+     "title": "Childbirth",
+     "channel": "Khan Academy India - English",
+     "youtube": "em3peMqo3so",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Birth.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan India biology videos; some detail is older-student level."
+  },
+  "sci.body.immune-system.L3": {
+   "videos": [
+    {
+     "title": "Types of immune responses: Innate and adaptive, humoral vs. cell-mediated",
+     "channel": "Khan Academy",
+     "youtube": "rp7T4IItbtM",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Defences and white blood cells fighting germs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Role of phagocytes in innate or nonspecific immunity",
+     "channel": "Khan Academy",
+     "youtube": "O1N2rENXq_Y",
+     "mins": 16,
+     "pitch": "older: watch together",
+     "matches": "Phagocytes, white blood cells that eat germs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Inflammatory response",
+     "channel": "Khan Academy",
+     "youtube": "FXSuEIMrPQk",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Inflammatory response, including fever.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Pitched at nursing students."
+  },
+  "sci.body.keeping-balance.L3": {
+   "videos": [
+    {
+     "title": "Thermoregulation in the circulatory system",
+     "channel": "khanacademymedicine",
+     "youtube": "C_LiAEjuIIc",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "How the body keeps its temperature steady, including sweating.",
+     "confidence": "high"
+    },
+    {
+     "title": "Thermoregulation by muscles",
+     "channel": "khanacademymedicine",
+     "youtube": "HfXqyPS5bRo",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Shivering warms the body.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing on thirst."
+  },
+  "sci.body.organs-inside.L3": {
+   "videos": [
+    {
+     "title": "Meet the heart!",
+     "channel": "khanacademymedicine",
+     "youtube": "Vi1JK6IYVt8",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The heart and its job.",
+     "confidence": "high"
+    },
+    {
+     "title": "Meet the lungs",
+     "channel": "khanacademymedicine",
+     "youtube": "qGiPZf7njqY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The lungs and their job.",
+     "confidence": "high"
+    },
+    {
+     "title": "Human Digestive System| Middle School Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "2uL4b1yMhm8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "The digestive system including the stomach.",
+     "confidence": "high"
+    }
+   ],
+   "note": "No short Khan video on the brain as an organ."
+  },
+  "sci.changes.fire.L3": {
+   "videos": [
+    {
+     "title": "Requirements of Combustion",
+     "channel": "Khan Academy India - English",
+     "youtube": "w3th6WckaH0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What fire needs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Combustion",
+     "channel": "Khan Academy India - English",
+     "youtube": "8czI_1mTgeI",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What combustion is.",
+     "confidence": "high"
+    },
+    {
+     "title": "Fire Extinguishers and types",
+     "channel": "Khan Academy India - English",
+     "youtube": "rhMlt5Tbd10",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Fire extinguishers and fire safety.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan India middle-school science."
+  },
+  "sci.chemistry.acids-and-bases.L3": {
+   "videos": [
+    {
+     "title": "Properties of acids and bases",
+     "channel": "Khan Academy",
+     "youtube": "028VyNbK2bY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Sour acids and soapy bases and how to tell them apart.",
+     "confidence": "high"
+    },
+    {
+     "title": "Intro to acids and bases",
+     "channel": "Khan Academy",
+     "youtube": "ja7p_tzTTEA",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Introduction to acids and bases.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.bonds.L3": {
+   "videos": [
+    {
+     "title": "Covalent bonds",
+     "channel": "Khan Academy",
+     "youtube": "kS5iU4v0QZk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Atoms share electrons to bond.",
+     "confidence": "high"
+    },
+    {
+     "title": "Ionic bonds",
+     "channel": "Khan Academy",
+     "youtube": "FaeAurHnQJs",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Atoms stick together by giving and taking electrons.",
+     "confidence": "high"
+    },
+    {
+     "title": "Molecules, crystals, and diatomic elements",
+     "channel": "Khan Academy",
+     "youtube": "thXilnp5UNQ",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Atoms join into molecules.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.polymers.L3": {
+   "videos": [
+    {
+     "title": "Introduction to Polymers and Synthetic Fibers",
+     "channel": "Khan Academy India - English",
+     "youtube": "e1PDpTKJtGY",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Polymers and synthetic fibres made of long molecules.",
+     "confidence": "high"
+    },
+    {
+     "title": "Plastics & Types of Plastics",
+     "channel": "Khan Academy India - English",
+     "youtube": "oI1bhCaEWR8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Plastics as polymers.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on slime, rubber or silk specifically."
+  },
+  "sci.chemistry.reaction-speed.L3": {
+   "videos": [
+    {
+     "title": "Introduction to reaction rates",
+     "channel": "Khan Academy India - English",
+     "youtube": "pIBEOHNj4gw",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Reactions go at different speeds.",
+     "confidence": "high"
+    },
+    {
+     "title": "Catalysts",
+     "channel": "Khan Academy",
+     "youtube": "8TuPmpNfoX8",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Catalysts speed up reactions.",
+     "confidence": "high"
+    },
+    {
+     "title": "Rusting of iron",
+     "channel": "Khan Academy India - English",
+     "youtube": "5Dq9GEQUNhU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Rusting, a slow reaction.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.classification.sorting-living-things.L3": {
+   "videos": [
+    {
+     "title": "Taxonomy and the kingdoms of life",
+     "channel": "Khan Academy",
+     "youtube": "DeI_-dk4DSY",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Sorting living things into groups.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Systems of Classification",
+     "channel": "Khan Academy India - English",
+     "youtube": "mrheet-2osg",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Different systems of classification.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan treats classification as one scientific system; the idea that there is no single right way is the unit's own."
+  },
+  "sci.community.community-and-helpers.L3": {
+   "videos": [],
+   "note": "Not a Khan topic."
+  },
+  "sci.community.festivals.L3": {
+   "videos": [],
+   "note": "Not a Khan topic."
+  },
+  "sci.community.transport-and-communication.L3": {
+   "videos": [],
+   "note": "Not a Khan topic."
+  },
+  "sci.day-night-seasons.day-and-night.L3": {
+   "videos": [
+    {
+     "title": "Rotation of Earth",
+     "channel": "Khan Academy India - English",
+     "youtube": "wnzeOsefBEE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Earth's rotation causes day and night.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.day-night-seasons.rhythms-of-nature.L3": {
+   "videos": [
+    {
+     "title": "Photoperiodism",
+     "channel": "Khan Academy",
+     "youtube": "AQf3gKTCffs",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Flowers respond to daily and seasonal light.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on bird migration."
+  },
+  "sci.ecology.cycles-and-decomposers.L3": {
+   "videos": [
+    {
+     "title": "Matter and energy in food webs",
+     "channel": "Khan Academy",
+     "youtube": "qIgL05zOx5U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Decomposers return matter to the soil in food webs.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Flow of energy and matter through ecosystems",
+     "channel": "Khan Academy",
+     "youtube": "TitrRpMUt0I",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Matter cycles through ecosystems via decomposers.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.food-chains.L3": {
+   "videos": [
+    {
+     "title": "Food Chain and Food Webs",
+     "channel": "Khan Academy India - English",
+     "youtube": "HRyjMbuMDn0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Food chains and webs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Worked example: analyzing a generic food web",
+     "channel": "Khan Academy",
+     "youtube": "vniXioPlsLA",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Reading a food web.",
+     "confidence": "high"
+    },
+    {
+     "title": "Trophic levels",
+     "channel": "Khan Academy",
+     "youtube": "WlyT5gjPC1k",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Trophic levels from plants up.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.interdependence.L3": {
+   "videos": [
+    {
+     "title": "Competition, predation, and mutualism",
+     "channel": "Khan Academy",
+     "youtube": "S65RR_pEyPw",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Living things depend on each other.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Balance in an Ecosystem",
+     "channel": "Khan Academy India - English",
+     "youtube": "Dert3xLqikw",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Balance in an ecosystem.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on kindness to all beings."
+  },
+  "sci.electricity.simple-circuits.L3": {
+   "videos": [
+    {
+     "title": "Intro to electric circuits",
+     "channel": "Khan Academy",
+     "youtube": "Nbb5Lw14wvo",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "A complete loop of cell, wires and bulb.",
+     "confidence": "high"
+    },
+    {
+     "title": "Electric Cell Intro",
+     "channel": "Khan Academy India - English",
+     "youtube": "ZuL_OIdOcGo",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The electric cell.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Conductors and Insulators",
+     "channel": "Khan Academy India - English",
+     "youtube": "3x1iz_0ysfI",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Conductors and insulators.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  }
+ }
+}
