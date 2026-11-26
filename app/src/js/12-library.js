@@ -690,6 +690,11 @@ function topicRow(u) {
   const T = tagsOf(u)[0];
   return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(statusOf(u.k))}</button></div>`;
 }
+// a search result with what a parent can do with it: do it now, tomorrow, or in the queue
+function findRow(u) {
+  const a = (act) => `data-act="${act}" data-k="${esc(u.k)}" data-s="${u.subj}"`;
+  return `<div class="findrow">${topicRow(u)}<div class="row"><button class="btn xs accent" ${a("fnow")}>Do it now</button><button class="btn xs soft" ${a("fmorrow")}>Tomorrow</button><button class="btn xs soft" ${a("fqueue")}>Add to queue</button></div></div>`;
+}
 function topicsTab() {
   const q = ui.libq || "",
     hits = topicHits(q),
@@ -701,7 +706,7 @@ function topicsTab() {
     <p class="xs muted">${q ? `${hits.length} found in the syllabuses and DeepKids topics.` : "Search, or browse every chapter of every board below."}</p></div>`;
   if (q) {
     h +=
-      hits.map(topicRow).join("") +
+      hits.map(findRow).join("") +
       `<section class="card r-out tint"><b class="h5">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm self-start" data-act="tgen" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm err">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
@@ -1130,6 +1135,22 @@ function viewLibrary() {
 
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
+  fnow(b, e, a, k) {
+    qPut("les", b.dataset.s, "les:" + k, "first");
+    ACT.chapter(b, e, a, k);
+  },
+  fmorrow(b, e, a, k) {
+    qPut("les", b.dataset.s, "les:" + k, "first");
+    S.hold = { ...(S.hold || {}), [k]: addDays(today, 1) };
+    sfx("ok");
+    toast("Added to tomorrow's plan");
+    commit();
+  },
+  fqueue(b, e, a, k) {
+    qPut("les", b.dataset.s, "les:" + k, "last");
+    sfx("ok");
+    toast("Added to the end of the queue");
+  },
   pin(b, e, a, k) {
     const s = b.dataset.s;
     S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };

@@ -2073,6 +2073,11 @@ dialog.mini::backdrop {
 .rcardj b {
   font: 700 var(--fs-6) var(--display);
 }
+.findrow {
+  display: grid;
+  gap: 6px;
+  margin-top: 8px;
+}
 .topic {
   border-radius: 18px;
   background: var(--surface);

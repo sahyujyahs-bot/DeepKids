@@ -666,6 +666,18 @@ function firstWeekCard() {
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
    <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
+// search at the top of Today: a topic in, the units we have out, each one to do now, tomorrow or later
+function findBar() {
+  const q = (ui.fq || "").trim(),
+    hits = q ? topicHits(q).slice(0, 6) : [];
+  return `<section class="sec findbar"><div class="row nowrap"><input class="inp" id="fq" placeholder="What shall we learn? volcanoes, fractions, Akbar…" value="${esc(ui.fq || "")}" maxlength="80"><button class="btn sm" data-act="ffind">${q ? "Clear" : "Find"}</button></div>${
+    q
+      ? hits.length
+        ? hits.map(findRow).join("")
+        : `<p class="sm">Nothing on “${esc(q)}” yet.</p><button class="btn sm line" data-act="tsearch" data-q="${esc(q)}">Search the library and explore it as a new topic</button>`
+      : ""
+  }</section>`;
+}
 function viewToday() {
   const items = dayPlan(today),
     real = items.filter(isTask),
@@ -681,6 +693,7 @@ function viewToday() {
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
+  h += findBar();
   // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
   h += `<div class="todaygrid">${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
@@ -718,6 +731,11 @@ function fxTodayTop(animate) {
 
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
+  ffind() {
+    ui.fq = ui.fq ? "" : (document.getElementById("fq")?.value || "").trim();
+    sfx("tap");
+    render();
+  },
   topen(b, e, a, k) {
     const id = b.dataset.id,
       cur = !!ui.open[id];

@@ -158,6 +158,11 @@ document.addEventListener("keydown", (e) => {
     e.preventDefault();
     qSend();
   }
+  if (e.key === "Enter" && e.target.id === "fq") {
+    e.preventDefault();
+    ui.fq = e.target.value.trim();
+    render();
+  }
 });
 if ("speechSynthesis" in window)
   speechSynthesis.onvoiceschanged = () => {
