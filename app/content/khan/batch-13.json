@@ -1,0 +1,481 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.animals.vertebrate-groups.L2": {
+   "videos": [
+    {
+     "title": "Classification of Animals | Classification of Living Organisms | Middle School |Science|Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "YUUeO02eUKk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Sorting animals into groups, including those with backbones.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Vertebrata | Diversity in Living Organisms | Class 9 | Life Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "NlNiRMdf95s",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The vertebrate groups: fish, amphibians, reptiles, birds, mammals.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan India classification videos; neither is a child-level tour of the five groups and how to tell them apart."
+  },
+  "sci.body.growing.L2": {
+   "videos": [
+    {
+     "title": "Growing with Age | Adolescence:A Stage of Growth and Change | Grade 7 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "24AvS06QKS8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How the body grows and changes from childhood into adulthood.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers adolescence only; not baby to child growth or measuring ourselves over time."
+  },
+  "sci.body.skeleton.L2": {
+   "videos": [
+    {
+     "title": "Human Skeletal System | Our Skeletal System and the Skin | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "OPZkdgsfAhE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The skeleton inside the body and what bones do.",
+     "confidence": "high"
+    },
+    {
+     "title": "Joints | Muscular and Skeletal System | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7dZB56GpJFM",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Joints and how muscles and bones work together.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.teeth.L2": {
+   "videos": [
+    {
+     "title": "Teeth | Gastrointestinal system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "9wYbsSrDwbA",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Kinds of teeth and their jobs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nursing-level video; does not cover milk teeth versus adult teeth or looking after teeth."
+  },
+  "sci.changes.kitchen-science.L2": {
+   "videos": [
+    {
+     "title": "Physical changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jn-skkO5NNI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Physical changes such as melting.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Chemical changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "CT5CVpOVAoY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Chemical changes, where cooking makes new materials.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Bacteria in Yogurt Fermentation | Microbes in Human Welfare | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "IsTVU_Zu9QE",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How milk sets into curd (yogurt) through bacteria.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not mention boiling rice specifically."
+  },
+  "sci.changes.reversible-and-irreversible.L2": {
+   "videos": [
+    {
+     "title": "Physical changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jn-skkO5NNI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Changes of shape and state that do not make a new material.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Effect of Heat & Temperature on Matter | Changes Around Us | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ia1stqy4Yko",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Effect of heating and cooling on matter.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Uses the words physical and chemical change rather than reversible and irreversible."
+  },
+  "sci.chemistry.elements.L2": {
+   "videos": [
+    {
+     "title": "Elements | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "PeNjuIQFd9U",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Elements are substances made of one kind of atom.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Atoms and Molecules | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "EXCa58rcIKc",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Atoms and what substances are made of.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.classification.sorting-living-things.L2": {
+   "videos": [
+    {
+     "title": "Classification of Animals | Classification of Living Organisms | Middle School |Science|Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "YUUeO02eUKk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Grouping animals by their features.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover grouping by body covering, legs or food."
+  },
+  "sci.day-night-seasons.seasons.L2": {
+   "videos": [
+    {
+     "title": "Seasons | The Earth-sun-moon system | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "0r9Lc7oYq5M",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Why the seasons change and what changes.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Rain and Monsoon  | Rain where does it come from? | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "u_oaRZCGp2U",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "The monsoon rain season in India.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Neither covers all the seasons of India."
+  },
+  "sci.day-night-seasons.sun-appears-to-move.L2": {
+   "videos": [
+    {
+     "title": "Rotation of Earth | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "wnzeOsefBEE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Earth's rotation, which makes the Sun seem to cross the sky.",
+     "confidence": "medium"
+    },
+    {
+     "title": "How Shadows are Formed| Light and the Formation of Shadows | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "f6_kp6jcdIM",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "How shadows form.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover morning, noon and evening shadow lengths."
+  },
+  "sci.electricity.circuits.L2": {
+   "videos": [
+    {
+     "title": "Electric Cell Intro | Current Electricity | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ZuL_OIdOcGo",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The electric cell as the source in a circuit.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Intro to electric circuits | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Nbb5Lw14wvo",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Intro to circuits: battery, wires, a closed loop.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Neither is a hands-on build of a cell, wire and bulb circuit."
+  },
+  "sci.electricity.electrical-safety.L2": {
+   "videos": [],
+   "note": "Khan has no child-level electrical safety video; the earth-wire and fuse videos are for older students."
+  },
+  "sci.electricity.uses-of-electricity.L2": {
+   "videos": [],
+   "note": "No Khan video on everyday uses of electricity at this level."
+  },
+  "sci.energy.heat.L2": {
+   "videos": [
+    {
+     "title": "Thermal energy, temperature, and heat | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "-7Gl-yKF6Y4",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Heat, temperature and thermal energy.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Effect of Heat & Temperature on Matter | Changes Around Us | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ia1stqy4Yko",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "What heating and cooling do to things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover things that warm us up."
+  },
+  "sci.environment.caring.L2": {
+   "videos": [
+    {
+     "title": "Protecting natural resources | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "DhgROZK_f2k",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Protecting natural resources.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Human impacts on the environment | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ThpzFgoGrKE",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How people affect the environment.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Recycling Read Aloud For Kids | Fun Eco-Friendly Art Projects | Circle Time with Khan Academy Kids",
+     "channel": "Khan Academy Kids",
+     "youtube": "WvskqYhZ6i4",
+     "mins": 28,
+     "pitch": "on level",
+     "matches": "Recycling and reusing, read aloud for young children.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.closest-cousins.L2": {
+   "videos": [],
+   "note": "Khan has nothing on how apes live and care for each other; the Ape Clarification video is only about humans being apes."
+  },
+  "sci.evolution.fossils-and-extinction.L2": {
+   "videos": [
+    {
+     "title": "Fossils | Evolution | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "-fT57zGsXZ8",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What fossils are and what they tell us.",
+     "confidence": "high"
+    },
+    {
+     "title": "Fossils & their formation | Heredity & Evolution | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ZU9w6HUvZKg",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "How fossils form.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not cover dinosaurs."
+  },
+  "sci.evolution.inheritance.L2": {
+   "videos": [
+    {
+     "title": "Acquired vs inherited traits | Heredity & Evolution | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XyFgP3Hze4Q",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Inherited versus learned (acquired) traits.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Heredity",
+     "channel": "Khan Academy",
+     "youtube": "eEUvRrhmcxM",
+     "mins": 17,
+     "pitch": "older: watch together",
+     "matches": "Traits passed from parents to children.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.story-of-life.L2": {
+   "videos": [
+    {
+     "title": "Origins of life  | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "rMuj2MGeIAc",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "How life began on early Earth.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Evolutionary History of Living Organisms | Evolution | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Pep40zQJKgY",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Timeline of living things over geological time.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.food.healthy-food.L2": {
+   "videos": [
+    {
+     "title": "Introduction to Nutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Nutrients and what food does for the body.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover treats in moderation."
+  },
+  "sci.forces.changing-motion.L2": {
+   "videos": [
+    {
+     "title": "Forces | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "emZftp_UBKs",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What forces are and how they affect objects.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Net force | Movement and forces | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "fwDWJZkrtUE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Net force changes motion.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover change of shape."
+  },
+  "sci.forces.push-and-pull.L2": {
+   "videos": [
+    {
+     "title": "Forces | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "emZftp_UBKs",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Forces as pushes and pulls on objects.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.adaptations.L2": {
+   "videos": [
+    {
+     "title": "Natural selection and adaptation | Mechanisms of evolution | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "giw2ELZr-bE",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How features suit living things to where they live.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Adaption in plants in forest and grasslands | Adaptations | MH Grade 6  | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Iaa_etRkwV8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Plants adapted to forests and grasslands.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover fins or camel humps."
+  },
+  "sci.habitats.city-nature.L2": {
+   "videos": [],
+   "note": "No Khan video on city wildlife at this level."
+  },
+  "sci.habitats.habitats.L2": {
+   "videos": [
+    {
+     "title": "Habitat (Intro and types) | Habitat | Science | Grade 6 | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "0cdteShyjh8",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What a habitat is and its types.",
+     "confidence": "high"
+    },
+    {
+     "title": "Tree, our house and garden as a habitat | Habitat | Class 6 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "AJkVDsHt_U0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "A tree, house and garden as habitats.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Does not cover rocks in the environment."
+  },
+  "sci.health.exercise-and-rest.L2": {
+   "videos": [],
+   "note": "Only adult medical exercise and sleep-disorder videos; none suit this level."
+  }
+ }
+}
