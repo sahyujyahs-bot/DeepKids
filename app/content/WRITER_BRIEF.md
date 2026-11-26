@@ -7,6 +7,25 @@ You write DeepKids lessons for Indian children aged 6 to 10 and the tired parent
 - Reviewers and rewriters use this same file. Lessons written on request for a family use `writer/LIVE_BRIEF.md`.
 - Never edit a lesson's content unless you were asked to write or fix that lesson. Never run git. Never touch the app build or anyone else's files.
 
+## The founder's standing requirements (check every lesson against these last)
+
+Every section is written with care, thoroughly, thought through and free of bias. Nothing is filler. Word counts and sentence lengths in this file are guides only: clear delivery of the concept always wins.
+
+1. **Oneness rooted.** The lesson and its roots lead the child towards oneness by their own thinking (sections C and J).
+2. **Big questions:** at least one, and the checker wants 4 or more, both kinds.
+3. **All perspectives given.** Every explanation gets its other views or a reasoned `one_view` (section M).
+4. **Challenging views presented,** and **debates among scientists** presented fairly, with evidence on each side.
+5. **Ancient texts' views on the concept** are presented, with exact sources, and an honest other view.
+6. **Experiments, activities and projects must work every time,** for different families at different times (section N).
+7. **No repetition.** The same point is never stated again in different words anywhere in the lesson.
+8. **The story is deep,** brings in perspectives and restates the concept in a new way. It is never a few characters delivering what the lesson already said (section J).
+9. **Challenges:** engineering challenges that relate to the concept, solving real problems, then creative solutions (section K).
+10. **Maths is real maths of the concept** (section K).
+11. **The quiz is solid:** questions that really test the concept and understanding (section K).
+12. **Jokes are as good as possible** (section K).
+13. **Roots tell the child how understanding this concept brings them closer to who they are, what life is and what this world is** (section J).
+14. **Spotted and applications connect the concept to the child's everyday life,** never a shallow list to fill the page (section K).
+
 Where the words "lesson" and "unit" appear: families only ever read "this lesson", "this idea" or the name of the thing. "Unit" and "topic" are our filing words and never go into text a family reads.
 
 ---
@@ -14,7 +33,7 @@ Where the words "lesson" and "unit" appear: families only ever read "this lesson
 ## A. Before you write
 
 1. **Find what the lesson must cover.** In `app/content/curriculum/sci.json` (`subtopic_levels`), find your id. Cover everything in `covers`. Note board chapters, prerequisites, go-deep and go-wide links.
-2. **Use the founder's material first.** Her notes are in `app/content/ideas/by_topic/<topic>.md`. Her sheets (including the column "Philosophy underlying the concepts", which feeds `roots`) are dumped at `/tmp/claude-0/-home-user/19592352-17e5-5d4c-8f59-ec21b7793c21/scratchpad/sheets_dump.txt` (search it for your subtopic's words). Use her activities and ideas first, then add many more. List what you used in `sources.founder`.
+2. **Use the founder's material first.** Her notes are in `app/content/ideas/by_topic/<topic>.md`. Her spreadsheets (DeepKids HomeSchooling Track and DeepKids V0.1, including the column "Philosophy underlying the concepts", which feeds `roots`) are the other source. A text dump of them may sit in a session scratchpad. If you cannot find it, use the notes file and say in your `playtest` note that the sheets were not available. Use her activities and ideas first, then add many more. List what you used in `sources.founder`.
 3. **Reuse what exists.** The Combined lessons for your topic are in `app/content/combined/` (for example `sci-C3-<topic>.json`, and the C1 to C5 rungs of the same topic). They already hold subconcepts, day plans, experiments, voices and worksheets. Take what fits and improve it. Credit them in `sources.founder`. Do not reuse their story.
 4. **Check facts.** `knowledge/by_subtopic.json` lists open-textbook sections for accuracy. Books marked `reference` or `share-alike` are for facts only: never copy their words. Board packs in `app/content/ncert/`, `cambridge/` and `nios/` are for coverage only.
 5. **Read every other deep truth** before you write yours: `python3 app/build/deep_truths.py`. Yours must say something none of them says.
@@ -89,9 +108,10 @@ Where the words "lesson" and "unit" appear: families only ever read "this lesson
 15. **Honest about doubt, in plain words.** "Scientists still argue about this. Here are the main ideas."
 16. **A question at the start is a real question** a curious child would ask ("The magnet never touched the pin. So how did it move it?"), and the lesson answers it.
 17. **Meaning comes from the science, not from morals.** Questions about life grow out of what the child found ("If every creature senses a different world, which one is the real one?"), never a moral stuck on.
-18. **Not only measuring.** Science is the philosophy of nature, not a science of measurements. At most half the maths problems read or add up measurements. The rest compare, predict, spot a pattern or explain an odd result.
+18. **Not only measuring.** Science is the philosophy of nature, not a science of measurements. Measuring is a tool for answering a question. At most half the maths problems read or add up measurements. The rest compare, predict, spot a pattern or explain an odd result.
 19. **Parent words and child words.** `say` is the parent's words, word for word. `do` is what the parent does. `parent` notes are for the parent only. `kid` speaks straight to the child: "you", present tense, at most four short sentences.
-20. **Proofread.** Grammar and agreement ("they take in… and give out"). Every sentence says what it means. Read your text aloud once. If you stumble, split the sentence.
+20. **No repetition.** Never state the same point twice in different words, inside a card, between cards, or across the story, explanations, summary and roots. Each card adds something new. If a section only repeats what was already said, cut it or find the new thing it should say.
+21. **Proofread.** Grammar and agreement ("they take in… and give out"). Every sentence says what it means. Read your text aloud once. If you stumble, split the sentence.
 
 Before and after:
 
@@ -155,14 +175,15 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `challenging` | 2 or more views, each with `who`, `for`, `against`, `status` (`accepted`, `debated`, `minority`, `rejected`). At least one still debated or minority |
 | `big_questions` | 4 or more, both kinds (`deep` goes down into the idea, `big` goes out to life), each ends with "?" and has a `hint` that never gives the answer |
 | `open_questions` | 3 or more `{q, why_open}` |
-| `story` | `{title, text[], epiphany, ask[], art[], read_aloud: true}`. 450 to 1400 words (aim for 600 to 1300) |
+| `story` | `{title, text[], epiphany, ask[], art[], read_aloud: true}`. About 450 to 1400 words (a guide; depth matters more) |
+| `spotted`, `applications` | where the idea shows up in the child's own day, in India, and where it is used (section K) |
 | `how_we_found_out` | `{story, who, when, wrong_idea}`, 80 to 200 words |
 | `games` | with `printables`, `rules`, `flow`, `setup`, `players` |
 | `experiments`, `activities`, `projects`, `challenges` | `setup` of 2 or more step pictures, `flow`, `materials`, `context`, `mins` |
 | `worksheets` | 15 or more items each (10 for Levels 1 and 2), tiers `core`, `stretch`, `challenge` |
 | `quiz` | 10 or more items, mostly `mcq`, each tagged with an `outcome`, every outcome covered |
 | `videos` | exactly 3 |
-| `jokes` | 8 to 10 real jokes a child would laugh at |
+| `jokes` | 8 to 10 jokes, each really funny to a child and tied to the idea (section K) |
 | `warmup` | 5 to 10 `{q, a}` |
 | `maths` | `{problem, answer, explain, math_unit, why_maths}` |
 | `song` | `{"topic_level": "<topic-level id, for example sci.gravity.L3>", "title": "<the topic's song title>", "note": "Topic-level song"}`. No lyrics. Lessons of the same topic share one title |
@@ -193,7 +214,7 @@ A Class 3 year has about 135 hours of science, so the planner teaches each lesso
 
 ## J. Story, how we found out, and roots
 
-**Story.** A story carries one idea the child can keep thinking about, with real characters who do real things, an epiphany that comes from the science, and questions left open. Real history is welcome: mark what is imagined in `note`. A picture-phrase is allowed here after the plain idea is clear. The science in it is true.
+**Story.** A story is deep, never a few characters delivering what the lesson already said. It carries one idea the child can keep thinking about, with real characters who do real things. It brings in different perspectives (people who see the same thing differently, an old belief meeting new evidence, a view from another culture or another being) while restating the concept in a new way the lesson has not used. It has an epiphany that comes from the science and questions left open. If you can cut the story and lose nothing the lesson has not already said, rewrite it. Real history is welcome: mark what is imagined in `note`. A picture-phrase is allowed here after the plain idea is clear. The science in it is true.
 - It ends with a question (`ask`), never a moral stuck on.
 - Name every character at first mention. No question elsewhere in the lesson asks about the story.
 - Do not reuse the water-pourer story or the themes listed in `app/content/combined/BRIEF.md`.
@@ -208,7 +229,7 @@ A Class 3 year has about 135 hours of science, so the planner teaches each lesso
 "roots": {
   "context": "One plain line: we have been learning X; now we ask what X tells us about ourselves and the world.",
   "deep_truth": {"truth": "3 to 5 short sentences", "habit": "the exact label or split it questions, and why", "evidence": "the finding from this lesson that points to it"},
-  "three": {"who_am_i": "...", "what_is_life": "...", "what_is_this_world": "..."},  // one or two child-sized sentences each, tied to THIS lesson
+  "three": {"who_am_i": "...", "what_is_life": "...", "what_is_this_world": "..."},  // each says how understanding THIS concept takes the child closer to that answer
   "thread": "3 to 5 sentences: the real connection for this topic, in plain words",
   "teachings": [{"source": "Chandogya Upanishad 6.13", "teaching": "in plain words", "link": "how it honestly meets this lesson's science"}],  // 2 to 3
   "science": [{"text": "what science says that resonates", "status": "settled|idea|debated|open"}],  // 1 to 2
@@ -233,6 +254,7 @@ Good: "A steel needle can be a magnet one minute and not the next. Stroke it wit
 Bad: "Thinking is older than neurons." (another lesson's truth.) "A spring does not remember its shape." (denies a mind.) "Your edge is a doorway, not a wall." (a slogan from another topic.)
 
 **Roots rules.**
+- **Show why the concept matters for who we are.** Beside the ancient passages, `three` and `thread` must say how understanding this concept brings the child closer to Who am I, What is life and What is this world or universe. The child must see the concept is not a random abstract fact but a step towards oneness. Write something specific to the concept, in plain words, in 2 to 3 child-sized sentences for each of the three questions.
 - **Exact sources.** Name the text and the place: Chandogya Upanishad 6.13, Rig Veda 10.129, Tao Te Ching 42. If you are not sure, leave it out. Check every quote against its source and paraphrase it plainly.
 - **Wide, not one tradition.** Lead with Indian thought where it fits. Also use Buddhist, Jain, Sufi, Taoist, Greek, Indigenous, and modern philosophers and scientists.
 - **Always one honest other view,** said fairly: Charvaka (only matter, the self ends with the body), the Buddha's anatta (no fixed self), Dvaita (soul and God always two), physicalism (most neuroscientists think awareness is what brains do), Dennett (consciousness may be less mysterious than it feels).
@@ -257,6 +279,7 @@ Bad: "Thinking is older than neurons." (another lesson's truth.) "A spring does 
 - **A multi-day experiment** (`days` above 1) needs a `schedule` of 2 or more entries.
 
 **Activities, projects and challenges.**
+- **Every lesson has at least one engineering challenge** that relates to the concept: a real problem to solve (for example, a bridge that holds weight when the concept is forces). The steps go from the problem to the usual solutions (`general`), then to creative solutions (`creative`), then the child's own (`your_turn`).
 - An **activity** is one sitting, many per lesson, and is not a worksheet with a pencil. A **project** runs over several days with a `schedule` and a `record`. A **challenge** is an engineering or design problem with `problem`, `constraints`, `materials`, `flow`, `general` (the usual solutions), `creative` (surprising ones) and `your_turn` (the child's own). A challenge says there is more than one good answer and never ranks one as true.
 - Start from something the child can see or touch. A Level 1 child gets the same big idea with a simpler action: sorting, drawing, acting, comparing.
 - Each ends with an open question the child answers in their own way (`think`).
@@ -280,7 +303,10 @@ Bad: "Thinking is older than neurons." (another lesson's truth.) "A spring does 
 - An open `write` item may have no single answer: its `a` lists what a good answer includes.
 - Core, stretch and challenge climb in difficulty and each asks new things, not harder copies.
 - The quiz covers every outcome, at least one item per outcome. A mcq answer number is inside the options.
-- Every maths problem grows out of something the child did or saw in this lesson and says why in `why_maths`.
+- **Maths is the actual maths of the concept,** work that cannot be done without understanding it: the sums, ratios, graphs and patterns the concept itself uses (force and mass, speed and distance, how a quantity scales). Never counting or sorting items wrapped in a word problem that only mentions the concept. Each problem says why this maths helps in `why_maths`.
+- **The quiz is solid.** Questions test the concept and understanding: why, what would change, how you would test it, apply it somewhere new, spot the faulty reasoning. Mix easy, medium and hard. Wrong options are real misconceptions. No trivia and no recall of the lesson's wording.
+- **Jokes are as good as possible.** Each is a real joke a child would laugh at, tied to the lesson's idea, clean, bias-free, in kind humour. A pun, a surprise or a silly picture is fine. Test each one on a child in your head, and drop any that only sound like a joke. A weak joke is worse than none.
+- **`spotted` and `applications`** each give real, specific places in the child's own day where the idea works: kitchen, street, school bag, bus ride, festival, field. Every entry says what to look at and what to notice. Never a generic list such as "friction is used in many things".
 
 **Visuals.** Choose by asking what the reader needs to see.
 
@@ -325,7 +351,7 @@ If at least two answers give a real second view, write `perspectives`. If none d
 ## N. Play-test before you finish (everything must really work)
 
 Go through every experiment, activity, game, challenge and project as if you were doing it at home today.
-1. **Experiments work.** In a city flat, with only the listed things, the result really happens and is big enough to see. Name amounts, sizes, times and what to look for. Write the result you would really get. If the real result is often messy (seeds that do not sprout, ice that melts too fast) or doubtful, say what to do, make it an optional extra, or replace it. Never depend on luck (finding woodlice under a stone).
+1. **Experiments work every time,** for different families at different times: summer or winter, humid or dry, hard water or soft, a different brand of salt, a bigger or smaller tumbler. In a city flat, with only the listed things, the result really happens and is big enough to see. Where the result depends on temperature, humidity or the material, give a range of amounts and a backup ("if the ice has not melted in 10 minutes, use warm tap water"). Do not depend on the day's weather, a particular brand, or a result that only sometimes appears. Name amounts, sizes, times and what to look for. Write the result you would really get. If the real result is often messy (seeds that do not sprout, ice that melts too fast) or doubtful, say what to do, make it an optional extra, or replace it. Never depend on luck (finding woodlice under a stone).
 2. **Materials are ones most homes have:** steel bowls, curd, atta, salt, a torch, a plastic bottle, newspaper, a potted plant. Anything bought is easy to buy in India and has a home alternative. Never depend on a brand. Living things are ones nearly always there: ants, a crow at the window, a potted plant, curd, a sprouting seed, the child's own body.
 3. **Activities fit the age.** A 6-to-10-year-old can do each step with the help the step says. No step assumes things most Indian homes lack.
 4. **Timings are honest.** Minutes match what the steps take. Lead times are in the plan.
