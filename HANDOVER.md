@@ -1,35 +1,25 @@
-# Handover for a fresh session (read this first, then CLAUDE.md)
+# Handover (2026-11-26)
 
-The founder is not a programmer. Short, plain replies. She pays for every token (see "Spending" in CLAUDE.md): ask her which model before every helper job, helpers never on Opus, run big jobs in batches of about 10 units, one combined preview instead of many screenshot rounds.
+Branch: `claude/homeschooling-app-india-83y794`. Latest push: e74c5638. Working tree clean. No helpers or tests are running.
 
-## Standing rules (also in CLAUDE.md)
-- Branch `claude/homeschooling-app-india-83y794`; a push deploys app.deepkids.in in about 15 minutes. No pull requests. The stop hook needs a clean tree: `find app/content/media -name "*.dl" -delete`, then commit and push, often.
-- End commits with the Co-Authored-By and Claude-Session lines for the model in use.
-- Never commit live user data, keys or phone numbers. Images: public domain, CC0 or CC BY with credit, or the founder's own drawings, or Canva designs credited "Designed in Canva".
-- Build chain: `python3 app/build/combined/build.py`, `python3 app/build/build_app.py`, `python3 web/build_web.py`, `git checkout web/public/config.js`. Checks: `cd app && npm run lint`, `node app/tests/matrix.js <url>` (15 family types), `clickall.js`, `unitflow.js`. A test server on a copy of `app/index.html` with `<meta charset="utf-8">` in front, with `media` and `units` linked beside it.
-- Questions test ideas, never the book (WRITING.md). Without AI first.
+## Done and live (pushed)
+- Search bar on Today; no-match shows "write me a mini lesson" (Sonnet, `12-live.js`) with a writing animation; the mini lesson goes into plan, history, refresher and started lists; free "request full lesson" button; ready lesson replaces the mini one (`replaceLive`).
+- IAm chat step-by-step with all philosophies; chats stored (`iam_chats`); searches with no unit stored (`topic_gaps`); founder email on request via `unit-request` function.
+- Khan videos on 329 units; 39 high-confidence non-Khan videos on 31 units ("More to watch", `app/content/explainers/`). 66 medium matches are NOT added.
+- Six new Fable units (validated, in build): conductors-insulators L4, gravity-orbits L5, seasons L5, melting-solidifying L4, energy-transfers L4, volcanoes-earthquakes L4. Not home-tested; facts to check are in each unit's `playtest` note; art is text briefs only.
+- Perspectives video (animated, voiced, 70 s): /tmp/sh/persp/video-two-v1.mp4 (container only, may be gone).
 
-## Where things stand (2 Nov 2026, end of the second session)
-- Science units: Levels 1 to 3 all written, play-tested, live (42 + 64 + 147). Level 5 (248 planned) not written.
-- Level 4 (160 planned): 3 units written so far, none built into the app yet: `plants.plant-variety` (the earlier sample), `microorganisms.helpful-microbes` and `states.floating-and-sinking` (full units written by Sonnet in session two, both pass `validate_unit.py`; videos and pictures still to do, facts to verify are listed in each unit's `playtest` note). Next in the plan: `what-is-life.signs-of-life.L4`, then the other Level 4 ids in `app/content/curriculum/sci.json` (161 ids). Write them with the founder's rule set: SPEC_UNIT.md, WRITING.md, PHILOSOPHY.md, REWRITE_UNIT.md, PLAYTEST.md. Building the units into the app needs the founder's go-ahead.
-- All 928 book-detail questions rewritten as concept questions. Done.
-- Media still to do for Levels 1 and 2: Level 1 set-up drawings are at 137 of 206 after two Fable batches (20 units done). The next 10 Level 1 units with no set-up drawings are listed by `audit_media.py -v` (about 70 left in Level 1, then 276 in Level 2), many card pictures, videos missing on 25 units (35 videos; use a cheap Haiku helper with `app/build/find_videos.py --search`), songs not written for any unit (founder said later).
-- Level 3: the covers, experiments and projects that were empty are now drawn. About 1,500 explanation and word cards have no picture and probably should stay that way.
-- Welcome screen, Today pictures, Progress (constellation tiles), subject colours (navy maths, yellow English, coral Hindi, green science) are done and approved. The founder's drawings are in `app/content/drawings/` (README lists them).
-- Waiting on the founder: the 77 Canva pictures (Excel list sent), a new picture for the "Know what your child has learned" welcome slide, a redraw of the rooftop picture if she wants one, whether the Meet IAm slide should say "Part of DeepKids Plus" (it does).
-- Stale web tests: `web/tests/test_web.js`, `test_plus.js`, `test_edits.js`, `test_flash.js` still expect the old phone log-in.
-- Not done yet: white text on the new yellow English colour may be hard to read in a few places (labels, finished-chapter dots).
+## Not done
+- Final full browser test (`sh app/tests/run.sh`) on the last build was not completed (earlier run: 0 FAIL up to the last few checks). Run it first.
+- Founder must add `FOUNDER_EMAIL` secret in Supabase (Edge Functions, Secrets). Until then request emails are not sent.
+- Founder reviews three video veto lists (106 earlier; 109 in veto_list2.md; veto_list3.md = 39 live + 66 not added). Files were in the old session's scratchpad.
+- Doc audit answer: writers read WRITER_BRIEF + EXAMPLES + SPEC_UNIT + one part card + validator; reviewers/rewriters do not read PLAYTEST.md / REWRITE_UNIT.md / BRIEF_UNIT.md; in-app generators use short built-in rules (`IAM_VOICE`, `livePrompt`), not the md files.
+- 351 units still to write (285 planned-unwritten L4-5, 46 new science, 20 new social). Fable used ~1% of weekly limit per unit (~280K tokens each; the unit output is the main cost).
 
-## Running when this session ended
-- Nothing. Both Level 1 drawing batches (20 units, Fable, about 1.3 million tokens each) finished and were saved.
+## Plan awaiting founder's yes (cheaper Fable writing)
+1. One combined rules file (~8K tokens): WRITER_BRIEF + PHILOSOPHY + BRIEF_UNIT + playtest checks + part cards; all writers/reviewers/rewriters read only it + validator.
+2. Fable writes only deep parts (roots with deep_truth, explanations, perspectives, open questions, 2-session spine); Sonnet writes routine parts (quiz, worksheets, warmup, games, buy list, activity steps); Haiku finds and verifies videos.
+3. Batches of 3 units, measure, then scale. Ask founder (model, helper count, rough cost) before any helper job.
 
-## How the drawing jobs work
-- Style engine: an anidoodle project (flatKit.ts and moongFlat.ts are in `app/build/drawings/`). It lives only in a session scratchpad (`.../scratchpad/art`, with node_modules); in a new session, create one with `node <anidoodle skill>/engine/tools/scaffold.mjs <dir>`, then `npm install --legacy-peer-deps --omit=optional` inside it, and copy those two files into `src/canvas-core/`. Copy `app/build/workflows/lean-unit-media.js` to the scratchpad and change its `ART` line to the new folder.
-- Job scripts: `app/build/workflows/lean-unit-media.js` (one Fable helper per unit: all missing set-up cards plus up to 10 card pictures) and `lean-fill-keys.js` (draws exactly the listed slots). Fable cost about 106,000 tokens per unit with the lean method. Both take `args` as a list of `{f: "<unit>.json", s: setup count}` or `{f, keys: [...]}`.
-- Audit: `python3 app/build/audit_media.py -v` (run from the repo root) lists what each unit still lacks.
-- Question rewrites: `app/build/apply_question_rewrites.py` applied the helper results while keeping each file's layout.
-
-## Good habits learned
-- The unit checker prints `<file>: OK (...)` on success; it does not start with OK.
-- Never run `git stash` and `git stash pop` as a pair on a clean tree: pop applies an old stash. There is one old stash on purpose; leave it.
-- Wikimedia Commons refuses requests most of the time; iNaturalist and NASA work.
+## Rules to keep
+See CLAUDE.md. Founder pays per token: short plain replies, never Opus for helpers, no helper without her yes. Costs for families in INR only. Push only to the branch above, no PRs, commit trailers as before. End replies with the veto-list reminder.
