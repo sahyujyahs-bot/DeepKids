@@ -1,0 +1,146 @@
+{
+ "note": "Leads only, from the ezyschooling.com list 'Best Home schools in india' (updated 19 Oct 2026). Fees (Rs per month) and boards are as listed by that directory, not checked on each school's own site. Each school still needs its own file.",
+ "list_size": 22,
+ "schools": [
+  {
+   "name": "The Class Of One",
+   "fees_month_inr": "6.46-8.40K",
+   "boards": "CBSE, NIOS, IGCSE",
+   "classes": "Pre Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Cyboard School",
+   "fees_month_inr": "2.78-7.45K",
+   "boards": "CBSE",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Sunbeam World School",
+   "fees_month_inr": "4.07-8K",
+   "boards": "CBSE, Cambridge, NIOS, IAO, BOSSE",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Go School",
+   "fees_month_inr": "11.75-22.92K",
+   "boards": "Cambridge",
+   "classes": "6-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Dreamtime Learning School",
+   "fees_month_inr": "3.33-10.83K",
+   "boards": "NIOS, Cambridge",
+   "classes": "Pre Nursery-10",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "21K School",
+   "fees_month_inr": "4.33-15.44K",
+   "boards": "NIOS, Cambridge",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "StayQrious Neoschool",
+   "fees_month_inr": "16.67K",
+   "boards": "Cambridge, IGCSE",
+   "classes": "4-6",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "The Himalayan School",
+   "fees_month_inr": "6.29-7.79K",
+   "boards": "Cambridge, IGCSE +1",
+   "classes": "1-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "All Gifted School",
+   "fees_month_inr": null,
+   "boards": "US High School",
+   "classes": "6-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "K12 Schools",
+   "fees_month_inr": "4.17-6.67K",
+   "boards": "NIOS, Cambridge",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "The Class Of One - Edu4All",
+   "fees_month_inr": "4.13K",
+   "boards": "CBSE",
+   "classes": "LKG-8",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Vikalp Online School",
+   "fees_month_inr": "2.36-7.70K",
+   "boards": "CBSE, NIOS",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "K8 School",
+   "fees_month_inr": "7.92-8.75K",
+   "boards": "CBSE",
+   "classes": "Nursery-8",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "The World Ecademy",
+   "fees_month_inr": "3.73-12.10K",
+   "boards": "NIOS, IGCSE",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Delhi Model Virtual School",
+   "fees_month_inr": null,
+   "boards": "DBSE",
+   "classes": "9-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Birla Brainiacs",
+   "fees_month_inr": "5.42-6.25K",
+   "boards": "NIOS, Cambridge",
+   "classes": "Nursery-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Zuvio Global School",
+   "fees_month_inr": "5-7K",
+   "boards": "IAO",
+   "classes": "Toddler-8",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Spruha Virtual School",
+   "fees_month_inr": null,
+   "boards": "NIOS",
+   "classes": "1-10",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "Walnut School",
+   "fees_month_inr": "5.35K",
+   "boards": "CBSE",
+   "classes": "UKG-12",
+   "checked_on_own_site": false
+  },
+  {
+   "name": "AOL School",
+   "fees_month_inr": null,
+   "boards": "CBSE",
+   "classes": "Pre Nursery-8",
+   "checked_on_own_site": false
+  }
+ ]
+}
