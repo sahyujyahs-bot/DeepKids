@@ -1,0 +1,526 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.motion.physics-of-sport.L3": {
+   "videos": [
+    {
+     "title": "Friction and its types | Middle School Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "pSV9DdD0jgI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why running and sliding feel different on different ground: friction.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Conservation of energy | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "Tf4A93763Bw",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Energy changing between height and movement, as in a bouncing ball.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Projectile at an angle | Two-dimensional motion | Physics",
+     "channel": "Khan Academy",
+     "youtube": "ZZ39o1rAZWY",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "The path of a thrown or kicked ball.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Pitched at older students and uses calculations; none is about sport itself."
+  },
+  "sci.motion.spinning.L3": {
+   "videos": [
+    {
+     "title": "Conservation of angular momentum | Torque and angular momentum | Physics",
+     "channel": "Khan Academy",
+     "youtube": "vfmLI150g4w",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Why spinning things keep spinning and spin faster when pulled in.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Angular momentum | Moments, torque, and angular momentum | Physics",
+     "channel": "Khan Academy",
+     "youtube": "nFSMu3bxXVA",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "What angular momentum is for spinning objects.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Physics-course level with maths; does not explain specifically why a spinning top stays upright (gyroscopic effect)."
+  },
+  "sci.motion.swings-and-pendulums.L3": {
+   "videos": [],
+   "note": "High-school physics with formulas; the idea (length changes the swing time) is the same. Dropped on review: the matches were too loose."
+  },
+  "sci.nothing-and-forever.infinity.L3": {
+   "videos": [],
+   "note": "No Khan video on infinity as an idea for children; the ones found are calculus limits."
+  },
+  "sci.patterns-symmetry.fractals-and-spirals.L3": {
+   "videos": [
+    {
+     "title": "Fractals | Exploring Some Geometric Themes | Grade 8 | NCERT",
+     "channel": "Khan Academy India - English",
+     "youtube": "yi1c2_NEJlo",
+     "mins": 11,
+     "pitch": "on level",
+     "matches": "Patterns repeating inside themselves (fractals).",
+     "confidence": "high"
+    },
+    {
+     "title": "Fibonacci Visualisation | Patterns in Mathematics | Class 6 NCERT",
+     "channel": "Khan Academy India - English",
+     "youtube": "MTf90nyB55Y",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "The Fibonacci number pattern and its spiral.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Koch snowflake fractal | Perimeter, area, and volume | Geometry",
+     "channel": "Khan Academy",
+     "youtube": "azBNsPa1WC4",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How a fractal is built by repeating a step.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover ferns, cauliflower, coastlines, sunflowers or crystal growing."
+  },
+  "sci.patterns-symmetry.symmetry-in-nature.L3": {
+   "videos": [
+    {
+     "title": "Identifying symmetrical figures | Math | 4th grade",
+     "channel": "Khan Academy",
+     "youtube": "59s_CQjTD6w",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Line symmetry in shapes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Order of rotation, Center of rotation | Symmetry | NCERT Grade 7",
+     "channel": "Khan Academy India - English",
+     "youtube": "vELA60vPMGw",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Rotational symmetry and its order.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Maths shapes only; nothing on flowers, snowflakes, rangoli or why nature makes symmetry."
+  },
+  "sci.planet-earth.maps-and-directions.L3": {
+   "videos": [],
+   "note": "No Khan Academy video on directions or drawing maps found on an accepted channel."
+  },
+  "sci.planet-earth.soil-and-crops.L3": {
+   "videos": [
+    {
+     "title": "Layer of soil and its formation | Middle school science",
+     "channel": "Khan Academy India - English",
+     "youtube": "kyhBLIMzqW0",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How soil forms from rock and dead plants and animals.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Soil | Nature's Treasures | Grade 6 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "JdDOv0HXDpw",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What soil is made of and why it matters.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover worms in soil."
+  },
+  "sci.plants.photosynthesis.L3": {
+   "videos": [
+    {
+     "title": "Photosynthesis | Life processes | Biology",
+     "channel": "Khan Academy India - English",
+     "youtube": "PSGKRd7Bbl0",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Leaves make food from light, water and air.",
+     "confidence": "high"
+    },
+    {
+     "title": "Photosynthesis",
+     "channel": "Khan Academy",
+     "youtube": "-rsYk4eCKnA",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "How plants turn light, water and carbon dioxide into sugar.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Detailed secondary-school biology; does not make the point that a tree is built mostly from air."
+  },
+  "sci.plants.plant-parts.L3": {
+   "videos": [
+    {
+     "title": "Function of roots | Plants: Parts and Functions | Class 6",
+     "channel": "Khan Academy India - English",
+     "youtube": "Sd6ug5FCl3c",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Roots: what they do and how their shape fits the job.",
+     "confidence": "high"
+    },
+    {
+     "title": "Functions of a leaf | Plants: Parts and Functions | Class 6",
+     "channel": "Khan Academy India - English",
+     "youtube": "QqJtjXTjEdk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Leaves catch light and make food.",
+     "confidence": "high"
+    },
+    {
+     "title": "All About Leaves | Plant Structure & Functions",
+     "channel": "Khan Academy India - English",
+     "youtube": "XOYrMXtOYq8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Leaf structure suited to its job.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover climbing stems."
+  },
+  "sci.plants.plant-variety.L3": {
+   "videos": [
+    {
+     "title": "Diversity in Plants | Introduction to Biodiversity | Middle School",
+     "channel": "Khan Academy India - English",
+     "youtube": "qpDOWitPKUY",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Different kinds of plants.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers plant diversity, not herbs/shrubs/trees/climbers specifically or how people use plants."
+  },
+  "sci.plants.water-transport.L3": {
+   "videos": [
+    {
+     "title": "Xylem & transpiration | Life processes | Biology",
+     "channel": "Khan Academy India - English",
+     "youtube": "d60lqIfGeQw",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Water moving up from roots through the xylem to the leaves.",
+     "confidence": "high"
+    },
+    {
+     "title": "Transpiration | Plants: Parts and Functions | Class 6",
+     "channel": "Khan Academy India - English",
+     "youtube": "xfjWQ899vfw",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Water leaving the leaves, pulling water up the plant.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not show the coloured-water celery experiment."
+  },
+  "sci.seeds-and-life-cycles.plant-life-cycle.L3": {
+   "videos": [
+    {
+     "title": "Life Cycle of a Plant | Living Creatures | Grade 6 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "7T2DzHUtqKo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Seed to plant to flower to fruit to seed.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.seeds-and-life-cycles.seeds-and-germination.L3": {
+   "videos": [
+    {
+     "title": "Seed Germination | Reproduction | Class 10 | Biology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "YsbpV3nbFYg",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How a seed sprouts.",
+     "confidence": "medium"
+    },
+    {
+     "title": "The Seed | Morphology of Flowering Plants | Grade 11 | Biology",
+     "channel": "Khan Academy India - English",
+     "youtube": "CfkgCJyclpY",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Parts inside a seed, including the embryo and food store.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Older-student pitch; may not stress water, warmth and air as the needs."
+  },
+  "sci.senses.five-senses.L3": {
+   "videos": [
+    {
+     "title": "Sensory processing and the brain | Middle school biology",
+     "channel": "Khan Academy",
+     "youtube": "fMrz3L9bMsI",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How senses send signals to the brain and work together.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Human ear - structure & working | Sound | Class 9 | Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "98-6WfdumZY",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How hearing works.",
+     "confidence": "medium"
+    },
+    {
+     "title": "The Sensation of Touch | Sense organs | Class 9 | Biology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "7sTpxVnaEdw",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How touch works.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No single video covers all five senses; taste and smell not covered here."
+  },
+  "sci.senses.more-senses.L3": {
+   "videos": [
+    {
+     "title": "The vestibular system, balance, and dizziness",
+     "channel": "khanacademymedicine",
+     "youtube": "1AZnFszUroI",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "The sense of balance.",
+     "confidence": "high"
+    },
+    {
+     "title": "Proprioception and kinesthesia",
+     "channel": "khanacademymedicine",
+     "youtube": "yKfpBGicqNQ",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Knowing where your body parts are.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pain and temperature",
+     "channel": "khanacademymedicine",
+     "youtube": "_oHAMppBS7s",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Sensing pain and temperature.",
+     "confidence": "high"
+    }
+   ],
+   "note": "University-level; does not cover animals with senses we lack."
+  },
+  "sci.senses.perception.L3": {
+   "videos": [
+    {
+     "title": "Eye and Illusions | Sense Organs | Class 9 | Biology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "bKBnLe5VBmE",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Optical illusions and how the eye and brain are fooled.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.exploring-space.L3": {
+   "videos": [
+    {
+     "title": "How telescopes work | Class 12 (India) | Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "LK8At6NVtoA",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How a telescope works.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Satellite Launch Vehicle | Space Missions | MH Grade 10",
+     "channel": "Khan Academy India - English",
+     "youtube": "Ur5CcLiPqmM",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How rockets launch satellites (India's space programme context).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover astronauts or India's specific missions."
+  },
+  "sci.sky.history-of-astronomy.L3": {
+   "videos": [],
+   "note": "No Khan video on ancient sky-watching cultures or calendars found."
+  },
+  "sci.sky.life-beyond-earth.L3": {
+   "videos": [],
+   "note": "No Khan video on alien life or extremophiles that fits."
+  },
+  "sci.sky.moon-phases.L3": {
+   "videos": [
+    {
+     "title": "Phases of the moon | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "f592IgRzq2E",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Why the Moon seems to change shape.",
+     "confidence": "high"
+    },
+    {
+     "title": "The Moon | Beyond Earth | Grade 6 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "PEplWMXI1YQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The Moon and its phases.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover keeping a Moon diary."
+  },
+  "sci.sky.moons-asteroids-comets.L3": {
+   "videos": [
+    {
+     "title": "Comets and Meteors | The Universe | Middle School | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "HszZZjA7jE4",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Comets and meteors (shooting stars).",
+     "confidence": "high"
+    },
+    {
+     "title": "The solar system part 2 | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "nBQpL8lhpTc",
+     "mins": 11,
+     "pitch": "on level",
+     "matches": "Moons, asteroids and comets of the solar system.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.solar-system.L3": {
+   "videos": [
+    {
+     "title": "The solar system | Earth in space | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "wTyqO-tfs7Q",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The Sun and planets; Earth as a planet.",
+     "confidence": "high"
+    },
+    {
+     "title": "The solar system | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "LBGAAtLP0F4",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The Sun and the planets.",
+     "confidence": "high"
+    },
+    {
+     "title": "The solar system part 1 | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "1_z_zgRmYTk",
+     "mins": 13,
+     "pitch": "on level",
+     "matches": "The planets in detail.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.stargazing.L3": {
+   "videos": [
+    {
+     "title": "Constellations | In the world of Stars | Middle School | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "YmDO8yXk1sg",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Constellations in the night sky.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover stories from different cultures or nakshatras."
+  },
+  "sci.sky.the-sun.L3": {
+   "videos": [
+    {
+     "title": "Stars and Galaxies | The Universe | Middle School | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "BH4q7oSsFVU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The Sun is a star.",
+     "confidence": "medium"
+    },
+    {
+     "title": "The Sun's energy and Earth's weather | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "JMaqaspDpr0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "The Sun gives Earth light and warmth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover the safety warning about looking at the Sun."
+  },
+  "sci.sound.hearing.L3": {
+   "videos": [
+    {
+     "title": "Human ear - structure & working | Sound | Class 9 | Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "98-6WfdumZY",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How the ear works.",
+     "confidence": "high"
+    },
+    {
+     "title": "Diseases of the ear | Sense organs | Class 9 | Biology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "6TLuTIUA1FM",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Ear problems and hearing loss.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover protecting hearing or animals that hear more than we do."
+  }
+ }
+}

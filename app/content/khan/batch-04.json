@@ -57,27 +57,8 @@
    "note": ""
   },
   "sci.animals.courtship-and-mates.L4": {
-   "videos": [
-    {
-     "title": "Mating behavior and inclusive fitness | Individuals and Society | MCAT | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "bK85aZPR3UY",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "How animals choose mates and why displays matter.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Animal communication | Individuals and Society | MCAT | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "1kbZ1JAoi5o",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "Animals signalling to each other, including courtship displays.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Khan has no video made for peacock tails or bird song; these are the nearest on mate choice and animal signals."
+   "videos": [],
+   "note": "Khan has no video made for peacock tails or bird song; these are the nearest on mate choice and animal signals. Dropped on review: the matches were too loose."
   },
   "sci.animals.insects.L4": {
    "videos": [

@@ -448,27 +448,8 @@
    "note": "Nothing on bird migration."
   },
   "sci.ecology.cycles-and-decomposers.L3": {
-   "videos": [
-    {
-     "title": "Matter and energy in food webs",
-     "channel": "Khan Academy",
-     "youtube": "qIgL05zOx5U",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Decomposers return matter to the soil in food webs.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Flow of energy and matter through ecosystems",
-     "channel": "Khan Academy",
-     "youtube": "TitrRpMUt0I",
-     "mins": 10,
-     "pitch": "older: watch together",
-     "matches": "Matter cycles through ecosystems via decomposers.",
-     "confidence": "medium"
-    }
-   ],
-   "note": ""
+   "videos": [],
+   "note": "Dropped on review: the matches were too loose."
   },
   "sci.ecology.food-chains.L3": {
    "videos": [

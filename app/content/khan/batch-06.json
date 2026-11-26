@@ -253,36 +253,8 @@
    "note": ""
   },
   "sci.motion.swings-and-pendulums.L4": {
-   "videos": [
-    {
-     "title": "Conservation of energy | Middle school physics | Khan Academy",
-     "channel": "Khan Academy",
-     "youtube": "Tf4A93763Bw",
-     "mins": 7,
-     "pitch": "on level",
-     "matches": "Energy trading between height and speed.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Potential energy | Energy | Middle school physics | Khan Academy",
-     "channel": "Khan Academy",
-     "youtube": "oGzwVYPxKjg",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Stored energy from height.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Kinetic energy | Energy | Middle school physics | Khan Academy",
-     "channel": "Khan Academy",
-     "youtube": "QFDVhfYu8HU",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Energy of motion.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "No pendulum video from Khan at this level; these teach the height-for-speed trade."
+   "videos": [],
+   "note": "No pendulum video from Khan at this level; these teach the height-for-speed trade. Dropped on review: the matches were too loose."
   },
   "sci.patterns-symmetry.fractals-and-spirals.L4": {
    "videos": [

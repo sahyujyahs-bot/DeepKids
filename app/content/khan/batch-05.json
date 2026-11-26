@@ -126,18 +126,8 @@
    "note": ""
   },
   "sci.ecology.cycles-and-decomposers.L4": {
-   "videos": [
-    {
-     "title": "Flow of energy and matter through ecosystems | High school biology | Khan Academy",
-     "channel": "Khan Academy",
-     "youtube": "TitrRpMUt0I",
-     "mins": 10,
-     "pitch": "older: watch together",
-     "matches": "Decomposers return matter from dead things to the soil and air in ecosystems.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Only a partial match; no Khan video found on decomposers alone."
+   "videos": [],
+   "note": "Only a partial match; no Khan video found on decomposers alone. Dropped on review: the matches were too loose."
   },
   "sci.ecology.food-chains.L4": {
    "videos": [

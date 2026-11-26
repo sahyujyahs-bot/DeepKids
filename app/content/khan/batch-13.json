@@ -25,18 +25,8 @@
    "note": "Khan India classification videos; neither is a child-level tour of the five groups and how to tell them apart."
   },
   "sci.body.growing.L2": {
-   "videos": [
-    {
-     "title": "Growing with Age | Adolescence:A Stage of Growth and Change | Grade 7 | Biology | Khan Academy",
-     "channel": "Khan Academy India - English",
-     "youtube": "24AvS06QKS8",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "How the body grows and changes from childhood into adulthood.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Covers adolescence only; not baby to child growth or measuring ourselves over time."
+   "videos": [],
+   "note": "Covers adolescence only; not baby to child growth or measuring ourselves over time. Dropped on review: the matches were too loose."
   },
   "sci.body.skeleton.L2": {
    "videos": [
@@ -62,18 +52,8 @@
    "note": ""
   },
   "sci.body.teeth.L2": {
-   "videos": [
-    {
-     "title": "Teeth | Gastrointestinal system physiology | NCLEX-RN | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "9wYbsSrDwbA",
-     "mins": 8,
-     "pitch": "older: watch together",
-     "matches": "Kinds of teeth and their jobs.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Nursing-level video; does not cover milk teeth versus adult teeth or looking after teeth."
+   "videos": [],
+   "note": "Nursing-level video; does not cover milk teeth versus adult teeth or looking after teeth. Dropped on review: the matches were too loose."
   },
   "sci.changes.kitchen-science.L2": {
    "videos": [

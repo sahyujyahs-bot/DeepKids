@@ -1,0 +1,262 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.states.solids-liquids-gases.L2": {
+   "videos": [
+    {
+     "title": "States of matter | Middle school chemistry",
+     "channel": "Khan Academy",
+     "youtube": "We7Kd4D0S90",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Solids, liquids and gases and how their particles differ.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Middle-school chemistry; does not specifically cover water as ice, water and steam for young children."
+  },
+  "sci.waste.sorting-waste.L2": {
+   "videos": [],
+   "note": "No Khan video on sorting wet and dry waste at this level; the biodegradable video is Class 9 and sorts differently."
+  },
+  "sci.weather.clouds-and-rain.L2": {
+   "videos": [
+    {
+     "title": "How are clouds formed? | Rain where does it come from?",
+     "channel": "Khan Academy India - English",
+     "youtube": "Av4NV_yauT8",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How clouds form and where rain comes from.",
+     "confidence": "high"
+    },
+    {
+     "title": "The water cycle | Weather and climate",
+     "channel": "Khan Academy",
+     "youtube": "r2dnUvP1JgM",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Water rising, forming clouds and falling as rain.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Grade 6 and middle-school wording; does not stress that clouds are tiny drops of water."
+  },
+  "sci.what-is-life.signs-of-life.L2": {
+   "videos": [
+    {
+     "title": "What makes something living?",
+     "channel": "Khan Academy India - English",
+     "youtube": "tMfaKTBH6d8",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "What the signs of life are and how living things differ from non-living.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Introduction to Living and Non-Living",
+     "channel": "Khan Academy India - English",
+     "youtube": "4aLm2ukoqvg",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Telling living from non-living things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Class 6 level; may not cover plants seeming still or the tricky sorting cases."
+  },
+  "sci.what-is-real.consciousness.L2": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.what-is-real.perception-and-reality.L2": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.air.air-around-us.L1": {
+   "videos": [],
+   "note": "No Khan video on air being all around us that we feel but cannot see."
+  },
+  "sci.animals.animal-babies.L1": {
+   "videos": [],
+   "note": "No close Khan match; the frog life-cycle video covers only one animal."
+  },
+  "sci.animals.animals-around-us.L1": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.animals.birds.L1": {
+   "videos": [],
+   "note": "Only high-school bird videos exist; none on feathers, beaks and nests."
+  },
+  "sci.basic-needs.basic-needs.L1": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.body.body-parts.L1": {
+   "videos": [],
+   "note": "No Khan match at this level."
+  },
+  "sci.classification.sorting-living-things.L1": {
+   "videos": [],
+   "note": "No Khan match at this level."
+  },
+  "sci.environment.caring.L1": {
+   "videos": [],
+   "note": "No Khan match for young children."
+  },
+  "sci.evolution.inheritance.L1": {
+   "videos": [],
+   "note": "Khan heredity videos are genetics for older students, not looking like parents."
+  },
+  "sci.family.family.L1": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.food.healthy-food.L1": {
+   "videos": [],
+   "note": "No Khan match at this level."
+  },
+  "sci.food.where-food-comes-from.L1": {
+   "videos": [
+    {
+     "title": "Where do we get our food from (Sources of Food)",
+     "channel": "Khan Academy India - English",
+     "youtube": "cmupZ8DuB3I",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Food comes from plants and from animals.",
+     "confidence": "high"
+    },
+    {
+     "title": "Part of Plant as food",
+     "channel": "Khan Academy India - English",
+     "youtube": "e0kkwDxQJRs",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Which plant parts we eat.",
+     "confidence": "high"
+    },
+    {
+     "title": "Food from animal sources",
+     "channel": "Khan Academy India - English",
+     "youtube": "92aqP17aUxE",
+     "mins": 11,
+     "pitch": "on level",
+     "matches": "Food we get from animals.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.changing-motion.L1": {
+   "videos": [],
+   "note": "No Khan match at this level; middle-school force videos go further."
+  },
+  "sci.forces.how-toys-work.L1": {
+   "videos": [],
+   "note": "No Khan match."
+  },
+  "sci.forces.push-and-pull.L1": {
+   "videos": [
+    {
+     "title": "Forces | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "emZftp_UBKs",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "A force is a push or a pull.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Middle-school physics; does not use playground and toy examples."
+  },
+  "sci.gravity.falling.L1": {
+   "videos": [
+    {
+     "title": "Gravitational forces | Forces at a distance",
+     "channel": "Khan Academy",
+     "youtube": "atogJ2qw9Ko",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Gravity pulls things toward Earth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Middle-school physics; not about dropping things and watching them fall."
+  },
+  "sci.habitats.local-environments.L1": {
+   "videos": [
+    {
+     "title": "Tree, our house and garden as a habitat",
+     "channel": "Khan Academy India - English",
+     "youtube": "AJkVDsHt_U0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "A tree, a house and a garden as places where living things live.",
+     "confidence": "high"
+    },
+    {
+     "title": "Habitat (Intro and types)",
+     "channel": "Khan Academy India - English",
+     "youtube": "0cdteShyjh8",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What a habitat is.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover ponds or life under a stone."
+  },
+  "sci.health.feelings-and-wellbeing.L1": {
+   "videos": [
+    {
+     "title": "Happy, Sad, Mad, Scared, & Silly",
+     "channel": "Khan Academy Kids",
+     "youtube": "ZP9wQCPSgp0",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Naming feelings.",
+     "confidence": "high"
+    },
+    {
+     "title": "Feeling Mad",
+     "channel": "Khan Academy Kids",
+     "youtube": "Jj8QkeoDVT8",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "What to do when we feel angry.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Feeling Happy & Sad",
+     "channel": "Khan Academy Kids",
+     "youtube": "Tc7LZtzK_zI",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "Happy and sad feelings.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "For younger children; short clips."
+  },
+  "sci.health.hygiene.L1": {
+   "videos": [
+    {
+     "title": "This Is The Way We Wash Our Hands | Circle Time with Khan Academy Kids",
+     "channel": "Khan Academy Kids",
+     "youtube": "hungOoC1o_M",
+     "mins": 15,
+     "pitch": "on level",
+     "matches": "Washing hands.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Long circle-time video; handwashing only, not bathing or brushing teeth."
+  },
+  "sci.how-we-know.asking-questions.L1": {
+   "videos": [],
+   "note": "No Khan match."
+  }
+ }
+}

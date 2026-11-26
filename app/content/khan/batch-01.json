@@ -6,27 +6,8 @@
    "note": "Khan has only plain life-cycle videos (frog, mosquito, silkworm); none cover cicadas, salmon, immortal jellyfish or why some species have so many young."
   },
   "sci.animals.animal-minds.L5": {
-   "videos": [
-    {
-     "title": "Types of animal communication | Individuals and Society | MCAT | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "S3X-NkvE49o",
-     "mins": 9,
-     "pitch": "older: watch together",
-     "matches": "How animals communicate (signals, dances, calls).",
-     "confidence": "medium"
-    },
-    {
-     "title": "Animal communication | Individuals and Society | MCAT | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "1kbZ1JAoi5o",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "Animal communication in general.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Covers communication only; Khan has nothing on animal emotions or consciousness."
+   "videos": [],
+   "note": "Covers communication only; Khan has nothing on animal emotions or consciousness. Dropped on review: the matches were too loose."
   },
   "sci.animals.body-plans.L5": {
    "videos": [
@@ -61,18 +42,8 @@
    "note": ""
   },
   "sci.animals.courtship-and-mates.L5": {
-   "videos": [
-    {
-     "title": "Mating behavior and inclusive fitness | Individuals and Society | MCAT | Khan Academy",
-     "channel": "khanacademymedicine",
-     "youtube": "bK85aZPR3UY",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "Mating behaviour and mate choice (sexual selection).",
-     "confidence": "medium"
-    }
-   ],
-   "note": "MCAT-level; does not cover seahorse fathers or the variety of family systems."
+   "videos": [],
+   "note": "MCAT-level; does not cover seahorse fathers or the variety of family systems. Dropped on review: the matches were too loose."
   },
   "sci.animals.invertebrates.L5": {
    "videos": [
@@ -460,27 +431,8 @@
    "note": ""
   },
   "sci.ecology.cycles-and-decomposers.L5": {
-   "videos": [
-    {
-     "title": "Nitrogen Cycle | Middle School Science | Khan Academy",
-     "channel": "Khan Academy India - English",
-     "youtube": "rDFVzVOkcPs",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "The nitrogen cycle.",
-     "confidence": "medium"
-    },
-    {
-     "title": "The carbon cycle | Earth and space science | Khan Academy",
-     "channel": "Khan Academy",
-     "youtube": "XynPVsE1fd4",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "The carbon cycle.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "No Khan video specifically on decomposers or compost."
+   "videos": [],
+   "note": "No Khan video specifically on decomposers or compost. Dropped on review: the matches were too loose."
   },
   "sci.ecology.food-chains.L5": {
    "videos": [
