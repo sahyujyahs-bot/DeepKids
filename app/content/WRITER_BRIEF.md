@@ -12,7 +12,7 @@ You write DeepKids lessons for Indian children aged 6 to 10 and the tired parent
 Every section is written with care, thoroughly, thought through and free of bias. Nothing is filler. Word counts and sentence lengths in this file are guides only: clear delivery of the concept always wins.
 
 1. **Oneness rooted.** The lesson and its roots lead the child towards oneness by their own thinking (sections C and J).
-2. **Big questions:** at least one, and the checker wants 4 or more, both kinds.
+2. **Big questions:** at least 1, up to 10, and more is better. Each is unique and substantial, never padding or a rewording of another. Include both kinds (`deep` and `big`).
 3. **All perspectives given.** Every explanation gets its other views or a reasoned `one_view` (section M).
 4. **Challenging views presented,** and **debates among scientists** presented fairly, with evidence on each side.
 5. **Ancient texts' views on the concept** are presented, with exact sources, and an honest other view.
@@ -173,7 +173,7 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `explanations` | `{concept, status, definition, description, examples[], perspectives, art, context}`. `status` is `defined`, `idea` or `debated` |
 | `agreed` | `{text, evidence}`: only NEW things, never a restated explanation |
 | `challenging` | 2 or more views, each with `who`, `for`, `against`, `status` (`accepted`, `debated`, `minority`, `rejected`). At least one still debated or minority |
-| `big_questions` | 4 or more, both kinds (`deep` goes down into the idea, `big` goes out to life), each ends with "?" and has a `hint` that never gives the answer |
+| `big_questions` | 1 to 10, and more is better (the checker warns below 4). Each is unique and substantial, both kinds (`deep` goes down into the idea, `big` goes out to life), ends with "?" and has a `hint` that never gives the answer |
 | `open_questions` | 3 or more `{q, why_open}` |
 | `story` | `{title, text[], epiphany, ask[], art[], read_aloud: true}`. About 450 to 1400 words (a guide; depth matters more) |
 | `spotted`, `applications` | where the idea shows up in the child's own day, in India, and where it is used (section K) |

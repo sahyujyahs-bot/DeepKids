@@ -220,7 +220,8 @@ def check(path):
         if not x.get("examples"): P(f"explanation needs examples: {x.get('concept')}")
     for c in u["challenging"]:
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
-    if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
+    if not u["big_questions"] or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: at least 1, each kind deep or big")
+    elif not 4 <= len(u["big_questions"]) <= 10: W.append(f"big_questions: {len(u['big_questions'])}; 1 to 10 are allowed and more is better, each unique and substantial (aim for 4 or more, not above 10)")
     h = u["how_we_found_out"]
     if not all(h.get(k) for k in ("story", "who", "when", "wrong_idea")): P("how_we_found_out needs story, who, when, wrong_idea")
     elif not 80 <= len(h["story"].split()) <= 220: W.append(f"how_we_found_out story is {len(h['story'].split())} words (about 80-200; clarity comes before the count)")
