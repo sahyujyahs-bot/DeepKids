@@ -1,0 +1,38 @@
+{
+  "board": "IB PYP",
+  "summary": "The Primary Years Programme (PYP) is a transdisciplinary framework for children aged 3 to 12, built around inquiry rather than a fixed list of subjects. Each school plans its own programme of inquiry, organised around six transdisciplinary themes, so the framework does not publish a fixed topic list per grade. Learning draws on six subject areas and five essential elements (knowledge, concepts, skills, attitudes and action).",
+  "structure": [
+    "Transdisciplinary framework for ages 3 to 12, built around inquiry.",
+    "Six transdisciplinary themes frame the units of inquiry: Who we are; Where we are in place and time; How we express ourselves; How the world works; How we organize ourselves; Sharing the planet.",
+    "Each school writes its own programme of inquiry, choosing units that fit these themes.",
+    "Six subject areas are used inside units: language, social studies, mathematics, arts, science, and personal, social and physical education.",
+    "Five essential elements sit under the themes: knowledge, concepts, skills, attitudes and action."
+  ],
+  "topics_by_class": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "subjects": [
+    "Language",
+    "Social studies",
+    "Mathematics",
+    "Arts",
+    "Science",
+    "Personal, social and physical education"
+  ],
+  "assessment": "Not verified in this run: the IBO pages on assessment could not be read (HTTP 403). Progress is expected to be tracked by teachers within each school's own programme of inquiry.",
+  "india_use": "The International School Bangalore (tisb.org) states on its own PYP curriculum page that it offers the IB Primary Years Programme for students aged 3 to 12. That page does not itself confirm IB World School authorisation. No other Indian school was confirmed on its own site in this run.",
+  "source_urls": [
+    "https://tisb.org/primary-years/curriculum"
+  ],
+  "gaps": [
+    "ibo.org pages (how the PYP works, parent FAQ, curriculum overview PDF) returned HTTP 403 to WebFetch and to curl. The themes, subject areas, age range and essential elements come from IBO search summaries, not from a page read in full. Re-check against the IBO pages.",
+    "No IBO statement on assessment was read. The assessment field is therefore unverified.",
+    "The IBO's own statement that there is no fixed topic list per grade was seen only in a search summary.",
+    "Indian schools: only TISB's own page was read. Other PYP schools seen in search results (for example DPS Gurgaon, Shiv Nadar School Chennai, Global Indian International School) were not checked on their own sites, so they are not listed.",
+    "The IBO India directory (ibo.org/about-the-ib/the-ib-by-country-and-territory/i/india/) appeared in search but was not read; its school count is unverified."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "board": "Pearson Edexcel primary (iPrimary)",
+  "summary": "Pearson's primary offer is called Pearson Edexcel iPrimary and is described as a complete teaching and learning programme for children aged 3 to 11. It publishes full schemes of work and exemplified units for every subject and year group, but the page read does not list topics for each grade. Progress is checked with internal Progress Tests for each unit and external Pearson Edexcel Achievement tests in Year 6.",
+  "structure": [
+    "Pearson Edexcel iPrimary is a complete teaching and learning programme for children aged 3 to 11, for international primary schools.",
+    "Full schemes of work are provided for every subject and every year group across iPrimary and iLowerSecondary, with every unit of content exemplified.",
+    "Sample schemes of work, exemplified units and lesson plans are published.",
+    "Subject-specific Teacher Guides cover teaching technique, pedagogy and classroom management.",
+    "Access is by subscription through the Active Learn Primary platform; professional development is included."
+  ],
+  "topics_by_class": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Science",
+    "Computing",
+    "Global Citizenship"
+  ],
+  "assessment": "Internal Progress Tests for every unit, plus end-of-year Progress Tests updated each year. External Pearson Edexcel Achievement tests in Year 6 give certified recognition of study. ResultPlus is available for test results.",
+  "india_use": "",
+  "source_urls": [
+    "https://qualifications.pearson.com/en/qualifications/edexcel-international-primary-curriculum.html"
+  ],
+  "gaps": [
+    "Pearson's page makes no mention of India or Indian schools, and no Indian school's own site was read for this curriculum, so india_use is left empty.",
+    "No grade-by-grade topic list is published on the page read; topics_by_class is left empty.",
+    "The iPrimary English curriculum overview PDF was returned as binary and could not be read, so unit titles and per-year content are unverified.",
+    "Year 6 Achievement test structure and certification details were not confirmed from a full Pearson specification.",
+    "Subjects are taken from Pearson's subject list on its own page. Search results also described an age range of 5 to 11 in some Pearson materials; the page read says 3 to 11."
+  ]
+}
