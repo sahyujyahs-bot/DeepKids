@@ -2,26 +2,7 @@
  "checked": "2026-11-26",
  "units": {
   "sci.motion.swings-and-pendulums.L4": {
-   "videos": [
-    {
-     "title": "Swinging Pendulum",
-     "channel": "Teach Engineering",
-     "youtube": "zzi4iPLz2Dw",
-     "mins": 3,
-     "pitch": "on level",
-     "matches": "Shows a pendulum swinging, so a swing's motion and how it repeats.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Potential and kinetic energy - Law of conservation of energy - Video for kids",
-     "channel": "learning junction",
-     "youtube": "t0ShHdtB8jA",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Height stores energy that turns into speed, the swing's height-for-speed trade.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.nothing-and-forever.infinity.L3": {
@@ -48,15 +29,6 @@
      "pitch": "on level",
      "matches": "Zero as nothing and as a placeholder, and India's part in its invention.",
      "confidence": "high"
-    },
-    {
-     "title": "When zero was first discovered",
-     "channel": "Science Museum",
-     "youtube": "D-oxsEknlIc",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "The history of zero and its Indian origins.",
-     "confidence": "medium"
     }
    ],
    "note": ""
@@ -66,17 +38,7 @@
    "note": "No good non-Khan science explainer found; results were English-grammar cause and effect."
   },
   "sci.order-chaos.order-and-chaos.L2": {
-   "videos": [
-    {
-     "title": "What Is The ButterFly Effect? | How can Small Changes Lead to Bigger Changes? | The Chaos Theory",
-     "channel": "Peekaboo Kidz",
-     "youtube": "mZv5xMIdaMo",
-     "mins": 6,
-     "pitch": "older: watch together",
-     "matches": "Small changes make things never happen the same way twice (chaos).",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.patterns-symmetry.symmetry-in-nature.L1": {
@@ -89,45 +51,16 @@
      "pitch": "on level",
      "matches": "Two matching halves and lines of symmetry in nature.",
      "confidence": "high"
-    },
-    {
-     "title": "Symmetry for Kids | Math for Elementary Students",
-     "channel": "Homeschool Pop",
-     "youtube": "1u57rNNxDHg",
-     "mins": 10,
-     "pitch": "on level",
-     "matches": "Symmetry in shapes and everyday things, with making symmetric pictures.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.planet-earth.maps-and-directions.L3": {
-   "videos": [
-    {
-     "title": "Maps and Directions | Types of Maps | Cardinal Directions | Video for Kids",
-     "channel": "learning junction",
-     "youtube": "mtsx8V3mE8o",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "North, south, east, west and what a map shows.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.planet-earth.maps-and-directions.L4": {
-   "videos": [
-    {
-     "title": "Learn About Maps - Symbols, Map Key, Compass Rose",
-     "channel": "Vids4Kids.tv",
-     "youtube": "dp8VOG8Cgag",
-     "mins": 3,
-     "pitch": "on level",
-     "matches": "Reading maps: symbols, key and compass rose.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.plants.plant-senses.L5": {
@@ -140,15 +73,6 @@
      "pitch": "older: watch together",
      "matches": "Plant signalling through roots and fungi.",
      "confidence": "high"
-    },
-    {
-     "title": "Can plants talk to each other? - Richard Karban",
-     "channel": "TED-Ed",
-     "youtube": "xOXSqy05EO0",
-     "mins": 5,
-     "pitch": "older: watch together",
-     "matches": "Plants sensing and signalling to each other.",
-     "confidence": "medium"
     }
    ],
    "note": ""
@@ -158,17 +82,7 @@
    "note": "No good match for India's unique plants and traditional knowledge at kid level."
   },
   "sci.plants.what-plants-need.L3": {
-   "videos": [
-    {
-     "title": "Do Plants Need Water and Sunlight to Grow? Let's Investigate!",
-     "channel": "MightyOwl",
-     "youtube": "Gskasi4-O3E",
-     "mins": 8,
-     "pitch": "on level",
-     "matches": "Testing light and water on plant growth as an investigation.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.sky.history-of-astronomy.L3": {
@@ -199,31 +113,12 @@
      "pitch": "on level",
      "matches": "Creatures in boiling water and ice, and what that means for aliens.",
      "confidence": "high"
-    },
-    {
-     "title": "Life on Other Planets: Crash Course Kids #45.1",
-     "channel": "Crash Course Kids",
-     "youtube": "8gHDCOSI5Es",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Could life exist on other planets.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.sky.sun-moon-stars.L1": {
-   "videos": [
-    {
-     "title": "What Is the Sun? | SciShow Kids",
-     "channel": "SciShow Kids",
-     "youtube": "0b3GcLE4Vlg",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "The Sun gives light and heat.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.sky.the-sun.L4": {
@@ -236,68 +131,20 @@
      "pitch": "older: watch together",
      "matches": "Layers, spots, storms and solar wind of the Sun.",
      "confidence": "high"
-    },
-    {
-     "title": "Less Than Five - Layers of the Sun Explained - Inner Layers",
-     "channel": "Astronimate",
-     "youtube": "BGkqGb-KDK4",
-     "mins": 3,
-     "pitch": "older: watch together",
-     "matches": "The Sun's inner layers.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.sound.hearing.L4": {
-   "videos": [
-    {
-     "title": "Where is Sound Coming From? | How Humans Use Sound LOCALIZATION",
-     "channel": "Doctor Cliff, AuD",
-     "youtube": "dnDrAG8FZok",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "How two ears find where a sound comes from.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.space-time.space.L2": {
-   "videos": [
-    {
-     "title": "What Is Universe? | Size Of The Universe | The Dr Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "Vw_TBtAf1Bc",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "How big space is, near and far.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.waste.sorting-waste.L2": {
-   "videos": [
-    {
-     "title": "Types of Waste - Waste Management Video",
-     "channel": "learning junction",
-     "youtube": "H--LWj2KpoM",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Kinds of waste and how it is managed.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Waste Management | Science for Kids",
-     "channel": "Little School",
-     "youtube": "40OKRIyOrYI",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "Where waste goes and sorting it.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.what-is-real.consciousness.L2": {

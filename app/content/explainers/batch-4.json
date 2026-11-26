@@ -16,17 +16,7 @@
    "note": ""
   },
   "sci.india.government-and-rights.L3": {
-   "videos": [
-    {
-     "title": "Globalisation Explained with a Block of Chocolate | RMIT Animated Explainer",
-     "channel": "Creativa",
-     "youtube": "wWElNEqbWuk",
-     "mins": 3,
-     "pitch": "older: watch together",
-     "matches": "Globalisation: how goods and ideas link countries.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": "No good kid-level video found for RTE, RTI or MNREGA."
   },
   "sci.india.national-identity.L3": {
@@ -57,45 +47,15 @@
    "note": "Nothing good found for glowing mushrooms."
   },
   "sci.making-things.biomimicry.L3": {
-   "videos": [
-    {
-     "title": "Biomimicry 101 - Examples Of How We Copied Nature",
-     "channel": "Tinyverse",
-     "youtube": "V2GvQXvjhLA",
-     "mins": 7,
-     "pitch": "on level",
-     "matches": "Inventions copied from nature.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.making-things.houses-and-shelter.L3": {
-   "videos": [
-    {
-     "title": "Why do buildings fall in earthquakes?",
-     "channel": "TED-Ed",
-     "youtube": "H4VQul_SmCg",
-     "mins": 5,
-     "pitch": "older: watch together",
-     "matches": "Building design and safety.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.materials.properties.L1": {
-   "videos": [
-    {
-     "title": "Materials And Their Properties",
-     "channel": "ClickView",
-     "youtube": "340MmuY_osY",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Describing materials by their properties.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.materials.properties.L3": {
@@ -129,17 +89,7 @@
    "note": "No close match found."
   },
   "sci.materials.testing-materials.L3": {
-   "videos": [
-    {
-     "title": "Fair Tests",
-     "channel": "ESB Science Blast",
-     "youtube": "yYMPbKbK1yo",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "What makes a test fair.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.materials.testing-materials.L4": {
@@ -159,45 +109,15 @@
    "note": "No close match found."
   },
   "sci.materials.what-is-it-made-of.L1": {
-   "videos": [
-    {
-     "title": "Materials - Science for Kids",
-     "channel": "Primary World",
-     "youtube": "2td5mfgf1OI",
-     "mins": 3,
-     "pitch": "on level",
-     "matches": "Naming everyday materials.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.me-and-others.me-and-others.L1": {
-   "videos": [
-    {
-     "title": "Sesame Street: We're Different, We're the Same",
-     "channel": "Sesame Street",
-     "youtube": "hUrjb4SZnxg",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "We are alike and different.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.me-and-others.me-and-others.L3": {
-   "videos": [
-    {
-     "title": "Sesame Street: How to be a Good Friend",
-     "channel": "Sesame Street",
-     "youtube": "4ai7ckER2os",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "Friendship.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.mind.sense-of-self.L2": {
@@ -205,17 +125,7 @@
    "note": "No close match found."
   },
   "sci.motion.swings-and-pendulums.L3": {
-   "videos": [
-    {
-     "title": "Swings, Slides, and Science",
-     "channel": "SciShow Kids",
-     "youtube": "JvSClZ3vHOI",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "How a swing moves back and forth.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   }
  }

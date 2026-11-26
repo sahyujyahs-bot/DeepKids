@@ -2,40 +2,11 @@
  "checked": "2026-11-26",
  "units": {
   "sci.basic-needs.basic-needs.L1": {
-   "videos": [
-    {
-     "title": "Basic Needs of Living Things | Science for Kids",
-     "channel": "Little School",
-     "youtube": "4p5e2l-zd5U",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Living things need air, water, food and shelter to live.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.basic-needs.basic-needs.L3": {
-   "videos": [
-    {
-     "title": "Basic Needs of Living Things | Science for Kids",
-     "channel": "Little School",
-     "youtube": "4p5e2l-zd5U",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Why living things need air, water and food, and how we look after them.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Why Do We Drink Water? | Importance Of Water | Stay Hydrated | The Dr Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "31F0laJjyy8",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "Why the body needs water, one of our basic needs.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.body.body-parts.L1": {
@@ -53,31 +24,11 @@
    "note": ""
   },
   "sci.body.growing-old.L3": {
-   "videos": [
-    {
-     "title": "Why Do We Get Old? The Dr. Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "vckbQvaZQkU",
-     "mins": 6,
-     "pitch": "older: watch together",
-     "matches": "How bodies change as people grow older.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.body.growing.L2": {
-   "videos": [
-    {
-     "title": "Why Do We Stop Growing? The Dr. Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "GXF8EkmnrJo",
-     "mins": 6,
-     "pitch": "older: watch together",
-     "matches": "How humans grow from child to adult.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.body.teeth.L2": {
@@ -104,17 +55,7 @@
    "note": ""
   },
   "sci.classification.sorting-living-things.L1": {
-   "videos": [
-    {
-     "title": "Amazing Animal Groups | Science for Kids",
-     "channel": "SciShow Kids",
-     "youtube": "gwH8xGmqGmo",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Sorting animals into groups by features we can see.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": "Covers animals only, not plants."
   },
   "sci.community.community-and-helpers.L3": {
@@ -126,26 +67,7 @@
    "note": "No close match found on reputable channels."
   },
   "sci.community.transport-and-communication.L3": {
-   "videos": [
-    {
-     "title": "Invention of Wheel | Who Invented Wheel? | History and Evolution of the Wheel | Dr. Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "6UfoM4UbLak",
-     "mins": 7,
-     "pitch": "on level",
-     "matches": "How transport developed, starting from the wheel.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Who Invented Telephone? | Invention of Telephone | The Dr Binocs Show",
-     "channel": "Peekaboo Kidz",
-     "youtube": "VNbFLCZ9KEY",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "How communication developed, through the telephone.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.ecology.cycles-and-decomposers.L3": {
@@ -158,31 +80,12 @@
      "pitch": "on level",
      "matches": "Worms and microbes break down dead plants and food scraps into soil.",
      "confidence": "high"
-    },
-    {
-     "title": "Worms Are Wonderful | Amazing Animals | Backyard Science | SciShow Kids",
-     "channel": "SciShow Kids",
-     "youtube": "l-zc_1vjLnI",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "Worms and what they do in soil.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.ecology.cycles-and-decomposers.L4": {
-   "videos": [
-    {
-     "title": "How Compost Is Made: A Field Trip!",
-     "channel": "SciShow Kids",
-     "youtube": "26IO95Xt5WU",
-     "mins": 7,
-     "pitch": "on level",
-     "matches": "Where dead plants and food go: they turn back into soil.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.ecology.cycles-and-decomposers.L5": {
@@ -213,17 +116,7 @@
    "note": "No close match found on reputable channels."
   },
   "sci.electricity.uses-of-electricity.L2": {
-   "videos": [
-    {
-     "title": "What If We Had Never Discovered Electricity? | importance of Electricity in our Daily Life",
-     "channel": "Peekaboo Kidz",
-     "youtube": "MW9i8IltNBc",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "Where we use electricity in daily life.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.energy.energy-around-us.L3": {
@@ -249,31 +142,11 @@
    "note": "No close match found on reputable channels."
   },
   "sci.evolution.closest-cousins.L2": {
-   "videos": [
-    {
-     "title": "Things You Probably Didn't Know About Cute Bonobos",
-     "channel": "National Geographic",
-     "youtube": "sN-Hj73ES2U",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "How bonobos live, play and care for each other.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": "Bonobos only."
   },
   "sci.evolution.inheritance.L1": {
-   "videos": [
-    {
-     "title": "It's All in the Genes—Inheritance and Variation of Traits | MightyOwl Science | 3rd Grade",
-     "channel": "MightyOwl",
-     "youtube": "ZmTSnZ7Z3Vs",
-     "mins": 6,
-     "pitch": "older: watch together",
-     "matches": "Children inherit features from parents yet differ.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.evolution.story-of-life.L3": {
@@ -300,17 +173,7 @@
    "note": ""
   },
   "sci.family.family.L1": {
-   "videos": [
-    {
-     "title": "Different Kinds of Families",
-     "channel": "AMAZE Org",
-     "youtube": "hpCyiyNqzlE",
-     "mins": 3,
-     "pitch": "on level",
-     "matches": "Families come in many kinds.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   }
  }

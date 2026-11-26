@@ -8,15 +8,6 @@
   "sci.food.healthy-food.L1": {
    "videos": [
     {
-     "title": "The 5 Fabulous Food Groups",
-     "channel": "SciShow Kids",
-     "youtube": "L9ymkJK2QCU",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Food keeps us healthy: different food groups and why we need each.",
-     "confidence": "medium"
-    },
-    {
      "title": "Why Do We Drink Water? | Importance Of Water | Stay Hydrated",
      "channel": "Peekaboo Kidz (The Dr Binocs Show)",
      "youtube": "31F0laJjyy8",
@@ -33,26 +24,7 @@
    "note": "No close match from reputable channels."
   },
   "sci.forces.changing-motion.L1": {
-   "videos": [
-    {
-     "title": "Work, Force & Energy | What Is Force?",
-     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
-     "youtube": "5-2NLHB4Gxg",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "Forces as pushes and pulls that start, stop and change movement.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Slipping, Sliding Science! | Physics for Kids",
-     "channel": "SciShow Kids",
-     "youtube": "Ps90zArJEJY",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Friction as the force that slows things down.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.forces.changing-motion.L3": {
@@ -60,26 +32,7 @@
    "note": "No close match from reputable channels."
   },
   "sci.forces.flight.L3": {
-   "videos": [
-    {
-     "title": "How Airplanes Fly! | Airplane Science",
-     "channel": "SciShow Kids",
-     "youtube": "VLpSxHwfU04",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "How air moving over wings lets things fly and glide.",
-     "confidence": "medium"
-    },
-    {
-     "title": "How Do Animal Wings Work? | The Science of Flight",
-     "channel": "SciShow Kids",
-     "youtube": "4Bp4MgmT0Co",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "How birds' wings let them fly and glide.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.forces.flight.L4": {
@@ -95,31 +48,11 @@
    "note": "No close match from reputable channels."
   },
   "sci.habitats.city-nature.L2": {
-   "videos": [
-    {
-     "title": "6 Animals Living Their Best Lives in Cities",
-     "channel": "SciShow",
-     "youtube": "BnTrXzLtNDA",
-     "mins": 11,
-     "pitch": "older: watch together",
-     "matches": "Wild animals that share our towns and cities.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.habitats.water-habitats.L3": {
-   "videos": [
-    {
-     "title": "The Water Bodies",
-     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
-     "youtube": "bNWuQD7QHBc",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Ponds, rivers, lakes and seas as different watery places.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.habitats.water-habitats.L5": {
@@ -146,26 +79,7 @@
    "note": ""
   },
   "sci.habitats.where-life-lives.L5": {
-   "videos": [
-    {
-     "title": "What Is Pangaea & Plate Tectonic? | Continental Drift",
-     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
-     "youtube": "AqrInJ8_Nes",
-     "mins": 7,
-     "pitch": "older: watch together",
-     "matches": "Drifting continents that carried life apart.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Continental Drift 101",
-     "channel": "National Geographic",
-     "youtube": "Wq9kLzm36h0",
-     "mins": 1,
-     "pitch": "older: watch together",
-     "matches": "Continents moving over time.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.health.exercise-and-rest.L2": {
@@ -201,40 +115,12 @@
      "pitch": "on level",
      "matches": "Why exercise keeps the body healthy.",
      "confidence": "high"
-    },
-    {
-     "title": "How Exercise Affects Your Brain?",
-     "channel": "Operation Ouch",
-     "youtube": "XzBt1lOHPyQ",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "Regular exercise and how it helps body and mind.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.health.feelings-and-wellbeing.L3": {
-   "videos": [
-    {
-     "title": "Why Do We Cry When We're Sad?",
-     "channel": "SciShow Kids",
-     "youtube": "jg9OqtXl6OY",
-     "mins": 3,
-     "pitch": "on level",
-     "matches": "Feelings and what they do in our bodies.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Why Do We Get Mad?",
-     "channel": "SciShow Kids",
-     "youtube": "8Sd4z7Uk_4Y",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "Understanding emotions and handling them well.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.health.feelings-and-wellbeing.L5": {
@@ -251,15 +137,6 @@
      "pitch": "on level",
      "matches": "Hand washing for cleanliness and health.",
      "confidence": "high"
-    },
-    {
-     "title": "What If We Stop Bathing? | Importance Of BATHING",
-     "channel": "Peekaboo Kidz (The Dr Binocs Show)",
-     "youtube": "l2GdFobEcbI",
-     "mins": 6,
-     "pitch": "on level",
-     "matches": "Why keeping clean matters for health.",
-     "confidence": "medium"
     }
    ],
    "note": ""
@@ -297,31 +174,12 @@
      "pitch": "on level",
      "matches": "Observing closely with all the senses.",
      "confidence": "high"
-    },
-    {
-     "title": "Inspect An Insect",
-     "channel": "SciShow Kids",
-     "youtube": "3166nK3Gym8",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Looking closely and noticing details.",
-     "confidence": "medium"
     }
    ],
    "note": ""
   },
   "sci.how-we-know.questioning-evidence.L3": {
-   "videos": [
-    {
-     "title": "Why people fall for misinformation",
-     "channel": "TED-Ed",
-     "youtube": "hz6GULbowAk",
-     "mins": 5,
-     "pitch": "older: watch together",
-     "matches": "Stories that only sound true; questioning what we are told.",
-     "confidence": "medium"
-    }
-   ],
+   "videos": [],
    "note": ""
   },
   "sci.how-we-know.stories-of-discovery.L1": {
