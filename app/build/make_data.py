@@ -1,5 +1,5 @@
 """Builds app data (data.json) and the collated table (DeepKids_Board_Topics_Collated.xlsx)."""
-import json, os, sys
+import json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from sci_l1_data import T
 from catalog import *
@@ -15,6 +15,7 @@ import glob
 PACKS = {}
 from validate_pack import check as check_pack
 for f in sorted(glob.glob(os.path.join(HERE, "..", "content", "*", "*.json"))):
+    if os.path.basename(os.path.dirname(f)) in ("boards", "sources"): continue  # catalogue files, not chapter packs
     if check_pack(f): print("skipping pack that fails validation:", os.path.relpath(f, HERE)); continue
     p = json.load(open(f)); PACKS[p["key"]] = {k: v for k, v in p.items() if k not in ("key", "board", "subj", "level", "n")}
 
@@ -45,6 +46,25 @@ for i, (n, t, cov) in enumerate(NIOS_B, 1):  # NIOS Level B is equivalent to Cla
 for it in items:  # attach chapter packs
     pk = it["k"].replace("cam|", "cambridge|", 1)
     if pk in PACKS: it["c"] = {**(it.get("c") or {}), "p": PACKS[pk]}
+
+# what each chapter covers, from the board syllabus files (app/content/boards)
+BOARD_SUBJ = {"math": "maths", "eng": "english", "hin": "hindi"}
+# the strand names in the Cambridge framework files, where they differ from the ones used in the app
+STRAND_IN_FILE = {"geometry and measure": ("geometry", "measure"), "statistics and probability": ("handling data",), "thinking and working mathematically": ("problem solving",)}
+for it in items:
+    name = BOARD_SUBJ.get(it["subj"])
+    f = os.path.join(HERE, "..", "content", "boards", it["board"], f"{name}-{it['level']}.json")
+    if not name or it["board"] not in ("ncert", "cambridge") or (it.get("c") or {}).get("covers") or not os.path.exists(f): continue
+    b = json.load(open(f))
+    if it["board"] == "ncert":
+        ch = next((c for c in b["chapters"] if c["n"] == it["n"]), {})
+        cov, tops = ch.get("covers", []), ch.get("topics", [])
+    else:
+        mine = STRAND_IN_FILE.get(it["title"].lower(), (it["title"].lower(),))
+        t = [x for x in b["topics"] if x.get("strand", "").lower() in mine]
+        cov, tops = [c for x in t for c in x["covers"]], [x["topic"] for x in t]
+    cov = [re.sub(r"^\d[A-Z][a-z]{1,2}\d+ ", "", c).rstrip(".") for c in cov]  # Cambridge objective codes stay in the files, not on screen
+    if cov: it["c"] = {**(it.get("c") or {}), "covers": "; ".join(cov[:8]), "topics": tops}  # the full list stays in the files
 
 # science resource library (app/resources/SPEC.md): only files that pass the check
 from validate_resources import check as check_res

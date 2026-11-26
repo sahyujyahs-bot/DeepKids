@@ -1,11 +1,172 @@
 {
-  "board": "Cambridge Primary",
-  "subject": "maths",
-  "class": 3,
-  "source": "Learner's Book scan 1343 (no contents page in the scan)",
-  "topics": [],
-  "gaps": [
-    "The scanned Learner's Book 3 (1343) has no contents page, so units and topics could not be read from it.",
-    "The first pages show Unit 1A (hundreds, tens and ones; numbers to 1000; a game using digit cards) only. Later units were not listed."
-  ]
+ "board": "Cambridge Primary",
+ "subject": "maths",
+ "class": 3,
+ "source": "Cambridge Primary Mathematics Curriculum Framework (with codes), official",
+ "topics": [
+  {
+   "topic": "Numbers and the number system",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "3Nn1 Recite numbers 100 to 200 and beyond.",
+    "3Nn2 Read and write numbers to at least 1000.",
+    "3Nn3 Count on and back in ones, tens and hundreds from two- and three-digit numbers.",
+    "3Nn4 Count on and back in steps of 2, 3, 4 and 5 to at least 50.",
+    "3Nn5 Understand what each digit represents in three-digit numbers and partition into hundreds, tens and units.",
+    "3Nn6 Find 1, 10, 100 more/less than two- and three-digit numbers.",
+    "3Nn7 Multiply two-digit numbers by 10 and understand the effect.",
+    "3Nn8 Round two-digit numbers to the nearest 10 and round three- digit numbers to the nearest 100.",
+    "3Nn9 Place a three-digit number on a number line marked off in multiples of 100.",
+    "3Nn10 Place a three-digit number on a number line marked off in multiples of 10.",
+    "3Nn11 Compare three-digit numbers, use < and > signs, and find a number in between.",
+    "3Nn12 Order two- and three-digit numbers.",
+    "3Nn13 Give a sensible estimate of a number as a range (e.g. 30 to 50) by grouping in tens.",
+    "3Nn14 Find half of odd and even numbers to 40, using notation such as 13 2",
+    "3Nn15 Understand and use fraction notation recognising that fractions are several parts of one whole, e.g. 4",
+    "3Nn16 Recognise equivalence between 2",
+    "3Nn17 Recognise simple mixed fractions, e.g. 1 2",
+    "3Nn18 Order simple or mixed fractions on a number line, e.g. using the knowledge that 2",
+    "3Nn19 Begin to relate finding fractions to division.",
+    "3Nn20 Find halves, thirds, quarters and tenths of shapes and numbers (whole number answers)."
+   ]
+  },
+  {
+   "topic": "Calculation",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "3Nc1 Know addition and subtraction facts for all numbers to 20.",
+    "3Nc2 Know the following addition and subtraction facts: – multiples of 100 with a total of 1000 – multiples of 5 with a total of 100",
+    "3Nc3 Know multiplication/division facts for 2×, 3×, 5×, and 10× tables.",
+    "3Nc4 Begin to know 4× table.",
+    "3Nc5 Recognise two- and three-digit multiples of 2, 5 and 10.",
+    "3Nc6 Work out quickly the doubles of numbers 1 to 20 and derive the related halves.",
+    "3Nc7 Work out quickly the doubles of multiples of 5 (< 100) and derive the related halves.",
+    "3Nc8 Work out quickly the doubles of multiples of 50 to 500.",
+    "3Nc9 Add and subtract 10 and multiples of 10 to and from two- and three-digit numbers.",
+    "3Nc10 Add 100 and multiples of 100 to three-digit numbers.",
+    "3Nc11 Use the = sign to represent equality, e.g. 75 + 25 = 95 + 5.",
+    "3Nc12 Add several small numbers.",
+    "3Nc13 Find complements to 100, solving number equations such as 78 + = 100.",
+    "3Nc14 Add and subtract pairs of two-digit numbers.",
+    "3Nc15 Add three-digit and two-digit numbers using notes to support.",
+    "3Nc16 Re-order an addition to help with the calculation, e.g. 41 + 54, by adding 40 to 54, then 1.",
+    "3Nc17 Add/subtract single-digit numbers to/from three-digit numbers.",
+    "3Nc18 Find 20, 30, … 90, 100, 200, 300 more/less than three-digit numbers.",
+    "3Nc19 Understand the relationship between halving and doubling.",
+    "3Nc20 Understand the effect of multiplying two-digit numbers by 10.",
+    "3Nc21 Multiply single-digit numbers and divide two-digit numbers by 2, 3, 4, 5, 6, 9 and 10.",
+    "3Nc22 Multiply teens numbers by 3 and 5.",
+    "3Nc23 Begin to divide two-digit numbers just beyond 10× tables, e.g. 60 ÷ 5, 33 ÷ 3.",
+    "3Nc24 Understand that division can leave a remainder (initially as ‘some left over’).",
+    "3Nc25 Understand and apply the idea that multiplication is commutative.",
+    "3Nc26 Understand the relationship between multiplication and division and write connected facts."
+   ]
+  },
+  {
+   "topic": "Shapes and geometric reasoning",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "3Gs1 Identify, describe and draw regular and irregular 2D shapes including pentagons, hexagons, octagons and semi-circles.",
+    "3Gs2 Classify 2D shapes according to the number of sides, vertices and right angles.",
+    "3Gs3 Identify, describe and make 3D shapes including pyramids and prisms; investigate which nets will make a cube.",
+    "3Gs4 Classify 3D shapes according to the number and shape of faces, number of vertices and edges.",
+    "3Gs5 Draw and complete 2D shapes with reflective symmetry and draw reflections of shapes (mirror line along one side).",
+    "3Gs6 Relate 2D shapes and 3D solids to drawings of them.",
+    "3Gs7 Identify 2D and 3D shapes, lines of symmetry and right angles in the environment.",
+    "3Gs8 Identify right angles in 2D shapes."
+   ]
+  },
+  {
+   "topic": "Position and movement",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "3Gp1 Use the language of position, direction and movement, including clockwise and anti-clockwise.",
+    "3Gp2 Find and describe the position of a square on a grid of squares where the rows and columns are labelled.",
+    "3Gp3 Use a set square to draw right angles.",
+    "3Gp4 Compare angles with a right angle and recognise that a straight line is equivalent to two right angles. G"
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "3Gm1 Consolidate using money notation.",
+    "3Gm2 Use addition and subtraction facts with a total of 100 to find change. Gl"
+   ]
+  },
+  {
+   "topic": "Length, mass and capacity",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "3Gl1 Choose and use appropriate units and equipment to estimate, measure and record measurements.",
+    "3Gl2 Know the relationship between kilometres and metres, metres and centimetres, kilograms and grams, litres and millilitres.",
+    "3Gl3 Read to the nearest division or half division, use scales that are numbered or partially numbered.",
+    "3Gl4 Use a ruler to draw and measure lines to the nearest centimetre.",
+    "3Gl5 Solve word problems involving measures."
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "3Gt1 Suggest and use suitable units to measure time and know the relationships between them (second, minute, hour, day, week, month, year).",
+    "3Gt2 Read the time on analogue and digital clocks, to the nearest 5 minutes on an analogue clock and to the nearest minute on a digital clock.",
+    "3Gt3 Begin to calculate simple time intervals in hours and minutes.",
+    "3Gt4 Read a calendar and calculate time intervals in weeks or days. D Handling data Dh Organising, categorising and representing data"
+   ]
+  },
+  {
+   "topic": "Handling data",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "3Dh1 Answer a real-life question by collecting, organising and interpreting data, e.g. investigating the population of mini-beasts in different environments.",
+    "3Dh2 Use tally charts, frequency tables, pictograms (symbol representing one or two units) and bar charts (intervals labelled in ones or twos).",
+    "3Dh3 Use Venn or Carroll diagrams to sort data and objects using two criteria."
+   ]
+  },
+  {
+   "topic": "Problem solving: techniques and skills",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "3Pt1 Choose appropriate mental strategies to carry out calculations.",
+    "3Pt2 Begin to understand everyday systems of measurement in length, weight, capacity and time and use these to make measurements as appropriate.",
+    "3Pt3 Make sense of and solve word problems, single (all four operations) and two-step (addition and subtraction), and begin to represent them, e.g. with drawings or on a number line.",
+    "3Pt4 Check the results of adding two numbers using subtraction, and several numbers by adding in a different order.",
+    "3Pt5 Check subtraction by adding the answer to the smaller number in the original calculation.",
+    "3Pt6 Check multiplication by reversing the order, e.g. checking that 6 × 4 = 24 by doing 4 × 6.",
+    "3Pt7 Check a division using multiplication, e.g. check 12 ÷ 4 = 3 by doing 4 × 3.",
+    "3Pt8 Recognise the relationships between different 2D shapes.",
+    "3Pt9 Identify the differences and similarities between different 3D shapes.",
+    "3Pt10 Estimate and approximate when calculating, and check working.",
+    "3Pt11 Make a sensible estimate for the answer to a calculation, e.g. using rounding.",
+    "3Pt12 Consider whether an answer is reasonable."
+   ]
+  },
+  {
+   "topic": "Problem solving: understanding and strategies",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "3Ps1 Make up a number story to go with a calculation, including in the context of money.",
+    "3Ps2 Explain a choice of calculation strategy and show how the answer was worked out.",
+    "3Ps3 Explore and solve number problems and puzzles, e.g. logic problems.",
+    "3Ps4 Use ordered lists and tables to help to solve problems systematically.",
+    "3Ps5 Describe and continue patterns which count on or back in steps of 2, 3, 4, 5, 10, or 100.",
+    "3Ps6 Identify simple relationships between numbers, e.g. each number is three more than the number before it.",
+    "3Ps7 Identify simple relationships between shapes, e.g. these shapes all have the same number of lines of symmetry.",
+    "3Ps8 Investigate a simple general statement by finding examples which do or do not satisfy it, e.g. when adding 10 to a number, the first digit remains the same.",
+    "3Ps9 Explain methods and reasoning orally, including initial thoughts about possible answers to a problem."
+   ]
+  }
+ ],
+ "gaps": []
 }

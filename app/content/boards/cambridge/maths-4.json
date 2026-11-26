@@ -1,11 +1,169 @@
 {
-  "board": "Cambridge Primary",
-  "subject": "maths",
-  "class": 4,
-  "source": "Learner's Book scan 1344 (no contents page in the scan)",
-  "topics": [],
-  "gaps": [
-    "The scanned Learner's Book 4 (1344) has no contents page, so units and topics could not be read from it.",
-    "The first pages show the Core activities on reading, writing and partitioning numbers, ordering and rounding, and multiplying and dividing by 10 and 100. Their unit numbers and the full list of units were not read."
-  ]
+ "board": "Cambridge Primary",
+ "subject": "maths",
+ "class": 4,
+ "source": "Cambridge Primary Mathematics Curriculum Framework (with codes), official",
+ "topics": [
+  {
+   "topic": "Numbers and the number system",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "4Nn1 Read and write numbers up to 10000.",
+    "4Nn2 Count on and back in ones, tens, hundreds and thousands from four-digit numbers.",
+    "4Nn3 Understand what each digit represents in a three- or four-digit number and partition into thousands, hundreds, tens and units.",
+    "4Nn4 Use decimal notation and place value for tenths and hundredths in context, e.g. order amounts of money; convert a sum of money such as $13.25 to cents, or a length such as 125 cm to metres; round a sum of money to the nearest pound.",
+    "4Nn5 Understand decimal notation for tenths and hundredths in context, e.g. length.",
+    "4Nn6 Find multiples of 10, 100, 1000 more/less than numbers of up to four digits, e.g. 3407 + 20 = 3427 .",
+    "4Nn7 Multiply and divide three-digit numbers by 10 (whole number answers) and understand the effect; begin to multiply numbers by 100 and perform related divisions.",
+    "4Nn8 Recognise multiples of 5, 10 and 100 up to 1000.",
+    "4Nn9 Round three- and four-digit numbers to the nearest 10 or 100.",
+    "4Nn10 Position accurately numbers up to 1000 on an empty number line or line marked off in multiples of 10 or 100.",
+    "4Nn11 Estimate where three- and four-digit numbers lie on empty 0–1000 or 0–10000 lines.",
+    "4Nn12 Compare pairs of three-digit or four-digit numbers, using the > and < signs, and find a number in between each pair.",
+    "4Nn13 Use negative numbers in context, e.g. temperature.",
+    "4Nn14 Recognise and extend number sequences formed by counting in steps of constant size, extending beyond zero when counting back.",
+    "4Nn15 Recognise odd and even numbers.",
+    "4Nn16 Make general statements about the sums and differences of odd and even numbers.",
+    "4Nn17 Order and compare two or more fractions with the same denominator (halves, quarters, thirds, fifths, eighths or tenths).",
+    "4Nn18 Recognise the equivalence between: 2",
+    "4Nn19 Use equivalence to help order fractions, e.g. 10",
+    "4Nn20 Understand the equivalence between one-place decimals and fractions in tenths.",
+    "4Nn21 Understand that 2",
+    "4Nn22 Recognise the equivalence between the decimal fraction and vulgar fraction forms of halves, quarters, tenths and hundredths.",
+    "4Nn23 Recognise mixed numbers, e.g. 5 4",
+    "4Nn24 Relate finding fractions to division.",
+    "4Nn25 Find halves, quarters, thirds, fifths, eighths and tenths of shapes and numbers."
+   ]
+  },
+  {
+   "topic": "Calculation",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "4Nc1 Derive quickly pairs of two-digit numbers with a total of 100, e.g. 72 + = 100.",
+    "4Nc2 Derive quickly pairs of multiples of 50 with a total of 1000, e.g. 850 + = 1000.",
+    "4Nc3 Identify simple fractions with a total of 1, e.g. 4",
+    "4Nc4 Know multiplication for 2×, 3×, 4×, 5×, 6×, 9× and 10× tables and derive division facts.",
+    "4Nc5 Recognise and begin to know multiples of 2, 3, 4, 5 and 10, up to the tenth multiple.",
+    "4Nc6 Add three or four small numbers, finding pairs that equal 10 or 20.",
+    "4Nc7 Add three two-digit multiples of 10, e.g. 40 + 70 + 50.",
+    "4Nc8 Add and subtract near multiples of 10 or 100 to or from three- digit numbers, e.g. 367 – 198 or 278 + 49.",
+    "4Nc9 Add any pair of two-digit numbers, choosing an appropriate strategy.",
+    "4Nc10 Subtract any pair of two-digit numbers, choosing an appropriate strategy.",
+    "4Nc11 Find a difference between near multiples of 100, e.g. 304 – 296.",
+    "4Nc12 Subtract a small number crossing 100, e.g. 304 – 8.",
+    "4Nc13 Multiply any pair of single-digit numbers together.",
+    "4Nc14 Use knowledge of commutativity to find the easier way to multiply.",
+    "4Nc15 Understand the effect of multiplying and dividing three-digit numbers by 10.",
+    "4Nc16 Derive quickly doubles of all whole numbers to 50, doubles of multiples of 10 to 500, doubles of multiples of 100 to 5000, and corresponding halves.",
+    "4Nc17 Add pairs of three-digit numbers.",
+    "4Nc18 Subtract a two-digit number from a three-digit number.",
+    "4Nc19 Subtract pairs of three-digit numbers.",
+    "4Nc20 Double any two-digit number.",
+    "4Nc21 Multiply multiples of 10 to 90 by a single-digit number.",
+    "4Nc22 Multiply a two-digit number by a single-digit number.",
+    "4Nc23 Divide two-digit numbers by single digit-numbers (answers no greater than 20).",
+    "4Nc24 Decide whether to round up or down after division to give an answer to a problem.",
+    "4Nc25 Understand that multiplication and division are the inverse function of each other.",
+    "4Nc26 Begin to understand simple ideas of ratio and proportion, e.g. a picture is one fifth the size of the real dog. It is 25 cm long in the picture, so it is 5 × 25 cm long in real life."
+   ]
+  },
+  {
+   "topic": "Shapes and geometric reasoning",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "4Gs1 Identify, describe, visualise, draw and make a wider range of 2D and 3D shapes including a range of quadrilaterals, the heptagon and tetrahedron; use pinboards to create a range of polygons. Use spotty paper to record results.",
+    "4Gs2 Classify polygons (including a range of quadrilaterals) using criteria such as the number of right angles, whether or not they are regular and their symmetrical properties.",
+    "4Gs3 Identify and sketch lines of symmetry in 2D shapes and patterns.",
+    "4Gs4 Visualise 3D objects from 2D nets and drawings and make nets of common solids.",
+    "4Gs5 Find examples of shapes and symmetry in the environment and in art."
+   ]
+  },
+  {
+   "topic": "Position and movement",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "4Gp1 Describe and identify the position of a square on a grid of squares where rows and columns are numbered and/or lettered.",
+    "4Gp2 Know that angles are measured in degrees and that one whole turn is 360° or four right angles; compare and order angles less than 180°.",
+    "4Gp3 Devise the directions to give to follow a given path. G Measure Gl"
+   ]
+  },
+  {
+   "topic": "Length, mass and capacity",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "4Gl1 Choose and use standard metric units and their abbreviations (km, m, cm, mm, kg, g, l and ml ) when estimating, measuring and recording length, weight and capacity.",
+    "4Gl2 Know and use the relationships between familiar units of length, mass and capacity; know the meaning of ‘kilo’, ‘centi’ and ‘milli’.",
+    "4Gl3 Where appropriate, use decimal notation to record measurements, e.g. 1.3 m, 0.6 kg, 1.2 l.",
+    "4Gl4 Interpret intervals/divisions on partially numbered scales and record readings accurately."
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "4Gt1 Read and tell the time to nearest minute on 12-hour digital and analogue clocks.",
+    "4Gt2 Use am, pm and 12-hour digital clock notation.",
+    "4Gt3 Read simple timetables and use a calendar.",
+    "4Gt4 Choose units of time to measure time intervals."
+   ]
+  },
+  {
+   "topic": "Area and perimeter",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "4Ga1 Draw rectangles, and measure and calculate their perimeters.",
+    "4Ga2 Understand that area is measured in square units, e.g. cm2 .",
+    "4Ga3 Find the area of rectilinear shapes drawn on a square grid by counting squares."
+   ]
+  },
+  {
+   "topic": "Handling data",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "4Dh1 Answer a question by identifying what data to collect, organising, presenting and interpreting data in tables, diagrams, tally charts, frequency tables, pictograms (symbol representing 2, 5, 10 or 20 units) and bar charts (intervals labelled in twos, fives, tens or twenties).",
+    "4Dh2 Compare the impact of representations where scales have different intervals.",
+    "4Dh3 Use Venn diagrams or Carroll diagrams to sort data and objects using two or three criteria."
+   ]
+  },
+  {
+   "topic": "Problem solving: techniques and skills",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "4Pt1 Choose appropriate mental or written strategies to carry out calculations involving addition or subtraction.",
+    "4Pt2 Understand everyday systems of measurement in length, weight, capacity and time and use these to solve simple problems as appropriate.",
+    "4Pt3 Check the results of adding numbers by adding them in a different order or by subtracting one number from the total.",
+    "4Pt4 Check subtraction by adding the answer to the smaller number in the original calculation.",
+    "4Pt5 Check multiplication using a different technique, e.g. check 6 × 8 = 48 by doing 6 × 4 and doubling.",
+    "4Pt6 Check the result of a division using multiplication, e.g. multiply 4 by 12 to check 48 ÷ 4.",
+    "4Pt7 Recognise the relationships between 2D shapes and identify the differences and similarities between 3D shapes.",
+    "4Pt8 Estimate and approximate when calculating, and check working. Using understanding and strategies in solving problems"
+   ]
+  },
+  {
+   "topic": "Problem solving: understanding and strategies",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "4Ps1 Make up a number story for a calculation, including in the context of measures.",
+    "4Ps2 Explain reasons for a choice of strategy when multiplying or dividing.",
+    "4Ps3 Choose strategies to find answers to addition or subtraction problems; explain and show working.",
+    "4Ps4 Explore and solve number problems and puzzles, e.g. logic problems.",
+    "4Ps5 Use ordered lists and tables to help to solve problems systematically.",
+    "4Ps6 Describe and continue number sequences, e.g. 7 , 4, 1, –2 ... identifying the relationship between each number.",
+    "4Ps7 Identify simple relationships between shapes, e.g. these polygons are all regular because ...",
+    "4Ps8 Investigate a simple general statement by finding examples which do or do not satisfy it.",
+    "4Ps9 Explain methods and reasoning orally and in writing; make hypotheses and test them out."
+   ]
+  }
+ ],
+ "gaps": []
 }

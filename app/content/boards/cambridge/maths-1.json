@@ -1,12 +1,127 @@
 {
-  "board": "Cambridge Primary",
-  "subject": "maths",
-  "class": 1,
-  "source": "Learner's Book scan 1341 (no contents page in the scan)",
-  "topics": [],
-  "gaps": [
-    "The scanned Learner's Book 1 (1341) has no contents page, so units and topics could not be read from it.",
-    "Unit headers appear only in page footers. The first pages show Unit 1A (numbers to ten, making ten, doubles, ten take away) and Unit 1C (measuring length).",
-    "The cherri-moseley Stage 1 file is a 17-page preview with placeholder text and no contents, so it was not used."
-  ]
+ "board": "Cambridge Primary",
+ "subject": "maths",
+ "class": 1,
+ "source": "Cambridge Primary Mathematics Curriculum Framework (with codes), official",
+ "topics": [
+  {
+   "topic": "Numbers and the number system",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "1Nn1 Recite numbers in order (forwards from 1 to 100, backwards from 20 to 0).",
+    "1Nn2 Read and write numerals from 0 to 20.",
+    "1Nn3 Count objects up to 20, recognising conservation of number.",
+    "1Nn4 Count on in tens from zero or a single-digit number to 100 or just over.",
+    "1Nn5 Count on in twos, beginning to recognise odd/even numbers to 20 as ‘every other number’.",
+    "1Nn6 Begin partitioning two-digit numbers into tens and ones and reverse.",
+    "1Nn7 Within the range 0 to 30, say the number that is 1 or 10 more or less than any given number.",
+    "1Nn8 Use more or less to compare two numbers, and give a number which lies between them.",
+    "1Nn9 Order numbers to at least 20 positioning on a number track; use ordinal numbers.",
+    "1Nn10 Use the = sign to represent equality.",
+    "1Nn11 Give a sensible estimate of some objects that can be checked by counting, e.g. to 30.",
+    "1Nn12 Find halves of small numbers and shapes by folding, and recognise which shapes are halved."
+   ]
+  },
+  {
+   "topic": "Calculation",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "1Nc1 Know all number pairs to 10 and record the related addition/subtraction facts.",
+    "1Nc2 Begin to know number pairs to 6, 7 , 8, 9 and 10.",
+    "1Nc3 Add more than two small numbers, spotting pairs to 10, e.g. 4 + 3 + 6 = 10 + 3.",
+    "1Nc4 Begin using pairs to 10 to bridge 10 when adding/subtracting, e.g. 8 + 3, add 2, then 1.",
+    "1Nc5 Know doubles to at least double 5.",
+    "1Nc6 Find near doubles using doubles already known, e.g. 5 + 6.",
+    "1Nc7 Begin to recognise multiples of 2 and 10.",
+    "1Nc8 Understand addition as counting on and combining two sets; record related addition sentences.",
+    "1Nc9 Understand subtraction as counting back and ‘take away’; record related subtraction sentences.",
+    "1Nc10 Understand difference as ‘how many more to make?’",
+    "1Nc11 Add/subtract a single-digit number by counting on/back.",
+    "1Nc12 Find two more or less than a number to 20, recording the jumps on a number line.",
+    "1Nc13 Relate counting on and back in tens to finding 10 more/less than a number (< 100).",
+    "1Nc14 Begin to use the +, – and = signs to record calculations in number sentences.",
+    "1Nc15 Understand that changing the order of addition does not change the total.",
+    "1Nc16 Add a pair of numbers by putting the larger number first and counting on.",
+    "1Nc17 Recognise the use of a sign such as to represent an unknown, e.g. 6 + = 10.",
+    "1Nc18 Begin to add single- and two-digit numbers.",
+    "1Nc19 Double any single-digit number.",
+    "1Nc20 Find halves of even numbers of objects up to 10.",
+    "1Nc21 Try to share numbers to 10 to find which are even and which are odd.",
+    "1Nc22 Share objects into two equal groups in a context."
+   ]
+  },
+  {
+   "topic": "Shapes and geometric reasoning",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "1Gs1 Name and sort common 2D shapes (e.g. circles, squares, rectangles and triangles) using features such as number of sides, curved or straight. Use them to make patterns and models.",
+    "1Gs2 Name and sort common 3D shapes (e.g. cube, cuboid, cylinder, cone and sphere) using features such as number of faces, flat or curved faces. Use them to make patterns and models.",
+    "1Gs3 Recognise basic line symmetry."
+   ]
+  },
+  {
+   "topic": "Position and movement",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "1Gp1 Use everyday language of direction and distance to describe movement of objects."
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "1Mm1 Recognise all coins and work out how to pay an exact sum using smaller coins."
+   ]
+  },
+  {
+   "topic": "Length, mass and capacity",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "1Ml1 Compare lengths and weights by direct comparison, then by using uniform non-standard units.",
+    "1Ml2 Estimate and compare capacities by direct comparison, then by using uniform non-standard units.",
+    "1Ml3 Use comparative language, e.g. longer, shorter, heavier, lighter."
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "1Mt1 Begin to understand and use some units of time, e.g. minutes, hours, days, weeks, months and years.",
+    "1Mt2 Read the time to the hour (o’clock) and know key times of day to the nearest hour.",
+    "1Mt3 Order the days of the week and other familiar events."
+   ]
+  },
+  {
+   "topic": "Handling data",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "1Dh1 Answer a question by sorting and organising data or objects in a variety of ways, e.g. – using block graphs and pictograms with practical resources; discussing the results – in lists and tables with practical resources; discussing the results – in Venn or Carroll diagrams giving different criteria for grouping the same objects"
+   ]
+  },
+  {
+   "topic": "Problem solving: techniques and skills",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "1Pt1 Choose appropriate strategies to carry out calculations, explaining working out.",
+    "1Pt2 Explore number problems and puzzles.",
+    "1Pt3 Find many combinations, e.g. combinations of three pieces of different coloured clothing.",
+    "1Pt4 Decide to add or subtract to solve a simple word problem (oral), and represent it with objects.",
+    "1Pt5 Check the answer to an addition by adding the numbers in a different order.",
+    "1Pt6 Check the answer to a subtraction by adding the answer to the smaller number in the question.",
+    "1Pt7 Describe and continue patterns such as count on and back in tens, e.g. 90, 80, 70.",
+    "1Pt8 Identify simple relationships between numbers and shapes, e.g. this number is ten bigger than that number.",
+    "1Pt9 Make a sensible estimate of a calculation, and consider whether an answer is reasonable."
+   ]
+  }
+ ],
+ "gaps": []
 }

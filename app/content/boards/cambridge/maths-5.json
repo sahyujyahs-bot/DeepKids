@@ -1,218 +1,184 @@
 {
-  "board": "Cambridge Primary",
-  "subject": "maths",
-  "class": 5,
-  "source": "Learner's Book 2nd edition (2684) contents",
-  "topics": [
-    {
-      "topic": "The number system",
-      "strand": "Number",
-      "subtopics": [
-        "1.1 Understanding place value",
-        "1.2 Rounding decimal numbers"
-      ],
-      "covers": [
-        "Understand place value in large whole numbers and decimals",
-        "Round decimal numbers"
-      ]
-    },
-    {
-      "topic": "2D shape and pattern",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "2.1 Triangles",
-        "2.2 Symmetry"
-      ],
-      "covers": [
-        "Classify triangles",
-        "Recognise line symmetry in shapes"
-      ]
-    },
-    {
-      "topic": "Numbers and sequences",
-      "strand": "Number",
-      "subtopics": [
-        "3.1 Counting and sequences",
-        "3.2 Square and triangular numbers",
-        "3.3 Prime and composite numbers"
-      ],
-      "covers": [
-        "Continue and describe number sequences",
-        "Recognise square and triangular numbers",
-        "Tell prime numbers from composite numbers"
-      ]
-    },
-    {
-      "topic": "Averages",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "4.1 Mode and median"
-      ],
-      "covers": [
-        "Find the mode and the median of a set of data"
-      ]
-    },
-    {
-      "topic": "Addition and subtraction",
-      "strand": "Number",
-      "subtopics": [
-        "5.1 Addition and subtraction including decimal numbers",
-        "5.2 Addition and subtraction of positive and negative numbers"
-      ],
-      "covers": [
-        "Add and subtract decimal numbers",
-        "Add and subtract positive and negative numbers"
-      ]
-    },
-    {
-      "topic": "3D shapes",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "6.1 Nets of cubes and drawing 3D shapes"
-      ],
-      "covers": [
-        "Use nets to picture 3D shapes",
-        "Make 2D drawings of 3D shapes"
-      ]
-    },
-    {
-      "topic": "Fractions, decimals and percentages",
-      "strand": "Number",
-      "subtopics": [
-        "7.1 Understanding fractions",
-        "7.2 Percentages, decimals and fractions",
-        "7.3 Equivalence and comparison"
-      ],
-      "covers": [
-        "Understand fractions",
-        "Change between percentages, decimals and fractions",
-        "Compare and order equivalent amounts"
-      ]
-    },
-    {
-      "topic": "Probability",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "8.1 Likelihood",
-        "8.2 Experiments and simulations"
-      ],
-      "covers": [
-        "Describe how likely an event is",
-        "Compare experiment results with what is expected"
-      ]
-    },
-    {
-      "topic": "Addition and subtraction of fractions",
-      "strand": "Number",
-      "subtopics": [
-        "9.1 Addition and subtraction of fractions"
-      ],
-      "covers": [
-        "Add and subtract fractions"
-      ]
-    },
-    {
-      "topic": "Angles",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "10.1 Angles"
-      ],
-      "covers": [
-        "Measure and name angles, including reflex angles"
-      ]
-    },
-    {
-      "topic": "Multiplication and division",
-      "strand": "Number",
-      "subtopics": [
-        "11.1 Multiplication",
-        "11.2 Division",
-        "11.3 Tests of divisibility"
-      ],
-      "covers": [
-        "Multiply and divide",
-        "Use tests to see whether one number divides another"
-      ]
-    },
-    {
-      "topic": "Data",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "12.1 Representing and interpreting data",
-        "12.2 Frequency diagrams and line graphs"
-      ],
-      "covers": [
-        "Draw and read data displays",
-        "Read frequency diagrams and line graphs"
-      ]
-    },
-    {
-      "topic": "Ratio and proportion",
-      "strand": "Number",
-      "subtopics": [
-        "13.1 Ratio and proportion"
-      ],
-      "covers": [
-        "Understand ratio and proportion"
-      ]
-    },
-    {
-      "topic": "Area and perimeter",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "14.1 Area and perimeter"
-      ],
-      "covers": [
-        "Find the area and perimeter of shapes"
-      ]
-    },
-    {
-      "topic": "Multiplying and dividing fractions and decimals",
-      "strand": "Number",
-      "subtopics": [
-        "15.1 Multiplying and dividing fractions",
-        "15.2 Multiplying a decimal and a whole number"
-      ],
-      "covers": [
-        "Multiply and divide fractions",
-        "Multiply a decimal by a whole number"
-      ]
-    },
-    {
-      "topic": "Time",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "16.1 Time intervals and time zones"
-      ],
-      "covers": [
-        "Work out time intervals",
-        "Compare times in different time zones"
-      ]
-    },
-    {
-      "topic": "Number and the laws of arithmetic",
-      "strand": "Number",
-      "subtopics": [
-        "17.1 The laws of arithmetic"
-      ],
-      "covers": [
-        "Use the laws of arithmetic to make calculations easier"
-      ]
-    },
-    {
-      "topic": "Position and direction",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "18.1 Coordinates and translation"
-      ],
-      "covers": [
-        "Read and plot coordinates",
-        "Translate shapes on a grid"
-      ]
-    }
-  ],
-  "gaps": [
-    "The scan of Learner's Book 5 (1345) has no contents page, so the 2nd edition (2684) contents are used.",
-    "Covers are written from the contents subtopics and the unit opening pages. Projects and the glossary are not listed as topics."
-  ]
+ "board": "Cambridge Primary",
+ "subject": "maths",
+ "class": 5,
+ "source": "Cambridge Primary Mathematics Curriculum Framework (with codes), official",
+ "topics": [
+  {
+   "topic": "Numbers and the number system",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "5Nn1 Count on and back in steps of constant size, extending beyond zero.",
+    "5Nn2 Know what each digit represents in five- and six-digit numbers.",
+    "5Nn3 Partition any number up to one million into thousands, hundreds, tens and units.",
+    "5Nn4 Use decimal notation for tenths and hundredths and understand what each digit represents.",
+    "5Nn5 Multiply and divide any number from 1 to 10000 by 10 or 100 and understand the effect.",
+    "5Nn6 Round four-digit numbers to the nearest 10, 100 or 1000.",
+    "5Nn7 Round a number with one or two decimal places to the nearest whole number.",
+    "5Nn8 Order and compare numbers up to a million using the > and < signs.",
+    "5Nn9 Order and compare negative and positive numbers on a number line and temperature scale.",
+    "5Nn10 Calculate a rise or fall in temperature.",
+    "5Nn11 Order numbers with one or two decimal places and compare using the > and < signs.",
+    "5Nn12 Recognise and extend number sequences.",
+    "5Nn13 Recognise odd and even numbers and multiples of 5, 10, 25, 50 and 100 up to 1000.",
+    "5Nn14 Make general statements about sums, differences and multiples of odd and even numbers.",
+    "5Nn15 Recognise equivalence between: 2",
+    "5Nn16 Recognise equivalence between the decimal and fraction forms of halves, tenths and hundredths and use this to help order fractions, e.g. 0.6 is more than 50% and less than 10",
+    "5Nn17 Change an improper fraction to a mixed number, e.g. 4",
+    "5Nn18 Relate finding fractions to division and use to find simple fractions of quantities.",
+    "5Nn19 Understand percentage as the number of parts in every 100 and find simple percentages of quantities.",
+    "5Nn20 Express halves, tenths and hundredths as percentages.",
+    "5Nn21 Use fractions to describe and estimate a simple proportion, e.g. 5",
+    "5Nn22 Use ratio to solve problems, e.g. to adapt a recipe for 6 people to one for 3 or 12 people. Nc"
+   ]
+  },
+  {
+   "topic": "Calculation",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "5Nc1 Know by heart pairs of one-place decimals with a total of 1, e.g. 0.8 + 0.2.",
+    "5Nc2 Derive quickly pairs of decimals with a total of 10, and with a total of 1.",
+    "5Nc3 Know multiplication and division facts for the 2× to 10× tables.",
+    "5Nc4 Know and apply tests of divisibility by 2, 5, 10 and 100.",
+    "5Nc5 Recognise multiples of 6, 7 , 8 and 9 up to the 10th multiple.",
+    "5Nc6 Know squares of all numbers to 10 × 10.",
+    "5Nc7 Find factors of two-digit numbers.",
+    "5Nc8 Count on or back in thousands, hundreds, tens and ones to add or subtract.",
+    "5Nc9 Add or subtract near multiples of 10 or 100, e.g. 4387 – 299.",
+    "5Nc10 Use appropriate strategies to add or subtract pairs of two- and three-digit numbers and numbers with one decimal place, using jottings where necessary.",
+    "5Nc11 Calculate differences between near multiples of 1000, e.g. 5026 – 4998, or near multiples of 1, e.g. 3.2 – 2.6.",
+    "5Nc12 Multiply multiples of 10 to 90, and multiples of 100 to 900, by a single-digit number.",
+    "5Nc13 Multiply by 19 or 21 by multiplying by 20 and adjusting.",
+    "5Nc14 Multiply by 25 by multiplying by 100 and dividing by 4.",
+    "5Nc15 Use factors to multiply, e.g. multiply by 3, then double to multiply by 6.",
+    "5Nc16 Double any number up to 100 and halve even numbers to 200 and use this to double and halve numbers with one or two decimal places, e.g. double 3.4 and half of 8.6.",
+    "5Nc17 Double multiples of 10 to 1000 and multiples of 100 to 10000, e.g. double 360 or double 3600, and derive the corresponding halves.",
+    "5Nc18 Find the total of more than three two- or three-digit numbers using a written method.",
+    "5Nc19 Add or subtract any pair of three- and/or four-digit numbers, with the same number of decimal places, including amounts of money.",
+    "5Nc20 Multiply or divide three-digit numbers by single-digit numbers.",
+    "5Nc21 Multiply two-digit numbers by two-digit numbers.",
+    "5Nc22 Multiply two-digit numbers with one decimal place by single- digit numbers, e.g. 3.6 × 7 .",
+    "5Nc23 Divide three-digit numbers by single-digit numbers, including those with a remainder (answers no greater than 30).",
+    "5Nc24 Start expressing remainders as a fraction of the divisor when dividing two-digit numbers by single-digit numbers.",
+    "5Nc25 Decide whether to group (using multiplication facts and multiples of the divisor) or to share (halving and quartering) to solve divisions.",
+    "5Nc26 Decide whether to round an answer up or down after division, depending on the context.",
+    "5Nc27 Begin to use brackets to order operations and understand the relationship between the four operations and how the laws of arithmetic apply to multiplication. G"
+   ]
+  },
+  {
+   "topic": "Shapes and geometric reasoning",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "5Gs1 Identify and describe properties of triangles and classify as isosceles, equilateral or scalene.",
+    "5Gs2 Recognise reflective and rotational symmetry in regular polygons.",
+    "5Gs3 Create patterns with two lines of symmetry, e.g. on a pegboard or squared paper.",
+    "5Gs4 Visualise 3D shapes from 2D drawings and nets, e.g. different nets of an open or closed cube.",
+    "5Gs5 Recognise perpendicular and parallel lines in 2D shapes, drawings and the environment.",
+    "5Gs6 Understand and use angle measure in degrees; measure angles to the nearest 5°; identify, describe and estimate the size of angles and classify them as acute, right or obtuse.",
+    "5Gs7 Calculate angles in a straight line."
+   ]
+  },
+  {
+   "topic": "Position and movement",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "5Gp1 Read and plot co-ordinates in the first quadrant.",
+    "5Gp2 Predict where a polygon will be after reflection where the mirror line is parallel to one of the sides, including where the line is oblique.",
+    "5Gp3 Understand translation as movement along a straight line, identify where polygons will be after a translation and give instructions for translating shapes."
+   ]
+  },
+  {
+   "topic": "Length, mass and capacity",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "5Gl1 Read, choose, use and record standard units to estimate and measure length, mass and capacity to a suitable degree of accuracy.",
+    "5Gl2 Convert larger to smaller metric units (decimals to one place), e.g. change 2.6 kg to 2600 g.",
+    "5Gl3 Order measurements in mixed units.",
+    "5Gl4 Round measurements to the nearest whole unit.",
+    "5Gl5 Interpret a reading that lies between two unnumbered divisions on a scale.",
+    "5Gl6 Compare readings on different scales.",
+    "5Gl7 Draw and measure lines to the nearest centimetre and millimetre."
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "5Gt1 Recognise and use the units for time (seconds, minutes, hours, days, months and years).",
+    "5Gt2 Tell and compare the time using digital and analogue clocks using the 24-hour clock.",
+    "5Gt3 Read timetables using the 24-hour clock.",
+    "5Gt4 Calculate time intervals in seconds, minutes and hours using digital or analogue formats.",
+    "5Gt5 Use a calendar to calculate time intervals in days and weeks (using knowledge of days in calendar months).",
+    "5Gt6 Calculate time intervals in months or years."
+   ]
+  },
+  {
+   "topic": "Area and perimeter",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "5Ga1 Measure and calculate the perimeter of regular and irregular polygons.",
+    "5Ga2 Understand area measured in square centimetres (cm2 ).",
+    "5Ga3 Use the formula for the area of a rectangle to calculate the rectangle’s area."
+   ]
+  },
+  {
+   "topic": "Handling data",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "5Dh1 Answer a set of related questions by collecting, selecting and organising relevant data; draw conclusions from their own and others’ data and identify further questions to ask.",
+    "5Dh2 Draw and interpret frequency tables, pictograms and bar line charts, with the vertical axis labelled for example in twos, fives, tens, twenties or hundreds. Consider the effect of changing the scale on the vertical axis.",
+    "5Dh3 Construct simple line graphs, e.g. to show changes in temperature over time.",
+    "5Dh4 Understand where intermediate points have and do not have meaning, e.g. comparing a line graph of temperature against time with a graph of class attendance for each day of the week.",
+    "5Dh5 Find and interpret the mode of a set of data."
+   ]
+  },
+  {
+   "topic": "Probability",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "5Db1 Describe the occurrence of familiar events using the language of chance or likelihood."
+   ]
+  },
+  {
+   "topic": "Problem solving: techniques and skills",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "5Pt1 Understand everyday systems of measurement in length, weight, capacity, temperature and time and use these to perform simple calculations.",
+    "5Pt2 Solve single and multi-step word problems (all four operations); represent them, e.g. with diagrams or a number line.",
+    "5Pt3 Check with a different order when adding several numbers or by using the inverse when adding or subtracting a pair of numbers.",
+    "5Pt4 Use multiplication to check the result of a division, e.g. multiply 3.7 × 8 to check 29.6 ÷ 8.",
+    "5Pt5 Recognise the relationships between different 2D and 3D shapes, e.g. a face of a cube is a square.",
+    "5Pt6 Estimate and approximate when calculating, e.g. using rounding, and check working.",
+    "5Pt7 Consider whether an answer is reasonable in the context of a problem."
+   ]
+  },
+  {
+   "topic": "Problem solving: understanding and strategies",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "5Ps1 Understand everyday systems of measurement in length, weight, capacity, temperature and time and use these to perform simple calculations.",
+    "5Ps2 Choose an appropriate strategy for a calculation and explain how they worked out the answer.",
+    "5Ps3 Explore and solve number problems and puzzles, e.g. logic problems.",
+    "5Ps4 Deduce new information from existing information to solve problems.",
+    "5Ps5 Use ordered lists and tables to help to solve problems systematically.",
+    "5Ps6 Describe and continue number sequences, e.g. –30, –27 , , , –18...; identify the relationships between numbers.",
+    "5Ps7 Identify simple relationships between shapes, e.g. these triangles are all isosceles because ...",
+    "5Ps8 Investigate a simple general statement by finding examples which do or do not satisfy it, e.g. the sum of three consecutive whole numbers is always a multiple of three.",
+    "5Ps9 Explain methods and justify reasoning orally and in writing; make hypotheses and test them out.",
+    "5Ps10 Solve a larger problem by breaking it down into sub-problems or represent it using diagrams."
+   ]
+  }
+ ],
+ "gaps": []
 }

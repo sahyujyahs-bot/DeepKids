@@ -1,197 +1,144 @@
 {
-  "board": "Cambridge Primary",
-  "subject": "maths",
-  "class": 2,
-  "source": "Learner's Book 2nd edition (2683) contents",
-  "topics": [
-    {
-      "topic": "Numbers to 100",
-      "strand": "Number",
-      "subtopics": [
-        "1.1 Numbers to 100",
-        "1.2 Counting up to 100 objects",
-        "1.3 Comparing and ordering numbers"
-      ],
-      "covers": [
-        "Read, write and understand numbers up to 100",
-        "Count larger groups of objects by grouping them",
-        "Compare and put numbers to 100 in order"
-      ]
-    },
-    {
-      "topic": "Geometry",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "2.1 3D shapes",
-        "2.2 2D shape and symmetry",
-        "2.3 Fractions of shapes"
-      ],
-      "covers": [
-        "Name and recognise 3D shapes",
-        "Recognise 2D shapes and lines of symmetry",
-        "Find simple fractions of shapes"
-      ]
-    },
-    {
-      "topic": "Measures",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "3.1 Length",
-        "3.2 Drawing and measuring lines"
-      ],
-      "covers": [
-        "Compare and measure lengths",
-        "Draw and measure straight lines accurately"
-      ]
-    },
-    {
-      "topic": "Statistics",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "4.1 Carroll diagrams and tally charts"
-      ],
-      "covers": [
-        "Sort objects using Carroll diagrams",
-        "Record results in tally charts"
-      ]
-    },
-    {
-      "topic": "Working with numbers to 100",
-      "strand": "Number",
-      "subtopics": [
-        "5.1 Addition",
-        "5.2 Subtraction",
-        "5.3 Multiplication",
-        "5.4 Division"
-      ],
-      "covers": [
-        "Add and subtract within 100",
-        "Begin to multiply and divide with numbers to 100"
-      ]
-    },
-    {
-      "topic": "Money",
-      "strand": "Number",
-      "subtopics": [
-        "6.1 Money"
-      ],
-      "covers": [
-        "Work with amounts of money",
-        "Solve simple everyday problems with money"
-      ]
-    },
-    {
-      "topic": "Time",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "7.1 Units of time and the calendar"
-      ],
-      "covers": [
-        "Know the units of time",
-        "Read and use the calendar"
-      ]
-    },
-    {
-      "topic": "Numbers to 100 (2)",
-      "strand": "Number",
-      "subtopics": [
-        "8.1 Numbers in words, rounding and regrouping",
-        "8.2 Fractions of numbers"
-      ],
-      "covers": [
-        "Write numbers to 100 in words",
-        "Round and regroup tens and ones",
-        "Find fractions of numbers"
-      ]
-    },
-    {
-      "topic": "Statistics (2)",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "9.1 Venn diagrams, lists and tables",
-        "9.2 Pictograms and block graphs"
-      ],
-      "covers": [
-        "Sort information using Venn diagrams",
-        "Organise information in lists and tables",
-        "Read and draw pictograms and block graphs"
-      ]
-    },
-    {
-      "topic": "Calculating",
-      "strand": "Number",
-      "subtopics": [
-        "10.1 Adding and subtracting two 2-digit numbers",
-        "10.2 Connecting addition and subtraction",
-        "10.3 Multiplication",
-        "10.4 Division"
-      ],
-      "covers": [
-        "Add and subtract two 2-digit numbers",
-        "See how addition and subtraction are linked",
-        "Multiply and divide"
-      ]
-    },
-    {
-      "topic": "Geometry (2)",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "11.1 Angles and turns",
-        "11.2 Circles"
-      ],
-      "covers": [
-        "Recognise angles and turns",
-        "Identify and draw circles"
-      ]
-    },
-    {
-      "topic": "Telling the time",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "12.1 Telling the time"
-      ],
-      "covers": [
-        "Read clock times",
-        "Understand how a clock shows hours and minutes"
-      ]
-    },
-    {
-      "topic": "Measures (2)",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "13.1 Mass and temperature",
-        "13.2 Capacity"
-      ],
-      "covers": [
-        "Measure and compare mass and temperature",
-        "Measure and compare capacity"
-      ]
-    },
-    {
-      "topic": "Pattern and probability",
-      "strand": "Statistics and probability",
-      "subtopics": [
-        "14.1 Pattern and probability"
-      ],
-      "covers": [
-        "Continue and make patterns",
-        "Talk about how likely events are"
-      ]
-    },
-    {
-      "topic": "Symmetry, position and movement",
-      "strand": "Geometry and measure",
-      "subtopics": [
-        "15.1 Symmetry, position and movement"
-      ],
-      "covers": [
-        "Find lines of symmetry",
-        "Describe position and movement"
-      ]
-    }
-  ],
-  "gaps": [
-    "The scanned Learner's Book 2 (1342) has no contents page, so the 2nd edition (2683) contents are used.",
-    "Covers are written from the contents subtopics and a few unit opening pages. The unit 'What you will learn' lines were not read for each unit."
-  ]
+ "board": "Cambridge Primary",
+ "subject": "maths",
+ "class": 2,
+ "source": "Cambridge Primary Mathematics Curriculum Framework (with codes), official",
+ "topics": [
+  {
+   "topic": "Numbers and the number system",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "2Nn1 Count, read and write numbers to at least 100 and back again.",
+    "2Nn2 Count up to 100 objects, e.g. beads on a bead bar.",
+    "2Nn3 Count on in ones and tens from single- and two-digit numbers and back again.",
+    "2Nn4 Count in twos, fives and tens, and use grouping in twos, fives or tens to count larger groups of objects.",
+    "2Nn5 Begin to count on in small constant steps such as threes and fours.",
+    "2Nn6 Know what each digit represents in two-digit numbers; partition into tens and ones.",
+    "2Nn7 Find 1 or 10 more/less than any two-digit number.",
+    "2Nn8 Round two-digit numbers to the nearest multiple of 10.",
+    "2Nn9 Say a number between any given neighbouring pairs of multiples of 10, e.g. 40 and 50.",
+    "2Nn10 Place a two-digit number on a number line marked off in multiples of ten.",
+    "2Nn11 Recognise and use ordinal numbers up to at least the 10th number and beyond.",
+    "2Nn12 Order numbers to 100; compare two numbers using the > and < signs.",
+    "2Nn13 Give a sensible estimate of up to 100 objects, e.g. choosing from 10, 20, 50 or 100.",
+    "2Nn14 Understand even and odd numbers and recognise these up to at least 20.",
+    "2Nn15 Sort numbers, e.g. odd/even, multiples of 2, 5 and 10.",
+    "2Nn16 Recognise that we write one half 2",
+    "2Nn17 Recognise that 2",
+    "2Nn18 Recognise which shapes are divided in halves or quarters and which are not.",
+    "2Nn19 Find halves and quarters of shapes and small numbers of objects."
+   ]
+  },
+  {
+   "topic": "Calculation",
+   "strand": "Number",
+   "subtopics": [],
+   "covers": [
+    "2Nc1 Find and learn by heart all number pairs to 10 and pairs with a total of 20.",
+    "2Nc2 Partition all numbers to 20 into pairs and record the related addition and subtraction facts.",
+    "2Nc3 Find all pairs of multiples of 10 with a total of 100 and record the related addition and subtraction facts.",
+    "2Nc4 Learn and recognise multiples of 2, 5 and 10 and derive the related division facts.",
+    "2Nc5 Find and learn doubles for all numbers up to 10 and also 15, 20, 25 and 50.",
+    "2Nc6 Relate counting on/back in tens to finding 10 more/less than any two-digit number and then to adding and subtracting other multiples of 10, e.g. 75 – 30.",
+    "2Nc7 Use the = sign to represent equality, e.g. 16 + 4 = 17 + 3.",
+    "2Nc8 Add four or five small numbers together.",
+    "2Nc9 Recognise the use of a symbol such as or ∆ to represent an unknown, e.g. ∆ + = 10.",
+    "2Nc10 Solve number sentences such as 27 + = 30.",
+    "2Nc11 Add and subtract a single digit to and from a two-digit number.",
+    "2Nc12 Add pairs of two-digit numbers.",
+    "2Nc13 Find a small difference between pairs of two-digit numbers.",
+    "2Nc14 Understand that addition can be done in any order, but subtraction cannot.",
+    "2Nc15 Understand subtraction as both difference and take away.",
+    "2Nc16 Understand multiplication as repeated addition and use the × sign.",
+    "2Nc17 Understand multiplication as describing an array.",
+    "2Nc18 Understand division as grouping and use the ÷ sign.",
+    "2Nc19 Use counting in twos, fives or tens to solve practical problems involving repeated addition.",
+    "2Nc20 Find doubles of multiples of 5 up to double 50 and corresponding halves.",
+    "2Nc21 Double two-digit numbers.",
+    "2Nc22 Work out multiplication and division facts for the 3x and 4x tables.",
+    "2Nc23 Understand that division can leave some left over."
+   ]
+  },
+  {
+   "topic": "Shapes and geometric reasoning",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "2Gs1 Sort, name, describe, visualise and draw 2D shapes (e.g. squares, rectangles, circles, regular and irregular pentagons and hexagons) referring to their properties; recognise common 2D shapes in different positions and orientations.",
+    "2Gs2 Sort, name, describe and make 3D shapes (e.g. cubes, cuboids, cones, cylinders, spheres and pyramids) referring to their properties; recognise 2D drawings of 3D shapes.",
+    "2Gs3 Identify reflective symmetry in patterns and 2D shapes; draw lines of symmetry.",
+    "2Gs4 Find examples of 2D and 3D shape and symmetry in the environment."
+   ]
+  },
+  {
+   "topic": "Position and movement",
+   "strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "2Gp1 Follow and give instructions involving position, direction and movement.",
+    "2Gp2 Recognise whole, half and quarter turns, both clockwise and anti-clockwise.",
+    "2Gp3 Recognise that a right angle is a quarter turn."
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "2Mm1 Recognise all coins and notes.",
+    "2Mm2 Use money notation.",
+    "2Mm3 Find totals and the coins and notes required to pay a given amount; work out change."
+   ]
+  },
+  {
+   "topic": "Length, mass and capacity",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "2Ml1 Estimate, measure and compare lengths, weights and capacities, choosing and using suitable uniform non-standard and standard units and appropriate measuring instruments.",
+    "2Ml2 Compare lengths, weights and capacities using the standard units: centimetre, metre, 100 g, kilogram, and litre."
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measure",
+   "subtopics": [],
+   "covers": [
+    "2Mt1 Know the units of time (seconds, minutes, hours, days, weeks, months and years).",
+    "2Mt2 Know the relationships between consecutive units of time.",
+    "2Mt3 Read the time to the half hour on digital and analogue clocks.",
+    "2Mt4 Measure activities using seconds and minutes.",
+    "2Mt5 Know and order the days of the week and the months of the year."
+   ]
+  },
+  {
+   "topic": "Handling data",
+   "strand": "Handling data",
+   "subtopics": [],
+   "covers": [
+    "2Dh1 Answer a question by collecting and recording data in lists and tables, and representing it as block graphs and pictograms to show results.",
+    "2Dh2 Use Carroll and Venn diagrams to sort numbers or objects using one criterion; begin to sort numbers and objects using two criteria; explain choices using appropriate language, including ‘not’."
+   ]
+  },
+  {
+   "topic": "Problem solving: techniques and skills",
+   "strand": "Problem solving",
+   "subtopics": [],
+   "covers": [
+    "2Pt1 Choose appropriate mental strategies to carry out calculations and explain how they worked out the answer.",
+    "2Pt2 Explain methods and reasoning orally.",
+    "2Pt3 Explore number problems and puzzles.",
+    "2Pt4 Make sense of simple word problems (single and easy two- step), decide what operations (addition or subtraction, simple multiplication or division) are needed to solve them and, with help, represent them, with objects or drawings or on a number line.",
+    "2Pt5 Make up a number story to go with a calculation, including in the context of money.",
+    "2Pt6 Check the answer to an addition by adding the numbers in a different order or by using a different strategy, e.g. 35 + 19 by adding 20 to 35 and subtracting 1, and by adding 30 + 10 and 5 + 9.",
+    "2Pt7 Check a subtraction by adding the answer to the smaller number in the original subtraction.",
+    "2Pt8 Describe and continue patterns which count on in twos, threes, fours or fives to 30 or more.",
+    "2Pt9 Identify simple relationships between numbers and shapes, e.g. this number is double ...; these shapes all have ... sides.",
+    "2Pt10 Make a sensible estimate for the answer to a calculation.",
+    "2Pt11 Consider whether an answer is reasonable."
+   ]
+  }
+ ],
+ "gaps": []
 }
