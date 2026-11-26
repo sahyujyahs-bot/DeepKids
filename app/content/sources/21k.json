@@ -1,0 +1,35 @@
+{
+  "id": "21k",
+  "name": "21K School",
+  "kind": "online-school",
+  "url": "https://www.21kschool.com/",
+  "board": ["Cambridge International", "Pearson Edexcel", "NIOS"],
+  "classes": "Nursery-12 (Indian pathway); Early Years to A Level (British pathway)",
+  "languages": [],
+  "format": "Live classes, up to 24 learners per class (class of 16, 20 or 24 chosen); recorded classes not mentioned; facilitator ratio not stated",
+  "timings": "Indian pathway Grades 1-5: live slots at 9:30 AM, 11:00 AM, 1:30 PM or 3:20 PM IST; about 3 hours of live class a day; Monday to Friday",
+  "timings_note": "Counsellor confirms each child's slot. Early primary live sessions are shorter, about 1.5 to 2 hours.",
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "The Indian pathway is aligned to the National Curriculum Framework 2023, with NIOS for senior grades. The British pathway uses Cambridge Primary and Lower Secondary, then IGCSE or A Level, or Pearson Edexcel IAL.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "Indian pathway Grades 1-5, annual fee before rebates: Rs 98,800 (Grade 1) to Rs 1,07,500 (Grade 5), for a class of 20 (2027 intake). Registration, board fees and trips are extra. Rs 5,000 off for paying annually; sibling rebate Rs 5,000.",
+  "how_to_check": "Admissions page (apply.21kschool.com) and the Indian-pathway fee breakdown; fee breakdown seen only for Grade 1.",
+  "source_urls": [
+    "https://www.21kschool.com/",
+    "https://apply.21kschool.com/",
+    "https://www.21kschool.com/in/city/online-school-bangalore/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction",
+    "subjects for Classes 1-5 (Indian pathway)",
+    "syllabus PDF",
+    "topics by period",
+    "fee breakdown for Grades 2-5 (only the total is listed)",
+    "registration fee amount",
+    "whether recorded classes are offered"
+  ]
+}

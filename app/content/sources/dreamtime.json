@@ -1,0 +1,36 @@
+{
+  "id": "dreamtime",
+  "name": "Dreamtime Learning School",
+  "kind": "online-school",
+  "url": "https://dreamtimelearningschool.com/",
+  "board": ["Cambridge", "NIOS", "BOSSE"],
+  "classes": "Nursery-12",
+  "languages": [],
+  "format": "Live small-batch classes of 20 to 28 learners; teacher ratio not stated; recorded classes not mentioned",
+  "timings": "IST: Batch 1 9:15 AM-1:20 PM; Batch 2 1:30 PM-5:35 PM (each about 4 hours 5 minutes, with two 15-minute breaks); days per week not stated",
+  "timings_note": "Many grades run two batches a day. The UAE schedule and an older FAQ show different hours.",
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "Interdisciplinary, brain-based learning focused on focus and self-mastery. Grades 3-6 include novel writing, and there is an English Lab. Practice sessions run every two weeks, with digital portfolios and counselling support.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Fee information is not on the pages read; ask the admissions team.",
+  "source_urls": [
+    "https://dreamtimelearningschool.com/",
+    "https://www.dreamtimelearningschool.com/batch-timing"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction",
+    "subjects for Classes 1-5",
+    "days per week",
+    "teacher ratio",
+    "recorded classes",
+    "syllabus PDF",
+    "topics by period",
+    "Primary fees (only pre-primary and city-page figures seen, not verified for Classes 1-5)",
+    "whether it offers a homeschool programme"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sunbeam",
+  "name": "Sunbeam World School",
+  "kind": "online-school",
+  "url": "https://sunbeamworldschool.com/",
+  "board": ["CBSE-aligned", "NIOS", "BOSSE", "Cambridge"],
+  "classes": "Nursery-12",
+  "languages": [],
+  "format": "Live lessons, and every lesson is also recorded; teacher-student ratio stated as 2:20; batch size not stated",
+  "timings": "Monday to Saturday (bagless Saturdays), about 3.5 hours a day; three daily batches; morning batch 10:00 AM-1:30 PM IST",
+  "timings_note": "Afternoon and evening batch hours are not listed and are confirmed by the counsellor. Grade 5 takes one batch a day.",
+  "subjects_primary": ["English", "Mathematics", "EVS", "Hindi", "Computer Science"],
+  "curriculum": {
+    "summary": "The CBSE-aligned track is NCERT-based for Grades 1-12. Cambridge, Australian, American, NIOS and BOSSE tracks are also offered. Hindi and foreign languages are electives.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "CBSE-aligned Classes 1-2: Rs 54,898 a year; Classes 3-5: Rs 67,098 a year. Paid in three instalments, plus a Rs 999 board registration fee in year one. Fees are non-refundable.",
+  "how_to_check": "Fee structure page (sunbeamworldschool.com/fee-structure/) and the Class 5 page for timings.",
+  "source_urls": [
+    "https://sunbeamworldschool.com/",
+    "https://sunbeamworldschool.com/fee-structure/",
+    "https://sunbeamworldschool.com/grade-5/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "medium of instruction",
+    "batch size",
+    "subjects for Classes 1-4 (Class 5 list only)",
+    "syllabus PDF (only content books and digital resources PDFs exist)",
+    "topics by period",
+    "afternoon and evening batch times"
+  ]
+}

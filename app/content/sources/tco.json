@@ -1,0 +1,36 @@
+{
+  "id": "tco",
+  "name": "The Class of One",
+  "kind": "online-school",
+  "url": "https://www.theclassofone.com/",
+  "board": ["CBSE", "NIOS", "Pearson Edexcel"],
+  "classes": "Nursery-12",
+  "languages": [],
+  "format": "Interactive online sessions; live or recorded not stated; group size not stated (described as small batches)",
+  "timings": "Indian track: Grades 1-2 about 3 hours a day, Grades 3-5 about 3.5 hours a day; 5 days a week",
+  "timings_note": "Two batches a day by grade. UK track: Grades 1-2 1:00-4:00 PM, Grades 3-5 1:00-4:30 PM. Pages do not agree on exact hours.",
+  "subjects_primary": ["English", "Mathematics", "Science", "Computing", "Global Citizenship"],
+  "curriculum": {
+    "summary": "The Indian track follows NEP 2020 and NCF 2023 (CBSE and NIOS). The UK track uses the iPrimary programme. Art, music, dance and fitness are offered as co-curricular classes.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Class timings and fee sections linked from the site menu; not found in the pages read.",
+  "source_urls": [
+    "https://www.theclassofone.com/",
+    "https://www.theclassofone.com/pre-primary.php",
+    "https://www.theclassofone.com/international-british.php"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "languages of instruction",
+    "live or recorded classes",
+    "group size",
+    "Indian-track subjects for Classes 1-5 (subjects shown are from the UK track)",
+    "syllabus PDF",
+    "topics by period",
+    "fees (not published on pages read)",
+    "exact Indian-track start times and days, from the Class Timings section"
+  ]
+}

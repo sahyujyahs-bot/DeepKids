@@ -1,0 +1,35 @@
+{
+  "id": "cyboard",
+  "name": "Cyboard School",
+  "kind": "online-school",
+  "url": "https://cyboardschool.com/",
+  "board": ["CBSE-aligned (no affiliation stated)"],
+  "classes": "Nursery-12",
+  "languages": [],
+  "format": "Live interactive classes on the school's LMS; recorded sessions on request; group size not stated",
+  "timings": null,
+  "timings_note": "An older timetable page (2021-22) says the day runs 9 a.m. to 2:30 p.m. with six periods of about 40 minutes for Grades 1-5. The current timings page could not be opened.",
+  "subjects_primary": ["Literacy", "Numeracy", "Digital literacy"],
+  "curriculum": {
+    "summary": "Core subjects are mapped to CBSE and NCERT. Grades 1-5 focus on literacy and numeracy, with digital literacy from an early age. The school also lists coding and design thinking as extras.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Domestic and international fee structure pages linked from the site menu; not opened.",
+  "source_urls": [
+    "https://cyboardschool.com/",
+    "https://cyboardschool.com/school-curriculum/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "exam board or affiliation (page says CBSE-aligned only)",
+    "medium of instruction",
+    "current class timings and days per week",
+    "group size or teacher ratio",
+    "full subject list for Classes 1-5",
+    "syllabus PDF",
+    "topics by period",
+    "fees (not shown in pages read)"
+  ]
+}
