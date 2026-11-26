@@ -1,0 +1,702 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.animals.birds.L4": {
+   "videos": [
+    {
+     "title": "Environmental change and adaptation in Galápagos finches | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "0G2uDKYBX-c",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "How beak shape suits the food available, seen in Galapagos finches.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Aves(Birds) | Animal Kingdom | Grade 11 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "McKtLeN2LUM",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Birds as a group: feathers, wings and body features.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video on nests, migration or birds as living dinosaurs; these cover beak adaptation and bird features."
+  },
+  "sci.animals.body-plans.L4": {
+   "videos": [
+    {
+     "title": "Classification of animals | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "01T15fMv5Uo",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Body symmetry, segmentation and how animal bodies are organised.",
+     "confidence": "high"
+    },
+    {
+     "title": "Organization in the human body | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "YE2peDF4Zqg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Cells working together as tissues, then organs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phylum Cnidaria | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "LjaS-XY1gbE",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Radial symmetry, shown in jellyfish and relatives.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.courtship-and-mates.L4": {
+   "videos": [
+    {
+     "title": "Mating behavior and inclusive fitness | Individuals and Society | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "bK85aZPR3UY",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "How animals choose mates and why displays matter.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Animal communication | Individuals and Society | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "1kbZ1JAoi5o",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Animals signalling to each other, including courtship displays.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan has no video made for peacock tails or bird song; these are the nearest on mate choice and animal signals."
+  },
+  "sci.animals.insects.L4": {
+   "videos": [
+    {
+     "title": "Bumblebees | All About Bees | Waggle Dance with Climate Science | Circle Time with Khan Academy Kids",
+     "channel": "Khan Academy Kids",
+     "youtube": "HkugM4kLfCo",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Bees living in a colony and how they communicate.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Pollination (self & cross) | How do organisms reproduce | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "hCloCHwrJdQ",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Pollination of flowers, carried by insects and other agents.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on ant colonies or insects as recyclers."
+  },
+  "sci.animals.invertebrates.L4": {
+   "videos": [
+    {
+     "title": "Respiration in Plants and Animals | Respiration | Life Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "95Y4Id6uoTQ",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Breathing in animals without lungs, gas exchange across the body.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Respiratory System | Periplaneta americana | Zoology | Grade 11 | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "M0jH1CeU_tg",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "An insect breathing through tubes instead of lungs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.vertebrate-groups.L4": {
+   "videos": [
+    {
+     "title": "Vertebrata | Diversity in Living Organisms | Class 9 | Life Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "NlNiRMdf95s",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The vertebrate groups: fish, amphibians, reptiles, birds, mammals.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers the five groups, not how each senses its world."
+  },
+  "sci.body.digestion.L4": {
+   "videos": [
+    {
+     "title": "Human Digestive System| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "2uL4b1yMhm8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Food's journey from mouth through stomach to intestines.",
+     "confidence": "high"
+    },
+    {
+     "title": "Digesting Food",
+     "channel": "khanacademymedicine",
+     "youtube": "v2V4zMx33Mc",
+     "mins": 17,
+     "pitch": "older: watch together",
+     "matches": "Digestion step by step from mouth to intestines.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.heart-blood-breath.L4": {
+   "videos": [
+    {
+     "title": "Circulatory system and the heart | Human anatomy and physiology | Health & Medicine | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "QhiVnFvshZg",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "The heart pumping blood round the body.",
+     "confidence": "high"
+    },
+    {
+     "title": "Hemoglobin moves O2 and CO2 | Human anatomy and physiology | Health & Medicine | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "QP8ImP6NCk8",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Blood carrying oxygen to the body.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on measuring pulse or breathing rate."
+  },
+  "sci.body.how-babies-grow.L4": {
+   "videos": [
+    {
+     "title": "Stem cells and differentiation | From cells to organisms | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jOBRupYkyaw",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "One cell becoming many kinds of cell with different jobs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Cellular specialization (differentiation) | Cells | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "YtvL-LQlPrU",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Cell specialisation: how cells take on jobs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pregnancy and Embryonic Development | Human Reproduction | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "iKL3goUeVrk",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How the embryo develops during pregnancy.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.immune-system.L4": {
+   "videos": [
+    {
+     "title": "Types of immune responses: Innate and adaptive, humoral vs. cell-mediated | NCLEX-RN | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "rp7T4IItbtM",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "The quick general defence versus the one that learns.",
+     "confidence": "high"
+    },
+    {
+     "title": "Vaccination | The World of Microorganisms | Grade 8 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "z-eZnk1__ZY",
+     "mins": 10,
+     "pitch": "on level",
+     "matches": "How vaccines prepare the body against disease.",
+     "confidence": "high"
+    },
+    {
+     "title": "Active & Passive immunity | Human health & diseases | Subject | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "2EKIqr4T8Ng",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "How the body builds lasting protection, naturally or by vaccine.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.keeping-balance.L4": {
+   "videos": [
+    {
+     "title": "Physiological concept of positive and negative feedback | Behavior | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "zv8LHyH7_rI",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Feedback that keeps body levels steady.",
+     "confidence": "high"
+    },
+    {
+     "title": "Insulin and glucagon | Chemical Processes | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "Id2E72P8Fe0",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Two hormones pushing blood sugar up and down.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing on breath, pulse or pupils."
+  },
+  "sci.body.kidneys-and-waste.L4": {
+   "videos": [
+    {
+     "title": "Meet the kidneys! | Renal system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "mcQQGGShmLs",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Kidneys cleaning the blood and making urine.",
+     "confidence": "high"
+    },
+    {
+     "title": "Excretion in humans and plants | Life processes | Class 10 Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "6idTmDG_sDw",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How humans remove waste.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.messages-in-the-body.L4": {
+   "videos": [
+    {
+     "title": "Nervous system (central & peripheral) | Control & Coordination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "RClEbcPD9q0",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Nerves as the body's fast message system.",
+     "confidence": "high"
+    },
+    {
+     "title": "Hormones Intro & working | Control & Coordination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "gaN0ceyrpqQ",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Hormones as slower chemical messages.",
+     "confidence": "high"
+    },
+    {
+     "title": "Reflex action (& reflex arc) | Neural Control & Coordination | Class 11 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Qiv8dUp_I3c",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Reflex actions and the reflex arc.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.organs-inside.L4": {
+   "videos": [
+    {
+     "title": "Meet the heart! | Circulatory system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "Vi1JK6IYVt8",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "How the heart works and beats.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Meet the lungs | Respiratory system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "qGiPZf7njqY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The lungs and how breathing works.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on measuring pulse before and after exercise."
+  },
+  "sci.body.skeleton.L4": {
+   "videos": [
+    {
+     "title": "Human Skeletal System | Our Skeletal System and the Skin | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "OPZkdgsfAhE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What bones and the skeleton do.",
+     "confidence": "high"
+    },
+    {
+     "title": "Joints | Muscular and Skeletal System | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7dZB56GpJFM",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Joints and how the skeleton moves.",
+     "confidence": "high"
+    },
+    {
+     "title": "Muscles and How do they work? | Movement in Animals | Class 6 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "o8uNI7DP09A",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How muscles pull on bones to move us.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing on other kinds of skeletons."
+  },
+  "sci.changes.chemical-reactions.L4": {
+   "videos": [
+    {
+     "title": "Chemical reactions | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "a9RJZqG9qJo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Chemical reactions make new substances.",
+     "confidence": "high"
+    },
+    {
+     "title": "Chemical changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "CT5CVpOVAoY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Chemical changes and signs that one has happened.",
+     "confidence": "high"
+    },
+    {
+     "title": "Rusting of iron | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "5Dq9GEQUNhU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Rusting of iron as a reaction.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.changes.fire.L4": {
+   "videos": [
+    {
+     "title": "Melting wax vs Burning candle | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ihInc2txR2E",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What happens to the wax when a candle burns.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Combustion | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8czI_1mTgeI",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What burning is.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Law of conservation of mass | Atoms and Molecules | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "rnpy_SHsMNg",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Nothing is lost in a reaction: mass is conserved.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.changes.kitchen-science.L4": {
+   "videos": [
+    {
+     "title": "Yeast | Useful and Harmful Microbes | Grade 9 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HgRYMpJfX1o",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Yeast, the living thing that makes dough rise.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on browning or onions."
+  },
+  "sci.changes.reversible-and-irreversible.L4": {
+   "videos": [
+    {
+     "title": "Physical and Chemical Changes | Changes Around Us  | Grade 7 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "aMhvVfkJpUM",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Physical changes we can undo versus chemical changes we cannot.",
+     "confidence": "high"
+    },
+    {
+     "title": "Chemical changes | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "CT5CVpOVAoY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Chemical changes make new substances for good.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.acids-and-bases.L4": {
+   "videos": [
+    {
+     "title": "Properties of acids and bases | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "028VyNbK2bY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Properties of acids and bases.",
+     "confidence": "high"
+    },
+    {
+     "title": "The pH scale | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "qCDSfihEhno",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "The pH scale.",
+     "confidence": "high"
+    },
+    {
+     "title": "Neutralization Reaction | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "sra__tR7QZE",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Neutralising an acid with a base, as an antacid does.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.bonds.L4": {
+   "videos": [
+    {
+     "title": "Ionic bonds | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "FaeAurHnQJs",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Ionic bonds, as in salt.",
+     "confidence": "high"
+    },
+    {
+     "title": "Covalent bonds | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "kS5iU4v0QZk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Covalent bonds, as in water.",
+     "confidence": "high"
+    },
+    {
+     "title": "Metallic bonds | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "N5MAFQlnu18",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "Metallic bonds in metals.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.carbon-chemistry.L4": {
+   "videos": [
+    {
+     "title": "Carbon as a building block of life | Properties of carbon | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "JgYlogdtJDo",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Carbon as the building block of living things.",
+     "confidence": "high"
+    },
+    {
+     "title": "Hydrocarbon overview | Properties of carbon | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "oPqq3Ex6viM",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Carbon chains and rings in hydrocarbons, the backbone of fuels.",
+     "confidence": "high"
+    },
+    {
+     "title": "Plastics & Types of Plastics | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "oI1bhCaEWR8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Plastics, long carbon-based chains.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.chemistry-in-industry.L4": {
+   "videos": [
+    {
+     "title": "Fertilizers & manures in Crop Production & management | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ork_iH7qtnk",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Fertilisers and what they give crops.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Petroleum | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HVXlQwtntcs",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Petroleum and the fuels made from it.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on medicines or paints."
+  },
+  "sci.chemistry.chemistry-of-earth-and-space.L4": {
+   "videos": [
+    {
+     "title": "Acid rain | Science | Khan Academy (IN accent)",
+     "channel": "Khan Academy India - English",
+     "youtube": "7HWPyHlHNBg",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What acid rain is and where it comes from.",
+     "confidence": "high"
+    },
+    {
+     "title": "Acid Rain| Atmospheric Pollution| AP Environmental science| Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "P4I-abHPa-I",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Acid rain from polluted air.",
+     "confidence": "high"
+    },
+    {
+     "title": "Air | Introduction to Natural Resources | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "rJIfJN6jdBo",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "What air is and why it matters.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on sea water or soil chemistry."
+  },
+  "sci.chemistry.electrochemistry.L4": {
+   "videos": [
+    {
+     "title": "Introduction to galvanic/voltaic cells | Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "9Xncz_mMc5g",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How a chemical cell makes electricity, as in a lemon battery.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to electrolysis | Redox reactions and electrochemistry | Chemistry | Khan Academy",
+     "channel": "Khan Academy Organic Chemistry",
+     "youtube": "1tvvSUySfls",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Splitting compounds with electricity.",
+     "confidence": "high"
+    },
+    {
+     "title": "Rusting of iron | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "5Dq9GEQUNhU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Why iron rusts.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.elements.L4": {
+   "videos": [
+    {
+     "title": "Elements | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "PeNjuIQFd9U",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What elements are.",
+     "confidence": "high"
+    },
+    {
+     "title": "The periodic table | Atoms, elements, and the periodic table | High school chemistry | Khan Academy",
+     "channel": "Khan Academy Organic Chemistry",
+     "youtube": "t_f8bB1kf6M",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "The periodic table of elements.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Intro to physical properties of metals | Metals and non metals | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "AdXN2OTBxG0",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Properties of metals versus non-metals.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}
