@@ -1,0 +1,35 @@
+{
+  "id": "interval",
+  "name": "Interval Learning",
+  "kind": "tutor",
+  "url": "https://intervaledu.com/online-tuition/class-1-5/",
+  "board": ["CBSE", "ICSE", "IGCSE", "State board"],
+  "classes": "1-5 (page read); other classes not checked",
+  "languages": ["English", "Hindi or regional language"],
+  "format": "1-on-1 live, one dedicated teacher per student",
+  "timings": "Batch windows: Mon-Fri 6-8 AM and 2-4 PM; weekends 8 AM-12 PM and 2-6 PM; evenings 5-7 PM and 7-9 PM",
+  "timings_note": "Batch windows, not fixed class times. Sessions per week and session length are not stated. The FAQ recommends 2-3 classes per subject per week.",
+  "subjects_primary": ["English", "Mathematics", "Science", "Social Science", "Hindi or regional language"],
+  "curriculum": {
+    "summary": "One-on-one live classes for Classes 1-5 in English, Maths, Science and Social Science, plus language lessons. The schedule is customised to the child. The CBSE section lists NCERT chapters for Classes 1-5.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "intervaledu.com Class 1-5 page: book the free demo class to get the fee quote",
+  "source_urls": [
+    "https://intervaledu.com/online-tuition/class-1-5/",
+    "https://www.intervaledu.com/courses/one-to-one-academic-program/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "fee range (only 'depends on format and classes per week')",
+    "sessions per week for a student",
+    "session length",
+    "language choice for Language I and II (page does not name them)",
+    "syllabus PDF or topics by term",
+    "recorded sessions for Classes 1-5 (only mentioned in other pages)",
+    "group batch (Super 15) fees and whether it covers Classes 1-5",
+    "domain check: a blog lists intervallearning.com; intervaledu.com was used"
+  ]
+}

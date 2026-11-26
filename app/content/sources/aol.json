@@ -1,0 +1,28 @@
+{
+  "id": "aol",
+  "name": "AOL School",
+  "kind": "online-school",
+  "url": null,
+  "board": [],
+  "classes": null,
+  "languages": [],
+  "format": null,
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": null,
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": null,
+  "source_urls": [],
+  "checked": "2026-11-26",
+  "gaps": [
+    "official website: www.aolschool.com did not resolve in this session (DNS failure); allow it in network settings to recheck",
+    "AOL School could not be found in search; the Art of Living results are a different organisation and were not used",
+    "board, classes, languages, format, timings, subjects, curriculum, syllabus, fees: all not found",
+    "kind 'online-school' is the working assumption from the list name"
+  ]
+}

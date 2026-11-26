@@ -1,0 +1,30 @@
+{
+  "id": "nios",
+  "name": "NIOS Open Basic Education (levels A, B, C)",
+  "kind": "open-board",
+  "url": "https://www.nios.ac.in/",
+  "board": [],
+  "classes": null,
+  "languages": [],
+  "format": null,
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": null,
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": null,
+  "source_urls": [],
+  "checked": "2026-11-26",
+  "gaps": [
+    "nios.ac.in returned HTTP 503 on every attempt (home page, OBE pages, programme pages); nothing could be read from the official site",
+    "OBE level to class mapping: not confirmed from the official site (search results disagree between documents)",
+    "medium languages, subjects per level, eligibility and age: not confirmed",
+    "exam and admission dates, fees and registration: not confirmed",
+    "syllabus or curriculum link: not confirmed",
+    "format (self-study with exams or supported): not confirmed"
+  ]
+}

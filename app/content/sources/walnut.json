@@ -1,0 +1,32 @@
+{
+  "id": "walnut",
+  "name": "Walnut School",
+  "kind": "online-school",
+  "url": "https://walnut.school/online/",
+  "board": ["CBSE"],
+  "classes": "Kindergarten to Std 10 (page mentions Std 10)",
+  "languages": ["English", "Marathi", "Hindi", "Sanskrit"],
+  "format": "live, interactive; group size not stated",
+  "timings": "Live classes 5 days a week; hours not stated",
+  "timings_note": "Daily times and session length are not on the page",
+  "subjects_primary": ["English", "Mathematics", "Science", "Social Studies", "Marathi", "Hindi"],
+  "curriculum": {
+    "summary": "Live classes in core subjects (English, Maths, Science, Social Studies, Marathi, Hindi). Co-curriculars include speaking, reading, art, theatre and computational thinking. The page does not break this down by class.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "walnut.school/online/ links an FAQ and an 'Components of Online School' page; fee pages are per campus",
+  "source_urls": ["https://walnut.school/online/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "fees for the online school",
+    "class-wise fees",
+    "class hours and session length",
+    "group size or teacher ratio",
+    "recorded classes",
+    "syllabus PDF or topics by term",
+    "subjects for Classes 1-5 specifically",
+    "whether a Class 1-5 online batch is offered (page is general)"
+  ]
+}

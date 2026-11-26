@@ -1,0 +1,31 @@
+{
+  "id": "diksha",
+  "name": "DIKSHA and NCERT e-content",
+  "kind": "app",
+  "url": "https://diksha.gov.in/",
+  "board": ["NCERT", "CBSE", "NIOS", "State boards (36 States/UTs)"],
+  "classes": "1-5 (Foundational and Preparatory bands on the page)",
+  "languages": ["English", "Hindi", "Basic sentences in 22 Indian languages (Bhasha Sangam)"],
+  "format": "mixed: textbooks, videos, interactive content and quizzes; self-paced",
+  "timings": null,
+  "timings_note": "Not a timetabled class. The page states no class times.",
+  "subjects_primary": ["Mathematics", "English", "Hindi", "EVS", "Science"],
+  "curriculum": {
+    "summary": "Textbooks, videos, interactive content and quizzes, filterable by subject, grade and language. The home page does not confirm which NCERT textbooks cover each of Classes 1-5.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "diksha.gov.in: filter by grade and subject; the DIKSHA app is on Google Play and the App Store",
+  "source_urls": ["https://diksha.gov.in/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "free or paid status not stated on the page",
+    "ncert.nic.in returned HTTP 503 on every attempt, so NCERT free PDF details are not confirmed",
+    "subject list per class for Classes 1-5 (page lists subjects in general)",
+    "NCERT textbook languages and downloads",
+    "syllabus or textbook list per class",
+    "parent-specific access or progress tracking",
+    "class hours: not applicable"
+  ]
+}
