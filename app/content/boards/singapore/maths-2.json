@@ -1,0 +1,128 @@
+{
+ "board": "Singapore MOE Primary Mathematics",
+ "subject": "maths",
+ "class": 2,
+ "level": "Primary 2",
+ "source": "MOE Primary Mathematics Syllabus 2021 (updated Oct 2025), official",
+ "topics": [
+  {
+   "topic": "Numbers up to 1000",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "counting in tens/hundreds",
+    "number notation, representations and place values (hundreds, tens, ones)",
+    "reading and writing numbers in numerals and in words",
+    "comparing and ordering numbers",
+    "patterns in number sequences",
+    "odd and even numbers"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "addition and subtraction algorithms (up to 3 digits)",
+    "mental calculation involving addition and subtraction of a 3-digit number and ones/tens/hundreds"
+   ]
+  },
+  {
+   "topic": "Multiplication and Division",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "multiplication tables of 2, 3, 4, 5 and 10",
+    "use of ÷",
+    "relationship between multiplication and division",
+    "multiplying and dividing within the multiplication tables",
+    "mental calculation involving multiplication and division within multiplication tables of 2, 3, 4, 5 and 10"
+   ]
+  },
+  {
+   "topic": "Fraction of a Whole",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "fraction as part of a whole",
+    "notation and representations of fractions",
+    "comparing and ordering fractions with denominators of given fractions not exceeding 12 ; unit fractions ; like fractions"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting like fractions within one whole with denominators of given fractions not exceeding 12"
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Number and Algebra",
+   "sub_strand": "Money",
+   "subtopics": [],
+   "covers": [
+    "counting amount of money in dollars and cents",
+    "reading and writing money in decimal notation",
+    "comparing two or three amounts of money",
+    "converting an amount of money in decimal notation to cents only, and vice versa"
+   ]
+  },
+  {
+   "topic": "Length, Mass and Volume",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "measuring ; length in metres ; mass in kilograms/grams ; volume of liquid in litres",
+    "using appropriate units of measurement and their abbreviations m, g, kg, ℓ",
+    "comparing and ordering ; lengths ; masses ; volumes"
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "telling time to the minute",
+    "measuring time in hours and minutes",
+    "converting time in hours and minutes to minutes only, and vice versa"
+   ]
+  },
+  {
+   "topic": "2D Shapes",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "making/completing patterns       with 2D shapes according to one or two of the following attributes ; size ; shape ; colour ; orientation"
+   ]
+  },
+  {
+   "topic": "3D Shapes",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "identifying, naming, describing and classifying 3D shapes ; cube ; cuboid ; cone ; cylinder ; sphere"
+   ]
+  },
+  {
+   "topic": "Picture Graphs with Scales",
+   "strand": "Statistics",
+   "sub_strand": "Data Representation And Interpretation",
+   "subtopics": [],
+   "covers": [
+    "reading and interpreting data from picture graphs with scales"
+   ]
+  }
+ ],
+ "gaps": []
+}

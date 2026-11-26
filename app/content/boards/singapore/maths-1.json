@@ -1,0 +1,106 @@
+{
+ "board": "Singapore MOE Primary Mathematics",
+ "subject": "maths",
+ "class": 1,
+ "level": "Primary 1",
+ "source": "MOE Primary Mathematics Syllabus 2021 (updated Oct 2025), official",
+ "topics": [
+  {
+   "topic": "Numbers up to 100",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "counting to tell the number of objects in a given set",
+    "number notation, representations and place values (tens, ones)",
+    "reading and writing numbers in numerals and in words",
+    "comparing the number of objects in two or more sets",
+    "comparing and ordering numbers",
+    "patterns in number sequences",
+    "ordinal numbers (first, second, up to tenth) and symbols (1st, 2nd, 3rd, etc.)"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "concepts of addition and subtraction",
+    "use of +, – and =",
+    "relationship between addition and subtraction",
+    "adding more than two 1-digit numbers",
+    "adding and subtracting within 100",
+    "adding and subtracting using algorithms",
+    "mental calculation involving addition and subtraction ; within 20 ; of a 2-digit number and ones without renaming ; of a 2-digit number and tens"
+   ]
+  },
+  {
+   "topic": "Multiplication and Division",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "concepts of multiplication and division",
+    "use of x",
+    "multiplying within 40",
+    "dividing within 20"
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Number and Algebra",
+   "sub_strand": "Money",
+   "subtopics": [],
+   "covers": [
+    "counting amount of money ; in cents up to $1 ; in dollars up to $100"
+   ]
+  },
+  {
+   "topic": "Length",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "measuring length in centimetres",
+    "use of abbreviation cm",
+    "comparing and ordering lengths in cm",
+    "measuring and drawing a line segment to the nearest cm"
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "telling time to 5 minutes",
+    "use of ‘am’ and ‘pm’",
+    "use of abbreviations h and min",
+    "duration of one hour/half hour"
+   ]
+  },
+  {
+   "topic": "2D Shapes",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "identifying, naming, describing and classifying 2D shapes ; rectangle ; square ; triangle ; circle ; half circle ; quarter circle",
+    "forming different 2D figures with ; rectangle ; square ; triangle ; half circle ; quarter circle",
+    "identifying the 2D shapes that make up a given figure",
+    "copying figures on dot grid or square grid"
+   ]
+  },
+  {
+   "topic": "Picture Graphs",
+   "strand": "Statistics",
+   "sub_strand": "Data Representation And Interpretation",
+   "subtopics": [],
+   "covers": [
+    "reading and interpreting data from picture graphs"
+   ]
+  }
+ ],
+ "gaps": []
+}

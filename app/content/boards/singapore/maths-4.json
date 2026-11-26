@@ -1,0 +1,179 @@
+{
+ "board": "Singapore MOE Primary Mathematics",
+ "subject": "maths",
+ "class": 4,
+ "level": "Primary 4",
+ "source": "MOE Primary Mathematics Syllabus 2021 (updated Oct 2025), official",
+ "topics": [
+  {
+   "topic": "Numbers up to 100 000",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "number notation, representations and place values (ten thousands, thousands, hundreds, tens, ones)",
+    "reading and writing numbers in numerals and in words",
+    "comparing and ordering numbers",
+    "patterns in number sequences",
+    "rounding numbers to the nearest 10, 100 or 1000",
+    "use of ≈"
+   ]
+  },
+  {
+   "topic": "Factors and Multiples",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "factors, multiples and their relationship",
+    "determining if a 1-digit number is a factor of a given number within 100",
+    "finding the common factors of two given numbers",
+    "determining if a number is a multiple of a given 1-digit number",
+    "finding the common multiples of two given 1-digit numbers"
+   ]
+  },
+  {
+   "topic": "Four Operations",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "multiplication algorithm ; up to 4 digits by 1 digit ; up to 3 digits by 2 digits",
+    "division algorithm (up to 4 digits by 1 digit)"
+   ]
+  },
+  {
+   "topic": "Mixed Numbers and Improper Fractions",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "mixed numbers, improper fractions and their relationship"
+   ]
+  },
+  {
+   "topic": "Fraction of a Set",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "fraction as part of a set"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting fractions with denominators of given fractions not exceeding 12 and not more than two different denominators"
+   ]
+  },
+  {
+   "topic": "Decimals up to 3 decimal places",
+   "strand": "Number and Algebra",
+   "sub_strand": "Decimals",
+   "subtopics": [],
+   "covers": [
+    "notation, representations and place values (tenths, hundredths, thousandths)",
+    "comparing and ordering decimals",
+    "expressing decimals as fractions",
+    "expressing fractions as decimals when the denominator is a factor of 10 or 100",
+    "rounding decimals to ; the nearest whole number ; 1 decimal place ; 2 decimal places"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Decimals",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting decimals (up to 2 decimal places)"
+   ]
+  },
+  {
+   "topic": "Multiplication and Division",
+   "strand": "Number and Algebra",
+   "sub_strand": "Decimals",
+   "subtopics": [],
+   "covers": [
+    "multiplying and dividing decimals (up to 2 decimal places) by a 1-digit whole number",
+    "dividing a whole number by a whole number with quotient as a decimal",
+    "rounding answers to a specified degree of accuracy"
+   ]
+  },
+  {
+   "topic": "Area and Perimeter",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Area And Volume",
+   "subtopics": [],
+   "covers": [
+    "finding one dimension of a rectangle given the other dimension and its area/perimeter",
+    "finding the length of one side of a square given its area/perimeter",
+    "finding the area and perimeter of composite figures made up of rectangles and squares"
+   ]
+  },
+  {
+   "topic": "Angles",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "using notation such as ∠ABC and ∠a to name angles",
+    "measuring angles in degrees",
+    "drawing an angle of given size"
+   ]
+  },
+  {
+   "topic": "Rectangle and Square",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "properties of rectangle and square, excluding diagonal properties",
+    "drawing rectangles and squares"
+   ]
+  },
+  {
+   "topic": "Line Symmetry",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "identifying symmetric figures",
+    "determining whether a straight line is a line of symmetry of a symmetric figure",
+    "completing a symmetric figure with respect to a given line of symmetry on square grid"
+   ]
+  },
+  {
+   "topic": "Nets",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": []
+  },
+  {
+   "topic": "Nets",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "identifying 2D representations of ; cube ; cuboid ; cone ; cylinder ; prism ; pyramid",
+    "drawing 2D representations of ; cube ; cuboid ; prism ; pyramid",
+    "identifying the nets of 3D solids ; cube ; cuboid ; prism ; pyramid",
+    "identifying the solid which can be formed by a given net"
+   ]
+  },
+  {
+   "topic": "Tables, Line Graphs and Pie Charts",
+   "strand": "Statistics",
+   "sub_strand": "Data Representation And Interpretation",
+   "subtopics": [],
+   "covers": [
+    "completing a table from given data",
+    "reading and interpreting data from tables/line graphs/pie charts"
+   ]
+  }
+ ],
+ "gaps": []
+}

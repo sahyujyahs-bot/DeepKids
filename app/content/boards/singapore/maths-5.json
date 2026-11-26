@@ -1,0 +1,143 @@
+{
+ "board": "Singapore MOE Primary Mathematics",
+ "subject": "maths",
+ "class": 5,
+ "level": "Primary 5",
+ "source": "MOE Primary Mathematics Syllabus 2021 (updated Oct 2025), official",
+ "topics": [
+  {
+   "topic": "Numbers up to 10 million",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "reading and writing numbers in numerals and in words"
+   ]
+  },
+  {
+   "topic": "Four Operations",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "multiplying and dividing by 10, 100, 1000 and their multiples without calculator",
+    "order of operations without calculator",
+    "use of brackets without calculator"
+   ]
+  },
+  {
+   "topic": "Fraction and Division",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "dividing a whole number by a whole number with quotient as a fraction",
+    "expressing fractions as decimals"
+   ]
+  },
+  {
+   "topic": "Four Operations",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting mixed numbers",
+    "multiplying a proper/improper fraction and a whole number without calculator",
+    "multiplying a proper fraction and a proper/ improper fractions without calculator",
+    "multiplying two improper fractions",
+    "multiplying a mixed number and a whole number"
+   ]
+  },
+  {
+   "topic": "Four Operations",
+   "strand": "Number and Algebra",
+   "sub_strand": "Decimals",
+   "subtopics": [],
+   "covers": [
+    "multiplying and dividing decimals (up to 3 decimal places) by 10, 100, 1000 and their multiples without calculator",
+    "converting a measurement from a smaller unit to a larger unit in decimal form, and vice versa ; kilometres and metres ; metres and centimetres ; kilograms and grams ; litres and millilitres"
+   ]
+  },
+  {
+   "topic": "Percentage",
+   "strand": "Number and Algebra",
+   "sub_strand": "Percentage",
+   "subtopics": [],
+   "covers": [
+    "expressing a part of a whole as a percentage",
+    "use of %",
+    "finding a percentage part of a whole",
+    "finding discount, GST and annual interest"
+   ]
+  },
+  {
+   "topic": "Rate",
+   "strand": "Number and Algebra",
+   "sub_strand": "Rate",
+   "subtopics": [],
+   "covers": [
+    "rate as the amount of a quantity per unit of another quantity",
+    "finding rate, total amount or number of units given the other two quantities"
+   ]
+  },
+  {
+   "topic": "Area of Triangle",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Area And Volume",
+   "subtopics": [],
+   "covers": [
+    "concepts of base and height of a triangle",
+    "area of triangle",
+    "finding the area of composite figures made up of rectangles, squares and triangles"
+   ]
+  },
+  {
+   "topic": "Volume of Cube and Cuboid",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Area And Volume",
+   "subtopics": [],
+   "covers": [
+    "building solids with unit cubes",
+    "measuring volume in cubic units, cm3/m3, excluding conversion between cm3and m3",
+    "drawing cubes and cuboids on isometric grid",
+    "volume of a cube/cuboid",
+    "finding the volume of liquid in a rectangular tank",
+    "relationship between ℓ (or ml) with cm3"
+   ]
+  },
+  {
+   "topic": "Angles",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "angles on a straight line",
+    "angles at a point",
+    "vertically opposite angles",
+    "finding unknown angles"
+   ]
+  },
+  {
+   "topic": "Triangle",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "properties of ; isosceles triangle ; equilateral triangle ; right-angled triangle",
+    "angle sum of a triangle",
+    "finding unknown angles without additional construction of lines"
+   ]
+  },
+  {
+   "topic": "Parallelogram, Rhombus and Trapezium",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "properties of ; parallelogram ; rhombus ; trapezium",
+    "finding unknown angles without additional construction of lines"
+   ]
+  }
+ ],
+ "gaps": []
+}

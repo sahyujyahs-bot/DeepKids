@@ -1,0 +1,140 @@
+{
+ "board": "Singapore MOE Primary Mathematics",
+ "subject": "maths",
+ "class": 3,
+ "level": "Primary 3",
+ "source": "MOE Primary Mathematics Syllabus 2021 (updated Oct 2025), official",
+ "topics": [
+  {
+   "topic": "Numbers up to 10 000",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "counting in hundreds/thousands",
+    "number notation, representations and place values (thousands, hundreds, tens, ones)",
+    "reading and writing numbers in numerals and in words",
+    "comparing and ordering numbers",
+    "patterns in number sequences"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "addition and subtraction algorithms (up to 4 digits)",
+    "mental calculation involving addition and subtraction of two 2-digit numbers"
+   ]
+  },
+  {
+   "topic": "Multiplication and Division",
+   "strand": "Number and Algebra",
+   "sub_strand": "Whole Numbers",
+   "subtopics": [],
+   "covers": [
+    "multiplication tables of 6, 7, 8 and 9",
+    "multiplying and dividing within the multiplication tables",
+    "division with remainder",
+    "multiplication and division algorithms (up to 3 digits by 1 digit)",
+    "mental calculation involving multiplication and division within multiplication tables"
+   ]
+  },
+  {
+   "topic": "Equivalent fractions",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "equivalent fractions",
+    "expressing a fraction in its simplest form",
+    "comparing and ordering unlike fractions with denominators of given fractions not exceeding 12",
+    "writing the equivalent fraction of a fraction given the denominator or the numerator"
+   ]
+  },
+  {
+   "topic": "Addition and Subtraction",
+   "strand": "Number and Algebra",
+   "sub_strand": "Fractions",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting two related fractions within one whole with denominators of given fractions not exceeding 12"
+   ]
+  },
+  {
+   "topic": "Money",
+   "strand": "Number and Algebra",
+   "sub_strand": "Money",
+   "subtopics": [],
+   "covers": [
+    "adding and subtracting money in decimal notation"
+   ]
+  },
+  {
+   "topic": "Length, Mass and Volume",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "measuring ; length in kilometres (km) ; volume of liquid in millilitres (ml)",
+    "measuring length/mass/volume (of liquid) in compound units",
+    "converting a measurement in compound units to the smaller unit, and vice versa ; kilometres and metres ; metres and centimetres ; kilograms and grams ; litres and millilitres (numbers involved should be within easy manipulation)"
+   ]
+  },
+  {
+   "topic": "Time",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Measurement",
+   "subtopics": [],
+   "covers": [
+    "measuring time in seconds",
+    "finding the starting time, finishing time or duration given the other two quantities",
+    "24-hour clock"
+   ]
+  },
+  {
+   "topic": "Area and Perimeter",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Area And Volume",
+   "subtopics": [],
+   "covers": [
+    "concepts of area and perimeter of a plane figure",
+    "measuring area in square units, cm2 and m2, excluding conversion between cm2 and m2",
+    "perimeter of ; rectilinear figure ; rectangle ; square",
+    "area of rectangle/square"
+   ]
+  },
+  {
+   "topic": "Angles",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "concepts of angle",
+    "right angles, angles greater than/smaller than a right angle"
+   ]
+  },
+  {
+   "topic": "Perpendicular and Parallel Lines",
+   "strand": "Measurement and Geometry",
+   "sub_strand": "Geometry",
+   "subtopics": [],
+   "covers": [
+    "perpendicular and parallel lines",
+    "drawing perpendicular and parallel lines"
+   ]
+  },
+  {
+   "topic": "Bar Graphs",
+   "strand": "Statistics",
+   "sub_strand": "Data Representation And Interpretation",
+   "subtopics": [],
+   "covers": [
+    "reading and interpreting data from bar graphs",
+    "using different scales on axis"
+   ]
+  }
+ ],
+ "gaps": []
+}
