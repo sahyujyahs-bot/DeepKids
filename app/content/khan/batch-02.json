@@ -1,0 +1,608 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.evolution.family-tree-of-life.L5": {
+   "videos": [
+    {
+     "title": "Understanding and building phylogenetic trees | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "6_XMKmFQ_w8",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "How scientists build and read evolutionary trees (phylogeny) from shared traits and DNA.",
+     "confidence": "high"
+    },
+    {
+     "title": "Common ancestry and evolutionary trees | Evolution | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Rg3mLbLqKsk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Common ancestry shown as a tree; how relatives branch.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Molecular clocks and surprising cousins are not covered directly."
+  },
+  "sci.evolution.fossils-and-extinction.L5": {
+   "videos": [
+    {
+     "title": "Extinction | Common ancestry and phylogeny | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gmr5QYeFJ4g",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Extinction and mass extinctions in the history of life.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Recovery after mass extinctions and extinction today are only touched on."
+  },
+  "sci.evolution.human-origins.L5": {
+   "videos": [
+    {
+     "title": "Human evolution overview | Life on earth and in the universe | Cosmology & Astronomy | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "frE1rjhH77Y",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "The story of human evolution and our ancestors.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Neanderthals and Denisovans are not the focus."
+  },
+  "sci.evolution.natural-selection.L5": {
+   "videos": [
+    {
+     "title": "Natural selection and adaptation | Mechanisms of evolution | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "giw2ELZr-bE",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Natural selection and adaptation.",
+     "confidence": "high"
+    },
+    {
+     "title": "Natural selection in peppered moths | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "y4BHYYBif3Q",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Natural selection worked through the peppered moth.",
+     "confidence": "high"
+    },
+    {
+     "title": "Endosymbiosis theory | Cell structure and function | AP Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "eCWwKrJyKxA",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Endosymbiosis (Lynn Margulis): cooperation in evolution.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.population-change.L5": {
+   "videos": [
+    {
+     "title": "Genetic drift, bottleneck effect and founder effect | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "IRTn0iNkAHI",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Genetic drift, bottleneck and founder effect: chance change in small groups.",
+     "confidence": "high"
+    },
+    {
+     "title": "Genetic variation, gene flow, and new species | Grade 12 | Biology | Khan Academy (IN accent)",
+     "channel": "Khan Academy India - English",
+     "youtube": "ng9MUzYEUtU",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Genetic variation, gene flow and new species.",
+     "confidence": "high"
+    },
+    {
+     "title": "Allopatric and sympatric speciation | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gnku5AksWvU",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "How new species form (allopatric and sympatric speciation).",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.story-of-life.L5": {
+   "videos": [
+    {
+     "title": "Origins of life  | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "rMuj2MGeIAc",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "How life might have begun on Earth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover the scale model of deep time."
+  },
+  "sci.food.balanced-diet.L5": {
+   "videos": [
+    {
+     "title": "Deficiency Diseases | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "d0aUIesWWB8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Deficiency diseases and how diet prevents them.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to Nutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The nutrients a balanced diet needs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Malnutrition and Overweight| Nutrition and Diet | MH Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "lQ-pHt5HoyE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Malnutrition and healthy eating.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.food.food-safety.L5": {
+   "videos": [
+    {
+     "title": "Food Protection & Preservation Part 1| Food Safety | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "YrMjjX-M0o0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "How food is protected and preserved from microbes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Food Wastage & Spoilage | Part 1| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Mt62fQPq1IQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Why food spoils: microbes growing on it.",
+     "confidence": "high"
+    },
+    {
+     "title": "Food Protection & Preservation Part 2 | Food Safety | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "F5uCuKP-_m4",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Food preservation methods, part 2.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.air-water-resistance.L5": {
+   "videos": [
+    {
+     "title": "Falling objects | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "wf8SYTb4r-g",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Falling objects and air resistance.",
+     "confidence": "medium"
+    },
+    {
+     "title": "What is Buoyant force? | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "3z8dVupYfAw",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Buoyant force (upthrust).",
+     "confidence": "high"
+    }
+   ],
+   "note": "No Khan video on designing a parachute."
+  },
+  "sci.forces.friction.L5": {
+   "videos": [
+    {
+     "title": "Friction and its types | Middle School Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "pSV9DdD0jgI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Friction as a contact force and its types.",
+     "confidence": "high"
+    },
+    {
+     "title": "Is Friction necessary? | Middle School Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eKEnL9mtLlw",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Useful and unwanted friction.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.gravity.weight-and-mass.L5": {
+   "videos": [
+    {
+     "title": "Mass & weight | Gravity | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "INZNifEXOcQ",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Mass and weight are different.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mass and weight clarification | Centripetal force and gravitation | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "IuBoeDihLUc",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Mass and weight clarified, including weight on other planets.",
+     "confidence": "high"
+    },
+    {
+     "title": "Gravitational force | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "R0XFqHBZfHc",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Gravitational force.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.adaptations.L5": {
+   "videos": [
+    {
+     "title": "Natural selection and adaptation | Mechanisms of evolution | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "giw2ELZr-bE",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How traits suited to an environment arise (adaptation).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Environmental change and adaptation in Galápagos finches | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "0G2uDKYBX-c",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Adaptation to environmental change in Galapagos finches.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Adaption in plants in forest and grasslands | Adaptations | MH Grade 6  | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Iaa_etRkwV8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Plants adapted to forest and grassland.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.habitats.lands-and-lives.L5": {
+   "videos": [
+    {
+     "title": "Flora Fauna endemic endangered Species| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "zAG29huq5a8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Endemic and endangered flora and fauna.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan India video; regions of India and traditional knowledge are not covered."
+  },
+  "sci.habitats.water-habitats.L5": {
+   "videos": [],
+   "note": "No close Khan match."
+  },
+  "sci.habitats.where-life-lives.L5": {
+   "videos": [],
+   "note": "No Khan video links drifting continents to where species live."
+  },
+  "sci.health.diseases-and-medicines.L5": {
+   "videos": [
+    {
+     "title": "Infectious and non-infectious diseases | Human Health and Disease | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "GbzUaLIb61k",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Infectious and non-infectious diseases.",
+     "confidence": "high"
+    },
+    {
+     "title": "Deficiency Diseases | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "d0aUIesWWB8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Deficiency diseases.",
+     "confidence": "high"
+    },
+    {
+     "title": "Diseases caused by microorganisms | The World of Microorganisms | Grade 8 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "N4fiPVQUTW8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Diseases caused by microorganisms.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.health.feelings-and-wellbeing.L5": {
+   "videos": [],
+   "note": "Khan does not teach this."
+  },
+  "sci.magnets.magnets-and-materials.L5": {
+   "videos": [
+    {
+     "title": "Magnetic force | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "u-3cEw0uDC0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Magnetic force and what magnets attract.",
+     "confidence": "high"
+    },
+    {
+     "title": "Magnetic effect on Non-Magnetic Materials | Exploring Magnets| Middle School| Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "RnP4i4Hnyt4",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "How magnets act on magnetic and non-magnetic materials.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to magnetism | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "8Y4JSp5U82I",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Introduction to magnetism.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.microorganisms.germs.L5": {
+   "videos": [
+    {
+     "title": "Infectious and non-infectious diseases | Human Health and Disease | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "GbzUaLIb61k",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Infectious and non-infectious diseases.",
+     "confidence": "high"
+    },
+    {
+     "title": "Diseases caused by microorganisms | The World of Microorganisms | Grade 8 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "N4fiPVQUTW8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "How microorganisms cause disease.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.microorganisms.helpful-microbes.L5": {
+   "videos": [
+    {
+     "title": "Friend or Foe ? | Understanding Microorganism | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "LqL492kifkU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Microbes as friends and foes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Useful and harmful microorganisms | The World of Microorganisms Part I&II | Class 8",
+     "channel": "Khan Academy India - English",
+     "youtube": "l4ExhaW6Sy4",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Useful and harmful microorganisms.",
+     "confidence": "high"
+    },
+    {
+     "title": "Food Protection & Preservation Part 1| Food Safety | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "YrMjjX-M0o0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Food preservation against microbes.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.microorganisms.microbes-everywhere.L5": {
+   "videos": [
+    {
+     "title": "Friend or Foe ? | Understanding Microorganism | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "LqL492kifkU",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Most microbes are useful; some harm.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Useful and harmful microorganisms | The World of Microorganisms Part I&II | Class 8",
+     "channel": "Khan Academy India - English",
+     "youtube": "l4ExhaW6Sy4",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Useful and harmful microorganisms.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Microbes in and on the body are not covered directly."
+  },
+  "sci.microorganisms.parasites.L5": {
+   "videos": [
+    {
+     "title": "An Introduction to Parasitism | Biology in Human Welfare | Class 11 | Zoology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "SmWn4Gq44cA",
+     "mins": 2,
+     "pitch": "older: watch together",
+     "matches": "Introduction to parasitism.",
+     "confidence": "high"
+    },
+    {
+     "title": "Parasitic adaptations | Biology in Human Welfare | Class 11 | Zoology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eL9ZDH8wCNI",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Parasitic adaptations.",
+     "confidence": "high"
+    },
+    {
+     "title": "Effect of Parasite on Hosts | Biology in Human Welfare | Class 11 | Zoology | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "Q6ggEtxhduk",
+     "mins": 2,
+     "pitch": "older: watch together",
+     "matches": "Effect of a parasite on its host.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan India Class 11 videos; behaviour-changing parasites are not covered."
+  },
+  "sci.microorganisms.viruses.L5": {
+   "videos": [
+    {
+     "title": "Viruses | Living World and Classification of Microbes | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XoDUY7pMkU0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What viruses are.",
+     "confidence": "high"
+    },
+    {
+     "title": "Virus structure and replication | Viruses | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "otHDPu2H3rY",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How a virus takes over a cell and copies itself.",
+     "confidence": "high"
+    },
+    {
+     "title": "Subviral particles: viroids and prions | Cells | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "qmsWOrQtj4w",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Viroids and prions.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.inside-plants.L5": {
+   "videos": [
+    {
+     "title": "Intro to vascular tissues (xylem & phloem) | Life processes | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "AYyPlvdcMEY",
+     "mins": 11,
+     "pitch": "on level",
+     "matches": "Xylem and phloem: the two pipe systems.",
+     "confidence": "high"
+    },
+    {
+     "title": "Xylem & transpiration | Life processes | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "d60lqIfGeQw",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Xylem carries water up.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phloem & translocation  | Life processes | Class 10 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "hZAxvlXDiqA",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Phloem carries food around.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.photosynthesis.L5": {
+   "videos": [
+    {
+     "title": "Photosynthesis in organisms | Matter and energy in organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "_BLShUdXbN4",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Photosynthesis: plants make food from light.",
+     "confidence": "high"
+    },
+    {
+     "title": "Photosynthesis | Life processes | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "PSGKRd7Bbl0",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Photosynthesis and chlorophyll.",
+     "confidence": "high"
+    },
+    {
+     "title": "Photosynthetic Pigments | Photosynthesis in Higher Plants | Grade 11 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "gklGaecmuXk",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Chlorophyll and photosynthetic pigments.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.plant-senses.L5": {
+   "videos": [],
+   "note": "Khan has tropism videos but none on plant signalling through roots and fungi or the open debate."
+  }
+ }
+}

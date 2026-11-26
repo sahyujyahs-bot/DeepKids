@@ -1,0 +1,665 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.animals.animal-life-cycles.L5": {
+   "videos": [],
+   "note": "Khan has only plain life-cycle videos (frog, mosquito, silkworm); none cover cicadas, salmon, immortal jellyfish or why some species have so many young."
+  },
+  "sci.animals.animal-minds.L5": {
+   "videos": [
+    {
+     "title": "Types of animal communication | Individuals and Society | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "S3X-NkvE49o",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How animals communicate (signals, dances, calls).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Animal communication | Individuals and Society | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "1kbZ1JAoi5o",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Animal communication in general.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Covers communication only; Khan has nothing on animal emotions or consciousness."
+  },
+  "sci.animals.body-plans.L5": {
+   "videos": [
+    {
+     "title": "Evidence of evolution: anatomy | Evolution | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "J6VJ6dS8D1k",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Comparing body structures to show animals are related.",
+     "confidence": "high"
+    },
+    {
+     "title": "Homologous & analogous structures | Heredity & Evolution | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "m0_W3xXIgDE",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Homologous structures: same bone plan in different animals.",
+     "confidence": "high"
+    },
+    {
+     "title": "Classification of animals | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "01T15fMv5Uo",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "How the animal kingdom is divided by body organisation.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.courtship-and-mates.L5": {
+   "videos": [
+    {
+     "title": "Mating behavior and inclusive fitness | Individuals and Society | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "bK85aZPR3UY",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Mating behaviour and mate choice (sexual selection).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "MCAT-level; does not cover seahorse fathers or the variety of family systems."
+  },
+  "sci.animals.invertebrates.L5": {
+   "videos": [
+    {
+     "title": "Phylum  Mollusca | Diversity in Living Organisms | Biology | Grade 9 | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "P2VdEh7Juz8",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Molluscs, the group that includes the octopus.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Phylum Cnidaria | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "LjaS-XY1gbE",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Cnidarians: jellyfish, corals, anemones.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phylum Porifera | Animal kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "u5Qz9-iCZoY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Sponges (Porifera).",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan India also has Phylum Arthropoda (KbVX6Mb9dKQ) and Echinodermata (zU4yrFvUBW8) if wanted."
+  },
+  "sci.animals.vertebrate-groups.L5": {
+   "videos": [
+    {
+     "title": "Vertebrata | Diversity in Living Organisms | Class 9 | Life Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "NlNiRMdf95s",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "The vertebrate groups and what they share.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mammals | Animal Kingdom | Grade 11 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "JWEa_cemjmk",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Mammals and what defines them.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Reptiles | Animal Kingdom | Grade 11 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ZkmE1k7HLTQ",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Reptiles as a group.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Birds-as-dinosaurs and air-breathing fish not found on Khan."
+  },
+  "sci.body.digestion.L5": {
+   "videos": [
+    {
+     "title": "Human Digestive System| Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "2uL4b1yMhm8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Parts and jobs of the human digestive system.",
+     "confidence": "high"
+    },
+    {
+     "title": "Meet the gastrointestinal tract! | Gastrointestinal system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "Oh_Pt_UrtEE",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "A tour of the gut from mouth to intestines.",
+     "confidence": "high"
+    },
+    {
+     "title": "Digesting Food",
+     "channel": "khanacademymedicine",
+     "youtube": "v2V4zMx33Mc",
+     "mins": 17,
+     "pitch": "older: watch together",
+     "matches": "Digestion step by step: mouth, stomach, intestines.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.energy-from-food.L5": {
+   "videos": [
+    {
+     "title": "Cellular respiration | Food and energy in organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "1RXk1NJpRDI",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How cells release energy from food.",
+     "confidence": "high"
+    },
+    {
+     "title": "Food and energy in organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "wPhjCn9kq5M",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "How organisms get and use energy from food.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to metabolism: anabolism and catabolism | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "KwNe9x0eChs",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Metabolism: breaking down and building up.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.heart-blood-breath.L5": {
+   "videos": [
+    {
+     "title": "Open and closed circulatory systems | Body fluids and circulation | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Apbs2DEL8yY",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Open and closed circulation in different animals.",
+     "confidence": "high"
+    },
+    {
+     "title": "How many chambers do animals' hearts have? | Body fluids and circulation | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "K3uw9nKQBfw",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Heart chambers across animal groups.",
+     "confidence": "high"
+    },
+    {
+     "title": "Circulatory system and the heart | Human anatomy and physiology | Health & Medicine | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "QhiVnFvshZg",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "The circulatory system and the heart.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.how-babies-grow.L5": {
+   "videos": [
+    {
+     "title": "Human fertilization and early development | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "-7WKUNG9v-w",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Fertilization (egg and sperm) and early development.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pregnancy and Embryonic Development | Human Reproduction | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "iKL3goUeVrk",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Pregnancy and how the embryo develops.",
+     "confidence": "high"
+    }
+   ],
+   "note": "High-school biology wording; parent should preview first."
+  },
+  "sci.body.how-bodies-build-themselves.L5": {
+   "videos": [
+    {
+     "title": "Early embryogenesis - Cleavage, blastulation, gastrulation, and neurulation | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "dAOWQC-OBv0",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "One cell dividing into a ball, folding into layers (gastrulation).",
+     "confidence": "high"
+    },
+    {
+     "title": "Stem cells and differentiation | From cells to organisms | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jOBRupYkyaw",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "How cells become different types (differentiation).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video on Hox genes or axolotl regrowth."
+  },
+  "sci.body.keeping-balance.L5": {
+   "videos": [
+    {
+     "title": "Physiological concept of positive and negative feedback | Behavior | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "zv8LHyH7_rI",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Feedback loops that keep the body steady.",
+     "confidence": "high"
+    },
+    {
+     "title": "Feedback Mechanism | Coordination | Class  10 | Biology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "KQ9KvGkKCKI",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Feedback mechanisms in the body.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Homeostasis itself is not a Khan title; these cover its feedback loops."
+  },
+  "sci.body.kidneys-and-waste.L5": {
+   "videos": [
+    {
+     "title": "Excretory organs in animals | Excretory products and their elimination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "CspzmHuidB0",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Excretory organs across animals.",
+     "confidence": "high"
+    },
+    {
+     "title": "Kidney function and anatomy | Renal system physiology | NCLEX-RN | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "ctGkLYuUCvU",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How kidneys filter waste and balance water.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Desert-animal water saving not covered."
+  },
+  "sci.body.messages-in-the-body.L5": {
+   "videos": [
+    {
+     "title": "Hormones Intro & working | Control & Coordination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "gaN0ceyrpqQ",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "What hormones are and how they work.",
+     "confidence": "high"
+    },
+    {
+     "title": "Adrenal medulla, adrenaline and noradrenaline | Chemical coordination | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "f3q3G7PRuKg",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Adrenaline and the adrenal glands.",
+     "confidence": "high"
+    },
+    {
+     "title": "Intro to the endocrine system | Health & Medicine | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "f_Z1zsR9lFM",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Intro to the endocrine system.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.organs-inside.L5": {
+   "videos": [
+    {
+     "title": "Organization in the human body | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "YE2peDF4Zqg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Cells, tissues, organs and organ systems working together.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.body.skeleton.L5": {
+   "videos": [
+    {
+     "title": "Joints | Muscular and Skeletal System | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7dZB56GpJFM",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Types of joints and how they move.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Human Skeletal System | Our Skeletal System and the Skin | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "OPZkdgsfAhE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The human skeleton and its jobs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video on muscle pairs, exoskeletons or hydrostatic skeletons."
+  },
+  "sci.classification.keys-and-kingdoms.L5": {
+   "videos": [
+    {
+     "title": "Taxonomy and the kingdoms of life | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "DeI_-dk4DSY",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Taxonomy and the kingdoms of life.",
+     "confidence": "high"
+    },
+    {
+     "title": "5 Kingdom Classification of Living Organisms | Living World | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "6dub9UGH10Y",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The five-kingdom grouping of living things.",
+     "confidence": "high"
+    },
+    {
+     "title": "Taxonomy and the Tree of Life",
+     "channel": "Khan Academy",
+     "youtube": "oHvLlS_Sc54",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "The tree of life and how groupings are drawn.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.biodiversity.L5": {
+   "videos": [
+    {
+     "title": "Biodiversity | Biodiversity and human impacts | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TZ-S9sc6HYM",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "What biodiversity is and why it matters.",
+     "confidence": "high"
+    },
+    {
+     "title": "Biodiversity and ecosystem health: a Hawaiian Islands case study | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "bmiVVgF9Hjw",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "A case study of biodiversity and ecosystem health.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Biodiversity | Biodiversity and Conservation | Class XII | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "w0Y2XTNdN0E",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Biodiversity and conservation (India board).",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.cycles-and-decomposers.L5": {
+   "videos": [
+    {
+     "title": "Nitrogen Cycle | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "rDFVzVOkcPs",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "The nitrogen cycle.",
+     "confidence": "medium"
+    },
+    {
+     "title": "The carbon cycle | Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "XynPVsE1fd4",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The carbon cycle.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video specifically on decomposers or compost."
+  },
+  "sci.ecology.food-chains.L5": {
+   "videos": [
+    {
+     "title": "Food Chain and Food Webs | Middle School Science |  Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HRyjMbuMDn0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Food chains and food webs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Matter and energy in food webs | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "qIgL05zOx5U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Matter and energy in food webs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Worked example: analyzing a generic food web | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "vniXioPlsLA",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Reading a food web.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.how-ecosystems-change.L5": {
+   "videos": [
+    {
+     "title": "Ecological succession | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "4J8lciSyPPc",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Ecosystems recovering step by step (succession).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Ecological succession | Biodiversity and human impacts | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "d7xbyNSxxrI",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Primary and secondary succession.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Yellowstone wolves not covered."
+  },
+  "sci.ecology.interdependence.L5": {
+   "videos": [
+    {
+     "title": "Competition, predation, and mutualism | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "S65RR_pEyPw",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Mutualism, competition and predation.",
+     "confidence": "high"
+    },
+    {
+     "title": "Interactions between populations | Ecology and natural systems | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "q2zdiLn3gSE",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How populations interact, including mutualism.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Rhizobium| Useful and Harmful Microbes | Grade 9 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "MBAg7ROaiOU",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Rhizobium bacteria living in plant roots: a partnership.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Fungi-root partnerships and lichens not covered."
+  },
+  "sci.ecology.levels-of-life.L5": {
+   "videos": [
+    {
+     "title": "Populations, communities, and ecosystems | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "xzINev2Bd8s",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Populations, communities and ecosystems.",
+     "confidence": "high"
+    },
+    {
+     "title": "Ecosystems and biomes | Ecology and natural systems | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "A495e31cDdE",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Ecosystems and biomes.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "The Gaia idea is not covered."
+  },
+  "sci.ecology.populations.L5": {
+   "videos": [
+    {
+     "title": "Exponential and logistic growth in populations | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "KyAKEisg2PQ",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Exponential and logistic growth, carrying capacity.",
+     "confidence": "high"
+    },
+    {
+     "title": "Predator-prey population cycles | Ecology and natural systems | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "UASWxKWdKCw",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Predator and prey numbers rising and falling together.",
+     "confidence": "high"
+    },
+    {
+     "title": "Predator prey cycle | Ecology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "NYq2078_xqc",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "The predator-prey cycle graph.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.energy-around-us.L5": {
+   "videos": [
+    {
+     "title": "Kinetic energy | Energy | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "QFDVhfYu8HU",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Kinetic energy: energy of moving things.",
+     "confidence": "high"
+    },
+    {
+     "title": "Potential energy | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "5VVY0MSkrd0",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Potential energy: stored energy, e.g. a table holds energy.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.evolution.closest-cousins.L5": {
+   "videos": [
+    {
+     "title": "Ape Clarification",
+     "channel": "Khan Academy",
+     "youtube": "oFGkYA_diDA",
+     "mins": 1,
+     "pitch": "older: watch together",
+     "matches": "Humans are apes; clarifying how we relate to other apes.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Short clip; Khan has no video on ape tools, culture or Goodall."
+  }
+ }
+}
