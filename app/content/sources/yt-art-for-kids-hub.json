@@ -1,0 +1,27 @@
+{
+  "id": "yt-art-for-kids-hub",
+  "name": "Art for Kids Hub",
+  "kind": "youtube",
+  "url": "https://artforkidshub.com/",
+  "classes": "All ages and skill levels (site wording; no age range given)",
+  "languages": [],
+  "format": "channel",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["drawing", "painting", "origami", "seasonal art projects"],
+  "curriculum": {
+    "summary": "Art for Kids Hub is a family drawing channel run by Rob Jensen with his wife Teryn and their children, who draw step by step on screen. The site says it has over 3,000 lessons, grouped by topic such as animals, buildings, characters and vehicles. Lessons are free on YouTube and the website, supported by ads, and an ad-free membership is offered.",
+    "syllabus_url": "https://artforkidshub.com/how-to-draw/",
+    "topics_by_period": null
+  },
+  "fees_note": "Free on YouTube and the website (with ads). Ad-free membership at artforkidshub.tv from US$5.99 a month, with a 7-day free trial (per the site).",
+  "how_to_check": "Open the topic list on artforkidshub.com/how-to-draw; the YouTube channel page did not load fully.",
+  "source_urls": ["https://artforkidshub.com/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "YouTube channel page was truncated; video count not confirmed",
+    "Ages stated only as every age and skill level",
+    "Languages not stated",
+    "Subscriber figures differ by source and are not used"
+  ]
+}

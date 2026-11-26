@@ -1,0 +1,28 @@
+{
+  "id": "agastya",
+  "name": "Agastya International Foundation",
+  "kind": "community",
+  "url": "https://www.agastya.org",
+  "classes": null,
+  "languages": [],
+  "format": "centre",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["hands-on science (STEM)", "art and creativity", "media arts", "design and science events"],
+  "curriculum": {
+    "summary": "Agastya runs hands-on science and STEM learning for children. It works through hub-based centres (including a campus at Kuppam) and mobile labs, such as Lab-on-a-Bike, that go to schools and communities. Other programmes include Agastya Virtual School, Operation Vasantha evening lessons, and Young Instructor Leaders, where children teach children. The programmes page does not give ages, grades or fees.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Ask the nearest Agastya hub or the Agastya Virtual School for ages, grades and fees; the programmes page does not state them.",
+  "source_urls": ["https://www.agastya.org/programs", "https://www.agastya.org/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Age or grade for each programme",
+    "Languages of instruction",
+    "Fees",
+    "Enrolment process and which hubs are open to families",
+    "Home page was truncated; only its title was read"
+  ]
+}

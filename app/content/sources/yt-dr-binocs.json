@@ -1,0 +1,30 @@
+{
+  "id": "yt-dr-binocs",
+  "name": "Dr Binocs Show",
+  "kind": "youtube",
+  "url": null,
+  "classes": "Age 7 and up (streaming listings)",
+  "languages": [],
+  "format": "channel",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["science", "nature", "the human body"],
+  "curriculum": {
+    "summary": "Dr Binocs Show is an animated science show that answers \"what if\" questions about nature and the body, such as what happens if you stop sleeping, plus photosynthesis, the water cycle and the structure of the Earth. It first aired on the Peekaboo channel from 2015. A parental review notes that the show calls homework more harmful than helpful, and that some videos carry personal or political views.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Check the episode list and age rating on YouTube or the streaming listings; the official channel page did not load.",
+  "source_urls": [
+    "https://tubitv.com/series/300007895/the-dr-binocs-show",
+    "https://www.pluggedin.com/youtube-reviews/peekaboo-kidz/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Official YouTube channel and site did not load (youtube handle returned 404, drbinocs.com 503)",
+    "Languages",
+    "Episode count and playlists",
+    "Streaming listings and review read only as search summaries"
+  ]
+}

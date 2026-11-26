@@ -1,0 +1,27 @@
+{
+  "id": "karadi-path",
+  "name": "Karadi Path",
+  "kind": "curriculum",
+  "url": "https://www.karadipath.com",
+  "classes": null,
+  "languages": ["English"],
+  "format": null,
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["English language"],
+  "curriculum": {
+    "summary": "Karadi Path is an Indian company with its own English language learning method, built on what it describes as over a decade of research. Its site lists four programmes (English Climbers, Power English, Magic English Junior, Magic English SLL) and three teacher workshops (DCDL, REC, TSLL). It says Power English and Magic English are used in many Indian schools.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Open each programme page on karadipath.com for ages, format and price; the home page does not give them.",
+  "source_urls": ["https://www.karadipath.com"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Ages, classes and delivery format for each programme",
+    "Board or syllabus alignment",
+    "Prices and timings",
+    "Programme and workshop pages were linked but not read"
+  ]
+}

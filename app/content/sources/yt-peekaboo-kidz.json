@@ -1,0 +1,29 @@
+{
+  "id": "yt-peekaboo-kidz",
+  "name": "Peekaboo Kidz",
+  "kind": "youtube",
+  "url": "https://www.youtube.com/@PeekabooKidz",
+  "classes": null,
+  "languages": [],
+  "format": "channel",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["nursery rhymes", "animated songs"],
+  "curriculum": {
+    "summary": "Peekaboo Kidz is an animated nursery rhyme channel run by Rajshri Entertainment, listed by vidIQ as started in June 2014. Its characters, the Dubby Dubs, sing rhymes in their own style. Subscriber counts differ by source (roughly 7.7 to 7.9 million in recent third-party stats). One directory describes its content as educational.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Open the Videos tab on the channel to see current rhymes and judge whether they suit your child.",
+  "source_urls": [
+    "https://www.youtube.com/@PeekabooKidz",
+    "https://www.pluggedin.com/youtube-reviews/peekaboo-kidz/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Channel page was truncated, so no video count or playlists",
+    "Ages and languages not stated",
+    "Subscriber figures come from third-party sites only"
+  ]
+}

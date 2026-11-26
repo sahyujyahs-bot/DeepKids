@@ -1,0 +1,29 @@
+{
+  "id": "ucmas",
+  "name": "UCMAS India",
+  "kind": "tutor",
+  "url": "https://www.ucmas.in",
+  "classes": "Ages 4 to 13 (foundation 4-6; Levels 1-8 for 7-13)",
+  "languages": [],
+  "format": "centre",
+  "timings": null,
+  "timings_note": "Each level takes 4-6 months, with 2-hour weekly classes; batch timings not stated.",
+  "subjects_primary": ["abacus", "mental arithmetic"],
+  "curriculum": {
+    "summary": "UCMAS teaches abacus and visual mental arithmetic to children aged 4 to 13. A foundation stage (ages 4-6) introduces numbers and abacus basics, then Levels 1 to 8 (ages 7-13) cover mental arithmetic (addition, subtraction, multiplication, division). The site also lists a Grand Level A and B, competitions and an International Grading Exam. Entry needs the child to recognise numbers 1 to 20.",
+    "syllabus_url": null,
+    "topics_by_period": "Foundation (4-6): numbers and abacus basics. Levels 1-8 (7-13): mental arithmetic, level by level (per-level detail not published). Grand Level A and B: advanced, no age given."
+  },
+  "fees_note": null,
+  "how_to_check": "Fill the registration form on ucmas.in or ask a local centre for fees and batch timings.",
+  "source_urls": ["https://www.ucmas.in/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Fees",
+    "Languages",
+    "Batch timings and whether any online format exists",
+    "Age for Grand Level",
+    "Level-by-level syllabus",
+    "Third-party sites give 5-13 or 4-14, not the official 4-13"
+  ]
+}

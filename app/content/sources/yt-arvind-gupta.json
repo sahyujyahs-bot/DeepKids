@@ -1,0 +1,27 @@
+{
+  "id": "yt-arvind-gupta",
+  "name": "Arvind Gupta Toys",
+  "kind": "youtube",
+  "url": "https://arvindguptatoys.com/",
+  "classes": null,
+  "languages": ["English", "Hindi"],
+  "format": "channel",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["science toys made from waste", "simple science activities", "children's books"],
+  "curriculum": {
+    "summary": "Arvind Gupta is a toy inventor who makes science toys from waste materials. His website and YouTube channel share instructions and short videos for hundreds of toys, which he makes available without copyright restrictions. The site also hosts a large free library of children's books, mostly as PDFs, and he has translated over 290 books into Hindi.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "Free (stated by Gupta in a secondary source).",
+  "how_to_check": "Browse the toy and book lists on arvindguptatoys.com; the site returned an empty page in this check.",
+  "source_urls": ["https://en.wikipedia.org/wiki/Arvind_Gupta_(toy_inventor)"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Official site returned an empty page; facts come from search summaries (Wikipedia, DNA India, TeacherPlus)",
+    "Video count (about 965 per DNA India) not checked on the channel",
+    "Ages not stated",
+    "Languages beyond English and Hindi not confirmed"
+  ]
+}

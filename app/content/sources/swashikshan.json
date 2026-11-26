@@ -1,0 +1,26 @@
+{
+  "id": "swashikshan",
+  "name": "Swashikshan (Indian Association of Homeschoolers)",
+  "kind": "community",
+  "url": "https://homeschoolers.in",
+  "classes": null,
+  "languages": [],
+  "format": null,
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": [],
+  "curriculum": {
+    "summary": "Swashikshan is a non-profit network of homeschooling children, parents, guardians and friends in India, formally launched in July 2012. It aims to make sure homeschooled children are not discriminated against, and to share a pool of resources among like-minded families. It is a community association, not a government body; no formal government designation was found.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Check facebook.com/swashikshan or homeschoolers.in for current joining steps; the official site did not load in this check.",
+  "source_urls": ["https://www.self-directed.org/resource/swashikshan-indian-association-of-homeschoolers/"],
+  "checked": "2026-11-26",
+  "gaps": [
+    "homeschoolers.in returned 404 and swashikshan.org returned 403 when checked; facts come from search summaries",
+    "No membership rules or fees found",
+    "City groups not confirmed on an official source (one third-party guide lists Mumbai, Pune, Bengaluru, Delhi, Hyderabad)"
+  ]
+}

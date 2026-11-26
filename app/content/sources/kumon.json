@@ -1,0 +1,31 @@
+{
+  "id": "kumon",
+  "name": "Kumon India",
+  "kind": "tutor",
+  "url": null,
+  "classes": null,
+  "languages": [],
+  "format": null,
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["maths", "reading"],
+  "curriculum": {
+    "summary": "Kumon is a centre-based tutoring method with separate maths and reading programmes, where each child moves through levels at their own pace. No India website was confirmed, so this comes from Kumon's US pages, which may not match Indian centres. Older press figures (85 centres in 13 cities; more than 100 centres by 2016) are dated.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": null,
+  "how_to_check": "Call or visit a local Kumon centre in India; fees and start ages vary by centre and no India page was confirmed.",
+  "source_urls": [
+    "https://www.kumon.com/math-program/",
+    "https://www.kumon.com/reading-program",
+    "https://www.kumon.com/resources/what-is-kumon/"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "No India website confirmed (kumon.co.in did not resolve)",
+    "Ages, classes and format for India",
+    "Fees (the only fee found is on a Pakistan page, so it is not used)",
+    "Maths and reading content taken from US pages seen only as search summaries"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "yt-scishow-kids",
+  "name": "SciShow Kids",
+  "kind": "youtube",
+  "url": "https://www.youtube.com/@SciShowKids",
+  "classes": "About 4 to 10 years (third-party guides; channel page did not load)",
+  "languages": [],
+  "format": "channel",
+  "timings": null,
+  "timings_note": null,
+  "subjects_primary": ["science"],
+  "curriculum": {
+    "summary": "SciShow Kids is a science channel for young children, hosted by Jessi and her robot rat Squeaks, who answer children's questions and explain science in simple terms. Third-party guides place it at roughly ages 4 to 10. One summary of Wikipedia's SciShow entry says the Kids channel went on hiatus in late 2018; its current posting status was not confirmed.",
+    "syllabus_url": null,
+    "topics_by_period": null
+  },
+  "fees_note": "Free to watch on YouTube (per third-party guides).",
+  "how_to_check": "Check the upload dates on the channel before relying on it for new episodes.",
+  "source_urls": [
+    "https://www.commonsensemedia.org/articles/youtube-kids-channels-that-promote-stem",
+    "https://screenwiseapp.com/guides/scisho-kids-youtube"
+  ],
+  "checked": "2026-11-26",
+  "gaps": [
+    "Channel page was truncated; no video count, languages or playlists",
+    "Age range differs by guide (4-9, 5-10, kindergarten to grade 4)",
+    "Current posting status unclear",
+    "Facts come from third-party guides, not the channel"
+  ]
+}
