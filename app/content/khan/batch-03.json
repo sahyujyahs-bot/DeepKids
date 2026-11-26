@@ -1,0 +1,589 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.plants.plant-variety.L5": {
+   "videos": [
+    {
+     "title": "Plant Kingdom | Biological Classification | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "VfKGU4ZaO8k",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "How plants are grouped into kinds, flowering and non-flowering.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Pteridophytes | Plant Kingdom | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "sCLTyZHbVpk",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Ferns (pteridophytes) as non-flowering plants.",
+     "confidence": "high"
+    },
+    {
+     "title": "Phanerogams - Gymnosperms | Classification of Plants | Grade 9 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "DQyyo24h7hY",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Conifers and other gymnosperms, plants that make cones not flowers.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Khan India videos pitched for grade 9-11; they do not cover plant uses."
+  },
+  "sci.seeds-and-life-cycles.plant-life-cycle.L5": {
+   "videos": [
+    {
+     "title": "Life Cycle of a Plant | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7T2DzHUtqKo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "The stages of a plant's life cycle.",
+     "confidence": "high"
+    },
+    {
+     "title": "Fertilisation, zygote, embryo, germination | How do organisms reproduce | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "y-emlY6DBH8",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Fertilisation, embryo and germination in the life cycle.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing found on annuals versus perennials from Khan."
+  },
+  "sci.seeds-and-life-cycles.pollination.L5": {
+   "videos": [
+    {
+     "title": "Flower: Parts of stamen, carpel | How do organisms reproduce | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "h_jk8NN2MlE",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Parts of a flower: stamen and carpel.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pollination (self & cross) | How do organisms reproduce | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "hCloCHwrJdQ",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Pollination and how it leads to fertilisation.",
+     "confidence": "high"
+    },
+    {
+     "title": "What happens after pollination | Sexual reproduction in flowering plants | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "OZU-fGABhr8",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "What happens after pollination, as the fruit forms from the flower.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.seeds-and-life-cycles.seed-dispersal.L5": {
+   "videos": [
+    {
+     "title": "Agents of seed dispersal | Seed Dispersal | Class 7 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "dudqpY0qMrs",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "How seeds are carried by wind, water, animals and people.",
+     "confidence": "high"
+    },
+    {
+     "title": "Why should we disperse seeds? | Seed Dispersal | Class 7 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "g0JqZvYkFbs",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Why seeds need to travel away from the parent plant.",
+     "confidence": "high"
+    },
+    {
+     "title": "Seeds in fruits | Seed Dispersal | Class 7 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "4k2_7mF-cnk",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Seeds in fruits and how fruits help seeds travel.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Class 7 Telangana videos; they do not cover designing helicopter seeds."
+  },
+  "sci.seeds-and-life-cycles.seeds-and-germination.L5": {
+   "videos": [
+    {
+     "title": "Conditions for Germination | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "z4lTqCg-_j8",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "What a seed needs to germinate.",
+     "confidence": "high"
+    },
+    {
+     "title": "Seed dormancy | Plant growth and development | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8yXnB5_Ew8U",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Seed dormancy: seeds that wait before sprouting.",
+     "confidence": "high"
+    },
+    {
+     "title": "Seed Germination | Reproduction | Class 10 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Noxcg2k96uY",
+     "mins": 3,
+     "pitch": "older: watch together",
+     "matches": "How a seed germinates.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on seed banks."
+  },
+  "sci.sky.moon-phases.L5": {
+   "videos": [
+    {
+     "title": "Phases of the moon | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "f592IgRzq2E",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Why the Moon shows phases.",
+     "confidence": "high"
+    },
+    {
+     "title": "Lunar eclipses | The Earth-sun-moon system | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "WXSHQK56Bfs",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Lunar eclipses.",
+     "confidence": "high"
+    },
+    {
+     "title": "Solar eclipses | The Earth-sun-moon system | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "cVh7sTN-uNc",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Solar eclipses.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.solar-system.L5": {
+   "videos": [
+    {
+     "title": "The solar system | Earth in space | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "wTyqO-tfs7Q",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The planets of the solar system and Earth's place in it.",
+     "confidence": "high"
+    },
+    {
+     "title": "The solar system part 1 | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "1_z_zgRmYTk",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Planets and other bodies of the solar system.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Scale of solar system | Scale of the universe | Cosmology & Astronomy | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "GP53b__h4ew",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "The scale of the solar system.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sound.vibration.L5": {
+   "videos": [
+    {
+     "title": "Sound is produced from a vibration | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "UArKngC3NGQ",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Sound is made by vibration.",
+     "confidence": "high"
+    },
+    {
+     "title": "Production of sound | Mechanical waves and sound | Physics | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "nGKffdaI4Pg",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "How sound is produced by vibrating objects.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sound.volume-and-pitch.L5": {
+   "videos": [
+    {
+     "title": "Loudness and Pitch | Sound : Production of Sound | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eA19gFOH1JA",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Loudness (volume) and pitch of sound.",
+     "confidence": "high"
+    },
+    {
+     "title": "Sound Properties (Amplitude, Period, Frequency, Wavelength) | Physics | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "-_xZZt99MzY",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Amplitude and frequency, which set volume and pitch.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.states.evaporation-and-condensation.L5": {
+   "videos": [
+    {
+     "title": "Condensation | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "t2H9fbmzwjM",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Condensation.",
+     "confidence": "high"
+    },
+    {
+     "title": "Cooling effect of evaporation| Rain: Where does it come from? | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "2aEtiQwpUWM",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Evaporation and its cooling effect.",
+     "confidence": "high"
+    },
+    {
+     "title": "The water cycle | Weather and climate | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "r2dnUvP1JgM",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "The water cycle.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Particle explanation not covered directly."
+  },
+  "sci.states.solids-liquids-gases.L5": {
+   "videos": [
+    {
+     "title": "States of matter | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "We7Kd4D0S90",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "The three states of matter compared.",
+     "confidence": "high"
+    },
+    {
+     "title": "States of matter | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gBiF-OLUVTY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "States of matter and their particles.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing found on gases having mass."
+  },
+  "sci.waste.compost-and-disposal.L5": {
+   "videos": [
+    {
+     "title": "Biodegradable and Non Biodegradable waste | Environmental Management | Class 9 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "rpcha-bYbyk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Biodegradable and non-biodegradable waste.",
+     "confidence": "high"
+    },
+    {
+     "title": "Solid waste disposal|  Aquatic and Terrestrial Pollution| AP Environmental science| Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "LOzMugtKmN4",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How solid waste is disposed of and its harm to the environment.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.water.water-sources-and-uses.L5": {
+   "videos": [
+    {
+     "title": "Sources of water on earth | Water in our life | Class 6 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "DuCJ8dKCmw8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Sources of water on Earth.",
+     "confidence": "high"
+    },
+    {
+     "title": "Freshwater use and conservation | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "6N-W1guncoo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Freshwater use and conservation.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.what-is-life.cells-divide.L5": {
+   "videos": [
+    {
+     "title": "Mitosis | Cell Cycle and Cell Division | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "e_8q7cPD4Z0",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Mitosis: how a cell divides.",
+     "confidence": "high"
+    },
+    {
+     "title": "Stem cells and differentiation | From cells to organisms | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "jOBRupYkyaw",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Stem cells and how cells become specialised.",
+     "confidence": "high"
+    },
+    {
+     "title": "Apoptosis | Cell division | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gNFDONSjB7Q",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Apoptosis: programmed cell death.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Meiosis not matched at a simple level."
+  },
+  "sci.what-is-life.cells.L5": {
+   "videos": [
+    {
+     "title": "Introduction to the cell | Cells | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "5KfHxF6Vhps",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Cells as the basic unit of living things.",
+     "confidence": "high"
+    },
+    {
+     "title": "Cell parts and their functions | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TVxtlfUwIY0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Cell parts and their functions.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on microbe cells in the body."
+  },
+  "sci.what-is-life.edge-of-life.L5": {
+   "videos": [
+    {
+     "title": "Viruses | Living World and Classification of Microbes | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XoDUY7pMkU0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What viruses are and how they differ from living cells.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Viruses",
+     "channel": "Khan Academy",
+     "youtube": "0h5Jd7sgQWY",
+     "mins": 23,
+     "pitch": "older: watch together",
+     "matches": "Viruses and whether they count as living.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on NASA's definition of life."
+  },
+  "sci.what-is-life.inside-a-cell.L5": {
+   "videos": [
+    {
+     "title": "Endomembrane system | Structure of a cell | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "vC-cEWJxDRY",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "ER and Golgi, the packaging and shipping system.",
+     "confidence": "high"
+    },
+    {
+     "title": "Lysosomes and peroxisomes | Cells | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "OZdmaf2R9ys",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Lysosomes as the cell's recycling bins.",
+     "confidence": "high"
+    },
+    {
+     "title": "Endosymbiosis theory | Cell structure and function | AP Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "eCWwKrJyKxA",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Mitochondria as once free-living bacteria (endosymbiosis).",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.air.air-around-us.L4": {
+   "videos": [],
+   "note": "No Khan video matches air pushing in all directions."
+  },
+  "sci.animal-behaviour.animal-communication.L4": {
+   "videos": [
+    {
+     "title": "Animal communication",
+     "channel": "Khan Academy",
+     "youtube": "f0_8Umbbr2w",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Ways animals communicate.",
+     "confidence": "high"
+    },
+    {
+     "title": "Echolocation & S.O.N.A.R",
+     "channel": "Khan Academy India - English",
+     "youtube": "q_mEFtOGESA",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Bats seeing with sound (echolocation).",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.animal-learning.L4": {
+   "videos": [
+    {
+     "title": "Non associative learning | Behavior | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "ABUzqfD8vWg",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Getting used to things (habituation).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Classical conditioning: Neutral, conditioned, and unconditioned stimuli and responses | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "-6KzZKuQ1lk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Linking one thing with another (conditioning).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Pitched at MCAT level; ideas are the same."
+  },
+  "sci.animal-behaviour.animal-societies.L4": {
+   "videos": [],
+   "note": "No Khan video matches social insects."
+  },
+  "sci.animal-behaviour.born-knowing.L4": {
+   "videos": [
+    {
+     "title": "Ethology and animal behavior",
+     "channel": "Khan Academy",
+     "youtube": "gwf5Xy5p_DI",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Animal behaviour: instinct and learned behaviour.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Operant conditioning: Innate vs learned behaviors | Behavior | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "bGpw7NeXyBc",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Innate versus learned behaviours.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Imprinting not clearly covered."
+  },
+  "sci.animal-behaviour.migration.L4": {
+   "videos": [],
+   "note": "No Khan video matches body design for migration."
+  },
+  "sci.animals.animal-bodies.L4": {
+   "videos": [],
+   "note": "No close Khan match."
+  },
+  "sci.animals.animal-life-cycles.L4": {
+   "videos": [
+    {
+     "title": "Life Cycle of Frog | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Q_mpfkhVIOY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Amphibian life cycle (frog).",
+     "confidence": "high"
+    },
+    {
+     "title": "Life Cycle of Mosquito | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "W8kmyIcoV2Y",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Insect life cycle (mosquito).",
+     "confidence": "high"
+    }
+   ],
+   "note": "Nothing on mammals, birds or lifespans."
+  },
+  "sci.animals.animal-minds.L4": {
+   "videos": [],
+   "note": "No Khan video matches animal minds."
+  }
+ }
+}

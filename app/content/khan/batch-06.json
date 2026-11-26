@@ -1,0 +1,480 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.light.how-we-see.L4": {
+   "videos": [
+    {
+     "title": "Light travels in a straight line | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "EasN5Z8kElg",
+     "mins": 1,
+     "pitch": "on level",
+     "matches": "Light travels in straight lines.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pinhole Camera| Light and Shadows | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "sH0WZgjp_zQ",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Straight-line light shown through a pinhole camera.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video on how the eye and light together let us see; these cover the straight-line part."
+  },
+  "sci.light.reflection.L4": {
+   "videos": [
+    {
+     "title": "Reflection of light - Intro | Light | Class 10 Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eWago54rGRQ",
+     "mins": 1,
+     "pitch": "older: watch together",
+     "matches": "Light reflecting off surfaces.",
+     "confidence": "high"
+    },
+    {
+     "title": "Reflection laws & ray diagrams | Light | Physics class 10 | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "uCJpIudI9W8",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Laws of reflection and how mirrors send light back.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.light.refraction.L4": {
+   "videos": [
+    {
+     "title": "Refraction of light | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "LKI1UmFbfaA",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "Refraction: light bending as it enters another material.",
+     "confidence": "high"
+    },
+    {
+     "title": "Convex lenses | Geometric optics | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "K0sjZ5nqQ7g",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How convex lenses bend light, as in a magnifier.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan pitches these at older students."
+  },
+  "sci.light.transparent-opaque.L4": {
+   "videos": [
+    {
+     "title": "Opaque, transparent and translucent | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Bc8UvDA3WfE",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Transparent, translucent and opaque materials.",
+     "confidence": "high"
+    },
+    {
+     "title": "Electromagnetic waves and matter | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "nXuPL8KD2SU",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "What happens to light when it meets matter: passes, absorbed or reflected.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.light.what-is-light.L4": {
+   "videos": [
+    {
+     "title": "The electromagnetic spectrum | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "iVbuCROYAz4",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Light as energy in a family (spectrum) including parts we cannot see.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.magnets.poles.L4": {
+   "videos": [
+    {
+     "title": "Magnetic force | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "u-3cEw0uDC0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Magnet poles and the force that pulls and pushes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Magnetic forces | Forces at a distance | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Ikto_172Vak",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Magnetic forces acting at a distance.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Magnetic field lines (& their properties)",
+     "channel": "Khan Academy India - English",
+     "youtube": "GgRCkduKCLE",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "The invisible field around a magnet, shown by field lines.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.materials.properties.L4": {
+   "videos": [],
+   "note": "Khan has no video on how a material's grain changes how it tears."
+  },
+  "sci.materials.sorting-materials.L4": {
+   "videos": [],
+   "note": "Khan has nothing matching sorting and two-number maps of materials."
+  },
+  "sci.materials.testing-materials.L4": {
+   "videos": [],
+   "note": "Khan has nothing matching how sure a test of materials can make us."
+  },
+  "sci.materials.using-materials.L4": {
+   "videos": [],
+   "note": "Khan has nothing matching choosing materials by trade-offs."
+  },
+  "sci.microorganisms.germs.L4": {
+   "videos": [
+    {
+     "title": "Diseases caused by microorganisms | The World of Microorganisms | Grade 8 | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "N4fiPVQUTW8",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Diseases caused by microbes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Vaccination | The World of Microorganisms | Grade 8 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "z-eZnk1__ZY",
+     "mins": 10,
+     "pitch": "on level",
+     "matches": "How vaccines work.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.microorganisms.helpful-microbes.L4": {
+   "videos": [
+    {
+     "title": "Bacteria in Yogurt Fermentation | Microbes in Human Welfare | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "IsTVU_Zu9QE",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Bacteria turning milk into curd.",
+     "confidence": "high"
+    },
+    {
+     "title": "Yeast | Useful and Harmful Microbes | Grade 9 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HgRYMpJfX1o",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Yeast and how it works in food.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.microorganisms.parasites.L4": {
+   "videos": [
+    {
+     "title": "An Introduction to Parasitism | Biology in Human Welfare | Class 11 | Zoology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "SmWn4Gq44cA",
+     "mins": 2,
+     "pitch": "older: watch together",
+     "matches": "What a parasite and host are.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Life cycle of Plasmodium vivax | Biology in Human Welfare | Class 11 | Zoology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "v1iPhhGZE8c",
+     "mins": 15,
+     "pitch": "older: watch together",
+     "matches": "A full parasite life cycle (malaria) passing between hosts.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan's parasite videos are for class 11; watch with a parent."
+  },
+  "sci.motion.newtons-laws.L4": {
+   "videos": [
+    {
+     "title": "Newton's second law | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "l_rw0RfS5x4",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Bigger force gives bigger change; more mass needs more force.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.motion.spinning.L4": {
+   "videos": [
+    {
+     "title": "Introduction to centripetal force | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "e1l1NMLuUuY",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "The inward force that keeps something going round.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.motion.swings-and-pendulums.L4": {
+   "videos": [
+    {
+     "title": "Conservation of energy | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Tf4A93763Bw",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Energy trading between height and speed.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Potential energy | Energy | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "oGzwVYPxKjg",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Stored energy from height.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Kinetic energy | Energy | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "QFDVhfYu8HU",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Energy of motion.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No pendulum video from Khan at this level; these teach the height-for-speed trade."
+  },
+  "sci.patterns-symmetry.fractals-and-spirals.L4": {
+   "videos": [
+    {
+     "title": "Fractals | Exploring Some Geometric Themes | Grade 8 | NCERT | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "yi1c2_NEJlo",
+     "mins": 11,
+     "pitch": "on level",
+     "matches": "What fractals are.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Koch snowflake fractal | Perimeter, area, and volume | Geometry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "azBNsPa1WC4",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "A fractal curve built by repeating a step.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on leaf spirals or coastline roughness."
+  },
+  "sci.patterns-symmetry.symmetry-in-nature.L4": {
+   "videos": [
+    {
+     "title": "Identifying symmetrical figures | Math | 4th grade | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "59s_CQjTD6w",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Lines of symmetry (reflections).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Order of rotation, Center of rotation | Symmetry |NCERT Grade 7 | Math | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "vELA60vPMGw",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Rotation symmetry.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Maths videos; nothing on how nature breaks symmetry."
+  },
+  "sci.planet-earth.maps-and-directions.L4": {
+   "videos": [],
+   "note": "No Khan video on reading maps and directions."
+  },
+  "sci.planet-earth.soil-and-crops.L4": {
+   "videos": [
+    {
+     "title": "Soil Structure & Its uses | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "NSI6VQwWBgE",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Soil and what it holds for roots.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Nitrogen Fixing | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "iQmLJ6zZxcI",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Bean-family plants putting nitrogen back for the next crop.",
+     "confidence": "high"
+    },
+    {
+     "title": "Rhizobium| Useful and Harmful Microbes | Grade 9 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "MBAg7ROaiOU",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Rhizobium in root nodules.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.photosynthesis.L4": {
+   "videos": [
+    {
+     "title": "Photosynthesis in organisms | Matter and energy in organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "_BLShUdXbN4",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Plants take in carbon dioxide and give oxygen.",
+     "confidence": "high"
+    },
+    {
+     "title": "Photosynthesis | Life processes | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "PSGKRd7Bbl0",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Photosynthesis in more depth.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.plant-variety.L4": {
+   "videos": [],
+   "note": "Khan does not teach India's trees and medicinal plants."
+  },
+  "sci.plants.water-transport.L4": {
+   "videos": [
+    {
+     "title": "Transpiration | Plants: Parts and Functions | Class 6 | Science | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "xfjWQ899vfw",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Leaves lose water by transpiration.",
+     "confidence": "high"
+    },
+    {
+     "title": "Xylem & transpiration | Life processes | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "d60lqIfGeQw",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "Xylem pulling water up the plant.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.plants.what-plants-need.L4": {
+   "videos": [
+    {
+     "title": "Plant Nutrition - Introduction | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "0rN-rSDK73w",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Plants take minerals from the soil.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on soil helpers specifically."
+  },
+  "sci.seeds-and-life-cycles.plant-life-cycle.L4": {
+   "videos": [
+    {
+     "title": "Life Cycle of a Plant | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "7T2DzHUtqKo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "The life cycle of a plant.",
+     "confidence": "high"
+    },
+    {
+     "title": "Ethylene and Abscisic Acid | Plant Growth and Development |biology| Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "DXBA7_VoJ6o",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Ethylene: the hormone that ripens fruit.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.seeds-and-life-cycles.seeds-and-germination.L4": {
+   "videos": [
+    {
+     "title": "Seed dormancy | Plant growth and development | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8yXnB5_Ew8U",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Seed dormancy: why seeds wait to wake.",
+     "confidence": "high"
+    },
+    {
+     "title": "Conditions for Germination | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "z4lTqCg-_j8",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "What seeds need to germinate.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

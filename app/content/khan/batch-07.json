@@ -1,0 +1,553 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.senses.five-senses.L4": {
+   "videos": [
+    {
+     "title": "Sensory processing and the brain | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "fMrz3L9bMsI",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "How the brain receives and interprets signals from the senses.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover signal timing or the brain guessing in detail."
+  },
+  "sci.senses.more-senses.L4": {
+   "videos": [
+    {
+     "title": "The vestibular system, balance, and dizziness | Processing the Environment | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "1AZnFszUroI",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Balance: how the inner ear and the brain keep you upright.",
+     "confidence": "high"
+    },
+    {
+     "title": "Proprioception and kinesthesia | Processing the Environment | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "yKfpBGicqNQ",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Sensing where the body is, which helps the feet and body keep balance.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on senses of other animals."
+  },
+  "sci.senses.perception.L4": {
+   "videos": [
+    {
+     "title": "Eye and Illusions | Sense Organs | Class 9 | Biology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "bKBnLe5VBmE",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Illusions as the brain interpreting what the eye sends.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.exploring-space.L4": {
+   "videos": [
+    {
+     "title": "Orbital Velocity | Space missions | MH Grade 10 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "xvPNYfq_Dcc",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Why a satellite keeps moving around the Earth instead of landing.",
+     "confidence": "high"
+    },
+    {
+     "title": "Orbital motion | Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "zPHnZFoiO0E",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Orbits as constant falling around a planet.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Types of Orbit | Space Mission | MH Grade 10 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "aBRStm0bbLs",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Kinds of satellite orbits.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on the cost of launching a satellite."
+  },
+  "sci.sky.history-of-astronomy.L4": {
+   "videos": [],
+   "note": "No Khan Academy video found on the Earth-centred versus Sun-centred debate."
+  },
+  "sci.sky.moon-phases.L4": {
+   "videos": [
+    {
+     "title": "Phases of the moon | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "f592IgRzq2E",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Why the Moon shows different phases and how to predict them.",
+     "confidence": "high"
+    },
+    {
+     "title": "The Moon | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ZQcf9xLABa0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "The Moon and its phases.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.solar-system.L4": {
+   "videos": [
+    {
+     "title": "The solar system part 1 | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "1_z_zgRmYTk",
+     "mins": 13,
+     "pitch": "on level",
+     "matches": "The planets in order, rocky and gas planets.",
+     "confidence": "high"
+    },
+    {
+     "title": "The solar system | Earth in space | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "wTyqO-tfs7Q",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Overview of the planets and the Sun.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.stargazing.L4": {
+   "videos": [
+    {
+     "title": "Stellar parallax | Stars, black holes and galaxies | Cosmology & Astronomy | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "omvNINaRdxg",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "How astronomers measure a star's distance.",
+     "confidence": "high"
+    },
+    {
+     "title": "Skywatching | In the World of Stars | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "R5v1b_pBCdc",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Reading the night sky, including the Pole Star.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Rotation of Earth | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "wnzeOsefBEE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Why the sky appears to turn: the Earth rotates.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sky.the-sun.L4": {
+   "videos": [],
+   "note": "No close match found for Sun layers, spots and solar wind."
+  },
+  "sci.sound.hearing.L4": {
+   "videos": [],
+   "note": "Khan videos cover how the ear works, not locating sound with two ears or noise masking a voice."
+  },
+  "sci.sound.sources-of-sound.L4": {
+   "videos": [
+    {
+     "title": "Production of sound | Mechanical waves and sound | Physics | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "nGKffdaI4Pg",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "Sound comes from vibrating things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.sound.waves.L4": {
+   "videos": [
+    {
+     "title": "Sound Properties (Amplitude, Period, Frequency, Wavelength) | Physics | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "-_xZZt99MzY",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Faster shaking means higher frequency and shorter wavelength.",
+     "confidence": "high"
+    },
+    {
+     "title": "Sound waves | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "9u1PjsBfrmg",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "What sound waves are and how they travel.",
+     "confidence": "high"
+    },
+    {
+     "title": "Loudness and Pitch | Sound : Production of Sound | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eA19gFOH1JA",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Frequency and pitch.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.states.dissolving.L4": {
+   "videos": [
+    {
+     "title": "Dissolving substances in water | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "DITV5Nhmxas",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What water dissolves and how.",
+     "confidence": "high"
+    },
+    {
+     "title": "Water as a solvent | Water, acids, and bases | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "lCvBp73ZJ-A",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Why water dissolves some things and not oil-like substances.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Solutions | Solute, Solvent and Solutions | Grade 8 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "kYgGI9Ox3gU",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Solute, solvent and solutions.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on gas (fizz) dissolved in a drink."
+  },
+  "sci.states.evaporation-and-condensation.L4": {
+   "videos": [
+    {
+     "title": "Evaporation and its cooling effect | Matter in our surroundings | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "RtzzCrfZAL8",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Why liquids evaporate and where the heat goes.",
+     "confidence": "high"
+    },
+    {
+     "title": "Evaporative cooling | Water, acids, and bases | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "_eEONOJHnEs",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Fast particles leave, so the liquid cools.",
+     "confidence": "high"
+    },
+    {
+     "title": "Condensation | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "t2H9fbmzwjM",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Vapour turning back into liquid.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on what salt does to the air."
+  },
+  "sci.states.floating-and-sinking.L4": {
+   "videos": [
+    {
+     "title": "Why do objects float? | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "BTwv3wL6Tkc",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Why some objects float and others sink.",
+     "confidence": "high"
+    },
+    {
+     "title": "Condition for floating | Fluids | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eSc6N4zj3Zk",
+     "mins": 11,
+     "pitch": "older: watch together",
+     "matches": "Floating depends on density compared with the liquid.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Does not cover clay boats specifically."
+  },
+  "sci.states.liquids-up-close.L4": {
+   "videos": [
+    {
+     "title": "Pressure in liquids | Fluids | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "qq4WW8snlKc",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Why liquid pressure grows with depth.",
+     "confidence": "high"
+    },
+    {
+     "title": "Fluid pressure | AP Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "p_WLHzF1SdI",
+     "mins": 16,
+     "pitch": "older: watch together",
+     "matches": "Pressure at depth in a fluid.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on thickness or surface skin in these two."
+  },
+  "sci.states.particles.L4": {
+   "videos": [
+    {
+     "title": "States of matter | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gBiF-OLUVTY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Particles in solids, liquids and gases.",
+     "confidence": "high"
+    },
+    {
+     "title": "States of matter | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "We7Kd4D0S90",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "How particles behave in each state.",
+     "confidence": "high"
+    },
+    {
+     "title": "Representing solids, liquids, and gases using particulate models | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "4Q45iIeMdCM",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Drawing particles of each state.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.what-is-life.cells-divide.L4": {
+   "videos": [
+    {
+     "title": "Cell Cycle - Mitosis | Reproduction | Class 10 | Biology | Telangana | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "-wMfWTCs17w",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "One cell dividing into two.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Mitosis | Cells | MCAT | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TKGcfbyFXsw",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "How a cell copies itself and divides.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on replacing worn-out cells daily."
+  },
+  "sci.what-is-life.cells.L4": {
+   "videos": [
+    {
+     "title": "Cell parts and their functions | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TVxtlfUwIY0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Membrane, nucleus, cytoplasm and other cell parts.",
+     "confidence": "high"
+    },
+    {
+     "title": "Comparing animal and plant cells | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "HjC-eMiMDfo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Plant versus animal cells.",
+     "confidence": "high"
+    },
+    {
+     "title": "Overview of animal and plant cells | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "24YMQ9GvLss",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Parts of plant and animal cells.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.what-is-life.inside-a-cell.L4": {
+   "videos": [
+    {
+     "title": "Cell parts and their functions | Cells and organisms | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TVxtlfUwIY0",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Membrane, nucleus and other parts with their jobs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mitochondria and plastids | The fundamental unit of life | Biology | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eu5Azn23khc",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Mitochondria as power stations and chloroplasts in plants.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mitochondria | Structure of a cell | Biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "i1dAnpSFbyI",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "Mitochondria make the cell's energy.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.what-is-life.signs-of-life.L4": {
+   "videos": [
+    {
+     "title": "What makes something living? | The Living World | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "tMfaKTBH6d8",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Features that tell living from non-living things.",
+     "confidence": "high"
+    },
+    {
+     "title": "Viruses | Living World and Classification of Microbes | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "XoDUY7pMkU0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "A borderline case between living and non-living.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animal-behaviour.animal-learning.L3": {
+   "videos": [
+    {
+     "title": "Classical conditioning: Neutral, conditioned, and unconditioned stimuli and responses | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "-6KzZKuQ1lk",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Dogs learning by association (Pavlov).",
+     "confidence": "medium"
+    },
+    {
+     "title": "Operant conditioning: Positive-and-negative reinforcement and punishment | MCAT | Khan Academy",
+     "channel": "khanacademymedicine",
+     "youtube": "ut1zmfolM9E",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Learning tricks through rewards.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nothing on crows or chimp tool use."
+  },
+  "sci.animal-behaviour.foraging-and-survival.L3": {
+   "videos": [],
+   "note": "No close Khan match."
+  },
+  "sci.animal-behaviour.migration.L3": {
+   "videos": [],
+   "note": "No Khan video on migration found."
+  },
+  "sci.animals.animal-bodies.L3": {
+   "videos": [
+    {
+     "title": "Breathing in Fishes | Life Processes in Animals | Grade 7 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "ypgyvpJKs6A",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Breathing with gills.",
+     "confidence": "high"
+    },
+    {
+     "title": "Respiration in Plants and Animals | Respiration | Life Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "95Y4Id6uoTQ",
+     "mins": 10,
+     "pitch": "on level",
+     "matches": "How animals breathe with lungs, gills and skin.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.animals.animal-life-cycles.L3": {
+   "videos": [
+    {
+     "title": "Life Cycle of Frog | Living Creatures | Grade 6 | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "Q_mpfkhVIOY",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Frog life cycle and metamorphosis.",
+     "confidence": "high"
+    },
+    {
+     "title": "Life Cycle of Silkworm | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "6Qho_OihVxA",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Insect metamorphosis, like the butterfly.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

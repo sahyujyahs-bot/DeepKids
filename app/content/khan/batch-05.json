@@ -1,0 +1,648 @@
+{
+ "checked": "2026-11-26",
+ "units": {
+  "sci.chemistry.kinds-of-reactions.L4": {
+   "videos": [
+    {
+     "title": "Chemical reactions | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "a9RJZqG9qJo",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Chemical reactions: atoms rearranged into new substances.",
+     "confidence": "high"
+    },
+    {
+     "title": "All types of reactions: Solved examples | Chemical reactions | Chemistry | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "kAKDFNWMixU",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Combination, decomposition, displacement and other reaction types with examples.",
+     "confidence": "high"
+    },
+    {
+     "title": "Dissolution and precipitation | Chemical reactions and stoichiometry | Chemistry | Khan Academy",
+     "channel": "Khan Academy Organic Chemistry",
+     "youtube": "g_snytB7iQ0",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Precipitation: a solid forming when two solutions mix (the curds idea).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan pitches types of reactions at older students; the milk-and-lemon curds link is only through precipitation."
+  },
+  "sci.chemistry.names-and-formulas.L4": {
+   "videos": [
+    {
+     "title": "Compounds and chemical formulas | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "36nlbUdRvUM",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Chemical formulas show which atoms and how many make a compound.",
+     "confidence": "high"
+    },
+    {
+     "title": "Molecules, crystals, and diatomic elements | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "thXilnp5UNQ",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Molecules built from atoms, such as O2 and compounds.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.polymers.L4": {
+   "videos": [
+    {
+     "title": "Introduction to Polymers and Synthetic Fibers | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "e1PDpTKJtGY",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What polymers are: long chains of repeating units.",
+     "confidence": "high"
+    },
+    {
+     "title": "Crystalline and amorphous polymers | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "p5mXv39n9GM",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "How lined-up (crystalline) versus tangled (amorphous) chains change a material's properties.",
+     "confidence": "high"
+    },
+    {
+     "title": "Plastics & Types of Plastics | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "oI1bhCaEWR8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Plastics as polymers and how their types differ.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.chemistry.reaction-speed.L4": {
+   "videos": [
+    {
+     "title": "Catalysts | Chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "8TuPmpNfoX8",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "Catalysts speed up a reaction without being used up.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to reaction rates | Kinetics | AP Chemistry | Khan Academy",
+     "channel": "Khan Academy Organic Chemistry",
+     "youtube": "8wIodo1HD4Y",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "What reaction rate means and how it is measured.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Khan's kinetics is for older students; heat, stirring and piece size are not the focus."
+  },
+  "sci.day-night-seasons.day-and-night.L4": {
+   "videos": [
+    {
+     "title": "Rotation of Earth | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "wnzeOsefBEE",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Earth's rotation causes day and night.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.cycles-and-decomposers.L4": {
+   "videos": [
+    {
+     "title": "Flow of energy and matter through ecosystems | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TitrRpMUt0I",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Decomposers return matter from dead things to the soil and air in ecosystems.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Only a partial match; no Khan video found on decomposers alone."
+  },
+  "sci.ecology.food-chains.L4": {
+   "videos": [
+    {
+     "title": "Food Chain and Food Webs | Middle School Science |  Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HRyjMbuMDn0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Food chains and webs: producers and consumers.",
+     "confidence": "high"
+    },
+    {
+     "title": "Matter and energy in food webs | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "qIgL05zOx5U",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Matter and energy moving through food webs.",
+     "confidence": "high"
+    },
+    {
+     "title": "Trophic levels | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "WlyT5gjPC1k",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Trophic levels: how energy passes along the chain.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.ecology.interdependence.L4": {
+   "videos": [
+    {
+     "title": "Populations, communities, and ecosystems | Middle school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "xzINev2Bd8s",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Populations, communities and ecosystems: organisms living together.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Interactions between populations | Ecology and natural systems | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "q2zdiLn3gSE",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How living things affect each other in an ecosystem.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Nature-and-culture and sustainable-living parts are not covered."
+  },
+  "sci.electricity.simple-circuits.L4": {
+   "videos": [
+    {
+     "title": "Series and Parallel Circuits | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "4EMGG1znvS8",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Bulbs in series and in parallel.",
+     "confidence": "high"
+    },
+    {
+     "title": "Series and parallel circuits | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "1ASc6piVKhQ",
+     "mins": 14,
+     "pitch": "older: watch together",
+     "matches": "How series and parallel layouts change what each part gets.",
+     "confidence": "high"
+    },
+    {
+     "title": "Intro to electric circuits | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "Nbb5Lw14wvo",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "What an electric circuit is: cell, wires, current.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.electricity.static-and-charge.L4": {
+   "videos": [
+    {
+     "title": "Static electricity | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "D5pJKu_QjRo",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Static electricity and charge moving between materials.",
+     "confidence": "high"
+    },
+    {
+     "title": "Triboelectric effect and charge | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "IDQYakHRAG8",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Triboelectric effect: which materials gain or lose electrons.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.energy-around-us.L4": {
+   "videos": [
+    {
+     "title": "Introduction to forms of energy | Work and energy | MH Grade 6  | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "dqt5zA_c0Iw",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Introduction to the forms of energy.",
+     "confidence": "high"
+    },
+    {
+     "title": "Energy intro (kinetic & potential) | Work & Energy | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "e-CAW3fN68M",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Kinetic and potential (stored) energy.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.heat-moves.L4": {
+   "videos": [
+    {
+     "title": "Explanation: Convection | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "8HljWK8FJVU",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Convection: why warm fluid and smoke rise.",
+     "confidence": "high"
+    },
+    {
+     "title": "Explanation: Conduction | Middle school physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "iaQJ3OlPu3s",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Conduction of heat through materials.",
+     "confidence": "high"
+    },
+    {
+     "title": "Thermal conduction, convection, and radiation | Thermodynamics | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "8GQvMt-ow4w",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Conduction, convection and radiation (Sun across empty space).",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.energy.heat.L4": {
+   "videos": [
+    {
+     "title": "Thermal energy, temperature, and heat | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "-7Gl-yKF6Y4",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Thermal energy, temperature and heat compared.",
+     "confidence": "high"
+    },
+    {
+     "title": "Heat capacity | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "7L1EaURmvDs",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Heat capacity: why different materials warm at different rates.",
+     "confidence": "high"
+    },
+    {
+     "title": "Thermal energy and heat transfer | Middle school chemistry | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "n3boAYB7T3k",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Thermal energy and how heat transfers.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.environment.conservation.L4": {
+   "videos": [
+    {
+     "title": "Managing natural resources | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "qeK8mQ904QI",
+     "mins": 10,
+     "pitch": "on level",
+     "matches": "Managing natural resources so they last.",
+     "confidence": "high"
+    },
+    {
+     "title": "Protecting natural resources | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "DhgROZK_f2k",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Protecting natural resources.",
+     "confidence": "high"
+    },
+    {
+     "title": "Natural resources | Earth and society | Middle school Earth and space science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "sIM0PGv8h08",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "What natural resources are.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.environment.pollution.L4": {
+   "videos": [
+    {
+     "title": "Water Pollution - Causes & Types of Pollutants | Pollution | MH Grade-8 Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "HDkStIVUE_Y",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Water pollution: causes and kinds of pollutants.",
+     "confidence": "high"
+    },
+    {
+     "title": "Pollution and human health| Aquatic and Terrestrial Pollution| Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "miaewHG2-X0",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "How pollutants spread in water and land and affect living things.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.food.balanced-diet.L4": {
+   "videos": [
+    {
+     "title": "Macronutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "tZB6qj_AcZ0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Macronutrients our food gives us.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Introduction to Nutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Nutrients our body needs.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Traditional foods and festivals are not covered by Khan."
+  },
+  "sci.food.nutrients.L4": {
+   "videos": [
+    {
+     "title": "Introduction to Nutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "44MsQw8VjEs",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Nutrients and what each does in the body.",
+     "confidence": "high"
+    },
+    {
+     "title": "Macronutrients | Middle School Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "tZB6qj_AcZ0",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Carbohydrates, proteins and fats as energy and building foods.",
+     "confidence": "high"
+    }
+   ],
+   "note": "Reading a food label is not covered."
+  },
+  "sci.forces.friction.L4": {
+   "videos": [
+    {
+     "title": "Friction and its types | Middle School Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "pSV9DdD0jgI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Friction and its types.",
+     "confidence": "high"
+    },
+    {
+     "title": "Is Friction necessary? | Middle School Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "eKEnL9mtLlw",
+     "mins": 9,
+     "pitch": "on level",
+     "matches": "Why friction is needed, and what grip depends on.",
+     "confidence": "high"
+    },
+    {
+     "title": "Intuition on static and kinetic friction comparisons | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "J9BWNiOSGlc",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Static versus kinetic friction.",
+     "confidence": "medium"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.measuring-forces.L4": {
+   "videos": [
+    {
+     "title": "Forces | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "emZftp_UBKs",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "What forces are, shown as arrows.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Units | Movement and forces | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ID-ny-NOdxg",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Units for measuring force (newtons).",
+     "confidence": "medium"
+    }
+   ],
+   "note": "No Khan video on forcemeters or uncertainty in a reading."
+  },
+  "sci.forces.simple-machines.L4": {
+   "videos": [
+    {
+     "title": "What are Simple Machines? | Simple Machines | Middle School Science | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "obSJFsodXVk",
+     "mins": 6,
+     "pitch": "on level",
+     "matches": "Overview of simple machines.",
+     "confidence": "high"
+    },
+    {
+     "title": "Wheel-Axle and Pulleys | Simple Machines | Middle School| Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "lRixcLBC3kQ",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Wheel and axle, and pulleys.",
+     "confidence": "high"
+    },
+    {
+     "title": "Inclined Planes and Wedges | Simple Machines | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "WJecWH3cKLY",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Inclined planes and wedges.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.forces.stretching-springs.L4": {
+   "videos": [
+    {
+     "title": "Intro to springs and Hooke's law | Work and energy | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ZzwuHS9ldbY",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "Springs and Hooke's law: stiffness and stretch.",
+     "confidence": "high"
+    },
+    {
+     "title": "Period dependence for mass on spring | Physics | Khan Academy",
+     "channel": "Khan Academy Physics",
+     "youtube": "6M_bjRzyUn0",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "How mass and stiffness set a spring's bouncing period.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.gravity.falling.L4": {
+   "videos": [
+    {
+     "title": "Falling objects | Physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "wf8SYTb4r-g",
+     "mins": 12,
+     "pitch": "older: watch together",
+     "matches": "Falling objects speed up under gravity.",
+     "confidence": "medium"
+    },
+    {
+     "title": "Gravitational force | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "R0XFqHBZfHc",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Gravitational force pulling things down.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Why falling stops speeding up (air resistance) is not clearly covered."
+  },
+  "sci.gravity.weight-and-mass.L4": {
+   "videos": [
+    {
+     "title": "Weight and Mass",
+     "channel": "Khan Academy",
+     "youtube": "hIMYdNPIjZw",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "The difference between weight and mass.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mass & weight | Gravity | Physics | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "INZNifEXOcQ",
+     "mins": 8,
+     "pitch": "older: watch together",
+     "matches": "Mass versus weight and how gravity changes weight.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.how-we-know.asking-questions.L4": {
+   "videos": [
+    {
+     "title": "Scientific Method | Wonderful World of Science | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy India - English",
+     "youtube": "4YdPXRPpZFk",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Scientific method: observing and asking questions.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Telling rival explanations apart is not directly covered."
+  },
+  "sci.how-we-know.fair-tests.L4": {
+   "videos": [
+    {
+     "title": "Dependent & independent variables | 6th grade | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "SGC_d7O7_Eg",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Independent and dependent variables.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to experimental design | High school biology | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "ceWyayKg3QY",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Designing a controlled experiment and drawing conclusions.",
+     "confidence": "high"
+    }
+   ],
+   "note": ""
+  },
+  "sci.light.colour.L4": {
+   "videos": [
+    {
+     "title": "RGB color model | Color Science | Pixar in a Box | Khan Academy",
+     "channel": "Khan Academy Labs",
+     "youtube": "T0jzClmP2pc",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Red, green and blue light mixing to make other colours.",
+     "confidence": "medium"
+    }
+   ],
+   "note": "Short and indirect; about screen colour, but shows light mixing."
+  }
+ }
+}
