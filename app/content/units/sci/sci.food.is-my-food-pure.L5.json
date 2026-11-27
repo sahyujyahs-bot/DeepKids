@@ -24,7 +24,7 @@
   {
    "concept": "Adulteration is secretly making food worse in order to make money",
    "status": "defined",
-   "definition": "Food adulteration is the hidden adding of a cheaper or harmful substance to food, the removing of a valuable part, or the swapping of one food for a cheaper one, so that the seller gains and the buyer does not know.",
+   "definition": "Food adulteration is secretly changing a food so that it is worth less or does harm. The seller adds something cheap or harmful, takes out a valuable part, or swaps in a cheaper food. The seller gains and the buyer does not know.",
    "description": "There are three ways to adulterate a food. The first is to add something cheaper, such as water to milk. The second is to take something valuable out, such as the cream from milk, and sell what is left as whole milk. The third is to swap, such as selling dried papaya seeds as black pepper, because the two look alike. In each case two things are true. The food is worth less than the buyer paid for. And the buyer is not told. The secrecy is the heart of it. A shop that sells milk mixed with water and says so on the label is selling a different product. A shop that does the same and says nothing is adulterating.",
    "examples": [
     "Adding: chalk powder in sugar, brick powder in chilli powder, water in milk.",
@@ -69,8 +69,8 @@
      "explanation": "They are the ones the inspector can reach, so they are the ones fined. Often they sold exactly what the wholesaler gave them. They ask that testing be done further up the chain, where the mixing is done in bulk."
     },
     {
-     "who": "Consumer groups",
-     "explanation": "Buyers have power when they act together. A food sells only if someone buys it, so informed buyers and public test results change what shops stock faster than fines do."
+     "who": "Public-interest groups, such as the Centre for Science and Environment in Delhi",
+     "explanation": "Buyers have power when they act together. A food sells only if someone buys it. When test results are made public, informed buyers can change what shops stock, often faster than fines do."
     }
    ],
    "art": "A chain of six hands passing a sack from a field to a kitchen, with a small question mark over each hand and a child at the end looking at a sealed packet.",
@@ -95,9 +95,9 @@
    "concept": "A slow poison: lead in turmeric, stored in a child's bones",
    "status": "defined",
    "definition": "Lead chromate is a bright yellow paint pigment that has been added to turmeric to improve its colour. Lead builds up in the body and harms the growing brain.",
-   "description": "Turmeric roots that are old or poorly dried give a dull powder. Some processors in South Asia have polished roots with lead chromate, a yellow pigment made for paint, to make them glow. Lead is a metal that the body mistakes for calcium. So the body stores lead in bones, where it stays for years, and leaks back into the blood. In a growing child, lead harms the brain and lowers the ability to learn. The World Health Organization says that no level of lead in the blood is known to be safe. In 2019 Jenna Forsyth and colleagues in Bangladesh, working with the health research centre icddr,b, traced high lead in the blood of village women to their turmeric. Some samples held hundreds of times the legal limit.",
+   "description": "Turmeric roots that are old or poorly dried give a dull powder. Some processors in South Asia have polished roots with lead chromate, a yellow pigment made for paint, to make them glow. Lead is a metal that the body mistakes for calcium. So the body stores lead in bones, where it stays for years, and leaks back into the blood. In a growing child, lead harms the brain and lowers the ability to learn. The World Health Organization says that no level of lead in the blood is known to be safe. In 2019 Jenna Forsyth and colleagues in Bangladesh traced high lead in the blood of village women to their turmeric. They worked with the health research centre icddr,b. Some turmeric samples held lead far above the legal limit.",
    "examples": [
-    "After the findings, Bangladesh's food authority warned traders, checked markets with a hand-held scanner and fined offenders. A follow-up study in 2023 found that lead in market turmeric had fallen sharply.",
+    "After the findings, Bangladesh's food authority warned traders and fined sellers. It checked markets with a hand-held scanner. A study in 2023 found that lead in market turmeric had fallen sharply.",
     "A study published in 2024 found some turmeric samples from Patna, Karachi and Peshawar far above the limit. India's limit for lead in turmeric is 10 parts in a million by weight."
    ],
    "perspectives": [],
@@ -111,7 +111,7 @@
    "definition": "Epidemic dropsy is an illness caused by eating oil that contains oil from the seeds of the Mexican prickly poppy, Argemone mexicana.",
    "description": "The Mexican prickly poppy is a thorny plant with yellow flowers who grows wild on roadsides across India. Their seeds are small, round and dark, and look very like mustard seeds. Their oil contains a poison called sanguinarine. When the seeds are pressed together with mustard, by accident or on purpose, the oil looks and smells normal. People who cook with it for some days get swollen legs, breathlessness and heart trouble. The illness is called epidemic dropsy. In August 1998 it struck Delhi. About 3,000 people fell ill and about 60 died. The city banned the sale of loose mustard oil for a time. The illness had been described in Kolkata as early as 1877, and Indian doctors in the 1920s and 1930s traced it to argemone.",
    "examples": [
-    "Under a hand lens, a mustard seed is smooth, and an argemone seed is rough and pitted with a tiny point at one end. Crushed, mustard is yellow inside and argemone is white.",
+    "Food officers can tell the two seeds apart with a hand lens. A mustard seed is smooth. An argemone seed is rough and pitted, with a tiny point at one end. Crushed, mustard is yellow inside and argemone is white. A family should not collect or crush wild seeds to try this. The plant is poisonous, and a laboratory is the safe way to be sure.",
     "Outbreaks have also been recorded in Gwalior, Lucknow and Kolkata."
    ],
    "perspectives": [],
@@ -121,7 +121,7 @@
   },
   {
    "concept": "Not every addition is adulteration: additives and fortified foods are declared on the label",
-   "status": "defined",
+   "status": "debated",
    "definition": "A food additive is a substance added openly, within legal limits, for a stated purpose. Fortification is the open adding of a nutrient. Both appear on the label. An adulterant is hidden.",
    "description": "If adding things to food were always wrong, salt would be in trouble. Since 2006, all salt sold for eating in India must have iodine added, because iodine protects the thyroid gland and the growing brain. Adding a nutrient in this way is called fortification. Fortified packets carry a blue '+F' mark. Many foods also contain permitted additives. India allows eight artificial colours in certain foods, each within a set limit. A preservative slows spoiling. What separates these from adulteration? Three things. The substance has been tested and is allowed. The amount is within the limit. And the label says so. A permitted colour used secretly to hide stale food breaks the third rule and becomes adulteration.",
    "examples": [
@@ -138,7 +138,7 @@
      "explanation": "Artificial colours add nothing to nourishment. They make food look better than it is, most of all food aimed at children. They ask why any risk, however small, should be accepted for looks alone."
     },
     {
-     "who": "Some critics of fortification",
+     "who": "Critics of fortification, such as India's Right to Food Campaign",
      "explanation": "Adding a nutrient to everyone's salt, rice or oil treats everyone alike, though needs differ. They prefer that families be able to afford varied food. Supporters answer that fortified salt has sharply reduced goitre and has cost very little."
     }
    ],
@@ -149,7 +149,7 @@
    "concept": "'Pure' has no single meaning: even pure milk is a mixture",
    "status": "debated",
    "definition": "In chemistry, pure means one substance only. In food law, pure means meeting a written standard with nothing hidden. In everyday talk it often means natural or untouched. These meanings do not agree.",
-   "description": "A packet says 'pure milk'. Ask a chemist, and she will say that nothing about milk is pure. In every 100 grams of cow's milk, about 87 grams are water. The rest is fat, protein, milk sugar and minerals, many hundreds of substances in all. Turmeric, honey and ghee are mixtures too. So the chemist's meaning, one substance only, fits almost no food. The law uses a different meaning. Milk is pure if it meets a standard, such as a minimum amount of fat, and has nothing added. Many shoppers mean a third thing: natural, as it came from the cow, the bee or the plant. Yet the cow's own milk changes with her feed and the season, and some natural things are poisons.",
+   "description": "A packet says 'pure milk'. Ask a chemist, and she will say that milk is not pure at all. In every 100 grams of cow's milk, about 87 grams are water. The rest is fat, protein, milk sugar and minerals such as calcium, many hundreds of substances in all. Turmeric, honey and ghee are mixtures too. So the chemist's meaning, one substance only, fits almost no food. The law uses a different meaning. Milk is pure if it meets a standard, such as a minimum amount of fat, and has nothing added. Many shoppers mean a third thing: natural, as it came from the cow, the bee or the plant. Yet the cow's own milk changes with her feed and the season, and some natural things are poisons.",
    "examples": [
     "Buffalo milk has about twice the fat of cow's milk. Both are 'pure milk', and they are different mixtures.",
     "The argemone seed is completely natural.",
@@ -166,7 +166,7 @@
     },
     {
      "who": "Chandogya Upanishad, chapter 7, section 26, verse 2",
-     "explanation": "'When the food is pure, the being becomes pure. When the being is pure, memory becomes firm.' The commentator Shankara, in about the 8th century CE, read 'food' here as everything taken in through all the senses, not only what is eaten. Others read it as the food on the plate."
+     "explanation": "'When the food is pure, the being becomes pure. When the being is pure, memory becomes firm.' The commentator Shankara lived in about the 8th century CE. He read 'food' here as everything taken in through all the senses, not only what is eaten. Others read it as the food on the plate."
     },
     {
      "who": "The Buddha, in the Amagandha Sutta, Sutta Nipata 2.2",
@@ -179,7 +179,7 @@
   {
    "concept": "How any simple test works: find one way the food and the adulterant behave differently",
    "status": "defined",
-   "definition": "A test for an adulterant uses a property in which the adulterant differs from the food, such as sinking or floating, dissolving, being attracted by a magnet, or changing colour with a chemical.",
+   "definition": "A test uses one property in which the adulterant differs from the food. A property is a way a thing behaves, such as sinking, floating, dissolving, being pulled by a magnet, or changing colour with a chemical.",
    "description": "An adulterant is chosen because it looks like the food. So looking will not find it. A test works by finding some other way in which the two differ. Does one dissolve in water and the other not? Sugar dissolves and chalk does not. Does one sink and the other float? Does a magnet attract one? Iron filings jump to a magnet and tea leaves do not. Does one change colour with a certain chemical? Iodine turns starch blue-black and leaves pure milk alone. Every test in this lesson, and every test in a laboratory, is built on one such difference. Before you run any test, say aloud which difference it uses. Then you will know what it can find, and what it cannot.",
    "examples": [
     "Sugar and chalk: the difference is dissolving in water.",
@@ -209,7 +209,7 @@
   {
    "concept": "Tests for milk: a slanting plate, a shake, and a drop of iodine",
    "status": "defined",
-   "definition": "Added water, detergent and starch each change one property of milk that can be seen at home: how it flows, how it froths, and its colour with iodine.",
+   "definition": "Added water, detergent and starch each change one thing about milk that can be seen at home. Water changes how a drop flows, detergent changes how the milk froths, and starch changes its colour with iodine.",
    "description": "Milk is a costly food bought every day, so it has a long list of adulterants. Three can be looked for at home. Water: put one drop of milk on a polished plate held at a slant. Whole milk moves slowly and leaves a white trail. Watered milk runs down fast and leaves little or no trail. Detergent: shake a little milk with the same amount of water in a closed bottle. Milk gives a thin layer of froth. Milk with detergent gives a thick, lasting lather. Starch: a grown-up boils a few spoons of milk, cools it, and adds two or three drops of tincture of iodine from a medical shop. A blue-black colour means starch was added to thicken watered milk.",
    "examples": [
     "The same iodine test works on paneer and khoya, which are sometimes bulked out with starch.",
@@ -238,9 +238,22 @@
    "concept": "What a home test cannot tell: passing a test is not proof of purity",
    "status": "defined",
    "definition": "Each test detects one kind of adulterant, above a certain amount. A food that passes may still contain a different adulterant, or the same one in a smaller amount.",
-   "description": "A test can say 'I found this.' It can never say 'There is nothing here.' There are two reasons. First, each test looks for one difference only. The magnet finds iron and is blind to dye. Second, every test has a smallest amount it can notice. A little added water will not change how a drop of milk runs. Honey shows the problem best. Honeybees make honey from nectar by drying it until it is too thick for microbes to live in. Home tests for honey, such as a drop holding together in water, check only that thickness. A thick sugar syrup passes just as well. In December 2020 the Centre for Science and Environment in Delhi, led by Sunita Narain, sent honey of 13 brands to a laboratory in Germany. Ten of the 13 failed an advanced test, though most had passed India's standard tests.",
+   "description": "A test can say 'I found this.' It can never say 'There is nothing here.' There are two reasons. First, each test looks for one difference only. The magnet finds iron and is blind to dye. Second, every test has a smallest amount it can notice. A little added water will not change how a drop of milk runs. The next card shows the same limit with honey.",
    "examples": [
     "A turmeric sample that leaves the water pale has passed the dye test. That test says nothing about lead chromate, which does not dissolve in water.",
+    "A magnet pulled through a packet of turmeric finds no iron. It tells you nothing about dye, chalk or lead."
+   ],
+   "perspectives": [],
+   "art": "Three test gates in a row: a magnet gate that holds back only iron filings while a dye, a chalk powder and a little added water slip through, and a lab gate at the end that catches more.",
+   "context": "This card gives the most important limit of all testing: a pass means 'not found', which is weaker than 'not there'."
+  },
+  {
+   "concept": "Honey: a test for thickness lets a thick syrup pass",
+   "status": "debated",
+   "definition": "Home tests for honey check only that it is thick, and a thick sugar syrup passes them too. In 2020 an advanced laboratory test marked ten of thirteen brands as failing, and what that proves is still argued over.",
+   "description": "Honeybees make honey from nectar by drying it until it is too thick for microbes to live in. Home tests for honey, such as a drop holding together in water, check only that thickness. A thick sugar syrup passes just as well. In December 2020 the Centre for Science and Environment in Delhi, led by Sunita Narain, sent honey of 13 brands to a laboratory in Germany. The laboratory used an advanced test called NMR. Ten of the 13 brands failed it, though most had passed India's standard tests.",
+   "examples": [
+    "A drop of honey that stays together in water has shown only that it is thick. A thick syrup of sugar and water also stays together.",
     "Adulterated honey also undercuts beekeepers, whose bees pollinate crops and wild plants."
    ],
    "perspectives": [
@@ -250,17 +263,17 @@
     },
     {
      "who": "Some honey companies and food scientists, in reply",
-     "explanation": "The advanced method, called NMR, was not then part of India's legal standard, and it depends on a library of known honeys which had few Indian samples. A failure on it, they said, is a reason to look closer and not a proof of fraud."
+     "explanation": "The advanced method, called NMR, was not then part of India's legal standard. It also depends on a library of known honeys, which had few Indian samples. A failure on it, they said, is a reason to look closer and not a proof of fraud."
     }
    ],
    "art": "A jar of honey passing through a row of test gates, each gate catching one kind of adulterant, with a syrup-shaped shadow slipping through all but the last, most complex gate.",
-   "context": "This card gives the most important limit of all testing: a pass means 'not found', which is weaker than 'not there'."
+   "context": "Honey shows the limit of a test most clearly: a cheat can design a syrup to pass the usual tests, so a pass means 'not found' and no more."
   },
   {
    "concept": "Cheats aim at the test: the lactometer, and the melamine milk of 2008",
    "status": "defined",
-   "definition": "When a test checks one property as a stand-in for quality, an adulterant can be chosen that restores that one property while the food stays poor or becomes dangerous.",
-   "description": "Each new test changes the cheating. Water makes milk thinner, and a lactometer detects thin milk. So cheats learned to add sugar, starch or salt, which bring the thickness back. Then came tests for sugar, starch and salt. The most terrible case came in China in 2008. Dairies there tested milk for protein by measuring nitrogen, an element that proteins contain. Some suppliers watered the milk and then added melamine, a chemical used to make plastics, which is rich in nitrogen. The test read 'plenty of protein'. Melamine forms stones in the kidneys. About 300,000 babies fed on formula made from this milk fell ill, and six died. The test had measured something easy that usually goes along with protein, and the cheats supplied that thing alone.",
+   "definition": "A test often checks one easy property as a stand-in for quality. A cheat can then add something that restores that property, while the food stays poor or becomes dangerous.",
+   "description": "Each new test changes the cheating. Water makes milk thinner, and a lactometer detects thin milk. So cheats learned to add sugar, starch or salt, which bring the thickness back. Then came tests for sugar, starch and salt. The most terrible case came in China in 2008. Dairies there tested milk for protein by measuring nitrogen, an element that proteins contain. Some suppliers watered the milk and then added melamine, a chemical used to make plastics, which is rich in nitrogen. The test read 'plenty of protein'. Melamine forms stones in the kidneys. Some 300,000 babies fed on formula made from this milk fell ill, and six died. The test had measured something easy that usually goes along with protein, and the cheats supplied that thing alone.",
    "examples": [
     "The nitrogen test was invented by the Danish chemist Johan Kjeldahl in 1883 and is still used. Laboratories now also test for melamine directly.",
     "In a school, marks stand in for learning. A student who copies supplies the marks without the learning. It is the same pattern."
@@ -273,8 +286,8 @@
   {
    "concept": "How laboratories find what kitchens cannot: weight for size, the microscope, fingerprints of molecules, and DNA",
    "status": "defined",
-   "definition": "Food laboratories identify adulterants by measuring density, by examining particles under a microscope, by reading the pattern a substance gives to light or magnetism, and by reading DNA.",
-   "description": "The oldest laboratory method is density, which is how much a thing weighs for its size. A story from Sicily, about 250 BCE, tells how Archimedes checked a gold crown for hidden silver by comparing its weight with the water it pushed aside. The Roman writer Vitruvius told the story about 200 years later, and historians doubt its details. The principle is sound, and a lactometer uses it. The microscope came next. Starch grains from potato, rice and wheat each have their own shape, so a trained eye can name a hidden flour. Modern machines read a kind of fingerprint that each mixture of molecules gives. And DNA, the molecule in every cell that carries a living being's inherited instructions, tells one species from another.",
+   "definition": "Food laboratories use four main methods. They measure density, they look at tiny grains under a microscope, they read how a substance answers to light or to a strong magnet, and they read DNA.",
+   "description": "One of the oldest laboratory methods is density, which is how much a thing weighs for its size. A story from Sicily, about 250 BCE, says that Archimedes checked a gold crown for hidden silver. He compared its weight with the water it pushed aside. The Roman writer Vitruvius told the story more than 200 years later, and historians doubt its details. The principle is sound, and a lactometer uses it. The microscope came next. Starch grains from potato, rice and wheat each have their own shape, so a trained eye can name a hidden flour. Modern machines shine light on a sample, or put it inside a very strong magnet, and read how it answers. Each mixture of molecules answers in its own pattern, a kind of fingerprint. And DNA, the molecule in every cell that carries a living being's inherited instructions, tells one species from another.",
    "examples": [
     "In January 2013 food inspectors in Ireland used DNA tests on beef burgers and found horse meat. The finding led to checks and recalls across Europe.",
     "Scientists at the Centre for DNA Fingerprinting and Diagnostics in Hyderabad developed a DNA test that tells true basmati rice from look-alike long-grain varieties.",
@@ -288,10 +301,10 @@
   {
    "concept": "How common is adulteration? The answer depends on what is counted",
    "status": "debated",
-   "definition": "Surveys of the same food can report very different rates of adulteration, because they differ in whether they count failing a quality standard, containing a contaminant, or containing a harmful adulterant.",
-   "description": "Is most Indian milk adulterated? Two national surveys by the food authority seem to disagree. In 2011, a quick survey of 1,791 samples reported that about 68 in every 100 did not meet the standard. In 2018, a larger survey of 6,432 samples reported that 93 in every 100 were safe to drink. Both can be true. The 2011 number counted every sample that fell short in any way, and most fell short through added water or low fat. The 2018 number asked a narrower question: is anything harmful in it? Only 12 samples held a harmful adulterant. About 6 in 100 held traces of a mould poison that had come through the cattle's feed, which nobody had added on purpose. About 4 in 10 were safe but below the standard for fat or other solids.",
+   "definition": "A survey counts how many samples of a food fail. The answer changes with what is counted: failing a quality standard, holding an accidental contaminant, or holding a harmful adulterant.",
+   "description": "Is most Indian milk adulterated? Two national surveys by the food authority seem to disagree. In 2011, a quick survey of 1,791 samples reported that about 68 in every 100 did not meet the standard. In 2018, a larger survey of 6,432 samples reported that 93 in every 100 were safe to drink. Both can be true. The 2011 number counted every sample that fell short in any way, and most fell short through added water or low fat. The 2018 number asked a narrower question: is anything harmful in it? Only 12 samples held a harmful adulterant. About 6 in every 100 held traces of a mould poison that had come through the cattle's feed, which nobody had added on purpose. About 4 in 10 were safe but below the standard for fat or other solids.",
    "examples": [
-    "A message passed round on phones in 2018 and 2019 claimed the World Health Organization had warned that 87 in 100 Indians would get cancer by 2025 from adulterated milk. The World Health Organization said it had issued no such warning.",
+    "In 2018 and 2019 a message passed round on phones. It claimed that the World Health Organization had warned that 87 out of every 100 Indians would get cancer by 2025 from adulterated milk. The World Health Organization said it had issued no such warning.",
     "A substance that gets into food without anyone intending it, such as a mould poison or a pesticide trace, is called a contaminant, not an adulterant."
    ],
    "perspectives": [
@@ -301,7 +314,7 @@
     },
     {
      "who": "Consumer groups and some dairy scientists",
-     "explanation": "A child given thin milk every day is being cheated of food, and that deserves to be counted as a serious failure. Surveys also sample on chosen days and may miss the festival seasons, when demand is high and adulteration is said to rise."
+     "explanation": "A child given thin milk every day is being cheated of food, and that deserves to be counted as a serious failure. Surveys also sample on chosen days. They may miss the festival seasons, when demand is high and adulteration is said to rise."
     }
    ],
    "art": "The same row of 100 milk tumblers drawn twice: once with 68 shaded 'did not meet the standard', once with only a few shaded 'unsafe'.",
@@ -310,8 +323,8 @@
   {
    "concept": "Ripening fruit: a banned shortcut that copies the fruit's own signal",
    "status": "defined",
-   "definition": "Fruits such as mangoes and bananas ripen in response to ethylene, a gas they make themselves. Calcium carbide, which is banned for ripening in India, gives off a similar gas along with poisonous impurities.",
-   "description": "A mango picked hard and green can still ripen, because the mango makes a gas called ethylene. Ethylene is a signal. When a fruit senses it, they soften, sweeten, change colour and make more ethylene, which sets off the fruits nearby. That is why one ripe banana in a bag ripens the rest. Traders want fruit that travels hard and ripens on arrival. India allows ripening rooms that release small, measured amounts of ethylene gas, which is the fruit's own signal. The banned shortcut is calcium carbide, a grey stone used in welding. With moisture, carbide gives off acetylene, a gas that acts on fruit much as ethylene does. Industrial carbide also carries traces of arsenic and phosphorus, which are poisons, and the workers who handle it are harmed first.",
+   "definition": "Mangoes and bananas make a gas called ethylene, and the gas tells them to ripen. Calcium carbide gives off a similar gas along with poisonous impurities. India bans it for ripening fruit.",
+   "description": "A mango picked hard and green can still ripen, because the mango makes a gas called ethylene. Ethylene is a signal. When fruits sense it, they soften, sweeten, change colour and make more ethylene, which sets off the fruits nearby. That is why one ripe banana in a bag ripens the rest. Traders want fruit that travels hard and ripens on arrival. India allows ripening rooms that release small, measured amounts of ethylene gas, which is the fruit's own signal. The banned shortcut is calcium carbide, a grey stone used in welding. With moisture, carbide gives off acetylene, a gas that acts on fruit much as ethylene does. Industrial carbide also carries traces of arsenic and phosphorus, which are poisons, and the workers who handle it are harmed first.",
    "examples": [
     "A carbide-ripened mango is often evenly yellow outside while still pale, sour and hard near the seed.",
     "At home, raw mangoes ripen in a few days wrapped in paper or buried in rice or hay, which holds their own ethylene close.",
@@ -326,7 +339,7 @@
    "concept": "Kesari dal: a banned adulterant, or a drought food wrongly blamed?",
    "status": "debated",
    "definition": "Kesari dal is the split seed of the grass pea, Lathyrus sativus. Eaten as the main food for months, it can cause lathyrism, a lasting paralysis of the legs. Its sale has been banned in most of India since 1961, and scientists disagree on whether the ban should stay.",
-   "description": "The grass pea is a tough plant. They grow in drought and in flooded fields where other pulses die. Their dal looks like toor dal and costs much less, so it has long been mixed into toor dal and besan. The seeds contain a substance that harms nerves. In famines, when people ate little else for two or three months, many were left unable to walk properly. The illness is called lathyrism. In 1961 India banned the sale of kesari dal, and it became a classic adulterant. Yet the plant is still grown and eaten in parts of Chhattisgarh, Madhya Pradesh, Bihar and West Bengal, and lathyrism has become very rare.",
+   "description": "Grass peas are tough plants. They grow in drought and in flooded fields where other pulses die. Their dal looks like toor dal and costs much less, so it has long been mixed into toor dal and besan. The seeds contain a substance that harms nerves. In famines, when people ate little else for two or three months, many were left unable to walk properly. The illness is called lathyrism. In 1961 India banned the sale of kesari dal, and it became a classic adulterant. Yet the plant is still grown and eaten in parts of Chhattisgarh, Madhya Pradesh, Bihar and West Bengal, and lathyrism has become very rare.",
    "examples": [
     "Under a lens, kesari dal is wedge-shaped with one slanting side, while toor dal is rounded.",
     "Plant breeders in India have developed grass pea varieties with much less of the harmful substance."
@@ -334,11 +347,11 @@
    "perspectives": [
     {
      "who": "An expert panel of the Indian Council of Medical Research, in 2016",
-     "explanation": "The panel advised lifting the ban. It reasoned that harm came only when the dal was nearly the whole diet for months. With a mixed diet and the new low-toxin varieties, the risk is very small, and a hardy, protein-rich crop is valuable to poor farmers in dry years."
+     "explanation": "The panel advised lifting the ban. It reasoned that harm came only when the dal was nearly the whole diet for months. With a mixed diet and the new low-toxin varieties, the risk is very small. A hardy, protein-rich crop is valuable to poor farmers in dry years."
     },
     {
      "who": "Doctors and consumer groups who want the ban kept",
-     "explanation": "Legal sale would make it impossible to stop cheap kesari dal being mixed into costlier dals without the buyer knowing. The people most likely to eat a lot of the cheapest dal are the poorest, who are also the least able to keep their diet mixed."
+     "explanation": "If sale were legal, nobody could stop cheap kesari dal being mixed secretly into costlier dals. The poorest people are the most likely to eat a lot of the cheapest dal. They are also the least able to keep their diet mixed."
     },
     {
      "who": "Farmers who grow and eat it",
@@ -364,7 +377,7 @@
     },
     {
      "who": "The market inspectors, called muhtasib, of Arab and Persian cities, as described by Ibn al-Ukhuwwa of Egypt in the early 14th century CE",
-     "explanation": "His handbook tells the inspector how to check each trade in turn, among them bakers, milk sellers and spice sellers, and lists the tricks to look for. The inspector's duty came from a religious command to promote what is right in public life."
+     "explanation": "His handbook tells the inspector how to check each trade in turn, such as bakers, milk sellers and spice sellers. It lists the tricks to look for. The inspector's duty came from a religious command to promote what is right in public life."
     },
     {
      "who": "Lawmakers in 19th-century Britain before 1860",
@@ -377,7 +390,7 @@
   {
    "concept": "What a family can do: buy whole, look closely, test, keep the packet, and report",
    "status": "defined",
-   "definition": "A household lowers its risk of adulterated food by choosing forms that are hard to adulterate, checking labels and samples, and reporting suspected cases to the food safety authority.",
+   "definition": "A household lowers its risk by choosing foods that are hard to adulterate and by checking labels and samples. It reports suspected cases to the food safety authority.",
    "description": "No family can test everything, and none needs to. A few habits cover most of the risk. Buy spices whole where you can, and grind them at home or at a mill you can watch. A whole turmeric root or peppercorn is far harder to fake than a powder. Be a little wary of the brightest colour on the shelf. Check a packet for its FSSAI number, the maker's address, and the batch number, which lets a bad lot be traced. Now and then, run the water tests on powders bought loose. If a test shows something, keep the packet and the bill. India's food authority takes complaints through its Food Safety Connect app and through each state's food safety office. Mobile testing vans called Food Safety on Wheels visit markets and test samples that people bring.",
    "examples": [
     "A housing society or a school class that tests ten samples together and shares the results has more effect than one family alone.",
@@ -400,7 +413,7 @@
   },
   {
    "text": "Children take in far more of the lead they swallow than adults do.",
-   "evidence": "Measurements summarised by the World Health Organization show that young children absorb about four to five times as much of the lead in their food as adults. Their brains are also still being built. This is why lead in a family's spices harms the youngest most."
+   "evidence": "The World Health Organization has summarised the measurements. Young children absorb about four to five times as much of the lead in their food as adults do. Their brains are also still being built. This is why lead in a family's spices harms the youngest most."
   }
  ],
  "challenging": [
@@ -415,7 +428,7 @@
   {
    "claim": "Many packaged foods that are legally pure are harmful because of how heavily they are processed, and should worry us more than old-style adulteration.",
    "who": "Carlos Monteiro, a Brazilian nutrition scientist, who proposed the idea of 'ultra-processed' food in 2009",
-   "for": "Many studies link diets high in ultra-processed foods with obesity, diabetes and heart disease. In a controlled trial by Kevin Hall in 2019, people offered ultra-processed meals ate about 500 kilocalories more a day than when offered unprocessed meals. Nothing in such food is hidden or illegal.",
+   "for": "Many studies link diets high in ultra-processed foods with obesity, diabetes and heart disease. In a trial run by Kevin Hall in 2019, people ate about 500 kilocalories more a day when they were offered ultra-processed meals than when they were offered unprocessed ones. That is about the energy in five bananas. Nothing in such food is hidden or illegal.",
    "against": "Critics say the category is too loose. It puts packaged wholemeal bread and fizzy drinks in one group. They argue that the harm comes from too much sugar, salt and fat and too little fibre, which is already known. They add that processing also makes food safe and cheap.",
    "status": "debated",
    "context": "This view asks whether 'Is anything hidden in my food?' is even the most important question. It is here to widen what the child means by food being good."
@@ -433,7 +446,7 @@
   {
    "q": "Milk is already mostly water. So why is adding more water to it wrong?",
    "kind": "deep",
-   "hint": "Ask what exactly the buyer was promised, and whether the wrong is in the water or somewhere else."
+   "hint": "Imagine the packet said 'milk with one fifth water' and cost less. Would anything still be wrong? What changed?"
   },
   {
    "q": "If a food passes every test you have, do you know that it is pure, or only that you have not found anything?",
@@ -461,7 +474,7 @@
    "hint": "Think about who eats the cheapest dal, who grows the hardiest crop, and who gets to decide."
   },
   {
-   "q": "Can any food be called pure if every food is a mixture, and every plant and animal takes in whatever is in their soil, water and air?",
+   "q": "Every food is a mixture, and every plant and animal takes in what is in the soil, water and air. Can any food be called pure?",
    "kind": "deep",
    "hint": "Decide first what you want the word to promise. Then ask if anything could keep that promise."
   },
@@ -519,7 +532,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For a long time the rule of the market was 'let the buyer beware'. It seemed fair, because in a small market a buyer could look, smell and taste, and knew the seller's face. As towns grew and food came from far away, that stopped being true. In 1820 Frederick Accum, a German chemist working in London, published a book of chemical tests showing chalk and alum in bread, red lead in cheese and copper in pickles. Merchants were furious, and little changed. Between 1851 and 1854 the English doctor Arthur Hill Hassall examined about 2,500 samples of food under a microscope for the medical journal The Lancet. Its editor, Thomas Wakley, printed the results with the names and addresses of the shops. Hassall could see what no buyer could: ground-up roots in coffee, foreign starches in flour. Britain passed its first food adulteration law in 1860. In the United States, the chemist Harvey Wiley fed common preservatives to volunteers from 1902 to study their effects, which led to a food law in 1906. India passed the Prevention of Food Adulteration Act in 1954.",
+  "story": "For a long time the rule of the market was 'let the buyer beware'. It seemed fair, because in a small market a buyer could look, smell and taste, and knew the seller's face. As towns grew and food came from far away, that stopped being true. In 1820 Frederick Accum, a German chemist working in London, published a book of chemical tests. It showed chalk and alum in bread, red lead in cheese and copper in pickles. Merchants were furious, and little changed. Between 1851 and 1854 the English doctor Arthur Hill Hassall examined about 2,500 samples of food under a microscope for the medical journal The Lancet. Its editor, Thomas Wakley, printed the results with the names and addresses of the shops. Hassall could see what no buyer could: ground-up roots in coffee, foreign starches in flour. Britain passed its first food adulteration law in 1860. In the United States, the chemist Harvey Wiley fed common preservatives to volunteers from 1902 to study their effects. This led to a food law in 1906. India passed the Prevention of Food Adulteration Act in 1954. Long before any of this, in India, the Arthashastra of Kautilya already fined sellers who mixed goods (see the law card).",
   "who": "Frederick Accum, Arthur Hill Hassall, Thomas Wakley, Harvey Wiley",
   "when": "1820 to 1954",
   "wrong_idea": "It is the buyer's own job to notice bad food, so no law is needed. It was believable while buyers could judge food with their senses. The microscope and chemistry showed adulterants that no buyer could ever see, smell or taste."
@@ -527,16 +540,16 @@
  "roots": {
   "context": "You have tested food for what was secretly added to it. Now we ask what 'pure' really points to, and what the food you eat tells you about yourself and the world.",
   "deep_truth": {
-   "truth": "You tested milk and found extra water. But the milk was mostly water before anyone touched it. Turmeric, honey and ghee are each made of hundreds of substances. So 'pure' never meant that a food is one thing alone. Your tests were finding something hidden by a person, and purity turned out to be honesty between people about a mixture.",
-   "habit": "We speak of 'pure' as a property that sits inside a substance, the way weight does. That makes purity look like a fact about milk or turmeric. The lesson's tests show it is a fact about what one person told another.",
+   "truth": "You tested milk and found extra water. But the milk was mostly water before anyone touched it. Turmeric, honey and ghee are each made of many substances. So 'pure' never meant that a food is one thing alone. Your tests were finding something hidden by a person, and purity turned out to be honesty between people about a mixture.",
+   "habit": "We think adulteration means that a bad substance got into the food, as if the fault sat in the food. But clean water in milk is not a bad substance, and the milk was already mostly water. The fault lies in what was promised and not given.",
    "evidence": "In the mystery cups test, the watered milk and the whole milk contained exactly the same kinds of substance. The only difference was the amount of water and the fact that nobody had been told. The tests detected the first, and the wrong lay in the second."
   },
   "three": {
    "who_am_i": "The calcium in your bones and the protein in your muscles arrived as food. Lead, if it is in your food, is stored in the same bones. So your body is built from what you were given to eat, including the parts nobody mentioned. You are made of other people's care, and sometimes of their carelessness.",
-   "what_is_life": "Every living being tests what they take in. A rat nibbles a new food and waits. A bee's antennae judge nectar. A bacterium senses sugar and swims towards it, and senses a poison and turns away. To be alive is to keep choosing what may cross from outside to inside.",
+   "what_is_life": "Every living being tests what they take in. A rat nibbles a new food and waits. A bee's antennae judge nectar. A bacterium senses sugar and swims towards the sugar, and senses a poison and turns away. To be alive is to keep choosing what may cross from outside to inside.",
    "what_is_this_world": "A spoon of turmeric holds soil from a field, rain, a farmer's season, a miller's hands and a trader's choices. If any of them fails, the failure reaches your plate. The world is joined so closely that no meal comes from one place or one person."
   },
-  "thread": "This lesson set out to catch cheats and found something else as well. No food is one thing alone, and nobody eats alone. Each mouthful is a mixture made by plants, animals, microbes, weather and many people, most of whom you will never meet. Adulteration is a break in that chain at the one place where a person chose to hide something. Consciousness is the ground from which the eater, the food and the grower all arise, so eating is that one ground passing through its own forms. Many scientists would put it more simply: atoms are shared and recycled among living things. Their view is given below. Both accounts agree that the line between your food and you lasts only a few hours.",
+  "thread": "This lesson set out to catch cheats and found something else as well. No food is one thing alone, and nobody eats alone. Each mouthful is a mixture made by plants, animals, microbes, weather and many people, most of whom you will never meet. Adulteration is a break in that chain at the one place where a person chose to hide something. One school of Indian thought, Advaita Vedanta, holds that consciousness is the ground from which the eater, the food and the grower all arise, so that eating is that one ground passing through its own forms. Many scientists do not accept this, and would say it more simply: atoms are shared and recycled among living things. Both views are given below. Both accounts agree that the line between your food and you lasts only a few hours.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad, part 3, sections 2 and 7",
@@ -556,7 +569,7 @@
   ],
   "science": [
    {
-    "text": "The atoms of the body are steadily replaced by atoms from food and water. Studies that label food with traceable atoms, begun by Rudolf Schoenheimer in the 1930s, showed that even bone and fat are constantly being taken apart and rebuilt.",
+    "text": "The atoms of the body are steadily replaced by atoms from food and water. Studies begun by Rudolf Schoenheimer in the 1930s used food labelled with traceable atoms. They showed that even fat and protein in the body are constantly taken apart and rebuilt.",
     "status": "settled"
    },
    {
@@ -572,7 +585,7 @@
    "title": "One mouthful, traced back",
    "mins": 3,
    "say": "Take one small piece of food: a grain of cooked rice, or a pinch of dal. Before you eat it, look at it for three slow breaths. In your mind, walk backwards along its journey. The kitchen. The shop. The lorry. The mill. The field. The rain. Do not hurry. Now eat it slowly, and notice the moment when you can no longer say where the food ends and you begin.",
-   "kid": "Hold one grain of cooked rice. Look at it for three slow breaths. Think backwards: kitchen, shop, lorry, mill, field, rain. Now eat it slowly. Can you notice the moment when the rice stops being rice and starts being you?"
+   "kid": "Hold one grain of cooked rice. Look at it for three slow breaths. Think backwards: kitchen, shop, lorry, mill, field, rain. Now eat it slowly. Can you notice when the rice stops being rice and starts being you?"
   },
   "ask": [
    "How many people and other beings touched that one grain before you did? Can you count them?",
@@ -584,11 +597,11 @@
  "open_questions": [
   {
    "q": "Is there any amount of an artificial food colour that is truly without effect on children?",
-   "why_open": "A British study in 2007 by Donna McCann and colleagues found that mixtures of some colours and a preservative increased restless behaviour in some children. Later reviews judged the effect small and uncertain. Regulators in different countries have drawn different conclusions from the same studies."
+   "why_open": "In 2007 Donna McCann and colleagues in Britain tested mixtures of some colours and a preservative. Some children became more restless after drinking them. Later reviews judged the effect small and uncertain. Regulators in different countries drew different conclusions from the same studies."
   },
   {
    "q": "Should kesari dal be legal to sell in India?",
-   "why_open": "The science of low-toxin varieties and mixed diets suggests the risk is small. Whether it could be sold openly without being mixed secretly into other dals, and who would bear the risk, are questions about markets and fairness that no experiment has settled."
+   "why_open": "The science of low-toxin varieties and mixed diets suggests the risk is small. Can it be sold openly without being mixed secretly into other dals? And who would bear the risk? These are questions about markets and fairness, and no experiment has settled them."
   },
   {
    "q": "Can testing ever get ahead of adulteration, or will cheats always design around each new test?",
@@ -787,6 +800,12 @@
    "art": "A glass of milk with small labelled arrows pointing at water, fat and protein."
   },
   {
+   "term": "mineral",
+   "meaning": "A simple substance from rocks and soil, such as calcium, iron or salt, that the body needs in small amounts.",
+   "example": "The calcium in milk is a mineral, and bones are built from it.",
+   "art": "A glass of milk with an arrow pointing to a small label that says calcium."
+  },
+  {
    "term": "standard",
    "meaning": "A written rule that says what a food must be, such as the least fat that milk must hold.",
    "example": "The standard for toned milk says how much fat it must have.",
@@ -899,6 +918,12 @@
    "meaning": "A thick sweet liquid made by dissolving a lot of sugar in a little water.",
    "example": "A syrup of sugar and water can be as thick as honey.",
    "art": "A steel pan of thick golden sugar syrup with a spoon dripping."
+  },
+  {
+   "term": "NMR",
+   "meaning": "A laboratory test that puts a sample inside a very strong magnet and reads how it answers. Each mixture gives its own pattern, like a fingerprint.",
+   "example": "In 2020 a German laboratory used NMR to test honey from 13 Indian brands.",
+   "art": "A small jar of honey sitting between the two arms of a big magnet, with a wavy pattern on a screen beside it."
   },
   {
    "term": "stand-in measurement",
@@ -1391,7 +1416,7 @@
   {
    "id": "e1",
    "title": "The mystery cups test: can simple tests find what a grown-up has secretly added?",
-   "mins": 57,
+   "mins": 63,
    "days": 2,
    "question": "A grown-up has secretly changed some cups of food. Can a glass of water, a wet paper and a slanting plate show which cups were changed? How little can each test notice?",
    "predict": "Before any test, guess for each set which cup was changed and which test will show it. For the milk, guess how much added water the plate will be able to notice. Say why you think so.",
@@ -1445,7 +1470,7 @@
      "qty": 1
     }
    ],
-   "safety": "The grown-up crushes the chalk inside a plastic bag and tips it out slowly, so that nobody breathes the dust. Food colouring stains hands and cloth, so cover the table with newspaper. Wash hands after the test.",
+   "safety": "Do not taste or drink anything in the cups, because chalk and sugar look the same. Label every cup 'NOT FOR EATING' and keep the cups away from small children and pets. The grown-up crushes the chalk inside a plastic bag and tips it out slowly, so that nobody breathes the dust. Food colouring stains hands and cloth, so cover the table with newspaper. Wash hands after the test.",
    "schedule": [
     {
      "day": 1,
@@ -1454,7 +1479,7 @@
     },
     {
      "day": 2,
-     "mins": 47,
+     "mins": 53,
      "what": "A grown-up finishes the secret cups. Then the child predicts, tests the four sets, learns the answers and tests the family's own samples."
     }
    ],
@@ -1483,7 +1508,7 @@
      "id": "s1",
      "mins": 10,
      "adult": true,
-     "do": "On day 1, out of the child's sight, make the changed tea and turmeric. Spread 1 teaspoon of dry tea leaves on a plate. Drop 4 or 5 drops of red, green or blue food colouring onto them, then stir. Stir a pinch of yellow food colouring powder into 1 teaspoon of turmeric on another plate. If you only have liquid yellow colouring, stir in 1 drop. Leave both plates in a fan's breeze or in the sun for at least 3 hours, or overnight, until they are completely dry. Break up any lumps with a spoon. Keep 1 teaspoon of plain tea and 1 teaspoon of plain turmeric dry in other cups.",
+     "do": "On day 1, out of the child's sight, make the changed tea and turmeric. Spread 1 teaspoon of dry tea leaves on a plate. Drop 4 or 5 drops of red, green or blue food colouring onto them, then stir. Stir a pinch of yellow food colouring powder into 1 teaspoon of turmeric on another plate. If you only have liquid yellow colouring, stir in 1 drop. Leave both plates in a fan's breeze or in the sun. Wait at least 3 hours, or overnight, until they are completely dry. Break up any lumps with a spoon. Keep 1 teaspoon of plain tea and 1 teaspoon of plain turmeric dry in other cups.",
      "say": "This part is for the grown-up. Please keep the plates where your child will not see them.",
      "kid": "Ask a grown-up to do this part when you are not looking. They will secretly change some tea and some turmeric.",
      "wait": "Leave the coloured tea and turmeric to dry for at least 3 hours or overnight",
@@ -1520,7 +1545,7 @@
      "id": "s4",
      "mins": 5,
      "adult": false,
-     "do": "Test the two sugar cups. Stir the contents of S1 into one tumbler of water with a clean spoon for 20 seconds. Stir S2 into the other tumbler with a second spoon. Look at both tumblers after 30 seconds and again after 2 minutes. Hold a dark cloth or paper behind the tumblers to see any cloudiness. Write what you see. Then say which cup you think was changed.",
+     "do": "Test the two sugar cups. Half fill two tumblers with plain water. Stir the contents of S1 into one tumbler with a clean spoon for 20 seconds. Stir S2 into the other tumbler with a second spoon. Look at both tumblers after 30 seconds and again after 2 minutes. Hold a dark cloth or paper behind the tumblers to see any cloudiness. Write what you see. Then say which cup you think was changed.",
      "say": "Stir each one for 20 seconds. What does each glass look like now, and after 2 minutes? Which cup do you think was changed?",
      "kid": "Stir each cup into its own glass of water. Look at the water now and after 2 minutes. Which one is cloudy?",
      "ask": [
@@ -1538,7 +1563,7 @@
      "id": "s5",
      "mins": 6,
      "adult": false,
-     "do": "Test the two turmeric cups. Put 1 teaspoon of H1 gently on the top of one tumbler of still water, and 1 teaspoon of H2 on the other. Do not stir. Look after 1 minute and after 5 minutes. Look for streaks of colour running down from the powder, and notice how fast the water changes colour. Write what you see.",
+     "do": "Test the two turmeric cups. Put 1 teaspoon of H1 gently on the top of one tumbler of still water. Put 1 teaspoon of H2 on the other tumbler. Do not stir. Look after 1 minute and after 5 minutes. Look for streaks of colour running down from the powder, and notice how fast the water changes colour. Write what you see.",
      "say": "Do not stir. Watch the powder. Does any colour run down into the water? How quickly? Which cup do you think was changed?",
      "kid": "Put each powder on still water without stirring. Watch for colour running down. Which one runs bright yellow fastest?",
      "ask": [
@@ -1556,7 +1581,7 @@
      "id": "s6",
      "mins": 5,
      "adult": false,
-     "do": "Test the two tea cups. Lay a square of white napkin or tissue on each plate, and wet both with a little water until damp but not floating. Sprinkle a pinch of T1 on one and a pinch of T2 on the other. Wait 1 minute. Lift a few leaves and look at the paper underneath. Look again after 10 minutes while you do the next test. Write what you see.",
+     "do": "Test the two tea cups. Lay a square of white napkin or tissue on each plate. Wet both with a little water, until damp but not floating. Sprinkle a pinch of T1 on one and a pinch of T2 on the other. Wait 1 minute. Lift a few leaves and look at the paper underneath. Look again after 10 minutes while you do the next test. Write what you see.",
      "say": "Is the paper stained under each pinch? What colour is the stain? What about after 10 minutes?",
      "kid": "Sprinkle each tea on wet paper. Wait 1 minute. Lift the leaves and look at the paper.",
      "ask": [
@@ -1611,7 +1636,7 @@
      "id": "s9",
      "mins": 8,
      "adult": false,
-     "do": "Test the family's own samples. Choose a teaspoon of turmeric powder, a teaspoon of sugar, a pinch of tea leaves and a spoon of milk from the kitchen. Run the same tests as before. Put the sugar and turmeric in water and the tea on wet paper. Put the milk on the plate next to a drop of the cup you named plain milk and a drop of plain water. For each, write 'found something' or 'nothing found by this test'. Never write 'pure'. If a test shows something, repeat it once with fresh water, and keep the packet and the bill.",
+     "do": "Test the family's own samples. Take four samples from the kitchen: a teaspoon of turmeric, a teaspoon of sugar, a pinch of tea leaves and a spoon of milk. Run the same tests as before. Put the sugar and turmeric in water and the tea on wet paper. Put a drop of the family's milk on the plate. Put a drop of the cup you named plain milk beside it, and a drop of plain water. For each, write 'found something' or 'nothing found by this test'. Never write 'pure'. If a test shows something, repeat it once with fresh water, and keep the packet and the bill.",
      "say": "Here are our own foods. What does each test say? We will write 'found something' or 'nothing found by this test'. We never write 'pure'. Why not?",
      "kid": "Test your family's own turmeric, sugar, tea and milk. Write 'nothing found by this test' or 'found something'. Never write 'pure'.",
      "ask": [
@@ -1875,7 +1900,7 @@
      "qty": 1
     }
    ],
-   "safety": "The soapy bottle is not drunk or eaten. Pour both bottles down the sink afterwards and wash the bottles.",
+   "safety": "The soapy bottle is not drunk or eaten. Write 'NOT FOR DRINKING' on both bottles. Pour both bottles down the sink afterwards and wash the bottles.",
    "schedule": [
     {
      "day": 1,
@@ -1966,7 +1991,7 @@
      "qty": 1
     }
    ],
-   "safety": "Tincture of iodine stains skin and cloth and must never be swallowed. A grown-up handles the bottle, puts the drops on, and keeps it away from small children. Nothing tested here is eaten afterwards. Wash hands after the activity.",
+   "safety": "Tincture of iodine stains skin and cloth and must never be swallowed. A grown-up handles the bottle, puts the drops on, and keeps it away from small children, eyes and mouths. If iodine touches skin, wash it off with soap and water. Nothing tested here is eaten afterwards. Wash hands after the activity.",
    "schedule": [
     {
      "day": 1,
@@ -2003,10 +2028,10 @@
      "id": "a3s2",
      "mins": 7,
      "adult": true,
-     "do": "A grown-up puts one drop of iodine on each food, using a clean earbud for each. Look after 10 seconds. Starch turns the drop blue-black. Sugar leaves the iodine brown. Then the grown-up mixes half a teaspoon of cornflour or maida into 1 tablespoon of milk in one cup. Warm both milks a little in a steel pan and let them cool, because starch reacts best when cooked. A grown-up puts one drop of iodine on a spoon of each milk.",
+     "do": "A grown-up puts one drop of iodine on each food, using a clean earbud for each. Look after 10 seconds. Starch turns the drop blue-black. Sugar leaves the iodine brown. Then the grown-up mixes half a teaspoon of cornflour or maida into 1 tablespoon of milk in one cup. The grown-up warms both milks a little in a steel pan, with the child standing back. Let them cool, because starch reacts best when cooked. A grown-up puts one drop of iodine on a spoon of each milk.",
      "say": "Watch the drop. What colour does it turn on each? What colour does it turn on the milk with flour, and on the plain milk?",
      "kid": "Ask a grown-up to put the drops on. Look for blue-black.",
-     "parent": "Potato, bread and rice turn blue-black. Sugar stays brown or orange. The milk with flour turns blue-black, and the plain milk stays brown. Do not use a stove while a child is near. If the colour seems faint, add a second drop. Cooked starch gives a deeper colour than raw."
+     "parent": "Potato, bread and rice turn blue-black. Sugar stays brown or orange. The milk with flour turns blue-black, and the plain milk stays brown. The grown-up does the warming while the child waits at a safe distance, and lets the milk cool before the child comes back. If the colour seems faint, add a second drop. Cooked starch gives a deeper colour than raw."
     },
     {
      "id": "a3s3",
@@ -2402,13 +2427,13 @@
      "do": "Look at the whole spice under a lens. Draw three grains. Then look at the shop powder under the lens and draw what you see. Write what you can see in each, and whether anything in the powder does not look like the spice.",
      "say": "What can you see in the whole spice? What can you see in the powder? Could you tell what is inside the powder by looking?",
      "kid": "Look at the whole spice and the powder with a lens. Draw what you see.",
-     "parent": "A whole seed shows its own shape, colour and size. A cheat would find it hard to hide something that is not a seed. A powder hides every shape."
+     "parent": "Whole seeds keep their own shape, colour and size. A cheat would find it hard to hide something that is not a seed. A powder hides every shape."
     },
     {
      "id": "p1s2",
      "mins": 25,
      "adult": false,
-     "do": "Grind 1 tablespoon of the whole spice into a powder, in a mortar or in a strong bag with a rolling pin. Smell your powder and the shop powder. Then put 1 teaspoon of each in its own tumbler of still water, without stirring. Watch for 2 minutes and write what each does.",
+     "do": "Choose a mild spice such as coriander, cumin or black pepper. Chilli dust stings the eyes and nose, so do not grind chilli. Grind 1 tablespoon of the whole spice into a powder, in a mortar or in a strong bag with a rolling pin. Smell your powder and the shop powder. Then put 1 teaspoon of each in its own tumbler of still water, without stirring. Watch for 2 minutes and write what each does.",
      "say": "Which smells stronger? What does each powder do on the water? Do they look different?",
      "kid": "Grind a spoon of the spice. Smell both powders. Try each on water.",
      "ask": [
@@ -2833,7 +2858,7 @@
      "t": "truefalse",
      "p": "A buyer can usually find adulteration in a sealed packet by looking and smelling.",
      "a": false,
-     "why": "False. Adulterants are chosen so that they look and smell like the food, so the buyer's eyes and nose cannot find them.",
+     "why": "Adulterants are chosen so that they look and smell like the food, so the buyer's eyes and nose cannot find them.",
      "outcome": 1
     },
     {
@@ -2845,7 +2870,7 @@
       "Potatoes are never sold by weight"
      ],
      "a": 0,
-     "why": "Cheating pays most where a food costs a lot for its weight. Cheating pays most where a food costs a lot for its weight. Potatoes are sold by weight too, but they cost little, so the gain is small.",
+     "why": "Cheating pays most where a food costs a lot for its weight. Potatoes are sold by weight too, but they cost little, so the gain is small.",
      "outcome": 1
     },
     {
@@ -2885,7 +2910,7 @@
      "t": "truefalse",
      "p": "A magnet can find brick powder in chilli powder.",
      "a": false,
-     "why": "False. A magnet attracts iron only, and brick powder is not iron. A magnet test suits iron filings in tea.",
+     "why": "A magnet attracts iron only, and brick powder is not iron. A magnet test suits iron filings in tea.",
      "outcome": 3
     },
     {
@@ -2995,7 +3020,7 @@
      "t": "truefalse",
      "p": "A test that finds nothing proves that a food is pure.",
      "a": false,
-     "why": "False. A test can find only what it was built for, and only above its smallest amount. 'Nothing found' is all it can say.",
+     "why": "A test can find only what it was built for, and only above its smallest amount. 'Nothing found' is all it can say.",
      "outcome": 4
     },
     {
@@ -3145,7 +3170,7 @@
      "t": "truefalse",
      "p": "Toned milk sold under that name is adulterated milk.",
      "a": false,
-     "why": "False. It has had fat taken out openly, and it says so on the packet, so nobody is cheated about what it is.",
+     "why": "It has had fat taken out openly, and it says so on the packet, so nobody is cheated about what it is.",
      "outcome": 5
     },
     {
@@ -3219,12 +3244,12 @@
      "t": "truefalse",
      "p": "A new test can raise the cases reported, though the food did not change.",
      "a": true,
-     "why": "True. A new test finds what the old tests could not see. So counts show what is looked for as well as what exists.",
+     "why": "A new test finds what the old tests could not see. So counts show what is looked for as well as what exists.",
      "outcome": 4
     },
     {
      "t": "fill",
-     "p": "Milk has 87 parts water in 100. A half-milk, half-water mix has ____ parts water in 100.",
+     "p": "Milk has 87 parts water in every 100. A half-milk, half-water mix has ____ parts water in every 100.",
      "a": [
       "93.5"
      ],
@@ -3360,7 +3385,7 @@
     },
     {
      "t": "count",
-     "p": "India's limit for lead in turmeric is 10 milligrams in every kilogram. How many milligrams are allowed in 500 grams?",
+     "p": "India's limit for lead in turmeric is 10 milligrams in every kilogram. How many milligrams are allowed in a 500 gram packet?",
      "a": "5",
      "why": "500 grams is half a kilogram, so half of 10 is 5 milligrams.",
      "outcome": 2
@@ -3369,7 +3394,7 @@
      "t": "truefalse",
      "p": "Calcium carbide gives a gas like ethylene, so it is a safe way to ripen mangoes.",
      "a": false,
-     "why": "False. The gas it gives off is similar to ethylene, but the stones carry poisonous impurities. The use is banned in India. Ethylene itself is permitted.",
+     "why": "The gas it gives off is similar to ethylene, but the stones carry poisonous impurities. The use is banned in India. Ethylene itself is permitted.",
      "outcome": 2
     },
     {
@@ -3593,8 +3618,8 @@
   },
   {
    "problem": "A survey tested 6,432 milk samples. It found 12 samples of unsafe adulterated milk, and about 41 out of every 100 samples below quality standards. About how many samples were below standard? About how many times more is that than 12?",
-   "answer": "About 2,637 samples, which is about 220 times more than 12.",
-   "explain": "41 ÷ 100 × 6,432 = 2,637 samples. And 2,637 ÷ 12 is about 220. The two counts differ because they count different things.",
+   "answer": "About 2,637 samples, which is roughly 220 times as many as 12.",
+   "explain": "41 ÷ 100 × 6,432 = 2,637 samples. And 2,637 ÷ 12 is roughly 220. The two counts differ because they count different things.",
    "math_unit": "math.data.reading-data.L5",
    "context": "This problem uses the figures of a national milk survey. It shows how different counts of the same food give very different numbers.",
    "why_maths": "A percentage means nothing until you know what was counted. A ratio of two counts shows how far apart two definitions are."
@@ -3611,7 +3636,7 @@
  ],
  "spotted": [
   {
-   "text": "At the kitchen counter, hold a packet of turmeric or a bar of rice next to the same food sold loose. Notice that the packet has a printed licence number and a batch number, and the loose food has none. Ask what that tells you about who can trace it.",
+   "text": "At the kitchen counter, hold a packet of turmeric or a bag of rice next to the same food sold loose. Notice that the packet has a printed licence number and a batch number, and the loose food has none. Ask what that tells you about who can trace it.",
    "art": "A packet and an open sack of rice side by side on a kitchen counter with a finger pointing at a printed number."
   },
   {
@@ -3677,16 +3702,16 @@
    "a": "'I only came for a quiet foam. Now I am a bubble bath.'"
   },
   {
-   "j": "Why did the iodine blush on the potato?",
-   "a": "Because the potato was full of starch, and it turned bright blue-black with feeling."
+   "j": "What did the iodine say when it met a potato?",
+   "a": "'Wow, you are full of starch!' Then it went blue-black with excitement, and nobody could calm it down."
   },
   {
    "j": "Why did the turmeric refuse to take the water test?",
    "a": "It was afraid of showing its true colours. Then it stayed pale and passed, and it still could not say it was pure."
   },
   {
-   "j": "Why did the lactometer feel low at the dairy?",
-   "a": "The milk kept letting it sink."
+   "j": "Why was the lactometer the gloomiest tool at the dairy?",
+   "a": "Every time the milk got thinner, it sank."
   },
   {
    "j": "What does a paper napkin say to a dye that has run away?",
@@ -3697,8 +3722,8 @@
    "a": "It never learned to mix. It just settled down in a corner."
   },
   {
-   "j": "What did the tester say to the tea leaves that passed every test?",
-   "a": "'Nothing found. But I will not call you pure until you stop being mixed up with so many other things.'"
+   "j": "What did the tester say when the turmeric passed every test?",
+   "a": "'Nothing found. That is all I am allowed to say. I am a tester, not a fortune teller.'"
   }
  ],
  "links": [

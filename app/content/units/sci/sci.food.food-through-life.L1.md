@@ -8,7 +8,7 @@
 ## Learning outcomes
 0. I can say why a new baby drinks only milk.
 1. I can say two things that mother's milk gives a baby besides food.
-2. I can name a first food that babies are given, and say why it starts at about six months.
+2. I can name a first food that babies are given, and say why first foods start at about six months.
 3. I can say why a growing child needs plenty of food for a small body.
 4. I can say why many old people eat soft food, and why soft food must still be full of goodness.
 5. I can name two foods given to a sick person, and say why water with sugar and salt helps.
@@ -20,7 +20,7 @@
 - **stomach**: Your stomach is a soft bag inside your tummy. Food goes there after you swallow it. *e.g.* After a big meal your stomach is full. After a small snack it has plenty of room left.
 - **teaspoon**: A teaspoon is a very small spoon. It holds only a few sips. *e.g.* A new baby's stomach holds only about one teaspoon of milk on the first day.
 - **milk**: Milk is a white drink that a mother's body makes for her baby. *e.g.* A cow makes milk for her calf. A human mother makes milk for her baby.
-- **mother's milk**: Mother's milk is the milk a baby's own mother makes. It gives the baby food and water together. *e.g.* For the first months a baby needs no other drink, because mother's milk has the water in it.
+- **mother's milk**: Mother's milk is the milk a baby's own mother makes. It gives the baby food and water together. *e.g.* For the first months a baby needs no other drink, because mother's milk already holds the water.
 - **colostrum (first milk)**: Colostrum is the very first milk. It is thick and yellow, and there is only a little. *e.g.* A little colostrum is just right for a stomach as small as a marble.
 - **lactose (milk sugar)**: Lactose is the sugar inside milk. *e.g.* Milk tastes a little bit sweet because of lactose.
 - **fat**: Fat is the soft, oily part of food. A small bit of fat gives you a lot of strength to play. *e.g.* Ghee, butter and groundnuts are fat. Milk has some fat too.
@@ -33,11 +33,12 @@
 - **gut**: Your gut is the long tube inside your tummy where food is broken down. *e.g.* After your stomach, food moves along your gut, and your body takes what it needs.
 - **mammal**: A mammal is an animal whose mother makes milk for her babies. People are mammals too. *e.g.* Cows, goats, bats, whales and humans are all mammals.
 - **crop milk**: Crop milk is a thick milky food made in the throat of a pigeon. Pigeon parents feed this milk to their chicks. *e.g.* A pigeon on a window ledge feeds her chick crop milk. The father pigeon makes this milk too.
-- **milk bank**: A milk bank is a place in a hospital where mothers give spare milk for babies who need it. *e.g.* Asia's first milk bank opened at Sion Hospital in Mumbai in 1989.
+- **milk bank**: A milk bank is a place in a hospital where mothers give spare milk for babies who need extra milk. *e.g.* Asia's first milk bank opened at Sion Hospital in Mumbai in 1989.
 - **formula**: Formula is a milk powder made for babies. A grown-up mixes it with clean, boiled water. *e.g.* If a baby cannot have their mother's milk, formula is one way to feed them.
 - **first food**: A first food is the first soft food a baby eats besides milk, at about six months. *e.g.* Ragi porridge is a first food in Karnataka and Tamil Nadu.
 - **annaprashan**: Annaprashan is a family celebration of a baby's first taste of rice. Many families in India hold it. *e.g.* In Kerala this day is called choroonu. In Bengal it is called mukhe bhaat.
 - **iron**: Iron is something your blood needs to stay strong. It comes from food. *e.g.* Ragi, dal, eggs and green leaves have iron in them.
+- **calcium**: Calcium is something your bones and teeth are made of. It comes from food. *e.g.* Ragi, curd, sesame and green leaves all have calcium in them.
 - **ragi**: Ragi is a small, dark grain. It is also called finger millet. *e.g.* People make ragi porridge, ragi mudde and ragi dosa.
 - **porridge**: Porridge is a grain cooked in water or milk until it is soft and thick. *e.g.* Ragi porridge, rice porridge and oats porridge are all soft foods.
 - **kanji**: Kanji is rice cooked in lots of water until it is very soft and runny. *e.g.* Many people eat kanji when they are ill or have few teeth.
@@ -46,6 +47,7 @@
 - **allergy**: An allergy is when a body reacts badly to a food that is harmless for most people. The reaction can be a rash, swelling or trouble breathing. *e.g.* Some children are allergic to peanuts, so their family keeps peanuts away from them.
 - **milk teeth**: Milk teeth are your first set of 20 teeth. They fall out one by one, and bigger teeth grow in. *e.g.* A wobbly front tooth is a milk tooth that is about to fall out.
 - **chew**: To chew is to bite food and grind it with your teeth. *e.g.* You chew an apple slowly until it is small enough to swallow.
+- **digest**: To digest food is to break it into tiny pieces that the body can take in. This happens in the stomach and the gut. *e.g.* Soft kanji is easy to digest, so even a poorly tummy can manage it.
 - **saliva (spit)**: Saliva is the wet spit in your mouth. It softens food and helps you swallow. *e.g.* A dry biscuit goes soft in your mouth because of saliva.
 - **grow**: To grow is to get bigger. Bones, muscles and skin all grow, and they need food to do it. *e.g.* Your feet grow, so last year's chappals no longer fit.
 - **repair**: To repair is to make something that is worn work well again. *e.g.* Your body repairs itself all the time, even when you are asleep.
@@ -59,18 +61,19 @@
 - **fever**: A fever is when your body is hotter than usual. It often means the body is fighting a germ. *e.g.* With a fever you feel hot, tired and not hungry.
 - **loose motions**: Loose motions is when your poo is watery and comes often. The body loses a lot of water and salt. *e.g.* A child with loose motions needs ORS and a doctor's help.
 - **ORS (sugar and salt water)**: ORS is clean water with a little sugar and a little salt, mixed in the right amounts. It helps a sick body take in water. *e.g.* ORS packets are sold at every chemist shop in India.
+- **cholera**: Cholera is a serious illness that comes from germs in dirty water. It causes very watery loose motions. *e.g.* ORS saves people with cholera, because it gives the body back its lost water and salt.
 - **ageing**: Ageing is how a body slowly changes as the years go by. Hair turns grey and some teeth may fall out. *e.g.* A grandparent has many years of ageing, and a lot of knowledge too.
 
 ## Explanations
 ### People of different ages eat different food, because their bodies are at different points in life · *defined*
-**Definition:** What a person can eat and needs to eat depends on the body they have at that age: its teeth, its stomach, how fast it is growing and how it is working.
+**Definition:** A person's body at their age decides what they can eat and need to eat. Four things matter: its teeth, its stomach, how fast it is growing and how well it is working.
 
 Look round at a family meal. The baby is on someone's lap with a bowl of mashed rice. You have idli, sambar and a crunchy bit of carrot. An old person may take the idli soaked soft. Nobody chose these foods at random. A body changes all through life. It starts tiny and toothless. It grows fast for years. It stays one size for a long time. Then it slowly wears. At each point the body can chew, hold and use different things. Food follows the body.
 - e.g. A puppy drinks milk, a young dog chews bones, and a very old dog is often given softened food.
 - e.g. A caterpillar eats leaves all day. After becoming a butterfly, the same being only sips sweet liquid from flowers.
 - e.g. A tadpole scrapes green slime from stones. As a frog, the same being catches insects.
 ### A new baby has no teeth and a stomach about the size of a marble · *defined*
-**Definition:** A newborn's stomach holds about one teaspoon of milk on the first day, and grows to hold about as much as a hen's egg within two weeks.
+**Definition:** A newborn's stomach holds about one teaspoon of milk on the first day. Within two weeks it holds about as much as a hen's egg.
 
 A new baby cannot chew, because no teeth have come up yet. A new baby cannot sit, and can only suck and swallow. And the stomach is tiny. On the first day it holds about one teaspoon. In about ten days it holds about as much as a hen's egg. A stomach that small empties fast. So a new baby feeds 8 to 12 times in a day and night. The food has to be liquid, easy to use, and ready at any hour. Milk is all of these.
 - e.g. A new baby wakes at night to feed, because a teaspoon of milk does not last long.
@@ -93,17 +96,17 @@ For the first two or three days the mother's body makes a special milk. It is th
 - **Older custom in many parts of India and other countries:** In many families the first milk was thrown away, because it looked thick and yellow and was thought to be stale or heavy. The baby was given honey, sugar water or a herbal mix instead. Health workers now explain what colostrum is, and the custom is fading.
 - **Mothers and midwives who kept the opposite custom:** In other communities the first milk was always given and prized. Customs about the first food have never been one single thing across India.
 ### Mother's milk carries protection, and food for friendly bacteria · *defined*
-**Definition:** Human milk contains antibodies, which are germ-fighters made by the mother's body, and special sugars that the baby cannot digest but that feed helpful bacteria in the baby's gut.
+**Definition:** Human milk has antibodies, which are germ-fighters made by the mother's body. It also has special sugars. The baby cannot digest these sugars, but they feed helpful bacteria in the baby's gut.
 
 A new baby's body has not yet learned to fight germs. The mother's body has. She makes germ-fighters called antibodies, and some of them pass into her milk. They line the baby's mouth and gut and catch germs there. Milk holds another surprise. It has about 200 kinds of special sugars that the baby cannot use at all. They are food for friendly bacteria. Bacteria are living beings too small to see. These ones settle in the baby's gut and crowd out harmful ones. So the mother feeds her baby, and also the baby's tiny partners.
 - e.g. If a mother catches a cold, her body makes antibodies against that cold, and they appear in her milk within days.
 - e.g. The special sugars are the third largest part of the solid matter in human milk, after lactose and fat.
-- **Paul György, a doctor working in the USA, in the 1950s:** He found that something in human milk made one kind of friendly bacteria grow well, and called it the 'bifidus factor'. For decades nobody knew what it was.
-- **Bruce German, Carlito Lebrilla, David Mills and Lars Bode, working in California since about 2000:** They showed that the factor is the family of special sugars, and that one kind of friendly bacteria has the exact tools to eat them. Their conclusion is that milk was shaped over a very long time to feed two kinds of beings at once.
+- **Paul György, a doctor working in the USA, in the 1950s:** He found that something in human milk made one kind of friendly bacteria grow well. He called this the 'bifidus factor'. For decades nobody knew what it was.
+- **Bruce German, Carlito Lebrilla, David Mills and Lars Bode, working in California since the early 2000s:** They showed that the factor is the family of special sugars, and that one kind of friendly bacteria has the exact tools to eat them. Their conclusion is that milk was shaped over a very long time to feed two kinds of beings at once.
 ### Every mammal makes milk, and each kind of milk fits that animal's baby · *defined*
 **Definition:** A mammal is an animal whose mothers make milk for their young. Humans, cows, bats, whales and mice are all mammals.
 
-A cow makes milk for her calf. A whale makes milk for her calf under the sea. A bat makes milk hanging upside down. Animals who do this are called mammals, and humans are mammals. But the milks are not alike. A hooded seal pup lives on ice and must grow fat fast. The mother's milk is more than half fat, and she feeds the pup for only about four days. A human baby grows slowly for years. Human milk is thin and sweet, with little fat. Each milk fits the life of the baby who drinks it.
+A cow makes milk for her calf. A whale makes milk for her calf under the sea. A bat makes milk hanging upside down. Animals who do this are called mammals, and humans are mammals. But the milks are not alike. A hooded seal pup lives on ice and must grow fat fast. The mother's milk is more than half fat, and she feeds the pup for only about four days. A human baby grows slowly for years. Human milk is thin and sweet, with little fat. Each mother's milk suits the way her own baby lives.
 - e.g. A blue whale calf drinks very rich milk and gains about 90 kilograms in a day.
 - e.g. A platypus mother has no nipples. Milk seeps out of her skin and the young lap it from her fur.
 - e.g. Pigeons are birds, not mammals. Yet the father and the mother both make a thick 'crop milk' in the throat and feed it to their chicks.
@@ -111,19 +114,19 @@ A cow makes milk for her calf. A whale makes milk for her calf under the sea. A 
 - **Carl Linnaeus, the Swedish scientist who named the group Mammalia in 1758:** He named the whole group after the breast, mamma in Latin, because milk-making is found in all of them and in no other animals.
 - **Londa Schiebinger, a historian of science, in 1993:** Linnaeus could have chosen hair, or the bones of the ear, which mammals also share and which males have too. She argues that he picked the breast partly because of arguments in his own time about whether mothers should nurse their own babies. A name in science can carry the ideas of its day.
 ### When a mother's milk is not there, babies are fed in other ways · *defined*
-**Definition:** A baby who cannot have their own mother's milk can be fed with another mother's milk or with infant formula, a milk powder made to be close to human milk.
+**Definition:** A baby who cannot have their own mother's milk can be fed another mother's milk. Or the baby can have infant formula, a milk powder made to be close to human milk.
 
-Some mothers are ill. Some make too little milk. Some babies have lost their mother or have been adopted. Some mothers decide another way suits them and their work. These babies still need milk. For thousands of years another woman would feed the baby. Today there are milk banks, where mothers give spare milk for babies in hospital. There is also formula, a powder made mostly from cow's milk that is changed to suit babies. It must be mixed with clean, boiled water. Plain cow's milk is not right for a young baby, because it is made for a calf.
+Some mothers are ill. Some make too little milk. Some babies have lost their mother or have been adopted. Some mothers decide another way suits them and their work. These babies still need milk. For thousands of years another woman would feed the baby. Today there are milk banks, where mothers give spare milk for babies in hospital. There is also formula, a powder made mostly from cow's milk that is changed to suit babies. It must be mixed with clean, boiled water. Plain cow's milk is not right for a young baby, because cow's milk is made for a calf.
 - e.g. Asia's first human milk bank was started in 1989 by Dr Armida Fernandez at Sion Hospital in Mumbai.
 - e.g. A baby fed by a father, a grandparent or an older relative with a bottle or a small cup is being cared for just as much.
-- **The World Health Organization:** Mother's milk alone is best for about the first six months, and is safest where clean water is hard to get. Formula mixed with dirty water has made many babies ill.
+- **The World Health Organization:** The World Health Organization advises mother's milk alone for about the first six months. It says this is the safest start where clean water is hard to get. Formula mixed with dirty water has made many babies ill.
 - **Mothers who use formula, and doctors who support them:** A baby fed formula with clean water grows up healthy. A mother who cannot feed, or chooses not to, should not be shamed. What matters is that the baby is fed and the family is well.
 - **Campaigners since the 1970s, who led a boycott of the company Nestlé from 1977:** Companies pushed formula on poor families who could not afford enough of it and had no clean water. In 1981 the countries of the world agreed on a code that limits how formula may be advertised.
 ### At about six months a baby is ready for the first soft foods · *defined*
-**Definition:** At around six months most babies can sit with support, hold the head steady and swallow soft food, and they begin to need more iron than milk alone gives.
+**Definition:** At around six months most babies can sit with support, hold the head steady and swallow soft food. They also begin to need more iron than milk alone gives.
 
 Why six months, and not six days? Three things change. First, the baby can now sit up with a little help and hold the head steady. Second, a young baby's tongue pushes out anything solid, and by about six months this stops. Third, a baby is born with a store of iron. Iron is something the blood needs, and food supplies it. Mother's milk has only a little. The store runs low at about six months. So the baby needs food that brings iron, such as ragi, dal, egg or greens. Milk continues alongside.
-- e.g. A baby who is ready often watches other people's food closely and reaches for it.
+- e.g. A baby who is ready often watches other people's food closely and reaches out a hand.
 - e.g. The first tooth usually appears at about six months too, though first foods do not need chewing.
 - **Ashvalayana Grihya Sutra 1.16, an old Indian book of household customs, from before the Common Era:** It places the ceremony of the baby's first solid food in the sixth month. Families in India still hold it, as annaprashan, mukhe bhaat in Bengal and choroonu in Kerala. The old custom and the present medical advice agree on the month.
 - **Kashyapa Samhita, an old Ayurveda book about the care of children:** It advises fruit juice at about six months and cooked grain a few months later. So the old books did not all give the same timetable.
@@ -131,7 +134,7 @@ Why six months, and not six days? Three things change. First, the baby can now s
 ### First foods are soft, mashed and local: ragi, rice, dal and banana · *defined*
 **Definition:** A first food is a soft, smooth food given to a baby in small amounts alongside milk. Every region uses its own grains and fruits.
 
-A first food has to be soft enough to swallow without chewing. It also has to be rich, because the stomach is still small. Across India, families worked this out long ago with whatever grew nearby. In Karnataka and Tamil Nadu babies get ragi porridge. Ragi is a small dark millet, rich in iron and in calcium for bones. In Kerala there is porridge made from dried banana powder. In many homes it is rice and dal cooked very soft with a little ghee. One new food is tried at a time, so the family can see how the baby takes to it.
+A first food has to be soft enough to swallow without chewing. It also has to be rich, because the stomach is still small. Across India, families worked this out long ago with whatever grew nearby. In Karnataka and Tamil Nadu babies get ragi porridge. Ragi is a small dark millet, rich in iron and in calcium for bones. In Kerala there is porridge made from dried banana powder. In many homes it is rice and dal cooked very soft with a little ghee. One new food is tried at a time, so the family can see how the baby reacts to each one.
 - e.g. Khichdi, rice and moong dal cooked soft together, is a first food from Gujarat to Bengal.
 - e.g. In Japan the first food is okayu, a thin rice porridge. In East Africa it is uji, a porridge of millet or maize.
 - e.g. Sprouting the ragi before grinding makes a thinner porridge that carries more food in each spoon. Many grandmothers in south India do this.
@@ -140,9 +143,10 @@ A first food has to be soft enough to swallow without chewing. It also has to be
 
 Most babies in the world are fed mashed food from a spoon or from a parent's fingers. In the early 2000s Gill Rapley, a health worker in England, described another way. Put soft finger-sized pieces in front of the baby, such as steamed carrot or ripe banana. Let the baby pick them up and decide how much to eat. Some parents love this. Others fear choking, or fear the baby eats too little. Which way is better? The careful tests so far show less difference than either side expected.
 - e.g. A soft piece is safe when you can squash it between your finger and thumb.
-- e.g. Whole nuts, whole grapes and hard raw pieces are never given to babies in either way, because they can block the throat.
+- e.g. Whole nuts, whole grapes, popcorn and hard raw pieces are never given to babies in either way, because they can block the throat. Small children get grapes cut small, and whole nuts and popcorn only after about four years of age.
+- e.g. A baby who is eating always sits upright with a grown-up watching, and is never left alone with food.
 - **Gill Rapley and parents who follow baby-led feeding:** A baby who feeds themselves learns to chew early, eats with the family, and stops when full. Rapley argues that babies know their own hunger.
-- **Rachael Taylor, Anne-Louise Heath and their team in New Zealand, in a trial reported in 2017:** They compared about 200 families. The self-feeding babies were no heavier and no lighter at age two, and choked no more often when parents were taught which foods are safe. They were a little less fussy.
+- **Rachael Taylor, Anne-Louise Heath and their team in New Zealand, in a trial reported in 2017:** They compared just over 200 families. The self-feeding babies were no heavier and no lighter at age two, and choked no more often when parents were taught which foods are safe. They were a little less fussy.
 - **Many doctors, and many grandparents:** Spoon feeding lets the family be sure the baby gets enough iron-rich food. Feeding a baby by hand is also closeness, and families across India have raised healthy children this way.
 ### Doctors once said to keep peanuts away from babies, and then the advice turned round · *defined*
 **Definition:** A food allergy is the body's germ-fighting system attacking a harmless food by mistake. Giving peanut foods early, in a safe form, lowers the chance of peanut allergy.
@@ -150,10 +154,11 @@ Most babies in the world are fed mashed food from a spoon or from a parent's fin
 Some children's bodies treat a harmless food, such as peanut, as an enemy. This is called an allergy, and it can be dangerous. Around the year 2000, doctors in several countries told parents to keep peanuts away from babies. Peanut allergy went up, not down. A doctor in London, Gideon Lack, noticed that children in Israel ate a peanut snack from babyhood and had ten times less peanut allergy. He ran a trial. Babies who ate smooth peanut food early had far less allergy at age five. In 2015 the advice was reversed.
 - e.g. In India, groundnut chutney thinned with water and powdered roasted groundnut in porridge are old ways of giving this food safely to small children.
 - e.g. A baby is given peanut only as a smooth paste or fine powder mixed into food, never as whole or broken nuts.
+- e.g. Before a baby first tries peanut, the family asks a doctor if the baby has a long-lasting skin rash (eczema) or a known egg allergy. These babies are at higher risk.
 - **Gideon Lack, George Du Toit and their team, in the trial of 2015:** In babies at high risk, eating peanut food regularly from before the first birthday cut peanut allergy by about four-fifths. The gut seems to teach the body that a food is a friend.
 - **Doctors who gave the earlier advice:** Their reasoning was sensible: keep a risky thing away from a young body. It had not been tested. When it was tested, it turned out to be the wrong way round. Science corrected its own advice.
 ### Teeth arrive one by one, and food gets harder as they come · *defined*
-**Definition:** Children grow 20 milk teeth between about six months and three years. From about six years these fall out and 32 larger teeth replace them over many years.
+**Definition:** Children grow 20 milk teeth between about six months and three years. From about six years these fall out, and bigger teeth grow in until there are 32 in all.
 
 The first tooth cuts through the gum at about six months. By about three years a child has 20 milk teeth. Now food can have lumps, then pieces, then a crunch. At about six years the milk teeth start to wobble and fall, and bigger teeth grow in. You may have a gap right now. Front teeth are sharp and cut food. Back teeth are broad and grind it. Chewing breaks food small and mixes it with spit, so the stomach has less work to do. A wobbly tooth is a sign that your food is about to change again.
 - e.g. With a gap in front, biting into a guava is hard, so you bite with the side teeth.
@@ -188,7 +193,7 @@ Milk is baby food. A calf stops drinking milk and eats grass. A kitten grows up 
 **Definition:** With age many people lose teeth, make less saliva, taste and smell less sharply, and feel less hunger and thirst than before.
 
 An old body has worked for seventy or eighty years. Teeth may have worn down or fallen out. The mouth makes less spit, so dry food is hard to swallow. Smell and taste grow fainter, so food seems dull. The stomach empties more slowly, so hunger comes late. An old person may also not feel thirsty even when the body needs water. That is why soft, moist foods suit many old people: kanji, idli soaked in sambar, curd rice, khichdi, ragi mudde, soft cooked vegetables. And that is why a glass of water is offered without waiting to be asked.
-- e.g. Kanji, rice cooked with plenty of water until soft, is eaten by old people from Kerala to Odisha, where it is called pakhala when left to sour.
+- e.g. Kanji is rice cooked in lots of water until soft. Old people eat it from Kerala to Odisha. In Odisha, cooked rice left in water overnight, until it turns a little sour, is called pakhala.
 - e.g. Many old people add more salt, pickle or chilli than before, because food tastes fainter to them.
 - e.g. Not every old person needs soft food. Some people of ninety have strong teeth and eat murukku.
 ### Soft food for an old person must still be rich food · *debated*
@@ -198,17 +203,17 @@ It is easy to think an old person needs little food. They move less and eat less
 - e.g. Sattu, roasted gram flour stirred into water or buttermilk, is a drink from Bihar that packs body-building food into a glass.
 - e.g. Ragi malt with milk or buttermilk does the same in Karnataka.
 - **The official guidelines of many countries:** A grown-up of any age needs about 0.8 grams of protein, the body-building part of food, for each kilogram of body weight each day.
-- **Jürgen Bauer and an international group of doctors for the old, in 2013:** Old muscles answer more weakly to food. People over 65 should have 1.0 to 1.2 grams for each kilogram, and more when ill.
+- **Jürgen Bauer and an international group of doctors for the old, in 2013:** Old muscles answer more weakly to food. People over 65 should have 1.0 to 1.2 grams for each kilogram, and 1.2 to 1.5 grams when ill.
 - **Kidney doctors:** Many old people have weak kidneys, and too much protein gives the kidneys extra work. For these people more is not better. The right amount depends on the person.
 ### Why do human grandmothers live so long? One answer is: to feed grandchildren · *debated*
-**Definition:** The grandmother hypothesis says that women live for many years after they stop having babies because, in the past, grandmothers who gathered food helped more grandchildren survive.
+**Definition:** The grandmother hypothesis tries to say why women live for many years after they stop having babies. In the past, grandmothers who gathered food helped more grandchildren survive.
 
 In most animals, females have young until near the end of life. Human women stop in their late forties and may live forty years more. Why? In the 1990s Kristen Hawkes studied the Hadza people of Tanzania, who gather wild food. She saw that grandmothers spent long hours digging up deep roots and gave them to their grandchildren. Children with a hard-working grandmother grew better. Her idea is that long life after childbearing spread because grandmothers fed the young. So old people may be the reason there was enough food for children at all.
 - e.g. Orca whales are one of the few other animals whose females live long after their last calf. Old orca grandmothers lead the family to salmon in years when fish are scarce.
 - e.g. Among elephants, the oldest female leads the herd to water and food she remembers from decades before.
 - e.g. In many Indian homes a grandparent or an older relative is the one who feeds the smallest child.
 - **Kristen Hawkes, James O'Connell and Nicholas Blurton Jones, in 1997:** Among the Hadza, a child's weight depended on how much the grandmother gathered, especially when the mother had a new baby. Grandmothers' work could explain our long lives.
-- **Scientists who doubt it, such as Hillard Kaplan:** Fathers and other men bring in a large share of food in many gathering peoples, and long life may come from the long years humans need to learn skills. On this view grandmothers help but are not the cause.
+- **Scientists who doubt it, such as Hillard Kaplan:** In many gathering peoples, fathers and other men bring in a large share of the food. Long life may come from the long years humans need to learn skills. On this view grandmothers help but are not the cause.
 - **Scientists who study orcas, including Darren Croft and Emma Foster:** Orca calves are more likely to survive when a grandmother is alive, most of all one who no longer has calves of her own. A second species points the same way, which makes the idea stronger.
 ### A sick body often wants light food, and scientists ask if it should be given more or less · *debated*
 **Definition:** During illness most people and other animals lose their appetite. Whether this loss helps the body fight, or harms it, depends on the illness and is still being studied.
@@ -226,13 +231,13 @@ When you have a fever, you do not want biryani. You want something light: kanji,
 With bad loose motions, a body loses water and salt very fast. This can kill a small child in a day. Plain water is not enough, because a sick gut lets it run through. Here is the clever part. The wall of the gut has tiny doors that carry sugar and salt in together. Water follows them. So a drink with the right mix of sugar and salt gets water into the body even when the gut is ill. Chemist shops sell ORS packets. At home, mix six level teaspoons of sugar and half a level teaspoon of salt in one litre of clean water.
 - e.g. Rice kanji with a pinch of salt, salted buttermilk and tender coconut water are home drinks that work in a similar way.
 - e.g. ORS is thought to have saved the lives of tens of millions of children since the 1970s.
-- **Hemendra Nath Chatterjee, a doctor in Kolkata, in 1953:** He treated people ill with cholera by mouth, with a drink of sugar and salts, and reported in a leading medical journal that they recovered. Doctors elsewhere took little notice for many years.
+- **Hemendra Nath Chatterjee, a doctor in Kolkata, in 1953:** He treated people ill with cholera by mouth, with a drink of sugar and salts, and reported good results in a leading medical journal. Doctors elsewhere took little notice for many years.
 - **Dilip Mahalanabis, a doctor from Kolkata, in 1971:** During the Bangladesh war, cholera broke out in the refugee camps at Bangaon and the drip bottles ran out. He had helpers give sugar and salt water by the cup. Deaths in his camp fell from about three in ten to under four in a hundred.
 ### Why do bodies grow old at all? Nobody knows for certain · *idea*
 **Definition:** Ageing is the slow loss of the body's power to repair itself. Scientists have several explanations for why it happens and no agreed one.
 
-A body can mend a cut and rebuild its gut lining every few days. So why can it not keep mending for ever? This sounds like a question with a known answer, and it has none. Some scientists say small damage simply piles up faster than repair. Others say bodies are built to spend their strength on having young, and little is kept for later. And some living beings do not seem to age. A tiny water animal called a hydra, kept for years in a laboratory, showed no sign of growing old.
-- e.g. A Greenland shark can live for about 300 to 400 years, longer than any other animal with a backbone that we know of.
+A body can mend a cut and rebuild its gut lining every few days. So why can it not keep mending for ever? This sounds like a question with a known answer, and it has none. Some scientists say small damage simply piles up faster than repair. Others say bodies are built to spend their strength on having young, and little is kept for later. And some living beings do not seem to age. A tiny water animal called a hydra, kept for years in a laboratory, showed no sign of growing old. Two words here need care. In this lesson 'life' means the years from birth to death, and 'time' means calendar days and years. Science cannot yet say exactly what life or time is. They are good words to question.
+- e.g. A Greenland shark can live for perhaps three or four hundred years, longer than any other animal with a backbone that we know of.
 - e.g. A mouse is old at two years and an elephant at sixty, though both are built of the same kinds of cells.
 - e.g. A banyan tree in Howrah, near Kolkata, is more than 250 years old and still spreading.
 - **Peter Medawar in 1952 and George Williams in 1957:** In the wild most animals die young from hunger, cold or being eaten. So nature never weeded out faults that only show late in life. Ageing is those late faults adding up.
@@ -240,22 +245,22 @@ A body can mend a cut and rebuild its gut lining every few days. So why can it n
 - **Charaka Samhita, Chikitsasthana chapter 1:** Ayurveda has a whole branch, called rasayana, about keeping the body's tissues well nourished into old age through food, habits and herbs. It treats ageing as something that food and conduct can slow, though not stop.
 
 ## Mostly agreed
-- Children who do not get enough food in the first two years are shorter for life. *How we know:* Studies that followed thousands of children in India, Brazil, Guatemala, the Philippines and South Africa for decades found that poor growth by age two was not fully made up later. India's national health surveys measure this in every district.
-- Honey must not be given to a baby under one year. *How we know:* Honey can carry the resting form of a bacterium that a baby's gut cannot yet stop. Doctors in California traced cases of a serious illness in babies to honey in the 1970s. Older children and adults are not harmed.
-- A baby tastes the family's food before eating any of it. *How we know:* Julie Mennella showed in 2001 that babies whose mothers drank carrot juice while pregnant or nursing accepted carrot-flavoured cereal more readily. Flavours from the mother's food pass into the fluid around the unborn baby and into her milk.
-- Old people who eat with others eat more than those who eat alone. *How we know:* Studies in care homes and in people's own homes find that company at a meal raises how much an old person eats, and that those who always eat alone are more often underfed.
+- Children who do not get enough food in the first two years often stay shorter for life. *How we know:* Researchers followed thousands of children for decades. They lived in India, Brazil, Guatemala, the Philippines and South Africa. Poor growth by age two was mostly not made up later. India's national health surveys measure this in every district.
+- Honey must not be given to a baby under one year. *How we know:* Honey can carry the resting form of a bacterium that a baby's gut cannot yet stop. In the 1970s doctors in California found a serious illness in babies, and later traced some cases to honey. Older children and adults are not harmed.
+- A baby already knows some of the family's flavours before eating any food. *How we know:* In 2001 Julie Mennella gave carrot juice to some mothers while they were pregnant or nursing. Their babies took carrot cereal more readily. Flavours from the mother's food pass into the fluid around the unborn baby, and into her milk.
+- Old people who eat with others eat more than those who eat alone. *How we know:* In care homes and in people's own homes, studies find that an old person eats more when someone eats with them. Old people who always eat alone are more often underfed.
 
 ## How we found out
-**Hemendra Nath Chatterjee, Richard Cash, David Nalin, Dilip Mahalanabis, 1953 to 1971.** For a long time doctors believed that a person with bad loose motions should be given nothing to drink. The gut was to be 'rested'. It seemed to fit what they saw, because whatever went in appeared to rush straight out. Water and salts were given through a needle into the blood, which needs trained staff and clean equipment. In 1953 Hemendra Nath Chatterjee, a doctor in Kolkata, gave 186 people with cholera a drink of sugar and salts, and reported that all recovered. His report was little noticed. In the 1960s scientists found out why such a drink could work: sugar and salt are carried through the gut wall together, and water follows. In 1968 in Dhaka, Richard Cash and David Nalin, working with Bengali colleagues, tested a measured drink and found that people needed far less fluid by needle. Many doctors still doubted that it could be used outside a hospital. In 1971 the war in Bangladesh sent millions of refugees into India. In the camp at Bangaon, cholera spread and the drip bottles ran out. Dilip Mahalanabis mixed sugar and salt in drums and had relatives give it by the cup. Deaths fell from about 30 in every 100 to under 4. After that the world's health bodies took up the method.  
+**Hemendra Nath Chatterjee, Richard Cash, David Nalin, Dilip Mahalanabis, 1953 to 1971.** For a long time doctors believed that a person with bad loose motions should be given nothing to drink. The gut was to be 'rested'. It seemed to fit what they saw, because whatever went in appeared to rush straight out. Water and salts were given through a needle into the blood, which needs trained staff and clean equipment. In 1953 Hemendra Nath Chatterjee, a doctor in Kolkata, gave 186 people with cholera a drink of sugar and salts. He reported good results in a leading medical journal. His report was little noticed. In the 1960s scientists found out why such a drink could work: sugar and salt are carried through the gut wall together, and water follows. In 1968 in Dhaka, Richard Cash and David Nalin worked with Bengali colleagues. They tested a measured drink and found that people needed far less fluid by needle. Many doctors still doubted that it could be used outside a hospital. In 1971 the war in Bangladesh sent millions of refugees into India. In the camp at Bangaon, cholera spread and the drip bottles ran out. Dilip Mahalanabis mixed sugar and salt in drums and had relatives give it by the cup. Deaths fell from about 30 in every 100 to under 4. After that the world's health bodies took up the method.  
 *What people believed before:* Doctors believed a sick gut must be rested and given nothing by mouth. It was believable because drink seemed to pass straight through a person with loose motions.
 
 ## Challenging perspectives
 - **A person with a fever should be starved.** (An old saying in English, 'feed a cold, starve a fever', and similar customs in many countries; *debated*)  
   For: Sick people and other animals lose their appetite, and in mice with a bacterial illness, feeding sugar made things worse.  
   Against: In mice with a viral illness, feeding helped. Children have small reserves and can weaken fast. No trial in people supports starving, and going without drink is dangerous.
-- **Babies should be fed only mother's milk for six months, with no exceptions.** (The World Health Organization's advice since 2001. Questioned by Mary Fewtrell and other children's doctors in Britain in 2011; *debated*)  
+- **Babies should be fed only mother's milk for the first six months.** (The World Health Organization's advice since 2001. Questioned by Mary Fewtrell and other children's doctors in Britain in 2011; *debated*)  
   For: Babies fed only mother's milk for six months have fewer infections, and where water is unsafe this saves many lives.  
-  Against: Fewtrell's group argued that in places with clean water, starting some solid food between four and six months may lower the risk of allergy and of low iron. Most health bodies still advise about six months, with attention to each baby's readiness.
+  Against: Fewtrell's group argued something different for places with clean water. Some solid food from four to six months may lower the risk of allergy and of low iron. Most health bodies still advise about six months, and watch each baby's readiness.
 - **Eating much less than usual makes animals, and perhaps people, live longer.** (Clive McCay, who found it in rats in 1935. Tested in monkeys by two American teams from the 1980s; *minority*)  
   For: Rats, mice, worms and flies fed about a third less live longer. In one of the monkey studies the underfed monkeys were healthier and lived longer.  
   Against: In the other monkey study they did not live longer. Old people who eat too little lose muscle and fall ill. Nobody has shown it in humans.
@@ -267,21 +272,21 @@ A body can mend a cut and rebuild its gut lining every few days. So why can it n
 You have seen how food changes from a baby's milk to a grandparent's kanji. Now we ask what food turning into bodies tells us about who we are.
 
 **Deep truth.** A banana that your tongue can mash is food for a baby, for you and for an old person with no teeth. In the baby the banana becomes new bone. In the old person it becomes mended skin. So 'baby food' and 'old people's food' are names for a body's point in life, and the food is the same. Every body you will ever have is this one stream of food, taking a different shape.  
-*Habit it breaks:* We sort food into kinds that belong to kinds of people, and we sort people into the young, the grown and the old as if they were separate sorts of being. The label hides that each person is one long passage of food through a changing shape.  
-*Evidence:* In the tongue test, soft banana, soaked idli and kanji pass and raw carrot fails. The child sees that the foods a baby and a toothless elder can eat are the same foods, though the two bodies use them for opposite work.
+*Habit it breaks:* We sort food into kinds that belong to kinds of people. We also sort people into the young, the grown and the old, as if they were separate sorts of being. The label hides that each person is one long passage of food through a changing shape.  
+*Evidence:* In the tongue test, soft banana, soaked idli and kanji pass and raw carrot fails. The child sees that a baby and a toothless elder can eat the same foods. The two bodies use those foods for opposite work.
 
 - *who am i:* You are made of what you have eaten, and nothing else was used. Your arm was rice and dal a few weeks ago. So you are not a fixed thing that food goes into. You are food that has become able to ask who you are.
-- *what is life:* A living body keeps its shape while its material flows through. A baby builds, a grown-up repairs, an old person mends more slowly. Life is this building and mending, and every living being does it with material borrowed from other living beings.
+- *what is life:* One way to see life: a living body keeps its shape while its material flows through. A baby builds, a grown-up repairs, an old person mends more slowly. Scientists have no single agreed answer to 'what is life?' Every living being does this building and mending, with material borrowed from other living beings.
 - *what is this world:* The rice grew from soil, water, air and sunlight. The soil held what older plants and animals left behind. When you eat, the world is being handed on from one body to the next. Nothing in your bowl is new, and nothing in you will be lost.
 
 Follow one bowl of kanji and you cannot find a wall anywhere. Mud becomes a rice plant. The rice becomes a mother's milk, and the milk becomes a baby. Years later the same kind of rice mends a great-grandmother. The stages of a life that look so different are one flow, and the flow does not start or stop at the edge of a person. Old Indian teachers put this in a few blunt words, and many scientists would accept the plain part of it. Whether there is a 'someone' beyond the flow is where people disagree, and that view is given below.
 
 - **Taittiriya Upanishad 2.2:** From food all beings on earth are born. By food they live, and into food they pass at the end. Food is the eldest of beings, and so it is called the medicine for all. (The lesson's science says the same in detail: every part of a growing child was food, and a body returns to the soil that feeds plants. The Upanishad then goes on to say there are deeper layers of a person than the layer made of food. Science has not confirmed those.)
 - **Taittiriya Upanishad 3.10:** A sage who has understood sings: I am food, I am food, I am food. I am the eater of food, I am the eater of food, I am the eater of food. (A child eats rice and becomes, in time, soil for rice. The eater and the eaten are two moments in one round. The sage's song is joy at seeing this, and the science shows the round is real.)
-- **Thich Nhat Hanh, 'The Heart of Understanding', 1988:** Look at a sheet of paper and you can see the cloud in it, because without the cloud there is no rain, no tree and no paper. He called this 'interbeing': each thing is made of everything that is not itself. (Look into a bowl of kanji in the same way. The monsoon, the farmer, the paddy field and the cook are in it. And tomorrow the bowl is in the child.)
+- **Thich Nhat Hanh, 'The Heart of Understanding', 1988:** Look at a sheet of paper and you can see the cloud in it. Without the cloud there is no rain, no tree and no paper. He called this 'interbeing': each thing is made of everything that is not itself. (Look into a bowl of kanji in the same way. The monsoon, the farmer, the paddy field and the cook are in it. And tomorrow the bowl is in the child.)
 - Science (settled): The atoms that make up a body come from food, water and air, and are returned to soil, water and air. No atom is made or destroyed by living.
 - Science (open): Why bodies lose the power to renew themselves and grow old is explained by several theories, none of them agreed.
-- Other view, The Charvaka school of ancient India, as described in Madhava's Sarva-darshana-sangraha, chapter 1, written in the 14th century CE: The body is made of the elements taken in as food, and awareness arises from that mixture, as the power to make a person drunk arises when certain plain things are mixed and left to ferment. When the body ends, the person ends. On this view 'you are food' is the whole truth, with nothing deeper behind it.
+- Other view, The Charvaka school of ancient India, as described in Madhava's Sarva-darshana-sangraha, chapter 1, written in the 14th century CE: The body is made of the elements taken in as food. Awareness arises from that mixture, as the power to make a person drunk arises when certain plain things are mixed and left to ferment. When the body ends, the person ends. On this view 'you are food' is the whole truth, with nothing deeper behind it.
 - Practice, One slow mouthful (3 min): Take one small piece of banana or one spoon of rice. Before you eat, look at it. Say where it came from: a plant, the soil, the rain, the sun, the person who cooked it. Now put it in your mouth and chew slowly ten times. Feel it change. Swallow. Sit quietly for three breaths. This food is on the way to becoming you. Tell me which part of you would like it.
 - Ask: If your whole body was once food, was there ever a 'you' before the food arrived?
 - Ask: A baby builds, a child grows, an old person mends. Are these three different beings, or one being doing three things?
@@ -295,7 +300,7 @@ Follow one bowl of kanji and you cannot find a wall anywhere. Mud becomes a rice
 - *deep:* Your body is made of food, and all the food came from plants and other animals. So what are you made of that is only yours? (hint: Try to name one bit of you that did not come in from outside.)
 - *big:* Doctors once said 'no peanuts for babies' and later said the opposite. How should a family decide what to trust? (hint: Ask what was different about the second piece of advice. What had been done that was not done the first time?)
 - *big:* A hydra does not seem to grow old. If people did not grow old either, would anyone need soft food, and would anyone look after anyone? (hint: Imagine a family where nobody is ever a baby and nobody is ever old.)
-- *deep:* A sick dog stops eating without being told. Does the dog know something, or is the dog's body doing it without the dog? (hint: Think about your own fever. Did you decide not to be hungry?)
+- *deep:* A sick dog stops eating without being told. Does the dog know something, or is the dog's body doing this without the dog? (hint: Think about your own fever. Did you decide not to be hungry?)
 - *big:* A father pigeon makes milk for his chick. Why do you think so few fathers among animals feed babies from their own bodies? (hint: There may be more than one reason. Think about who is nearby when a baby hatches or is born.)
 
 ## Story: Three Bowls from One Pot
@@ -339,7 +344,7 @@ Thenmozhi looked at the three bowls. The kanji in each looked the same. White, s
 
 'But it is the same rice,' she said slowly. 'How does the rice know to become Kuttan's back, and not your knee?'
 
-'The rice does not decide,' said Paatti. 'The eater does. Give this pot to the cow, and it becomes cow. Give it to the crow, and it becomes crow.' She tipped her last spoonful on to the window ledge. A crow who had been waiting on the wall hopped down and took it at once.
+'The rice does not decide,' said Paatti. 'The eater does. Give this pot to the cow, and the rice becomes cow. Give it to the crow, and the rice becomes crow.' She tipped her last spoonful on to the window ledge. A crow who had been waiting on the wall hopped down and took it at once.
 
 'So it is not baby food,' said Thenmozhi.
 
@@ -369,8 +374,8 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 
 ## Games
 ### g1 · Three Mats: who can eat it? A game of 24 food cards (20 min)
-- **rules:** Lay three sheets of paper on the floor. Write on each one: baby of seven months, child of six, elder with few teeth. Mix the cards and stack them face down.; Take turns. Turn over the top card and say the food out loud.; Place the card on every mat that person could eat. A card can go on one mat, two mats or all three. Say why.; Then read the back aloud. Score one point for each mat you placed correctly, and one point if you gave a good reason.; A card marked 'both answers are worth defending' gives full points for either answer if you give a good reason.; When the stack is empty, add up your points. Most points wins. With a team of friends, you can also play together and try to place every card.; If you think a card is wrong for a real person you know, say why. Foods for a real person are for their grown-up and doctor to decide.
-- **Printable cards: 24 food cards to cut out:** Mashed ripe banana (back: All three mats. It is soft enough for a baby, a child and an elder with few teeth.); Smooth ragi porridge (back: All three mats. It is soft, and ragi has iron and calcium.); Khichdi cooked very soft, with ghee (back: All three mats. Rice and dal cooked soft need no teeth.); Idli soaked in warm dal, then mashed (back: All three mats. Soaking and mashing make it paste.); Curd rice, mashed (back: All three mats. It is soft and gentle on the tummy.); Thick kanji with dal stirred in (back: All three mats. It is soft and has body-building food in it.); Mashed boiled potato (back: All three mats. It is soft and easy to swallow.); Soft cooked pumpkin, mashed (back: All three mats. Cooking makes it soft.); Mashed boiled egg (back: All three mats, for people who eat eggs. It is soft and full of body-building food.); Ripe papaya in soft pieces (back: Child and elder. A baby gets this fruit mashed, not in pieces.); Raw carrot in thin sticks (back: Child mat only. A baby has no teeth, and an elder with few teeth cannot crush it.); Raw apple, a big bite (back: Child mat. An elder with strong teeth can have it too. Both answers are worth defending.); Crunchy murukku (back: Child mat. Some elders with strong teeth enjoy it. Both answers are worth defending.); A crisp papad (back: Child mat. An elder may soften it in dal, and then it goes on more mats.); A dry chapati torn in pieces (back: Child mat. Soaked in dal or curd, it can go on the other mats too.); Chapati soaked in warm dal (back: All three mats once it is mashed. Soaking makes it soft.); A stick of sugarcane to chew (back: Child mat only. It is hard and stringy, so a baby and an elder with few teeth cannot chew it.); Honey stirred into porridge (back: Child and elder mats. Never for a baby under one year, because honey can carry a germ a baby's gut cannot stop.); Tender coconut water (back: Child and elder mats. A young baby gets milk only.); Sattu drink, stirred in water (back: Child and elder mats. It is full of body-building food. A baby of seven months does not start with this drink.); Warm ragi malt, thin (back: Child and elder mats. It is a good drink, but too thin to be a baby's first food.); ORS drink for loose motions (back: All three mats. A sick person at any age needs sips of ORS.); Soft moong dal, cooked until it melts (back: All three mats. It is soft and has body-building food.); Boiled and mashed sweet potato (back: All three mats. It is soft and sweet.)
+- **rules:** Lay three sheets of paper on the floor. Write on each one: baby of seven months, child of six, elder with few teeth. Mix the cards and stack them face down.; Take turns. Turn over the top card and say the food out loud.; Add a laugh: say each food in the voice of the person on the mat. Use a gurgle for the baby, a loud happy voice for the child and a slow warm voice for the elder.; Place the card on every mat that person could eat. A card can go on one mat, two mats or all three. Say why.; Then read the back aloud. Score one point for each mat you placed correctly, and one point if you gave a good reason.; A card marked 'both answers are worth defending' gives full points for either answer if you give a good reason.; When the stack is empty, add up your points. Most points wins. With a team of friends, you can also play together and try to place every card.; If you think a card is wrong for a real person you know, say why. Foods for a real person are for their grown-up and doctor to decide.
+- **Printable cards: 24 food cards to cut out:** Mashed ripe banana (back: All three mats. It is soft enough for a baby, a child and an elder with few teeth.); Smooth ragi porridge (back: All three mats. It is soft, and ragi has iron and calcium.); Khichdi cooked very soft, with ghee (back: All three mats. Rice and dal cooked soft need no teeth.); Idli soaked in warm dal, then mashed (back: All three mats. Soaking and mashing make it paste.); Curd rice, mashed (back: All three mats. It is soft and gentle on the tummy.); Thick kanji with dal stirred in (back: All three mats. It is soft and has body-building food in it.); Mashed boiled potato (back: All three mats. It is soft and easy to swallow.); Soft cooked pumpkin, mashed (back: All three mats. Cooking makes it soft.); Mashed boiled egg (back: All three mats, for people who eat eggs. It is soft and full of body-building food.); Ripe papaya in soft pieces (back: Child and elder. A baby gets this fruit mashed, not in pieces.); Raw carrot in thin sticks (back: Child mat only. A baby has no teeth, and an elder with few teeth cannot crush a raw carrot.); Raw apple, a big bite (back: Child mat. An elder with strong teeth can have it too. Both answers are worth defending.); Crunchy murukku (back: Child mat. Some elders with strong teeth enjoy it. Both answers are worth defending.); A crisp papad (back: Child mat. An elder may soften it in dal, and then it goes on more mats.); A dry chapati torn in pieces (back: Child mat. Soaked in dal or curd, it can go on the other mats too.); Chapati soaked in warm dal (back: All three mats once it is mashed. Soaking makes it soft.); A stick of sugarcane to chew (back: Child mat only. Sugarcane is hard and stringy, so a baby and an elder with few teeth cannot chew the stick.); Honey stirred into porridge (back: Child and elder mats. Never for a baby under one year, because honey can carry a germ a baby's gut cannot stop.); Tender coconut water (back: Child and elder mats. A young baby gets milk only.); Sattu drink, stirred in water (back: Child and elder mats. It is full of body-building food. A baby of seven months does not start with this drink.); Warm ragi malt, thin (back: Child and elder mats. It is a good drink, but too thin to be a baby's first food.); ORS drink for loose motions (back: All three mats. A sick person of any age needs sips of ORS. A baby gets ORS only as a doctor or health worker advises, and milk feeds go on.); Soft moong dal, cooked until it melts (back: All three mats. It is soft and has body-building food.); Boiled and mashed sweet potato (back: All three mats. It is soft and sweet.)
 - **Printable board: Three mats to draw on paper:** Mat 1: A baby of seven months. No teeth. Soft, smooth food only.; Mat 2: A child of six. Milk teeth, and a gap or two.; Mat 3: An elder with few teeth. Soft food, rich in goodness.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 cards. 2. Lay out the three mats. 3. Mix the cards and stack them face down.  
@@ -450,7 +455,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 
 ## Activities
 ### a1 · Make ORS at home and taste it (15 min)
-- **safety:** Boiled water must be fully cool before a child touches it. A grown-up measures the salt.
+- **safety:** Boiled water must be fully cool before a child touches it. A grown-up measures the salt. This drink is for tasting. For someone who is really ill, use a chemist's packet and call a doctor. A baby gets ORS only when a doctor or health worker says so.
 - **record:** Draw your face after tasting plain water and after tasting ORS. Say in one word how the ORS tasted.
 - **s1 (8 min)**  
   *Parent does:* 1. Wash hands. 2. Pour one litre of clean water into the jug. 3. Level six teaspoons of sugar, one at a time. Count aloud as you add them. 4. Level half a teaspoon of salt. 5. Stir until you cannot see any grains.  
@@ -496,7 +501,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
   - Note: Tell your child plainly that this is why a new baby asks for milk so often. Mother's milk is made in small amounts at first, which fits.
   - Think: Why is milk, which is a liquid that needs no chewing, the right food for a stomach this small?
 ### a4 · Soft but rich: cook kanji and add goodness (35 min)
-- **safety:** A grown-up does all the cooking. The pot is hot. Let the kanji cool until it is only warm before a child tastes it.
+- **safety:** A grown-up does all the cooking. The pot is hot. Let the kanji cool until it is only warm before a child tastes it. This kanji is for tasting, not for a baby. A baby's food has no salt.
 - **record:** Draw the two katoris. Write thin or rich under each. Say which one would fill a small stomach better.
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts the rice and the 5 cups of water in the pot. 2. Bring to the boil. Then simmer with the lid slightly open for about 25 minutes. Stir now and then, until the rice has burst and the water is thick. 3. Add the pinch of salt. 4. While it cooks, the child watches from a safe distance.  
@@ -709,7 +714,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 5. (match) Draw a line from each idea to the person who said it.  
    **Answer:** feeding peanuts early lowers allergy → Gideon Lack and a trial in 2015; grandmothers help feed grandchildren → Kristen Hawkes and the Hadza; a drink of sugar and salt saves lives → Dr Dilip Mahalanabis and ORS; human milk bank in Asia → Dr Armida Fernandez in Mumbai. *Why:* Lack ran the peanut trial. Hawkes watched Hadza grandmothers. Dr Dilip Mahalanabis used ORS in 1971. Dr Armida Fernandez started Asia's first human milk bank in 1989.
 6. (order) Put these in order of how fast each grows, from the slowest to the fastest.  
-   **Answer:** ['a banyan tree', 'a child of six', 'a young bamboo shoot']. *Why:* A banyan tree grows slowly over centuries. A child gets five or six centimetres taller a year. A young bamboo shoot can grow many centimetres in a day.
+   **Answer:** ['a child of six', 'hair on your head', 'a young bamboo shoot']. *Why:* A child of six gets five or six centimetres taller in a year. Hair grows about one centimetre in a month, so about twelve in a year. A young bamboo shoot can grow many centimetres in a day.
 7. (sort) Sort each statement. Is it settled by science, or still debated?  
    **Answer:** Honey is not for babies under one year → Settled; A newborn's stomach is tiny → Settled; Why bodies grow old → Still debated; How much body-building food old people need → Still debated. *Why:* Honey and a tiny newborn's stomach are well known. Why bodies age and how much body-building food old people need are still being argued.
 8. (write) A hydra seems never to grow old. If people did not grow old, what in a family might change?  
@@ -717,7 +722,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 9. (draw) Draw a family meal where a baby, a child and an elder all eat. Show how one pot is changed for each.  
    **Answer:** A table with three bowls, each changed in a different way.. *Why:* A strong drawing shows the same food changed for each person.
 10. (perspective) Two people talk about milk.  
-   **Answer:** There is no single answer. A good answer asks a fair question, such as how many people in a family get stomach trouble from milk, or whether other foods give the same goodness.. *Why:* Scientists agree that milk is the right food for a baby. They disagree about how much milk grown-ups need. Curd and buttermilk are easier on the stomach.
+   **Answer:** A good answer asks a fair question. For example: how many people in a family get stomach trouble from milk? Or do other foods give the same goodness?. *Why:* Scientists agree that milk is the right food for a baby. They disagree about how much milk grown-ups need. Curd and buttermilk are easier on the stomach.
 11. (label) Write B under each food made inside a body. Write S under each food made by cooking.  
    **Answer:** B under colostrum and mother's milk. S under kanji and khichdi.. *Why:* Colostrum and mother's milk are made inside a mother's body. Kanji and khichdi are cooked in a kitchen.
 12. (odd) Which of these is an open question that nobody can answer yet?  
@@ -729,16 +734,16 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
    **Answer:** False. *Why:* False. Babies, people who are ill, and anyone with a sore mouth can all be helped by soft food.
 
 ## Videos
-- **How oral rehydration solution works inside the gut** (, 5 min) id `XG8olDy4aaU`: Shows how sugar and salt together carry water through the gut wall. *Check:* Found by YouTube search: "The Power of Oral Rehydration Solutions: Your Ultimate Guide to Hydration" by Medical Centric Podcast. Title checked automatically; a parent may still preview it.
-- **What is in mother's milk? A short explainer on how milk protects a baby** (, 5 min) id `Bo8YN3oB0Cw`: Shows antibodies and friendly bacteria in milk. *Check:* Found by YouTube search: "What we don't know about mother's milk | Katie Hinde" by TED. Title checked automatically; a parent may still preview it.
-- **Animal mothers and their milk: whales, bats and seals** (, 5 min) id `urc2Xrwf-n4`: Shows that each kind of milk fits the baby who drinks the milk. *Check:* Found by YouTube search: "How Do Baby Whales Drink Milk Underwater? 🐋 | Nature’s Smartest Mothers" by One Minute Explore. Title checked automatically; a parent may still preview it.
+- **How oral rehydration solution works inside the gut** (, 5 min) id `XG8olDy4aaU`: A talk about oral rehydration solution, the sugar and salt drink that helps a sick body take in water. *Check:* Found by YouTube search: "The Power of Oral Rehydration Solutions: Your Ultimate Guide to Hydration" by Medical Centric Podcast. Title checked automatically; a parent may still preview it.
+- **What is in mother's milk? A short explainer on how milk protects a baby** (, 5 min) id `Bo8YN3oB0Cw`: A scientist who studies mother's milk explains how much about it is still unknown. *Check:* Found by YouTube search: "What we don't know about mother's milk | Katie Hinde" by TED. Title checked automatically; a parent may still preview it.
+- **Animal mothers and their milk: whales, bats and seals** (, 5 min) id `urc2Xrwf-n4`: Shows how a baby whale drinks milk under water. Each animal makes milk that suits her own baby. *Check:* Found by YouTube search: "How Do Baby Whales Drink Milk Underwater? 🐋 | Nature’s Smartest Mothers" by One Minute Explore. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) A new baby has a stomach about as big as a marble. Why is milk the right food?  
-   Options: It is a hard food that lasts long / It is a liquid that needs no chewing / It is the only food that is white  
+   Options: It is a hard food that lasts long / It is a liquid that needs no chewing / Babies like the taste of sweet things best  
    **Answer:** It is a liquid that needs no chewing. *Why:* A new baby has no teeth and a tiny stomach. A liquid food that is easy to use is right. A hard food would not work.
 2. (mcq) A baby of seven months is ready for first foods. Which sign shows this?  
-   Options: The baby has grown a beard / The baby cries at night / The baby can sit with a little help  
+   Options: The baby can say a few words / The baby cries at night / The baby can sit with a little help  
    **Answer:** The baby can sit with a little help. *Why:* At about six months a baby can sit with help, hold the head steady and no longer pushes food out. Crying is not a sign of being ready.
 3. (mcq) Why does a baby need foods with iron at about six months?  
    Options: The store of iron from birth is running low / The baby no longer likes milk / Milk makes the baby ill  
@@ -814,7 +819,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 - Why did the idli stay in the sambar for a minute? *It wanted to get soft before the party.*
 - What did the front tooth say to the back tooth? *You do the grinding. I will do the cutting.*
 - Why was the kanji so calm? *It had been simmering down all day.*
-- What did the baby's stomach say to the one teaspoon of milk? *Thanks, but I will be asking for another in an hour.*
+- Why did the newborn's tummy hang a sign saying 'Back in two hours'? *One teaspoon of milk is a whole meal, and it is gone very fast.*
 - Why did the khichdi get invited to every meal? *It mixes with everyone.*
 
 ## Connected maths
