@@ -1072,7 +1072,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Put 20 dried beans in each of two steel bowls and call them Bowl A and Bowl B. Put about 50 more beans in a third bowl and call it the sky bowl. Say aloud what each bowl stands for. Bowl A is a heap of coal that nobody ever adds to. Bowl B is a well, a field or a forest that nature fills a little each round. The sky bowl is the rain and the Sun that fill Bowl B.",
+     "do": "Put 20 dried beans in each of two steel bowls and call them Bowl A and Bowl B. Put about 50 more beans in a third bowl and call it the sky bowl. Say aloud what each bowl stands for. Bowl A is a heap of coal that nobody ever adds to. Bowl B is a well, a field or a forest that nature fills a little each round. The sky bowl is the rain and the Sun that fill Bowl B. Beans you take out go into a pile on the table, and they are used again when you reset.",
      "say": "Here are two stores. Bowl A is like a coal mine. Bowl B is like a well that the rain fills. What do you think is different about them?",
      "kid": "Count 20 beans into Bowl A and 20 into Bowl B. Put the rest in the sky bowl.",
      "adult": false,
@@ -1577,7 +1577,7 @@
        ]
       }
      ],
-     "parent": "Typical results: bulb 9 watts for 5 hours is 45 watt-hours. Iron 1,000 watts for 10 minutes is about 170. Fan 60 watts for 10 hours is 600. Fridge 150 watts working about 8 hours in a day is about 1,200."
+     "parent": "Typical results: bulb 9 watts for 5 hours is 45 watt-hours. Iron 1,000 watts for 10 minutes is about 170. Fan 60 watts for 10 hours is 600. Fridge 150 watts working about 7 hours in a day is about 1,050."
     },
     {
      "id": "a3s3",
@@ -3207,8 +3207,8 @@
    "a": "She makes her own gas, and she does not even need a meter."
   },
   {
-   "j": "Why did the solar panel go to bed early?",
-   "a": "The Sun had already gone, and the battery was on night duty."
+   "j": "Why do solar panels make terrible night watchmen?",
+   "a": "They fall asleep as soon as the Sun goes down."
   },
   {
    "j": "What did the pot say to its lid on the stove?",

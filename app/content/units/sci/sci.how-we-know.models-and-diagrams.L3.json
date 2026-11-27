@@ -1382,7 +1382,7 @@
      "mins": 3,
      "do": "Ask for the prediction and the reason. Ask: if the pencil leans towards the torch, will the ring at the top ever go dark? Write what your child says before you try it.",
      "say": "I will lean the pencil towards the torch. The ring at the top is the far north. As I turn, will it ever go dark? Why do you think so?",
-     "kid": "Guess. Will the ring at the top ever go dark when the pencil leans towards the torch? Say why.",
+     "kid": "Guess. Will the ring at the top go dark when the pencil leans? Say why.",
      "adult": false,
      "parent": "Many children say yes, since everything went into the dark before. Do not say what will happen. The reason matters more than the guess."
     },
@@ -1494,7 +1494,7 @@
     {
      "id": "a1s1",
      "mins": 6,
-     "do": "Give your child a sheet of paper. Ask for a map from the gate of the building to your front door, for a delivery rider who has never been here. If you live in a house, start from the street. Ask the child to put in only what the rider needs.",
+     "do": "Give your child a sheet of paper. Ask for a map from the gate of the building to your front door. It is for a delivery rider who has never been here. If you live in a house, start from the street. Ask the child to put in only what the rider needs.",
      "say": "Draw the way from the gate to our front door so that a stranger can follow it. Put in only what they need. What do they need?",
      "kid": "Draw the way from the gate to your front door for a delivery rider.",
      "adult": false,
@@ -1503,7 +1503,7 @@
     {
      "id": "a1s2",
      "mins": 6,
-     "do": "On a second sheet, ask your child to draw the way from the bed to the water tap, for a friend who will walk it with the lights off. Ask for things you can feel with the feet and hands, and for the number of steps.",
+     "do": "On a second sheet, ask your child to draw the way from the bed to the water tap. A friend will walk it with the lights off. Ask for things you can feel with the feet and hands, and for the number of steps.",
      "say": "Now a friend must walk from the bed to the tap in the dark. What would they need to know that the rider did not? What do they not need any more?",
      "kid": "Draw the way from your bed to the water tap. A friend will walk it in the dark.",
      "adult": false,
@@ -1689,7 +1689,7 @@
    "record": "Write down the number of big steps for each planet. Beside it, write one thing that your usual diagram of the solar system left out.",
    "setup": [
     {
-     "art": "A child holding a football at the start of a long paved path, with a mustard seed on a small piece of paper beside it.",
+     "art": "A child holding a football at the start of a long paved path, with a mustard seed on a small piece of paper beside the ball.",
      "caption": "1. Put the Sun, a football, at the start. Put the Earth, a mustard seed, 32 big steps away."
     },
     {
@@ -1723,7 +1723,7 @@
     {
      "id": "a3s2",
      "mins": 12,
-     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. At each one put down a poppy seed for Mercury, a mustard seed for Venus, a mustard seed for the Earth, a poppy seed for Mars and a marble for Jupiter. Mark each place with chalk or a piece of paper.",
+     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. Put a poppy seed at Mercury, a mustard seed at Venus, a mustard seed at the Earth, a poppy seed at Mars and a marble at Jupiter. Mark each place with chalk or a piece of paper.",
      "say": "Walk 12 steps. Put down the smallest seed. That is Mercury. Now 23 steps from the Sun for Venus. Keep going.",
      "kid": "Pace out the planets. Put a small thing at each place.",
      "adult": false,
@@ -1851,7 +1851,7 @@
      "mins": 7,
      "do": "Draw two columns. In the first, ask your child to list what is like a pump about the heart. In the second, what is not. Use the pump and the pulse.",
      "say": "Where is the heart like a pump? Where is it not? Look at what you found.",
-     "kid": "Make two lists: where the heart is like a pump, and where it is not.",
+     "kid": "Make two lists. Where is the heart like a pump? Where is it not?",
      "adult": false,
      "ask": [
       {
@@ -1918,7 +1918,7 @@
     {
      "id": "a5s1",
      "mins": 4,
-     "do": "Use a marker to draw a circle about 3 centimetres across, a square of about the same size and a long line from the top to the bottom of the orange. Ask your child what will happen to them when the skin is flattened.",
+     "do": "Use a marker to draw a circle and a square, each about 3 centimetres across. Draw a long line from the top to the bottom of the orange. Ask your child what will happen to them when the skin is flattened.",
      "say": "Draw a circle, a square and a line down the orange. What will happen to them if we press the peel flat?",
      "kid": "Draw a circle, a square and a long line on the orange. Guess what will happen.",
      "adult": false,
@@ -2040,7 +2040,7 @@
     {
      "id": "p1s1",
      "mins": 20,
-     "do": "Walk a short, safe route with your child to a place within sight, such as the building gate or the shop at the corner. Ask your child to notice what could help a stranger find the way. Back home, ask for a map of the route drawn from memory. It needs a start, an end and any signs along the way.",
+     "do": "Walk a short, safe route with your child to a place within sight, such as the building gate. Ask your child to notice what could help a stranger find the way. Back home, ask for a map of the route drawn from memory. It needs a start, an end and any signs along the way.",
      "say": "Walk to the gate and notice what helps you know where you are. Then draw a map of the way, so that someone who has never been here could follow it.",
      "kid": "Walk the route with a grown-up. Then draw a map of it from memory.",
      "adult": false,
@@ -2931,15 +2931,15 @@
     },
     {
      "t": "draw",
-     "p": "A marble rolls freely along one side of a closed box. It stops with a click in the middle. It rolls on only along the far edge. Draw the inside from above.",
+     "p": "A marble stops with a click in the middle of a closed box. It rolls on only along the far edge. Draw the inside from above.",
      "a": "A rectangle with a wall drawn across the middle, and a gap between the end of the wall and the far side. The marble is shown on one side. A question mark or note says what is not certain, such as the wall's height.",
      "why": "The marble stopping in the middle says there is a wall. Rolling on only along the far edge says there is a gap there. A good model uses each clue, and a good drawing shows what is still a guess.",
      "outcome": 5
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out, and why? A globe, a plastic skeleton, a sparrow on a branch, a diagram of a leaf.",
-     "a": "The sparrow, because it is a real bird and not a model of one. The other three are models made to stand for something real.",
+     "p": "Which is the odd one out, and why? A globe, a plastic skeleton, a sparrow, a diagram of a leaf.",
+     "a": "The sparrow, because a sparrow is a real bird and not a model of one. The other three are models made to stand for something real.",
      "why": "A model stands for a real thing. A living bird is a real being, and not a model of anything.",
      "outcome": 0
     },
@@ -2974,7 +2974,7 @@
     },
     {
      "t": "fill",
-     "p": "A globe is 30 centimetres across and the Earth is 12,742 kilometres across. So 1 centimetre on the globe stands for about ____ kilometres.",
+     "p": "A 30 centimetre globe stands for the Earth, which is 12,742 kilometres across. So 1 centimetre stands for about ____ kilometres.",
      "a": [
       "425",
       "420",
@@ -2992,7 +2992,7 @@
     },
     {
      "t": "mcq",
-     "p": "Your model of a leaning ball predicts that a spot at the top stays lit. A test shows it going dark. What is best?",
+     "p": "A model predicts that a spot stays lit. A test shows it going dark. What is best?",
      "opts": [
       "Say the torch must be broken",
       "Ignore the test and keep the model",
@@ -3036,7 +3036,7 @@
     },
     {
      "t": "write",
-     "p": "A model of a sealed box says the marble cannot pass the middle. You see it pass. Give two things you could do next.",
+     "p": "Your model says a marble cannot pass the middle. You see it pass. Give two things you could do.",
      "lines": 3,
      "a": "Check the tilt was done as planned and try again. Change the drawing, for example by adding a gap. Predict a new tilt from the changed drawing and test that.",
      "why": "A strong answer treats the surprise as a clue and changes the model, then tests the new model with a new prediction.",
@@ -3133,7 +3133,7 @@
     },
     {
      "t": "count",
-     "p": "A model of a bridge is 50 times smaller than the real bridge. The real bridge is 300 metres long. How many metres long is the model?",
+     "p": "A model is 50 times smaller than a real bridge. The bridge is 300 metres long. How long is the model, in metres?",
      "a": "6",
      "why": "300 ÷ 50 = 6. The model is 6 metres long. Every length on it is 50 times smaller than the real one.",
      "outcome": 3
@@ -3152,7 +3152,7 @@
     },
     {
      "t": "write",
-     "p": "What is one thing a diagram of the solar system must change to fit on a page, and how can the maker be honest about it?",
+     "p": "What must a diagram of the solar system change to fit on a page? How can the maker be honest about it?",
      "lines": 3,
      "a": "The distances are squeezed and the planets drawn too big. The maker can write 'not to scale' on the diagram.",
      "why": "A strong answer names the change and the honest note.",
@@ -3245,7 +3245,7 @@
     },
     {
      "t": "fill",
-     "p": "A model Earth is 1 centimetre for every 425 kilometres. Mount Everest is about 9 kilometres high, so on it Everest is about ____ of a millimetre high.",
+     "p": "On a globe, 1 centimetre is 425 kilometres. Everest is about 9 kilometres high, so it is about ____ of a millimetre high.",
      "a": [
       "0.2",
       "one-fifth",
@@ -3294,7 +3294,7 @@
     },
     {
      "t": "write",
-     "p": "The eye has a spot that sees nothing, but we see no hole. Give one reason to say seeing is a kind of model, and one reason against.",
+     "p": "The eye has a spot that sees nothing, but we see no hole. Give one reason for calling seeing a model, and one against.",
      "lines": 3,
      "a": "For: the brain fills the gap with a guess made from what lies around it, so part of what we see is supplied. Against: the eye still receives real light from the world, and what we see changes when the world changes.",
      "why": "A strong answer gives a reason on each side and does not claim the question is settled.",
@@ -3321,14 +3321,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw two models of a mango: one for choosing a ripe mango at the market, and one for planting its seed. Say what each leaves out.",
+     "p": "Draw two models of a mango. One is for choosing a ripe mango, and one is for planting its seed. Say what each leaves out.",
      "a": "One shows the outside, with the colour, the skin and the smell. The other shows the inside, with the flesh and the flat seed. Each leaves out what the other needs.",
      "why": "The first model is for a buyer, so the outside matters. The second is for a grower, so the seed matters. The job decides what to keep.",
      "outcome": 6
     },
     {
      "t": "count",
-     "p": "A diagram of a sparrow is 30 centimetres long. The real sparrow is 15 centimetres long. How many times bigger is the diagram?",
+     "p": "A diagram of a sparrow is 30 centimetres long. The real bird is 15 centimetres long. How many times bigger is the diagram?",
      "a": "2",
      "why": "30 ÷ 15 = 2. The diagram is twice the size of the real bird. Scale tells you how a model compares with the real thing.",
      "outcome": 3
@@ -3526,7 +3526,7 @@
   {
    "problem": "In a model of the solar system the Sun is 22 centimetres across. The real Sun is about 1.4 million kilometres across, and the Earth is 150 million kilometres from it. About how far from the Sun does the Earth go in the model?",
    "answer": "About 23 to 24 metres.",
-   "explain": "1.4 million kilometres becomes 22 centimetres, so 1 centimetre stands for about 64,000 kilometres. 150 million ÷ 64,000 is about 2,340, so about 2,340 centimetres, which is about 23 metres.",
+   "explain": "The Sun is 22 centimetres in the model, so 1 centimetre is about 64,000 kilometres. 150,000,000 ÷ 64,000 is about 2,340. So the Earth is about 2,340 centimetres away, which is about 23 metres.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "how": "a3",
    "context": "This problem uses the Sun's size to find the scale, then uses the scale to place the Earth.",
@@ -3541,9 +3541,9 @@
    "why_maths": "A scale model keeps every length in the same ratio. One known pair of lengths gives all the rest."
   },
   {
-   "problem": "Africa is about 14 times larger in area than Greenland. On a common classroom map they look about the same size. About how many times is Greenland stretched in area, compared with Africa?",
+   "problem": "Greenland covers about 2.2 million square kilometres, and Africa about 30.4 million. On a common classroom map they look about the same size. About how many times is Greenland stretched, compared with Africa?",
    "answer": "About 14 times.",
-   "explain": "If Africa is 14 times larger but looks the same size, then Greenland has been stretched by about 14 times in area compared with Africa.",
+   "explain": "30.4 ÷ 2.2 is about 13.8, so about 14. Africa is 14 times larger, yet it is drawn the same size as Greenland. So Greenland has been stretched by about 14 times in area, compared with Africa.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "This problem compares two areas on a flat map with their real areas.",
    "why_maths": "A map that stretches the lands near the top changes areas by a ratio. Comparing the real ratio with the drawn ratio shows how big the stretch is."
@@ -3598,7 +3598,7 @@
  ],
  "applications": [
   "Engineers test small models of bridges and tall buildings in wind tunnels before the real ones are built. A model is placed in a tunnel with a fan, and sensors measure the push of the air. Mistakes are found cheaply.",
-  "The India Meteorological Department uses computer models of the air over India to make forecasts of the monsoon and of cyclones. A model of the sea, the air and the land is stepped forward in time, and forecasters compare its answer with what they see. For Cyclone Phailin in 2013, forecasts of where it would cross the coast of Odisha helped move about ten lakh people to safety.",
+  "The India Meteorological Department uses computer models of the air over India to forecast the monsoon and cyclones. The model is stepped forward in time, and forecasters compare its answer with what they see. In 2013, forecasts of where Cyclone Phailin would cross the coast of Odisha helped move about ten lakh people to safety.",
   "Doctors use plastic models of bones and organs to explain an operation to a patient, and surgeons practise on models before they operate on a person.",
   "Town planners make a map of where a new road should go, then check the map against the land. They use maps of different scales for different jobs, such as one for the whole district and one for a single street.",
   "A tailor makes a paper pattern before cutting the cloth. The pattern is a model of the shirt, and a mistake on paper costs much less than a mistake in cloth.",
@@ -3849,7 +3849,7 @@
    [
     "A model that gives right answers must be built just like the real thing.",
     false,
-    "Ptolemy's model of the sky gave right answers for about 1,400 years and was wrong inside."
+    "A model can give right answers and still be built differently from the real thing."
    ],
    [
     "Words on a diagram that say 'not to scale' tell you the sizes are not true.",
