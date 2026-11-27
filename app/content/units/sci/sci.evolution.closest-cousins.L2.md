@@ -243,6 +243,24 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   *Parent says:* Which act was the hardest to guess? Which one do people do too?  
   *Child mode:* Which act was hardest to guess? Tell the others why.
   - Check: Which of these do people do too? → **Hug and make up after a quarrel**
+### old1 · Through the Treetops: a board race to the nest (20 min)
+- **rules:** Copy the 23 squares in order onto a big sheet of paper, in a winding path. Each player puts a coin, button or small stone on START.; Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.; Read the square aloud and do what it says. If it asks a question, answer it first. A grown-up reads the answer from the answer sheet.; If the answer is wrong, stay where you are this turn. Hear the right answer and try a new square next turn.; On a forward, back or miss-a-turn square, do what it says. A player who goes back does not do the new square.; The first player to reach HOME wins. At the end, each player says one thing they learned from a square.
+- **Printable board: The forest path: 23 squares:** START: the forest floor; A fig tree is full of ripe fruit. Move ahead 2.; Question: does an ape have a tail?; The next tree is too far. Sway your tree like an orangutan. Move ahead 1.; You did not look with both eyes and missed a branch. Go back 2.; Question: name one ape who lives in Africa.; A termite mound! Strip a twig to make a tool. Move ahead 2.; Grip a branch with your feet like a chimpanzee. Move ahead 1.; Question: what is India's only ape?; A friend grooms your fur. Rest here. Groom a player's hand gently for five seconds.; Question: who watched chimpanzees in Tanzania from 1960?; A storm comes. Hold a big leaf over your head. Move ahead 1.; The trees here were cut down. Go back 3.; Question: what do apes have on their fingers instead of claws?; A silverback gorilla beats his chest. Stay still and miss a turn.; Question: are humans the grandchildren of chimpanzees, or their cousins?; Bonobo friends share their fruit with you. Move ahead 2.; Question: what does an orangutan build almost every night?; You see your face in a pool of water and know it is you. Move ahead 1.; Question: why do apes have eyes at the front of the face?; Gibbons sing their morning duet. Sing it too, then move ahead 1.; Question: why are many apes in danger?; HOME: the nest at the top of the tallest tree
+- **Printable answer sheet: Answers for the grown-up:** Square 3: no. Apes have no tail.; Square 6: a chimpanzee, a bonobo or a gorilla.; Square 9: the hoolock gibbon, in the forests of North-east India.; Square 11: Jane Goodall.; Square 14: nails.; Square 16: cousins. We and chimpanzees share an ancestor from long ago.; Square 18: a nest of branches and leaves.; Square 20: to judge how far away a branch is.; Square 22: their forests are being cut down.
+- **Printable tokens: A counter for each player:** Counter 1; Counter 2; Counter 3; Counter 4
+- **s1 (3 min)**  
+  *Parent does:* 1. Copy the squares onto a big sheet of paper in a winding path. 2. Give each player a counter. 3. Put the die in the middle. 4. Keep the answer sheet with the grown-up.  
+  *Parent says:* We are apes in a forest, heading for the nest at the top of the tallest tree.  
+  *Child mode:* Help draw the path. Put your counter on START.
+- **s2 (15 min)**  
+  *Parent does:* Play as the rules say. When a player answers a question, ask 'How do you know?' before the grown-up says if it is right.  
+  *Parent says:* Read your square. What does it say? How do you know?  
+  *Child mode:* Roll and move. Read your square aloud. Answer questions and do what the square says.
+  - Check: What is India's only ape? → **The hoolock gibbon**
+- **s3 (2 min)**  
+  *Parent does:* When someone reaches the nest, each player says one thing they learned from a square.  
+  *Parent says:* What was one thing you learned about apes in the game?  
+  *Child mode:* Say one thing the game taught you about apes.
 
 ## Experiments
 ### e1 · The Laugh Test: when you laugh, does the air go out or in? (20 min)

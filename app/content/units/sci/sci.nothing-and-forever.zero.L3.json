@@ -1337,6 +1337,92 @@
     }
    ],
    "problem": "Is zero the smallest number? A lift in a tall building goes below the ground floor, to the basement floors. In this activity you use lift buttons and a number line to find out what the numbers below zero are."
+  },
+  {
+   "id": "old1",
+   "title": "Listening to Nothing: what do you hear in a silent minute?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you sit very still for one minute and listen, and then you clap a rhythm with a rest in it. You will find out that a 'silent' minute is full of sounds, and that a rest is a real beat with nothing in it, like a zero.",
+   "problem": "There is almost never perfect silence at home. In this activity you listen for one minute, write down what you hear, and then write a clapped rhythm with 0 for each rest. A zero is a way to write 'nothing here', and it still counts.",
+   "materials": [
+    {
+     "item": "a phone timer",
+     "qty": 1
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "A list of the sounds in your silent minute, and two rhythms written with a dot for each clap and a 0 for each rest.",
+   "setup": [
+    {
+     "art": "A child sitting cross-legged on the floor with eyes closed, back straight and hands on knees.",
+     "caption": "1. Sit cross-legged with your eyes closed and listen for one minute."
+    },
+    {
+     "art": "A notebook with a list of sounds such as fan, horn, bird and breathing.",
+     "caption": "2. Write down every sound you heard."
+    },
+    {
+     "art": "A notebook page with a row of dots and zeros, and two hands clapping beside it.",
+     "caption": "3. Write the rhythm with a dot for a clap and a 0 for a rest."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sit cross-legged on the floor, back straight, hands on your knees. 2. Close your eyes. 3. Set a timer for one minute. 4. Stay as still as a statue and listen. Make no sound.",
+     "say": "For one minute, we do not move and we do not speak. Just listen.",
+     "kid": "Close your eyes. Stay still and listen for one minute. Make no sound."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Open your eyes. Your child writes down every sound they heard, such as a fan, a horn, a bird or their own breathing.",
+     "say": "There was no talking, but was there silence? What did you hear?",
+     "kid": "Write down every sound you heard.",
+     "ask": [
+      {
+       "q": "Was the minute really silent?",
+       "good": [
+        "No. I heard a fan and a horn.",
+        "I heard my own breathing."
+       ]
+      }
+     ],
+     "parent": "There is no perfect silence in a flat. Even a very quiet room has the sound of your own body."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Clap this rhythm together: clap, clap, rest, clap. 2. On the rest, open your hands without a sound. 3. Do it four times. 4. Write the rhythm in the notebook with a dot for each clap and a 0 for each rest.",
+     "say": "A rest is a beat with no sound. We write it with a 0, because the beat is there, but there is nothing in it.",
+     "kid": "Clap, clap, rest, clap. Do it four times. Write it as dot, dot, 0, dot.",
+     "ask": [
+      {
+       "q": "Why do we write a 0 for a rest, and not leave a gap?",
+       "good": [
+        "Without the 0, we would lose the beat.",
+        "The rest is still a beat, even with no sound."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Your child makes up a rhythm with one rest. Clap it and write it. Then make up one with three rests. Clap it and write it. Ask which one sounded more different.",
+     "say": "Now make your own rhythm. First with one rest, then with three rests. Which one sounds more different?",
+     "kid": "Make a rhythm with one rest. Write it. Make one with three rests. Write it. Which sounds more different?"
+    }
+   ]
   }
  ],
  "projects": [

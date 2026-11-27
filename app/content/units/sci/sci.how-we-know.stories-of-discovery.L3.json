@@ -1302,6 +1302,101 @@
      ]
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "Oops Paintings: turn an accident into a picture",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you drop paint on paper and fold it, so the paint makes a shape nobody planned. Then you turn the accident into a picture. You will find out how noticing something unplanned can start a discovery.",
+   "problem": "Many discoveries began as an accident that someone stopped to look at. In this activity you make an accident on purpose. You drop paint, fold the paper and look closely at the shape that appears.",
+   "materials": [
+    {
+     "item": "2 sheets of plain paper",
+     "qty": 1
+    },
+    {
+     "item": "poster paint in two colours, or a few drops of washable ink in water",
+     "qty": 1
+    },
+    {
+     "item": "a spoon or a brush",
+     "qty": 1
+    },
+    {
+     "item": "a crayon or a pencil for the details",
+     "qty": 1
+    },
+    {
+     "item": "an old newspaper to protect the table",
+     "qty": 1
+    }
+   ],
+   "safety": "Use only non-toxic poster paint or washable ink. Wash hands after.",
+   "record": "Write the name of your painting and one thing you noticed that you did not plan.",
+   "setup": [
+    {
+     "art": "A child at a table covered with newspaper dropping a blob of red paint from a spoon in the middle of a folded sheet of paper.",
+     "caption": "1. Fold the paper in half, then open it flat. Drop a blob or two of paint on one side near the fold."
+    },
+    {
+     "art": "A child pressing a folded sheet with both hands, then opening it to show a symmetrical splash of paint.",
+     "caption": "2. Fold the paper over, press it, and open it."
+    },
+    {
+     "art": "A child adding eyes and legs with a crayon to a paint splash so it looks like a creature.",
+     "caption": "3. Turn the shape into a picture with a crayon."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Spread the newspaper on the table. 2. Fold the sheet of paper in half and open it again. 3. Drop one or two blobs of paint, each about the size of a coin, along one side of the fold.",
+     "say": "We are going to make an accident on purpose. Nobody knows what shape it will make.",
+     "kid": "Fold the paper in half and open it. Drop one or two blobs of paint near the fold."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Fold the paper over the paint. 2. Press with both hands for five seconds, from the fold outwards. 3. Open it slowly.",
+     "say": "Press, and then open it slowly. What do you see?",
+     "kid": "Fold the paper and press it for five seconds. Open it slowly. What do you see?",
+     "parent": "If the paint is runny and soaks through, use less next time. If the paint is dry and does not spread, add one drop of water and press again."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Your child looks at the shape from every side and says what it reminds them of. Then they add eyes, legs, wings or words with the crayon.",
+     "say": "Turn it round. What does it look like from this side? What could it become?",
+     "kid": "Turn the paper round. What does the shape remind you of? Draw on it to make it into something.",
+     "ask": [
+      {
+       "q": "What did you see in the shape that you did not plan?",
+       "good": [
+        "A creature or a flower I did not think of.",
+        "The two sides matched, even though I only dropped paint on one side."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Your child gives the painting a name and says one thing they noticed that they did not plan. Write the name on the back.",
+     "say": "Many discoveries began when someone noticed something they did not plan, and then asked about it. What did you notice?",
+     "kid": "Name your painting. Say one thing you noticed that you did not plan.",
+     "ask": [
+      {
+       "q": "What is the difference between an accident and a discovery?",
+       "good": [
+        "A discovery happens when someone notices the accident and asks why.",
+        "If nobody looks at it closely, an accident stays just an accident."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "projects": [

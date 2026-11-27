@@ -990,6 +990,103 @@
      "parent": "This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "Camouflage Hunt: which paper bits hide best?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity your child is a hungry bird hunting bits of paper that are caterpillars. You count which kind is found first. You will see how camouflage, being hard to see against your background, protects living beings.",
+   "problem": "A caterpillar the same colour as a leaf is hard for a bird to see. In this activity, newspaper bits hide on a newspaper floor, and coloured bits do not. Your child is the bird, and you count what gets found.",
+   "materials": [
+    {
+     "item": "3 sheets of newspaper",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of coloured paper, red, yellow or blue",
+     "qty": 1
+    },
+    {
+     "item": "a timer or a phone",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper for a tally",
+     "qty": 1
+    }
+   ],
+   "record": "Make a tally. One row for newspaper bits found and one for coloured bits found, for each round.",
+   "setup": [
+    {
+     "art": "Two hands tearing small fingernail-sized bits from newspaper and coloured paper into two piles.",
+     "caption": "1. Tear 15 small bits from the newspaper and 15 from the coloured paper."
+    },
+    {
+     "art": "Two sheets of newspaper spread on a floor with 30 small bits of newspaper and coloured paper scattered on them.",
+     "caption": "2. Spread newspaper on the floor and scatter all 30 bits."
+    },
+    {
+     "art": "A child crouching over the newspaper, picking up one coloured bit with a finger, a phone timer beside.",
+     "caption": "3. Your child hunts for 30 seconds, as a bird."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tear 15 small bits, each about the size of a fingernail, from one sheet of newspaper. 2. Tear 15 bits of the same size from the coloured paper.",
+     "say": "These are caterpillars. 15 are newspaper-coloured and 15 are bright.",
+     "kid": "Tear 15 small bits from the newspaper and 15 from the coloured paper. Keep them the same size."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Spread the other two sheets of newspaper flat on the floor. 2. Your child looks away. 3. Scatter all 30 bits over the newspaper.",
+     "say": "Close your eyes. I am hiding the caterpillars.",
+     "kid": "Look away while the bits are scattered."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Start the timer for 30 seconds. 2. Your child, the hungry bird, picks up bits one at a time. 3. When the time is up, count and write how many of each kind they picked up.",
+     "say": "You are a hungry bird. You have 30 seconds. Catch as many caterpillars as you can.",
+     "kid": "You are a bird. Pick up as many bits as you can in 30 seconds, one at a time.",
+     "ask": [
+      {
+       "q": "Which kind was easier to find?",
+       "good": [
+        "The coloured ones.",
+        "The newspaper ones were hard to see."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Do another round for 30 seconds without putting the picked bits back. 2. Count again. 3. Look together for the bits that are still hiding.",
+     "say": "Which ones are still hiding? Why can we not see them?",
+     "kid": "Hunt for 30 more seconds. Count again. Which ones are still hiding?",
+     "parent": "If your child finds nearly every bit, shorten the hunt to 15 seconds. If they find almost none, use a brighter paper."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Look at the tally together. Ask your child to say what it shows.",
+     "say": "Camouflage means looking like your background. Some caterpillars look like leaves, so birds miss them. If you were a caterpillar, what would you look like?",
+     "kid": "Look at your tally. Which bits hid best? Why do you think so?",
+     "ask": [
+      {
+       "q": "What does the tally tell us about camouflage?",
+       "good": [
+        "Bits that look like the background are found last.",
+        "Bright bits get eaten first, so dull ones survive."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "games": [

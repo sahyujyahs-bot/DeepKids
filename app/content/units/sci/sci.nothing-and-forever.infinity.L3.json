@@ -622,6 +622,136 @@
      "parent": "200 times 40 is 8,000. You can do it as 2 times 4 is 8, then add the zeros. Most children guess too low or say 'infinite'. Both are useful starts."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Mirror Tunnel: do the reflections go on for ever?",
+   "mins": 12,
+   "days": 1,
+   "context": "In this experiment you hold a small mirror in front of a big mirror and count the mirrors you see inside mirrors. You will find out if the reflections really go on for ever, and why they fade.",
+   "problem": "When two mirrors face each other, you see a tunnel of mirrors that seems to go on and on. In this experiment you count the copies, and look at how bright they are, to find out if the tunnel ever ends.",
+   "question": "If two mirrors face each other, do the reflections go on for ever?",
+   "predict": "How many copies of the mirror will you see? Will they go on for ever? Say why you think so.",
+   "fair_test": "We use the same two mirrors, the same room light, and the same spot every time. We count three times and write down all three counts, because one count can be wrong.",
+   "results_table": [
+    "Try",
+    "How many mirror copies I counted",
+    "How bright and what colour were the far copies"
+   ],
+   "materials": [
+    {
+     "item": "a wall mirror or a dressing-table mirror",
+     "qty": 1
+    },
+    {
+     "item": "a small hand mirror, or the mirror from a make-up compact",
+     "qty": 1
+    },
+    {
+     "item": "a well-lit room",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Hold the hand mirror with both hands, standing on a rug, in case it slips. Never point a mirror at the Sun.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Make the mirror tunnel, count the copies three times, and look at how bright they are."
+    }
+   ],
+   "record": "Fill in the table with your three counts and what you saw in the far copies.",
+   "setup": [
+    {
+     "art": "A child standing in front of a wall mirror, holding a small hand mirror just under their eyes facing the wall mirror.",
+     "caption": "1. Stand in front of the big mirror and hold the small mirror under your eyes, facing the big mirror."
+    },
+    {
+     "art": "A child tilting a hand mirror until the wall mirror shows a long line of mirrors inside mirrors, getting smaller.",
+     "caption": "2. Tilt the small mirror until you see the tunnel."
+    },
+    {
+     "art": "A person counting copies on their fingers while looking at a tunnel of mirrors fading to a dim green.",
+     "caption": "3. Count the copies. Look at the far ones."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Ask your child to guess how many copies they will see and whether the tunnel will go on for ever. Write the guess.",
+     "say": "When two mirrors face each other, you see a tunnel. How many mirrors do you think you will count? Will the tunnel go on for ever?",
+     "kid": "Guess how many copies you will see. Will they go on for ever? Say why you think so."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Stand in front of the big mirror. 2. Hold the small mirror just under your eyes, facing the big mirror, with both hands. 3. Tilt the small mirror a little until you see a tunnel of mirrors inside mirrors.",
+     "say": "Hold the small mirror under your eyes. Tilt it slowly until the tunnel appears.",
+     "kid": "Hold the small mirror under your eyes. Tilt it slowly until you see mirrors inside mirrors.",
+     "parent": "If you see only two or three copies, wipe both mirrors with a dry cloth and tilt more slowly, so the mirrors face each other straight on. With no wall mirror, stand two hand mirrors upright on a table facing each other with a small toy between them, and look in from the side."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Your child counts how many mirror copies they can see. Count three times and write down all three counts.",
+     "say": "Count the copies. Count again, then once more. Write down all three.",
+     "kid": "Count the copies you can see. Count three times and write each number.",
+     "ask": [
+      {
+       "q": "Why did we count three times?",
+       "good": [
+        "The counts may not be the same.",
+        "One count can be wrong, so three tries are better."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Ask your child to look at the far copies. Are they as bright as the near ones? What colour are they?",
+     "say": "Look at the copies far away. Are they as bright as the first one? What colour are they?",
+     "kid": "Look at the far copies. Are they as bright as the near ones? What colour are they?",
+     "ask": [
+      {
+       "q": "What is different about the far copies?",
+       "good": [
+        "They are dimmer.",
+        "They look a little green."
+       ]
+      }
+     ],
+     "parent": "You can often count 10 or more. The far copies are dimmer and look a little green, and then the tunnel fades away. The tunnel often curves, because the mirrors do not face each other exactly."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Swap, so the other person holds the mirror and counts. Compare the counts. Explain why the tunnel fades.",
+     "say": "Light bounces from one mirror to the other again and again. Each copy is the light after one more bounce. At every bounce the mirror soaks up a little of the light, so each copy is dimmer. The glass soaks up a little more red light than green light, so the far copies look green. After enough bounces, too little light is left to see. A perfect mirror could keep the tunnel going much longer, but no real mirror is perfect.",
+     "kid": "Swap places. Count again. Why do the far copies fade?",
+     "ask": [
+      {
+       "q": "Do the reflections go on for ever?",
+       "good": [
+        "No. Each bounce loses a little light, so the tunnel fades.",
+        "They look endless, but we cannot see the end because the light runs out."
+       ]
+      },
+      {
+       "q": "What does this test not tell us?",
+       "good": [
+        "It does not tell us what a perfect mirror would do.",
+        "We only tried real mirrors, and they are not perfect."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "activities": [

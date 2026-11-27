@@ -253,6 +253,24 @@ The next morning I come at the same time, as I always do. There is a whole kolam
   *Parent says:* Think about the card 'Your face'. Why did the back say 'nearly'?  
   *Child mode:* Think about your own face. Are your two sides exactly the same?
   - Check: The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'? → **The two sides of a face are close but never exactly the same**
+### old1 · Pattern Path: a board game about patterns that repeat (15 min)
+- **rules:** Copy the 20 squares in order onto a big sheet of paper, in a winding path. Put all the counters on START.; Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.; When you land on a task square, do the task. The other players check it. For the question squares, the grown-up reads the answer from the answer sheet.; On a forward, back or miss-a-turn square, do what it says. If a player has to go back, they do not do the task on the new square.; If you cannot do a task, say what is hard about it and miss nothing. Everyone helps.; The first player to reach HOME wins. Then everyone claps the winner's favourite pattern together.
+- **Printable board: The path: 20 squares:** START; Name a thing with two matching sides.; Clap, clap, stamp. The next player copies it.; Touch something on your body that there is only one of.; A butterfly carries you. Go forward 2.; What comes next? Red, blue, red, blue, ...; Draw half a heart in the air. The next player draws the other half.; Stand on one leg in tree pose and count to five.; You looked in the mirror too long. Miss a turn.; How many arms do most starfish have?; Make your face the same on both sides. Now make it different.; Name a thing that looks the same when you turn it a little.; Bees build six-sided cells. Go forward 2.; Hold the mirror down the middle of the letter H. Does it still look like an H?; Make a pattern with your hands. The next player says what comes next.; Your two hands are a pair. Hold them up and flip one over.; The rain washed half of your kolam away. Go back 2.; Say one thing that comes again every day.; Do a mirror dance move with the player on your left.; HOME
+- **Printable answer sheet: Answers for the grown-up:** Square 2: any thing with two matching sides, such as a butterfly, a leaf or a thali.; Square 5: red.; Square 10: five. A few kinds of starfish have more.; Square 11: either way is fine. Your face is nearly the same on both sides, but never exactly.; Square 12: any answer that still looks right after a small turn, such as a flower or a wheel.; Square 14: yes. The letter H has a line of mirror symmetry down the middle, so the half and the mirror make a whole H.; Square 18: any answer, such as sunrise, meals or the tide.
+- **Printable tokens: A counter for each player:** Counter 1; Counter 2; Counter 3; Counter 4
+- **s1 (3 min)**  
+  *Parent does:* 1. Copy the squares onto a big sheet of paper in a winding path. 2. Put a die, the counters and a small hand mirror on the table. 3. Explain the rules.  
+  *Parent says:* Roll the die and move your counter. Do the task on your square. The first one home wins.  
+  *Child mode:* Help draw the path. Put your counter on START.
+- **s2 (10 min)**  
+  *Parent does:* Play as the rules say. When a task is a pattern or a matching half, ask your child to say how they know.  
+  *Parent says:* How do you know the two sides match? What comes next, and why?  
+  *Child mode:* Roll, move and do the task on your square. Check the other players' tasks.
+  - Check: What comes next? Red, blue, red, blue, ... → **Red**
+- **s3 (2 min)**  
+  *Parent does:* The winner picks a favourite pattern from the game. Everyone claps it together. Ask each player to name one pattern they saw on the board.  
+  *Parent says:* Which pattern was your favourite? Let us all clap it.  
+  *Child mode:* Pick your favourite pattern. Clap it with everyone.
 
 ## Experiments
 ### e1 · The Mirror Test: can half a thing and a mirror make the whole? (20 min)

@@ -318,6 +318,35 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
   *Child mode:* Think about where the light goes when it enters the hole.
   - Note: Listen for this idea: the light goes into the hole and does not come back out, so almost none reaches your eyes. If your child says only that the hole is black, ask where the light went.
   - Check: In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why? → **Almost no light comes back out of the hole**
+### old1 · Watch Your Pupils: how do our eyes change in dim and bright light? (10 min)
+- **problem:** The black circle in the middle of your eye is a hole called the pupil. It lets light into the eye. In this experiment you watch what the pupil does when the room goes from dim to bright.
+- **question:** What happens to the black circle in the eye when the light changes from dim to bright?
+- **predict:** Will the black circle get bigger or smaller when the light comes on? Say why you think so.
+- **fair test:** We use the same room, the same person, the same eye and the same distance, about 30 centimetres, every time. We change only the light. We try three times, because one try can be a fluke.
+- **safety:** Never point a lamp or torch into anyone's eyes. Never look at the Sun.
+- **record:** Fill in the table. Draw the pupil as a small circle inside a bigger circle, once big and once small.
+- **results table:** Try | What the pupil looked like in the dim light | What the pupil did when the light came on
+- **s1 (2 min)**  
+  *Parent does:* Ask your child to guess whether the pupil will get bigger or smaller when the light comes on, and why. Write the guess down.  
+  *Parent says:* Look at the black circle in my eye. When the light comes on, what do you think it will do? Why?  
+  *Child mode:* Guess if the black circle gets bigger or smaller in bright light. Say why you think so.
+  - Ask: Why do you think the pupil will do that? (good: It will shrink to keep out too much light.; It will get bigger to let in more light.)
+- **s2 (2 min)**  
+  *Parent does:* 1. Draw the curtains and switch off the room light, so the room is dim. 2. Your partner covers their eyes with their palms, and keeps them closed, for 30 seconds. 3. Sit face to face, 30 centimetres apart.  
+  *Parent says:* We wait in the dim light, so the pupil has time to open wide. Cover your eyes. I will count 30.  
+  *Child mode:* Sit facing your partner. Cover your eyes with your palms. Wait for 30 seconds.
+  - Note: If the eyes are dark brown, the pupil is hard to see against the brown. Look at where the black meets the brown, and sit near a window with the curtain half open, so a little light falls on the face from the side.
+- **s3 (4 min)**  
+  *Parent does:* 1. Your partner lowers their hands and looks at you. 2. Switch on the room light at the same moment. 3. Watch the pupil for 3 seconds. 4. Write what you saw. 5. Do it three times, with 30 seconds in the dim light before each try.  
+  *Parent says:* Look at the black circle the moment the light comes on. Does it get bigger or smaller?  
+  *Child mode:* Watch the black circle as the light comes on. Does it get bigger or smaller? Do it three times.
+  - Ask: What did the pupil do when the light came on? (good: It got smaller very fast.; It shrank, and then it settled.)
+- **s4 (2 min)**  
+  *Parent does:* Switch the room light off again and let your partner look at you. Watch the pupil as the light goes. Draw a big pupil and a small pupil.  
+  *Parent says:* The pupil is a hole that lets light in. In dim light it opens wide to catch as much light as it can. In bright light it closes, to protect the inside of the eye. It happens on its own, and you do not decide it. What would happen if the pupil stayed small at night?  
+  *Child mode:* Watch as the light goes off. Draw a big pupil and a small pupil.
+  - Ask: Why does the pupil open wide in the dark? (good: To let in as much light as possible.; So we can see a little in the dark.)
+  - Ask: What does this test not tell us? (good: It does not tell us how the eye decides to change.; We only looked at people, so we do not know about other animals.)
 
 ## Activities
 ### a1 · The Door Test: does the dark come out? (8 min)

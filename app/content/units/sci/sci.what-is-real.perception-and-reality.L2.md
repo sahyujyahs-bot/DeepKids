@@ -336,6 +336,32 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Parent says:* People who have noticed they were dreaming often say that, in the dream, words and clocks changed when they looked again. Awake, the word stays the same. What would you check tonight, if you thought you were dreaming?  
   *Child mode:* In dreams, words and clocks may change. When you are awake, they stay the same. What would you check?
   - Note: This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream.
+### old1 · Camouflage Hunt: which paper bits hide best? (15 min)
+- **problem:** A caterpillar the same colour as a leaf is hard for a bird to see. In this activity, newspaper bits hide on a newspaper floor, and coloured bits do not. Your child is the bird, and you count what gets found.
+- **record:** Make a tally. One row for newspaper bits found and one for coloured bits found, for each round.
+- **s1 (4 min)**  
+  *Parent does:* 1. Tear 15 small bits, each about the size of a fingernail, from one sheet of newspaper. 2. Tear 15 bits of the same size from the coloured paper.  
+  *Parent says:* These are caterpillars. 15 are newspaper-coloured and 15 are bright.  
+  *Child mode:* Tear 15 small bits from the newspaper and 15 from the coloured paper. Keep them the same size.
+- **s2 (2 min)**  
+  *Parent does:* 1. Spread the other two sheets of newspaper flat on the floor. 2. Your child looks away. 3. Scatter all 30 bits over the newspaper.  
+  *Parent says:* Close your eyes. I am hiding the caterpillars.  
+  *Child mode:* Look away while the bits are scattered.
+- **s3 (4 min)**  
+  *Parent does:* 1. Start the timer for 30 seconds. 2. Your child, the hungry bird, picks up bits one at a time. 3. When the time is up, count and write how many of each kind they picked up.  
+  *Parent says:* You are a hungry bird. You have 30 seconds. Catch as many caterpillars as you can.  
+  *Child mode:* You are a bird. Pick up as many bits as you can in 30 seconds, one at a time.
+  - Ask: Which kind was easier to find? (good: The coloured ones.; The newspaper ones were hard to see.)
+- **s4 (3 min)**  
+  *Parent does:* 1. Do another round for 30 seconds without putting the picked bits back. 2. Count again. 3. Look together for the bits that are still hiding.  
+  *Parent says:* Which ones are still hiding? Why can we not see them?  
+  *Child mode:* Hunt for 30 more seconds. Count again. Which ones are still hiding?
+  - Note: If your child finds nearly every bit, shorten the hunt to 15 seconds. If they find almost none, use a brighter paper.
+- **s5 (2 min)**  
+  *Parent does:* Look at the tally together. Ask your child to say what it shows.  
+  *Parent says:* Camouflage means looking like your background. Some caterpillars look like leaves, so birds miss them. If you were a caterpillar, what would you look like?  
+  *Child mode:* Look at your tally. Which bits hid best? Why do you think so?
+  - Ask: What does the tally tell us about camouflage? (good: Bits that look like the background are found last.; Bright bits get eaten first, so dull ones survive.)
 
 ## Projects
 ### p1 · My Book of Real Things I Cannot See (32 min, 4 days)

@@ -1527,6 +1527,88 @@
      "caption": "2. See the colour again. Say its number."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Neuron Squeeze: pass a message down a line",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity a line of people holding hands passes a squeeze from one to the next, and you time it. You will feel how a message passes from nerve cell to nerve cell, and why real nerve cells are much faster than people.",
+   "problem": "A message from your finger to your brain passes along a chain of nerve cells called neurons. In this activity each person plays one neuron, and each joined pair of hands is a synapse, the place where one neuron passes the message on to the next.",
+   "materials": [
+    {
+     "item": "at least 3 people, more is better",
+     "qty": 3
+    },
+    {
+     "item": "a phone timer that shows seconds",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "record": "Write the three times in seconds. Then write the time for the 'go' try.",
+   "setup": [
+    {
+     "art": "Five people sitting in a line, holding hands, the first one holding a phone timer.",
+     "caption": "1. Sit in a line, holding hands."
+    },
+    {
+     "art": "A hand squeezing the next person's hand along a line of people, the last person raising their hand.",
+     "caption": "2. Pass the squeeze from person to person. The last one says 'Done!'."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Everyone sits in a line, holding hands. Say that each person is a neuron and each pair of joined hands is a synapse.",
+     "say": "Each of us is a nerve cell. Our hands are the places where one cell passes the message to the next. When the first person squeezes, we pass it on as fast as we can.",
+     "kid": "Sit in a line and hold hands. You are a neuron."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. The first person starts the timer and squeezes the next person's hand. 2. Each person squeezes the next as soon as they feel it. 3. The last person says 'Done!' and stops the timer. 4. Do it three times and write each time.",
+     "say": "Squeeze the next hand as soon as you feel it. How long did the message take? Does it get faster with practice?",
+     "kid": "Squeeze the next hand as soon as you feel a squeeze. Do it three times. Write each time.",
+     "ask": [
+      {
+       "q": "Did the message get faster with practice?",
+       "good": [
+        "Yes, a little.",
+        "Not much, because each of us needed time to feel it first."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Now pass the message by saying 'go' to the next person instead of squeezing. Time it once. Compare with the squeeze.",
+     "say": "Now whisper 'go' to the next person. Is it faster or slower than the squeeze?",
+     "kid": "Pass the message by saying 'go'. Is it faster or slower?"
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Work out how long the message would take if each person were a real neuron. If the line is 5 people and about 5 metres long, and the fastest nerves carry messages about 100 metres every second, then 5 ÷ 100 = 0.05 seconds. That is much faster than the line.",
+     "say": "In the fastest nerves, messages travel about 100 metres a second. Our line took much longer. Why? Each of us has to feel the squeeze and decide, and real neurons do not need to.",
+     "kid": "Compare your time with 0.05 seconds. Why was your line so much slower?",
+     "ask": [
+      {
+       "q": "Why is the real body so much faster than our line?",
+       "good": [
+        "Real neurons pass the message by tiny electrical and chemical signals.",
+        "We took time to feel and think, but a neuron passes it on at once."
+       ]
+      }
+     ],
+     "parent": "The model leaves things out. A real neuron carries the message as a tiny electrical signal along its length, and a chemical crosses the synapse to the next neuron."
+    }
+   ]
   }
  ],
  "projects": [

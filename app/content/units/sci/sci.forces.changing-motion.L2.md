@@ -440,6 +440,27 @@ Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long t
   *Child mode:* Turn the ball three ways. Write one line about each. Read your book to someone.
   - Ask: What is the same about every page of your book? (good: A push or a pull made every change.; There is a force on every page.; Something pushed each thing.)
   - Wait: Day 3
+### p1x · Design a Catapult: does a bigger bend throw further? (45 min, 3 days)
+- **safety:** Shoot only at an empty floor or a wall. Never aim at a person, an animal or a face. Keep fingers out of the rubber bands when they are stretched.
+- **record:** A chart with three rows for how far you press the spoon. Write how far the ball went on each of three tries.
+- **schedule:** day 1: Build the catapult and shoot a first ball to check it works. (15 min); day 2: Test two press depths, three tries each, and measure. (15 min); day 3: Test a third depth, fill in the chart and explain what you found. (15 min)
+- **s1 (15 min)**  
+  *Parent does:* 1. Stack six ice-cream sticks and put a rubber band round each end. 2. Lay the handle of the plastic spoon on top of the stack, with the spoon's bowl sticking out past the edge. 3. Wind two rubber bands tightly round the handle and the stack. 4. Tape the stack to the table edge. 5. Put the paper ball in the bowl, press the bowl down with one finger and let go.  
+  *Parent says:* The spoon is a spring. When we press it down it bends, and when we let go it springs back and throws the ball.  
+  *Child mode:* Tie the spoon to the sticks. Put the paper ball in the spoon. Press down and let go.
+  - Note: If the spoon cracks, use a more bendy one. If the spoon is too stiff to throw, use a thinner plastic spoon. A ball that just drops means the spoon was not bent enough or the rubber bands were loose.
+- **s2 (15 min)**  
+  *Parent does:* 1. Mark the starting spot on the floor. 2. Press the spoon down until its bowl is 3 centimetres above the table, and let go. 3. Measure where the ball lands. 4. Do it three times and write down each distance. 5. Do the same with the bowl pressed all the way to the table.  
+  *Parent says:* We change only one thing, how far we press. The same spoon, the same ball and the same table. We try three times, because one try can be a fluke.  
+  *Child mode:* Press the spoon down a little and let go. Measure how far the ball went. Do it three times. Then press all the way down and do it three times.
+  - Ask: Which press sent the ball furthest? (good: Pressing all the way to the table.; The bigger bend threw the ball further.)
+  - Note: Measure from the spot under the spoon to where the ball first lands. Use heel-to-toe steps if you have no tape.
+- **s3 (15 min)**  
+  *Parent does:* 1. Press the bowl halfway down and shoot three times. 2. Fill in the chart. 3. Ask your child to explain which part of the catapult is bending and springing back.  
+  *Parent says:* The spoon's handle bends and then springs back. The more it bends, the more springy energy it stores, so the more it pushes on the ball.  
+  *Child mode:* Press halfway and shoot three times. Fill in the chart. Which part bends and springs back? Tell your grown-up why a bigger bend throws further.
+  - Ask: What happens to the speed of the ball when the spoon bends more? (good: The ball goes faster, so it travels further.; A bigger push makes a bigger change in the ball's motion.)
+  - Check: You press the spoon further down. What do you expect? → **The ball goes further**
 
 ## Challenges
 ### c1 · Round the Bend: get the ball into the tumbler (20 min)

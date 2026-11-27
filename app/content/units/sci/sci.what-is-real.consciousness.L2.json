@@ -840,6 +840,117 @@
      "think": "Your sour is yours. How do other people find out about it?"
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Sticker Test: who knows the face in the mirror is their own?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this experiment you put a sticker on your child's forehead without saying anything, and then you give them a mirror. You see if they touch their own forehead. You will find out what it means to know yourself in a mirror.",
+   "problem": "A scientist named Gordon Gallup invented the mirror test in 1970. He put a mark on an animal where it could only see the mark in a mirror. In this experiment you do the same, to find out who knows that the face in the mirror is themselves.",
+   "question": "When we put a mark on a face and show a mirror, who touches the mark on their own face?",
+   "predict": "Will your child touch the mark? Will a pet? Will a baby? Say why you think so.",
+   "fair_test": "We use the same kind of sticker in the same place on the forehead, and the same mirror, every time. First we look to see what each one does with the mirror and no sticker. Then we add the sticker. We give each one one try with the sticker, and write down what they really did.",
+   "results_table": [
+    "Who looked in the mirror",
+    "Touched the mark on their own face? (yes or no)",
+    "What they did"
+   ],
+   "materials": [
+    {
+     "item": "a small skin-safe sticker or a bindi",
+     "qty": 1
+    },
+    {
+     "item": "a hand mirror made of plastic or steel",
+     "qty": 1
+    },
+    {
+     "item": "a pet, if you have one",
+     "qty": 1
+    },
+    {
+     "item": "a toddler who is visiting, only with their parent's permission",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Use a skin-safe sticker. Never force a person or an animal to look in a mirror. Stop if they seem upset.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Test your child, a pet if you have one, and a toddler if one is visiting. Write down what each one did."
+    }
+   ],
+   "record": "Fill in the table with what each one did.",
+   "setup": [
+    {
+     "art": "A parent gently pressing a small round sticker on a smiling child's forehead during a hug.",
+     "caption": "1. During a hug, press the sticker on the forehead without saying anything."
+    },
+    {
+     "art": "A child holding a hand mirror and reaching up to touch a bindi on their own forehead.",
+     "caption": "2. Hand over the mirror. Watch what the child does."
+    },
+    {
+     "art": "A cat sitting in front of a hand mirror held by a person, looking at the mirror.",
+     "caption": "3. If you have a pet, hold the mirror in front of them."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Ask your child to guess who will touch the mark. Write the guesses. Then, during a hug or a tickle, put the sticker on your child's forehead without saying anything about it.",
+     "say": "Who will touch the sticker on their own face, do you think? Why?",
+     "kid": "Guess who will touch the mark on their face, you, a pet or a baby. Say why you think so.",
+     "parent": "First show the mirror for a few seconds with no sticker. Watch what your child does. This shows what they do anyway, when nothing is on their face."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Hand your child the mirror. 2. Watch for 10 seconds without speaking. 3. Write down if they touched the sticker on their own forehead.",
+     "say": "Look in the mirror. Do not say anything. I will just watch.",
+     "kid": "Look in the mirror. What do you see?",
+     "ask": [
+      {
+       "q": "What did you do when you saw the sticker?",
+       "good": [
+        "I touched my forehead.",
+        "I knew it was me, so I reached for my own face."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "If you have a pet, hold the mirror in front of them for 10 seconds with no sticker, then with a small sticker on the brow or shoulder if the pet allows it. Write down what they did. Do not force them to look. If a toddler is visiting and their parent agrees, try the sticker and mirror with them too.",
+     "say": "What does your pet do? Does it look behind the mirror, ignore it or touch the sticker?",
+     "kid": "Hold the mirror in front of the pet. What does the pet do?",
+     "parent": "Most pets ignore the mirror or treat the reflection as another animal. Children from about 18 months to 2 years often touch the mark. Younger babies often treat the baby in the mirror as a playmate."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Fill in the table together. Say what the test can and cannot tell us.",
+     "say": "Touching a mark on your own face after you see it in a mirror shows you know the reflection is you. Chimpanzees, Asian elephants and magpies have passed versions of this test. But a dog lives by smell, so a mirror may not be a fair test for a dog. What other test would you try?",
+     "kid": "Fill in the table. What other test could we use for an animal that lives by smell?",
+     "ask": [
+      {
+       "q": "If a dog does not touch the mark, does that mean it does not know itself?",
+       "good": [
+        "No. A dog may know itself by smell, not by sight.",
+        "Not for sure. The test uses sight, so it may be unfair for a dog."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "activities": [

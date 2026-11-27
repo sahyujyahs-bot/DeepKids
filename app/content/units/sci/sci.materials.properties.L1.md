@@ -1,9 +1,9 @@
 # What materials are like, and why smooth things shine
 `sci.materials.properties.L1`
 
-**Summary.** Breathe on a cold steel plate and it goes dull for a moment, then shines again. In this unit you will hunt for hard, soft, rough and smooth things, shine a torch on things to see which are shiny, and make crayon rubbings.
+**Summary.** Breathe on a cold steel plate and it goes dull for a moment, then shines again. In this lesson you will hunt for hard, soft, rough and smooth things, shine a torch on things to see which are shiny, and make crayon rubbings.
 
-**Intro.** *Look at a steel plate. Now breathe 'haaa' on it. Where did the shine go?* The plate was shiny. Your breath made a misty patch, and the patch looked dull. Then the mist went away, and the shine came back. The plate was steel all the time. In this unit you find out what makes a thing shiny or dull. You also find out how things feel when you touch, press and bend them.
+**Intro.** *Look at a steel plate. Now breathe 'haaa' on it. Where did the shine go?* The plate was shiny. Your breath made a misty patch, and the patch looked dull. Then the mist went away, and the shine came back. The plate was steel all the time. In this lesson you find out what makes a thing shiny or dull. You also find out how things feel when you touch, press and bend them.
 
 ## Learning outcomes
 0. By the end I can say if a thing is hard or soft, rough or smooth, bendy or stiff, and shiny or dull, by pressing, touching, bending and looking.
@@ -26,6 +26,8 @@ A steel spoon is hard, smooth, stiff and shiny. A cotton towel is soft, a little
 - e.g. A coconut shell is hard and rough.
 - e.g. A banana leaf is bendy, smooth and shiny.
 - e.g. A chalk stick is hard, dull and stiff. It snaps if you bend it.
+- **Ayurveda:** Describes every substance by twenty pairs of qualities called gunas, such as hard (kathina) and soft (mridu), smooth (shlakshna) and rough (khara). The words are those a hand can feel.
+- **Friedrich Mohs:** In 1812 this German scientist made a scale of ten minerals, from talc to diamond, so hardness could be a number. A number lets people far apart compare.
 ### Hard and soft, rough and smooth · *defined*
 **Definition:** A soft thing changes shape when you press it. A hard thing does not. A rough surface has bumps you can feel. A smooth surface feels flat and even.
 
@@ -33,6 +35,8 @@ Press your thumb into a pillow. It squashes, so it is soft. A steel tumbler does
 - e.g. Idli batter is soft. A spoon goes in easily.
 - e.g. A floor tile is hard and smooth. A coir doormat is hard and rough.
 - e.g. The torn edge of a sheet of paper shows tiny threads, called fibres, like little hairs.
+- **Friedrich Mohs:** Ranked hardness by what scratches what. Diamond scratches everything.
+- **Engineers:** Tell us that hard is not the same as tough. A diamond is very hard yet it can shatter, while soft copper bends without breaking.
 ### Bendy and stiff: shape matters too · *defined*
 **Definition:** A bendy thing bends easily. A stiff thing keeps its shape when you push it. The same material can be bendy or stiff, depending on its shape.
 
@@ -40,6 +44,8 @@ Lay a sheet of paper across two books, and it sags. Fold the same paper into a z
 - e.g. In the paper bridge test, a flat sheet sagged under one coin. The zigzag sheet held many coins.
 - e.g. Cardboard boxes have a wavy layer of paper inside, which makes them stiff.
 - e.g. A banana leaf bends easily, but the thick stem down its middle is stiff.
+- **Engineers:** Make an I-shaped beam stiff by putting material where bending needs most strength, and use less material than a solid bar.
+- **Bamboo:** Is a hollow tube with solid joints, and it is strong yet light. Builders in North East India raise whole houses with it, and it bends in a storm and does not break.
 ### Why a smooth thing shines · *defined*
 **Definition:** Light bounces off most things we see. A very smooth surface reflects light back in one direction, so it shines. A rough surface sends light off in many directions, so it looks dull.
 
@@ -47,6 +53,8 @@ Shine a torch at a steel plate, and a bright spot jumps onto the wall. Smooth st
 - e.g. In the Torch Spot Test, the steel plate, the mirror and the bowl of still water made a bright spot. The cloth and the newspaper did not.
 - e.g. When you splash still water, the bright spot breaks into wobbly pieces.
 - e.g. A polished wooden table shines. Rough, unpolished wood looks dull.
+- **Physicists:** Say a smooth surface sends light back in one direction, so we see a bright shine.
+- **Butterfly and peacock researchers:** Find that the blue of a Morpho butterfly and the shine of a peacock feather come from tiny layers that bounce light, not from smoothness or from colour. The shimmer changes with the angle.
 
 ## Mostly agreed
 - A thing shines when its surface is very smooth. *How we know:* Smooth steel, glass and still water make a bright torch spot. Mist, ripples or scratches make the same things duller. People polish metal to make it shine.
@@ -327,6 +335,29 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   *Parent says:* A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel.  
   *Child mode:* Think about a thick steel spoon and a thin steel wire.
   - Check: A steel spoon is stiff. A thin steel wire bends easily. Why? → **The wire is much thinner**
+### old1 · The Knock Orchestra: what does each material sound like? (10 min)
+- **problem:** Every material has its own sound when you knock it. In this activity you listen to six materials, make a family rhythm, and find out which material quietens a phone alarm best.
+- **safety:** Knock gently. Do not knock a clay pot hard, in case it cracks.
+- **record:** Write each material and one sound word beside it, such as ring, tok, clack, thud or almost nothing.
+- **s1 (3 min)**  
+  *Parent does:* 1. Lay the six objects in a row. 2. Your child knocks each one once, gently, with the steel spoon. 3. Your child says a sound word for each.  
+  *Parent says:* Knock each one softly. Does it ring, tok, clack or make almost no sound? Which one is longest?  
+  *Child mode:* Knock each thing gently. Find a sound word for each one.
+  - Ask: Which material rang for the longest time? (good: The steel one rang the longest.; The cloth made almost no sound.)
+- **s2 (2 min)**  
+  *Parent does:* Knock the cloth and then the steel. Ask your child which one soaked up the sound. Explain that to absorb means to soak up, like a sponge soaks up water.  
+  *Parent says:* The cloth did not ring. It absorbed the knock. That means it soaked up the sound.  
+  *Child mode:* Which material made the least sound? That material absorbs sound. Absorb means soak up.
+- **s3 (2 min)**  
+  *Parent does:* Make a family rhythm. Each person picks a material and knocks it in turn, four knocks each, to make one tune.  
+  *Parent says:* Let us make a tune with all six materials. Each person picks one.  
+  *Child mode:* Pick a material. Knock your part of the family tune.
+- **s4 (3 min)**  
+  *Parent does:* 1. Play a phone alarm at a low volume on the table. 2. Turn the steel tumbler upside down over the phone and listen. 3. Take it off and cover the phone with the thick cloth. 4. Listen again.  
+  *Parent says:* Which covering made the alarm quieter, steel or cloth? Why do you think so?  
+  *Child mode:* Cover the alarm with steel and then with cloth. Which one is quieter?
+  - Ask: Why is a cushion better than steel at making a room quiet? (good: A soft thing soaks up sound.; A hard thing sends sound back, so it keeps ringing.)
+  - Note: If you cannot hear a difference, turn the volume up one step and try again. A thick cushion nearly always quietens the sound more than a thin cloth.
 
 ## Projects
 ### p1 · My Feel Book: one property a day (25 min, 4 days)
@@ -468,11 +499,11 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - Lines painted on roads have tiny glass beads in the paint, so they shine back at car headlights at night.
 
 ## Spotted around us
-- A banana leaf at a meal in Kerala or Tamil Nadu, shiny and smooth on top.
-- Steel tiffin boxes on a dabbawala's crate in Mumbai, shining in the sun.
-- The rough coir doormat at the door of a flat in Kochi, made from coconut husk.
+- A banana leaf at a meal, shiny and smooth on top.
+- Steel tiffin boxes on a dabbawala's crate, shining in the sun.
+- The rough coir doormat at the door of a flat, made from coconut husk.
 - A still lake in Udaipur after sunset, shining with the lights of the city.
-- A bamboo basket at a market in Assam: stiff when woven, though each thin strip is bendy.
+- A bamboo basket at a market: stiff when woven, though each thin strip is bendy.
 
 ## Open questions
 - **Why do people like shiny things so much?** Many people choose shiny things over dull ones. One idea is that shine reminds us of water, which every animal needs. Scientists are still testing this, and nobody knows for sure.
@@ -507,8 +538,8 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about materials, mirrors and touch.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on galleries and a planetarium, good for a family day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on exhibits for children.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with hands-on galleries and a planetarium, good for a family day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on exhibits for children.
 
 ## Things to buy
 
@@ -526,7 +557,7 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/materials-and-their-properties.md: the founder's painting idea for textures (rough wood grain, shiny metal, soft fabric) grew into the crayon rubbings and the Feel Book. The sound, transparency and heat activities belong to other units. The Level 3 unit uses the feely bag, the snap and droop tests, the damp strength test, the vanishing drop and the transparency layers, and Level 2 testing uses the stretch and waterproof tests, so this unit uses the touch hunt, the torch spot test, the breath on a cold plate, the paper bridge and crayon rubbings instead.
+- ideas/by_topic/materials-and-their-properties.md: the founder's painting idea for textures (rough wood grain, shiny metal, soft fabric) grew into the crayon rubbings and the Feel Book. The sound, transparency and heat activities belong to other units. The Level 3 unit uses the feely bag, the snap and droop tests, the damp strength test, the vanishing drop and the transparency layers, and Level 2 testing uses the stretch and waterproof tests, so this lesson uses the touch hunt, the torch spot test, the breath on a cold plate, the paper bridge and crayon rubbings instead.
 - Combined lesson sci-C1-materials-and-their-properties: the property words hard, soft, rough, smooth, bendy and stiff, and its warm-up idea of naming the material of everyday things.
 - Reflection: a smooth surface gives specular (mirror-like) reflection, and a rough surface gives diffuse reflection. Any introductory optics text.
 - Isaac Newton's reflecting telescope, 1668, with a speculum metal mirror (an alloy of copper and tin).

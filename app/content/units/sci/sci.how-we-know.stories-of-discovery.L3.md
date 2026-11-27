@@ -448,6 +448,29 @@ No bonus point on this card.)
   *Parent says:* Three names won the prize. How many names are on your roll?  
   *Child mode:* Scroll your credit roll. Circle Fleming, Florey and Chain. They won the prize in 1945. Who was left out?
   - Ask: Why might the prize name only three people? (good: A Nobel Prize can be shared by at most three people.; They led the work, or were most famous.)
+### old1 · Oops Paintings: turn an accident into a picture (12 min)
+- **problem:** Many discoveries began as an accident that someone stopped to look at. In this activity you make an accident on purpose. You drop paint, fold the paper and look closely at the shape that appears.
+- **safety:** Use only non-toxic poster paint or washable ink. Wash hands after.
+- **record:** Write the name of your painting and one thing you noticed that you did not plan.
+- **s1 (3 min)**  
+  *Parent does:* 1. Spread the newspaper on the table. 2. Fold the sheet of paper in half and open it again. 3. Drop one or two blobs of paint, each about the size of a coin, along one side of the fold.  
+  *Parent says:* We are going to make an accident on purpose. Nobody knows what shape it will make.  
+  *Child mode:* Fold the paper in half and open it. Drop one or two blobs of paint near the fold.
+- **s2 (2 min)**  
+  *Parent does:* 1. Fold the paper over the paint. 2. Press with both hands for five seconds, from the fold outwards. 3. Open it slowly.  
+  *Parent says:* Press, and then open it slowly. What do you see?  
+  *Child mode:* Fold the paper and press it for five seconds. Open it slowly. What do you see?
+  - Note: If the paint is runny and soaks through, use less next time. If the paint is dry and does not spread, add one drop of water and press again.
+- **s3 (4 min)**  
+  *Parent does:* Your child looks at the shape from every side and says what it reminds them of. Then they add eyes, legs, wings or words with the crayon.  
+  *Parent says:* Turn it round. What does it look like from this side? What could it become?  
+  *Child mode:* Turn the paper round. What does the shape remind you of? Draw on it to make it into something.
+  - Ask: What did you see in the shape that you did not plan? (good: A creature or a flower I did not think of.; The two sides matched, even though I only dropped paint on one side.)
+- **s4 (3 min)**  
+  *Parent does:* Your child gives the painting a name and says one thing they noticed that they did not plan. Write the name on the back.  
+  *Parent says:* Many discoveries began when someone noticed something they did not plan, and then asked about it. What did you notice?  
+  *Child mode:* Name your painting. Say one thing you noticed that you did not plan.
+  - Ask: What is the difference between an accident and a discovery? (good: A discovery happens when someone notices the accident and asks why.; If nobody looks at it closely, an accident stays just an accident.)
 
 ## Projects
 ### p1 · My Surprise Notebook (50 min, 5 days)

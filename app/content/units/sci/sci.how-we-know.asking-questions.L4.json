@@ -1801,6 +1801,97 @@
      "parent": "Only check things that are safe. Do not touch electricity, hot things or anything at height. A grown-up can switch things off. If it cannot be checked at home, ask or look it up."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Continent Jigsaw: do the coasts fit?",
+   "mins": 9,
+   "days": 1,
+   "context": "In this activity you cut out South America and Africa from a map and slide them together like jigsaw pieces. You will see the clue that made Alfred Wegener think the continents had moved.",
+   "problem": "In 1912 a German scientist, Alfred Wegener, noticed that the coasts of South America and Africa look as if they could fit together. In this activity you try the same jigsaw yourself and look for other pieces that fit.",
+   "materials": [
+    {
+     "item": "a world map printed or photocopied on one sheet of paper, not a page from a book you want to keep",
+     "qty": 1
+    },
+    {
+     "item": "child-safe scissors",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a large sheet of plain paper",
+     "qty": 1
+    }
+   ],
+   "record": "Draw a quick sketch of the two continents after you slide them together, and write one place where they fit and one place where they do not.",
+   "setup": [
+    {
+     "art": "A world map on a table with a child finding South America and Africa with a finger.",
+     "caption": "1. Find South America and Africa on the map."
+    },
+    {
+     "art": "A child cutting along the coast of South America with child-safe scissors, the cut-out piece beside a cut-out Africa.",
+     "caption": "2. Cut each continent out along its coast."
+    },
+    {
+     "art": "A child sliding the cut-out South America towards the cut-out Africa on a plain sheet until the coasts touch.",
+     "caption": "3. Slide the two pieces together on a plain sheet."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Put the map on the table. 2. Your child points to South America and then to Africa. 3. Your child cuts each one out, close to the coast.",
+     "say": "Find South America and Africa. They are on either side of the Atlantic Ocean. Cut each one out as neatly as you can.",
+     "kid": "Find South America and Africa on the map. Cut each one out along the coast.",
+     "parent": "If you only have an atlas, do not cut it. Trace each continent on thin paper and cut out the tracing."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Your child puts the two pieces on the plain sheet and slides them towards each other until the coasts touch. Turn the pieces round a little if they need it.",
+     "say": "Slide them together. Where do they fit? Where is there a gap?",
+     "kid": "Slide the pieces together. Where do they fit? Where do they not fit?",
+     "ask": [
+      {
+       "q": "What do you notice about the two coasts?",
+       "good": [
+        "The bulge of South America fits into the bend of Africa.",
+        "They fit in some places but not in others."
+       ]
+      }
+     ],
+     "parent": "The fit is rough, not perfect. Coasts change over time, and Wegener also used rocks and fossils that match across the ocean as evidence."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Your child looks at the map for other pieces that might fit. Help them find India and look at the land near it.",
+     "say": "Do any other continents look as if they could fit? Where is India? Long ago India was next to Africa and Antarctica, and it moved north to meet Asia.",
+     "kid": "Look for other pieces that might fit together. Find India."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Ask your child the question and listen. Say that many scientists laughed at Wegener at first. Later, more evidence showed that continents really do move, very slowly.",
+     "say": "If the continents once fitted together, what must have happened since?",
+     "kid": "If these pieces fitted long ago, what must have happened? How could you test your idea?",
+     "ask": [
+      {
+       "q": "What other clue would you look for to see whether the continents were once joined?",
+       "good": [
+        "The same kind of rocks on both sides of the ocean.",
+        "The same fossil plants or animals on two continents."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "projects": [

@@ -1,9 +1,9 @@
 # Galaxies: cities of stars, and our home in the Milky Way
 `sci.story-of-universe.galaxies.L3`
 
-**Summary.** Why does the Milky Way look like a pale band across the night sky? In this unit you will see when two far lights blur into one glow, count rice grains to find the middle of a galaxy, and work out how big the Milky Way is if the solar system were a coin.
+**Summary.** Why does the Milky Way look like a pale band across the night sky? In this lesson you will see when two far lights blur into one glow, count rice grains to find the middle of a galaxy, and work out how big the Milky Way is if the solar system were a coin.
 
-**Intro.** *Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?* In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. This is why the Milky Way looks like a milky glow and not like separate stars. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.
+**Intro.** *Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?* In this lesson you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. This is why the Milky Way looks like a milky glow and not like separate stars. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.
 
 ## Learning outcomes
 0. I can explain that a galaxy is a huge group of stars, gas and dust held together by gravity, and that the Milky Way is our galaxy.
@@ -273,6 +273,37 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Parent says:* What did the long thread show? What did the short thread show? Why could dust fool an astronomer?  
   *Child mode:* Say what the long thread showed. Say what the short thread showed. Why can dust fool you?
   - Note: A good answer: with the long thread, the most grains were towards the middle, so counting can find the middle. With the short thread, every direction looked the same, so the Sun seemed to be in the middle. Dust hides faraway stars, so the Herschels thought the Sun was near the centre. In 1918 Harlow Shapley found the true centre by looking at bright old star clusters, which can be seen from much further away.
+### old1 · The Mystery Dabbas: can we find something hidden by what it does? (10 min)
+- **problem:** Astronomers cannot see dark matter, but they can see what it does to stars and light. In this experiment you cannot see what is inside the dabbas either. You find the one with something heavy inside by what it does when you push it and hang it.
+- **question:** Both dabbas look exactly the same. How can we find out which one has something heavy inside, without opening it or lifting it?
+- **predict:** Which test will show the heavy dabba? What will you notice? Say why you think so.
+- **fair test:** We use two identical dabbas with the same lids. We push each with one finger in the same way, and hang each from the same kind of rubber band in the same place. We try each test three times, because one try can be a fluke.
+- **safety:** Keep the stretched rubber band away from faces, in case it snaps. Hold the dabbas over a bed or a cushion.
+- **record:** Fill in the table with what you noticed in each test, and write which dabba you think is heavy and why.
+- **results table:** Test | Dabba A | Dabba B
+- **s1 (2 min)**  
+  *Parent does:* 1. Your child looks away while a grown-up wraps the dal in cloth and hides it in one dabba. 2. Close both dabbas. 3. Mark them A and B. 4. Ask your child not to lift them or shake them.  
+  *Parent says:* One dabba has something heavy inside. You must not open them or lift them. How could you find out which one has it?  
+  *Child mode:* Look away while the dal is hidden. Do not open or lift the dabbas. How could you find out which one is heavy?
+  - Note: The grown-up does not say which one it is. Do not let the child shake the dabbas, because that gives it away too easily.
+- **s2 (3 min)**  
+  *Parent does:* 1. Put both dabbas on the floor. 2. Your child pushes each one slowly across the floor with one finger. 3. Try each one three times. 4. Write which one is harder to push.  
+  *Parent says:* Push dabba A. Now push dabba B. Which one is harder to push? Why might that be?  
+  *Child mode:* Push each dabba across the floor with one finger. Try each three times. Which one is harder to push?
+  - Ask: Which dabba was harder to push? (good: The heavy one.; The one with the dal in it.)
+- **s3 (3 min)**  
+  *Parent does:* 1. Put each dabba in a cloth bag or knot it in a handkerchief. 2. Loop one rubber band over each knot. 3. Hold the top of each band over a bed or a cushion and lift the dabba. 4. Look at which band stretches more.  
+  *Parent says:* Hold the top of the rubber band. Let the dabba hang. Which rubber band stretches more?  
+  *Child mode:* Hang each dabba from a rubber band over a cushion. Which band stretches more?
+  - Ask: Which band stretched more? (good: The one that held the heavy dabba.; The band with the dal dabba.)
+  - Note: If a band is too thin and might snap, use two bands side by side for both dabbas.
+- **s4 (2 min)**  
+  *Parent does:* Your child says which dabba has the hidden weight and gives the reason from both tests. Then open both dabbas and check.  
+  *Parent says:* Which dabba has the dal? What are your two reasons? Now let us open them.  
+  *Child mode:* Say which dabba is heavy, and give your reasons from both tests. Open them to check.
+  - Ask: How is this like finding dark matter? (good: We could not see the dal, but we saw what it did.; Astronomers cannot see dark matter, but they see stars moving too fast and light bending.)
+  - Ask: What does this test not tell us? (good: It does not tell us what is inside, only that it is heavy.; We found something with mass, but not what it is.)
+  - Note: Astronomers have seen stars go round galaxies too fast, and light bend round galaxy clusters. Something with mass must be there, adding gravity. A few astronomers think gravity itself works differently instead. Scientists still argue about this.
 
 ## Activities
 ### a1 · What Is That Pale Band? Notice and wonder (10 min)
@@ -555,7 +586,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - The red star Jyeshtha, low in the south-east on summer evenings, near the direction of our galaxy's centre.
 - A rangoli or kolam of white dots that looks like a smooth line from across the street.
 - The word 'galaxy' on phones and shops: it comes from the Greek word for milk.
-- Planetarium shows in Chennai, Bengaluru, Hyderabad and other cities that show the Milky Way as it looks from a dark sky.
+- A planetarium show that shows the Milky Way as it looks from a dark sky.
 
 ## Open questions
 - **What is dark matter made of?** Galaxies seem to need much more gravity than their stars give. Nobody has yet found the particles that might make dark matter, or shown for certain that it is there.

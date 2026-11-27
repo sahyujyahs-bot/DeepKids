@@ -435,6 +435,28 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent says:* Brahmagupta called numbers below zero debts. If you owe 3 rupees and have nothing, you have minus 3.  
   *Child mode:* Brahmagupta called numbers below zero debts. Owing 3 rupees is like having -3.
   - Check: In Leh it is 2 °C in the evening. By night it is 5 degrees colder. What is the temperature now? → **-3 °C**
+### old1 · Listening to Nothing: what do you hear in a silent minute? (10 min)
+- **problem:** There is almost never perfect silence at home. In this activity you listen for one minute, write down what you hear, and then write a clapped rhythm with 0 for each rest. A zero is a way to write 'nothing here', and it still counts.
+- **record:** A list of the sounds in your silent minute, and two rhythms written with a dot for each clap and a 0 for each rest.
+- **s1 (3 min)**  
+  *Parent does:* 1. Sit cross-legged on the floor, back straight, hands on your knees. 2. Close your eyes. 3. Set a timer for one minute. 4. Stay as still as a statue and listen. Make no sound.  
+  *Parent says:* For one minute, we do not move and we do not speak. Just listen.  
+  *Child mode:* Close your eyes. Stay still and listen for one minute. Make no sound.
+- **s2 (2 min)**  
+  *Parent does:* Open your eyes. Your child writes down every sound they heard, such as a fan, a horn, a bird or their own breathing.  
+  *Parent says:* There was no talking, but was there silence? What did you hear?  
+  *Child mode:* Write down every sound you heard.
+  - Ask: Was the minute really silent? (good: No. I heard a fan and a horn.; I heard my own breathing.)
+  - Note: There is no perfect silence in a flat. Even a very quiet room has the sound of your own body.
+- **s3 (3 min)**  
+  *Parent does:* 1. Clap this rhythm together: clap, clap, rest, clap. 2. On the rest, open your hands without a sound. 3. Do it four times. 4. Write the rhythm in the notebook with a dot for each clap and a 0 for each rest.  
+  *Parent says:* A rest is a beat with no sound. We write it with a 0, because the beat is there, but there is nothing in it.  
+  *Child mode:* Clap, clap, rest, clap. Do it four times. Write it as dot, dot, 0, dot.
+  - Ask: Why do we write a 0 for a rest, and not leave a gap? (good: Without the 0, we would lose the beat.; The rest is still a beat, even with no sound.)
+- **s4 (2 min)**  
+  *Parent does:* Your child makes up a rhythm with one rest. Clap it and write it. Then make up one with three rests. Clap it and write it. Ask which one sounded more different.  
+  *Parent says:* Now make your own rhythm. First with one rest, then with three rests. Which one sounds more different?  
+  *Child mode:* Make a rhythm with one rest. Write it. Make one with three rests. Write it. Which sounds more different?
 
 ## Projects
 ### p1 · Zero's journey: a map and a timeline (40 min, 2 days)

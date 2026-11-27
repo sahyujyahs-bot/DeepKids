@@ -1259,6 +1259,130 @@
      ]
     }
    ]
+  },
+  {
+   "id": "p1x",
+   "title": "Design a Catapult: does a bigger bend throw further?",
+   "mins": 45,
+   "days": 3,
+   "context": "In this project you build a spoon catapult and change how far you press it down, one thing at a time. You will see that a bigger bend of the spoon throws the ball further.",
+   "materials": [
+    {
+     "item": "a plastic spoon",
+     "qty": 1
+    },
+    {
+     "item": "ice-cream sticks, to stack as a base",
+     "qty": 6
+    },
+    {
+     "item": "rubber bands",
+     "qty": 2
+    },
+    {
+     "item": "a ball of paper the size of a marble",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape or a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a table",
+     "qty": 1
+    },
+    {
+     "item": "chart paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Shoot only at an empty floor or a wall. Never aim at a person, an animal or a face. Keep fingers out of the rubber bands when they are stretched.",
+   "record": "A chart with three rows for how far you press the spoon. Write how far the ball went on each of three tries.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Build the catapult and shoot a first ball to check it works."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Test two press depths, three tries each, and measure."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Test a third depth, fill in the chart and explain what you found."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A plastic spoon tied to a stack of six ice-cream sticks with two rubber bands, the spoon's bowl sticking out over the edge.",
+     "caption": "1. Tie the spoon to the stack of sticks. The bowl of the spoon sticks out past the stack."
+    },
+    {
+     "art": "A child pressing the bowl of the spoon down with one finger, a paper ball sitting in it.",
+     "caption": "2. Put a paper ball in the spoon. Press down and let go."
+    },
+    {
+     "art": "A tape measure laid on a floor from the catapult to where the ball landed.",
+     "caption": "3. Measure how far the ball went."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Stack six ice-cream sticks and put a rubber band round each end. 2. Lay the handle of the plastic spoon on top of the stack, with the spoon's bowl sticking out past the edge. 3. Wind two rubber bands tightly round the handle and the stack. 4. Tape the stack to the table edge. 5. Put the paper ball in the bowl, press the bowl down with one finger and let go.",
+     "say": "The spoon is a spring. When we press it down it bends, and when we let go it springs back and throws the ball.",
+     "kid": "Tie the spoon to the sticks. Put the paper ball in the spoon. Press down and let go.",
+     "parent": "If the spoon cracks, use a more bendy one. If the spoon is too stiff to throw, use a thinner plastic spoon. A ball that just drops means the spoon was not bent enough or the rubber bands were loose."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Mark the starting spot on the floor. 2. Press the spoon down until its bowl is 3 centimetres above the table, and let go. 3. Measure where the ball lands. 4. Do it three times and write down each distance. 5. Do the same with the bowl pressed all the way to the table.",
+     "say": "We change only one thing, how far we press. The same spoon, the same ball and the same table. We try three times, because one try can be a fluke.",
+     "kid": "Press the spoon down a little and let go. Measure how far the ball went. Do it three times. Then press all the way down and do it three times.",
+     "ask": [
+      {
+       "q": "Which press sent the ball furthest?",
+       "good": [
+        "Pressing all the way to the table.",
+        "The bigger bend threw the ball further."
+       ]
+      }
+     ],
+     "parent": "Measure from the spot under the spoon to where the ball first lands. Use heel-to-toe steps if you have no tape."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. Press the bowl halfway down and shoot three times. 2. Fill in the chart. 3. Ask your child to explain which part of the catapult is bending and springing back.",
+     "say": "The spoon's handle bends and then springs back. The more it bends, the more springy energy it stores, so the more it pushes on the ball.",
+     "kid": "Press halfway and shoot three times. Fill in the chart. Which part bends and springs back? Tell your grown-up why a bigger bend throws further.",
+     "ask": [
+      {
+       "q": "What happens to the speed of the ball when the spoon bends more?",
+       "good": [
+        "The ball goes faster, so it travels further.",
+        "A bigger push makes a bigger change in the ball's motion."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "You press the spoon further down. What do you expect?",
+      "options": [
+       "The ball goes further",
+       "The ball goes less far",
+       "The ball goes the same distance"
+      ],
+      "a": 0,
+      "why": "A bigger bend stores more spring energy. The spoon pushes the ball harder, so the ball starts faster and goes further."
+     }
+    }
+   ]
   }
  ],
  "challenges": [

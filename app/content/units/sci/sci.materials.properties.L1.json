@@ -858,6 +858,109 @@
      }
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Knock Orchestra: what does each material sound like?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you knock on things made of different materials and listen. You will find out that materials sound different, and that soft materials soak up sound.",
+   "problem": "Every material has its own sound when you knock it. In this activity you listen to six materials, make a family rhythm, and find out which material quietens a phone alarm best.",
+   "materials": [
+    {
+     "item": "a steel spoon, to knock with",
+     "qty": 1
+    },
+    {
+     "item": "a steel tumbler or plate",
+     "qty": 1
+    },
+    {
+     "item": "a wooden spoon or a wooden board",
+     "qty": 1
+    },
+    {
+     "item": "a plastic box or bottle",
+     "qty": 1
+    },
+    {
+     "item": "a clay cup or small clay pot",
+     "qty": 1
+    },
+    {
+     "item": "a folded cloth or a cushion",
+     "qty": 1
+    },
+    {
+     "item": "a phone with an alarm sound",
+     "qty": 1
+    }
+   ],
+   "safety": "Knock gently. Do not knock a clay pot hard, in case it cracks.",
+   "record": "Write each material and one sound word beside it, such as ring, tok, clack, thud or almost nothing.",
+   "setup": [
+    {
+     "art": "Six objects in a row on a table: a steel tumbler, a wooden spoon, a plastic box, a clay cup, a folded cloth and a steel spoon.",
+     "caption": "1. Line up the six materials on a table."
+    },
+    {
+     "art": "A child knocking a steel tumbler with a steel spoon, ear tilted to listen.",
+     "caption": "2. Knock each one gently with the steel spoon and listen."
+    },
+    {
+     "art": "A phone playing an alarm placed under an upside-down steel tumbler, then under a thick folded cloth.",
+     "caption": "3. Cover a phone alarm with steel, then with cloth."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the six objects in a row. 2. Your child knocks each one once, gently, with the steel spoon. 3. Your child says a sound word for each.",
+     "say": "Knock each one softly. Does it ring, tok, clack or make almost no sound? Which one is longest?",
+     "kid": "Knock each thing gently. Find a sound word for each one.",
+     "ask": [
+      {
+       "q": "Which material rang for the longest time?",
+       "good": [
+        "The steel one rang the longest.",
+        "The cloth made almost no sound."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Knock the cloth and then the steel. Ask your child which one soaked up the sound. Explain that to absorb means to soak up, like a sponge soaks up water.",
+     "say": "The cloth did not ring. It absorbed the knock. That means it soaked up the sound.",
+     "kid": "Which material made the least sound? That material absorbs sound. Absorb means soak up."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Make a family rhythm. Each person picks a material and knocks it in turn, four knocks each, to make one tune.",
+     "say": "Let us make a tune with all six materials. Each person picks one.",
+     "kid": "Pick a material. Knock your part of the family tune."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Play a phone alarm at a low volume on the table. 2. Turn the steel tumbler upside down over the phone and listen. 3. Take it off and cover the phone with the thick cloth. 4. Listen again.",
+     "say": "Which covering made the alarm quieter, steel or cloth? Why do you think so?",
+     "kid": "Cover the alarm with steel and then with cloth. Which one is quieter?",
+     "ask": [
+      {
+       "q": "Why is a cushion better than steel at making a room quiet?",
+       "good": [
+        "A soft thing soaks up sound.",
+        "A hard thing sends sound back, so it keeps ringing."
+       ]
+      }
+     ],
+     "parent": "If you cannot hear a difference, turn the volume up one step and try again. A thick cushion nearly always quietens the sound more than a thin cloth."
+    }
+   ]
   }
  ],
  "games": [

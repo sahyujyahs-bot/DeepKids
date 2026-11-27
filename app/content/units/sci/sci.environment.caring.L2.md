@@ -379,6 +379,34 @@ I never ate her bread again. But I think she knows that I am grateful.
   *Parent does:* Count the sticks together. Put the string in a bag in the dry waste.  
   *Parent says:* How many sticks did we fill? What could this string have done to a bird if we had left the string here?  
   *Child mode:* Count your sticks. Put the string in the dry waste.
+### old1 · Water Bowl and Bug Hotel: two homes for small visitors (15 min)
+- **problem:** Small creatures need water to drink and a safe, dry place to hide. In a city flat they often have neither. In this activity you give them both on a balcony, a window ledge or a quiet corner of the building.
+- **safety:** A grown-up cuts the bottle and covers the sharp edge with tape. Wash hands after you handle sticks, soil or bark. Never lean over a railing.
+- **record:** Draw each visitor you see, or write what it was and the day. Check every day for a week.
+- **s1 (4 min)**  
+  *Parent does:* 1. Choose a shady, quiet place on a balcony, a window ledge or a corner of the building. 2. Put the dish there. 3. Fill it with water, 2 to 3 centimetres deep. 4. Put the stone in the middle, so the top of the stone is above the water.  
+  *Parent says:* Small birds and bees need to drink. They cannot swim, so they need a stone to stand on.  
+  *Child mode:* Put the dish in a shady, quiet place. Fill it with water. Put a stone in the middle.
+  - Note: If you have no balcony, a window ledge or the corner of a school or building works. Use a lid of a jar if you have no dish.
+- **s2 (2 min) · grown-up needed**  
+  *Parent does:* A grown-up cuts the bottle in half across the middle and keeps the half with the closed bottom. Cover the cut edge all round with tape, so nobody can be scratched.  
+  *Parent says:* A grown-up must do the cutting. Plastic edges can scratch.  
+  *Child mode:* Ask a grown-up to cut the bottle and tape the edge. Stay back while they cut.
+- **s3 (5 min)**  
+  *Parent does:* Your child packs the half bottle tightly with sticks, rolled cardboard, dry leaves and bark. Push them in firmly so they do not fall out.  
+  *Parent says:* Small creatures like tight, dry spaces. Pack it full, with lots of little holes.  
+  *Child mode:* Pack the bottle tightly with sticks, cardboard, leaves and bark. Push each thing in firmly.
+  - Ask: Why must the hotel stay dry? (good: Wet leaves go mouldy.; Small creatures need a dry place to hide.)
+- **s4 (2 min)**  
+  *Parent does:* Lay the bottle on its side in a quiet corner, with its open end facing away from the wind and under a cover. Rain should not run into it.  
+  *Parent says:* This is the hotel. The open end is the door. Put it where rain cannot get in.  
+  *Child mode:* Lay the hotel on its side in a quiet corner. The open end is the door.
+- **s5 (2 min)**  
+  *Parent does:* Make a plan for the week. Change the water every day, so mosquitoes cannot lay eggs in it. Check the hotel each day. Draw any visitors in the notebook.  
+  *Parent says:* Why must we change the water every day? Mosquitoes can lay eggs in still water, and the young hatch in a few days.  
+  *Child mode:* Change the water every day. Check the hotel every day. Draw each visitor.
+  - Ask: Which small visitors do you think will come first, and why? (good: Ants or bees, because the water is easy to find.; Small insects, because they like to hide in tight spaces.)
+  - Note: In summer the dish dries up fast, so refill it. In the rainy season, empty it after a heavy shower and cover the hotel. Visitors may take a few days to arrive, and that is normal.
 
 ## Projects
 ### p1 · Our Loop-Free Week (35 min, 7 days)
@@ -398,6 +426,35 @@ I never ate her bread again. But I think she knows that I am grateful.
   *Parent says:* If every home in our building snipped this many, how many traps would we stop?  
   *Child mode:* Add up the week. Tell a neighbour what you found.
   - Check: Why do we snip loops before they go in the bin? → **So an animal at the dump cannot get trapped in them**
+### old2 · Our Tiny Nature Reserve: a protected corner for two weeks (70 min, 14 days)
+- **safety:** A grown-up holds the pots on a high ledge. Never lean over a railing. Wash hands after you touch soil.
+- **record:** A plan, a sign and a care chart with 14 rows. Each row says Watered? and Who visited?
+- **schedule:** day 1: Choose a corner of a balcony, window ledge or school, about one square metre. Draw a plan. (10 min); day 2: Give the reserve a name and one rule. Make a sign. (10 min); day 3: Plant tulsi, marigold or ixora. Set out the water bowl and the bug hotel. (10 min); day 4: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 5: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 6: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 7: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 8: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 9: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 10: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 11: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 12: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 13: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 14: Show the family and the neighbours who visited. Count the visitors. (10 min)
+- **s1 (10 min)**  
+  *Parent does:* 1. Choose a corner about one square metre, on a balcony, a window ledge, a school or a building. 2. Draw a plan on chart paper with the water bowl, the bug hotel, the plants and a sign.  
+  *Parent says:* Which corner gets some sun and some shade? Where will the water bowl and the hotel go?  
+  *Child mode:* Choose a corner. Draw a plan with the water bowl, the bug hotel, the plants and a sign.
+  - Note: If you have no outdoor corner, a window ledge with one pot and a water dish is enough.
+- **s2 (10 min)**  
+  *Parent does:* Your child gives the reserve a name and one rule, such as 'No sweeping away the dead leaves' or 'No spraying poison'. Write both on a card sign and tape it up.  
+  *Parent says:* Every reserve has a name and a rule. What will yours be?  
+  *Child mode:* Give your reserve a name. Make one rule. Write them on a sign.
+  - Ask: Why is spraying poison against the rule? (good: It kills the small creatures we want to visit.; It can harm bees and butterflies, which need the flowers.)
+- **s3 (10 min)**  
+  *Parent does:* 1. Plant one seedling of tulsi, marigold or ixora in the pot. 2. Put the water dish with a stone in it, and the bug hotel, in the corner. 3. Make the care chart with a row for each day.  
+  *Parent says:* Tulsi, marigold and ixora flowers give food to bees and butterflies. Plants, water and a hiding place are what a visitor needs.  
+  *Child mode:* Plant the seedling. Put out the water and the hotel. Make a care chart.
+- **s4 (30 min)**  
+  *Parent does:* Each day, your child waters the plant, changes the water in the dish, and ticks the care chart. They write down who visited, or draw it.  
+  *Parent says:* Who came today? Did anything stay in the hotel?  
+  *Child mode:* Water the plant. Change the water in the bowl. Tick the chart and write who visited.
+  - Note: If a seedling dies, plant another and write it on the chart. In heavy rain, empty the dish and cover the hotel. Visitors may take days to come. That is normal.
+  - Wait: Do this every day for 10 days
+- **s5 (10 min)**  
+  *Parent does:* Add up the visitors on the chart. Your child shows the family and the neighbours the reserve, and says who came and what helped.  
+  *Parent says:* Who came to our reserve? What did they need? What would you add next?  
+  *Child mode:* Show the reserve to your family and neighbours. Tell them who came.
+  - Ask: What would you add to make more visitors come? (good: More flowers for bees and butterflies.; A shadier place for the water.)
 
 ## Challenges
 ### c1 · A Kite Day That Is Safe for Birds (25 min)

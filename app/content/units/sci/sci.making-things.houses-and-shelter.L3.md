@@ -387,6 +387,36 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
   *Parent says:* Tell me what you think now, what you saw, and why the water went where it did.  
   *Child mode:* Say what you think. Say what you saw. Say why.
   - Check: On a real roof, how must the tiles overlap to keep the rain out? → **Each higher tile lies on top of the tile below it**
+### old1 · The Settling Jar: what is soil made of, and where is the clay? (15 min, 2 days)
+- **problem:** Soil is not one thing. It is a mix of grains of different sizes. In this experiment you let a bottle of muddy water settle and see which grains sink first. The finest layer is clay, the sticky part that holds mud bricks together.
+- **question:** If we shake soil in water and leave it still, do all the grains sink at the same speed?
+- **predict:** What will happen to the soil when we leave it still? Will it all sink at the same speed? Say why you think so.
+- **fair test:** We use one clear plastic bottle with a lid. We shake it for the same time, one minute, and then leave it where nobody moves it. We look at the same times, after 1 minute, 10 minutes and the next day.
+- **safety:** Wash hands with soap after touching soil. Keep the jar where it will not fall.
+- **record:** Fill in the table. Draw the layers you see, with sand at the bottom, then silt, then clay.
+- **results table:** When I looked | What the layers looked like | How tall each layer was, in centimetres
+- **schedule:** day 1: Make the jar, shake it, and watch it settle. (10 min); day 2: Look again, measure the layers, and draw them. (5 min)
+- **s1 (3 min)**  
+  *Parent does:* 1. Ask your child to guess what will happen. 2. Put 3 big spoons of soil in the jar. 3. Fill the jar two thirds with water. 4. Close the lid tightly.  
+  *Parent says:* If we leave this soil still in water, will it all sink at the same speed? What do you think?  
+  *Child mode:* Guess what will happen. Put 3 spoons of soil in the jar and add water. Close the lid.
+  - Note: Use soil from a plant pot or a tree bed. Cocopeat is plant fibre, so it does not settle into layers. If you cannot get soil, use a spoon of fine sand with a spoon of mud.
+- **s2 (2 min)**  
+  *Parent does:* Your child shakes the closed jar hard for one minute, counting with you. Then put it down where nobody will move it.  
+  *Parent says:* Shake it hard for one minute. Then we will put it down and watch.  
+  *Child mode:* Shake the jar hard for one minute. Put it down and do not move it.
+- **s3 (5 min)**  
+  *Parent does:* 1. Watch the jar for the first minute. 2. Look again after 10 minutes. 3. Draw what you see and measure each layer with the ruler.  
+  *Parent says:* Which grains sank first? Which ones are still floating? Why do you think so?  
+  *Child mode:* Watch the jar. Draw what you see after 1 minute and after 10 minutes. Which grains sank first?
+  - Ask: Which grains sank first, big ones or tiny ones? (good: The big, gritty grains.; The sand sank first. The tiny grains stayed floating.)
+- **s4 (5 min)**  
+  *Parent does:* The next day, look at the jar again. Draw the layers and measure each. Say what you notice.  
+  *Parent says:* Soil is a mix of grains of different sizes. Big, heavy sand grains sink fast. Silt grains are smaller and sink more slowly. Clay grains are so tiny you cannot see one, so they sink slowest of all, and some stay floating. Potters clean clay the same way. They mix soil with water, let the sand sink, and take the fine clay from the top. Mud-brick builders use the sticky clay layer to bind the mud.  
+  *Child mode:* Look at the jar. Draw the layers. Which one is the thin smooth layer on top?
+  - Ask: Why does the water stay cloudy for a day or more? (good: Clay grains are so tiny that they sink very slowly.; Some of the finest grains are still floating.)
+  - Ask: Which layer would you want for making a clay pot, and why? (good: The clay, because it is smooth and sticky.; The clay, because the grains are tiny and hold together.)
+  - Note: If the water is still cloudy after a day, that is normal. It is the finest clay. Wait another day if you like.
 
 ## Activities
 ### a1 · What Is Our Home Made Of? A home walk (10 min)

@@ -302,6 +302,40 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
   *Child mode:* One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that?
   - Ask: Was the rice in the tumbler infinite? (good: No. It was several thousand grains. That is a lot, but it is a number.; No, because we could count it.)
   - Note: 200 times 40 is 8,000. You can do it as 2 times 4 is 8, then add the zeros. Most children guess too low or say 'infinite'. Both are useful starts.
+### old1 · The Mirror Tunnel: do the reflections go on for ever? (12 min)
+- **problem:** When two mirrors face each other, you see a tunnel of mirrors that seems to go on and on. In this experiment you count the copies, and look at how bright they are, to find out if the tunnel ever ends.
+- **question:** If two mirrors face each other, do the reflections go on for ever?
+- **predict:** How many copies of the mirror will you see? Will they go on for ever? Say why you think so.
+- **fair test:** We use the same two mirrors, the same room light, and the same spot every time. We count three times and write down all three counts, because one count can be wrong.
+- **safety:** Hold the hand mirror with both hands, standing on a rug, in case it slips. Never point a mirror at the Sun.
+- **record:** Fill in the table with your three counts and what you saw in the far copies.
+- **results table:** Try | How many mirror copies I counted | How bright and what colour were the far copies
+- **s1 (2 min)**  
+  *Parent does:* Ask your child to guess how many copies they will see and whether the tunnel will go on for ever. Write the guess.  
+  *Parent says:* When two mirrors face each other, you see a tunnel. How many mirrors do you think you will count? Will the tunnel go on for ever?  
+  *Child mode:* Guess how many copies you will see. Will they go on for ever? Say why you think so.
+- **s2 (3 min)**  
+  *Parent does:* 1. Stand in front of the big mirror. 2. Hold the small mirror just under your eyes, facing the big mirror, with both hands. 3. Tilt the small mirror a little until you see a tunnel of mirrors inside mirrors.  
+  *Parent says:* Hold the small mirror under your eyes. Tilt it slowly until the tunnel appears.  
+  *Child mode:* Hold the small mirror under your eyes. Tilt it slowly until you see mirrors inside mirrors.
+  - Note: If you see only two or three copies, wipe both mirrors with a dry cloth and tilt more slowly, so the mirrors face each other straight on. With no wall mirror, stand two hand mirrors upright on a table facing each other with a small toy between them, and look in from the side.
+- **s3 (3 min)**  
+  *Parent does:* Your child counts how many mirror copies they can see. Count three times and write down all three counts.  
+  *Parent says:* Count the copies. Count again, then once more. Write down all three.  
+  *Child mode:* Count the copies you can see. Count three times and write each number.
+  - Ask: Why did we count three times? (good: The counts may not be the same.; One count can be wrong, so three tries are better.)
+- **s4 (2 min)**  
+  *Parent does:* Ask your child to look at the far copies. Are they as bright as the near ones? What colour are they?  
+  *Parent says:* Look at the copies far away. Are they as bright as the first one? What colour are they?  
+  *Child mode:* Look at the far copies. Are they as bright as the near ones? What colour are they?
+  - Ask: What is different about the far copies? (good: They are dimmer.; They look a little green.)
+  - Note: You can often count 10 or more. The far copies are dimmer and look a little green, and then the tunnel fades away. The tunnel often curves, because the mirrors do not face each other exactly.
+- **s5 (2 min)**  
+  *Parent does:* Swap, so the other person holds the mirror and counts. Compare the counts. Explain why the tunnel fades.  
+  *Parent says:* Light bounces from one mirror to the other again and again. Each copy is the light after one more bounce. At every bounce the mirror soaks up a little of the light, so each copy is dimmer. The glass soaks up a little more red light than green light, so the far copies look green. After enough bounces, too little light is left to see. A perfect mirror could keep the tunnel going much longer, but no real mirror is perfect.  
+  *Child mode:* Swap places. Count again. Why do the far copies fade?
+  - Ask: Do the reflections go on for ever? (good: No. Each bounce loses a little light, so the tunnel fades.; They look endless, but we cannot see the end because the light runs out.)
+  - Ask: What does this test not tell us? (good: It does not tell us what a perfect mirror would do.; We only tried real mirrors, and they are not perfect.)
 
 ## Activities
 ### a1 · One More Than You: the biggest-number game (8 min)

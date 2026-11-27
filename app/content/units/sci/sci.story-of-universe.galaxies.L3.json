@@ -590,6 +590,138 @@
     }
    ],
    "context": "This is the Rice Galaxy experiment. You count rice grains from inside a paper galaxy, as the Herschels counted stars, and find out how dust fooled them."
+  },
+  {
+   "id": "old1",
+   "title": "The Mystery Dabbas: can we find something hidden by what it does?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this experiment two steel dabbas look the same, but one has dal hidden inside. You find the heavy one by pushing and hanging, without opening or lifting. You will see how astronomers find dark matter in the same way.",
+   "problem": "Astronomers cannot see dark matter, but they can see what it does to stars and light. In this experiment you cannot see what is inside the dabbas either. You find the one with something heavy inside by what it does when you push it and hang it.",
+   "question": "Both dabbas look exactly the same. How can we find out which one has something heavy inside, without opening it or lifting it?",
+   "predict": "Which test will show the heavy dabba? What will you notice? Say why you think so.",
+   "fair_test": "We use two identical dabbas with the same lids. We push each with one finger in the same way, and hang each from the same kind of rubber band in the same place. We try each test three times, because one try can be a fluke.",
+   "results_table": [
+    "Test",
+    "Dabba A",
+    "Dabba B"
+   ],
+   "materials": [
+    {
+     "item": "2 identical steel dabbas or tiffin boxes with lids",
+     "qty": 2
+    },
+    {
+     "item": "a 500 g packet of dal, wrapped in a cloth so it does not rattle",
+     "qty": 1
+    },
+    {
+     "item": "2 strong rubber bands, the thick kind from a newspaper bundle",
+     "qty": 2
+    },
+    {
+     "item": "2 cloth bags or handkerchiefs",
+     "qty": 2
+    },
+    {
+     "item": "a bed or a thick cushion, to hold the dabbas over",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the stretched rubber band away from faces, in case it snaps. Hold the dabbas over a bed or a cushion.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Push both dabbas, hang both dabbas, then say which is heavy and check."
+    }
+   ],
+   "record": "Fill in the table with what you noticed in each test, and write which dabba you think is heavy and why.",
+   "setup": [
+    {
+     "art": "Two identical steel dabbas on a floor, one marked A and one marked B, with a packet of dal wrapped in cloth beside them.",
+     "caption": "1. A grown-up hides the dal in one dabba while the child looks away."
+    },
+    {
+     "art": "A child pushing a steel dabba slowly across a floor with one finger.",
+     "caption": "2. Push each dabba slowly with one finger."
+    },
+    {
+     "art": "A steel dabba tied in a handkerchief hanging from a thick rubber band held over a cushion.",
+     "caption": "3. Hang each dabba from a rubber band over a cushion."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Your child looks away while a grown-up wraps the dal in cloth and hides it in one dabba. 2. Close both dabbas. 3. Mark them A and B. 4. Ask your child not to lift them or shake them.",
+     "say": "One dabba has something heavy inside. You must not open them or lift them. How could you find out which one has it?",
+     "kid": "Look away while the dal is hidden. Do not open or lift the dabbas. How could you find out which one is heavy?",
+     "parent": "The grown-up does not say which one it is. Do not let the child shake the dabbas, because that gives it away too easily."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Put both dabbas on the floor. 2. Your child pushes each one slowly across the floor with one finger. 3. Try each one three times. 4. Write which one is harder to push.",
+     "say": "Push dabba A. Now push dabba B. Which one is harder to push? Why might that be?",
+     "kid": "Push each dabba across the floor with one finger. Try each three times. Which one is harder to push?",
+     "ask": [
+      {
+       "q": "Which dabba was harder to push?",
+       "good": [
+        "The heavy one.",
+        "The one with the dal in it."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Put each dabba in a cloth bag or knot it in a handkerchief. 2. Loop one rubber band over each knot. 3. Hold the top of each band over a bed or a cushion and lift the dabba. 4. Look at which band stretches more.",
+     "say": "Hold the top of the rubber band. Let the dabba hang. Which rubber band stretches more?",
+     "kid": "Hang each dabba from a rubber band over a cushion. Which band stretches more?",
+     "ask": [
+      {
+       "q": "Which band stretched more?",
+       "good": [
+        "The one that held the heavy dabba.",
+        "The band with the dal dabba."
+       ]
+      }
+     ],
+     "parent": "If a band is too thin and might snap, use two bands side by side for both dabbas."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Your child says which dabba has the hidden weight and gives the reason from both tests. Then open both dabbas and check.",
+     "say": "Which dabba has the dal? What are your two reasons? Now let us open them.",
+     "kid": "Say which dabba is heavy, and give your reasons from both tests. Open them to check.",
+     "ask": [
+      {
+       "q": "How is this like finding dark matter?",
+       "good": [
+        "We could not see the dal, but we saw what it did.",
+        "Astronomers cannot see dark matter, but they see stars moving too fast and light bending."
+       ]
+      },
+      {
+       "q": "What does this test not tell us?",
+       "good": [
+        "It does not tell us what is inside, only that it is heavy.",
+        "We found something with mass, but not what it is."
+       ]
+      }
+     ],
+     "parent": "Astronomers have seen stars go round galaxies too fast, and light bend round galaxy clusters. Something with mass must be there, adding gravity. A few astronomers think gravity itself works differently instead. Scientists still argue about this."
+    }
+   ]
   }
  ],
  "activities": [

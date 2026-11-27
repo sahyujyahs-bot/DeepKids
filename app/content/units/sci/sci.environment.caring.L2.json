@@ -721,6 +721,122 @@
      "kid": "Count your sticks. Put the string in the dry waste."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "Water Bowl and Bug Hotel: two homes for small visitors",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you set out a water bowl for birds and bees and build a small hotel for insects from a plastic bottle. You will find out which small creatures visit a place you care for.",
+   "problem": "Small creatures need water to drink and a safe, dry place to hide. In a city flat they often have neither. In this activity you give them both on a balcony, a window ledge or a quiet corner of the building.",
+   "materials": [
+    {
+     "item": "a shallow clay dish, or an old steel plate",
+     "qty": 1
+    },
+    {
+     "item": "a flat stone, about the size of a cricket ball or smaller",
+     "qty": 1
+    },
+    {
+     "item": "a clean plastic bottle, one litre or bigger",
+     "qty": 1
+    },
+    {
+     "item": "dry sticks, each as long as your finger",
+     "qty": 1
+    },
+    {
+     "item": "rolled cardboard, dry leaves and bark",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    },
+    {
+     "item": "child-safe scissors",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the bottle and covers the sharp edge with tape. Wash hands after you handle sticks, soil or bark. Never lean over a railing.",
+   "record": "Draw each visitor you see, or write what it was and the day. Check every day for a week.",
+   "setup": [
+    {
+     "art": "A shallow clay dish on a balcony floor in the shade, filled with water, with a flat stone sticking out of the middle.",
+     "caption": "1. Fill the dish 2 to 3 centimetres deep. Put a stone in the middle for small birds and bees to stand on."
+    },
+    {
+     "art": "An adult cutting a plastic bottle in half with scissors, a roll of tape beside it.",
+     "caption": "2. A grown-up cuts the bottle in half and tapes the cut edge."
+    },
+    {
+     "art": "A bottle half lying on its side in a quiet corner, packed tightly with sticks, rolled cardboard, dry leaves and bark.",
+     "caption": "3. Pack the bottle with sticks, cardboard, leaves and bark. Lay it on its side."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Choose a shady, quiet place on a balcony, a window ledge or a corner of the building. 2. Put the dish there. 3. Fill it with water, 2 to 3 centimetres deep. 4. Put the stone in the middle, so the top of the stone is above the water.",
+     "say": "Small birds and bees need to drink. They cannot swim, so they need a stone to stand on.",
+     "kid": "Put the dish in a shady, quiet place. Fill it with water. Put a stone in the middle.",
+     "parent": "If you have no balcony, a window ledge or the corner of a school or building works. Use a lid of a jar if you have no dish."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "adult": true,
+     "do": "A grown-up cuts the bottle in half across the middle and keeps the half with the closed bottom. Cover the cut edge all round with tape, so nobody can be scratched.",
+     "say": "A grown-up must do the cutting. Plastic edges can scratch.",
+     "kid": "Ask a grown-up to cut the bottle and tape the edge. Stay back while they cut."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Your child packs the half bottle tightly with sticks, rolled cardboard, dry leaves and bark. Push them in firmly so they do not fall out.",
+     "say": "Small creatures like tight, dry spaces. Pack it full, with lots of little holes.",
+     "kid": "Pack the bottle tightly with sticks, cardboard, leaves and bark. Push each thing in firmly.",
+     "ask": [
+      {
+       "q": "Why must the hotel stay dry?",
+       "good": [
+        "Wet leaves go mouldy.",
+        "Small creatures need a dry place to hide."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Lay the bottle on its side in a quiet corner, with its open end facing away from the wind and under a cover. Rain should not run into it.",
+     "say": "This is the hotel. The open end is the door. Put it where rain cannot get in.",
+     "kid": "Lay the hotel on its side in a quiet corner. The open end is the door."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Make a plan for the week. Change the water every day, so mosquitoes cannot lay eggs in it. Check the hotel each day. Draw any visitors in the notebook.",
+     "say": "Why must we change the water every day? Mosquitoes can lay eggs in still water, and the young hatch in a few days.",
+     "kid": "Change the water every day. Check the hotel every day. Draw each visitor.",
+     "ask": [
+      {
+       "q": "Which small visitors do you think will come first, and why?",
+       "good": [
+        "Ants or bees, because the water is easy to find.",
+        "Small insects, because they like to hide in tight spaces."
+       ]
+      }
+     ],
+     "parent": "In summer the dish dries up fast, so refill it. In the rainy season, empty it after a heavy shower and cover the hotel. Visitors may take a few days to arrive, and that is normal."
+    }
+   ]
   }
  ],
  "games": [
@@ -1097,6 +1213,189 @@
       "a": 0,
       "why": "Waste from bins often ends up at open dumps, where cows, dogs and birds search for food. A snipped loop is a strip that cannot close round a foot or a neck."
      }
+    }
+   ]
+  },
+  {
+   "id": "old2",
+   "title": "Our Tiny Nature Reserve: a protected corner for two weeks",
+   "mins": 70,
+   "days": 14,
+   "context": "In this project your family looks after one small corner for two weeks, with plants, water and a bug hotel. You keep a chart of the visitors. You will find out how much life comes to a corner that someone protects.",
+   "materials": [
+    {
+     "item": "a pot or tub with a hole in the bottom, and soil",
+     "qty": 1
+    },
+    {
+     "item": "a tulsi, marigold or ixora seedling",
+     "qty": 1
+    },
+    {
+     "item": "a shallow dish for water",
+     "qty": 1
+    },
+    {
+     "item": "a bug hotel, made by packing a cut plastic bottle with sticks, rolled cardboard and dry leaves",
+     "qty": 1
+    },
+    {
+     "item": "chart paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a piece of card, for the sign",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up holds the pots on a high ledge. Never lean over a railing. Wash hands after you touch soil.",
+   "record": "A plan, a sign and a care chart with 14 rows. Each row says Watered? and Who visited?",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose a corner of a balcony, window ledge or school, about one square metre. Draw a plan."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Give the reserve a name and one rule. Make a sign."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Plant tulsi, marigold or ixora. Set out the water bowl and the bug hotel."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 5,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 7,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 8,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 9,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 10,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 11,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 12,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 13,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 14,
+     "mins": 10,
+     "what": "Show the family and the neighbours who visited. Count the visitors."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child drawing a plan on chart paper showing a square corner of a balcony with a pot, a water dish, a bug hotel and a sign.",
+     "caption": "1. Draw a plan of your corner."
+    },
+    {
+     "art": "A child writing a sign on card that says the reserve's name and one rule, taped above a pot of tulsi.",
+     "caption": "2. Make a sign with the name and the rule."
+    },
+    {
+     "art": "A balcony corner with a marigold pot, a water dish with a stone and a bottle hotel, and a butterfly on the flowers.",
+     "caption": "3. Plant, set out the water and the hotel, and watch who comes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Choose a corner about one square metre, on a balcony, a window ledge, a school or a building. 2. Draw a plan on chart paper with the water bowl, the bug hotel, the plants and a sign.",
+     "say": "Which corner gets some sun and some shade? Where will the water bowl and the hotel go?",
+     "kid": "Choose a corner. Draw a plan with the water bowl, the bug hotel, the plants and a sign.",
+     "parent": "If you have no outdoor corner, a window ledge with one pot and a water dish is enough."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Your child gives the reserve a name and one rule, such as 'No sweeping away the dead leaves' or 'No spraying poison'. Write both on a card sign and tape it up.",
+     "say": "Every reserve has a name and a rule. What will yours be?",
+     "kid": "Give your reserve a name. Make one rule. Write them on a sign.",
+     "ask": [
+      {
+       "q": "Why is spraying poison against the rule?",
+       "good": [
+        "It kills the small creatures we want to visit.",
+        "It can harm bees and butterflies, which need the flowers."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Plant one seedling of tulsi, marigold or ixora in the pot. 2. Put the water dish with a stone in it, and the bug hotel, in the corner. 3. Make the care chart with a row for each day.",
+     "say": "Tulsi, marigold and ixora flowers give food to bees and butterflies. Plants, water and a hiding place are what a visitor needs.",
+     "kid": "Plant the seedling. Put out the water and the hotel. Make a care chart."
+    },
+    {
+     "id": "s4",
+     "mins": 30,
+     "do": "Each day, your child waters the plant, changes the water in the dish, and ticks the care chart. They write down who visited, or draw it.",
+     "say": "Who came today? Did anything stay in the hotel?",
+     "kid": "Water the plant. Change the water in the bowl. Tick the chart and write who visited.",
+     "wait": "Do this every day for 10 days",
+     "parent": "If a seedling dies, plant another and write it on the chart. In heavy rain, empty the dish and cover the hotel. Visitors may take days to come. That is normal."
+    },
+    {
+     "id": "s5",
+     "mins": 10,
+     "do": "Add up the visitors on the chart. Your child shows the family and the neighbours the reserve, and says who came and what helped.",
+     "say": "Who came to our reserve? What did they need? What would you add next?",
+     "kid": "Show the reserve to your family and neighbours. Tell them who came.",
+     "ask": [
+      {
+       "q": "What would you add to make more visitors come?",
+       "good": [
+        "More flowers for bees and butterflies.",
+        "A shadier place for the water."
+       ]
+      }
+     ]
     }
    ]
   }

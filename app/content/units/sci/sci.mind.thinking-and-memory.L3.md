@@ -466,6 +466,28 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Child mode:* Count back from 20. Then say the number for each colour.
   - Note: Most children get the colours shown three times right more often than the others. If yours does not, that is a real result too. Calkins found that how often a pair was seen mattered more than anything else she tested.
   - Check: In the Colour and Number Pairs test, which pairs do most children remember best? → **The ones shown three times**
+### old1 · The Neuron Squeeze: pass a message down a line (10 min)
+- **problem:** A message from your finger to your brain passes along a chain of nerve cells called neurons. In this activity each person plays one neuron, and each joined pair of hands is a synapse, the place where one neuron passes the message on to the next.
+- **record:** Write the three times in seconds. Then write the time for the 'go' try.
+- **s1 (2 min)**  
+  *Parent does:* Everyone sits in a line, holding hands. Say that each person is a neuron and each pair of joined hands is a synapse.  
+  *Parent says:* Each of us is a nerve cell. Our hands are the places where one cell passes the message to the next. When the first person squeezes, we pass it on as fast as we can.  
+  *Child mode:* Sit in a line and hold hands. You are a neuron.
+- **s2 (4 min)**  
+  *Parent does:* 1. The first person starts the timer and squeezes the next person's hand. 2. Each person squeezes the next as soon as they feel it. 3. The last person says 'Done!' and stops the timer. 4. Do it three times and write each time.  
+  *Parent says:* Squeeze the next hand as soon as you feel it. How long did the message take? Does it get faster with practice?  
+  *Child mode:* Squeeze the next hand as soon as you feel a squeeze. Do it three times. Write each time.
+  - Ask: Did the message get faster with practice? (good: Yes, a little.; Not much, because each of us needed time to feel it first.)
+- **s3 (2 min)**  
+  *Parent does:* Now pass the message by saying 'go' to the next person instead of squeezing. Time it once. Compare with the squeeze.  
+  *Parent says:* Now whisper 'go' to the next person. Is it faster or slower than the squeeze?  
+  *Child mode:* Pass the message by saying 'go'. Is it faster or slower?
+- **s4 (2 min)**  
+  *Parent does:* Work out how long the message would take if each person were a real neuron. If the line is 5 people and about 5 metres long, and the fastest nerves carry messages about 100 metres every second, then 5 ÷ 100 = 0.05 seconds. That is much faster than the line.  
+  *Parent says:* In the fastest nerves, messages travel about 100 metres a second. Our line took much longer. Why? Each of us has to feel the squeeze and decide, and real neurons do not need to.  
+  *Child mode:* Compare your time with 0.05 seconds. Why was your line so much slower?
+  - Ask: Why is the real body so much faster than our line? (good: Real neurons pass the message by tiny electrical and chemical signals.; We took time to feel and think, but a neuron passes it on at once.)
+  - Note: The model leaves things out. A real neuron carries the message as a tiny electrical signal along its length, and a chemical crosses the synapse to the next neuron.
 
 ## Projects
 ### p1 · My 7-Day Practice Diary (90 min, 7 days)

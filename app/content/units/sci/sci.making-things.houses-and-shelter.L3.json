@@ -1087,6 +1087,129 @@
      }
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Settling Jar: what is soil made of, and where is the clay?",
+   "mins": 15,
+   "days": 2,
+   "context": "In this experiment you shake soil in water and watch it settle into layers. You will find out that soil has grains of different sizes, and which layer is the clay that potters and mud builders use.",
+   "problem": "Soil is not one thing. It is a mix of grains of different sizes. In this experiment you let a bottle of muddy water settle and see which grains sink first. The finest layer is clay, the sticky part that holds mud bricks together.",
+   "question": "If we shake soil in water and leave it still, do all the grains sink at the same speed?",
+   "predict": "What will happen to the soil when we leave it still? Will it all sink at the same speed? Say why you think so.",
+   "fair_test": "We use one clear plastic bottle with a lid. We shake it for the same time, one minute, and then leave it where nobody moves it. We look at the same times, after 1 minute, 10 minutes and the next day.",
+   "results_table": [
+    "When I looked",
+    "What the layers looked like",
+    "How tall each layer was, in centimetres"
+   ],
+   "materials": [
+    {
+     "item": "a clear plastic jar or bottle with a lid, wide enough to put soil in",
+     "qty": 1
+    },
+    {
+     "item": "3 big spoons of soil from a plant pot or tree bed, not cocopeat",
+     "qty": 3
+    },
+    {
+     "item": "water",
+     "qty": 1
+    },
+    {
+     "item": "a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash hands with soap after touching soil. Keep the jar where it will not fall.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make the jar, shake it, and watch it settle."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Look again, measure the layers, and draw them."
+    }
+   ],
+   "record": "Fill in the table. Draw the layers you see, with sand at the bottom, then silt, then clay.",
+   "setup": [
+    {
+     "art": "A clear plastic jar with three spoons of soil on a table, water being poured to two thirds full.",
+     "caption": "1. Put three spoons of soil in the jar. Fill it two thirds with water."
+    },
+    {
+     "art": "A child shaking a closed plastic jar full of muddy water with both hands.",
+     "caption": "2. Close the lid. Shake hard for one minute."
+    },
+    {
+     "art": "A plastic jar on a shelf showing layers: gritty sand at the bottom, a lighter layer of silt, and a thin smooth layer of clay under cloudy water.",
+     "caption": "3. Leave it still and look at the layers."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to guess what will happen. 2. Put 3 big spoons of soil in the jar. 3. Fill the jar two thirds with water. 4. Close the lid tightly.",
+     "say": "If we leave this soil still in water, will it all sink at the same speed? What do you think?",
+     "kid": "Guess what will happen. Put 3 spoons of soil in the jar and add water. Close the lid.",
+     "parent": "Use soil from a plant pot or a tree bed. Cocopeat is plant fibre, so it does not settle into layers. If you cannot get soil, use a spoon of fine sand with a spoon of mud."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Your child shakes the closed jar hard for one minute, counting with you. Then put it down where nobody will move it.",
+     "say": "Shake it hard for one minute. Then we will put it down and watch.",
+     "kid": "Shake the jar hard for one minute. Put it down and do not move it."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Watch the jar for the first minute. 2. Look again after 10 minutes. 3. Draw what you see and measure each layer with the ruler.",
+     "say": "Which grains sank first? Which ones are still floating? Why do you think so?",
+     "kid": "Watch the jar. Draw what you see after 1 minute and after 10 minutes. Which grains sank first?",
+     "ask": [
+      {
+       "q": "Which grains sank first, big ones or tiny ones?",
+       "good": [
+        "The big, gritty grains.",
+        "The sand sank first. The tiny grains stayed floating."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "The next day, look at the jar again. Draw the layers and measure each. Say what you notice.",
+     "say": "Soil is a mix of grains of different sizes. Big, heavy sand grains sink fast. Silt grains are smaller and sink more slowly. Clay grains are so tiny you cannot see one, so they sink slowest of all, and some stay floating. Potters clean clay the same way. They mix soil with water, let the sand sink, and take the fine clay from the top. Mud-brick builders use the sticky clay layer to bind the mud.",
+     "kid": "Look at the jar. Draw the layers. Which one is the thin smooth layer on top?",
+     "ask": [
+      {
+       "q": "Why does the water stay cloudy for a day or more?",
+       "good": [
+        "Clay grains are so tiny that they sink very slowly.",
+        "Some of the finest grains are still floating."
+       ]
+      },
+      {
+       "q": "Which layer would you want for making a clay pot, and why?",
+       "good": [
+        "The clay, because it is smooth and sticky.",
+        "The clay, because the grains are tiny and hold together."
+       ]
+      }
+     ],
+     "parent": "If the water is still cloudy after a day, that is normal. It is the finest clay. Wait another day if you like."
+    }
+   ]
   }
  ],
  "activities": [

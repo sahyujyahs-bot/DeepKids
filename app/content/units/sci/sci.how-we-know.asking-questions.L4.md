@@ -1,9 +1,9 @@
 # Two ideas, one question: how to tell explanations apart
 `sci.how-we-know.asking-questions.L4`
 
-**Summary.** Drops of water appear on the outside of a cold tumbler. Where do they come from? In this unit you will tell what you saw from what you think, write two rival explanations and a test to tell them apart, and measure arm span and height to check an old claim.
+**Summary.** Drops of water appear on the outside of a cold tumbler. Where do they come from? In this lesson you will tell what you saw from what you think, write two rival explanations and a test to tell them apart, and measure arm span and height to check an old claim.
 
-**Intro.** *Fill a steel tumbler with ice water and wait ten minutes. The outside is wet. Nobody poured water there. Where did it come from?* Ask three people and you may hear three answers. One says it leaked through the steel. One says it came from the ice. One says it came out of the air. All three looked at the same wet tumbler. They saw the same drops and told three different stories. In this unit you learn how to tell stories apart. You ask what each story would predict, and then you look for the one result that the stories disagree about.
+**Intro.** *Fill a steel tumbler with ice water and wait ten minutes. The outside is wet. Nobody poured water there. Where did it come from?* Ask three people and you may hear three answers. One says it leaked through the steel. One says it came from the ice. One says it came out of the air. All three looked at the same wet tumbler. They saw the same drops and told three different stories. In this lesson you learn how to tell stories apart. You ask what each story would predict, and then you look for the one result that the stories disagree about.
 
 ## Learning outcomes
 0. I can tell what I saw (an observation) from what I think it means (an inference).
@@ -528,6 +528,29 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   *Parent says:* Which of your if-then sentences gives a different result for the two ideas? That is your deciding question. Can we check it safely?  
   *Child mode:* Find the question the two ideas answer differently. Can you check it safely?
   - Note: Only check things that are safe. Do not touch electricity, hot things or anything at height. A grown-up can switch things off. If it cannot be checked at home, ask or look it up.
+### old1 · The Continent Jigsaw: do the coasts fit? (9 min)
+- **problem:** In 1912 a German scientist, Alfred Wegener, noticed that the coasts of South America and Africa look as if they could fit together. In this activity you try the same jigsaw yourself and look for other pieces that fit.
+- **record:** Draw a quick sketch of the two continents after you slide them together, and write one place where they fit and one place where they do not.
+- **s1 (2 min)**  
+  *Parent does:* 1. Put the map on the table. 2. Your child points to South America and then to Africa. 3. Your child cuts each one out, close to the coast.  
+  *Parent says:* Find South America and Africa. They are on either side of the Atlantic Ocean. Cut each one out as neatly as you can.  
+  *Child mode:* Find South America and Africa on the map. Cut each one out along the coast.
+  - Note: If you only have an atlas, do not cut it. Trace each continent on thin paper and cut out the tracing.
+- **s2 (3 min)**  
+  *Parent does:* Your child puts the two pieces on the plain sheet and slides them towards each other until the coasts touch. Turn the pieces round a little if they need it.  
+  *Parent says:* Slide them together. Where do they fit? Where is there a gap?  
+  *Child mode:* Slide the pieces together. Where do they fit? Where do they not fit?
+  - Ask: What do you notice about the two coasts? (good: The bulge of South America fits into the bend of Africa.; They fit in some places but not in others.)
+  - Note: The fit is rough, not perfect. Coasts change over time, and Wegener also used rocks and fossils that match across the ocean as evidence.
+- **s3 (2 min)**  
+  *Parent does:* Your child looks at the map for other pieces that might fit. Help them find India and look at the land near it.  
+  *Parent says:* Do any other continents look as if they could fit? Where is India? Long ago India was next to Africa and Antarctica, and it moved north to meet Asia.  
+  *Child mode:* Look for other pieces that might fit together. Find India.
+- **s4 (2 min)**  
+  *Parent does:* Ask your child the question and listen. Say that many scientists laughed at Wegener at first. Later, more evidence showed that continents really do move, very slowly.  
+  *Parent says:* If the continents once fitted together, what must have happened since?  
+  *Child mode:* If these pieces fitted long ago, what must have happened? How could you test your idea?
+  - Ask: What other clue would you look for to see whether the continents were once joined? (good: The same kind of rocks on both sides of the ocean.; The same fossil plants or animals on two continents.)
 
 ## Projects
 ### p1 · Streetlight Detective: timer or light sensor? (45 min, 7 days)
@@ -843,7 +866,7 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/how-we-know.md: the grade concept grid on fringe science (testable and falsifiable ideas, replication, belief tracking evidence), used for the explanation 'An idea you can test must be able to fail' and the challenging claims
 - The founder's SCI card for Jocelyn Bell Burnell, whose pulsar discovery and missed prize gave the how-we-found-out story and the big question on credit
-- The Class 3 units on asking questions and fair tests, which this unit builds on: planning and watching become telling rival ideas apart
+- The Class 3 units on asking questions and fair tests, which this lesson builds on: planning and watching become telling rival ideas apart
 - Jocelyn Bell Burnell, accounts of the discovery of pulsars, 1967, and Hewish, Bell, Pilkington, Scott and Collins, 'Observation of a rapidly pulsating radio source', Nature, 1968
 - The 1974 Nobel Prize in Physics, awarded to Antony Hewish and Martin Ryle, for work including the discovery of pulsars
 - Francesco Redi, Esperienze intorno alla generazione degl'insetti, 1668 (the covered and open jars of meat)

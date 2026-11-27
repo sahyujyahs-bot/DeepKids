@@ -296,6 +296,34 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: Can we know if two fours feel the same? (good: No, I can only feel my own sour.; We can only tell each other in words and fingers.)
   - Note: Numbers usually differ a little. If everyone showed the same, the question still stands: is your four the same as mine? There is no way to check from the outside. That is the point of the test. Only after the child has said what they think, read the card on what it is like to be you.
   - Think: Your sour is yours. How do other people find out about it?
+### old1 · The Sticker Test: who knows the face in the mirror is their own? (10 min)
+- **problem:** A scientist named Gordon Gallup invented the mirror test in 1970. He put a mark on an animal where it could only see the mark in a mirror. In this experiment you do the same, to find out who knows that the face in the mirror is themselves.
+- **question:** When we put a mark on a face and show a mirror, who touches the mark on their own face?
+- **predict:** Will your child touch the mark? Will a pet? Will a baby? Say why you think so.
+- **fair test:** We use the same kind of sticker in the same place on the forehead, and the same mirror, every time. First we look to see what each one does with the mirror and no sticker. Then we add the sticker. We give each one one try with the sticker, and write down what they really did.
+- **safety:** Use a skin-safe sticker. Never force a person or an animal to look in a mirror. Stop if they seem upset.
+- **record:** Fill in the table with what each one did.
+- **results table:** Who looked in the mirror | Touched the mark on their own face? (yes or no) | What they did
+- **s1 (2 min)**  
+  *Parent does:* Ask your child to guess who will touch the mark. Write the guesses. Then, during a hug or a tickle, put the sticker on your child's forehead without saying anything about it.  
+  *Parent says:* Who will touch the sticker on their own face, do you think? Why?  
+  *Child mode:* Guess who will touch the mark on their face, you, a pet or a baby. Say why you think so.
+  - Note: First show the mirror for a few seconds with no sticker. Watch what your child does. This shows what they do anyway, when nothing is on their face.
+- **s2 (3 min)**  
+  *Parent does:* 1. Hand your child the mirror. 2. Watch for 10 seconds without speaking. 3. Write down if they touched the sticker on their own forehead.  
+  *Parent says:* Look in the mirror. Do not say anything. I will just watch.  
+  *Child mode:* Look in the mirror. What do you see?
+  - Ask: What did you do when you saw the sticker? (good: I touched my forehead.; I knew it was me, so I reached for my own face.)
+- **s3 (3 min)**  
+  *Parent does:* If you have a pet, hold the mirror in front of them for 10 seconds with no sticker, then with a small sticker on the brow or shoulder if the pet allows it. Write down what they did. Do not force them to look. If a toddler is visiting and their parent agrees, try the sticker and mirror with them too.  
+  *Parent says:* What does your pet do? Does it look behind the mirror, ignore it or touch the sticker?  
+  *Child mode:* Hold the mirror in front of the pet. What does the pet do?
+  - Note: Most pets ignore the mirror or treat the reflection as another animal. Children from about 18 months to 2 years often touch the mark. Younger babies often treat the baby in the mirror as a playmate.
+- **s4 (2 min)**  
+  *Parent does:* Fill in the table together. Say what the test can and cannot tell us.  
+  *Parent says:* Touching a mark on your own face after you see it in a mirror shows you know the reflection is you. Chimpanzees, Asian elephants and magpies have passed versions of this test. But a dog lives by smell, so a mirror may not be a fair test for a dog. What other test would you try?  
+  *Child mode:* Fill in the table. What other test could we use for an animal that lives by smell?
+  - Ask: If a dog does not touch the mark, does that mean it does not know itself? (good: No. A dog may know itself by smell, not by sight.; Not for sure. The test uses sight, so it may be unfair for a dog.)
 
 ## Activities
 ### a1 · The Sound That Went Away (10 min)
