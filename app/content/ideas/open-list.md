@@ -7,7 +7,7 @@ Updated 27 Nov 2026. Reminder rule: end replies with the veto-list line; bring t
 - **Songs:** one title per topic (topic_level) is the rule, but units of one topic have different titles (for example the three Class 2 health units). Pause; fix all together later.
 
 ## Her to-do
-- Video veto lists: 106 earlier videos, 109 in the second list, 39 live and 66 not added in the third. New units' videos go on the list too. She will finish them on one day this week; the videos stay live in the app and are removed later if they fail review.
+- Video veto lists: 106 earlier videos, 109 in the second list (veto_list2), 39 live and 66 not added in the third, and 75 new videos in list 4 (app/content/video_veto_list4.md: 58 own, 17 Khan, from the 20 new units). New units' videos go on the list too. She will finish them on one day this week; the videos stay live in the app and are removed later if they fail review.
 - She also checks facts herself by searching.
 
 ## Our to-do (Claude)
