@@ -1,0 +1,1412 @@
+# Final to-do for science and social, Classes 1 to 5
+
+Joins the earlier plan (`science-everything-to-do.md`, `science-social-by-level.md`) with the board depth audit (`../audit/`). Level = Class.
+
+**Units to write** = planned but not written + new science + new social. **Edits** = existing units that need added depth. A planned unit that the audit says must also cover extra board points is listed with those points.
+
+## Class 1
+
+**Units to write: 19** (planned 0, new science 19, new social 0)
+
+### New science units (19)
+- **My family**
+- **About me card**
+- **Caring for food** — 2 board points to cover
+  - ICSE 1: Understands why food should not be wasted, and shows respect for it.
+  - ICSE 1: Makes rhymes, songs or riddles about food.
+- **My house: rooms, light, air, kinds of houses**
+- **Clothes: what we wear and why** — 2 board points to cover
+  - ICSE 1: Names clothes worn by boys and girls at home.
+  - ICSE 2: Suggests ways to care for cotton and silk clothes at home.
+- **Breathe and stretch**
+- **Food for babies, children and grandparents**
+- **Staying safe at home and outside**
+- **My body is mine: safe and unsafe touch** — 1 board points to cover
+  - ICSE 1: Recognises good touch and bad touch, and knows to talk to family about them.
+- **Manners in public places**
+- **Safe messages: who can I trust?** — 1 board points to cover
+  - ICSE 1: Understands that messages can be misused.
+- **Playing fair: games and rules** — 2 board points to cover
+  - ICSE 1: Plays indoor and outdoor games with others and knows the rules.
+  - ICSE 1: Plays indoor and outdoor games for fun and recreation.
+- **Festivals in my family**
+- **Neighbours and the places around my home**
+- **Water at home: storing it and not wasting it**
+- **Air we breathe, air that gets dirty**
+- **Plants near me: land, water and healing plants**
+- **Getting around: transport and traffic signs**
+- **Sending messages: radio, TV, phone and post**
+
+### Existing units to edit (16; 34 additions)
+
+- `sci.animals.birds.L1`
+  - Name local nests (weaver, tailor bird, woodpecker) with pictures.
+  - Add making a nest model from local materials.
+  - Add making a bird bath or water station for birds.
+  - Add a bird diary: colours of head, back, wing and throat, beak, how it moves, and where it sits.
+- `sci.how-we-know.asking-questions.L1`
+  - Follow safety steps in any practical activity; add a card to sci.how-we-know.asking-questions.L1
+  - Simple measuring with hands, cups and rulers; add to sci.how-we-know.asking-questions.L1
+  - Non-standard measuring with hands, blocks and cups; add to sci.how-we-know.asking-questions.L1
+  - Record observations as labelled pictures and simple tables; add to sci.how-we-know.asking-questions.L1
+- `sci.basic-needs.basic-needs.L1`
+  - Name each room of a house and its work; add to sci.basic-needs.basic-needs.L1
+  - Safety rules at home and in public places; add to sci.basic-needs.basic-needs.L1
+  - Draw and label clothes worn by boys and girls, with their use.
+- `sci.environment.caring.L1`
+  - Find causes of filth and garbage around home.
+  - Tree planting and looking after plants, with reasons.
+  - Planting trees keeps the air clean and fresh
+- `sci.family.family.L1`
+  - Personal details: address, phone, birthday, parents' and siblings' names; add to sci.family.family.L1
+  - Contrast joint and nuclear families and give reasons why they differ; add to sci.family.family.L1
+  - Draw a simple three-generation family tree; add to sci.family.family.L1
+- `sci.me-and-others.me-and-others.L1`
+  - Joining group play and shared work; add to sci.me-and-others.me-and-others.L1
+  - Respect families that differ and treat pets kindly; add to sci.me-and-others.me-and-others.L1
+  - Take part in group activities and help with shared work
+- `sci.water.water-sources-and-uses.L1`
+  - Say that most of Earth is covered by water; add to sci.water.water-sources-and-uses.L1
+  - Sort water-using activities from others; add to sci.water.water-sources-and-uses.L1
+  - Colour, taste and smell of water; add to sci.water.water-sources-and-uses.L1
+- `sci.air.air-around-us.L1`
+  - How trees help keep the air fresh; add to sci.air.air-around-us.L1
+  - Show everyday science use and science jobs (doctor, engineer, weather scientist).
+- `sci.weather.weather.L1`
+  - Names of clothes worn at home and at school; add to sci.weather.weather.L1
+  - Draw and colour your own clothes; add to sci.weather.weather.L1
+- `sci.food.healthy-food.L1`
+  - How food differs between families and regions; add to sci.food.healthy-food.L1
+- `sci.food.where-food-comes-from.L1`
+  - Raw and cooked food, and festival food
+- `sci.forces.how-toys-work.L1`
+  - Explain how other familiar objects work; add to a Class 1 unit
+- `sci.habitats.local-environments.L1`
+  - Compare two local places: hot, cold, wet, dry, and their plants and animals.
+- `sci.health.hygiene.L1`
+  - Ways to wash and dry clothes; add to sci.health.hygiene.L1
+- `sci.materials.sorting-materials.L1`
+  - Make and use a yes/no key; add a Class 1 key to sci.materials.sorting-materials.L1
+- `sci.sky.sun-moon-stars.L1`
+  - Make a sun, moon or star craft; add to sci.sky.sun-moon-stars.L1
+
+## Class 2
+
+**Units to write: 7** (planned 0, new science 7, new social 0)
+
+### New science units (7)
+- **Places in my neighbourhood and where to get help**
+- **Looking after pets and birds**
+- **Caring for people who need help** — 3 board points to cover
+  - ICSE 2: Shows care and concern for old, sick and differently abled people.
+  - ICSE 2: Values wheelchairs and ramps in schools and public places.
+  - ICSE 4: Shows care and concern for animals.
+- **My body is mine: safe touch and who to tell** — 2 board points to cover
+  - ICSE 2: Recognises good touch and bad touch, and talks about them with trusted adults.
+  - NCERT 3: Strangers can be unsafe, so children should not go with anyone they do not know, unless a trusted adult is wit
+- **Safe at home: sharp, hot and heavy things** — 1 board points to cover
+  - ICSE 2: Keeps themselves safe from household tools.
+- **Phones and the internet: using them kindly and safely** — 1 board points to cover
+  - ICSE 2: Knows how to guard against misuse of phones and other devices.
+- **What makes vehicles go (fuels)** — 2 board points to cover
+  - ICSE 2: Suggests ways to save petrol and diesel.
+  - ICSE 2: Compares the traffic in cities and in villages.
+
+### Existing units to edit (17; 40 additions)
+
+- `sci.animals.animals-around-us.L2`
+  - Make an animal mask as a craft activity; add to sci.animals.animals-around-us.L2
+  - Look after a pet with care and compassion.
+  - Show care and compassion for pets and other animals.
+  - Animals and birds of land, water and air
+- `sci.body.teeth.L2`
+  - A labelled tooth drawing naming each part and its job
+  - Causes of tooth and gum damage (acid, sugar, hard brushing)
+  - Check-ups and healthy food for teeth and gums
+  - Add datun: neem and babool twigs, how gums are cleaned, and how it compares with a toothbrush.
+- `sci.food.healthy-food.L2`
+  - Why babies, children and elders need different food; add to sci.food.healthy-food.L2
+  - Name cereals and pulses (rice, wheat, dal), fruits, vegetables and milk.
+  - Add repair foods and water's role in the body.
+  - Say why junk food is not good; contrast with healthy food.
+- `sci.light.shadows.L2`
+  - Add that shadow position depends on where the object is.
+  - Teach how shadow length changes; infer conditions (shadows.L4 planned).
+  - Explain why shadow length changes and the Sun's apparent movement.
+  - Shadow puzzles: matching shadows to body parts and objects
+- `sci.space-time.space.L2`
+  - Left, right, above, below, up and down (direction words).
+  - Position words: on, in, above, below.
+  - Left and right, above and below, near and far, up and down
+  - Describing where objects are (on, in, below, above)
+- `sci.health.exercise-and-rest.L2`
+  - Two simple exercises or asanas to try; add to sci.health.exercise-and-rest.L2
+  - Outdoor play and games as exercise and fun.
+  - Add play as a healthy habit, with food, rest and exercise.
+- `sci.how-we-know.asking-questions.L2`
+  - Teach checking results against the prediction: supported or not, and why.
+  - Use a given book or chart to find the answer to a question; add to how-we-know.asking-questions.
+  - Spot increasing or decreasing patterns in a results table; add to how-we-know.fair-tests.L3.
+- `sci.states.solids-liquids-gases.L2`
+  - Teach everyday uses of solids, liquids and gases (food, water, air).
+  - Look, taste, smell and shape of water
+  - Uses of solids, liquids and gases in daily life
+- `sci.animals.insects.L2`
+  - Label head, thorax, abdomen, legs and wings on an insect.
+  - Add soil creatures: ants, termites, beetles, grasshoppers; why some appear in the monsoon.
+- `sci.materials.natural-and-made.L2`
+  - Name cloth materials silk, canvas and rayon; say which are made by people.
+  - Add hard-to-classify materials: sand, sponge, clay, bees' wax versus artificial wax, and plastic waste.
+- `sci.animals.animal-babies.L2`
+  - Safe use and storage of medicines (planned diseases-and-medicines L4); add a Class 2 lesson.
+- `sci.day-night-seasons.seasons.L2`
+  - Clothes worn in each season and festival; add to sci.day-night-seasons.seasons.L2
+- `sci.day-night-seasons.sun-appears-to-move.L2`
+  - Describe the Sun path across the day at a higher level.
+- `sci.electricity.electrical-safety.L2`
+  - General practical safety: follow each step, handle equipment safely.
+- `sci.planet-earth.rocks.L2`
+  - Add riverbeds as a source of rock and pebbles.
+- `sci.plants.plant-senses.L2`
+  - Investigate how a plant or animal responds to a change in its habitat.
+- `sci.waste.sorting-waste.L2`
+  - Use of a dustbin
+
+## Class 3
+
+**Units to write: 13** (planned 0, new science 7, new social 6)
+
+### New science units (7)
+- **Using the Sun's heat and light** — 2 board points to cover
+  - ICSE 3: Explains how a solar cooker, a solar cell and a solar heater work, in simple terms.
+  - NIOS 5: A solar cooker can be made from a wooden or card-board box with black paper inside and outside, a glass cover,
+- **Insects: body, life cycle, friends and foes**
+- **How we breathe: the air path**
+- **Swachh Bharat: small actions for a clean India**
+- **Rainwater harvesting: catching the rain**
+- **Renewable and non-renewable energy**
+- **Models and diagrams: how scientists show ideas** — 4 board points to cover
+  - Cambridge 2: Knows that a model shows an object or idea in a clear way.
+  - Cambridge 2: Describes how a diagram is different from a picture.
+  - Cambridge 3: Knows that there are different types of models in science, including diagrams and physical models.
+  - Cambridge 5: A model shows some important features of an object, process or idea, not all of them.
+
+### New social units (6)
+- **Family, relations and the status of girls and women** — 12 board points to cover
+  - NIOS 3: Joint families share costs and property under a head's decisions, while nuclear families decide together but l
+  - NIOS 3: Family bonds stay strong when members respect and help each other, avoid hurting feelings, and settle differen
+  - NIOS 3: Parents must help children grow healthy, educated, talented, well-mannered and responsible, and they should pr
+  - NIOS 3: Children need regular health care, vaccination, proper food, clothes suited to them, and time to study and pla
+  - NIOS 3: Girls face lower status than boys from birth through practices such as female infanticide, feticide and dowry,
+  - NIOS 3: Laws and schemes support women: equal property rights, maintenance after divorce, equal pay, protection from d
+  - NIOS 3: Women now work as teachers, nurses, doctors and sarpanch, yet many still lack property rights, face violence a
+  - NIOS 3: Elders anchor a family, so family and society must care for them with food, safety and respect, and government
+  - NIOS 3: People with disabilities, including children, deserve dignity, so we never mock them, and society offers speci
+  - NCERT 3: Families play games together indoors and outdoors, and older people pass on the games they played as children.
+  - NCERT 3: Children learn many things from family members and neighbours, and can also teach others.
+  - NIOS 3: Discusses measures to raise the status of women (SLM 1.4).
+- **Professions, public services and our neighbourhood** — 12 board points to cover
+  - NIOS 3: Professions change over time as families grow, children learn new skills, machines arrive and people move to t
+  - NIOS 3: No profession is small or big, because every person depends on others, so respecting and cooperating with ever
+  - NIOS 3: Public services such as hospitals, schools, banks, post offices and police are either government or non-govern
+  - NIOS 3: Hospitals treat patients and vaccinate children, offering free general-ward care, emergency priority and a fre
+  - NIOS 3: Schools must teach children up to class 8 without fees, provide free books and meals, and reserve private-scho
+  - NIOS 3: The post office delivers letters, parcels and money orders, takes savings deposits and teaches small savings s
+  - NIOS 3: Banks keep money and valuables safe, pay interest on deposits, and lend at lower interest for farming, educati
+  - NIOS 3: The police protect people, guard traffic, register FIRs, investigate crimes and keep peace, law and order in s
+  - NIOS 3: Village disputes go first to the Panchayat, then to courts: district court, High Court and the Supreme Court, 
+  - NIOS 3: Municipal bodies and village Panchayats provide water, roads, cleaning, electricity, birth and death registrat
+  - NIOS 3: Respecting public-service workers means cooperating with them and not obstructing their work, such as fighting
+  - NCERT 3: Families and neighbours travel together and look out for one another, especially older members.
+- **Festivals across India and national festivals** — 14 board points to cover
+  - NCERT 3: Kumbh Mela is the world's biggest gathering, held on the banks of rivers every 12 years at four places.
+  - NIOS 3: Festivals across India, whatever the religion or region, carry messages of brotherhood, love, humanity and goo
+  - NIOS 3: Three national festivals are celebrated by everyone: Independence Day, Republic Day and Gandhi Jayanti.
+  - NIOS 3: Makar Sankranti in January, when the sun enters Makar Rashi, is a harvest festival with many regional names an
+  - NIOS 3: Holi welcomes spring; the Holika legend shows good defeating evil, and the festival stresses colour, music and
+  - NIOS 3: Eid-ul-Fitr ends the month of Ramazan fasting after the moon is sighted, with prayer, charity, new clothes, sw
+  - NIOS 3: Guru Nanak Jayanti, also called Prakash Utsav, marks the birth of the first Sikh Guru, and langar serves every
+  - NIOS 3: Dussehra and Durga Puja celebrate victory of good over evil through Navratri fasts, Ramlila plays and burning 
+  - NIOS 3: Deepawali celebrates light over darkness and Rama's return to Ayodhya over five days, but noisy fireworks and 
+  - NIOS 3: Christmas on 25 December marks Jesus Christ's birth and his message of love and service to the poor, shared th
+  - NIOS 3: Mahavir Jayanti and Buddha Purnima honour the non-violence of Lord Mahavira and the compassion of Lord Buddha,
+  - NIOS 3: Festivals can be kept clean and kind by avoiding harmful habits such as smoking, chewing tobacco or drinking, 
+  - NIOS 3: Describes Holi (SLM 3.2).
+  - NIOS 3: Describes Guru Parva, or Guru Nanak Jayanti (SLM 3.4).
+- **Transport and communication: how they grew and road signs** — 1 board points to cover
+  - NIOS 3: Indian railways use broad, metre and narrow gauge tracks; the first train ran from Mumbai to Thane in 1853, an
+- **National flag, anthem, song and symbols**
+- **Globalisation, Right to Education and Right to Information**
+
+### Existing units to edit (67; 242 additions)
+
+- `sci.community.transport-and-communication.L3`
+  - Jobs connected with transport; add to sci.community.transport-and-communication.L3
+  - What makes vehicles noisy; add to sci.community.transport-and-communication.L3
+  - Work of traffic police and emergency vehicles; add to sci.community.transport-and-communication.L3
+  - Ways to cut vehicle smoke and noise; add to sci.community.transport-and-communication.L3
+  - Draw or collect vehicle pictures; add to sci.community.transport-and-communication.L3
+  - Email, SMS and internet at a simple level; add to sci.community.transport-and-communication.L3
+  - Name fuels that run vehicles: petrol, diesel, CNG and electricity.
+  - Explain traffic jams and one way to reduce them.
+  - Good and bad uses of phones, letters and TV.
+  - Email, SMS and internet: how they are used (planned L4 covers then and now).
+  - Using communication for fun: sharing messages and calls.
+  - Demonstrate two ways of communicating (letter, call).
+  - Describe communication in India: post, phones, radio, internet.
+  - Explain telephone, teleprinter and teletext.
+  - Describe radio and television and how they carry messages.
+  - Add how to cross a road safely (look both ways) and why to keep hands and head inside a bus.
+  - Add a hill bus trip: hairpin bends, mountains and tall trees, and the safety rules on the bus.
+  - Add No Parking, Speed Breaker and Men at Work signs; children match them to meanings and draw new ones.
+  - Add why busy roads, roofs without railings and construction sites are unsafe to play on; a park is safer.
+  - Add: the Grand Trunk Road and national highways, built by Sher Shah Suri; rural roads that connect villages.
+  - Add early water transport: fishing boats, then trade ships between countries; Ganga and Hooghly routes.
+  - Add that air travel is fastest, reaching remote places such as Itanagar and Tawang by plane or helicopter.
+  - Add block printing (China), letterpress and computer typesetting as steps in communication history.
+  - Add Indian dates: postal service 1837, telegraph 1860, radio 1920, Doordarshan 1959.
+  - Add teletext, SMS, fax and mandi price information; compare two modern tools and their advantages.
+  - Add metro trains and flyovers, and how a flyover lifts traffic above a busy crossing to save time.
+  - Add the letter's journey: postbox, postman, sorting by region, and money orders and parcels.
+  - Add how slow letters were (weeks), and the risk of false news today; check whether news is true.
+- `sci.community.community-and-helpers.L3`
+  - How to behave in public places; add to sci.community.community-and-helpers.L3
+  - Name people who use science at work (doctor, farmer, engineer, scientist).
+  - How neighbours help one another in daily life.
+  - Say why public places (parks, playgrounds, clinics) matter.
+  - Name local places and what each is used for.
+  - Add steps to keep public places clean (roads, parks, toilets).
+  - Add how and why professions changed over time.
+  - Explain the work of police and courts in a community or government unit.
+  - Add the mela's ambulance, police jeep, fire engine and lost-and-found booth, and what each does.
+  - Add how to use, clean and decorate shared places like parks together for occasions.
+  - Add a group task where a family splits cleaning, planting, watering and cooking into named jobs.
+  - Add school staff (teacher, caretaker, bus driver) and how each role helps the school run.
+  - Add COVID-era health and sanitation workers and the vehicles each public service uses (patrol jeep).
+- `sci.plants.plant-variety.L3`
+  - Water plants (lotus) as well as land plants and climbers.
+  - Name medicinal plants: tulsi, neem, clove, ginger.
+  - Add a lesson on noticing and enjoying leaves and flowers.
+  - Add plants from tiny to tall, and leaf textures and smells; observe and describe the differences.
+  - Add pulses (toor, moong, urad) come from shrubs; grains (rice, wheat, ragi) come from grasses.
+  - Add grass leaves that are thin and flat and grass stems that are hollow, and sorting by stem and leaf.
+  - Add grass as a sixth plant type, and a plant that is a climber with support but a creeper without.
+  - Add bark rubbings and guessing trees by their bark pattern.
+  - Add bamboo as the tallest grass, Rafflesia as the biggest flower, and sugar from sugarcane stems.
+  - Add: identify plants by leaves, flowers and fruit (neem, tulsi, rose); animals by how they move: fly, swim, wa
+  - Add planning a herbal garden: draw and name each herb, including less-liked ones, and the part used.
+  - Plant products such as oil, spices and pulses
+  - Plant products such as wood, coir, rubber and fibres, and th
+- `sci.environment.pollution.L3`
+  - Ways to cut smoke and fumes (cleaner fuel, less burning of rubbish).
+  - Noise pollution from vehicles (planned in pollution L5).
+  - Explain how science measures and shows our effect on the environment.
+  - Add litter, polythene and spitting as causes of dirty surroundings.
+  - Good and bad effects of local science and technology
+  - Ways to keep the air clean at home and school
+  - Add water, soil and noise pollution with human causes (pollution.L5 planned).
+  - Add: chemical fertilisers and pesticides that kill useful worms and bees, and the soil they pollute.
+  - Reasons to avoid loud crackers (noise, hearing) and chemical colours (food safety); add to a sound or food uni
+  - Why loud crackers, loud music and chemical colours are avoid
+  - Ways to deal with smoke and fumes that pollute air
+- `sci.environment.conservation.L3`
+  - Teach energy sources with examples (renewable vs non-renewable) in a class-3 energy unit.
+  - Add a home model of erosion by water and wind.
+  - Add five harmful effects of erosion.
+  - Add six erosion-prevention methods and why each works.
+  - Explain why forests matter for soil, water and living things.
+  - Add milk, curd and companionship from cows, buffaloes and goats, and why we respect them.
+  - Add: bullocks plough, donkeys and camels carry loads, bees give honey, silkworms give silk, dogs guard homes.
+  - Add: clean airy shelter, nutritious food, medical care, and no caged birds or circus cruelty.
+  - Add: forests clean the air, cool the land, slow rain to prevent floods and droughts, and give useful products.
+  - Add: reporting polluters, cutting chemical use, and organic farming as everyday environment habits.
+- `sci.india.government-and-rights.L3`
+  - Add five reasons education matters.
+  - Explain what democracy means and why every vote matters.
+  - Name the three organs of government and what each does.
+  - Explain federalism and the roles of Centre and states.
+  - Add that unrecognised schools cannot teach, with the fine up to Rs 1 lakh.
+  - Add: apply on plain paper, give no reason; per-page copy and CD fees vary, so say Rs 2 a page.
+  - Add the penalty: Rs 250 a day, up to Rs 25,000, and the appeal route.
+  - Add the exemptions: threats to unity or security, court-banned material, parliamentary privilege, foreign conf
+  - Add that a third of workers must be women, and the job card's validity.
+  - Add the crèche, equal wages for men and women, and injury and death payments.
+- `sci.animals.animals-around-us.L3`
+  - Teach choosing and correctly using measuring equipment (thermometer, cylinder, forcemeter).
+  - Add animals living on, around and under plants, including in soil; children name the ones they know.
+  - Add how birds, squirrels and caterpillars use trees for food, nests and hiding, and ask why.
+  - Add animals that come into our homes uninvited: how to respond with care, not harm.
+  - Add one animal's movement, sounds and eating, shared as a short story with classmates.
+  - Add how monkeys groom each other and birds preen their feathers; compare with our own hygiene.
+  - Add forest and zoo visit rules: no feeding or teasing animals, no polythene, do not damage plants.
+  - Add the Indian giant squirrel (large and red) and spectacled monkey, Tripura's state animal, to compare with l
+- `sci.making-things.houses-and-shelter.L3`
+  - Kinds of houses seen around us; add to sci.making-things.houses-and-shelter.L3 at Class 1 level
+  - Simple clay house model activity; add to sci.making-things.houses-and-shelter.L3
+  - Build a simple physical model of a familiar system and use it to explain it.
+  - Draw and label the parts of a house (roof, walls, doors, windows).
+  - Explain why light and fresh air matter at home.
+  - Add how buildings affect the environment.
+  - Add: helmet, safety vest and sturdy shoes on a building site, and why each one protects the worker.
+  - Add village walls of cow dung and hay, painted with natural rice-flour paint, and why they suit village life.
+- `sci.community.festivals.L3`
+  - Describe Eid-ul-Fitr in the festivals unit.
+  - Describe Durga Puja and Dussehra in the festivals unit.
+  - Describe Deepawali and Christmas in the festivals unit.
+  - Add a class mock mela: planned stalls, roles and play money using local materials.
+  - Add spring festivals with doorstep flowers, rituals and sweets; compare customs across regions.
+  - Add Vishu in Kerala and Sarhul in Jharkhand, with their foods and offerings to Earth and Sun.
+  - Add a survey: ask elders which festivals and foods come in each season; chart them.
+- `sci.states.dissolving.L3`
+  - Add a warm vs cold water test to show warmth speeds dissolving.
+  - Add sieving to separate solids in a mixture.
+  - Explain filtration of insoluble solids with filter paper.
+  - Explain why filtration cannot separate salt from water.
+  - Test how crushing, heating and stirring speed up dissolving.
+  - Choose a separation method (sieve, magnet, filter, evaporate) for each mixture.
+  - Warm water and stirring help substances dissolve
+- `sci.day-night-seasons.seasons.L3`
+  - Add which flowers bloom in which season and place: rose, marigold, hibiscus, tulip, buransh.
+  - Add spring after winter: flowers, new leaves and sunshine, and why people celebrate it.
+  - Add: observing equal day and night at the equinox, with the Pole Star's place, as a sky-watching task.
+  - Add sorting changes by time scale: years, yearly cycles and minutes.
+  - Add regional names for the seasons and what people eat and wear in each.
+  - Add a class observation wall chart and a pattern-finding activity to a seasons unit.
+- `sci.india.national-identity.L3`
+  - Name the national game in the national-identity unit.
+  - Give the board meanings: saffron for sacrifice, green for faith, wheel for progress; unit says green is land.
+  - Add the rules: never print the flag on cloth or clothing; put nothing above or on it.
+  - Add that killing a peacock is punishable, and that the tiger stands for courage.
+  - Explain the lotus staying clean in mud, and say why hockey is the national game in the board's sense.
+  - Add tracks in pond mud from gaur, deer and rabbit, guessing the animal, and drawing a footprint.
+- `sci.planet-earth.soil-and-crops.L3`
+  - Add soil after rain and away from plants, millipedes, and comparing soil samples from different places.
+  - Add: sieve soil, settle it in water, pour off the water, shape the clay dough and sun-dry it.
+  - Add why crops must be sown on time to germinate well and give a good yield.
+  - Add gullies and ravines cut by fast rain water, and wind erosion in dry areas.
+  - Add the harms of erosion: silted wells and canals, floods, lost pasture and farm income.
+  - Add check dams with outlets on slopes, rivers and drains that slow water and cut erosion.
+- `sci.plants.plant-parts.L3`
+  - Adaptations of plants in water, desert and hills
+  - Fibrous roots and examples of each
+  - Add comparing leaves by colour, shape, texture and smell (tulsi, mint); draw and label them.
+  - Add animals that use plant parts: camels eat leaves, bees drink nectar, owls nest in tree hollows.
+  - Add leaf observation: colour, shape, texture, smell, vein patterns, and a crayon rubbing of the outline.
+  - Identify tap roots and fibrous roots, with examples
+- `sci.food.where-food-comes-from.L3`
+  - Respect other families' and regions' food and meals.
+  - Add plant products (oil, spices, pulses) and where they come from.
+  - Add seasonal foods: mangoes and melons in summer, apples and soups in winter; compare the two.
+  - Add regional dishes and home favourites; children compare what each place eats and why.
+  - Respecting the variety of food eaten by different families
+- `sci.health.hygiene.L3`
+  - Add a clear do and don't list for keeping surroundings clean.
+  - Explain Swachh Bharat and name small actions a child can take.
+  - Add: tidying the home, using brooms, and the national cleanliness pledge on Cleanliness Day.
+  - Add: wash hair about twice a week with a mild cleanser, comb daily, and keep dirt out to prevent dandruff.
+  - Add: a ten-question yes/no hygiene self-check, with one habit to build for each 'no' answer.
+- `sci.body.body-parts.L3`
+  - Add: wash eyes with clean water, never rub them, and take no eye medicine without a doctor.
+  - Add: no tobacco, gutka or paan, and the harm they do to teeth and gums; rinse after meals.
+  - Add: menstruation hygiene: a clean dry cloth or pad, changed and washed, and clean water after the toilet.
+  - Add: skin guards against heat, cold and dirt and lets out sweat; bathe daily, dry well, oil in winter, avoid h
+- `sci.changes.fire.L3`
+  - Add general practical-safety lesson: name risks in any activity and how to avoid them.
+  - Add safe-practical rules beyond fire: hot water, sharp tools, clearing up.
+  - Add why baking clay in a kiln hardens it, and how fire changes clay.
+  - Add fire-drill steps: nearest exit, crawl low through smoke, never hide, go to the assembly point.
+- `sci.ecology.food-chains.L3`
+  - Explain balance in nature: predators and prey keep numbers in check.
+  - Add how food supply sets how many animals live in an area.
+  - Explain how predator and prey numbers depend on each other.
+  - Add: what happens when one link is removed: losing frogs lets insects multiply; losing lions lets deer damage 
+- `sci.health.exercise-and-rest.L3`
+  - Breathing exercises (deep breathing) and their benefits.
+  - Add staying active for mind and body: elders and people with pain can still play chess and walk.
+  - Add a weekly health table and a 24-hour clock to track sleep, meals, play and how each day feels.
+  - Add running, cycling and skipping as daily activities, and how yoga improves posture.
+- `sci.how-we-know.fair-tests.L3`
+  - Read a table and a block graph and say what they show.
+  - Add labelled diagrams of observations next to the results table.
+  - Hazard check in each test set-up
+  - Add repeating and averaging results at Class 5 depth.
+- `sci.waste.sorting-waste.L3`
+  - Add food waste: cook and serve only what is eaten, and compost leftovers. Sharing with guests is social.
+  - Add: why cows and other animals eat plastic, and why burning plastic releases harmful gases.
+  - Add: a village example such as Silluk and what local people did to become zero-waste.
+  - Add: wrap sharp glass and needles in cloth and paper to protect sanitation workers.
+- `sci.air.air-around-us.L3`
+  - Link air, light and sound (sound travels through air; see sound.sources-of-sound.L3).
+  - Add: keep homes airy, do not sleep in airtight rooms, and prevent pollution; trees add oxygen.
+  - Air has weight, takes up space and expands
+- `sci.materials.testing-materials.L3`
+  - Add strength, flexibility, floating and transparency tests with recorded data.
+  - Why standard units beat hand spans and steps, with a measuring activity
+  - Why we need units, with examples
+- `sci.materials.using-materials.L3`
+  - Add copper, brass, steel and glass water vessels, and how families stored water long ago.
+  - Add how a potter wets, kneads and shapes clay on a spinning wheel; clay neither too wet nor dry.
+  - Add: cotton keeps us cool, wool traps warm air, and silk and polyester compared; polyester is a plastic.
+- `sci.materials.what-is-it-made-of.L3`
+  - Add metals from ore dug from the earth, and alloys (steel, brass, bronze) as mixtures of metals.
+  - Add: shaping a clay object by hand and decorating it with patterns; a clay piggy bank as a project.
+  - Add: an interview with a craftsperson or elder on how a pencil or notebook is made.
+- `sci.water.water-sources-and-uses.L3`
+  - Add listing everyday water uses (brushing, bathing, cooking, cleaning) and estimating how much each takes.
+  - Add: reuse used water for plants, and harvest rain from roofs into tanks.
+  - Add three everyday water-saving habits and an excess example (Bengaluru floods).
+- `sci.animals.animal-life-cycles.L3`
+  - Add honey bee life cycle (egg, larva, pupa, adult).
+  - Add grasshopper, cockroach and beetle life cycles.
+- `sci.electricity.simple-circuits.L3`
+  - Explain how a switch opens and closes a circuit (switches lesson planned)
+  - Appliances use electricity for light, heat, movement, sound; why mains is dangerous
+- `sci.family.family.L3`
+  - Add status of girls and women: education, work, equal rights.
+  - Add respect for elders at home, with family names and roles.
+- `sci.food.balanced-diet.L3`
+  - Add: a week's food diary, checked against the five food components, with a plan to change an unbalanced diet.
+  - Add a daily habit plan: waking early, less TV or mobile, and one habit the child will try.
+- `sci.food.nutrients.L3`
+  - Add: name marasmus from too little food, anaemia from low iron, and goitre from low iodine as deficiency disea
+  - Many foods contain water
+- `sci.forces.push-and-pull.L3`
+  - Explain each force with a daily-life example
+  - Group push-and-pull activity with safety rules
+- `sci.forces.simple-machines.L3`
+  - Explain in simple words how everyday objects work (torch, tap, fan).
+  - Explain how everyday objects work (tap, fan, bicycle), not only simple machines.
+- `sci.habitats.habitats.L3`
+  - Add mountain and plains environments with pine, yak, and crops; planned lands-and-lives.L4 can carry the detai
+  - Add tree shade and temperature readings, and trees as homes for birds and insects, to an ecology unit.
+- `sci.how-we-know.questioning-evidence.L3`
+  - Teach finding answers in books and other sources, and judging them.
+  - Use books and trusted sources for questions we cannot test
+- `sci.seeds-and-life-cycles.seeds-and-germination.L3`
+  - Compare seed kinds (gram, green pea) and label their parts.
+  - Add seeds and insects that wait for the rains and wake when they fall.
+- `sci.sky.solar-system.L3`
+  - Name the parts of a planetary system, including stars
+  - DATED: moon counts keep changing; keep the idea and examples, such as Jupiter's four big moons, not the number
+- `sci.sky.the-sun.L3`
+  - Add solar uses: drying and cooking food.
+  - Explain how plants use sunlight, water and air to make food.
+- `sci.waste.reduce-reuse-recycle.L3`
+  - Add: replacing plastic with cloth or steel, and planning a zero-waste party.
+  - Add feeding birds with water and grain, planting trees and school clean-up drives as ways to protect nature.
+- `sci.weather.weather.L3`
+  - Use given equipment (ruler, magnifier, thermometer) correctly in a practical task.
+  - Add observing raindrop size, speed and slant; sheets versus lines of rain.
+- `sci.animal-behaviour.migration.L3`
+  - Add the Grey Wagtail visiting Valparai in winter, and children welcoming migrating birds with care.
+- `sci.animals.animal-bodies.L3`
+  - Teach drawing a labelled diagram of a real thing or idea as a skill.
+- `sci.body.heart-blood-breath.L3`
+  - Add a model (balloon or bell jar) to show breathing in and out.
+- `sci.body.keeping-balance.L3`
+  - Add: water is about two-thirds of the body; urine and sweat carry waste out; 8 to 10 glasses a day.
+- `sci.classification.sorting-living-things.L3`
+  - Add broad groups: plants, animals, fungi and bacteria, by observable features.
+- `sci.ecology.interdependence.L3`
+  - Add two-way help: animal waste makes soil fertile and plants shelter animals (seed spreading is planned).
+- `sci.energy.heat.L3`
+  - Name and use a scale, tape, ruler, weighing machine and clock
+- `sci.forces.friction.L3`
+  - Muscular, gravity and magnetic forces in daily life
+- `sci.forces.measuring-forces.L3`
+  - Explain why standard units beat non-standard ones for length, mass and volume.
+- `sci.habitats.adaptations.L3`
+  - Examples of adaptations for life on land and in water
+- `sci.habitats.water-habitats.L3`
+  - Add a birdbath to water habitats: a shallow dish of clean water with stones, cleaned twice a week.
+- `sci.health.feelings-and-wellbeing.L3`
+  - Add respect for physically and mentally challenged people.
+- `sci.how-we-know.asking-questions.L3`
+  - Name and explain all five enquiry types: research, fair test, observing, classifying, pattern seeking.
+- `sci.light.colour.L3`
+  - Add a square card that looks round when spun, and painted spinners whose colours blend.
+- `sci.light.how-we-see.L3`
+  - Shadows from light travelling straight (only L2 written)
+- `sci.light.transparent-opaque.L3`
+  - Appreciate how natural light is used in daily life
+- `sci.materials.magnetic-materials.L3`
+  - Teach separating solid mixtures by size (sieving) and by magnetism.
+- `sci.microorganisms.germs.L3`
+  - Diseases that spread through the air and how to prevent them
+- `sci.planet-earth.maps-and-directions.L3`
+  - Map symbols and a key (planned in maps L5, or add to L3).
+- `sci.plants.what-plants-need.L3`
+  - Add keeping a plant friend: water and protect it, and record its leaves, flowers and fruit over weeks.
+- `sci.sky.history-of-astronomy.L3`
+  - Add to sky.history-of-astronomy: weekday names from the Sun, Moon and planets (Ravivar, Somvar).
+- `sci.sky.moon-phases.L3`
+  - Explain the Moon going round the Earth and the Earth spinning, as relative movement.
+- `sci.sky.sun-moon-stars.L3`
+  - Say explicitly that Earth, Sun and Moon are round, with a ball model.
+- `sci.sound.hearing.L3`
+  - Add identifying birds by their calls, and how bird sounds change through the day.
+- `sci.sound.sources-of-sound.L3`
+  - Add tapping wood, metal, plastic, cloth and glass to compare the ting and thak sounds.
+- `sci.states.liquids-up-close.L3`
+  - Teach water's properties: boiling and freezing points, expansion, surface.
+
+## Class 4
+
+**Units to write: 115** (planned 103, new science 6, new social 6)
+
+### New science units (6)
+- **Separating mixtures** — 2 board points to cover
+  - Cambridge 3: Understands that a mixture contains two or more materials that can be physically separated.
+  - Cambridge 3: Understands that materials generally keep their properties within a mixture.
+- **Forces we meet every day**
+- **Inside a tooth: enamel, cavities and keeping teeth strong**
+- **A healthy gut and bladder: fibre, water and good habits** — 2 board points to cover
+  - ICSE 4: Explains why regular bowel movements matter.
+  - ICSE 4: Lists habits that keep the digestive and excretory organs healthy.
+- **Measuring things: units and instruments** — 1 board points to cover
+  - ICSE 4: Gives everyday examples where measuring is needed, such as buying goods or telling time.
+- **Safe practical work: choosing equipment, naming risks, judging predictions** — 8 board points to cover
+  - Cambridge 1: Uses the equipment they are given in the right way.
+  - Cambridge 4: Practical work has risks, which we can name and plan how to avoid.
+  - Cambridge 4: Pick the right equipment from a set and use it the right way.
+  - Cambridge 5: Make predictions using science knowledge, in familiar and unfamiliar situations.
+  - Cambridge 5: Name the risks in planned practical work and say how to reduce them.
+  - Cambridge 5: Choose equipment for an investigation and use it properly.
+  - Cambridge 5: Carry out practical work safely.
+  - Cambridge 5: Describe how accurate a prediction was, using the results.
+
+### New social units (6)
+- **Community: togetherness and interdependence** — 1 board points to cover
+  - NCERT 4: Festivals and harvests show cooperation, such as the Bhela Ghar hut built during Magh Bihu in Assam and the Kh
+- **Sharing in festivals** — 2 board points to cover
+  - NCERT 4: Village festivals include prayers to nature, dhol and nagada music, traditional clothes and dances.
+  - NCERT 4: Many festivals honour plants and animals, such as Vat Purnima for the banyan tree and the Kaziranga Elephant F
+- **Transport and communication then and now**
+- **Community institutions**
+- **Banks and money basics** — 1 board points to cover
+  - NCERT 4: A child plans a small monthly sum by splitting it between savings and expenses, and gives a reason for each am
+- **Tribal art** — 1 board points to cover
+  - NCERT 4: Traditions are tied to landforms, such as Loosong and Namsoong in Sikkim, Rajasthan dance and folk music, and 
+
+### Planned units still to write (103)
+- `sci.chemistry.reaction-energy.L4` Reactions that give heat and take heat
+- `sci.classification.keys-and-kingdoms.L4` Keys and the kingdoms of life
+- `sci.community.community-and-helpers.L4` Community and the people who serve it — must also cover 2 board points
+  - NCERT: Banks keep money safe and help families save; an ATM gives cash at any time, and phones now send mon
+  - NCERT: Money was invented to replace barter, the swapping of goods, because finding a trade partner and a f
+- `sci.community.festivals.L4` Festivals and the mela
+- `sci.community.transport-and-communication.L4` Transport and communication
+- `sci.ecology.biodiversity.L4` Biodiversity and protecting it
+- `sci.ecology.how-ecosystems-change.L4` How ecosystems change and heal
+- `sci.ecology.levels-of-life.L4` From one living thing to the whole biosphere
+- `sci.ecology.populations.L4` How populations grow and stop growing
+- `sci.electricity.circuits.L4` Making circuits
+- `sci.electricity.electrical-safety.L4` Keeping safe with electricity
+- `sci.electricity.switches.L4` Switches
+- `sci.energy.energy-in-living-things.L4` Energy and living things
+- `sci.energy.engines-and-fridges.L4` Engines and fridges
+- `sci.energy.sources-and-saving.L4` Energy sources and saving energy
+- `sci.environment.caring.L4` How we can care for our environment — must also cover 1 board points
+  - NCERT: Van Mahotsav is a tree-planting festival held in the rainy season, about 1 to 7 July, to make the ea
+- `sci.evolution.family-tree-of-life.L4` The family tree of life
+- `sci.evolution.fossils-and-extinction.L4` Fossils, dinosaurs and extinction
+- `sci.evolution.human-origins.L4` Where humans came from
+- `sci.evolution.inheritance.L4` Alike and different: inheriting features
+- `sci.evolution.natural-selection.L4` How species change: natural selection
+- `sci.evolution.story-of-life.L4` The story of life, from RNA to us
+- `sci.food.where-food-comes-from.L4` Where food comes from — must also cover 4 board points
+  - ICSE: Cares for food and avoids wasting it.
+  - ICSE: Shows respect for food and avoids wasting it.
+  - NCERT: A rice or wheat grain travels from farm to plate through sowing, growing, harvesting, transport, sel
+  - NCERT: Wasting food disrespects the work of everyone who grew it, and a week's food record helps a child no
+- `sci.forces.air-water-resistance.L4` Air resistance, water resistance and upthrust
+- `sci.forces.balanced-forces.L4` Balanced and multiple forces
+- `sci.forces.direction-and-size.L4` Forces have size and direction
+- `sci.forces.fields.L4` Forces at a distance: fields
+- `sci.forces.four-forces.L4` The four forces of nature
+- `sci.forces.how-toys-work.L4` How things work: toys and spinning
+- `sci.forces.normal-force.L4` The ground pushes back: normal force
+- `sci.frontiers.gene-editing.L4` Changing genes: biotechnology
+- `sci.frontiers.medicine-of-tomorrow.L4` Medicine of tomorrow
+- `sci.genetics.dna-and-rna.L4` DNA and RNA: the instructions of life
+- `sci.genetics.reading-genomes.L4` Reading genomes and DNA detectives
+- `sci.gravity.orbits.L4` Gravity, orbits and satellites
+- `sci.habitats.city-nature.L4` Nature in towns and cities
+- `sci.habitats.habitats.L4` Habitats — must also cover 1 board points
+  - Edexcel: Habitats and microhabitats differ in temperature, light and water, and these conditions shape which 
+- `sci.habitats.lands-and-lives.L4` Different lands, different lives — must also cover 4 board points
+  - NCERT: Four landforms, plains, deserts, coastal regions and mountains, shape the food, clothing, houses, fe
+  - NCERT: The Amritsar plains have rich, fertile soil for farming, and people eat makki di roti and sarson da 
+  - NCERT: A comparison table of plains, deserts, coasts and mountains covers trees, animals, housing, clothing
+  - NCERT: A child designs a landform by combining features from mountains, plains, coasts and deserts, then ex
+- `sci.habitats.where-life-lives.L4` Why life lives where it does
+- `sci.health.diseases-and-medicines.L4` Diseases and medicines
+- `sci.health.exercise-and-rest.L4` Exercise, sleep and rest
+- `sci.health.how-diseases-spread.L4` How diseases spread
+- `sci.health.medicines-and-poisons.L4` Medicines and poisons
+- `sci.health.sleep.L4` Sleep
+- `sci.how-we-know.science-and-right-wrong.L4` Science and what is right
+- `sci.life-chemistry.enzymes.L4` Enzymes: life's helpers
+- `sci.life-chemistry.molecules-of-life.L4` The molecules of life
+- `sci.light.invisible-light.L4` Invisible light: X-rays, UV, infrared, radio
+- `sci.light.lasers.L4` Lasers
+- `sci.light.light-carries-messages.L4` Light carries messages
+- `sci.light.light-in-space.L4` Light in the solar system
+- `sci.light.shadows.L4` Shadows — must also cover 2 board points
+  - Cambridge: Investigates how the position of the object and the light source change the size of a shadow.
+  - NCERT: Shadows are long in the morning, short at noon and long in the evening, and they point in opposite d
+- `sci.magnets.compass-and-earth.L4` The Earth is a magnet: compasses
+- `sci.magnets.electricity-from-magnets.L4` Magnets make electricity
+- `sci.magnets.electromagnets.L4` Electricity makes magnets — must also cover 1 board points
+  - Singapore: Children make a magnet by the stroke method and by the electrical method, and recognise magnets in e
+- `sci.making-things.paper.L4` How paper is made — must also cover 4 board points
+  - NCERT: Paper comes from trees, so books, newspapers, napkins and chart paper all come from trees, and recyc
+  - NCERT: Recycled paper is made by soaking torn newspaper with fenugreek seeds as a binder, blending, rolling
+  - NCERT: Making paper from wood pulp needs many trees, water and energy, so paper should be used only when ne
+  - NCERT: A paper mill field trip shows how paper is made at scale, and the Braille system lets visually chall
+- `sci.me-and-others.human-nature.L4` Why people do what they do
+- `sci.microorganisms.microbes-everywhere.L4` Microbes are everywhere
+- `sci.microorganisms.viruses.L4` Viruses
+- `sci.mind.brain-and-nerves.L4` Brain and nerves
+- `sci.mind.brain-habits.L4` Habits, rewards and the storytelling brain
+- `sci.mind.sense-of-self.L4` A sense of self
+- `sci.motion.describing-motion.L4` Describing motion: position, speed and acceleration
+- `sci.motion.momentum.L4` Momentum and things that are conserved
+- `sci.order-chaos.cause-and-effect.L4` Cause and effect
+- `sci.order-chaos.chance.L4` Chance and probability
+- `sci.order-chaos.entropy.L4` Entropy: why things get messier
+- `sci.order-chaos.order-and-chaos.L4` Order and chaos
+- `sci.order-chaos.zero-sum.L4` Zero-sum and win-win
+- `sci.planet-earth.landforms.L4` Landforms of India and the world — must also cover 3 board points
+  - NCERT: India's southernmost point, Indira Point, lies in the Andaman and Nicobar Islands, a chain of island
+  - NIOS: India has six physical divisions: northern mountains, northern plains, peninsular plateau, Thar dese
+  - NIOS: Coastal plains lie beside both seas; the Andaman and Nicobar and Lakshadweep island groups are in th
+- `sci.planet-earth.rocks.L4` Rocks — must also cover 1 board points
+  - Cambridge: Knows that Earth is the source of many useful materials, including oil, natural gas and metals.
+- `sci.planet-earth.structure-of-earth.L4` Inside the Earth
+- `sci.plants.inside-plants.L4` Inside a plant: cells, pipes and tissues
+- `sci.plants.plant-senses.L4` Plants sense and respond
+- `sci.seeds-and-life-cycles.pollination.L4` Flowers, pollination and fruits
+- `sci.seeds-and-life-cycles.seed-dispersal.L4` How seeds travel
+- `sci.sky.birth-of-solar-system.L4` How the solar system was born
+- `sci.sky.other-worlds.L4` Other worlds
+- `sci.sky.stars-and-galaxies.L4` Stars and galaxies
+- `sci.sky.sun-moon-stars.L4` Sun, Moon and stars
+- `sci.sound.doppler-and-shock.L4` The Doppler effect and sonic booms — must also cover 1 board points
+  - ICSE: Names warning sounds, such as a fire alarm or an ambulance siren, and why they save lives.
+- `sci.sound.music.L4` Music and sound
+- `sci.sound.sound-moves.L4` Sound travels
+- `sci.space-time.dimensions.L4` Dimensions
+- `sci.space-time.relativity.L4` Relativity and time travel
+- `sci.space-time.space.L4` What is space?
+- `sci.space-time.time.L4` What is time?
+- `sci.states.expanding-when-hot.L4` Things grow when warm
+- `sci.states.plasma.L4` Plasma: the fourth state
+- `sci.states.solids-liquids-gases.L4` Solids, liquids and gases
+- `sci.story-of-universe.big-bang.L4` The Big Bang
+- `sci.the-very-small.inside-the-atom.L4` Inside the atom
+- `sci.the-very-small.molecules.L4` Molecules — must also cover 1 board points
+  - Cambridge: Makes and uses physical models.
+- `sci.the-very-small.nucleus.L4` The nucleus: radioactivity, fission and fusion
+- `sci.waste.reduce-reuse-recycle.L4` Reduce, reuse, recycle (the 5Rs) — must also cover 4 board points
+  - NCERT: The 5Rs of waste management are Refuse, Reduce, Reuse, Repurpose and Recycle, each a step to cut dow
+  - NCERT: Everyday actions, such as using cloth bags, painting old bottles or making paper envelopes, each bel
+  - NCERT: Used paper can be turned into toys, decorations, greeting cards and masks, which shows creative reus
+  - NCERT: A 5R plan for paper at home and school, with one step for each R, reduces paper waste.
+- `sci.weather.climate-change.L4` Climate and climate change — must also cover 1 board points
+  - NIOS: Climate, the weather over 30 years or more, depends on latitude, distance from sea, height, mountain
+- `sci.weather.clouds-and-rain.L4` Clouds and rain
+- `sci.weather.monsoon-and-oceans.L4` The monsoon and the oceans
+- `sci.weather.natural-events.L4` Nature's events: storms, floods, droughts — must also cover 5 board points
+  - NCERT: After floods cut off schools and hospitals, a village built a bamboo and stone bridge in two days, s
+  - NCERT: Strong winds and cyclones hit coastal areas and harm people, animals and trees, but early warnings a
+  - NCERT: Landslides in the mountains during rain are dangerous, and communities help people who lose homes or
+  - NCERT: Heavy rain makes a river overflow and flood homes, fields and roads, and trees slow runoff and help 
+  - NCERT: Flood safety means preparing before, staying safe during and cleaning up after, and communities plan
+- `sci.weather.weather.L4` Weather
+- `sci.what-is-real.consciousness.L4` Awareness and experience
+- `sci.what-is-real.other-minds.L4` Other minds: animals, plants, machines
+- `sci.what-is-real.perception-and-reality.L4` Perception and reality
+
+### Existing units to edit (46; 84 additions)
+
+- `sci.how-we-know.fair-tests.L4`
+  - Teach describing a simple pattern in a results table.
+  - Teach reading and drawing bar charts from results.
+  - Safety step in every practical, from set-up to clean-up
+  - Use claim, evidence and reasoning in a class discussion
+  - Scatter graphs and branching keys for recording
+  - Add accuracy and appropriate precision for the investigation.
+  - Add describing patterns in results (fair-tests.L5 planned).
+  - Draw conclusions using science knowledge to explain (fair-tests.L5).
+  - Add changing one variable and testing explanations against evidence.
+  - Add naming a test's limits and suggesting a better method.
+  - Add predicting a new value from results.
+  - Plan a systematic investigation and test a prediction.
+- `sci.plants.plant-variety.L4`
+  - Plant adaptations: thorns, waxy leaves, roots in water
+  - Draw labelled plant adaptations
+  - Plant products (wood, coir, fibres, rubber) and their uses
+  - Add traditional grain storage: neem leaves in earthen pots and cow-dung-coated baskets, and why pests stay out
+  - Add what a first-aid box holds and why first aid matters, linked to the medicines unit.
+  - Add Palash, the flame of the forest, and local flower names, with a name-and-draw task, to a plants-of-India u
+- `sci.day-night-seasons.day-and-night.L4`
+  - Spin causes changing shadows (shadows lesson planned)
+  - Add a torch-and-ball model of revolution giving a year.
+  - Explain why India uses one standard time (IST).
+  - Add observing sky colour, Sun and Moon through morning, afternoon and night, with a table.
+  - Add the share of Earth that is sea (about three-quarters) and a country in night when India has day.
+- `sci.planet-earth.soil-and-crops.L4`
+  - Explain topsoil and separate a soil sample into its parts.
+  - Add alluvial and acidic soil and a water-holding test.
+  - Add which crops suit clay soil (rice, sugarcane) and which suit sandy soil (groundnut, melon, potato).
+  - Add alluvial soil as the mix suited to most crops, and lime and gypsum to treat acidic soil.
+  - Add that weeds steal water and nutrients, and that timely weeding and right watering protect crops.
+- `sci.planet-earth.maps-and-directions.L4`
+  - Models show relationships and size: add scale-model activity
+  - Labelled drawings as models of real situations
+  - Add Himalayas in northern India, Everest in Nepal, about 8,848 metres high.
+  - Add the address layers from house to planet, and locating India on a globe.
+- `sci.animals.insects.L4`
+  - Name insect features: three pairs of legs, one pair of antennae, and wings on flies and grasshoppers.
+  - Add trees as shelter for birds and other animals, with one example.
+  - Add crop damage by pests and neel gai, and safe organic treatments for farmers.
+- `sci.animals.animal-bodies.L4`
+  - Link teeth and stomachs of herbivores, carnivores and omnivores to what they eat
+  - Link body parts of herbivores, carnivores and omnivores with
+- `sci.animals.birds.L4`
+  - Add a sort of forest animals into land and sky groups, naming one visible feature each, e.g. elephant trunk.
+  - Group birds by beak, feather and claw types
+- `sci.body.skeleton.L4`
+  - Add: the skull is a box for the brain; 33 spine bones protect the spinal cord.
+  - Add: twelve pairs of ribs, ten joined to the spine, guard the heart and lungs.
+- `sci.changes.reversible-and-irreversible.L4`
+  - Name cooking methods (steam, boil, fry, roast, grill, bake) and no-cook foods such as salads.
+  - Add sorting changes by speed: growing over years, yearly leaf-fall, and changes in minutes.
+- `sci.food.nutrients.L4`
+  - Name each main nutrient and its job.
+  - Add reading a packet's best-before date and its two main ingredients.
+- `sci.forces.simple-machines.L4`
+  - Name levers and other everyday machines (simple-machines.L5 planned).
+  - Draw and label machines.
+- `sci.making-things.paper.L4` (planned: fold into the writing)
+  - Add a paper-colouring test with turmeric, spinach, beetroot and henna, keeping the amount of each the same.
+  - Add earlier writing materials (cloth, leaves, palm-leaf talapatra) and banana-fibre paper as an eco option.
+- `sci.plants.water-transport.L4`
+  - Add the waxy leaf coating that cuts water loss, and the wax-drop test.
+  - Use a hand lens to find stomata on a leaf
+- `sci.states.melting-and-solidifying.L4`
+  - Add water expanding when it freezes; water dissolving many substances.
+  - Give water's 0 and 100 C points and the heat that changes its state.
+- `sci.animal-behaviour.migration.L4`
+  - Add the route from Russia and Mongolia on a globe, and rosy starlings eating locusts that harm crops.
+- `sci.animals.vertebrate-groups.L4`
+  - Add water animals: fish fins, gharial's narrow snout, turtle shell and webbed feet, frogs on land and in water
+- `sci.body.digestion.L4`
+  - Why water is needed for digestion and for removing wastes
+- `sci.body.heart-blood-breath.L4`
+  - Add adult rate of 16 to 18 breaths a minute; exercise, illness and fever make it faster.
+- `sci.body.kidneys-and-waste.L4`
+  - Add water's other jobs: helping digest food and keeping skin healthy, with daily drinking.
+- `sci.body.organs-inside.L4`
+  - Add: heart is about the size of a fist; healthy rate 60 to 80, normal about 72 beats a minute.
+- `sci.changes.fire.L4`
+  - Burning needs air; breathing as slow burning, in simple words
+- `sci.changes.kitchen-science.L4`
+  - Science in local life: markets, water, transport, festivals
+- `sci.chemistry.chemistry-in-industry.L4`
+  - Weigh a benefit and an environmental cost of changing a material.
+- `sci.classification.sorting-living-things.L4`
+  - Sort materials by tests and research (materials unit).
+- `sci.ecology.cycles-and-decomposers.L4`
+  - Decomposers and scavengers, with examples
+- `sci.ecology.interdependence.L4`
+  - Add a forest-scene role-play and a nature walk where children name local plants and animals and features.
+- `sci.electricity.simple-circuits.L4`
+  - Teach a closed circuit with a switch and sort conductors from insulators at Class 5 depth.
+- `sci.energy.energy-around-us.L4`
+  - Add solar panels turning sunlight into electricity to run a fan and bulb in a village.
+- `sci.energy.heat-moves.L4`
+  - Solids expand and contract; metals conduct heat, wood and plastic do not
+- `sci.environment.pollution.L4`
+  - Add soil pollution causes and prevention.
+- `sci.food.balanced-diet.L4`
+  - Add a family task: who cooks at home, and listing the items of your own regional thali.
+- `sci.gravity.weight-and-mass.L4`
+  - What each instrument measures and how to read it
+- `sci.how-we-know.asking-questions.L4`
+  - Add a spinner-slowing question prompt and the charkha twisting cotton into thread.
+- `sci.light.reflection.L4`
+  - Explain why smooth shiny surfaces reflect light better than dull ones.
+- `sci.light.what-is-light.L4`
+  - Value of daylight and how we use it wisely
+- `sci.materials.using-materials.L4`
+  - Add paper types matched to jobs: tissue absorbs water, thick cardboard for boxes, Braille paper for raised dot
+- `sci.microorganisms.germs.L4`
+  - Add hospital staff, doctors and nurses, and what each one does, including an eye check-up camp.
+- `sci.microorganisms.helpful-microbes.L4`
+  - Making a diet healthier with sprouting and fermented foods
+- `sci.planet-earth.rocks.L4` (planned: fold into the writing)
+  - Add to the planned Earth's rocks unit: minerals like iron, coal and bauxite, mining, refining, and imported pe
+- `sci.planet-earth.volcanoes-and-earthquakes.L4`
+  - Erosion and plate movement change the land; evidence in rocks
+- `sci.plants.photosynthesis.L4`
+  - Hand-lens activity to find stomata on a leaf
+- `sci.sky.exploring-space.L4`
+  - Add the Vikram lander touching down on the Moon on 23 August 2023 and collecting surface data.
+- `sci.sound.hearing.L4`
+  - Explain the difference between sound and noise.
+- `sci.states.dissolving.L4`
+  - Add dissolving as a property of solids and liquids (dissolving.L5 planned).
+- `sci.states.floating-and-sinking.L4`
+  - Add balancing a tilting figure by moving its weight or position, not only changing a sinking object's shape.
+
+## Class 5
+
+**Units to write: 196** (planned 175, new science 10, new social 11)
+
+### New science units (10)
+- **Noise and our ears**
+- **Bones, joints and strong bones** — 1 board points to cover
+  - ICSE 5: Does simple exercises and practises good posture when sitting and standing.
+- **Junk food: what it is and what it does to the body**
+- **Diseases of modern living: sugar, salt, weight and iron**
+- **Is my food pure? Adulteration and simple tests** — 1 board points to cover
+  - ICSE 5: Knows, at an awareness level, that food can be adulterated.
+- **Flowers with both parts and flowers with one**
+- **Plants without seeds: new plants from leaves, stems and roots** — 1 board points to cover
+  - ICSE 5: Explains sexual and vegetative reproduction, with examples such as potato, ginger, carrot and Bryophyllum.
+- **Fresh air in the house: windows, ventilators and fans** — 1 board points to cover
+  - ICSE 5: Explains why ventilators, windows and fans are useful in houses.
+- **Sounds that warn: alarms, sirens and horns**
+- **Science around us: local people who use science** — 3 board points to cover
+  - Cambridge 4: People in our area, including professionals, use science, and we can say how.
+  - Cambridge 5: Science is used in our local area.
+  - Cambridge 5: People in our area, including professionals, use science, and we can describe how.
+
+### New social units (11)
+- **Republic Day, national symbols, currency, languages, dress, dance and music** — 6 board points to cover
+  - NCERT 5: Traffic rules keep roads safe, and a clear school-gate sign can warn drivers, parents and students to take car
+  - NCERT 5: Independence came on 15 August 1947, and Republic Day on 26 January 1950 marks the Constitution, the country's
+  - NCERT 5: A currency note carries many details, including languages, monuments, animals and spectacles that stand for th
+  - NCERT 5: India has over a thousand languages, and the same word, such as mango, is said differently in each one.
+  - NCERT 5: Headgear such as the saafa or topi shows a person's region, beliefs or work, and helmets protect people on the
+  - NCERT 5: Music and drums differ by region, shaped by local culture and materials, and each dance form has its own state
+- **Unity in diversity, peace and harmony** — 5 board points to cover
+  - NIOS 5: India has many castes, communities, religions and languages, yet national identity comes first.
+  - NIOS 5: Tribes (Adivasis) keep their own customs, religions and ways of living, and the Constitution gives them reserv
+  - NIOS 5: Cultures mixed through trade and settlers from abroad, enriching art, food, dress and festivals across states.
+  - NIOS 5: Peace in homes, villages and countries brings development, while conflict wastes strength and money; disputes 
+  - NIOS 5: Harmony means equality without high or low status, and the law treats all citizens as equal.
+- **Culture and heritage, and why to conserve them** — 13 board points to cover
+  - NIOS 5: Culture is a way of life inherited from forefathers, covering customs, festivals, art, music, religion and sci
+  - NIOS 5: Culture has a physical side (costumes, food, household goods) and a non-physical side (ideas, ideals, feelings
+  - NIOS 5: Culture is learnt, builds up across generations, keeps changing, and varies with religion, caste and region.
+  - NIOS 5: Culture shapes who we are: it makes us social beings, teaches how to live, and links faith with everyday life.
+  - NIOS 5: Cultural heritage means monuments and works inherited from the past, such as the Taj Mahal, Qutub Minar and th
+  - NIOS 5: Our literature, scriptures, scientific discoveries and the work of early scholars like Aryabhatta are also par
+  - NIOS 5: Heritage sites are damaged by weather, pollution, tourists writing on walls and people living in them; everyon
+  - NCERT 5: Indian cows taken to Brazil by Portuguese traders became so important that three Indian breeds now supply most
+  - NCERT 5: Yoga began in India over 3,000 years ago, spread through travellers and teachers, and the UN marks 21 June as 
+  - NCERT 5: Chillies came from South America through Portuguese travellers 400 to 500 years ago, and now Indian food canno
+  - NCERT 5: Goods and ideas moved both ways: jaggery and sugar went out from India, while paper, dates and lemons came in 
+  - NCERT 5: The marigold came from Mexico and now marks Indian festivals, showing how cultures adopt flowers and share the
+  - NCERT 5: Ideas and games also travel: Ayurveda, chess and snakes and ladders all have roots in India and have spread to
+- **Ashoka and Akbar** — 3 board points to cover
+  - NIOS 5: Emperor Ashoka turned to Buddhist ideas after the Kalinga war, sent Dhamma officers and carved messages on roc
+  - NIOS 5: Ashoka's teaching: respect for all faiths, kindness to servants and animals, respect for elders and charity.
+  - NIOS 5: Emperor Akbar promoted brotherhood by honouring Hindu scholars, marrying a Rajput princess and starting Sulh-i
+- **Small families, girls' education, equality and the dowry law** — 7 board points to cover
+  - NIOS 5: Explains how family size affects each person's share of food, money and attention.
+  - NIOS 5: Reads a simple graph of male and female literacy and says what changed.
+  - NIOS 5: Social issues such as big families, low education of women, dowry and female foeticide slow down a society's p
+  - NIOS 5: A large family often faces higher costs, poor nutrition, little attention to each child, and more poverty and 
+  - NIOS 5: A small family can give children more love, balanced food and education, and keeps the mother healthy.
+  - NIOS 5: Education means gaining knowledge in any way, not only reading and writing, and the family is a child's first 
+  - NIOS 5: Education brings jobs, better decisions, self-confidence, awareness of rights and duties, and removes supersti
+- **The freedom struggle** — 5 board points to cover
+  - NIOS 5: The Indian National Congress, founded in 1885, split into moderates and radicals before Gandhi took the lead o
+  - NIOS 5: Gandhiji's methods were non-violence (Ahimsa), non-cooperation, Satyagraha at Champaran, the Dandi salt march 
+  - NIOS 5: Massacre at Jallianwala Bagh in 1919 made people angry and strengthened revolutionaries such as Bhagat Singh a
+  - NIOS 5: Many leaders joined the struggle, including Nehru, Bose, Patel, Azad, Sarojini Naidu and Rajendra Prasad, from
+  - NIOS 5: India became free on 15 August 1947; freedom was won by long struggle and many sacrifices, so it must be prote
+- **States, Union Territories and India on the world map** — 3 board points to cover
+  - NCERT 5: The Northeast is the seven sister states plus Sikkim, a land of hills and forests where crafts, festivals and 
+  - NIOS 5: India is the seventh largest country, lies in Asia, has neighbours on its land borders, and is washed by three
+  - NIOS 5: India has 29 states and 7 union territories, each with a capital; Delhi is the national capital.
+- **Democracy, the right to vote and how government works** — 8 board points to cover
+  - NIOS 5: Government has three parts: the Legislature makes laws, the Executive runs administration, and the Judiciary p
+  - NIOS 5: Democracy means government of the people, by the people and for the people; the Constitution took effect on 26
+  - NIOS 5: Every citizen aged 18 or above whose name is on the voters list can vote, and every vote matters even though t
+  - NIOS 5: Parliament has two houses; the Lok Sabha has up to 545 members elected directly for five years, and the majori
+  - NIOS 5: The Rajya Sabha has 250 members, 12 nominated, elected indirectly by state legislators, is never dissolved, an
+  - NIOS 5: The President is the constitutional head; the Prime Minister and the cabinet exercise real executive power, an
+  - NIOS 5: The Supreme Court is the highest court; its rulings bind all courts and it protects fundamental rights.
+  - NIOS 5: India is a federal system in which Centre and states have separate powers; in a clash, the Centre's law prevai
+- **Women's status, dowry and the law** — 7 board points to cover
+  - NIOS 5: Women's inequality has causes: family customs, economic dependence, male-dominated decisions, illiteracy, pove
+  - NIOS 5: Progress for women includes literacy programmes, one-third reservation in panchayats, more women at work and i
+  - NIOS 5: Women have legal rights: marriage at 18, keeping their own name, controlling stri-dhan, custody and maintenanc
+  - NIOS 5: Laws protect women: the Domestic Violence Act 2001, the 1994 law against finding a baby's sex before birth, an
+  - NIOS 5: Dowry began as a gift given willingly, but became a demand that spreads through wealth, caste limits, social s
+  - NIOS 5: Dowry causes debt, forced or mismatched marriages, harassment, suicide among girls, and more unmarried girls f
+  - NIOS 5: Dowry is illegal under the 1961 Prohibition of Dowry Act; a death within seven years of marriage after dowry h
+- **The freedom struggle, part 1: British rule and the 1857 revolt** — 5 board points to cover
+  - NIOS 5: Before British rule, India's spice and cloth trade drew European traders, and the Mughal empire weakened after
+  - NIOS 5: The English East India Company gained trade monopoly and then political power after the Battle of Plassey in 1
+  - NIOS 5: British rule exploited farmers, who were forced to grow opium and indigo, and blocked Indian factories and fre
+  - NIOS 5: Haider Ali and Tipu Sultan of Mysore resisted the British, and the British also took over kingdoms such as Oud
+  - NIOS 5: The 1857 revolt began with Mangal Pandey and spread across North India, joined by kings, soldiers and common p
+- **Local government: Panchayats and city councils** — 6 board points to cover
+  - NIOS 5: A village Panchayat has a Gram Sabha, a committee of 9 to 15 Panches, and a Sarpanch; one-third of seats are r
+  - NIOS 5: Gram Sabha meets on 26 January, 1 May, 15 August and 2 October; a two-thirds no-confidence motion can remove t
+  - NIOS 5: Panchayats look after lighting, clean water, birth and death registration, health, pensions, fair price shops,
+  - NIOS 5: Block and district Panchayats are formed from village Panchayats and plan development for their areas for five
+  - NIOS 5: Cities have City Councils, Municipal Councils (population 3 to 5 lakh, minimum age 25) and Municipal Corporati
+  - NIOS 5: Local bodies raise money through taxes and receive grants from state governments to pay for city services.
+
+### Planned units still to write (175)
+- `sci.air.air-around-us.L5` Air around us — must also cover 1 board points
+  - ICSE: Shows the composition of air in a diagram.
+- `sci.animal-behaviour.animal-communication.L5` How animals talk
+- `sci.animal-behaviour.animal-learning.L5` How animals learn
+- `sci.animal-behaviour.animal-societies.L5` Animal societies
+- `sci.animal-behaviour.born-knowing.L5` Born knowing and learning
+- `sci.animal-behaviour.foraging-and-survival.L5` Finding food and staying alive
+- `sci.animal-behaviour.migration.L5` Migration and navigation
+- `sci.body.growing-old.L5` Growing old
+- `sci.changes.chemical-reactions.L5` Chemical reactions
+- `sci.changes.fire.L5` Fire
+- `sci.changes.kitchen-science.L5` Science in the kitchen
+- `sci.changes.reversible-and-irreversible.L5` Changes we can and can't undo
+- `sci.chemistry-detectives.finding-out-whats-inside.L5` How chemists find out what's inside
+- `sci.chemistry.acids-and-bases.L5` Acids and bases
+- `sci.chemistry.bonds.L5` How atoms hold on: bonds
+- `sci.chemistry.carbon-chemistry.L5` Carbon, the builder: organic chemistry
+- `sci.chemistry.chemistry-in-industry.L5` Chemistry that feeds and builds the world
+- `sci.chemistry.chemistry-of-earth-and-space.L5` Chemistry of air, water, soil and space
+- `sci.chemistry.computers-and-chemistry.L5` Chemistry on computers
+- `sci.chemistry.counting-atoms.L5` Counting atoms: balancing reactions
+- `sci.chemistry.electrochemistry.L5` Batteries, electrolysis and rust
+- `sci.chemistry.elements.L5` Elements: the building blocks
+- `sci.chemistry.equilibrium.L5` Reactions that go both ways
+- `sci.chemistry.kinds-of-reactions.L5` Kinds of chemical reactions
+- `sci.chemistry.metals-and-colours.L5` Metals, colours and special compounds
+- `sci.chemistry.names-and-formulas.L5` Chemical names and formulas
+- `sci.chemistry.polymers.L5` Polymers: long-chain molecules
+- `sci.chemistry.reaction-energy.L5` Reactions that give heat and take heat
+- `sci.chemistry.reaction-speed.L5` Fast and slow reactions; catalysts
+- `sci.community.happy-school.L5` Our school, a happy place — must also cover 2 board points
+  - NCERT: A green school is clean, safe and caring, where waste is managed, water and electricity are saved, a
+  - NCERT: Student explorer teams observe electricity, water, greenery, waste and traffic, then discuss what th
+- `sci.day-night-seasons.day-and-night.L5` Day and night
+- `sci.day-night-seasons.rhythms-of-nature.L5` Rhythms of nature
+- `sci.day-night-seasons.time-zones.L5` Latitude, longitude and time zones — must also cover 5 board points
+  - NIOS: The equator, hemispheres, Tropic of Cancer and lines of latitude and longitude are used to locate pl
+  - NIOS: Imaginary latitude lines run East to West and help locate places; the equator is the central latitud
+  - NIOS: Longitude lines run North to South, meet at the poles, number 360, and the Meridian (0 degrees) divi
+  - NIOS: Time differs by about 4 minutes between two longitude lines, and the time of all countries is worked
+  - NIOS: India has one Standard time, taken from the 82 and a half degree East longitude line which passes th
+- `sci.electricity.circuits.L5` Making circuits — must also cover 1 board points
+  - Cambridge: Diagrams and models can represent and describe science phenomena and ideas.
+- `sci.electricity.current-and-resistance.L5` Current, voltage and resistance
+- `sci.electricity.special-materials.L5` Semiconductors, superconductors and nano-materials
+- `sci.electricity.static-and-charge.L5` Static electricity and charge
+- `sci.electricity.storing-charge.L5` Storing charge
+- `sci.energy.e-mc2.L5` Mass is energy: E = mc²
+- `sci.energy.engines-and-fridges.L5` Engines and fridges
+- `sci.energy.heat-moves.L5` How heat moves
+- `sci.energy.heat.L5` Heat and temperature
+- `sci.energy.laws-of-energy.L5` The laws of energy (thermodynamics)
+- `sci.energy.sources-and-saving.L5` Energy sources and saving energy — must also cover 8 board points
+  - ICSE: Suggests ways to save energy at home and at school.
+  - ICSE: Names renewable and non-renewable sources of energy.
+  - NIOS: Sorts energy sources into renewable and non-renewable, with examples.
+  - NIOS: Suggests ways to save energy and explains why each works.
+  - NCERT: Burning coal makes smoke and harmful gases, while sun, wind and flowing water produce clean energy t
+  - NIOS: Non-renewable energy sources (coal, kerosene, cooking gas, petrol, diesel) finish once they are used
+- `sci.energy.stored-energy.L5` Stored energy
+- `sci.energy.transfers.L5` Energy transfers and changes
+- `sci.energy.work-and-power.L5` Work and power — must also cover 3 board points
+  - ICSE: Explains what work is, with examples from daily life.
+  - ICSE: Tells when work is done and when it is not.
+  - ICSE: Tells work and energy apart, with examples.
+- `sci.environment.conservation.L5` Conservation of the environment
+- `sci.environment.pollution.L5` Pollution — must also cover 3 board points
+  - Cambridge: Science and technology can have good and bad effects on the local environment.
+  - ICSE: Lists the causes of noise pollution and ways to reduce noise.
+  - NIOS: Burning tyres, plastic and polythene pollutes the air, and garbage left on fields makes soil barren;
+- `sci.forces.balanced-forces.L5` Balanced and multiple forces — must also cover 1 board points
+  - Cambridge: An object can have several forces acting on it even when it is still.
+- `sci.forces.direction-and-size.L5` Forces have size and direction
+- `sci.forces.fields.L5` Forces at a distance: fields
+- `sci.forces.flight.L5` How things fly
+- `sci.forces.four-forces.L5` The four forces of nature
+- `sci.forces.normal-force.L5` The ground pushes back: normal force — must also cover 1 board points
+  - Cambridge: Force diagrams show the name and direction of each force on an object.
+- `sci.forces.simple-machines.L5` Simple machines — must also cover 3 board points
+  - ICSE: Explains the three classes of levers (I, II and III), with examples.
+  - ICSE: Relates body joints, such as the elbow and knee, to levers.
+  - ICSE: Makes simple models and shows how a machine works.
+- `sci.forces.stretching-springs.L5` Stretching and springs
+- `sci.frontiers.gene-editing.L5` Changing genes: biotechnology
+- `sci.frontiers.human-enhancement.L5` Should humans upgrade themselves?
+- `sci.frontiers.life-as-a-system.L5` Life as a system
+- `sci.frontiers.medicine-of-tomorrow.L5` Medicine of tomorrow — must also cover 1 board points
+  - NIOS: Cancer can appear on any part of the body; smoking can cause lung and lip cancer, chewing tobacco ra
+- `sci.frontiers.synthetic-life.L5` Building life: synthetic biology
+- `sci.genetics.dna-and-rna.L5` DNA and RNA: the instructions of life
+- `sci.genetics.genes-switch.L5` Genes that switch on and off
+- `sci.genetics.mutations.L5` Mutations: changes in DNA
+- `sci.genetics.reading-genomes.L5` Reading genomes and DNA detectives
+- `sci.gravity.spacetime.L5` Gravity bends space and time
+- `sci.health.how-diseases-spread.L5` How diseases spread
+- `sci.health.medicines-and-poisons.L5` Medicines and poisons
+- `sci.health.sleep.L5` Sleep
+- `sci.how-we-know.fair-tests.L5` Fair tests and recording results — must also cover 4 board points
+  - Cambridge: Record observations and measurements in tables and diagrams that suit the enquiry.
+  - Cambridge: Suggest how an investigation could be improved and explain the changes.
+  - Cambridge: Present and interpret results in tables, bar charts, dot plots and line graphs.
+  - NIOS: Sow ten seeds each of several crops in beds, care for them, and use the results to think about soil,
+- `sci.how-we-know.questioning-evidence.L5` Questioning the evidence — must also cover 2 board points
+  - Cambridge: Select relevant evidence from a range of secondary sources to answer questions.
+  - Cambridge: Use science to back up points in discussions about issues or actions.
+- `sci.how-we-know.science-and-right-wrong.L5` Science and what is right
+- `sci.how-we-know.stories-of-discovery.L5` Stories of discovery — must also cover 1 board points
+  - Cambridge: Scientific knowledge changes over time as enquiry produces new evidence.
+- `sci.india.freedom-struggle.L5` Our freedom struggle — must also cover 6 board points
+  - NIOS: Explains why Europeans came to India and how the East India Company became a ruler.
+  - NIOS: Describes how British rule harmed farmers, weavers and rulers.
+  - NIOS: Tells the story of 1857: causes, leaders, failure and changes.
+  - NIOS: Explains Gandhiji's ideas of ahimsa and satyagraha, and his main movements.
+  - NIOS: Names freedom fighters from different regions and paths.
+  - NIOS: Explains what Independence on 15 August 1947 meant and why freedom must be protected.
+- `sci.india.government-and-rights.L5` Government, rights and society — must also cover 6 board points
+  - NIOS: Names reasons women have been treated unequally and spots unfairness in daily life.
+  - NIOS: Names laws and steps that protect girls' and women's rights.
+  - NIOS: Explains what dowry is, why it is unfair and illegal.
+  - NIOS: Describes the Lok Sabha and Rajya Sabha.
+  - NIOS: Describes the three levels of panchayat and the gram sabha.
+  - NIOS: Names the local body that runs their own town or village.
+- `sci.india.heritage.L5` Cultural and natural heritage — must also cover 6 board points
+  - NIOS: Explains culture as a way of living that we inherit, with physical and non-physical parts.
+  - NIOS: Gives the four general characteristics of culture: learnt, accumulated, changing and diverse.
+  - NIOS: Names heritage monuments and places them on a map of India.
+  - NIOS: Explains how monuments get damaged and who protects them.
+  - NIOS: Describes India's natural heritage: trees, animals, rivers and minerals.
+  - NIOS: Explains why cultural and natural heritage must be conserved.
+- `sci.india.national-identity.L5` National identity and symbols — must also cover 1 board points
+  - NCERT: An Indian currency note shows its value, several languages, and pictures or symbols that can be read
+- `sci.india.states-and-features.L5` States of India and their physical features — must also cover 3 board points
+  - NIOS: Finds states, union territories and their capitals on a map.
+  - NIOS: Names and describes India's six physical divisions.
+  - NIOS: Explains five factors that shape India's climate.
+- `sci.india.unity-in-diversity.L5` Unity in diversity — must also cover 4 board points
+  - NIOS: Describes India's diversity of religions, communities, tribes and languages.
+  - NIOS: Explains the idea of unity in diversity.
+  - NIOS: Gives reasons why India's culture is mixed.
+  - NIOS: Explains how Ashoka and Akbar promoted peace and respect for all faiths.
+- `sci.life-chemistry.energy-currency.L5` Energy currency of the cell
+- `sci.life-chemistry.enzymes.L5` Enzymes: life's helpers
+- `sci.life-chemistry.molecules-of-life.L5` The molecules of life
+- `sci.light.colour.L5` Colour and rainbows
+- `sci.light.invisible-light.L5` Invisible light: X-rays, UV, infrared, radio
+- `sci.light.lasers.L5` Lasers
+- `sci.light.light-carries-messages.L5` Light carries messages
+- `sci.light.light-fingerprints.L5` Light fingerprints: what stars are made of
+- `sci.light.light-tricks.L5` Light as a wave: rainbows on CDs and holograms
+- `sci.light.living-light.L5` Living light: glowing creatures
+- `sci.light.refraction.L5` Bending light: lenses and magnifiers
+- `sci.light.shadows.L5` Shadows
+- `sci.light.what-is-light.L5` What is light?
+- `sci.magnets.compass-and-earth.L5` The Earth is a magnet: compasses
+- `sci.magnets.electricity-from-magnets.L5` Magnets make electricity
+- `sci.magnets.electromagnets.L5` Electricity makes magnets
+- `sci.magnets.poles.L5` Poles and magnetic force — must also cover 1 board points
+  - Cambridge: Magnets can have different strengths.
+- `sci.making-things.biomimicry.L5` Inventions copied from nature
+- `sci.making-things.design-and-build.L5` Design and build — must also cover 1 board points
+  - NCERT: A paper tube stands upright once a base is added, just as tree roots hold a tree up, showing how nat
+- `sci.me-and-others.human-nature.L5` Why people do what they do
+- `sci.mind.brain-and-nerves.L5` Brain and nerves — must also cover 2 board points
+  - NIOS: The brain controls nearly every function of the body, and it is soft and safe inside the skull; its 
+  - NIOS: The brain has three parts by function: one part controls muscles (walking, lifting), the lowest part
+- `sci.mind.brain-habits.L5` Habits, rewards and the storytelling brain
+- `sci.mind.brains-and-computers.L5` Brains and computers
+- `sci.mind.brains-that-struggle.L5` When brains struggle
+- `sci.mind.sense-of-self.L5` A sense of self
+- `sci.mind.thinking-and-memory.L5` Thinking and memory
+- `sci.mind.thinking-without-brains.L5` Does thinking need a brain?
+- `sci.motion.describing-motion.L5` Describing motion: position, speed and acceleration
+- `sci.motion.momentum.L5` Momentum and things that are conserved
+- `sci.motion.newtons-laws.L5` Newton's laws of motion
+- `sci.motion.physics-of-sport.L5` Physics of sport and play
+- `sci.motion.speed.L5` Fast and slow: speed
+- `sci.motion.spinning.L5` Spinning and turning
+- `sci.motion.swings-and-pendulums.L5` Swings and pendulums
+- `sci.nothing-and-forever.infinity.L5` Infinity
+- `sci.nothing-and-forever.zero.L5` Zero: the idea of nothing
+- `sci.order-chaos.counting-ways.L5` Why messy wins: counting the ways
+- `sci.planet-earth.earth-shared-home.L5` Earth, our shared home — must also cover 1 board points
+  - NCERT: Seen from space, Earth looks like one blue planet with no visible borders, though cities and village
+- `sci.planet-earth.landforms.L5` Landforms of India and the world — must also cover 5 board points
+  - NIOS: The Himalayas run from Kashmir to Arunachal Pradesh, contain the world's highest peak, and feed many
+  - NIOS: The northern plains are built from soil of the Indus, Ganga and Brahmaputra, are very fertile, and h
+  - NIOS: The peninsular plateau has the Central Highlands, north of the Narmada, and the Deccan Plateau, form
+  - NIOS: The Western and Eastern Ghats border the plateau, with passes and rivers; the Godavari, Krishna and 
+  - NIOS: The Thar Desert, to the west of the Aravalli, has thorny bushes, and its river Luni disappears in th
+- `sci.planet-earth.maps-and-directions.L5` Maps and directions
+- `sci.planet-earth.soil-and-crops.L5` Soil and crops — must also cover 8 board points
+  - NIOS: Sorts India's crops into food, cash, plantation and horticulture crops.
+  - NIOS: Lists the main jobs of growing a crop in order.
+  - NCERT: Farmers grow different crops in different seasons, and many festivals, such as harvest festivals, ar
+  - NIOS: Crops are grouped as food, cash, plantation and horticulture crops, and each needs its own soil, rai
+  - NIOS: Before tilling, dig a lump and squeeze it: if it crumbles the moist field is ready; if not, the fiel
+  - NIOS: Seed treatment with chemicals or bio-fertilisers protects seeds from disease and makes germination u
+- `sci.planet-earth.structure-of-earth.L5` Inside the Earth
+- `sci.planet-earth.volcanoes-and-earthquakes.L5` Volcanoes and earthquakes
+- `sci.senses.more-senses.L5` More than five senses
+- `sci.senses.perception.L5` Perception and illusions
+- `sci.sky.birth-of-solar-system.L5` How the solar system was born
+- `sci.sky.exploring-space.L5` Exploring space
+- `sci.sky.history-of-astronomy.L5` How people learned about the sky
+- `sci.sky.life-beyond-earth.L5` Is there life beyond Earth?
+- `sci.sky.moons-asteroids-comets.L5` Moons, asteroids and comets
+- `sci.sky.other-worlds.L5` Other worlds
+- `sci.sky.stargazing.L5` Stargazing
+- `sci.sky.stars-and-galaxies.L5` Stars and galaxies
+- `sci.sky.the-sun.L5` Our Sun
+- `sci.sound.adding-waves.L5` When waves meet
+- `sci.sound.doppler-and-shock.L5` The Doppler effect and sonic booms
+- `sci.sound.music.L5` Music and sound — must also cover 1 board points
+  - ICSE: Tells pleasant sounds from unpleasant sounds.
+- `sci.sound.sound-moves.L5` Sound travels
+- `sci.sound.waves.L5` Waves
+- `sci.states.crystals.L5` Crystals
+- `sci.states.dissolving.L5` Dissolving and solutions — must also cover 5 board points
+  - ICSE: Separates solid from liquid by sedimentation, decantation, filtration and evaporation.
+  - ICSE: Gives an example of each separation method, such as sand in water and sugar in water.
+  - Cambridge: Dissolving can be reversed, so the solvent and solute can be separated again.
+  - Cambridge: The process of dissolving can be investigated and linked to mixing.
+  - ICSE: Separates solids from liquids by sedimentation, decantation and filtration.
+- `sci.states.expanding-when-hot.L5` Things grow when warm
+- `sci.states.floating-and-sinking.L5` Floating, sinking and density
+- `sci.states.gas-laws.L5` Squeezing and heating gases
+- `sci.states.liquids-up-close.L5` Liquids up close: thick, thin and stretchy skin
+- `sci.states.particles.L5` Everything is made of particles
+- `sci.states.phase-maps.L5` When is water ice, water or steam?
+- `sci.states.plasma.L5` Plasma: the fourth state
+- `sci.states.properties-of-water.L5` Properties of water
+- `sci.states.strange-states.L5` Strange states of matter
+- `sci.story-of-universe.big-bang.L5` The Big Bang
+- `sci.story-of-universe.black-holes.L5` Black holes
+- `sci.story-of-universe.dark-matter-and-energy.L5` Dark matter and dark energy
+- `sci.story-of-universe.fate-of-universe.L5` How will the universe end? Other universes?
+- `sci.story-of-universe.galaxies-and-big-bang.L5` Galaxies, the Big Bang and the expanding universe
+- `sci.story-of-universe.galaxies.L5` Galaxies
+- `sci.the-very-small.antimatter.L5` Antimatter
+- `sci.the-very-small.atoms.L5` Atoms and particles
+- `sci.the-very-small.inside-the-atom.L5` Inside the atom
+- `sci.the-very-small.light-as-particles.L5` Light comes in packets
+- `sci.the-very-small.molecules.L5` Molecules
+- `sci.the-very-small.nucleus.L5` The nucleus: radioactivity, fission and fusion
+- `sci.the-very-small.particle-zoo.L5` The particle zoo
+- `sci.the-very-small.quantum.L5` The strange quantum world
+- `sci.the-very-small.unfinished-theories.L5` Unfinished theories
+- `sci.the-very-small.waves-of-matter.L5` Particles that behave like waves
+- `sci.water.rivers.L5` Journey of a river — must also cover 6 board points
+  - NCERT: Rivers start in hills and follow the slope of the land, and flowing water can change the shape of la
+  - NCERT: The Godavari starts in the Western Ghats, flows about 1,465 km and reaches the Bay of Bengal, making
+  - NCERT: Rivers that flow all year are perennial, while seasonal rivers flow only after rain, and tributaries
+  - NCERT: People depend on the river for drinking, cooking, farming, factories and jobs, which is why towns gr
+  - NCERT: Dams store water for drinking, farming and electricity, but they flood land and force people and ani
+  - NIOS: Himalayan rivers such as the Ganga and Brahmaputra feed the northern plains, while southern rivers s
+- `sci.water.saving-water.L5` Saving and cleaning water — must also cover 3 board points
+  - ICSE: Explains rainwater harvesting and why it helps to conserve water.
+  - NCERT: Water is limited and shared, so cities plan storage, recharge and careful use, through dams, watersh
+  - NCERT: A dripping tap can waste a surprising amount of water in a day, which a simple drip-timing measureme
+- `sci.water.water-cycle.L5` The water cycle
+- `sci.weather.climate-change.L5` Climate and climate change
+- `sci.weather.climate-science.L5` How scientists study climate
+- `sci.weather.forecasting.L5` Forecasting the weather
+- `sci.weather.ice-ages.L5` Ice ages and Earth's long cycles
+- `sci.weather.monsoon-and-oceans.L5` The monsoon and the oceans
+- `sci.weather.wind-and-air.L5` Wind and moving air — must also cover 1 board points
+  - ICSE: Explains land and sea breezes and monsoon winds in simple terms.
+
+### Existing units to edit (43; 131 additions)
+
+- `sci.food.balanced-diet.L5`
+  - Name calcium-rich foods that keep bones strong.
+  - Add sorting healthy from junk food.
+  - Explain harm from junk food (sugar, fat, salt).
+  - Add anaemia signs: yellow gums, white nails, swelling of face and feet, fast heartbeat in severe cases.
+  - Add fish oil as a Vitamin D source, and milk, for rickets prevention.
+  - Add cracked skin and mouth-corner sores from B-vitamin lack, alongside bleeding gums.
+  - Add top food for babies over six months: rice and lentil mix with milk, pulses, vegetables and fruit.
+  - Add that girls who have started periods need more iron-rich food such as ragi, bajra and greens.
+  - Add that a sick person needs energy food plus protective vitamins and minerals to recover.
+  - Add: mother milk is the most easily available complete first food, complete when mother eats protein.
+  - Add: soaking maize in lime raises its vitamins and protein.
+  - Add: cook some food in iron pots, which adds iron, and eat seasonal produce.
+  - Add seasonal and local produce freshness (lychee, local mango) to a food unit such as sci.food.balanced-diet.L
+- `sci.microorganisms.germs.L5`
+  - Diseases in plants and animals, and vaccinating animals
+  - Teach when and how to wash hands properly.
+  - Name diseases from unclean surroundings and poor hygiene.
+  - Add hand washing and home hygiene habits to this unit.
+  - Add typhoid symptoms (fever rising slowly, vomiting, diarrhoea), boiled water, and isolating the patient.
+  - Add TB signs (mild fever, cough, chest pain), doctor for a cough over two weeks, long treatment.
+  - Add dysentery (blood or phlegm in stool), dehydration danger, and breastfeeding for babies.
+  - Add: getting wet does not cause colds; vitamin C foods help; sleep and good food protect.
+  - Add pneumonia signs (fast breathing, chest pain, coloured phlegm, high fever) and that it can follow chickenpo
+  - Add daily handwashing with soap after toilet and before meals, daily bath, brushing teeth, no spitting.
+  - Add: cover the mouth with a cloth when coughing or sneezing, since TB, measles and flu travel through air.
+  - Add: skin infections spread by touch, clothes and bedding; healthy children sleep apart; carers wash after nur
+- `sci.habitats.lands-and-lives.L5`
+  - Match five forest types to rainfall and place.
+  - Add coastal fishing communities, sea creatures and Puri's coast to the coast-versus-desert comparison.
+  - Add cold, steep, snow-capped Himalayan mountains and how that climate shapes houses, clothes and trees.
+  - Add a survey of friends' holiday regions and a compare-with-own-place activity.
+  - Add animals' and people's natural warning signs before the 2004 tsunami, with the North Sentinel Island exampl
+  - Add the six states the Western Ghats cross and the rivers that begin there.
+  - Add the list of natural heritage (forests, mountains, seas, deserts, minerals) and why to use them with care.
+  - Add the share of India under forest, forest products (wood, lac, rubber) and forest benefits (rain, soil).
+  - Add India's bird and animal counts by region, and the national parks that protect them.
+  - Add forest types by rainfall (evergreen, deciduous, thorn, mangrove, Himalayan) and their typical trees.
+- `sci.energy.energy-around-us.L5`
+  - Explain why work needs energy (work-and-power planned).
+  - Give reasons to save energy (sources-and-saving planned).
+  - Add renewable sources that are renewed by Sun, wind and water.
+  - Add moving air carrying energy, with the balloon rocket test.
+  - Add cattle warming upper floors, Vaastu courtyards and wind-powered ships.
+  - Add solar uses: drying grain and clothes, solar cooker, water heater, solar cells for bulbs and small vehicles
+  - Add windmills that pump well water and grind flour, and pinwheels as moving-air examples.
+  - Book lists seven kinds; magnetism and biogas are not standard energy types. Say so, and name the six sources h
+  - Add cooking savings: soak rice and pulses, use only the water needed, and cook in a pressure cooker.
+- `sci.waste.compost-and-disposal.L5`
+  - Teach ways to cut non-degradable waste in this unit.
+  - Add a slogan and awareness activity.
+  - Add soil pollution from non-rotting waste, pesticides and factory waste, and why it harms crops.
+  - Add controls on factory discharge, organic pest sprays and manure as prevention.
+  - Add biogas: dung, dead leaves and crop waste in a biogas plant give cooking gas and leftover manure.
+  - Add two labelled bins at home, one for organic and one for inorganic waste; hospital colour codes optional.
+  - Define environment: everything around us, made by nature or by people; proper disposal keeps it clean.
+  - Add habits: no littering or spitting, no burning tyres or polythene, compost at home, and teach children.
+- `sci.body.heart-blood-breath.L5`
+  - Teach how to tell arteries from veins and name major ones.
+  - Add heart-healthy habits: yoga, deep breathing, exercise.
+  - Add plants taking in oxygen and giving out carbon dioxide.
+  - Add the path: nose hairs clean air, larynx, trachea, two bronchi, then lungs.
+  - Add: smoking bidi or cigarettes damages the alveoli and causes breathing diseases.
+  - Add heart attack: fat blocks the vessels; pain to left arm, sweating; less ghee and oil helps.
+  - Tell arteries and veins apart; name a few major blood vessel
+- `sci.body.digestion.L5`
+  - Add indigestion causes (spoiled food, eating habits), curd as a remedy, and when to see a doctor.
+  - Add brushing and rinsing habits, eating fewer sweets, and when a dentist is needed.
+  - Add choking prevention: small mouthfuls, and no talking with food in the mouth.
+  - Add: stomach acid kills many germs swallowed with food.
+  - Add: the liver is the body biggest gland, lying on the right side of the stomach.
+- `sci.health.diseases-and-medicines.L5`
+  - Add lifestyle diseases (obesity, blood pressure) and how to avoid them.
+  - Explain how lifestyle links to heart disease, stroke, diabetes and cancer.
+  - Add diabetes signs (slow-healing wounds, blurred sight, frequent urination) and prevention by healthy weight a
+  - Add alcohol causing liver cirrhosis and harming the whole family.
+  - Add smoking harms: lung and lip cancer, breathing diseases, pneumonia in children, harm to unborn babies.
+- `sci.body.kidneys-and-waste.L5`
+  - Explain how the brain controls the body (planned sci.mind.brain-and-nerves).
+  - Name signs of dehydration and give the ORS recipe.
+  - Add the ureter (kidney to bladder) and the muscle ring that opens to pass urine.
+  - Explain why water is needed for digestion and for removing w
+- `sci.body.skeleton.L5`
+  - Add: adults have 206 bones; the thigh bone is longest; the smallest bone is in the ear.
+  - Add movable joints (knee, elbow, wrist, fingers) versus immovable joints (skull).
+  - Add: the body has more than 600 muscles; heart and gut muscles work without thought.
+  - Add voluntary muscles (hands, feet, fingers) versus involuntary ones (intestines, heart).
+- `sci.microorganisms.helpful-microbes.L5`
+  - Suggest healthier diet changes: sprouting, fermented foods.
+  - Add why oil keeps air and microbes away from pickle, and what happens without it.
+  - Add village mud pots wrapped in wet cloth and sand, and farmers cold storage.
+  - Add canning: boil fruit, peas and tomatoes and seal them so air cannot reach them.
+- `sci.seeds-and-life-cycles.pollination.L5`
+  - Add bisexual (perfect) vs unisexual flowers.
+  - Explain fertilisation and how the seed forms.
+  - Add two-way animal-plant help (pollinators, seed carriers).
+  - Self-pollination versus cross-pollination, with examples
+- `sci.habitats.water-habitats.L5`
+  - Add pond plant types (rooted lotus, floating-leaved water lily, free-floating water hyacinth) and fish fins.
+  - Add coral reefs as shelter for fish, and why sea life matters to the whole Earth.
+  - Add mangrove roots that hold soil and block waves, with the Sundarbans example.
+- `sci.sky.solar-system.L5`
+  - Name the eight planets in order from the Sun.
+  - Say the Sun is a star at the centre of the Solar System.
+  - Explain stars as navigation guides and how solar-system events affect Earth.
+- `sci.body.how-babies-grow.L5`
+  - Add the main reproductive organs and body-safety rules.
+  - Compare with plant fertilisation after pollination.
+- `sci.body.immune-system.L5`
+  - Explain HIV does not spread by touch, hugging, shared food or mosquitoes.
+  - Add prevention: condoms, single-use needles, tested blood, and free tests in hospitals.
+- `sci.day-night-seasons.seasons.L5`
+  - Add a seasons journal: four entries a year across five themes (plants, animals, weather, water, people).
+  - Add: poles have six months of day and six months of night, kept cold by slanting rays.
+- `sci.ecology.biodiversity.L5`
+  - Add two protections: permission before felling, and planting saplings to replace trees.
+  - Add the measures: hunting ban, no animal-skin goods, and what sanctuaries and national parks are for.
+- `sci.food.food-safety.L5`
+  - Add: preservative chemicals spoil food or harm the eater if too much or too little is used.
+  - Add: food that has melted and been frozen again must not be frozen again.
+- `sci.gravity.orbits.L5`
+  - Add the Moon orbiting Earth and planets orbiting the Sun (link sci.gravity.orbits.L5).
+  - Add satellite jobs: spotting forest fires and relaying TV signals between countries.
+- `sci.making-things.cloth.L5`
+  - Add a plant-dye procedure: boil beetroot, hibiscus or marigold, strain, and soak cloth overnight.
+  - Add what a broken thread does to a running stitch: the rest loosen.
+- `sci.microorganisms.viruses.L5`
+  - Teach that every model leaves things out, in a Class 4 unit
+  - Explain how vaccines and healthy choices protect others, not only ourselves.
+- `sci.seeds-and-life-cycles.seed-dispersal.L5`
+  - Add how wind, water and animals carry things across lands, with two examples of 'no boundaries'.
+  - Add animal dispersal: seeds eaten in fruit and passed in dung, and seeds that stick to fur.
+- `sci.states.evaporation-and-condensation.L5`
+  - Add precipitation and collection (water.water-cycle.L5 planned).
+  - Explain recovering a dissolved solid by evaporating the liquid.
+- `sci.states.solids-liquids-gases.L5`
+  - Add solutions (dissolving unit, planned).
+  - Add carbon dioxide, hydrogen and water vapour as gases at room temperature.
+- `sci.animals.body-plans.L5`
+  - Add a pond-creature observation: mouth position, movement and body parts matched to its way of life.
+- `sci.day-night-seasons.rhythms-of-nature.L5` (planned: fold into the writing)
+  - Add natural rain signs (koel calls, ants carrying eggs) and farmers' readings to sci.day-night-seasons.rhythms
+- `sci.ecology.cycles-and-decomposers.L5`
+  - Teach atmosphere as layers around Earth with its main gases.
+- `sci.ecology.how-ecosystems-change.L5`
+  - Add how cutting forests reduces rain, raises flood and drought risk, and adds carbon dioxide to the air.
+- `sci.ecology.levels-of-life.L5`
+  - Add Vasudhaiva Kutumbakam and why caring for our one living planet matters.
+- `sci.energy.sources-and-saving.L5` (planned: fold into the writing)
+  - DATED: reserve years (30-35, up to 100) are old estimates; teach limited fuel stocks and changing estimates in
+- `sci.evolution.inheritance.L5`
+  - Compare how different living things reproduce, in a life-cycle unit.
+- `sci.forces.air-water-resistance.L5`
+  - Add applied and normal forces (normal-force.L5 planned).
+- `sci.forces.friction.L5`
+  - Show how oil or powder reduces friction
+- `sci.forces.simple-machines.L5` (planned: fold into the writing)
+  - Three classes of levers (I, II, III) with examples
+- `sci.health.feelings-and-wellbeing.L5`
+  - Explain how to help keep a public place clean.
+- `sci.india.national-identity.L5` (planned: fold into the writing)
+  - Add Constitution, anthem, sport and armed forces to sci.india.national-identity.L5.
+- `sci.magnets.magnets-and-materials.L5`
+  - Add magnets pulling iron from scrap, cranes lifting iron, and an electric bell.
+- `sci.planet-earth.soil-and-crops.L5` (planned: fold into the writing)
+  - Protecting crops (pests, weeds) in the farming year
+- `sci.plants.photosynthesis.L5`
+  - Add how animals' breathing completes the gas balance.
+- `sci.seeds-and-life-cycles.seeds-and-germination.L5`
+  - Add rabi, kharif and zaid crop seasons and sorting.
+- `sci.sound.vibration.L5`
+  - Teach recognising sound sources (animals, trees, leaves).
+- `sci.water.water-sources-and-uses.L5`
+  - Add: keep tanks, wells and rivers clean, toilets at home, proper garbage disposal, and no standing water for m
