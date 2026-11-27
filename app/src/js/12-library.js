@@ -1064,6 +1064,27 @@ const CATS = {
   tool: "Tools",
   other: "Other",
 };
+// The "New units" page: every unit added lately, by class, for checking in the app. It is not in the menu: open app.deepkids.in/#new-units
+function newUnitsFromLink() {
+  if (location.hash === "#new-units" && ACC && S.setup) {
+    tab = "newunits";
+    render();
+  }
+}
+function viewNewUnits() {
+  const U = Object.values(DATA.units || {}).filter((x) => x.new),
+    byClass = [1, 2, 3, 4, 5].map((c) => [
+      c,
+      U.filter((x) => +x.id.match(/\.L(\d)$/)?.[1] === c).sort((a, b) => a.title.localeCompare(b.title)),
+    ]);
+  return `<section class="sec pagetop"><h1>New units to check</h1><p class="sm muted">${U.length} units added lately. Tap one to open it and read every part. Nothing here changes the Library.</p><p class="xs"><button class="link" data-tab="library">Back to the Library</button></p></section>${byClass
+    .filter(([, L]) => L.length)
+    .map(
+      ([c, L]) =>
+        `<section class="fxnew"><h3 class="fxsh">Class ${c} · ${L.length} unit${L.length === 1 ? "" : "s"}</h3>${fxUnitBtns(L)}</section>`,
+    )
+    .join("")}`;
+}
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];

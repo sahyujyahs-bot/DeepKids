@@ -1820,7 +1820,7 @@ function fxDaySteps(u, n) {
 // The DeepKids track opens every unit (TRACKS.md "Who can see what").
 const onDkTrack = () => ["combined", "none"].includes(S.board);
 function dkUnitOpen(id) {
-  if (onDkTrack()) return true;
+  if (onDkTrack() || tab === "newunits") return true;
   const B = boardsOn();
   return unitChapters(id).some((i) => B.includes(i.board));
 }

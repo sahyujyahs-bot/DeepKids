@@ -246,6 +246,8 @@ for subj, byl in plan.items():
                 t = TL.get(x['id'])
                 if t and str(t['level']) == str(lvl): ts[t['id']] = t
             if ts and all(s in LIVE for t in ts.values() for s in t['subtopic_levels']): cdict(it)['full'] = True
+for _id in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'content', 'new_units.json')))['ids']:   # the units added lately, listed on the 'New units' page
+    if _id in data['units']: data['units'][_id]['new'] = 1
 print('units:', len(data['units']))
 # the welcome slides before log-in: one list (app/content/welcome.json), also copied next to the website's sign-in page
 data['welcome'] = json.load(open(os.path.join(APP, 'content', 'welcome.json')))
