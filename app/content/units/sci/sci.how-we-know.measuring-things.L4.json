@@ -3,7 +3,7 @@
  "title": "Measuring things: units, instruments, and why a coast has more than one length",
  "level": 4,
  "summary": {
-  "text": "Old school books say India's coast is 7,516 kilometres long. A newer count says 11,098 kilometres. The coast did not grow, so how can both be right? In this lesson you find out what measuring is, meet the units for length, mass, volume, time and temperature, and learn to choose and read the right instrument. You build a water clock from a bottle, test whether it keeps steady time, and ask what a measurement can tell us and what it cannot.",
+  "text": "Old school books say India's coast is 7,516 kilometres long. A newer count says 11,098 kilometres. The coast did not grow, so how can both be right? In this lesson you meet the units for length, mass, volume, time and temperature, and learn to choose and read the right instrument. You build a water clock from a bottle, test whether it keeps steady time, and ask what a measurement can tell us and what it cannot.",
   "art": "A map of India's coastline drawn twice, once with a few long straight steps and once with many short steps that follow every bend."
  },
  "intro": {
@@ -66,11 +66,11 @@
    "perspectives": [
     {
      "who": "Kautilya's Arthashastra, book 2, chapter 20, composed in India about 2,000 years ago",
-     "explanation": "The text sets out a ladder of lengths. Eight barley grains laid side by side make one angula, a finger width. Twenty-four angulas make one hasta, a forearm. By tying the finger to a count of grains, it tried to make a body unit the same for everyone."
+     "explanation": "The text sets out a ladder of lengths. Eight middle-sized barley grains laid side by side make one angula, a finger width. Twenty-four angulas make one hasta, a forearm. By tying the finger to a count of grains, it tried to make a body unit the same for everyone."
     },
     {
-     "who": "Craftspeople who build temples and homes by the old Indian texts on building",
-     "explanation": "Some traditions size a house from the owner's own forearm, so that the home fits the person who lives in it. For them a unit that differs from person to person is the purpose and not a fault."
+     "who": "Builders who follow the Vastu Shastra, India's old texts on building",
+     "explanation": "Some of these traditions size a house from the owner's own finger or forearm, so that the home fits the person who lives in it. For them a unit that differs from person to person is the purpose and not a fault."
     }
    ],
    "art": "Two weavers of different heights each measuring the same cloth along a forearm, with the cloth ending at different points on each arm.",
@@ -80,11 +80,11 @@
    "concept": "Standard units are much older than the metre: the Harappan weights",
    "status": "defined",
    "definition": "A standard unit is a unit that many people agree to keep exactly the same, by copying it from one shared example.",
-   "description": "The cure for quarrelling over units is to make one unit and copy it for everyone. The cities of the Harappan people, who lived along the Indus and in Gujarat about 4,500 years ago, already did this. Archaeologists have found hundreds of small stone cubes there. They are weights for a balance. The smallest common one is a little under one gram. The next ones are 2, 4, 8, 16, 32 and 64 times as heavy, each double the one before. The same weights turn up in cities more than a thousand kilometres apart. Somebody was making sure that a trader in one city and a trader in another meant the same thing by one weight.",
+   "description": "The cure for quarrelling over units is to make one unit and copy it for everyone. The cities of the Harappan people, who lived along the Indus and in Gujarat about 4,500 years ago, already did this. Archaeologists have found hundreds of small stone cubes there. They are weights for a balance. The smallest common one is a little under one gram. The next ones are 2, 4, 8, 16, 32 and 64 times as heavy, each double the one before. The same weights turn up in cities about a thousand kilometres or more apart. Somebody was making sure that a trader in one city and a trader in another meant the same thing by one weight.",
    "examples": [
-    "At Lothal in Gujarat a piece of an ivory scale was found with marks about 1.7 millimetres apart, among the finest divisions known from that age.",
+    "At Lothal in Gujarat a piece of an ivory scale was found. Its marks are about 1.7 millimetres apart, very fine divisions for a scale of that age.",
     "Harappan bricks have the same proportions in city after city: the thickness, width and length are as 1 to 2 to 4.",
-    "The Arthashastra, book 2, chapter 19, tells the king's officer to have weights and measures checked and stamped at regular times, and to fine traders who use unstamped ones."
+    "The Arthashastra, book 2, chapter 19, tells the king's officer to have weights and measures stamped at regular times. It also sets fines for cheating with them."
    ],
    "perspectives": [
     {
@@ -92,7 +92,7 @@
      "explanation": "The sameness of the weights across so wide a land shows shared rules of trade, and perhaps officers who checked them."
     },
     {
-     "who": "Other archaeologists",
+     "who": "Scholars who note that the Indus script is still unread",
      "explanation": "Nobody has read the Harappan writing, so we do not know who set the standard or how it was enforced. It may have been merchants' agreement and not a ruler's order."
     }
    ],
@@ -102,8 +102,8 @@
   {
    "concept": "The metric system: one set of units for the whole world",
    "status": "defined",
-   "definition": "The metric system is a set of units, built on the metre, the kilogram and the second, in which larger and smaller units are made by multiplying or dividing by ten. Its modern form is called the International System of Units, or SI.",
-   "description": "Until about 200 years ago every region had its own units. In the 1790s scientists in France designed a new system meant 'for all people, for all time'. They did not base it on a king's foot. They based the metre on the size of the Earth: one ten-millionth of the distance from the North Pole to the equator. They made every larger and smaller unit by tens, so that sums would be easy. Country after country joined. India changed over by a law passed in 1956, and the old seer, tola and gaz slowly left the shops. Today scientists in every country, and nearly all shops, use the same units.",
+   "definition": "The metric system is a set of units built on the metre, the kilogram and the second. Larger and smaller units are made by multiplying or dividing by ten. Its modern form is called the International System of Units, or SI.",
+   "description": "Until about 200 years ago every region had its own units. In the 1790s scientists in France designed a new system meant 'for all people, for all time'. They did not base it on a king's foot. They based the metre on the size of the Earth: one ten-millionth of the distance from the North Pole to the equator. They made every larger and smaller unit by tens, so that sums would be easy. Country after country joined. India passed a law in 1956, and in the years after it the old seer, tola and gaz slowly left the shops. Today scientists in every country, and nearly all shops, use the same units.",
    "examples": [
     "Before the change, a seer of rice was a little less than one kilogram, and its size was not exactly the same in every province.",
     "A doctor in Kochi and a doctor in Brazil both write a dose in milligrams and mean the same amount.",
@@ -192,22 +192,22 @@
    "definition": "The standard unit of time is the second. A clock is anything that repeats in a steady way and can be counted.",
    "description": "To measure time you need something that repeats steadily: a swing, a drip, a shadow going round. Old India used a copper bowl with a small hole, floated on water. The bowl filled slowly and sank in exactly one ghati, which is 24 minutes. Sixty ghatis made a day and a night. We divide an hour into 60 minutes because the people of ancient Babylon, more than 3,500 years ago, counted in sixties. Today the second is defined by an atom. A caesium atom gives off waves that repeat 9,192,631,770 times in one second, and atomic clocks count them. Clocks measure time very well. What time itself is has no agreed answer in science.",
    "examples": [
-    "At the Jantar Mantar in Jaipur, built about 1730, a sundial 27 metres tall throws a shadow that moves about one millimetre every second. It can be read to about two seconds.",
+    "At the Jantar Mantar in Jaipur, built about 1730 CE, a sundial 27 metres tall throws a shadow that moves about one millimetre every second. It can be read to about two seconds.",
     "India's official time is kept by atomic clocks at the National Physical Laboratory in New Delhi.",
-    "Your pulse is a rough clock, beating about 80 to 100 times a minute when you sit quietly.",
-    "The Chinese pilgrim Yijing wrote in the 7th century CE that the monks at Nalanda kept the hours with a sinking bowl and struck a drum each time the bowl went down."
+    "Your pulse is a rough clock, beating about 70 to 110 times a minute when a child sits quietly.",
+    "The Chinese pilgrim Yijing wrote in the 7th century CE about the monks at Nalanda. They kept the hours with a sinking bowl and struck a drum each time the bowl went down."
    ],
    "perspectives": [
     {
      "who": "The Surya Siddhanta, an Indian text on astronomy, chapter 13",
-     "explanation": "It describes the copper bowl with a hole that sinks sixty times in a day and a night, and treats time as something counted by the turning of the sky."
+     "explanation": "It describes the copper bowl with a hole that sinks about sixty times in a day and a night. It treats time as something counted by the turning of the sky."
     },
     {
      "who": "Isaac Newton, in 1687",
      "explanation": "He held that time flows evenly by itself, the same everywhere, whether or not any clock is counting."
     },
     {
-     "who": "Albert Einstein in 1905, and physicists since",
+     "who": "Albert Einstein in 1905 and 1915, and physicists since",
      "explanation": "They showed that clocks moving at different speeds, or at different heights, run at different rates. So there is no single time for everyone. Some physicists, such as Carlo Rovelli, think time may not be a basic part of nature at all."
     }
    ],
@@ -237,7 +237,7 @@
    "description": "Before you measure, ask two questions about the instrument. First, what is its range? A bathroom scale can weigh a person but not a lorry. Second, what is its smallest division? A bathroom scale shows steps of 100 grams, so it cannot weigh a letter of 20 grams. A kitchen scale shows steps of 1 gram, and it can. Pick an instrument whose range covers your thing and whose smallest step is much smaller than your thing. There is also a trick for things too small for your instrument. Measure many of them together and divide.",
    "examples": [
     "One sheet of paper is too thin for a ruler. A pile of 100 sheets is about 1 centimetre thick. So one sheet is about one-hundredth of a centimetre, which is one-tenth of a millimetre.",
-    "To find the mass of one grain of rice on a kitchen scale, weigh 100 grains and divide by 100.",
+    "To find the mass of one grain of rice on a kitchen scale, weigh 100 grains and divide by one hundred.",
     "A jeweller's balance reads to one-thousandth of a gram and is kept inside a glass case, because a breath of air would disturb it."
    ],
    "perspectives": [],
@@ -253,7 +253,7 @@
    "examples": [
     "Hold a pencil upright a little in front of a ruler and look with one eye, then the other. The pencil seems to jump along the ruler.",
     "Two children read the same jug as 240 and 260 millilitres because one looked from above and one from below.",
-    "A shopkeeper presses the 'tare' button with the empty bowl on the scale, so that the scale shows 0 and weighs only what goes into the bowl."
+    "A shopkeeper presses the 'tare' button with the empty bowl on the scale. The scale then shows 0 and weighs only what goes into the bowl."
    ],
    "perspectives": [],
    "one_view": "These are working rules that every laboratory teaches, and there is nothing in them to dispute.",
@@ -268,7 +268,7 @@
    "examples": [
     "A vegetable seller can put very nearly one kilogram of tomatoes on the pan by feel before the balance checks it.",
     "A cook adds salt 'by eye' and gets close to the same amount each day.",
-    "The physicist Enrico Fermi was known for working out rough answers to big questions from a few known sizes, such as how many piano tuners work in a city."
+    "The physicist Enrico Fermi was known for rough answers to big questions, worked out from a few known sizes. One of his questions was how many piano tuners work in a city."
    ],
    "perspectives": [],
    "one_view": "Estimating is a skill, and its use before measuring is taught by scientists and engineers everywhere.",
@@ -305,10 +305,10 @@
   {
    "concept": "Units now rest on nature's constants: the kilogram left its vault in 2019",
    "status": "defined",
-   "definition": "Since 2019 every standard unit has been defined from a constant of nature, which is a number that is found to be the same everywhere and at all times.",
+   "definition": "Since 2019 every standard unit has been defined from a constant of nature. A constant of nature is a number that is found to be the same everywhere and at all times.",
    "description": "From 1889 the kilogram was a real object: a small cylinder of metal locked in a vault near Paris. Every country had a copy. India's is copy number 57, kept in New Delhi. There was a weakness. Over a hundred years the cylinder and its copies drifted apart by about 50 millionths of a gram, and nobody could say which had changed. An object can be scratched, lose atoms or be lost. So in 2019 the countries of the world agreed to define the kilogram from a fixed number of nature called the Planck constant. The metre was already tied to the speed of light, and the second to the caesium atom. Now any laboratory with the right equipment can make the units afresh.",
    "examples": [
-    "The shopkeeper's one-kilogram weight is checked against an inspector's weight, which was checked against a state laboratory's, which was checked against the national one. This chain of checks is how your kilogram of rice is tied to the world's kilogram.",
+    "A shopkeeper's one-kilogram weight is checked against an inspector's weight. That is checked against a state laboratory's, and that against the national one. This chain of checks ties your kilogram of rice to the world's kilogram.",
     "In India, weights and scales used for selling must carry an inspector's stamp, under the Legal Metrology Act of 2009."
    ],
    "perspectives": [],
@@ -319,12 +319,12 @@
   {
    "concept": "Mixing up units can be costly",
    "status": "defined",
-   "definition": "A unit error happens when a number is passed on without its unit, or with the wrong one, and is then used as if it were in a different unit.",
-   "description": "In September 1999 a spacecraft called Mars Climate Orbiter reached Mars after a journey of more than nine months. It flew too low and was destroyed in the planet's air. The cause was found within weeks. One team had sent numbers for the pushes of the craft's small engines in an old American unit. The other team's computer read the same numbers as metric units. Nobody had checked the unit. The spacecraft had cost about 125 million dollars. The numbers were all correct. Only the units were missing.",
+   "definition": "A unit error is a mistake where a number is used with the wrong unit, or with no unit at all. The numbers can be right while the answer is wrong.",
+   "description": "In September 1999 a spacecraft called Mars Climate Orbiter reached Mars after a journey of about nine months. It flew too low and was lost in the planet's air. The cause was found within weeks. One team had sent numbers for the pushes of the craft's small engines in an old American unit. The other team's computer read the same numbers as metric units. Nobody had checked the unit. The spacecraft had cost about 125 million dollars. The numbers were all correct. Only the units were missing.",
    "examples": [
-    "In 1983 a passenger aeroplane in Canada ran out of fuel in mid-air because the fuel had been worked out in pounds when the new aircraft needed kilograms. The pilots glided it to a safe landing on an old airfield at Gimli.",
+    "In 1983 a passenger aeroplane in Canada ran out of fuel in mid-air. The fuel had been worked out in pounds when the new aircraft needed kilograms. The pilots glided it to a safe landing on an old airfield at Gimli.",
     "A parent told 'give 5' of a medicine may give 5 millilitres or 5 spoonfuls. Doctors now ask that doses for children be written in millilitres only.",
-    "Land in India is still sold by the bigha in many states. A bigha in one state can be about twice as large as a bigha in another."
+    "Land in India is still sold by the bigha in many states. A bigha in one state can be twice as large as a bigha in another, or more."
    ],
    "perspectives": [],
    "one_view": "These events were investigated and their causes are on public record.",
@@ -335,7 +335,7 @@
    "concept": "Measuring what you cannot reach: the Earth and Mount Everest",
    "status": "defined",
    "definition": "An indirect measurement finds a size by measuring other things that can be reached, such as angles and shadows, and calculating.",
-   "description": "Nobody has stretched a tape round the Earth or stood a ruler beside Everest. Such sizes are worked out. About 240 BCE, Eratosthenes, who kept the great library at Alexandria in Egypt, heard that at noon on midsummer day the Sun shone straight down a well in the town of Syene. In Alexandria, on the same day, a pillar threw a short shadow. From the angle of that shadow and the distance between the two towns he worked out the distance round the whole Earth, and came close to the true value of about 40,000 kilometres. In 1852 Radhanath Sikdar, a mathematician from Bengal working for the Survey of India, calculated from angles measured far away that a Himalayan peak was the highest known in the world. It was later named Mount Everest, after a British surveyor.",
+   "description": "Nobody has stretched a tape round the Earth or stood a ruler beside Everest. Such sizes are worked out. About 240 BCE, Eratosthenes looked after the great library at Alexandria. He heard that at noon on midsummer day the Sun shone straight down a well in Syene. In Alexandria, on the same day, a pillar threw a short shadow. From the angle of that shadow and the distance between the two towns, he worked out the distance round the Earth. His answer was close to the true value of about 40,000 kilometres, though nobody is sure how long his unit, the stadion, was. In 1852 Radhanath Sikdar, a mathematician from Bengal working for the Survey of India, calculated from far-off angles that a Himalayan peak was the world's highest. It was later named Mount Everest, after a British surveyor.",
    "examples": [
     "The height first announced for the peak was 29,002 feet, about 8,840 metres. The figure agreed by Nepal and China in 2020 is 8,848.86 metres.",
     "You can find how tall a tree stands by measuring the shadow of the tree and the shadow of a metre stick at the same moment.",
@@ -343,11 +343,11 @@
    ],
    "perspectives": [
     {
-     "who": "Many Indian writers",
+     "who": "Indian writers and teachers who honour Radhanath Sikdar",
      "explanation": "They hold that Sikdar found the highest peak and that naming it after George Everest, who never saw it, wiped out his credit."
     },
     {
-     "who": "Some historians of the Survey of India",
+     "who": "Historians of the Great Trigonometrical Survey",
      "explanation": "They point out that the calculation was the work of a team over several years. The records do not show clearly how much of the final result was Sikdar's alone."
     }
    ],
@@ -358,7 +358,7 @@
    "concept": "Other living beings measure too",
    "status": "defined",
    "definition": "Many living beings sense amounts such as distance, length of night and number of touches, and act on them.",
-   "description": "Measuring did not begin with people. A desert ant in the Sahara walks a winding path to find food and then runs home in a straight line. How do they know the distance? In 2006 scientists glued tiny stilts to some ants' legs after the ants reached the food. With longer legs and longer steps, those ants ran too far and passed their nest. Ants whose legs were made shorter stopped too soon. The ants had been keeping count of their steps. Plants measure as well. Many flower only when the nights reach a certain length. A Venus flytrap shuts only after two touches on the hairs inside within about half a minute.",
+   "description": "Measuring did not begin with people. A desert ant in the Sahara walks a winding path to find food and then runs home in a straight line. How do they know the distance? In 2006 scientists glued tiny stilts to some ants' legs after the ants reached the food. With longer legs and longer steps, those ants ran too far and passed their nest. Ants whose legs were made shorter stopped too soon. The ants had been keeping count of their steps. Plants measure as well. Many flower only when the nights reach a certain length. A Venus flytrap shuts only after two touches on the hairs inside within about twenty seconds.",
    "examples": [
     "Chrysanthemum plants flower when the nights grow long. Growers keep lamps on at night to hold them back until the flowers are wanted.",
     "A rice plant of a traditional variety senses the shortening days and flowers at the right week of the season.",
@@ -432,7 +432,7 @@
   },
   {
    "text": "Two very exact clocks at different heights tick at different rates.",
-   "evidence": "In 2010 James Chin-Wen Chou and his colleagues in the United States raised one of two atomic clocks by about 33 centimetres. The higher clock ran faster by a tiny, measurable amount, as Einstein's theory of gravity predicts."
+   "evidence": "In 2010 a team led by James Chin-Wen Chou in the United States raised one of two atomic clocks by about 33 centimetres. The higher clock ran a tiny bit faster, as Einstein's theory of gravity predicts."
   },
   {
    "text": "People's eyes are easily fooled about length, which is one reason instruments are needed.",
@@ -440,7 +440,7 @@
   },
   {
    "text": "Human bodies have not always measured about 37 degrees Celsius.",
-   "evidence": "In 2020 Myroslava Protsiv, Julie Parsonnet and their colleagues compared temperature records of people in the United States from the 1860s to 2017. The average body temperature had fallen by about half a degree Celsius. A 'normal' value turns out to be a measurement of certain people at a certain time."
+   "evidence": "In 2020 a team led by Myroslava Protsiv studied body temperature records from the United States, from the 1860s to 2017. The average had fallen by about half a degree Celsius. So a 'normal' temperature is a measurement of certain people at a certain time."
   }
  ],
  "challenging": [
@@ -455,7 +455,7 @@
   {
    "claim": "Intelligence can be measured with a single number.",
    "who": "Charles Spearman in 1904, and makers of IQ tests since",
-   "for": "People who do well on one kind of thinking test tend to do well on others. Test scores predict school results fairly well.",
+   "for": "People who do well on one kind of test tend to do well on others. For example, a child near the top of a class of 40 in sums is often near the top in reading too. Test scores also predict school results fairly well.",
    "against": "In 1981 the biologist Stephen Jay Gould argued that a pattern in test scores had been mistaken for a real thing inside the head. Howard Gardner in 1983 proposed many kinds of intelligence. Tests have also been unfair to people of other languages and cultures, and say nothing about the minds of other beings.",
    "status": "debated",
    "context": "This shows what can go wrong when something is measured before anyone agrees what it is."
@@ -514,7 +514,7 @@
    "hint": "List three things you learnt this year that no test asked about."
   },
   {
-   "q": "A desert ant counts steps and a plant measures the night. Is that the same thing you do with a ruler?",
+   "q": "A desert ant keeps count of her strides, and a chrysanthemum senses how long the night is. Is that the same thing you do with a ruler?",
    "kind": "big",
    "hint": "Compare what each of you does with the result. Then ask what a unit is for the ant."
   },
@@ -537,7 +537,7 @@
    "'Ask her mother,' said Kamla didi, nodding at Zoya. Zoya, who was also ten, had come with Kabir to carry the bags. Her mother Nasreen worked at the National Physical Laboratory, where India's measures are kept.",
    "That evening Nasreen drew a chain of boxes on the back of an envelope. Kamla's weight. The inspector's weight. The state laboratory's. The national laboratory's. 'And until 2019,' she said, 'the chain ended here.' She drew a small cylinder under three glass covers. 'One piece of metal, locked in a vault near Paris since 1889. That cylinder was the kilogram. India has copy number fifty-seven. I have seen it.'",
    "'Who checked the one in Paris?' said Kabir.",
-   "'Nobody could. That was the trouble. Every forty years or so, the copies were carried to Paris and compared with it. Over a hundred years they drifted apart, by about fifty millionths of a gram. That is roughly what a fingerprint weighs.'",
+   "'Nobody could. That was the trouble. About every forty years, the copies were carried to Paris and compared with it. Over a hundred years they drifted apart, by about fifty millionths of a gram. That is about as heavy as one small grain of table salt.'",
    "'So the Paris one got lighter,' said Zoya.",
    "'Or the copies got heavier. Or both. There was no way to tell, because the cylinder was the kilogram, by definition. If it lost a speck of metal, it was still exactly one kilogram. The rule said so. Which meant that everything else in the universe had become a tiny bit heavier.'",
    "Kabir laughed. Then he stopped. 'That is silly. But the rule does say it.'",
@@ -567,7 +567,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Before the 1790s, people held that each town's own measures were good enough. It was believable, because most buying and selling happened between neighbours. In France alone, historians count about 250,000 different local units, and the same name often meant different amounts in the next valley. Traders and tax collectors could cheat, and scientists could not compare results. In 1791 the French Academy of Sciences proposed a unit taken from the Earth itself, so that it would belong to no king. From 1792 to 1798 two astronomers, Jean-Baptiste Delambre and Pierre Méchain, measured the land from Dunkirk in the north to Barcelona in the south, through a revolution and a war, and were arrested more than once as spies. Méchain found that some of his readings near Barcelona did not agree with each other. He hid this and it troubled him for the rest of his life. From their survey a platinum metre bar was made in 1799. In 1875 seventeen countries signed a treaty to share the metre and the kilogram. India joined in 1957. In 1983 the metre was tied to the speed of light, and in 2019 the kilogram was tied to a constant of nature.",
+  "story": "Before the 1790s, people held that each town's own measures were good enough. It was believable, because most buying and selling happened between neighbours. In France alone, historians count about a quarter of a million different local units, and the same name often meant different amounts in the next valley. Traders and tax collectors could cheat, and scientists could not compare results. In 1791 the French Academy of Sciences proposed a unit taken from the Earth itself, so that it would belong to no king. From 1792 to 1798 two astronomers, Jean-Baptiste Delambre and Pierre Méchain, measured the land from Dunkirk in the north to Barcelona in the south. They worked through a revolution and a war, and were held more than once as suspected spies. Méchain found that some of his readings near Barcelona did not agree with each other. He hid this and it troubled him for the rest of his life. From their survey a platinum metre bar was made in 1799. In 1875 seventeen countries signed a treaty to share the metre and the kilogram. India joined in 1957. In 1983 the metre was tied to the speed of light, and in 2019 the kilogram was tied to a constant of nature.",
   "who": "Jean-Baptiste Delambre, Pierre Méchain, the French Academy of Sciences, and the countries of the metre treaty",
   "when": "1791 to 2019",
   "wrong_idea": "People held that every place could keep its own units without harm. It fitted a world where goods and ideas did not travel far. As trade and science crossed borders, the confusion and cheating showed that shared units were needed."
@@ -575,16 +575,16 @@
  "roots": {
   "context": "You have learnt how to measure and how units were agreed. Now we ask what measuring tells us about ourselves, about life and about this world.",
   "deep_truth": {
-   "truth": "You measured a torn edge with big steps and then with small steps, and the small steps gave a longer answer. India's coast did the same: 7,516 kilometres by one survey and 11,098 by a finer one. The edge did not change between the two counts. Each smaller step follows more bends, so the answer keeps growing. So 'how long is it?' has no final answer until we also say how fine the steps were.",
-   "habit": "We treat 'how long is it?' as a complete question, with one answer waiting inside the thing. For a jagged edge the question is unfinished until the size of the step is named.",
-   "evidence": "In the wiggly line test the same torn edge came out longer each time the step got smaller. For example, a child might get about 18 centimetres with 3 centimetre steps and about 24 with 1 centimetre steps: your numbers will differ. Put your own two numbers here."
+   "truth": "You measured a torn edge with big steps and then with small steps, and the small steps gave a longer answer. India's coast did the same: 7,516 kilometres by one survey and 11,098 by a finer one. Each smaller step found more bends, so the answer kept growing instead of settling. Some things stay rough at every size we can measure, so their length stops growing only where we decide to stop looking. An honest answer to 'how long is it?' always says how fine the steps were.",
+   "habit": "We expect careful measuring to settle on one final number, the way weighing a stone again and again settles on its mass. For a jagged edge it does not settle. Looking closer keeps finding more.",
+   "evidence": "In the wiggly line test the same torn edge came out longer each time the step got smaller. For example, a child might get about 31 centimetres with 3 centimetre steps, about 37 with 1 centimetre steps, and longer still with the thread. Your numbers will differ. Put your own numbers here."
   },
   "three": {
-   "who_am_i": "Each number about you, your height, your weight, your marks, is a meeting between you and a chosen way of measuring. Change the way and the number changes, while you stay as you are. Understanding this, you need not mistake any number for yourself.",
-   "what_is_life": "An ant counts steps and a plant measures the night. Every living being measures what matters to them, with their own body as the instrument. To be alive is, in part, to be a measurer of the world.",
-   "what_is_this_world": "A coast has no single length and a kilogram is an agreement tied to a constant of nature. The world gives the same answers to everyone who asks the same question in the same way. It does not give answers to questions nobody has asked."
+   "who_am_i": "Your height is a good example. A tape gives it in centimetres, and a finer ruler gives it in millimetres. Measure again at night and you are often about a centimetre shorter than you were in the morning. The closer anyone looks, the more there is to find, and no list of numbers is ever the whole of you. Understanding this, you need not mistake a height, a weight or a mark for yourself.",
+   "what_is_life": "Living beings are not only measured by us. They measure too: a desert ant keeps count of her strides, a rice plant senses the long nights, and you read a ruler. Each does so with its own body, for its own needs. Measuring is not something people added to the world. Life does it.",
+   "what_is_this_world": "A coast has no single length because it stays rough as you look closer, and a kilogram is an agreement tied to a constant of nature. The world gives the same answer to everyone who asks the same question in the same way. It does not answer questions nobody has asked."
   },
-  "thread": "This lesson treated measuring as comparing. Then it found a case where the answer depends on the fineness of the comparison, and never settles. That is a measured fact about coasts. It suggests that a measurement is something that happens between a measurer and a thing, and is not found in either one alone. Consciousness is the ground in which the measurer and the measured both arise, and measuring is one way that ground meets itself. This last step is not science. Quantum physics, where measuring also matters deeply, does not prove it either: in physics an 'observer' is any measuring device and not a mind. Many scientists stop at the measured fact, and their view is given below.",
+  "thread": "This lesson treated measuring as comparing. Then it found a case where the answer depends on the fineness of the comparison, and never settles. That is a measured fact about coasts. It suggests that a number marks the place where one way of looking stops, and not the place where the thing itself ends. Consciousness is the ground in which the measurer and the measured both arise, and measuring is one way that ground meets itself. This last step is not science. Quantum physics, where measuring also matters deeply, does not prove it either: in physics an 'observer' is any measuring device and not a mind. Many scientists stop at the measured fact, and their view is given below.",
   "teachings": [
    {
     "source": "Isha Upanishad, the opening invocation",
@@ -593,7 +593,7 @@
    },
    {
     "source": "Kena Upanishad, part 1, verse 6",
-    "teaching": "That which the mind cannot think, but by which the mind thinks: know that alone to be Brahman, the one ground, and not what people take it to be.",
+    "teaching": "That which the mind does not grasp, but by which, they say, the mind itself is known. Know that alone to be Brahman, the one ground, and not what people take it to be.",
     "link": "The lesson found that every measurement needs a measurer. The sage points at what does the knowing and says it cannot be made into a thing known. Science has not found a way to measure the one who measures, which is the open question of consciousness."
    },
    {
@@ -623,8 +623,8 @@
    "kid": "Close your eyes and count ten slow breaths. You have just measured time with your own unit. Open your eyes and look at something far and something near. Notice that you know which is further without any number. Take three more breaths."
   },
   "ask": [
-   "Your wiggly edge had two lengths. Which one was its real length, and why?",
-   "If your height is a meeting between you and a tape, where is 'your height' when the tape is put away?",
+   "Your wiggly edge had several lengths. Which one was its real length, and why?",
+   "Your height changes between morning and night. Which of the two is your real height?",
    "What do you know for certain about someone you love that you have never measured?"
   ],
   "art": "A child kneeling over a torn paper edge with a short and a long strip of card for measuring steps, and two different totals written beside the edge."
@@ -648,7 +648,7 @@
   },
   {
    "q": "What is matter, and where does mass come from?",
-   "why_open": "Most of the mass of everyday things comes from energy holding together the particles inside the centres of atoms. What matter finally is, and why the basic particles have the masses they have, is not known."
+   "why_open": "Most of the mass of everyday things comes from energy that holds together the particles inside the centres of atoms. What matter finally is, and why the basic particles have the masses they have, is not known."
   }
  ],
  "sources": {
@@ -668,7 +668,7 @@
    "Ministry of Home Affairs, Government of India, Annual Report 2023-24, for the revised length of the coastline."
   ]
  },
- "playtest": "Untried parts: no part of this lesson has been done in a real home yet. The bottle clock test (e1), the sinking-cup clock (ch2) and the wiggly line test (a1) were worked out from how water flows and how steps add up, and they all depend on a step where the family tunes or repeats until the result shows. In e1, a first-minute fall of 1 to 1.5 centimetres from a 12 centimetre line should mean a 16 to 24 minute emptying, and the marks should get closer together. The hole size, the bottle's width and the room all change this, so the tuning step in e1 matters. In ch2, the sinking time of a plastic cup is the least sure part. It may need a hole near 2 millimetres and several tries. In a1, a neat tear gives a small difference between the two totals, so the step says to tear a wobbly edge and gives a backup. The sample numbers there and in the roots are examples, never results. The shadow clock (p1) needs a sunny sill and cannot be done on a cloudy week. The three bowls (a7) need cold water, which is easy in the fridge and harder in a hot monsoon week. Facts still to check against their sources: the coast figures of 7,516.6 and 11,098.8 kilometres and who published them; the Arthashastra passages (book 2, chapters 19 and 20); the Harappan weights, the brick proportions and the Lothal scale marks of about 1.7 millimetres; the metric law of 1956; the Jaipur sundial height and date; the caesium number; the 1889 cylinder, India's copy number 57 and the drift of about 50 millionths of a gram; the fingerprint comparison, which is a common claim and unverified; the Mars Climate Orbiter cost; the Gimli aeroplane; the 2020 body temperature study; the numbering of Kena Upanishad 1.6, which differs between editions; and the cost and lengths of the three videos once their ids are found. The sample readings in the maths problems are imagined, not measured. The three videos still need real ids. The sample numbers in the roots are examples, not results.",
+ "playtest": "Untried parts: no part of this lesson has been done in a real home yet. The bottle clock test (e1), the sinking-cup clock (ch2) and the wiggly line test (a1) were worked out from how water flows and how steps add up, and they all depend on a step where the family tunes or repeats until the result shows. In e1, a first-minute fall of 1 to 1.5 centimetres from a 12 centimetre line should mean a 16 to 24 minute emptying, and the marks should get closer together. The hole size, the bottle's width and the room all change this, so the tuning step in e1 matters. In ch2, the sinking time of a plastic cup is the least sure part. It may need a hole near 2 millimetres and several tries. In a1, a neat tear gives a small difference between the two totals, so the step says to tear a wobbly edge and gives a backup. The sample numbers there and in the roots are examples, never results. The shadow clock (p1) needs a sunny sill and cannot be done on a cloudy week. The three bowls (a7) need cold water, which is easy in the fridge and harder in a hot monsoon week. Facts still to check against their sources: the coast figures of 7,516.6 and 11,098.8 kilometres and who published them; the Arthashastra passages (book 2, chapters 19 and 20); the Harappan weights, the brick proportions and the Lothal scale marks of about 1.7 millimetres; the metric law of 1956; the Jaipur sundial height and date; the caesium number; the 1889 cylinder, India's copy number 57 and the drift of about 50 millionths of a gram; the comparison of 50 millionths of a gram with one small grain of table salt, which is an estimate and should be checked; the stadion length behind Eratosthenes' result; the wording of the Arthashastra ladder (eight middle-sized barley grains to one angula) and its fines for unstamped weights; the claim that Delambre and Méchain were held as suspected spies; the Vastu Shastra practice of sizing a house from the owner's own finger; the hole sizes in e1 (about 1 millimetre) and ch2 (about 2 to 3 millimetres), which come from calculation and not from a test; the Mars Climate Orbiter cost; the Gimli aeroplane; the 2020 body temperature study; the numbering of Kena Upanishad 1.6, which differs between editions; and the cost and lengths of the three videos once their ids are found. The sample readings in the maths problems are imagined, not measured. The three videos still need real ids. The sample numbers in the roots are examples, not results.",
  "terms": [
   {
    "term": "Measure",
@@ -863,6 +863,12 @@
    "art": "A floating bowl with a hole, half full of water, in a larger vessel."
   },
   {
+   "term": "Ghati",
+   "meaning": "An old Indian unit of time, equal to 24 minutes. Sixty ghatis make one day and one night.",
+   "example": "A copper bowl with a small hole floated on water and sank after one ghati.",
+   "art": "A copper bowl floating in a basin of water, with its rim just about to go under."
+  },
+  {
    "term": "Sundial",
    "meaning": "A clock that tells the time by the shadow of a pointer as the Sun moves across the sky.",
    "example": "At the Jantar Mantar in Jaipur, built about 1730 CE, a sundial 27 metres tall can be read to about two seconds.",
@@ -929,6 +935,12 @@
    "art": "A kitchen scale with 0 on its screen and an empty pan."
   },
   {
+   "term": "Tare",
+   "meaning": "The button on a scale that sets it back to zero with an empty bowl on it, so that only what you add is weighed.",
+   "example": "A vegetable seller presses tare with the empty bowl on the scale, and the display shows 0.",
+   "art": "A kitchen scale with an empty bowl on it and a finger pressing the button marked tare."
+  },
+  {
    "term": "Estimate",
    "meaning": "A careful guess at an amount, made by comparing it with something whose size you already know.",
    "example": "A door is about 2 metres high, so a wall twice as tall is about 4 metres.",
@@ -945,6 +957,12 @@
    "meaning": "A careful measuring of land, using instruments, so that maps can be drawn.",
    "example": "The Survey of India measures the country and makes its official maps.",
    "art": "A surveyor beside a tripod instrument looking at a distant hill."
+  },
+  {
+   "term": "Fractal",
+   "meaning": "A shape that stays jagged however closely you look at it, such as a coast.",
+   "example": "Look closely at the edge of a fern. Each small leaflet looks like a smaller copy of the whole fern.",
+   "art": "A fern leaf with one leaflet drawn larger beside it, showing the same shape again."
   },
   {
    "term": "Constant of nature",
@@ -1015,7 +1033,7 @@
      "qty": 1
     },
     {
-     "item": "a sewing pin and a thin nail about 1 millimetre thick",
+     "item": "a sewing pin, a thin nail about 1 millimetre thick, and a cork or a rubber to push the pin's head into",
      "qty": 2
     },
     {
@@ -1047,7 +1065,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the hole, with the bottle on a folded towel and the pin pushed away from their hands. Do the test over a sink or a tray, and wipe up spills at once so nobody slips. Use a plastic bottle, never glass. Pour the water on a plant afterwards.",
+   "safety": "A grown-up makes the hole, with the bottle on a folded towel. Push the head of the pin into a cork or a rubber, so that the pin does not hurt the fingers. Point it away from the hands. Do the test over a sink or a tray, and wipe up spills at once so nobody slips. Use a plastic bottle, never glass. Pour the water on a plant afterwards.",
    "record": "Fill in the table. Work out each fall by subtracting. Then write three sentences: what I thought would happen, what I saw, and why I think it happened. Last, write how many minutes one whole emptying took.",
    "context": "In this test you make a water clock from a bottle and find out whether it ticks evenly. The answer shows why old Indian water clocks were judged by one whole emptying and not by marks along the side.",
    "setup": [
@@ -1085,7 +1103,7 @@
      "say": "A clock that empties in 3 minutes is too quick for us to mark. One that takes an hour is too slow. We want the water to fall about a finger-width in the first minute. Is it falling too fast or too slowly?",
      "kid": "Fill to the line and start the stopwatch. After 1 minute, measure the fall. Under 1 centimetre means widen the hole. Over 1.5 means tape it and make a new hole.",
      "adult": true,
-     "parent": "A fall of 1 to 1.5 centimetres in the first minute means one whole emptying takes roughly 16 to 24 minutes. That gives 8 to 12 marks. Water leaves a bottle faster when the water above the hole is deeper. So the first minute is the fastest, and the fall slows after that. Bottles differ in width and holes differ in size, which is why we tune instead of guessing.",
+     "parent": "A fall of 1 to 1.5 centimetres in the first minute means about 16 to 24 minutes for the whole emptying. That gives 8 to 12 marks. Water leaves a bottle faster when the water above the hole is deeper. So the first minute is the fastest, and the fall slows after that. Bottles differ in width and holes differ in size, which is why we tune instead of guessing. A hole that does this is usually about 1 millimetre wide, a little wider than a sewing pin, but it depends on your bottle.",
      "check": {
       "t": "mcq",
       "q": "The water fell 3 centimetres in the first minute. What should you do?",
@@ -1110,7 +1128,7 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "Lift your finger and start the stopwatch at the same moment. Each time the stopwatch shows 2, 4, 6 or 8 minutes, call 'mark'. Ask your child to draw a pencil line across the strip at the water level, and to write the minute next to the line. Carry on until the water stops falling, which happens when the level reaches the hole.",
+     "do": "Lift your finger and start the stopwatch at the same moment. When the stopwatch shows 2 minutes, call 'mark'. Your child draws a pencil line across the strip at the water level and writes the minute beside it. Do the same at 4, 6 and 8 minutes, then every 2 minutes after that. Carry on until the water stops running.",
      "say": "When I call mark, draw a line where the top of the water is. Halfway through, tell me this. The water started 12 centimetres up. Half of that is 6 centimetres. Will the water be at 6 centimetres after half of the time? Say your guess.",
      "kid": "Mark the water level every 2 minutes when your grown-up calls. Write the minute next to each line. Keep going until the water stops falling.",
      "adult": false,
@@ -1123,7 +1141,7 @@
        ]
       }
      ],
-     "parent": "Marking is easier if one person watches the stopwatch and the other watches the water. If the water runs out in under 14 minutes or takes over 28, still finish the test and write the time. In your results, one whole emptying is the time from the first mark to the last. The level reaches 6 centimetres after only about 6 minutes of a 20-minute run.",
+     "parent": "Marking is easier if one person watches the stopwatch and the other watches the water. If the whole run takes under 14 minutes or over 28, still finish the test and write the time. In your results, one whole emptying is the time from lifting your finger until the water stops running. Water clings to a small hole, so it stops a little above the hole and not at the hole. The level reaches 6 centimetres after only about 6 minutes of a 20-minute run.",
      "wait": "Keep watching until the water stops falling"
     },
     {
@@ -1149,7 +1167,7 @@
        ]
       }
      ],
-     "parent": "You should see the falls shrink: for example, about 2 centimetres between the first marks and well under 1 centimetre between the last. The exact numbers depend on your bottle. Water pushes out harder when more water sits above the hole, so the bottle runs fast when full and slowly when nearly empty. So it is an uneven clock, even though the water is running all the time. An old Indian water clock was not read by marks along the side. It was judged by one whole sinking of the bowl, which took the same time on each try. Your whole emptying time can be used the same way. What the test cannot tell us is whether the stopwatch is perfectly steady. We trust it because it agrees with other clocks, and those agree with the Sun and with atomic clocks. Ask your child how they could check a clock that they trust.",
+     "parent": "You should see the falls shrink. For example, the first falls may be about 2 centimetres and the last well under 1 centimetre. The exact numbers depend on your bottle. Water pushes out harder when more water sits above the hole. So the bottle runs fast when full and slowly when nearly empty. So it is an uneven clock, even though the water is running all the time. An old Indian water clock was not read by marks along the side. It was judged by one whole sinking of the bowl, which took the same time on each try. Your whole emptying time can be used the same way. What the test cannot tell us is whether the stopwatch is perfectly steady. We trust it because it agrees with other clocks, and those agree with the Sun and with atomic clocks. Ask your child how they could check a clock that they trust.",
      "think": "If you filled the bottle only to half, would it take half as long to empty?"
     }
    ]
@@ -1214,16 +1232,16 @@
     {
      "id": "a1s1",
      "mins": 5,
-     "do": "Tear a sheet of A4 paper into two pieces, from the top edge to the bottom edge. Tear slowly, in bites about 1 centimetre long, and change direction a little with each bite, so that the torn edge zigzags. Lay the torn piece on the clean sheet. Run a pencil along the torn edge to trace it. Make a dot at each end of the pencil line.",
+     "do": "Tear a sheet of A4 paper into two pieces, from the top edge to the bottom edge. Tear slowly, in bites about 2 centimetres long. Turn the tear a lot with each bite, so that the edge zigzags like a row of small hills. Lay the torn piece on the clean sheet. Run a pencil along the torn edge to trace it. Make a dot at each end of the pencil line.",
      "say": "We are going to ask a plain question. How long is this edge? Before we measure, guess a number of centimetres.",
-     "kid": "Tear the paper slowly, in little wobbly bites. Trace the edge on the clean sheet. Put a dot at each end.",
+     "kid": "Tear the paper slowly, in many small zigzag bites. Trace the edge on the clean sheet. Put a dot at each end.",
      "adult": false,
-     "parent": "A neat, straight tear gives a small result, so tear deliberately wobbly. If your first edge looks nearly straight, tear another with bigger zigzags."
+     "parent": "A neat, straight tear gives a small result, so tear deliberately wobbly. If your first edge looks nearly straight, tear another with bigger zigzags. Backup: draw a very wiggly coast with a pencil, with deep bays and sharp points, about 30 centimetres from end to end, and use that."
     },
     {
      "id": "a1s2",
      "mins": 4,
-     "do": "A grown-up cuts two strips of card, one exactly 3 centimetres long and one exactly 1 centimetre long, each about 1 centimetre wide. Check each with the ruler.",
+     "do": "A grown-up cuts two strips of card. One is exactly 3 centimetres long and one is exactly 1 centimetre long, each about 1 centimetre wide. Check each with the ruler.",
      "say": "These strips will be our steps. One is long and one is short. Which do you think will give the longer answer?",
      "kid": "A grown-up cuts two card strips, 3 centimetres and 1 centimetre. Guess which will give the longer answer.",
      "adult": true,
@@ -1236,7 +1254,7 @@
      "say": "Count your steps out loud. The strip is always straight, so each step is exactly 3 centimetres in a straight line. Why might that skip some of the bends in the edge?",
      "kid": "Step along the line with the 3 centimetre strip. Count the steps and measure the little gap at the end. Do it again with the 1 centimetre strip.",
      "adult": false,
-     "parent": "Expect the 1 centimetre steps to give a longer total than the 3 centimetre steps. For example, a child might get about 18 centimetres with 3 centimetre steps and about 24 with 1 centimetre steps. Your numbers will differ. If the two totals are within 2 centimetres, tear a more crumpled edge and try again, because the effect grows with the number of bends."
+     "parent": "Expect the 1 centimetre steps to give a longer total than the 3 centimetre steps. For example, a child might get about 31 centimetres with 3 centimetre steps and about 37 with 1 centimetre steps. Your numbers will differ. If the two totals are within 3 centimetres, tear a more jagged edge and try again, because the effect grows with the number of bends."
     },
     {
      "id": "a1s4",
@@ -1344,7 +1362,7 @@
        ]
       }
      ],
-     "parent": "The table did not change. Two different units gave two different numbers. If you have a forearm length to try, measure the table in forearms too, from the elbow to the tip of the middle finger."
+     "parent": "The table did not change. Two different units gave two different numbers. If you want to try another body unit, measure the table in forearms too. A forearm runs from the elbow to the tip of the middle finger."
     },
     {
      "id": "a2s3",
@@ -1430,7 +1448,7 @@
     {
      "id": "a3s2",
      "mins": 5,
-     "do": "Pick six things to guess. Use the width of a window, the length of the room and the height of a chair. Add the mass of the packet of rice, the volume of a tumbler of water and the volume of a cooking pot. Ask your child to guess each one, with its unit, and write the guess. Ask which anchor they used for each.",
+     "do": "Pick six things to guess. Use the width of a window, the length of the room and the height of a chair. Then add three more: a packet of rice (its mass), a tumbler of water (its volume) and a cooking pot (its volume). Ask your child to guess each one, with its unit, and write the guess. Ask which anchor they used for each.",
      "say": "Guess each one and tell me which anchor you used. A guess without a unit does not count.",
      "kid": "Guess six things, with their units. Write each guess before you measure. Say which anchor you used.",
      "adult": false,
@@ -1439,7 +1457,7 @@
     {
      "id": "a3s3",
      "mins": 7,
-     "do": "Measure each thing. Use the ruler or tape for lengths, the label for the packet and the jug or spoon for the volumes. Write each measured value and work out how far off the guess was. A guess within a quarter of the true value, for example 75 to 125 when the true value is 100, is a good one.",
+     "do": "Measure each thing. Use the ruler or tape for lengths and the label for the rice packet. Use the jug or spoon for the volumes. Write each measured value and work out how far off the guess was. A guess within a quarter of the true value is a good one. For example, if the true value is 100, any guess from 75 to 125 is good.",
      "say": "Now we measure. How far off was each guess? Which was closest, and which anchor did you use for it?",
      "kid": "Measure each thing. Work out how far off you were. Circle the guesses within a quarter.",
      "adult": false,
@@ -1539,7 +1557,7 @@
     {
      "id": "a4s3",
      "mins": 7,
-     "do": "Pour water into the tumbler to about halfway. Put it on a level table. Bend down so your eye is level with the water's surface. Look at how the water meets the glass. Then read the jug's mark at the flat middle of the surface. Try reading from above and from below, and write each reading.",
+     "do": "Pour water into the jug to about halfway. If you have only a tumbler, hold the ruler upright beside it. Put it on a level table. Bend down so your eye is level with the water's surface. Look at how the water meets the glass. Then read the mark at the flat middle of the surface. Try reading from above and from below, and write each reading.",
      "say": "Look at where the water touches the glass. What shape does it make? Which part of the water do you read?",
      "kid": "Bend down until your eye is level with the water. Look at the water's edge. Read the flat middle.",
      "adult": false,
@@ -1606,11 +1624,11 @@
     {
      "id": "a5s1",
      "mins": 8,
-     "do": "Open the book and find the page numbers. A leaf is one sheet with a page on each side, so the number of leaves is half the number of pages. Press the page block flat and measure its thickness in millimetres, without the covers. Divide the thickness by the number of leaves. Write the thickness of one leaf.",
+     "do": "Open the book and find the page numbers. A leaf is one sheet with a page on each side. So the number of leaves is half the number of pages. Press the page block flat and measure its thickness in millimetres, without the covers. Divide the thickness by the number of leaves. Write the thickness of one leaf.",
      "say": "A ruler cannot measure one sheet of paper. It is too thin. But it can measure a hundred of them together. How might that help?",
      "kid": "Count the leaves. Measure the stack. Divide the thickness by the number of leaves.",
      "adult": false,
-     "parent": "For 200 pages and a block 20 millimetres thick, one leaf is 0.1 millimetre. Your book will differ. Measure the pages pressed flat, as the glue edge may be thicker."
+     "parent": "For 200 pages, which is 100 leaves, and a block 10 millimetres thick, one leaf is 0.1 millimetre. Your book will differ. Measure the pages pressed flat, as the glue edge may be thicker."
     },
     {
      "id": "a5s2",
@@ -1757,18 +1775,18 @@
     {
      "id": "a7s1",
      "mins": 5,
-     "do": "A grown-up fills three bowls. Fill one with cold water from the fridge or with a few ice cubes, one with ordinary tap water and one with comfortably warm water. Test the warm bowl with your elbow to check it is not hot.",
+     "do": "A grown-up fills three bowls. One holds cold water from the fridge, or a few ice cubes. One holds ordinary tap water. One holds comfortably warm water. Test the warm bowl with your elbow to check it is not hot.",
      "say": "Three bowls, three temperatures. Before we try, what will the middle bowl feel like to each hand?",
      "kid": "A grown-up fills three bowls: cold, middle and warm. Guess what the middle bowl will feel like.",
      "adult": true,
-     "parent": "Use cold tap water if there is no fridge water, and let it run for a minute. The warm bowl should feel pleasantly warm, never hot. Do not let a child pour hot water."
+     "parent": "Use cold tap water if there is no fridge water, and let it run for a minute. The warm bowl should feel pleasantly warm, never hot. Do not let a child pour hot water. In a hot week the tap water may feel as warm as the warm bowl. Then fill the middle bowl with half cold and half warm water."
     },
     {
      "id": "a7s2",
      "mins": 5,
      "do": "Put your left hand in the cold bowl and your right hand in the warm bowl. Keep them there for one minute. Then take both hands out and put both into the middle bowl at once.",
      "say": "One minute in cold on the left and warm on the right. Now both hands go into the middle bowl. What does each hand tell you?",
-     "kid": "Left hand in the cold bowl, right hand in the warm bowl, for one minute. Then both hands into the middle bowl.",
+     "kid": "Left hand in the cold bowl and right hand in the warm bowl. Keep them there for one minute. Then put both hands into the middle bowl.",
      "adult": false,
      "ask": [
       {
@@ -1835,7 +1853,7 @@
     {
      "id": "a8s1",
      "mins": 5,
-     "do": "Sit quietly. Put two fingers, not the thumb, on the inside of the other wrist below the thumb, or on the side of the neck. Press gently until you feel a regular tap. That is your pulse.",
+     "do": "Sit quietly. Put two fingers, not the thumb, on the inside of your other wrist, just below the thumb. Press gently until you feel a regular tap. That is your pulse.",
      "say": "Your heart pumps blood each time it beats, and you can feel each beat in your wrist. Can you find it?",
      "kid": "Sit still. Put two fingers on your wrist or neck. Find the tap.",
      "adult": false,
@@ -1947,7 +1965,7 @@
     {
      "id": "p1s2",
      "mins": 15,
-     "do": "At each full hour from 9 in the morning to 3 in the afternoon, make a small dot at the tip of the pencil's shadow. Write the time beside the dot. If a cloud hides the Sun, mark when it comes out and write the real time.",
+     "do": "Make a dot at the tip of the shadow every hour from 9 in the morning to 3 in the afternoon. Write the time beside it. If a cloud hides the Sun, mark when it comes out and write the real time.",
      "say": "Where is the tip of the shadow now? Mark it and write the time. Is the shadow longer or shorter than the last time?",
      "kid": "Every hour, put a dot at the tip of the shadow. Write the time beside it.",
      "adult": false,
@@ -1961,7 +1979,7 @@
      "say": "The Sun went round the sky yesterday and again today. Does the shadow land on the same marks at the same hours?",
      "kid": "Check the shadow tip at the same hours as yesterday. Does it land on the marks?",
      "adult": false,
-     "parent": "The shadow should fall within a few millimetres of the marks, as the Sun's path changes very slowly from day to day. On cloudy days, wait for the next sunny one. If marks seem off by more than a centimetre, the card may have moved.",
+     "parent": "The shadow should fall within a few millimetres of the marks. The Sun's path changes very slowly from day to day. On cloudy days, wait for the next sunny one. If marks seem off by more than a centimetre, the card may have moved.",
      "wait": "Come back on the next day at the same hours"
     },
     {
@@ -1980,7 +1998,7 @@
        ]
       }
      ],
-     "parent": "This is how sundials work. The great sundial at the Jantar Mantar in Jaipur, built about 1730 CE, uses the same idea at a size of 27 metres. A sundial reads solar time, which can differ from the clock by several minutes through the year.",
+     "parent": "This is how sundials work. The great sundial at the Jantar Mantar in Jaipur uses the same idea at a size of 27 metres. It was built about 1730 CE. A sundial reads solar time, which can differ from the clock by several minutes through the year.",
      "think": "What would a shadow clock do on a cloudy day, and what could you use at night?"
     }
    ]
@@ -2043,7 +2061,7 @@
     {
      "id": "ch1s2",
      "mins": 10,
-     "do": "Put the tomato in one cup. Use the 5 millilitre spoon to add water to the other cup, one spoon at a time, until the hanger sits level again. Count the spoons. Multiply by 5. That is the tomato's mass in grams, because a millilitre of water has a mass of about one gram.",
+     "do": "Put the tomato in one cup. Add water to the other cup with the 5 millilitre spoon, one spoon at a time. Stop when the hanger sits level again. Count the spoons. Multiply by 5. That is the tomato's mass in grams, because a millilitre of water has a mass of about one gram.",
      "say": "Pour water spoon by spoon until the two sides match. How many spoons? How many grams is that?",
      "kid": "Put the tomato on one side. Add spoons of water on the other side until the hanger is level. Count the spoons and multiply by 5.",
      "adult": false,
@@ -2119,7 +2137,7 @@
     {
      "id": "ch2s1",
      "mins": 6,
-     "do": "A grown-up makes one hole in the middle of the bottom of the cup with the sewing pin, pushing away from the hands. Float the cup upright in the bucket and see that it floats on a level keel. If it tips, press a small ball of plasticine in the bottom of the cup to steady it.",
+     "do": "A grown-up makes one hole in the middle of the cup's bottom with the sewing pin. The pin points away from the hands. Float the cup upright in the bucket and see that it floats level. If it tips, press three small lumps of plasticine round the inside of the bottom edge, away from the hole.",
      "say": "Long ago, an Indian timekeeper floated a copper bowl with a small hole in a vessel of water. The bowl filled slowly and sank after exactly one ghati, which is 24 minutes. We will make a smaller one. Why does the cup need a hole?",
      "kid": "A grown-up makes one hole in the cup's bottom. Float the cup upright in the bucket.",
      "adult": true,
@@ -2132,16 +2150,16 @@
      "say": "How long did the cup take to sink? Was the second run the same as the first?",
      "kid": "Float the cup. Start the stopwatch. Stop when the cup sinks. Do it three times.",
      "adult": false,
-     "parent": "Expect a long first time if the hole is small, such as 10 to 30 minutes. Do not wait more than 10 minutes. Go straight to the tuning step if the cup has not sunk by then. A run in which the cup tips over should be thrown away and done again."
+     "parent": "Expect the first try to be very slow, because a pin hole is tiny. The cup may take half an hour or more. Do not wait more than 10 minutes. Go straight to the tuning step if the cup has not sunk by then. A run in which the cup tips over should be thrown away and done again."
     },
     {
      "id": "ch2s3",
      "mins": 8,
-     "do": "Tune the cup. If it takes more than 6 minutes, or does not sink in 10, a grown-up twists the thin nail in the hole once to widen it. If it takes under 4 minutes, a grown-up covers the hole with two layers of sticky tape on the outside. Then the grown-up makes a new hole with the pin about 2 centimetres away. Run again after each change.",
+     "do": "Tune the cup. If it takes more than 6 minutes, or has not sunk in 10, a grown-up widens the hole. The grown-up turns a thicker nail, or the point of a pencil, in the hole a little at a time. If it takes under 4 minutes, a grown-up dries the cup. They cover the hole with two layers of tape outside and make a new, smaller hole about 2 centimetres away. Run again after each change.",
      "say": "Too slow means the hole is too small. Too fast means it is too big. What will you change?",
      "kid": "Too slow: ask a grown-up to widen the hole. Too fast: ask a grown-up to tape it and make a smaller hole.",
      "adult": true,
-     "parent": "Aim for between 4 and 6 minutes. A thin nail makes a hole of about 1 millimetre. A wider hole may be needed for a 5-minute cup, so expect two or three tries."
+     "parent": "Aim for between 4 and 6 minutes. A pin or a thin nail makes a hole of about 1 millimetre or less. A 5-minute cup may need a hole of about 2 to 3 millimetres, so expect three to five tries. Use the same plasticine lumps on every run, because a heavier cup sinks lower and fills faster."
     },
     {
      "id": "ch2s4",
@@ -2156,16 +2174,16 @@
    ],
    "general": [
     "Tune the hole size by widening or taping and re-piercing until the sink time is about 5 minutes.",
-    "Keep the cup upright with a ball of plasticine inside the bottom, so that it fills only through the hole.",
+    "Keep the cup upright with three small lumps of plasticine inside, round the bottom edge. Keep them away from the hole, so that the cup fills only through the hole.",
     "Run three times and use the middle value."
    ],
    "creative": [
-    "Use a steel katori and have a grown-up drill a hole, as the old timekeepers did, and compare with the plastic cup.",
+    "Try a different plastic container, such as a curd cup or a small bowl, and compare how long it takes to sink with the first cup.",
     "Make the same clock with two different holes, and mark on a chart which one makes a 5-minute clock and which makes a 10-minute one.",
-    "Fill a second cup with water to its brim, float it and time how long it takes to fill the remaining space. Use this to make an hour clock from many bowls."
+    "Count sinkings. Each time the cup sinks, a grown-up lifts it out, empties it and floats it again. Twelve sinkings of a 5-minute cup make about an hour. Check this against a clock."
    ],
    "your_turn": "Make a clock of your own design that takes about 10 minutes, using anything at home. How will you check that it keeps the same time on each run?",
-   "safety": "A grown-up makes the holes, with the cup on a folded towel and the pin pushed away from their hands. Use a plastic cup, never glass. Empty the bucket on a plant afterwards."
+   "safety": "A grown-up makes and widens every hole, with the cup resting on a folded towel, just as in the bottle clock. Use a plastic cup, never glass. Keep the bucket on the floor or in a sink, so that a spill does no harm, and tip the water on a plant afterwards."
   }
  ],
  "games": [
@@ -2333,7 +2351,7 @@
      "say": "We guess the size of ordinary things, with their units. The closest guess earns the most points. Why do you think the unit is part of the guess?",
      "kid": "Cut out the cards. Shuffle them. Put them face down. Each player takes paper and a pencil.",
      "adult": false,
-     "parent": "Cutting is for the grown-up if the child is under 8. Keep the cards in an envelope after the game."
+     "parent": "A grown-up can do the cutting for a child who is not yet handy with scissors. Keep the cards in an envelope after the game."
     },
     {
      "id": "g1s2",
@@ -2548,7 +2566,7 @@
       "Guess again"
      ],
      "a": 1,
-     "why": "A sensible guess catches errors. The tape may be in decimetres, or read from the wrong mark. Trusting the tape without checking would have made a silly answer.",
+     "why": "A sensible guess catches errors. The tape may have been read in the wrong unit or from the wrong mark. Trusting the tape without checking would have made a silly answer.",
      "outcome": 5
     },
     {
@@ -2819,12 +2837,12 @@
      "t": "mcq",
      "p": "A tape shows whole centimetres. Readings of 82, 83 and 82 are averaged to 82.3. What is wrong?",
      "opts": [
-      "Three readings are too few",
+      "An average must be one of the readings",
       "The tape cannot show tenths, so 82.3 claims too much",
       "82 and 83 cannot be averaged"
      ],
      "a": 1,
-     "why": "An average can have more digits than the tape, but it cannot honestly claim more precision than the tape's step. It is better to say about 82 centimetres.",
+     "why": "The tape shows only whole centimetres, so the tenths in 82.3 are not really known. It is honest to say about 82 centimetres. An average does not have to be one of the readings.",
      "outcome": 4
     },
     {
@@ -3131,7 +3149,7 @@
   },
   {
    "t": "mcq",
-   "p": "Using a teaspoon holds 5 millilitres, what is a tumbler of water likely to hold?",
+   "p": "A teaspoon holds 5 millilitres. About how much does a tumbler of water hold?",
    "opts": [
     "25 millilitres",
     "250 millilitres",
@@ -3292,8 +3310,8 @@
    "a": "Time to get a new ruler."
   },
   {
-   "j": "How long is the coast? You ask it, and what does it say?",
-   "a": "'How much time do you have?'"
+   "j": "I asked India's coast how long it was. What did it say?",
+   "a": "'Depends. Are you going to measure round every pebble?'"
   },
   {
    "j": "Why did the ant on stilts walk straight past her nest?",
@@ -3304,8 +3322,8 @@
    "a": "'The one that fits.'"
   },
   {
-   "j": "How long does a dosa last in my house?",
-   "a": "About two minutes, if you measure it from the first one to the last."
+   "j": "'I ate a few dosas,' said Dad. 'How few?' said my sister. What did Dad say?",
+   "a": "'Seven.' A few is not a measurement!"
   }
  ],
  "warmup": [
