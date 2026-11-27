@@ -50,6 +50,10 @@
 - **Dark energy**: The name for whatever is making the expansion of the universe speed up. Nobody knows what it is. *e.g.* The Planck satellite's measurements put dark energy at about 68 parts in 100 of everything in the universe.
 - **Gravitational lensing**: The bending of light by something very heavy, such as a whole cluster of galaxies. It works like a lens. *e.g.* Astronomers see far galaxies stretched into curved arcs when a heavy cluster sits in front of them.
 - **Galaxy**: A huge group of billions of stars held together by gravity. *e.g.* Our Sun is one of hundreds of billions of stars in the Milky Way.
+- **Ion**: A tiny piece of matter that carries an electric charge. Salt in water breaks into ions. *e.g.* The salt in sweat is made of ions, which is why sweat tastes salty and carries a small current.
+- **Neuron**: A nerve cell. Neurons send messages as electrical waves. *e.g.* The nerve cell that carries the feeling of a hot pan from your finger to your spine is a neuron.
+- **Diffusion**: The slow spreading of tiny pieces from where there are many to where there are few. *e.g.* A drop of ink in still water slowly colours the whole glass, with no stirring.
+- **Gene**: A short stretch of the instructions inside a cell that tells it how to make one part, such as a protein. *e.g.* A gene for making a protein that carries oxygen is switched on in the cells that make red blood.
 - **Tectonic plate**: One of the huge slabs of rock that make up the Earth's outer shell. They move very slowly. *e.g.* The plate that carries India moves north-east by about 5 centimetres a year, and its push built the Himalayas.
 - **Eclipse**: When one thing moves into the shadow of another, so its light is hidden. *e.g.* Io, a moon of Jupiter, goes into Jupiter's shadow every 42 hours, and Ole Rømer timed these eclipses.
 - **Vibration**: A quick back-and-forth shaking. Sound is made by vibrations. *e.g.* When someone taps the far end of a long metal railing, the railing vibrates and you hear the tap through it.
@@ -110,6 +114,19 @@ A garden snail glides at about 1 millimetre each second. A cheetah in the wild h
 - **Myriam Hirt and her team in Germany, 2017:** They compared about 470 kinds of animals and found one pattern for runners, swimmers and fliers. Top speed rises with body size, then falls again. Their explanation is that a big body needs a long time to speed up, and the quick energy in the muscles runs out first.
 - **Biologists who measure speed in body lengths:** Kilometres per hour suit an animal of our size. Measured by the mover's own length, some bacteria cover 50 or more body lengths each second and beat a cheetah, who manages about 20. On this view, which being is fastest depends on the ruler you pick.
 - **Jagadish Chandra Bose in Kolkata, with his crescograph of the 1910s:** Bose built an instrument that magnified a plant's growth ten thousand times, so that the growth could be watched from second to second. Plants move all the time and respond to what happens to them. Their movements only seem absent to watchers who live at our pace.
+### Messages inside living things travel at very different speeds: nerves, plant signals, diffusion and gene switches · *defined*
+**Definition:** Every living body sends messages. Nerve signals are fast, plant signals are slower, spreading molecules are slower still, and gene switches are the slowest, taking minutes or hours.
+
+A nerve signal in you can travel at about 100 metres each second. It is an electrical wave that runs along the nerve, like a wave going round a stadium. The ions, which are tiny charged pieces, shift only a little. Many cells have no nerves, including bacteria and plant cells. They pass messages by diffusion, which is the slow spreading of molecules, and by gene switches. A gene switch turns a gene on, and making the new protein takes minutes or hours. So living things sense, decide and answer at many different speeds. Which of these would you call thinking?
+- e.g. Fast nerve fibres carry signals at up to about 120 metres each second. Slow pain fibres carry them at about 1 metre each second.
+- e.g. The touch-me-not plant passes the signal that folds her leaves at a few centimetres each second.
+- e.g. A small molecule spreads across one animal cell, about 10 micrometres wide, in about a hundredth to a tenth of a second.
+- e.g. The same spreading would take half a day or more to cover 1 centimetre of watery tissue. That is why big bodies need nerves and blood.
+- e.g. A plant hormone called auxin moves about a centimetre an hour through a stem.
+- e.g. Switching a gene on and making a new protein takes minutes in a bacterium and often hours in other cells.
+- e.g. A swimming bacterium moves about 20 to 30 micrometres each second, which is about 10 to 15 of her own body lengths each second.
+- **Jagadish Chandra Bose, in Plant Response, 1906:** Bose measured how fast the leaf-folding signal travels in the touch-me-not plant and compared it with nerve signals in animals. He saw one kind of messaging running through plants and animals at different speeds.
+- **Many plant and cell scientists today:** Plants and single cells sense, remember and answer without a brain, using chemical and electrical signals at the speeds their bodies allow. Some scientists prefer the word signalling, and keep the word thinking for nerves.
 ### A ladder of speeds from a walker to a spacecraft, each as a part of the speed of light · *defined*
 **Definition:** Speeds can be put in one line, from slowest to fastest, and each can be written as a fraction of the speed of light, which is 299,792 kilometres each second.
 
@@ -170,12 +187,23 @@ That limit has passed every test so far, and people keep testing it. In 2011 a t
 ### Entangled photons seem to answer at once, but they cannot carry a message · *debated*
 **Definition:** Two photons can be linked so that measuring one tells you what the other will show, however far apart they are. No message travels this way, so light's speed limit still holds.
 
-Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Experiments show that the photons did not simply agree their answers in advance. In 2013 a team in China found that if anything passes between them, it would have to go at least 10,000 times faster than light. Scientists still argue about what the link really is.
+Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Even the word instant is hard to use here. Two watchers moving differently disagree about which of two far-apart measurements came first. Scientists still argue about what the link really is.
 - e.g. In 2017 a Chinese satellite called Micius sent entangled photons to two ground stations about 1,200 kilometres apart.
 - e.g. In 2022 the Nobel Prize in Physics went to Alain Aspect, John Clauser and Anton Zeilinger for their experiments with entangled photons.
+- e.g. In 2013 a team in China found that if anything passes between entangled photons, it would have to go at least 10,000 times faster than light. Nothing that carries a message can do this.
 - **Albert Einstein, Boris Podolsky and Nathan Rosen, in 1935:** They said a complete theory should not allow a link like this. Einstein later called it spooky action at a distance. They thought the photons must have agreed their answers beforehand, in some hidden way.
 - **John Bell, in 1964, and the experimenters who followed him:** Bell found a way to test the question. Experiments by Clauser, Aspect, Zeilinger and others have shown again and again that the photons did not simply agree their answers in advance. The link is real.
 - **Most physicists today:** The link is real and still cannot send a message, because each result alone is random. Relativity and quantum physics both hold. What the link means is still debated, and several different pictures of it are still argued.
+### Is time a basic part of the world, or does it come from something deeper? · *idea*
+**Definition:** Nobody knows whether time is basic or comes from something deeper. Einstein's theory says mass and energy bend space and time, and it does not say they make them.
+
+Entangled photons raise a question. If the link needs no time to cross the distance, does it work outside time? Not necessarily. The theory does not say that. It says only that no order of cause and effect can be found between the two results. Photons do have energy, but no mass. In Einstein's theory, mass and energy bend space and time, and do not make them. Gravitational waves, first detected in 2015, travel through empty space with no mass in it. Some physicists think space and even time may come from entanglement. Others look to mass, energy or the way we see a blur of tiny things. Nobody knows yet. Which would you test first?
+- e.g. In 2013 a team in Italy led by Ekaterina Moreva used entangled photons to show how a clock and the rest of the world can be linked so that time appears from the link.
+- e.g. Gravitational waves from two black holes crashing were first detected in 2015. They carry the bending of space and time across empty space.
+- **Isaac Newton, in the Principia of 1687:** Time flows evenly for everyone, by its own nature, whether or not anything happens. In this picture time is basic and comes first.
+- **Albert Einstein, in 1905 and 1915:** Time and space join into one thing, called spacetime. Mass and energy bend it, and this bending is what we feel as gravity. Time is part of the world, but it is not the same for everyone.
+- **Don Page and William Wootters, in 1983:** Time may appear from the link, called entanglement, between a clock and the rest of the world. In a universe with only the whole picture, there may be no time at all until a part is picked as the clock.
+- **Carlo Rovelli, with Alain Connes, from 1994:** Time may appear because we only ever see a blurred picture of a huge number of tiny things. It is the blur, and not the tiny things, that seems to flow.
 ### Is empty space really empty? The ether that was guessed to carry light · *idea*
 **Definition:** The ether was a still, invisible substance, the same everywhere, that was guessed to carry light. Today space itself is said to have physical properties.
 
@@ -743,6 +771,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 - **When did the Earth's plates begin to move?** Estimates range from more than 4 billion years ago to less than 1 billion. The oldest rocks have been melted and remade so many times that the clues are faint, and geologists read them differently.
 - **What is energy?** Physicists calculate a number called energy that stays the same when things change, and it works. Richard Feynman wrote that in physics today we have no knowledge of what energy is. We have working definitions and no final one.
 - **What is space, and is empty space really empty?** Newton treated space as an empty stage, Leibniz as only the relations between things, and Einstein as something that bends. Physics says empty space still has fields and energy. Many physicists think a theory joining gravity and quantum physics may show that space is not basic.
+- **Could space and time come from entanglement?** Some physicists suspect it, and there are hints in the sums, but no experiment has shown it, and no accepted theory says how.
 
 ## Questions to ask kids
 - You walked to the shop today. About how long did it take, and about how far is it? So about how fast did you go?

@@ -237,6 +237,30 @@
    "art": "The Milky Way drawn as a spiral with a small dot marking the Sun."
   },
   {
+   "term": "Ion",
+   "meaning": "A tiny piece of matter that carries an electric charge. Salt in water breaks into ions.",
+   "example": "The salt in sweat is made of ions, which is why sweat tastes salty and carries a small current.",
+   "art": "Salt dissolving in water into tiny dots marked plus and minus."
+  },
+  {
+   "term": "Neuron",
+   "meaning": "A nerve cell. Neurons send messages as electrical waves.",
+   "example": "The nerve cell that carries the feeling of a hot pan from your finger to your spine is a neuron.",
+   "art": "A long thin nerve cell from a fingertip to the spine."
+  },
+  {
+   "term": "Diffusion",
+   "meaning": "The slow spreading of tiny pieces from where there are many to where there are few.",
+   "example": "A drop of ink in still water slowly colours the whole glass, with no stirring.",
+   "art": "A drop of ink spreading in a glass of water over four pictures."
+  },
+  {
+   "term": "Gene",
+   "meaning": "A short stretch of the instructions inside a cell that tells it how to make one part, such as a protein.",
+   "example": "A gene for making a protein that carries oxygen is switched on in the cells that make red blood.",
+   "art": "A long coil with one short stretch highlighted."
+  },
+  {
    "term": "Tectonic plate",
    "meaning": "One of the huge slabs of rock that make up the Earth's outer shell. They move very slowly.",
    "example": "The plate that carries India moves north-east by about 5 centimetres a year, and its push built the Himalayas.",
@@ -406,6 +430,33 @@
    "context": "This card looks at how fast living beings go, inside and outside their bodies, and why the biggest are not the fastest."
   },
   {
+   "concept": "Messages inside living things travel at very different speeds: nerves, plant signals, diffusion and gene switches",
+   "status": "defined",
+   "definition": "Every living body sends messages. Nerve signals are fast, plant signals are slower, spreading molecules are slower still, and gene switches are the slowest, taking minutes or hours.",
+   "description": "A nerve signal in you can travel at about 100 metres each second. It is an electrical wave that runs along the nerve, like a wave going round a stadium. The ions, which are tiny charged pieces, shift only a little. Many cells have no nerves, including bacteria and plant cells. They pass messages by diffusion, which is the slow spreading of molecules, and by gene switches. A gene switch turns a gene on, and making the new protein takes minutes or hours. So living things sense, decide and answer at many different speeds. Which of these would you call thinking?",
+   "examples": [
+    "Fast nerve fibres carry signals at up to about 120 metres each second. Slow pain fibres carry them at about 1 metre each second.",
+    "The touch-me-not plant passes the signal that folds her leaves at a few centimetres each second.",
+    "A small molecule spreads across one animal cell, about 10 micrometres wide, in about a hundredth to a tenth of a second.",
+    "The same spreading would take half a day or more to cover 1 centimetre of watery tissue. That is why big bodies need nerves and blood.",
+    "A plant hormone called auxin moves about a centimetre an hour through a stem.",
+    "Switching a gene on and making a new protein takes minutes in a bacterium and often hours in other cells.",
+    "A swimming bacterium moves about 20 to 30 micrometres each second, which is about 10 to 15 of her own body lengths each second."
+   ],
+   "perspectives": [
+    {
+     "who": "Jagadish Chandra Bose, in Plant Response, 1906",
+     "explanation": "Bose measured how fast the leaf-folding signal travels in the touch-me-not plant and compared it with nerve signals in animals. He saw one kind of messaging running through plants and animals at different speeds."
+    },
+    {
+     "who": "Many plant and cell scientists today",
+     "explanation": "Plants and single cells sense, remember and answer without a brain, using chemical and electrical signals at the speeds their bodies allow. Some scientists prefer the word signalling, and keep the word thinking for nerves."
+    }
+   ],
+   "art": "A ladder of five rungs from slowest to fastest: gene switch, plant hormone, spreading molecules in a cell, plant electrical signal, nerve signal.",
+   "context": "This card follows the one before it: living things move at their own speeds, and so do the messages inside them. It is here to compare how a nerve, a plant and a single cell each send a message."
+  },
+  {
    "concept": "A ladder of speeds from a walker to a spacecraft, each as a part of the speed of light",
    "status": "defined",
    "definition": "Speeds can be put in one line, from slowest to fastest, and each can be written as a fraction of the speed of light, which is 299,792 kilometres each second.",
@@ -554,10 +605,11 @@
    "concept": "Entangled photons seem to answer at once, but they cannot carry a message",
    "status": "debated",
    "definition": "Two photons can be linked so that measuring one tells you what the other will show, however far apart they are. No message travels this way, so light's speed limit still holds.",
-   "description": "Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Experiments show that the photons did not simply agree their answers in advance. In 2013 a team in China found that if anything passes between them, it would have to go at least 10,000 times faster than light. Scientists still argue about what the link really is.",
+   "description": "Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Even the word instant is hard to use here. Two watchers moving differently disagree about which of two far-apart measurements came first. Scientists still argue about what the link really is.",
    "examples": [
     "In 2017 a Chinese satellite called Micius sent entangled photons to two ground stations about 1,200 kilometres apart.",
-    "In 2022 the Nobel Prize in Physics went to Alain Aspect, John Clauser and Anton Zeilinger for their experiments with entangled photons."
+    "In 2022 the Nobel Prize in Physics went to Alain Aspect, John Clauser and Anton Zeilinger for their experiments with entangled photons.",
+    "In 2013 a team in China found that if anything passes between entangled photons, it would have to go at least 10,000 times faster than light. Nothing that carries a message can do this."
    ],
    "perspectives": [
     {
@@ -575,6 +627,36 @@
    ],
    "art": "Two photons leaving a glowing source in opposite directions, each reaching a detector, with two lists of ups and downs that match when laid side by side.",
    "context": "This card is here because entanglement looks like instant communication, which would break the speed limit of light. It shows why it does not."
+  },
+  {
+   "concept": "Is time a basic part of the world, or does it come from something deeper?",
+   "status": "idea",
+   "definition": "Nobody knows whether time is basic or comes from something deeper. Einstein's theory says mass and energy bend space and time, and it does not say they make them.",
+   "description": "Entangled photons raise a question. If the link needs no time to cross the distance, does it work outside time? Not necessarily. The theory does not say that. It says only that no order of cause and effect can be found between the two results. Photons do have energy, but no mass. In Einstein's theory, mass and energy bend space and time, and do not make them. Gravitational waves, first detected in 2015, travel through empty space with no mass in it. Some physicists think space and even time may come from entanglement. Others look to mass, energy or the way we see a blur of tiny things. Nobody knows yet. Which would you test first?",
+   "examples": [
+    "In 2013 a team in Italy led by Ekaterina Moreva used entangled photons to show how a clock and the rest of the world can be linked so that time appears from the link.",
+    "Gravitational waves from two black holes crashing were first detected in 2015. They carry the bending of space and time across empty space."
+   ],
+   "perspectives": [
+    {
+     "who": "Isaac Newton, in the Principia of 1687",
+     "explanation": "Time flows evenly for everyone, by its own nature, whether or not anything happens. In this picture time is basic and comes first."
+    },
+    {
+     "who": "Albert Einstein, in 1905 and 1915",
+     "explanation": "Time and space join into one thing, called spacetime. Mass and energy bend it, and this bending is what we feel as gravity. Time is part of the world, but it is not the same for everyone."
+    },
+    {
+     "who": "Don Page and William Wootters, in 1983",
+     "explanation": "Time may appear from the link, called entanglement, between a clock and the rest of the world. In a universe with only the whole picture, there may be no time at all until a part is picked as the clock."
+    },
+    {
+     "who": "Carlo Rovelli, with Alain Connes, from 1994",
+     "explanation": "Time may appear because we only ever see a blurred picture of a huge number of tiny things. It is the blur, and not the tiny things, that seems to flow."
+    }
+   ],
+   "art": "A clock face made of many tiny linked dots, with a space and time grid bending around a heavy ball.",
+   "context": "This card answers the open question about time. It is here to show that time may be basic, or may come from something deeper, and that nobody knows."
   },
   {
    "concept": "Is empty space really empty? The ether that was guessed to carry light",
@@ -811,6 +893,10 @@
   {
    "q": "What is space, and is empty space really empty?",
    "why_open": "Newton treated space as an empty stage, Leibniz as only the relations between things, and Einstein as something that bends. Physics says empty space still has fields and energy. Many physicists think a theory joining gravity and quantum physics may show that space is not basic."
+  },
+  {
+   "q": "Could space and time come from entanglement?",
+   "why_open": "Some physicists suspect it, and there are hints in the sums, but no experiment has shown it, and no accepted theory says how."
   }
  ],
  "story": {
@@ -1292,7 +1378,7 @@
   "Doctors measure how fast signals travel along a nerve in an arm or a leg. A signal that is slower than usual helps them find where a nerve is pinched or hurt.",
   "A rocket from Sriharikota must give a satellite a sideways speed of nearly 8 kilometres each second. At a lower speed the satellite falls back, and that speed decides how much fuel the rocket carries."
  ],
- "playtest": "Written from reading and working out on paper, not yet tried at home. TO VERIFY BEFORE PUBLISHING. (1) The Two-Metre Track: the times in step s4 are estimates for a small die-cast car leaving a 6 centimetre ramp onto tiles. Try it with two different cars and a marble, and on a rough floor. Check that the second metre is reliably slower by an amount a hand-pressed stopwatch can show. If the gap is too small, lengthen the two pieces or lower the ramp. (2) The key clock: a 25 centimetre thread gives a swing of about 1 second and a 6 centimetre thread about half a second, by the pendulum formula. Check that a child can count the short one. (3) My Own Pace: the claim that five ordinary walks fall within about half a second is from experience of walking studies, not a home trial. (4) Sources to check against the texts: Aryabhatiya Gola 9 (boat verse); Vaisheshika 'vega' in Prashastapada; Tattvartha Sutra 5.17 numbering; Sayana on Rig Veda 1.50.4 and the figure 2,202 yojanas in half a nimesha; Bhagavata Purana 9.3 for Kakudmi and Revati; Isha Upanishad 4 and 5 paraphrase; Aristotle Physics 6.9 for Zeno's arrow. (5) Numbers to check: fly flicker rate of about 250 and human about 60 (Healy 2013); Hirt 2017 used about 470 species; cheetah 93 kilometres per hour (Wilson 2013); some bacteria at 50 or more body lengths each second; Earth's spin speed of about 1,600 kilometres per hour at Chennai and 1,400 at Srinagar; India's past drift of 15 to 20 centimetres a year and the plate-thickness finding (Kumar 2007); Ralston 1958 and the horse studies; Smoot 1977 and 370 kilometres each second; the Chennai to Coimbatore train figures (about 500 kilometres, about 6 hours) are round numbers for the sum. (7) The deep truth is near sci.space-time.time.L2 ('nobody has measured time without watching something change'). This one goes on to say a speed belongs to two movements and never to one thing. Check that the two read as different. (8) A parent should know: the watchmaker's blinking lamp in the story is imagined, and the story says so in its note. Checked: every quiz item has an outcome and all six outcomes are covered. Every worksheet has 16 items, at least 4 thinking items and one perspective item. No question or sum repeats. I worked every sum by hand: the average of 30 and 60 kilometres per hour over equal distances is 40, 72 kilometres per hour is 20 metres per second, 5 centimetres for 2 crore years is 1,000 kilometres, 20 light-minutes is 36 crore kilometres, and light crosses India in about one hundredth of a second. Game g1: played in my head with 2 and 4 players. The 36 cards use up the draw pile exactly with 4 players. The project and the challenge include backups for cool weather, a thin strip and phones that cannot step through video. Unsure: open the PhET and Nehru Science Centre addresses once to confirm they work. The videos have no ids yet. Speeds on the journey cards are rounded and realistic. Moong shoots can be slow in winter, so the project has a warm-place backup. Facts still to verify: (1) Lorentz dates: the old card said 1889 to 1904 with FitzGerald, the brief says 1892 to 1904, both are kept in different places, check which to keep. (2) The fractions of light's speed in the ladder card are my own divisions (for example Earth round the Sun 29.8 km/s is about 1 in 10,000, escape speed 11.2 km/s about 1 in 27,000, Parker 190 km/s about 1 in 1,600, Sun round galaxy 230 km/s about 1 in 1,300). The 'Sun round the galaxy 230 kilometres each second' unit is added to the old bare '230'. (3) Feynman Lectures vol 1 ch 4, Augustine Confessions book 11, Newton and Leibniz on space, and the particle-physics point on the source of mass are taken from WRITER_BRIEF safe examples and were not re-checked by me. (4) 'Sound needs air to travel through' and 'Uranus path, Neptune found 1846' use common knowledge beyond the brief. (5) Vedic passages. Chandogya Upanishad 1.9.1: VERIFIED (wisdomlib English edition, answer 'ākāśa', beings arise from ākāśa and go back into it, ākāśa the highest goal). Taittiriya Upanishad 2.1: VERIFIED by chapter and section for the order space, air, fire, water, earth (Shankara and Max Muller summaries), but I did not see the exact Sanskrit of 2.1.1 itself, so the verse number is given as 2.1 only. Vaisheshika Sutra 2.1.27 'pariśeṣāl liṅgam ākāśasya' (ākāśa is known by a mark, by elimination, with sound as the mark) VERIFIED in the wisdomlib commentary. Prashastapada: VERIFIED that sound is a quality of ākāśa and that ākāśa is one and all-pervading (vibhu), from the Padarthadharmasamgraha translation. NOT verified and LEFT OUT: that ākāśa is 'not made of atoms', because no source stated it. Also left out: the Sanskrit quotations themselves, since I could not check the exact wording. A scholar of Sanskrit should read the three perspectives once. (6) The word 'velocity' is not used in the new cards, so no term was added for it.",
+ "playtest": "Written from reading and working out on paper, not yet tried at home. TO VERIFY BEFORE PUBLISHING. (1) The Two-Metre Track: the times in step s4 are estimates for a small die-cast car leaving a 6 centimetre ramp onto tiles. Try it with two different cars and a marble, and on a rough floor. Check that the second metre is reliably slower by an amount a hand-pressed stopwatch can show. If the gap is too small, lengthen the two pieces or lower the ramp. (2) The key clock: a 25 centimetre thread gives a swing of about 1 second and a 6 centimetre thread about half a second, by the pendulum formula. Check that a child can count the short one. (3) My Own Pace: the claim that five ordinary walks fall within about half a second is from experience of walking studies, not a home trial. (4) Sources to check against the texts: Aryabhatiya Gola 9 (boat verse); Vaisheshika 'vega' in Prashastapada; Tattvartha Sutra 5.17 numbering; Sayana on Rig Veda 1.50.4 and the figure 2,202 yojanas in half a nimesha; Bhagavata Purana 9.3 for Kakudmi and Revati; Isha Upanishad 4 and 5 paraphrase; Aristotle Physics 6.9 for Zeno's arrow. (5) Numbers to check: fly flicker rate of about 250 and human about 60 (Healy 2013); Hirt 2017 used about 470 species; cheetah 93 kilometres per hour (Wilson 2013); some bacteria at 50 or more body lengths each second; Earth's spin speed of about 1,600 kilometres per hour at Chennai and 1,400 at Srinagar; India's past drift of 15 to 20 centimetres a year and the plate-thickness finding (Kumar 2007); Ralston 1958 and the horse studies; Smoot 1977 and 370 kilometres each second; the Chennai to Coimbatore train figures (about 500 kilometres, about 6 hours) are round numbers for the sum. (7) The deep truth is near sci.space-time.time.L2 ('nobody has measured time without watching something change'). This one goes on to say a speed belongs to two movements and never to one thing. Check that the two read as different. (8) A parent should know: the watchmaker's blinking lamp in the story is imagined, and the story says so in its note. Checked: every quiz item has an outcome and all six outcomes are covered. Every worksheet has 16 items, at least 4 thinking items and one perspective item. No question or sum repeats. I worked every sum by hand: the average of 30 and 60 kilometres per hour over equal distances is 40, 72 kilometres per hour is 20 metres per second, 5 centimetres for 2 crore years is 1,000 kilometres, 20 light-minutes is 36 crore kilometres, and light crosses India in about one hundredth of a second. Game g1: played in my head with 2 and 4 players. The 36 cards use up the draw pile exactly with 4 players. The project and the challenge include backups for cool weather, a thin strip and phones that cannot step through video. Unsure: open the PhET and Nehru Science Centre addresses once to confirm they work. The videos have no ids yet. Speeds on the journey cards are rounded and realistic. Moong shoots can be slow in winter, so the project has a warm-place backup. Facts still to verify: (1) Lorentz dates: the old card said 1889 to 1904 with FitzGerald, the brief says 1892 to 1904, both are kept in different places, check which to keep. (2) The fractions of light's speed in the ladder card are my own divisions (for example Earth round the Sun 29.8 km/s is about 1 in 10,000, escape speed 11.2 km/s about 1 in 27,000, Parker 190 km/s about 1 in 1,600, Sun round galaxy 230 km/s about 1 in 1,300). The 'Sun round the galaxy 230 kilometres each second' unit is added to the old bare '230'. (3) Feynman Lectures vol 1 ch 4, Augustine Confessions book 11, Newton and Leibniz on space, and the particle-physics point on the source of mass are taken from WRITER_BRIEF safe examples and were not re-checked by me. (4) 'Sound needs air to travel through' and 'Uranus path, Neptune found 1846' use common knowledge beyond the brief. (5) Vedic passages. Chandogya Upanishad 1.9.1: VERIFIED (wisdomlib English edition, answer 'ākāśa', beings arise from ākāśa and go back into it, ākāśa the highest goal). Taittiriya Upanishad 2.1: VERIFIED by chapter and section for the order space, air, fire, water, earth (Shankara and Max Muller summaries), but I did not see the exact Sanskrit of 2.1.1 itself, so the verse number is given as 2.1 only. Vaisheshika Sutra 2.1.27 'pariśeṣāl liṅgam ākāśasya' (ākāśa is known by a mark, by elimination, with sound as the mark) VERIFIED in the wisdomlib commentary. Prashastapada: VERIFIED that sound is a quality of ākāśa and that ākāśa is one and all-pervading (vibhu), from the Padarthadharmasamgraha translation. NOT verified and LEFT OUT: that ākāśa is 'not made of atoms', because no source stated it. Also left out: the Sanskrit quotations themselves, since I could not check the exact wording. A scholar of Sanskrit should read the three perspectives once. (6) The word 'velocity' is not used in the new cards, so no term was added for it. Added 28 Nov: the numbers in the card on messages inside living things (nerve speeds, diffusion times across a cell and across 1 centimetre, auxin about 1 cm an hour, gene switching times, bacterial swimming speed), the Moreva 2013 experiment details, the 2015 gravitational wave detection, and the Page and Wootters 1983 and Connes and Rovelli 1994 dates are from memory and are still to verify.",
  "worksheets": [
   {
    "id": "ws-core",
