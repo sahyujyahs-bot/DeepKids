@@ -35,7 +35,7 @@ const proj=(x,y,z)=>{const v=new THREE.Vector3(x,y,z).project(cam);return [(v.x*
 // ---- scenes
 const SCN=[];let T0=0;const GAP=.5;
 const VD=[7.11,7.36,10.46,6.9,5.92,7.87,6.21,8.42,2.83,5.91,3.47];
-const DUR=[8.2,8.4,11.2,7.8,7,8.8,7.2,9.4,6,6.8,5.5,11];
+const DUR=[8.2,8.4,11.2,7.8,7,8.8,7.2,9.4,6,6.8,5.5,17.8];
 function scene(name,dur,bg,build){const g=new THREE.Group();g.visible=false;sc.add(g);const s={name,dur,bg,g,t0:T0,id:SCN.length,upd:null};build(g,s);SCN.push(s);T0+=dur+GAP*0;return s}
 const floor=(g,c)=>{const f=new THREE.Mesh(new THREE.PlaneGeometry(120,80),TM(c));f.rotation.x=-Math.PI/2;f.receiveShadow=true;g.add(f);return f};
 // person
@@ -190,9 +190,9 @@ const cards=[1,2,3,4,5].map((n,i)=>{const im=document.createElement('img');im.sr
 const endtxt=document.createElement('div');endtxt.style.cssText='position:absolute;left:0;right:0;top:46px;text-align:center;color:#f6edd8;font-size:44px;font-weight:700;line-height:1.35';endc.appendChild(endtxt);
 const url=document.createElement('div');url.style.cssText='position:absolute;left:0;right:0;bottom:24px;text-align:center;color:#ffd24a;font-size:52px;text-shadow:0 0 12px #16224a,0 0 12px #16224a;font-weight:700';url.textContent='Try free · app.deepkids.in';endc.appendChild(url);
 scene('end',DUR[11],NAVY,(g,s)=>{s.upd=(t)=>{cam.position.set(0,5,20);cam.lookAt(0,1,0);endc.style.display='block';
-endtxt.innerHTML='Multitudes of perspectives<br><span style="font-size:36px;font-weight:400">make the universe, life and science interesting</span>';
+endtxt.innerHTML=t<7?'Multitude of perspectives<br><span style="font-size:36px;font-weight:400">make life, universe and science so interesting</span>':(t<12.9?'Textbooks and schools prefer conformity<br><span style="font-size:36px;font-weight:400">and we embrace perspectives</span>':'');endtxt.style.opacity=t<7?1:(t<12.9?sg(t,7,7.4):0);
 cards.forEach((im,i)=>{const u=E.back(sg(t,.4+i*.35,1.1+i*.35));const ang=(i-2)*13;im.style.opacity=u>0?1:0;const x=640-165+(i-2)*150,y=215+Math.abs(i-2)*12;im.style.transform=`translate(${x}px,${y}px) rotate(${ang*u}deg) scale(${.6+.4*u})`});
-url.style.opacity=sg(t,4.5,5.5)}});
+url.style.opacity=sg(t,13,13.6)}});
 // driver
 const wipe=document.getElementById('wipe');
 function seek(tt){let t=Math.floor(tt*15+1e-6)/15;let sc_=SCN[SCN.length-1];for(const s of SCN){if(t<s.t0+s.dur){sc_=s;break}}
