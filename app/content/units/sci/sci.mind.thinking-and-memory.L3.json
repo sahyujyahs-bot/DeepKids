@@ -105,6 +105,12 @@
    "meaning": "Something you have done so often that you do it without deciding to.",
    "example": "Washing your hands as soon as you come home, without anyone telling you.",
    "art": "A child at a wash basin, washing hands, with a school bag dropped by the door."
+  },
+  {
+   "term": "Reflex",
+   "meaning": "A reflex is a quick action the body does without you deciding. The signal goes to a nearby part of the spine and back, so it is faster than a thought.",
+   "example": "When you touch a hot dosa pan, your hand jumps away before you can think. That jump is a reflex.",
+   "art": "A child's hand jumping back from a hot pan, with a short arrow looping to the spine."
   }
  ],
  "explanations": [
@@ -119,7 +125,12 @@
     "While you sleep, your brain keeps your heart beating and your lungs breathing.",
     "When you read a word, your brain turns black marks on paper into a meaning."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Daniel Simons and Christopher Chabris, USA (1999)",
+     "explanation": "In 1999 Simons and Chabris asked people to watch a short film of players passing basketballs and count the passes made by one team. Partway through, a person in a gorilla suit walks into the middle, thumps their chest and walks off, and about half the viewers did not notice the gorilla at all. The result has been repeated many times and shows that attention is limited. It matters for road safety, because drivers busy with phones can miss people crossing."
+    }
+   ],
    "art": "A child crossing a lane carefully, with dotted lines from her eyes and ears to her head, and from her head down to her legs."
   },
   {
@@ -2771,6 +2782,17 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-wilfrid-gordon-mcdonald-",
+   "item": "Wilfrid Gordon McDonald Partridge by Mem Fox",
+   "kind": "book",
+   "why": "A small boy helps an old friend find her lost memories through objects. It shows how things we touch can bring memories back.",
+   "url": "https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the memory game."
   }
  ],
  "warmup": [

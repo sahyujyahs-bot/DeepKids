@@ -1,9 +1,9 @@
 # A forest floor holds the rain: how living things build a place together
 `sci.ecology.interdependence.L4`
 
-**Summary.** Why does a forest floor of dead leaves hold rain better than bare soil? In this unit you will run a fair test with plates of soil and leaves, follow a nature trail from your window, and read signs like a nibbled leaf to see which links they show.
+**Summary.** Why does a forest floor of dead leaves hold rain better than bare soil? In this lesson you will run a fair test with plates of soil and leaves, follow a nature trail from your window, and read signs like a nibbled leaf to see which links they show.
 
-**Intro.** *Walk along a forest trail in the monsoon and the ground is soft, dark and wet under a thick carpet of dead leaves. Walk across a swept, cleared field in the same rain and the water runs off in brown streams. The rain is the same. Why does the ground behave so differently?* Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this unit you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature and still let it grow back.
+**Intro.** *Walk along a forest trail in the monsoon and the ground is soft, dark and wet under a thick carpet of dead leaves. Walk across a swept, cleared field in the same rain and the water runs off in brown streams. The rain is the same. Why does the ground behave so differently?* Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this lesson you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature and still let it grow back.
 
 ## Learning outcomes
 0. I can explain that a place is a web of many kinds of links between living things, not only eating and being eaten.
@@ -35,6 +35,7 @@
 Eating is the link we notice first. But on a trail there are at least six kinds. One is food, such as a bulbul eating a berry. Two is shelter, such as a hornbill nesting in a tree hole. Three is help in making new plants, such as a bee carrying pollen. Four is travel, such as a bird carrying seeds in her gut. Five is clean-up, such as termites and fungi turning dead wood back into soil. Six is changing the place itself, such as roots holding a slope. One being can have all six links at once. Some links also hurt. A caterpillar eats a leaf, and two trees fight for the same light. A web has the harmful links too.
 - e.g. A peepal tree feeds birds with her figs, shelters squirrels in her branches, and is held up by roots that also hold the soil.
 - e.g. A termite eats dead wood, shelters inside a mound, and digs tunnels that let rain water into the ground.
+- **Lucy King, Kenya and UK (beehive fence research, from 2007):** Elephants raiding farms is a serious problem in Africa and in India. Lucy King and her colleagues noticed that elephants avoid trees with beehives, because bees can sting them around the eyes and inside the trunk, and in 2007 they showed that elephants walked away from the recorded sound of angry bees. They then hung beehives on a wire around farms, so that when an elephant pushes the wire the bees come out, and farmers could also sell the honey. Beehive fences work well in many trials but not everywhere, because in a drought the bees can leave and very hungry elephants sometimes break through.
 ### Ecosystem engineers: beings who change the place for everyone else · *defined*
 **Definition:** An ecosystem engineer is a living being who changes a place so much that it becomes a home for others, or stops being one.
 
@@ -540,7 +541,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 2. (mcq) The same rain is poured on two plates. Plate X has a mat of grass roots and plate Y is bare soil. The water from Y is brown and arrives in 5 seconds. The water from X is clear and arrives after 40 seconds. What does this suggest?  
    Options: Roots hold the soil and let water sink in / Plate X got less rain / Plate Y has more soil  
    **Answer:** Roots hold the soil and let water sink in. *Why:* Plate X's water arrived later and was clearer, so the roots slowed the water and held the soil. The rain was the same, so plate X did not get less.
-3. (mcq) A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this unit explains this best?  
+3. (mcq) A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this lesson explains this best?  
    Options: Concrete stops water sinking in, so all of it runs off / Concrete makes the rain heavier / Drains make more rain  
    **Answer:** Concrete stops water sinking in, so all of it runs off. *Why:* Concrete has no tunnels or roots, so there is no infiltration and all the rain runs off at once. Concrete does not change how much rain falls.
 4. (mcq) Which sentence is best supported by the Forest Floor Test?  
@@ -679,7 +680,7 @@ Everybody Eats (sci.ecology.L4): Topic-level song
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a sign or a visitor on your trail, and people around the world help you name them.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: records of plants and animals across India, with local names, to look up what you found on your trail.
 - [Elinor Ostrom at the Nobel Prize site](https://www.nobelprize.org) · interactive: For the parent: search for Elinor Ostrom to read about her prize in 2009 and her work on shared things.
-- [Mawphlang Sacred Forest, near Shillong, Meghalaya]() · place · Shillong: A Khasi sacred forest that the community has protected for centuries. Walk there with a local guide and ask about the rules of the forest.
+- Mawphlang Sacred Forest, near Shillong, Meghalaya · place · Shillong: A Khasi sacred forest that the community has protected for centuries. Walk there with a local guide and ask about the rules of the forest.
 - [Bombay Natural History Society nature trails](https://www.bnhs.org) · place · Mumbai: One of India's oldest nature groups. They run nature trails and talks for families in and near Mumbai.
 
 ## Things to buy

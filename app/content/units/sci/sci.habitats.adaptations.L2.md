@@ -1,9 +1,9 @@
 # Adaptation: why a fish has fins and a camel has a hump
 `sci.habitats.adaptations.L2`
 
-**Summary.** A heavy fish does not sink, and a camel walks easily over hot sand. How? In this unit you will use a paintbrush to see how a gill works, make a bottle fish with coins inside and find how much air stops it sinking, and play a three-clue guessing game.
+**Summary.** A heavy fish does not sink, and a camel walks easily over hot sand. How? In this lesson you will use a paintbrush to see how a gill works, make a bottle fish with coins inside and find how much air stops it sinking, and play a three-clue guessing game.
 
-**Intro.** *A fish cannot breathe for long on hot sand. A camel cannot breathe under water. Why is each of them so good at living in one place, and so bad at the other?* Look at a fish and a camel side by side. The fish has flat fins, a smooth body and gills on the sides of her head. The camel has a hump, long legs, wide soft feet and very long eyelashes. Nothing about the fish would help on sand, and nothing about the camel would help under water. In this unit you find out what each body part does, and you make a bottle fish to test how a fish stays up in the water.
+**Intro.** *A fish cannot breathe for long on hot sand. A camel cannot breathe under water. Why is each of them so good at living in one place, and so bad at the other?* Look at a fish and a camel side by side. The fish has flat fins, a smooth body and gills on the sides of her head. The camel has a hump, long legs, wide soft feet and very long eyelashes. Nothing about the fish would help on sand, and nothing about the camel would help under water. In this lesson you find out what each body part does, and you make a bottle fish to test how a fish stays up in the water.
 
 ## Learning outcomes
 0. By the end I can say what an adaptation is, and give an example of a body part that suits a place.
@@ -70,6 +70,7 @@ Plants lose water through their leaves, so many plants of dry places have tiny l
 - e.g. Lotus leaves in a temple tank.
 - e.g. Mangrove roots at Pichavaram in Tamil Nadu and in the Sundarbans.
 - e.g. Khejri trees in the Thar, with very deep roots.
+- e.g. A pine tree on a snowy mountain has thin needles instead of wide leaves, and her branches slope downwards, so snow slides off instead of piling up and breaking them.
 - **Scientists who study what plants sense:** Plants sense their world and decide what to do. An aloe senses the cool of the night and opens her leaf holes then, to save water.
 - **Other scientists:** These are automatic responses, built into the plant's cells, with no thinking needed.
 ### Where do adaptations come from? · *defined*
@@ -565,12 +566,12 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 - Boat makers shape boats narrow at the front, like a fish, so they move through water more easily.
 
 ## Spotted around us
-- Silver mathi and striped bangda on ice at a fish market in Kochi, with red gills under their flaps.
-- Camels kneeling on their chest pads at the Pushkar fair in Rajasthan.
-- An aloe plant in a pot on a sunny balcony in Chennai, with thick, juicy leaves.
+- Silver mathi and striped bangda on ice at a fish market, with red gills under their flaps.
+- Camels kneeling on their chest pads, at a fair or in a picture.
+- An aloe plant in a pot on a sunny balcony, with thick, juicy leaves.
 - Lotus leaves floating in a temple tank, with drops of water rolling on them.
-- Mudskippers hopping on the mud at the Pichavaram mangroves in Tamil Nadu, or in the Sundarbans.
-- Pigeons nesting on window ledges in Mumbai and Kolkata, the way their family once nested on cliffs.
+- Mudskippers hopping on the mud of a mangrove shore.
+- Pigeons nesting on window ledges, the way their family once nested on cliffs.
 
 ## Open questions
 - **How many kinds of fish live in the deep sea?** The deep sea is huge and dark, and very little of it has been explored. Scientists find new kinds of fish there nearly every year.
@@ -607,9 +608,9 @@ Just Right for Here (sci.habitats.L2): Topic-level song for Habitats L2
 ## Links
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up the fish, plants and animals you see, with photos taken by people all over India.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a plant on your balcony or a bird at the window, and people help you name them.
-- [Pichavaram mangrove forest]() · place · Near Chidambaram, Tamil Nadu: Go by boat between mangrove trees, and look for breathing roots and mudskippers.
-- [National Research Centre on Camel]() · place · Bikaner, Rajasthan: See camels close up, and their wide feet, humps and long eyelashes.
-- [Taraporewala Aquarium]() · place · Mumbai: Watch fish hang still in the water, steer with their fins and breathe with their gills.
+- Pichavaram mangrove forest · place · Near Chidambaram, Tamil Nadu: Go by boat between mangrove trees, and look for breathing roots and mudskippers.
+- National Research Centre on Camel · place · Bikaner, Rajasthan: See camels close up, and their wide feet, humps and long eyelashes.
+- Taraporewala Aquarium · place · Mumbai: Watch fish hang still in the water, steer with their fins and breathe with their gills.
 
 ## Things to buy
 

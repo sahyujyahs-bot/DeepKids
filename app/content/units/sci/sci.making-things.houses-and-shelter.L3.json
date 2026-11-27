@@ -92,6 +92,18 @@
    "meaning": "A sudden shaking of the ground, caused by huge blocks of rock deep under the ground slipping past each other.",
    "example": "In January 2001, a big earthquake shook Kutch in Gujarat.",
    "art": "A cracked road and a gently shaking house, with wavy lines under the ground."
+  },
+  {
+   "term": "Terracotta",
+   "meaning": "Terracotta is baked clay, usually reddish brown. Diyas, clay cups and flower pots are made of terracotta. The word means baked earth.",
+   "example": "The small clay diya you light at Deepavali is terracotta. The clay was baked hard in a fire.",
+   "art": "A reddish brown diya lamp next to a flower pot, both made of baked clay."
+  },
+  {
+   "term": "Mortar",
+   "meaning": "Mortar is a wet paste put between bricks that dries hard and holds them together. Today it is usually made of cement, sand and water.",
+   "example": "A mason in your street spreads grey mortar on top of a brick and presses the next brick down on it. By next day the wall is firm.",
+   "art": "A mason's trowel spreading grey paste on a brick wall."
   }
  ],
  "explanations": [
@@ -2618,6 +2630,17 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-dreaming-up",
+   "item": "Dreaming Up: A Celebration of Building by Christy Hale",
+   "kind": "book",
+   "why": "Children's block towers and sand castles are shown beside real buildings from around the world. It helps the child see that building starts the same way at any size.",
+   "url": "https://www.amazon.in/s?k=Dreaming+Up",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the house project."
   }
  ],
  "warmup": [

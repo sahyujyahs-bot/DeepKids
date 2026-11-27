@@ -74,6 +74,18 @@
    "meaning": "Using the left hand more, and with more skill, for jobs like writing and throwing.",
    "example": "About 1 person in 10 writes with their left hand.",
    "art": "A girl writing in a notebook with her left hand."
+  },
+  {
+   "term": "Variation",
+   "meaning": "Variation means the differences between members of the same kind of living thing. Children in one class are of different heights and have different hair and eyes.",
+   "example": "In a class of Class 3 children, no two have exactly the same height, and that spread of heights is variation.",
+   "art": "A row of children of different heights standing in a line."
+  },
+  {
+   "term": "Survey",
+   "meaning": "A survey is asking many people the same questions and writing down their answers. It helps you find out what most people think or do.",
+   "example": "You ask ten neighbours which fruit they like best, and write each answer in a table. That is a survey.",
+   "art": "A child with a notebook asking a neighbour a question, with a tally table on the page."
   }
  ],
  "explanations": [
@@ -127,9 +139,15 @@
    "examples": [
     "A left-handed child bumps elbows with a right-handed child if they sit on the wrong sides at a table.",
     "A cricket player may hold the bat one way and write with the other hand.",
-    "A colour-blind child may find a map that uses only red and green hard to read."
+    "A colour-blind child may find a map that uses only red and green hard to read.",
+    "Eye colour is a feature you are born with and it stays. Hair length changes with every haircut. Height is both, because the family you were born into sets a range and food and sleep change where you end up."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Nina Jablonski and George Chaplin, USA, scientists who study human evolution",
+     "explanation": "In 2000 Jablonski and Chaplin compared skin colour with the amount of UV sunlight in each part of the world. Skin is darker where UV is strongest, near the equator, and lighter where it is weak. Their explanation is that melanin, the colouring in skin, protects the body from strong UV, but skin also needs some UV to make vitamin D, which keeps bones strong, so where sunlight is weak, lighter skin helps. Most scientists accept that sunlight shaped skin colour."
+    }
+   ],
    "art": "A row of five children from one class: one writing left-handed, one squinting through a paper hole with the left eye, one looking at a red and green map with a puzzled face.",
    "context": "This card is about the hidden ways bodies differ. It goes with the Dominant Eye Test."
   },
@@ -2190,7 +2208,19 @@
    "why": "A museum of real old homes from different South Indian states, side by side. Walk through and see how families in each place lived, cooked and built."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-wonder",
+   "item": "Wonder by R. J. Palacio",
+   "kind": "book",
+   "why": "A boy with a different face starts school. It suits a child who can read longer chapters and wants to talk about how others feel.",
+   "url": "https://www.amazon.in/s?k=Wonder",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read a few chapters aloud over the lesson and talk about seeing from each person's side."
+  }
+ ],
  "warmup": [
   {
    "q": "You face someone. Your right hand is on which side for them?",

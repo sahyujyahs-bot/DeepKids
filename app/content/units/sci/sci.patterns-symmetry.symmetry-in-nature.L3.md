@@ -1,9 +1,9 @@
 # Symmetry in nature and art: why so many shapes have matching parts
 `sci.patterns-symmetry.symmetry-in-nature.L3`
 
-**Summary.** Why do crowded soap bubbles press into six-sided shapes that nobody drew? In this unit you will blow a raft of bubbles, hunt for folding and turning symmetry at home, cut fruits across to count their pattern, and draw a kolam with four matching quarters.
+**Summary.** Why do crowded soap bubbles press into six-sided shapes that nobody drew? In this lesson you will blow a raft of bubbles, hunt for folding and turning symmetry at home, cut fruits across to count their pattern, and draw a kolam with four matching quarters.
 
-**Intro.** *Look at a five-petalled flower, such as a periwinkle or a hibiscus. Now look at a kolam at a doorstep, or a rangoli at Diwali. A person drew the kolam carefully, turning it as she went. But who drew the flower? Nobody did. So how did the flower come out so even?* People have asked this for a very long time. In this unit you look for two kinds of symmetry: shapes that match when folded, and shapes that match when turned. Then you make even shapes appear with soap bubbles, without drawing them. That gives you a real answer to how nature makes symmetry without a plan, and why the evenness sometimes breaks.
+**Intro.** *Look at a five-petalled flower, such as a periwinkle or a hibiscus. Now look at a kolam at a doorstep, or a rangoli at Diwali. A person drew the kolam carefully, turning it as she went. But who drew the flower? Nobody did. So how did the flower come out so even?* People have asked this for a very long time. In this lesson you look for two kinds of symmetry: shapes that match when folded, and shapes that match when turned. Then you make even shapes appear with soap bubbles, without drawing them. That gives you a real answer to how nature makes symmetry without a plan, and why the evenness sometimes breaks.
 
 ## Learning outcomes
 0. I can find a line of symmetry by folding a shape, and say whether a shape has no line, one line or many lines of symmetry.
@@ -28,6 +28,9 @@
 - **Bilateral symmetry**: Two-sided symmetry: a body or a flower with one line of symmetry, so it has a left half and a right half that match. *e.g.* Your body has bilateral symmetry. So does a tulsi flower, a pea flower and a butterfly.
 - **Radial symmetry**: Symmetry all the way round a centre, like the spokes of a wheel. The shape matches itself when turned, and it has several lines of symmetry. *e.g.* A hibiscus flower and a jellyfish have radial symmetry.
 - **Kolam**: A pattern drawn on the ground at the doorstep, usually with rice flour, in Tamil Nadu and other parts of South India. A rangoli is a coloured floor pattern made in many parts of India, and has other names: alpona in Bengal, jhoti in Odisha and pookalam (made of flowers) in Kerala. Many kolams and rangolis are drawn with symmetry. *e.g.* A pulli kolam is drawn around a grid of dots. The line loops round the dots without touching them.
+- **Reflection**: A reflection is a flip, like the picture in a mirror. Left and right swap over. *e.g.* Hold your right hand up to a mirror. The hand in the mirror looks like a left hand.
+- **Translation**: A translation is a slide. The shape moves along without turning or flipping. *e.g.* Push a book straight along a table without turning it. The book has slid, and that is a translation.
+- **Tessellation**: A tessellation is shapes that fit together with no gaps and no overlaps. Floor tiles and honeycombs are tessellations. *e.g.* The six-sided cells of a honeycomb fit together with no gaps, so they make a tessellation.
 
 ## Explanations
 ### Two kinds of symmetry: folding and turning · *defined*
@@ -38,6 +41,7 @@ The fold test finds lines of symmetry. The turn test finds rotational symmetry. 
 - e.g. The letter S or the letter Z: no line of symmetry, but order 2 rotational symmetry.
 - e.g. A square kolam with four matching loops: four lines of symmetry and order 4.
 - e.g. Your hand: neither kind.
+- e.g. A row of the same flower printed along the border of a sari repeats by sliding: each flower is the same one moved along, not flipped or turned.
 ### Counting rotational symmetry: the order · *defined*
 **Definition:** The order of rotational symmetry is the number of times a shape looks exactly the same during one full turn.
 
@@ -577,7 +581,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** A line from the tip of one petal through the centre to the gap between the opposite petals, a dot at the centre, and 'order 5'.. *Why:* A five-petalled flower has 5 lines of symmetry, each through one petal tip and the centre. Its order is 5. A strong answer draws the line through a petal tip on one side and through the gap between two petals on the other.
 10. (write) A plant cannot walk to another plant to share her pollen. Explain how a symmetrical flower helps her solve this problem.  
    **Answer:** She needs a bee or another pollinator to carry the pollen. A symmetrical flower is easy for a bee to spot and land on. Many bees prefer symmetrical flowers. A flower with a landing lip lets the bee land the same way every time, so the pollen goes onto the same part of the bee's body and reaches the next flower.. *Why:* A strong answer starts with the plant's problem, then says how the shape helps the bee find or land, and so carry pollen.
-11. (write) Many people think an even shape must be planned by someone. Use what you saw in this unit to argue against this.  
+11. (write) Many people think an even shape must be planned by someone. Use what you saw in this lesson to argue against this.  
    **Answer:** In the bubble raft, nobody drew the hexagons. The bubbles became six-sided because each was pressed equally on every side. A snowflake grows six matching arms with no plan, because all six arms grow in the same air at the same time.. *Why:* A strong answer uses evidence from the bubble raft or the snowflake, not just an opinion.
 12. (write) A tree grows at the edge of a busy road, next to a tall building. Predict what shape the tree will be, and explain why.  
    **Answer:** It will be lopsided, with more branches on the open side away from the building. The building blocks the light on one side, so the tree grows more where the light is.. *Why:* A strong answer links the break in symmetry to one side meeting different conditions, like the window plant and the edge bubbles.
@@ -675,7 +679,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - Honeycomb-shaped panels, made of hexagonal cells, are used in aircraft and packaging because they are light and strong.
 
 ## Spotted around us
-- A kolam at a doorstep in Chennai or Madurai during Margazhi, a rangoli at Diwali, an alpona drawn in rice paste at a Bengali puja, or an Onam pookalam made of flower petals.
+- A kolam at a doorstep during Margazhi, a rangoli at Diwali, an alpona drawn in rice paste at a puja, or an Onam pookalam made of flower petals.
 - Five-petalled periwinkle flowers in pots and along pavements, and four-petalled ixora flowers in hedges.
 - Foam on a cup of filter coffee or in the washing-up sink, with walls meeting three at a time.
 - A ceiling fan, a pressure cooker weight seen from above, and the spokes of a cycle wheel.
@@ -722,9 +726,10 @@ Fold It, Turn It (sci.patterns-symmetry.L3): Topic-level song for Patterns and s
 - [Symmetry, Maths Is Fun](https://www.mathsisfun.com/geometry/symmetry.html) · interactive: Simple pictures and puzzles about line symmetry and rotational symmetry.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits on mirrors, patterns and shapes.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for the ones on mirrors, shapes and patterns.
-- [Kapaleeshwarar Temple, Mylapore]() · place · Chennai: During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry.
+- Kapaleeshwarar Temple, Mylapore · place · Chennai: During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry.
 
 ## Things to buy
+- [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child more examples to check for flips and turns. Used in a1. Read it together after the symmetry experiments.
 
 ## Warm-up
 - What is a line of symmetry? → A fold line where the two halves of a shape match exactly.

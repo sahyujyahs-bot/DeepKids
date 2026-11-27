@@ -2015,7 +2015,30 @@
    "why": "A science museum with a children's section, good for a family day out."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-we-re-all-wonders",
+   "item": "We're All Wonders by R. J. Palacio",
+   "kind": "book",
+   "why": "A boy who looks different from other children asks them to look at him with kindness. It gives the child words for noticing how people differ and how they are alike.",
+   "url": "https://www.amazon.in/s?k=Were+All+Wonders",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the lesson, then talk about how we are alike and different."
+  },
+  {
+   "id": "b-me-jane",
+   "item": "Me... Jane by Patrick McDonnell",
+   "kind": "book",
+   "why": "The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa. It shows a child who loved watching living things.",
+   "url": "https://www.amazon.in/s?k=Me+Jane",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on how we are all different."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one thing every person needs.",

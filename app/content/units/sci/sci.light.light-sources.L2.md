@@ -20,6 +20,7 @@
 - **Darkness**: Darkness is what we see where no light, or very little light, is arriving. It is the absence of light. *e.g.* Inside a shut cupboard it is dark, because no light can get in.
 - **Dim**: Dim means there is only a little light. Things are hard to see, but not gone. *e.g.* A room lit only by a phone screen is dim.
 - **Fair test**: A fair test is a test where we change only one thing and keep everything else the same. Then we know what made the difference. *e.g.* In the Paper Moon test, we change only the paper. The torch, the room and the pictures stay the same.
+- **Pupil**: The pupil is the black circle in the middle of your eye that lets light in. It gets smaller in bright light and bigger in dim light. *e.g.* Look at a friend's eyes in a dark room and again beside a bright window. The black circle shrinks beside the window.
 
 ## Explanations
 ### The Moon is not a light source · *defined*

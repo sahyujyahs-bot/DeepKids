@@ -68,6 +68,12 @@
    "meaning": "A change that can be undone, so the thing becomes what it was before. Scientists call it a reversible change.",
    "example": "Melted butter goes back to solid butter in the fridge.",
    "art": "Two arrows in a circle between a solid blob of butter and a puddle of melted butter."
+  },
+  {
+   "term": "Mixture",
+   "meaning": "A mixture is two or more materials mixed together, where each one is still there and can often be separated again. Mixing does not turn them into something new.",
+   "example": "When you stir sand and salt together in a plate, you have a mixture. You can still see the sand and pick it out.",
+   "art": "A plate holding a heap of sand and salt grains mixed together."
   }
  ],
  "explanations": [
@@ -171,7 +177,8 @@
    "examples": [
     "Goes back: melted chocolate sets again in the fridge.",
     "Stays changed: a chapati cooked on a tawa cannot become dough again.",
-    "Goes back: steam from a pressure cooker turns into water drops on a cold lid."
+    "Goes back: steam from a pressure cooker turns into water drops on a cold lid.",
+    "Mix dal and rice in a bowl and you can pick the grains apart by hand or with a sieve. Stir sugar into tea and it spreads through the tea in pieces too small to see, so a sieve cannot catch it."
    ],
    "perspectives": [
     {

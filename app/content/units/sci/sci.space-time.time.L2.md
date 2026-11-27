@@ -1,9 +1,9 @@
 # Time: how we know it is passing, and how clocks and calendars count it
 `sci.space-time.time.L2`
 
-**Summary.** A spoonful of salt runs out of a paper cone in about the same time each go. Can that be a clock? In this unit you will make a salt timer and test it, look for clues that time has passed, put events in order, and hunt the family calendar for how many dates today has.
+**Summary.** A spoonful of salt runs out of a paper cone in about the same time each go. Can that be a clock? In this lesson you will make a salt timer and test it, look for clues that time has passed, put events in order, and hunt the family calendar for how many dates today has.
 
-**Intro.** *Close your eyes and sit still. Now open them. Did time pass? How do you know?* Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this unit we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.
+**Intro.** *Close your eyes and sit still. Now open them. Did time pass? How do you know?* Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this lesson we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.
 
 ## Learning outcomes
 0. By the end I can put events in order, saying what came before and what came after.
@@ -23,6 +23,9 @@
 - **Timer**: A timer is a clock that measures one stretch of time, from start to finish. *e.g.* A pressure cooker's whistles and an egg timer are both used as timers in the kitchen.
 - **Second, minute, hour**: These are the small units of time. 60 seconds make a minute. 60 minutes make an hour. 24 hours make a day. *e.g.* A blink takes less than a second. Brushing your teeth takes about 2 minutes. A film takes about 2 hours.
 - **Calendar**: A calendar is a way of counting days, weeks, months and years, and giving each day a name or a number. *e.g.* The wall calendar in the kitchen shows today's date, and the festivals coming up.
+- **Rotation**: A rotation is one whole spin of something around its own middle. One rotation of the Earth takes about 24 hours, which is one day. *e.g.* A spinning top turns once round on the floor. The Earth does the same, once every 24 hours, so we get one day and one night.
+- **Revolution**: A revolution is one whole trip round something else. One revolution of the Earth round the Sun takes about 365 days, which is one year. *e.g.* Think of a child walking once round a banyan tree. The Earth walks once round the Sun in about 365 days.
+- **Time zone**: A time zone is a part of the world where everyone sets their clocks to the same time. All of India uses one time zone, Indian Standard Time. *e.g.* When it is noon in Kochi, it is also noon in Kolkata, because both are in the same time zone. In London it is only the early morning.
 
 ## Explanations
 ### What is time? · *debated*
@@ -497,7 +500,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** The Islamic calendar follows the Moon, and its year is about 11 days shorter. *Why:* Twelve rounds of the Moon take about 354 days. The Sun's year is about 365 days. So the Moon's year ends about 11 days sooner, and Ramzan moves earlier.
 9. (count) A film is 2 hours long. How many minutes is that?  
    **Answer:** 120 minutes.. *Why:* One hour is 60 minutes. 60 and 60 make 120.
-10. (match) Draw a line from each unit of time to where it comes from.  
+10. (match) Draw a line from each lesson of time to where it comes from.  
    **Answer:** A day → The Earth spinning once; A year → The Earth going once round the Sun; A month → The Moon going through all its shapes; An hour → People chose it. *Why:* Days, months and years come from the sky. The hour is a piece that people chose.
 ### How do we know time is passing? (challenge, 10 questions)
 1. (perspective) The first person, a science teacher, and Mou, a girl of 9, disagree about time.  
@@ -568,10 +571,10 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - Farmers plan sowing and harvest by the calendar and the coming of the monsoon.
 
 ## Spotted around us
-- The Rajabai Clock Tower in Mumbai, finished in 1878, chiming over the city.
-- The giant stone sundial, the Samrat Yantra, at Jantar Mantar in Jaipur, whose shadow moves as you watch.
+- A big old clock tower chiming over the city.
+- A giant stone sundial whose shadow moves as you watch. Any sundial in a park will do.
 - A Tamil, Malayalam or Bengali wall calendar in a kitchen, with two dates in every box.
-- The pressure cooker whistling on a stove in Chennai, while someone counts the whistles.
+- The pressure cooker whistling on a stove, while someone counts the whistles.
 - Crows flying home to their trees at dusk, at about the same time every evening.
 
 ## Open questions

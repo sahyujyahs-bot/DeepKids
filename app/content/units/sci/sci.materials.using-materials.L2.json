@@ -1904,7 +1904,19 @@
    "why": "A science museum with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-one-plastic-bag",
+   "item": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia by Miranda Paul",
+   "kind": "book",
+   "why": "Women in the Gambia turned plastic waste into something useful. It makes the child ask what to do with the materials we throw away.",
+   "url": "https://www.amazon.in/s?k=One+Plastic+Bag",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on how materials are used."
+  }
+ ],
  "warmup": [
   {
    "q": "What is friction?",

@@ -1,7 +1,7 @@
 # Choosing the right material: grip for a tray, slip for a slide
 `sci.materials.using-materials.L2`
 
-**Summary.** A steel katori slides off a tilted plastic sheet but stays on rubber. Why? In this unit you will tilt a board with five materials on it and measure how high it goes before the katori slides. You will then use your results to choose the best material for a tray mat and for a slide.
+**Summary.** A steel katori slides off a tilted plastic sheet but stays on rubber. Why? In this lesson you will tilt a board with five materials on it and measure how high it goes before the katori slides. You will then use your results to choose the best material for a tray mat and for a slide.
 
 **Intro.** *Put a steel tumbler on a steel plate. Tilt the plate more and more. Now put a rubber band round the tumbler's bottom and try again. What changes?* Without the rubber band, the tumbler slides. With the rubber band, it stays on until the plate is much steeper. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?
 
@@ -471,10 +471,10 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - Engineers choose materials for bridges, buses and phones by listing what each part's job needs.
 
 ## Spotted around us
-- Look at the coir doormat at the door of a flat. Coir comes from coconut husk and is rough, so it scrapes mud off shoes and does not slide. Much of India's coir is made in Kerala.
+- Look at the coir doormat at the door of a flat. Coir comes from coconut husk and is rough, so it scrapes mud off shoes and does not slide.
 - Look under a mixie. The rubber feet keep it still while it grinds idli batter or chutney.
-- In a Kolkata or Chennai home, carrom powder is sprinkled on the carrom board so that the coins glide.
-- A shiny steel slide in a park in Pune has been worn smooth by children sliding down it.
+- In a home, carrom powder is sprinkled on the carrom board so that the coins glide.
+- A shiny steel slide in a park, worn smooth by children sliding down it.
 - Look inside a pressure cooker lid. The rubber ring there bends to seal the steam in.
 
 ## Open questions
@@ -510,10 +510,11 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Links
 - [PhET: Friction](https://phet.colorado.edu/en/simulations/friction) · simulation: A free simulation from the University of Colorado, for the parent: rub two surfaces together and see the tiny particles.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on exhibits for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on exhibits for children.
 
 ## Things to buy
+- [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia by Miranda Paul](https://www.amazon.in/s?k=One+Plastic+Bag) (book): Women in the Gambia turned plastic waste into something useful. It makes the child ask what to do with the materials we throw away. Used in a1. Read it together after the lesson on how materials are used.
 
 ## Warm-up
 - What is friction? → The grip between two things that touch.

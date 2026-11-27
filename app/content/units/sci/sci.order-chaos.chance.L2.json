@@ -131,7 +131,12 @@
     "5 star slips and 5 blank slips in a tumbler",
     "A race where one player moves on a six and the other moves on any other number, which is unfair"
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gerolamo Cardano (1501–1576), Italy",
+     "explanation": "Cardano was a doctor and mathematician who also loved playing dice games. He wrote a book about games of chance, one of the first to count the ways dice can fall, and he saw that with a fair die each face is equally likely. His book was only printed in 1663, long after he died, and by then Blaise Pascal and Pierre de Fermat had worked out probability in their letters of 1654. They usually get the credit, though historians agree Cardano had many of the key ideas first."
+    }
+   ],
    "art": "Two steel tumblers of folded slips: one with eight star slips and two blank ones, labelled 'unfair', and one with five of each, labelled 'fair'."
   },
   {
@@ -1999,7 +2004,19 @@
    "why": "A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-probably-pistachio",
+   "item": "Probably Pistachio by Stuart J. Murphy",
+   "kind": "book",
+   "why": "A boy guesses what will happen on a bad day and learns the words probably and probably not. It gives the child everyday words for chance.",
+   "url": "https://www.amazon.in/s?k=Probably+Pistachio",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the chance games."
+  }
+ ],
  "warmup": [
   {
    "q": "Can anyone know how one coin toss will land?",

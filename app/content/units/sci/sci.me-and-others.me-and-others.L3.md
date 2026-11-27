@@ -23,6 +23,8 @@
 - **Dominant eye**: The eye your brain uses first when you line up or aim at something. Most people have one. *e.g.* When you look through a keyhole, you put one eye to it without thinking. That is often your dominant eye.
 - **Colour blindness**: Seeing some colours differently from most people, because some of the light-sensing cells in the eye work differently. *e.g.* Many people with red-green colour blindness find it hard to tell a red chilli from a green one by colour alone.
 - **Left-handed**: Using the left hand more, and with more skill, for jobs like writing and throwing. *e.g.* About 1 person in 10 writes with their left hand.
+- **Variation**: Variation means the differences between members of the same kind of living thing. Children in one class are of different heights and have different hair and eyes. *e.g.* In a class of Class 3 children, no two have exactly the same height, and that spread of heights is variation.
+- **Survey**: A survey is asking many people the same questions and writing down their answers. It helps you find out what most people think or do. *e.g.* You ask ten neighbours which fruit they like best, and write each answer in a table. That is a survey.
 
 ## Explanations
 ### What a point of view is · *defined*
@@ -53,6 +55,8 @@ About 1 person in 10 is left-handed. Most people have one eye that the brain use
 - e.g. A left-handed child bumps elbows with a right-handed child if they sit on the wrong sides at a table.
 - e.g. A cricket player may hold the bat one way and write with the other hand.
 - e.g. A colour-blind child may find a map that uses only red and green hard to read.
+- e.g. Eye colour is a feature you are born with and it stays. Hair length changes with every haircut. Height is both, because the family you were born into sets a range and food and sleep change where you end up.
+- **Nina Jablonski and George Chaplin, USA, scientists who study human evolution:** In 2000 Jablonski and Chaplin compared skin colour with the amount of UV sunlight in each part of the world. Skin is darker where UV is strongest, near the equator, and lighter where it is weak. Their explanation is that melanin, the colouring in skin, protects the body from strong UV, but skin also needs some UV to make vitamin D, which keeps bones strong, so where sunlight is weak, lighter skin helps. Most scientists accept that sunlight shaped skin colour.
 ### What friends do · *idea*
 Scientists who study children have no single agreed definition of a friend. But they find that friends choose to spend time together, share, help each other and trust each other. Young children often call someone a friend because they play together. Older children add that a friend understands you and keeps your secrets. Friends quarrel too. Studies find that friends are more likely than other children to talk a quarrel through and stay together after it. Understanding your friend's point of view helps you do that.
 - e.g. Two friends at the park take turns on the swing without being told.
@@ -689,6 +693,7 @@ From Where You Stand (sci.me-and-others.L3): Topic-level song for Me and others 
 - [DakshinaChitra Heritage Museum](https://www.dakshinachitra.net) · place · Chennai: A museum of real old homes from different South Indian states, side by side. Walk through and see how families in each place lived, cooked and built.
 
 ## Things to buy
+- [Wonder by R. J. Palacio](https://www.amazon.in/s?k=Wonder) (book): A boy with a different face starts school. It suits a child who can read longer chapters and wants to talk about how others feel. Used in a1. Read a few chapters aloud over the lesson and talk about seeing from each person's side.
 
 ## Warm-up
 - You face someone. Your right hand is on which side for them? → Their left side.

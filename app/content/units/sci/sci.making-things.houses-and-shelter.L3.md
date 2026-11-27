@@ -26,6 +26,8 @@
 - **Slope**: How steeply a surface tilts. A steep slope is high at one end and low at the other. *e.g.* Rain runs off a steep roof quickly. On a flat roof it can stand in puddles.
 - **Thatch**: A roof made of thick layers of dry grass, straw, reeds or palm leaves. *e.g.* Some village houses in Tamil Nadu and Kerala have thatch made of dried coconut leaves.
 - **Earthquake**: A sudden shaking of the ground, caused by huge blocks of rock deep under the ground slipping past each other. *e.g.* In January 2001, a big earthquake shook Kutch in Gujarat.
+- **Terracotta**: Terracotta is baked clay, usually reddish brown. Diyas, clay cups and flower pots are made of terracotta. The word means baked earth. *e.g.* The small clay diya you light at Deepavali is terracotta. The clay was baked hard in a fire.
+- **Mortar**: Mortar is a wet paste put between bricks that dries hard and holds them together. Today it is usually made of cement, sand and water. *e.g.* A mason in your street spreads grey mortar on top of a brick and presses the next brick down on it. By next day the wall is firm.
 
 ## Explanations
 ### What a shelter does · *defined*
@@ -741,6 +743,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Things to buy
 - [Brass split pins (paper fasteners), a small packet](https://www.amazon.in/s?k=brass+paper+fasteners+split+pins) (material): They join card strips at the corners so the corners can turn freely, which the Push Test needs. Stationery shops sell them cheaply. Twist ties or knotted thread work too. Used in e1. 
+- [Dreaming Up: A Celebration of Building by Christy Hale](https://www.amazon.in/s?k=Dreaming+Up) (book): Children's block towers and sand castles are shown beside real buildings from around the world. It helps the child see that building starts the same way at any size. Used in a1. Read it together before the house project.
 
 ## Warm-up
 - Which frame keeps its shape when pushed: a square or a triangle? → A triangle.

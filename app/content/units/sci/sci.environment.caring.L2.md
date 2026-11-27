@@ -20,6 +20,8 @@
 - **Plastic**: Plastic is a material made by people, mostly from oil or gas. Most plastic is strong, light and does not soak up water. *e.g.* Milk packets, carry bags, straws and nylon string are made of plastic.
 - **Habitat**: A habitat is the place where a living being lives and finds what they need. *e.g.* A lake is a habitat for fish, frogs, ducks and lotus plants.
 - **Protect**: To protect means to keep someone or something safe from harm. *e.g.* Women in Assam protect the nests of big storks in their village trees.
+- **Shelter**: A shelter is a safe place where a living thing can hide, rest or keep her babies. Different animals use different shelters, such as a nest, a hole or a burrow. *e.g.* A sparrow carries twigs into a gap above your window to make a shelter for her chicks.
+- **Nature reserve**: A nature reserve is a place that people keep safe so that wild plants and animals can live there undisturbed. Hunting and building are not allowed inside it. *e.g.* Periyar in Kerala is a nature reserve, where elephants and many other animals live in the forest without people moving in.
 
 ## Explanations
 ### What our environment is · *defined*
@@ -29,6 +31,7 @@ The living parts are plants, animals, fungi and microbes, which are living thing
 - e.g. A crow needs trees for a nest and clean water to drink.
 - e.g. A neem tree needs soil, sunlight, rain and air.
 - e.g. You need clean air, clean water and food that grew in soil.
+- e.g. A woodlouse or an earthworm needs a damp, dark place, such as the underside of a stone or a rotting log, and in hot dry sun she soon dries out.
 ### How litter harms animals · *defined*
 **Definition:** Litter harms animals in two main ways. They get trapped in it, or they eat it.
 
@@ -56,6 +59,7 @@ Put litter in a bin, and sort it into wet and dry waste. Snip every loop before 
 - e.g. Snip a rubber band before it goes in the bin.
 - e.g. Fly kites with cotton string, not nylon string.
 - e.g. Pick up kite string left on the terrace after the festival.
+- **Wangari Maathai (1940–2011), Kenya:** Wangari Maathai was a scientist who studied animals' bodies. She saw that women in the Kenyan countryside walked further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement, and village women were paid a little for each young tree they grew and planted. Together they planted tens of millions of trees, and in 2004 she became the first African woman to win the Nobel Peace Prize.
 ### People in India who cared for the places they live · *defined*
 **Definition:** People in India have protected trees and birds by working together, and many of them were women.
 
@@ -63,6 +67,8 @@ In 1974, Gaura Devi and the women of Reni village hugged the trees so that logge
 - e.g. The women of Reni village held on to the trees, and the loggers went away.
 - e.g. The Hargila Army guards the nesting trees of a rare stork.
 - e.g. Thimmakka's banyan trees are now giant trees beside a road.
+- e.g. In many Indian villages a sacred grove is a patch of forest that the community has left untouched for generations, and a nature reserve or sanctuary is a place set aside so that wild animals can live there safely.
+- **Jadav 'Molai' Payeng (born around 1963), Assam, India:** In 1979, when he was a teenager, Jadav Payeng found many snakes dead from the heat on a bare sandbank in the Brahmaputra river, where there was no shade. He began to plant bamboo and then trees, and kept planting almost every day for decades. His forest, now called Molai forest, covers hundreds of hectares, and deer, rhinos, tigers and elephants visit it. Almost nobody knew until 2008, when forest officers following a herd of elephants found it, and in 2015 he received the Padma Shri.
 
 ## Mostly agreed
 - Litter harms many animals, by trapping them or when they eat it. *How we know:* Vets and bird rescuers in India treat birds cut by kite string and cows sick from eating plastic bags. Scientists find plastic in the stomachs of many sea birds and turtles.
@@ -549,6 +555,8 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 - Chilika Lake · place · Odisha: A huge lagoon where many birds spend the winter and dolphins live.
 
 ## Things to buy
+- [The Curious Garden by Peter Brown](https://www.amazon.in/s?k=The+Curious+Garden) (book): A boy finds a few struggling plants on an old railway and cares for them until the whole grey city turns green. It shows that one person's care can change a place. Used in a1. Read it together after the lesson on caring for the environment.
+- [The Lorax by Dr. Seuss](https://www.amazon.in/s?k=The+Lorax) (book): A funny story about a creature who speaks for the trees and the trouble that follows when they are all cut down. It leads the child to ask what each of us can do. Used in a1. Read it together after the lesson, then talk about what we can look after.
 
 ## Warm-up
 - What is our environment? → Everything around us, living and non-living, including us.

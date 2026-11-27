@@ -1,9 +1,9 @@
 # Magnet poles: why two magnets attract or repel
 `sci.magnets.poles.L3`
 
-**Summary.** Two magnets can push each other apart without touching. Which ends push and which pull? In this unit you will float magnets on boats to see what they do, find how many poles a fridge magnet has, and tell a true magnet from plain iron.
+**Summary.** Two magnets can push each other apart without touching. Which ends push and which pull? In this lesson you will float magnets on boats to see what they do, find how many poles a fridge magnet has, and tell a true magnet from plain iron.
 
-**Intro.** *Try this. Hold one bar magnet in each hand. Bring their ends slowly together. Now turn one magnet round and try again. One way, they jump together. The other way, you feel a push, though nothing is touching. Why does the same magnet do two different things?* The answer is in the two ends of every magnet, its poles. In this unit you find which end is north and which is south, and you learn the rule for when magnets attract and when they repel. Then you float two magnets on water, push one away, and watch what it does next. A French scholar called Petrus Peregrinus did the same test with magnet stones in 1269.
+**Intro.** *Try this. Hold one bar magnet in each hand. Bring their ends slowly together. Now turn one magnet round and try again. One way, they jump together. The other way, you feel a push, though nothing is touching. Why does the same magnet do two different things?* The answer is in the two ends of every magnet, its poles. In this lesson you find which end is north and which is south, and you learn the rule for when magnets attract and when they repel. Then you float two magnets on water, push one away, and watch what it does next. A French scholar called Petrus Peregrinus did the same test with magnet stones in 1269.
 
 ## Learning outcomes
 0. I can say that every magnet has a north pole and a south pole, and find which end is which by letting the magnet turn freely.
@@ -34,46 +34,62 @@
 On a bar magnet the poles are at the two ends, so paper clips cling there and hardly at all in the middle. A magnet that can turn freely, hanging on a thread or floating on water, always settles with one end pointing north. That end is called the north pole, and the other end is the south pole. Many school magnets are painted red at the north end, or marked N.
 - e.g. A bar magnet floating on a plastic lid turns until it points north and south.
 - e.g. A round fridge magnet has its poles on its two flat faces, not on its edge.
+- **William Gilbert:** In 1600 he named the north and south poles and showed that you can never get one pole alone. Every magnet has both.
+- **Paul Dirac:** In 1931 he showed that physics would allow a single pole, a magnetic monopole. Scientists have searched for one for ninety years and have not found one.
 ### Unlike poles attract, like poles repel · *defined*
 **Definition:** A north pole and a south pole attract each other. Two north poles repel each other, and so do two south poles.
 
 This is the rule for every magnet, big or small. The force works across a gap, so the magnets do not need to touch. The closer the poles are, the stronger the force. Move them a little further apart, and the force drops quickly. That is why a floating magnet sits still until the other magnet comes close, and then suddenly moves.
 - e.g. The magnetic catch on a cupboard door holds because unlike poles, or a magnet and steel, attract.
 - e.g. A toy train with magnet links will not join if one carriage is turned round, because like poles face each other.
+- **Lucretius:** This Roman poet, following the Greek atomists, said that a lodestone sends out a stream of atoms that pushes air away and draws iron in.
+- **Michael Faraday:** Said in the 1830s that magnets fill the space around them with lines of force, a field, and the pull is the field at work. This is the picture we use now.
 ### A magnet that is free to turn ends up attracting · *defined*
 **Definition:** When like poles face each other and one magnet is free to turn, it swings round until its other pole faces the first magnet. Then the two attract.
 
 Repelling pushes a magnet away, but it also twists it. Unless something holds the magnet straight, it turns round, so a north pole ends up facing a south pole. Then the two magnets come together. This is what you see when two magnets float on water. Scientists have shown that ordinary magnets on their own can never hold another magnet floating still in the air. Something else must stop the turning. A pencil through ring magnets does this. So does the fast spin of a spinning top.
 - e.g. Two floating magnets pushed north to north turn round and stick together.
 - e.g. Ring magnets on a pencil float one above another. Pull the pencil out, and the top ring flips over and sticks.
+- **Compass makers:** Learned that a needle swings until it points north. Chinese records from the Song dynasty, such as the scholar Shen Kuo in 1088, describe floating needle compasses.
+- **Physicists:** Explain that a magnet turns until it has the lowest energy, with unlike poles close. The twist on it is called torque.
 ### Iron is attracted by both poles · *defined*
 **Definition:** Iron and steel that are not magnets are attracted by the north pole and by the south pole. They are never repelled.
 
 When a magnet comes near a steel paper clip, the clip becomes a temporary magnet. The end nearest the magnet becomes the opposite pole, so it is always attracted. That means attraction cannot tell you whether a thing is a magnet or plain iron. Only repelling can. If something pushes away one end of your magnet, it must be a magnet too.
 - e.g. A steel spoon sticks to both ends of a bar magnet.
 - e.g. Two wrapped objects look the same. The one that pushes away one end of your magnet is the magnet.
+- **William Gilbert:** Thought that a lodestone gives iron a virtue, which then pulls it.
+- **Pierre Weiss:** In 1907 he explained that iron holds tiny regions called domains, each a small magnet. A magnet lines them up, and then the iron is a magnet for a while.
 ### Cut a magnet, and you get two magnets · *defined*
 **Definition:** If you cut or break a magnet, each piece has its own north pole and south pole.
 
 Inside a magnet, countless tiny magnets point the same way, each with its own north and south. At one end of the bar, the north ends of all these tiny magnets point out through the surface. That end is the north pole. Cut the bar anywhere, and new poles appear at the cut, one north and one south. Even an electron, the tiniest magnet known, has a north and a south. Nobody has ever found a north pole on its own.
 - e.g. Cut a bendy fridge magnet strip in half. Both halves still stick to the fridge.
 - e.g. Petrus Peregrinus broke a lodestone in 1269 and found that both pieces had a north and a south pole.
+- **Andre-Marie Ampere:** In the 1820s he said that magnetism comes from tiny loops of electric current inside matter, so every piece must have two poles.
+- **Quantum physicists:** Say each electron is itself a tiny magnet because of a property called spin. You can keep dividing, down to atoms, and each still has two poles.
 ### The Earth's far north is a magnetic south pole · *defined*
 **Definition:** The Earth is a giant magnet. Its magnetic pole near the North Pole is a south pole, because it attracts the north poles of compass needles.
 
 A magnet's north pole is named for the direction it points. Unlike poles attract, so the place it points to must be a south pole. Maps call that place the North Magnetic Pole, which can be confusing. It sits in the Arctic, not exactly at the North Pole, and it moves a little every year.
 - e.g. A compass needle's north pole points north, towards the Earth's magnetic south pole.
 - e.g. Over hundreds of thousands of years, the Earth's magnetic poles have swapped places many times.
+- **Old sailors' ideas:** Some believed the Pole Star, or magnetic mountains in the north, pulled the compass needle.
+- **William Gilbert (1600):** Showed with a small magnet ball that the whole Earth is a giant magnet. So the pole that attracts a compass's north end is a magnetic south pole.
 ### Bendy fridge magnets have many poles · *defined*
 **Definition:** A bendy fridge magnet has thin stripes of north and south poles side by side on its magnetic face.
 
 The stripes are a few millimetres wide. Press two bendy magnets face to face and slide one across the other. In one direction it slides smoothly. In the other, it bumps, because it crosses stripes that attract and repel in turn. Having many poles close together makes the magnet hold strongly to the fridge, but its force dies away very quickly as you move away from its face. Its back face hardly attracts at all.
 - e.g. Slide two fridge magnets face to face. Feel the bumps.
 - e.g. The back of a bendy fridge magnet does not stick to the fridge.
+- **Magnet makers:** Print stripes of north and south in a strip of rubbery magnet so it sticks to a fridge but not to anything else.
+- **Klaus Halbach:** In 1980 this physicist described arrangements of magnets, now called Halbach arrays, where stripes make the field strong on one face and almost nothing on the other.
 ### Could a north pole exist on its own? · *idea*
 Some physicists' theories say a single north pole, without a south pole, could exist. They call it a magnetic monopole. On 14 February 1982, a detector run by Blas Cabrera at Stanford University recorded one signal that looked like a monopole passing through. It never happened again. Many larger searches since have found none. So nobody knows yet whether monopoles exist.
 - e.g. Every magnet ever tested has had both a north and a south pole.
 - e.g. Scientists still search for monopoles in rocks, in space and in giant machines.
+- **Paul Dirac (1931) and some particle physicists:** A lone north or south pole, called a magnetic monopole, is allowed by the maths and expected by some theories.
+- **Experiments so far:** Nobody has found one, despite long searches. Many physicists think they may not exist at all.
 
 ## Mostly agreed
 - Every magnet has a north pole and a south pole. Unlike poles attract, and like poles repel. *How we know:* Anyone can check it with two magnets. Petrus Peregrinus wrote it down from his own tests in 1269.
@@ -613,6 +629,7 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 ## Things to buy
 - [A pair of bar magnets with the north ends marked](https://www.amazon.in/s?k=bar+magnet+pair+school) (tool): Every main activity needs two magnets with poles at their ends. Bendy fridge magnets do not work for this, because their poles are in stripes on one face. Used in e1, a1, a2, p1, c1. 
 - [A few ring magnets with a hole in the middle](https://www.amazon.in/s?k=ring+magnet+school+set) (tool): Only needed for Floating Rings on a Pencil, which is optional. Some school magnet sets include them. Used in a3. 
+- [Mickey's Magnet by Franklyn M. Branley and Eleanor K. Vaughan](https://www.amazon.in/s?k=Mickeys+Magnet) (book): A boy spills a box of pins and finds out what his magnet can do, including making a needle into a magnet. It matches what the child finds with the magnet poles. Used in a1. Read it together after the magnet pole experiment.
 
 ## Warm-up
 - What are the ends of a magnet called? → Poles.

@@ -1,9 +1,9 @@
 # Body parts: what each part of your body helps you do
 `sci.body.body-parts.L1`
 
-**Summary.** Tape your thumb down and a grain of rice becomes very hard to pick up. In this unit you will name your body parts and what they do, try everyday jobs with a taped thumb, and find out what your elbow does.
+**Summary.** Tape your thumb down and a grain of rice becomes very hard to pick up. In this lesson you will name your body parts and what they do, try everyday jobs with a taped thumb, and find out what your elbow does.
 
-**Intro.** *Touch your nose. Now try to touch your right elbow with your right hand. Can you?* Almost nobody can touch their elbow with the hand on the same arm. The elbow bends only one way, so the hand cannot get round to it. Every part of your body helps you do some things. In this unit you name your body parts, find what each one does, and tape your thumb down to see which jobs get hard.
+**Intro.** *Touch your nose. Now try to touch your right elbow with your right hand. Can you?* Almost nobody can touch their elbow with the hand on the same arm. The elbow bends only one way, so the hand cannot get round to it. Every part of your body helps you do some things. In this lesson you name your body parts, find what each one does, and tape your thumb down to see which jobs get hard.
 
 ## Learning outcomes
 0. By the end I can name the main parts of my body, from head to toes, and point to them.
@@ -514,7 +514,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - A flower seller in a market tying jasmine into a string with quick pinches of thumb and finger.
 - A crow on a balcony rail, walking, hopping and folding their wings.
 - A Kathakali or Bharatanatyam dancer making hand shapes called mudras, each finger and thumb held a different way.
-- A boatwoman in the Sundarbans or on the Brahmaputra pulling an oar, her elbows and shoulders bending with each stroke.
+- A boatwoman pulling an oar, her elbows and shoulders bending with each stroke.
 
 ## Open questions
 - **How does a baby's body know where to grow each part?** Scientists know many of the signals that tell cells to become a hand or a foot. But how the whole body keeps every part the right size and in the right place is still being worked out.
@@ -550,9 +550,10 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 Thumb and Finger, Knee and Toe (sci.body.L1): Topic-level song for Our bodies L1
 
 ## Links
-- [Bhagwan Mahaveer Viklang Sahayata Samiti (BMVSS)]() · place · Jaipur: The group in Jaipur that makes and fits Jaipur Foot limbs, free of cost, for people who have lost a leg.
+- Bhagwan Mahaveer Viklang Sahayata Samiti (BMVSS) · place · Jaipur: The group in Jaipur that makes and fits Jaipur Foot limbs, free of cost, for people who have lost a leg.
 
 ## Things to buy
+- [Funnybones by Janet and Allan Ahlberg](https://www.amazon.in/s?k=Funnybones) (book): A funny story of skeletons who fall apart and put themselves back together. It helps the child name the bones in a way she remembers. Used in a1. Read it together after the skeleton activity.
 
 ## Warm-up
 - Which part helps you see? → Your eyes.

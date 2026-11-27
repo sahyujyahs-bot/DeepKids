@@ -1,9 +1,9 @@
 # What is space? Near, far, and whether space goes on for ever
 `sci.space-time.space.L2`
 
-**Summary.** Walk away from a bottle and it looks smaller, though it has not changed. Why? In this unit you will hunt for the space between things, test how big a bottle looks from far away, step out near, nearer and nearest, and look into a mirror tunnel to ask if a row goes on for ever.
+**Summary.** Walk away from a bottle and it looks smaller, though it has not changed. Why? In this lesson you will hunt for the space between things, test how big a bottle looks from far away, step out near, nearer and nearest, and look into a mirror tunnel to ask if a row goes on for ever.
 
-**Intro.** *Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?* A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.
+**Intro.** *Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?* A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this lesson you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.
 
 ## Learning outcomes
 0. By the end I can say that space is the room around things and between them, and find spaces in my home.
@@ -22,6 +22,8 @@
 - **Universe**: The universe is all of space and everything in it: every star, planet, rock, plant, animal and person. *e.g.* You, your home, the Earth, the Sun and all the stars are part of the universe.
 - **Reflection**: A reflection is the picture you see in a mirror or in still water. It is made by light bouncing off the shiny surface. *e.g.* You see your face as a reflection in the bathroom mirror, or in a steel plate.
 - **Estimate**: To estimate is to make a careful guess about a number, before you count or measure it. *e.g.* You estimate that the door is 6 steps away. Then you walk and count 5 steps.
+- **Volume**: Volume is how much space something takes up. A big pumpkin has more volume than a lemon. *e.g.* A big pumpkin takes up more space on the kitchen shelf than a lemon, so it has more volume.
+- **Coordinates**: Coordinates are a set of numbers that tell you exactly where something is. You give one number for how far across and one for how far up or along. *e.g.* To find a hidden coin on a floor of tiles, you say it is 3 tiles from the door and 2 tiles from the wall.
 
 ## Explanations
 ### Space is what is between things · *defined*
@@ -383,7 +385,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 ## Worksheets
 ### Near, Far and In Between (core) (core, 10 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Space → the room around things and between them; Distance → how much space there is between two things; Near → a small distance away; Far → a big distance away. *Why:* These are the four words the child needs for this unit. Distance is a way of saying how much space is between things.
+   **Answer:** Space → the room around things and between them; Distance → how much space there is between two things; Near → a small distance away; Far → a big distance away. *Why:* These are the four words the child needs for this lesson. Distance is a way of saying how much space is between things.
 2. (mcq) In the bottle strip test, the strip from 4 steps was shorter than the strip from 1 step. Why?  
    Options: The bottle got smaller / You were farther away, so the bottle looked smaller / The pencil got shorter  
    **Answer:** You were farther away, so the bottle looked smaller. *Why:* The bottle and the pencil stayed the same. Only the distance changed. Choosing 'the bottle got smaller' means thinking far things really shrink. Walking back and picking up the same bottle shows they do not.
@@ -498,15 +500,15 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - Astronomers use Henrietta Leavitt's rule to measure how far away other galaxies are.
 
 ## Spotted around us
-- A tall temple gopuram in Madurai, Thanjavur or Srirangam looks small from far across the city, and huge when you stand at its gate.
-- Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart. That is because far things look smaller, and so does the gap between the rails.
-- Crows or pigeons on a wire in Guwahati or Pune sit with gaps between them, keeping some space for each bird.
-- A plane in the sky over Bengaluru or Delhi looks as small as a bird, though it is very big.
-- At night from a terrace in Kochi or Chennai, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots.
+- A tall temple gopuram looks small from far across the city, and huge when you stand at its gate.
+- Railway tracks at a station seem to come together far away, though they stay the same distance apart. That is because far things look smaller, and so does the gap between the rails.
+- Crows or pigeons on a wire sit with gaps between them, keeping some space for each bird.
+- A plane in the sky looks as small as a bird, though it is very big.
+- At night from a terrace, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots.
 
 ## Open questions
 - **Does space go on for ever, or does it have an end?** We can only see part of space, because light from farther away has not reached us yet. Measurements of the shape of space fit space going on for ever, but they also fit space being very big and curving round. Nobody knows yet.
-- **Is space a thing of its own, or only the gaps between things?** Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this unit, but you will meet it later. Thinkers still disagree about what space really is.
+- **Is space a thing of its own, or only the gaps between things?** Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this lesson, but you will meet it later. Thinkers still disagree about what space really is.
 - **What is past the farthest galaxies we can see?** Telescopes keep finding galaxies farther and farther away. But light from beyond a certain distance has not had time to reach us, so we cannot see what is there.
 
 ## Questions to ask kids
@@ -538,9 +540,9 @@ Room Between (sci.space-time.L2): Topic-level song for Space, time and dimension
 
 ## Links
 - [The Scale of the Universe 2](https://htwins.net/scale2/) · interactive: Zoom out from a person to a planet, a star and a galaxy, to see how big things are and how much space is between them.
-- [B. M. Birla Planetarium]() · place · Chennai: Shows of the night sky on a dome. Ask about how far away the stars are.
-- [Nehru Planetarium]() · place · Mumbai: Sky shows and space exhibits for families.
-- [M. P. Birla Planetarium]() · place · Kolkata: One of the oldest planetariums in India, with sky shows in several languages.
+- B. M. Birla Planetarium · place · Chennai: Shows of the night sky on a dome. Ask about how far away the stars are.
+- Nehru Planetarium · place · Mumbai: Sky shows and space exhibits for families.
+- M. P. Birla Planetarium · place · Kolkata: One of the oldest planetariums in India, with sky shows in several languages.
 
 ## Things to buy
 

@@ -1,9 +1,9 @@
 # Me and others: how we are alike, and how we are different
 `sci.me-and-others.me-and-others.L1`
 
-**Summary.** Does everyone in your family make the same face when they taste something sour or bitter? In this unit you will look in a mirror to see what you share with others, run a taste test at home, and play a game to find who is like you.
+**Summary.** Does everyone in your family make the same face when they taste something sour or bitter? In this lesson you will look in a mirror to see what you share with others, run a taste test at home, and play a game to find who is like you.
 
-**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
+**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this lesson you find out how much you share with others, and how much is only yours.
 
 ## Learning outcomes
 0. By the end I can say three ways I am similar to other people.
@@ -490,7 +490,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - Police can identify people by their fingerprints, because no two people's are the same.
 
 ## Spotted around us
-- A banana-leaf meal at a wedding in Kerala, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side.
+- A banana-leaf meal at a wedding, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side.
 - A school lunch break, where every child's tiffin has a different food from a different home.
 - A family photo from a festival like Onam, Eid or Durga Puja, where everyone has two eyes, a nose and a mouth, but no two faces are alike.
 - A crow at the window cawing loudly when another crow is in trouble, and other crows flying in.
@@ -530,10 +530,12 @@ Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others 
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages, with many stories about friends, families and feelings to read aloud.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on galleries, including ones on the human body and the senses.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with a children's section, good for a family day out.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on galleries, including ones on the human body and the senses.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with a children's section, good for a family day out.
 
 ## Things to buy
+- [We're All Wonders by R. J. Palacio](https://www.amazon.in/s?k=Were+All+Wonders) (book): A boy who looks different from other children asks them to look at him with kindness. It gives the child words for noticing how people differ and how they are alike. Used in a1. Read it together at the start of the lesson, then talk about how we are alike and different.
+- [Me... Jane by Patrick McDonnell](https://www.amazon.in/s?k=Me+Jane) (book): The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa. It shows a child who loved watching living things. Used in a1. Read it together after the lesson on how we are all different.
 
 ## Warm-up
 - Name one thing every person needs. → Air, water, food or sleep.
@@ -549,7 +551,7 @@ Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others 
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/me-and-others.md: the self-portrait and name-meaning journal page (used in All About Me), the 'So many emotions' week (used in Feelings Faces), and kindness to those who look different (the Lily and the monster seed). The Guess Who I Am game and the monster story were used in the Level 3 unit, so this unit uses a lunch-box story instead. The Sandra Faber card is about galaxies and was not used.
+- ideas/by_topic/me-and-others.md: the self-portrait and name-meaning journal page (used in All About Me), the 'So many emotions' week (used in Feelings Faces), and kindness to those who look different (the Lily and the monster seed). The Guess Who I Am game and the monster story were used in the Level 3 unit, so this lesson uses a lunch-box story instead. The Sandra Faber card is about galaxies and was not used.
 - Arthur L. Fox, 'The relationship between chemical constitution and taste', Proceedings of the National Academy of Sciences 18 (1932): phenylthiocarbamide (PTC) tasted bitter to some people and tasteless to others; first noticed in 1931.
 - Linda Bartoshuk and colleagues, 1990s: some people (supertasters) find bitter compounds such as PROP far more bitter than most.
 - Jacob Steiner, 1970s: the gustofacial reflex, newborns relax at sweet and grimace at bitter tastes.

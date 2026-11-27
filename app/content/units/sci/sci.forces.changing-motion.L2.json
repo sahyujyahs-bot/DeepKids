@@ -68,6 +68,12 @@
    "meaning": "A thing springs back when it goes back to its old shape by itself after a push or a pull stops.",
    "example": "Squeeze a sponge and let go. It springs back.",
    "art": "A kitchen sponge squeezed in a hand, and next to it the same sponge back to its full size."
+  },
+  {
+   "term": "Air resistance",
+   "meaning": "Air resistance is the push of air against something that moves through it. It slows the moving thing down. The wider the thing is, the more air it pushes against.",
+   "example": "A sheet of paper falls slowly because the air pushes up against its wide flat shape. The same sheet crumpled into a ball drops fast.",
+   "art": "A flat sheet of paper and a crumpled ball falling side by side, with small arrows pushing up on the flat sheet."
   }
  ],
  "explanations": [
@@ -2066,6 +2072,17 @@
    ],
    "plan": "Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.",
    "url": ""
+  },
+  {
+   "id": "b-rosie-revere-engineer",
+   "item": "Rosie Revere, Engineer by Andrea Beaty",
+   "kind": "book",
+   "why": "A girl builds things from junk, fails, and tries again. It shows the child that a failed try is part of making something work.",
+   "url": "https://www.amazon.in/s?k=Rosie+Revere+Engineer",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the catapult project."
   }
  ],
  "warmup": [

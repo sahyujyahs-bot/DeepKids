@@ -1,9 +1,9 @@
 # Thinking and memory: how brains and other living beings learn and remember
 `sci.mind.thinking-and-memory.L3`
 
-**Summary.** Can a story help you remember a list better? In this unit you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.
+**Summary.** Can a story help you remember a list better? In this lesson you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.
 
-**Intro.** *What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?* Your brain kept yesterday's breakfast, but let last month's go. In this unit you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.
+**Intro.** *What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?* Your brain kept yesterday's breakfast, but let last month's go. In this lesson you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.
 
 ## Learning outcomes
 0. I can say what my brain does: it senses, thinks, remembers and moves my body, using nerve cells called neurons.
@@ -29,6 +29,7 @@
 - **Chunking**: Grouping many small things into a few bigger pieces, so they are easier to hold in memory. *e.g.* A mobile number like 98410 23456 is easier to remember as two groups of five than as ten separate digits.
 - **Skill memory**: The memory of how to do something with your body. You use it without thinking about the steps. *e.g.* Tying your shoelaces or swimming. You can do it, but it is hard to explain each step in words.
 - **Habit**: Something you have done so often that you do it without deciding to. *e.g.* Washing your hands as soon as you come home, without anyone telling you.
+- **Reflex**: A reflex is a quick action the body does without you deciding. The signal goes to a nearby part of the spine and back, so it is faster than a thought. *e.g.* When you touch a hot dosa pan, your hand jumps away before you can think. That jump is a reflex.
 
 ## Explanations
 ### What the brain does · *defined*
@@ -38,6 +39,7 @@ Your brain sits inside your skull, floating in a liquid that protects it. A grow
 - e.g. When an auto honks behind you, your brain hears it, works out where it is, and makes you step aside, all in under a second.
 - e.g. While you sleep, your brain keeps your heart beating and your lungs breathing.
 - e.g. When you read a word, your brain turns black marks on paper into a meaning.
+- **Daniel Simons and Christopher Chabris, USA (1999):** In 1999 Simons and Chabris asked people to watch a short film of players passing basketballs and count the passes made by one team. Partway through, a person in a gorilla suit walks into the middle, thumps their chest and walks off, and about half the viewers did not notice the gorilla at all. The result has been repeated many times and shows that attention is limited. It matters for road safety, because drivers busy with phones can miss people crossing.
 ### Neurons: how the brain sends messages · *defined*
 **Definition:** Neurons are nerve cells. They carry messages as tiny electrical signals, and pass them on to other neurons across tiny gaps called synapses.
 
@@ -554,8 +556,8 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    **Answer:** In two groups, 98410 and 23456. *Why:* Two groups of five are much easier to hold than ten separate digits. This is chunking. Saying it fast does not help you keep it.
 9. (order) Put these in order, from first to last, to show how a new memory is made and kept.  
    **Answer:** ['notice it', 'hold it in your mind for a few seconds', 'link it to something you already know', 'recall it again on another day']. *Why:* First you must notice something. Then short-term memory holds it. Linking it to what you know helps your brain keep it, and recalling it on later days makes it last.
-10. (write) In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this unit and say how it matches her words.  
-   **Answer:** For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'. *Why:* A strong answer picks a real experiment from this unit and says that repeating it again and again made it easier or made more words last.
+10. (write) In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this lesson and say how it matches her words.  
+   **Answer:** For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'. *Why:* A strong answer picks a real experiment from this lesson and says that repeating it again and again made it easier or made more words last.
 11. (draw) Draw two neurons with a gap between them. Draw an arrow to show which way the message goes.  
    **Answer:** Two neurons, each with a round middle, branches and a tail. The tail of the first is close to a branch of the second, with a small gap. The arrow goes along the first neuron's tail, across the gap, into the second.. *Why:* A good drawing shows the gap, the synapse, and the message going from the tail of one neuron to the branches of the next.
 12. (mcq) Which of these is long-term memory?  
@@ -696,9 +698,9 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - Avadhanam, a show of memory and quick thinking in Telugu and Kannada, where one poet answers many questioners in turn, and remembers every unfinished answer.
 - A Carnatic music student practising sarali varisai, the same simple patterns every day, before learning songs.
 - A kolam drawn from memory at a doorstep every morning, especially in the month of Margazhi.
-- An auto driver in Chennai who knows the way through hundreds of small lanes without a map.
+- An auto driver who knows the way through hundreds of small lanes without a map.
 - A pill box with the days of the week on it, in a grandparent's room.
-- A Baul singer in Bengal, who learns many songs by ear from a teacher, without a written page, and sings them from memory.
+- A folk singer who learns many songs by ear from a teacher, without a written page, and sings them from memory.
 
 ## Open questions
 - **How do signals between neurons become the experience of remembering?** Scientists can see which neurons send signals when we remember, but nobody knows how that becomes the feeling of seeing a loved one's face in your mind.
@@ -710,7 +712,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - What is the first thing you remember from when you were little?
 - What did you learn today that you want to remember tomorrow? How will you remember it?
 - Can you tell me today's day from start to finish, in order?
-- Which trick from this unit will you use for your next test or poem?
+- Which trick from this lesson will you use for your next test or poem?
 - Why do you think we remember happy and scary days better than ordinary ones?
 - Which do you think helps you remember more: reading something again, or trying to say it without looking?
 - What is your favourite memory of a grandparent or another older person you love?
@@ -746,7 +748,8 @@ Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes
 - [NIMHANS Brain Museum](https://nimhans.ac.in) · place · Bengaluru: A museum at the National Institute of Mental Health and Neurosciences where visitors can see real human brains and learn how they work. Check the opening days before you go.
 
 ## Things to buy
-- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this unit works without it. Used in p1. 
+- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this lesson works without it. Used in p1. 
+- [Wilfrid Gordon McDonald Partridge by Mem Fox](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge) (book): A small boy helps an old friend find her lost memories through objects. It shows how things we touch can bring memories back. Used in a1. Read it together after the memory game.
 
 ## Warm-up
 - What are nerve cells called? → Neurons.

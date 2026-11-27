@@ -1,9 +1,9 @@
 # Healthy food: foods that help us grow, give us energy and protect us
 `sci.food.healthy-food.L2`
 
-**Summary.** Spit makes thick rice paste go runny, but water does not. Why? In this unit you will run that spit test, sort your own lunch into foods that help you grow, give you energy or protect you, and play a card sorting game with the same three jobs.
+**Summary.** Spit makes thick rice paste go runny, but water does not. Why? In this lesson you will run that spit test, sort your own lunch into foods that help you grow, give you energy or protect you, and play a card sorting game with the same three jobs.
 
-**Intro.** *A plain chapati does not taste sweet. But chew a piece for a long time, and it does start to taste a little sweet. Why would that happen?* Many children notice that a chewed chapati starts to taste a little sweet. Something in your mouth is changing the food. In this unit we test what spit does to rice-flour paste. We find out why food gives us energy. We also sort foods by their jobs: some help us grow, some give us energy, and some protect us from getting ill. And we ask why sweets are treats, not every-meal foods.
+**Intro.** *A plain chapati does not taste sweet. But chew a piece for a long time, and it does start to taste a little sweet. Why would that happen?* Many children notice that a chewed chapati starts to taste a little sweet. Something in your mouth is changing the food. In this lesson we test what spit does to rice-flour paste. We find out why food gives us energy. We also sort foods by their jobs: some help us grow, some give us energy, and some protect us from getting ill. And we ask why sweets are treats, not every-meal foods.
 
 ## Learning outcomes
 0. By the end I can say the three jobs food does: help me grow, give me energy, and protect me.
@@ -447,9 +447,9 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - India adds iodine to salt, and many states add iron to rice in schemes for school meals, to protect people from illness.
 
 ## Spotted around us
-- Banana-leaf meals at an Onam sadya or in a Chennai restaurant, with rice, sambar, vegetables and a small payasam.
+- Banana-leaf meals at an Onam sadya or in a restaurant, with rice, sambar, vegetables and a small payasam.
 - A school midday meal of rice, dal and vegetables served from big steel vessels.
-- Ragi mudde served with soppu saaru, a greens curry, in Karnataka homes and eateries.
+- Ragi mudde served with soppu saaru, a greens curry.
 - Sweet shops before Diwali, Eid and Durga Puja, piled with laddus, jalebis and rasgullas.
 - Fruit carts with guavas, papayas and bananas at street corners in every city.
 
@@ -487,11 +487,12 @@ Grow, Go and Protect (sci.food.L2): Topic-level song for Food L2
 ## Links
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on healthy food from India's food safety authority, with ideas for children.
 - [National Institute of Nutrition](https://www.nin.res.in/) · interactive: For the parent: India's own dietary guidelines and food tables, from the institute in Hyderabad.
-- [Koyambedu Market]() · place · Chennai: One of the biggest fruit and vegetable markets in Asia. Find a protect food of every colour.
-- [K R Market]() · place · Bengaluru: A busy old market full of vegetables, fruit, greens and flowers.
-- [Bara Bazaar (Iewduh)]() · place · Shillong: A large market run mostly by Khasi women traders, with rice, greens, fish and fruit from the hills.
+- Koyambedu Market · place · Chennai: One of the biggest fruit and vegetable markets in Asia. Find a protect food of every colour.
+- K R Market · place · Bengaluru: A busy old market full of vegetables, fruit, greens and flowers.
+- Bara Bazaar (Iewduh) · place · Shillong: A large market run mostly by Khasi women traders, with rice, greens, fish and fruit from the hills.
 
 ## Things to buy
+- [Gregory, the Terrible Eater by Mitchell Sharmat](https://www.amazon.in/s?k=Gregory+the+Terrible+Eater) (book): A young goat wants to eat fruit and vegetables instead of tin cans, which worries his parents. It gives the child a laugh about trying new foods. Used in a1. Read it together before the food plate activity.
 
 ## Warm-up
 - Name one grow food. → Dal, milk, curd, egg, fish, paneer or groundnuts.
@@ -508,7 +509,7 @@ Grow, Go and Protect (sci.food.L2): Topic-level song for Food L2
 
 ## Sources
 - ideas/by_topic/food-and-a-balanced-diet.md: the SCI Cards for Barry Marshall and M. S. Swaminathan were kept for higher levels, because stomach bacteria and high-yield farming are beyond Class 2. The founder's line that the food on a plate was sunlight, soil, rain and someone's work (PHILOSOPHY.md) shaped the roots thread.
-- Cambridge Primary Science Learner's Book 2, Unit 4 'Humans and animals grow' (pack cambridge sci-L2-04): healthy and unhealthy foods, a balanced diet. This unit keeps that idea and builds the investigation round how energy foods become sugar.
+- Cambridge Primary Science Learner's Book 2, Unit 4 'Humans and animals grow' (pack cambridge sci-L2-04): healthy and unhealthy foods, a balanced diet. This lesson keeps that idea and builds the investigation round how energy foods become sugar.
 - Leads on from sci.food.healthy-food.L1 (water in food, learning to like a food) and leads to sci.food.nutrients.L3 and sci.food.balanced-diet.L3, without repeating their experiments.
 - Salivary alpha-amylase breaks starch into maltose and other short sugars, and starts starch digestion in the mouth. Saliva quickly lowers the thickness of starch-thickened foods: studies of starch-thickened drinks for people with swallowing difficulty found saliva thins them within minutes (for example B. Hanson and others, Dysphagia, 2012).
 - Copy number of the salivary amylase gene AMY1 varies between people, and is higher on average in groups with starch-rich traditional diets: G. H. Perry and others, Nature Genetics, 2007. Its health effects are debated.

@@ -1,9 +1,9 @@
 # Growing up: how a body grows from baby to grown-up, and how we measure growing
 `sci.body.growing.L2`
 
-**Summary.** Are you taller when you wake up than when you go to bed? In this unit you will measure your height carefully at both times and compare, try on old clothes to see how you have grown, and play a game of taller, shorter or the same.
+**Summary.** Are you taller when you wake up than when you go to bed? In this lesson you will measure your height carefully at both times and compare, try on old clothes to see how you have grown, and play a game of taller, shorter or the same.
 
-**Intro.** *Are you the same height at bedtime as when you wake up in the morning?* Find a shirt or frock you wore three years ago. Try it on. The sleeves stop above your wrists, and it feels tight. You grew, but you never saw yourself growing. Growing happens too slowly to watch. So people measure, and write the numbers down. In this unit you learn how a body grows from a baby to a grown-up. You also learn to measure yourself carefully. Then you test a strange idea: that you are taller in the morning.
+**Intro.** *Are you the same height at bedtime as when you wake up in the morning?* Find a shirt or frock you wore three years ago. Try it on. The sleeves stop above your wrists, and it feels tight. You grew, but you never saw yourself growing. Growing happens too slowly to watch. So people measure, and write the numbers down. In this lesson you learn how a body grows from a baby to a grown-up. You also learn to measure yourself carefully. Then you test a strange idea: that you are taller in the morning.
 
 ## Learning outcomes
 0. By the end I can name the stages of a human life, from baby to older adult, and say how a body changes in each.
@@ -53,6 +53,7 @@ A body builds new bone and muscle out of food. Milk, dal, eggs, fish, ragi and g
 - e.g. Identical twins usually grow to almost the same height.
 - **Many geneticists:** When children have enough food and good health, most of the difference in height between people comes from what they get from their parents.
 - **Many child health scientists, such as the team behind the WHO growth study:** Healthy, well-fed babies in very different countries grow almost the same. So when many children in one place are short, the main reason is food, illness and dirty water, not their families.
+- **Rita Levi-Montalcini (1909–2012), Italy and the USA:** When Mussolini's 1938 racial laws barred Jewish scientists from universities, Levi-Montalcini set up a laboratory in her bedroom and studied how nerves grow in chick embryos, using sewing needles as tools. Later, in the USA in the 1950s, she and Stanley Cohen discovered nerve growth factor, a chemical messenger that tells nerve cells to grow and where to go. Many scientists doubted for years that one chemical could guide growth, but she and Cohen shared the Nobel Prize in 1986.
 ### Smooth or in jumps: how do babies grow? · *debated*
 **Definition:** Some scientists found that babies grow in sudden jumps, with long gaps in between. Others think most growing is smooth and steady.
 
@@ -95,7 +96,7 @@ We have learnt how a body grows from a baby to a grown-up, and how to measure gr
 
 You began very small, and every part of you since then has been built from food: milk, rice, dal, greens. The food came from plants, and the plants grew from sunlight, water and soil. So the water and soil of a paddy field in Thanjavur can become part of your thigh bone. Your body is always taking in new material and changing.
 
-- **Bhagavad Gita 2.13:** “देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। / तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।” Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this unit, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
+- **Bhagavad Gita 2.13:** “देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। / तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।” Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this lesson, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
 - **Heraclitus, as quoted in Plato's Cratylus 402a:** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing. (Your body is a little like the river. It looks the same from day to day, but it is always taking in new food and changing its size, even overnight.)
 - Science (settled): People are a little taller in the morning than in the evening, because the discs in the backbone lose and regain water.
 - Science (debated): Whether children grow smoothly or in sudden jumps is still argued about.
@@ -502,9 +503,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 
 ## Spotted around us
 - A growth chart printed on the Mother and Child Protection card that many families get from the anganwadi or hospital.
-- Pencil marks with names and dates on a door frame in a home in Kochi or Pune, where a family measures the children every year.
+- Pencil marks with names and dates on a door frame, where a family measures the children every year.
 - A height measuring stick on the wall at a children's clinic or a school medical check-up.
-- Children's clothes in a shop in Kolkata or Hyderabad labelled by age: 5 to 6 years, 7 to 8 years.
+- Children's clothes in a shop labelled by age: 5 to 6 years, 7 to 8 years.
 - A school uniform that a parent bought a little big, with folded-up sleeves, so the child can grow into it.
 
 ## Open questions

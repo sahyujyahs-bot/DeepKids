@@ -1,9 +1,9 @@
 # Habitats: why a frog lives in a pond and moss grows on a wet wall
 `sci.habitats.habitats.L2`
 
-**Summary.** Why does moss grow on an old brick wall but not on the shiny stone steps beside it? In this unit you will stand a clay diya and a smooth stone in water with mustard seeds on top, rescue animals from the wrong home in a game, and find plant homes in your flat.
+**Summary.** Why does moss grow on an old brick wall but not on the shiny stone steps beside it? In this lesson you will stand a clay diya and a smooth stone in water with mustard seeds on top, rescue animals from the wrong home in a game, and find plant homes in your flat.
 
-**Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this unit we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
+**Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this lesson we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
 
 ## Learning outcomes
 0. By the end I can say what a habitat is, and name what a habitat gives: water, food, air, shelter and the right warmth.
@@ -21,6 +21,8 @@
 - **Rock**: Rock is the hard, natural material that the land is made of, deep down. Stones and pebbles are small pieces of rock. *e.g.* Granite is a rock. Many kitchen counters and temple steps are made of granite.
 - **Soil**: Soil is the loose top layer of the ground. It is made of tiny bits of rock mixed with bits of dead plants and animals. *e.g.* The soil in a flowerpot holds water for the plant's roots.
 - **Moss**: Moss is a small, soft green plant that grows in damp places, often on walls, stones and tree bark. *e.g.* In the Kerala monsoon, green moss covers many old compound walls.
+- **Microhabitat**: A microhabitat is a very small habitat inside a bigger one. Each microhabitat has its own light, damp and food, so it suits different small creatures. *e.g.* The underside of a leaf in your garden is a microhabitat for tiny insects. The damp soil under a flowerpot is another one, for woodlice and worms.
+- **Condensation**: Condensation is water in the air turning back into drops of liquid water on a cool surface. The air holds invisible water vapour, and cooling squeezes some of it out as drops. *e.g.* A steel glass of cold water in the Kerala heat gets drops all over the outside. The drops come from the warm air touching the cold steel.
 
 ## Explanations
 ### What a habitat is · *defined*
@@ -44,6 +46,8 @@ A lotus grows in a pond. The roots hold on to the mud at the bottom, and the wid
 - e.g. A money plant can grow in a bottle of water on a windowsill.
 - e.g. Aloe vera grows well in a sunny pot that dries out between waterings.
 - e.g. Ferns and moss grow on the shady, wet walls of old wells.
+- **Nathaniel Bagshaw Ward (1791–1868), England:** Ward was a London doctor who could not grow ferns in his garden because of the city's smoke. Around 1829 he noticed a fern and some grass sprouting in a sealed glass bottle where he had put a moth chrysalis in damp soil, and the plants lived inside for years without new water. He designed sealed glass cases, called Wardian cases, and showed that plants could survive long sea journeys inside them. The cases carried tea from China to India and rubber from South America to Asia, though this often made money for empires rather than for the people whose plants they were.
+- **Alexander von Humboldt (1769–1859), Germany, and Aimé Bonpland (1773–1858), France:** In 1802, travelling in South America, Humboldt and the plant scientist Bonpland climbed high up the volcano Chimborazo with local guides. They noted that plants change in bands as you go up: hot forest at the bottom, then cooler forest, then grassland, then only mosses and lichens near the snow. Humboldt became famous across Europe, while Bonpland, who did much of the plant collecting and describing, and the local guides who knew the mountain were hardly named. Today scientists are watching many mountain plants move higher up as the climate warms.
 ### Animals in different habitats · *defined*
 **Definition:** Animals live in habitats that give them their food, water and shelter, and their bodies suit those places.
 
@@ -437,11 +441,11 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - Farmers know that good soil takes a very long time to form, so they try not to let rain wash it away.
 
 ## Spotted around us
-- Green moss and small ferns on old laterite walls in Kerala and Goa during the monsoon.
-- Rock agama lizards sunning themselves on the great boulders of Hampi in Karnataka.
-- Mangrove trees standing in salty mud at Pichavaram in Tamil Nadu and in the Sundarbans of West Bengal.
-- Camels and thorny khejri trees in the Thar desert of Rajasthan.
-- Lotus and water hyacinth on village ponds in Assam and Odisha.
+- Green moss and small ferns on old stone walls during the monsoon.
+- Rock agama lizards sunning themselves on big boulders.
+- Mangrove trees standing in salty mud.
+- Camels and thorny trees in the desert, in a picture or a zoo.
+- Lotus and water hyacinth on village ponds.
 
 ## Open questions
 - **How many kinds of living beings live in the cracks of one old wall?** Many of the tiniest beings in moss and cracks have never been counted or named, so nobody knows.
@@ -475,12 +479,13 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant or an animal near home and find out their name.
-- [Desert National Park]() · place · Jaisalmer: Sand dunes, rocky land and grassland, home to great Indian bustards, chinkara and desert foxes.
-- [Pichavaram Mangrove Forest]() · place · near Chidambaram, Tamil Nadu: Row a boat between mangrove trees growing in salty water.
-- [Hampi boulders]() · place · Hampi, Karnataka: Huge granite boulders, with lizards in the sun and plants in the cracks.
-- [Silent Valley National Park]() · place · Palakkad, Kerala: An old, wet forest of the Western Ghats, home to lion-tailed macaques.
+- Desert National Park · place · Jaisalmer: Sand dunes, rocky land and grassland, home to great Indian bustards, chinkara and desert foxes.
+- Pichavaram Mangrove Forest · place · near Chidambaram, Tamil Nadu: Row a boat between mangrove trees growing in salty water.
+- Hampi boulders · place · Hampi, Karnataka: Huge granite boulders, with lizards in the sun and plants in the cracks.
+- Silent Valley National Park · place · Palakkad, Kerala: An old, wet forest of the Western Ghats, home to lion-tailed macaques.
 
 ## Things to buy
+- [Island: A Story of the Galápagos by Jason Chin](https://www.amazon.in/s?k=Island) (book): An island rises from the sea, and plants and animals arrive and change to fit it. It gives the child a first look at how living things and their homes fit together. Used in a1. Read it together after the habitat walk.
 
 ## Warm-up
 - Name something a living being needs from their home. → Water, food, air, shelter or the right warmth.

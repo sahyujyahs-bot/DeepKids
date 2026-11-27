@@ -1,7 +1,7 @@
 # Testing materials: which one is best for the job?
 `sci.materials.testing-materials.L2`
 
-**Summary.** A rubber band and a strip of milk packet both stretch, but only one springs back. Looking will not tell you which. In this unit you will hang a water bottle from strips of rubber, cloth and paper and measure the stretch, test which materials keep water out, and test which strip lifts the bottle best.
+**Summary.** A rubber band and a strip of milk packet both stretch, but only one springs back. Looking will not tell you which. In this lesson you will hang a water bottle from strips of rubber, cloth and paper and measure the stretch, test which materials keep water out, and test which strip lifts the bottle best.
 
 **Intro.** *Hold a rubber band in one hand and a strip of an old milk packet in the other. Pull both gently. Both get longer. Now let go. What happens to each one?* The rubber band snaps back. The milk packet strip stays long and thin. Both looked like soft, bendy things before you pulled them. A material can surprise you, so scientists test it. A test means doing something to a material on purpose and watching what happens. Before you read on, guess. Which material in your home stretches the most? You are going to find out.
 
@@ -384,7 +384,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ## Worksheets
 ### Test It! (core) (core, 15 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Waterproof → does not let water through; Absorbent → soaks up water; Elastic → goes back after you stop pulling; Strong → hard to break or tear. *Why:* These four words say what a material can do. We tested all four in this unit.
+   **Answer:** Waterproof → does not let water through; Absorbent → soaks up water; Elastic → goes back after you stop pulling; Strong → hard to break or tear. *Why:* These four words say what a material can do. We tested all four in this lesson.
 2. (mcq) In the stretch test, which one usually stretches the most?  
    Options: The newspaper strip / The rubber band / The hanky strip  
    **Answer:** The rubber band. *Why:* Rubber is made of long, curled-up chains that straighten when pulled. Newspaper hardly stretches at all.
@@ -496,10 +496,10 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - Towels and nappies are made of absorbent materials.
 
 ## Spotted around us
-- At a banana leaf meal in Tamil Nadu or Kerala, the leaf holds the rasam and sambar without leaking.
+- At a banana leaf meal, the leaf holds the rasam and sambar without leaking.
 - A fruit seller ties a bunch of bananas together with a rubber band.
-- A fisherwoman in Kolkata or Mumbai covers her fish with a polythene sheet when rain falls.
-- In Kerala's backwaters, boats are tied up with coir rope, which is made from coconut fibre.
+- A fisherwoman covers her fish with a polythene sheet when rain falls.
+- Boats tied up with coir rope, which is made from coconut fibre.
 - A tailor stretches a piece of elastic before sewing it into the waistband of pyjamas.
 
 ## Open questions
@@ -535,10 +535,11 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Links
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum, for the parent to find more tests to try.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day out.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with hands-on exhibits for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a day out.
+- Nehru Science Centre · place · Mumbai: A large science centre with hands-on exhibits for children.
 
 ## Things to buy
+- [Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer) (book): A girl who builds things from junk, fails, and learns that a flop is part of testing. It matches testing and trying again. Used in a1. Read it together after the testing experiment.
 
 ## Warm-up
 - What does waterproof mean? → It does not let water through.

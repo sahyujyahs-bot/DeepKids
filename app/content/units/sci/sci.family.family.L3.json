@@ -110,7 +110,12 @@
     "Hindi: Bua is your father's sister and Mausi is your mother's sister.",
     "Bengali: Pishi is your father's sister and Mashi is your mother's sister."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Douglas Rohde, Steve Olson and Joseph Chang, USA (published in Nature, 2004)",
+     "explanation": "Using computer models of how people have moved and had children over thousands of years, they estimated that the most recent person who is an ancestor of every human alive today may have lived only a few thousand years ago. A few thousand years further back, every person alive was either an ancestor of everyone living now or of no one. Family trees must join, which is accepted, but the exact dates are uncertain because they depend on how much people moved and mixed."
+    }
+   ],
    "art": "A family tree with Tamil and English names under each face: Amma, Appa, Mama, Athai, Paati, Thatha."
   },
   {
@@ -124,7 +129,12 @@
     "Sitting with a sick grandparent at night is care work.",
     "A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Marilyn Waring (born 1952), New Zealand",
+     "explanation": "In her book If Women Counted (1988), Waring showed that the way countries measure their economy leaves out unpaid work done at home, such as cooking, cleaning, caring for children and elders, and fetching water, most of which is done by women. So the work that keeps families alive appears to be worth nothing. Her work helped persuade countries to run time-use surveys, and India's first national Time Use Survey (2019) found women spending about five hours a day on this work and men about one and a half."
+    }
+   ],
    "art": "A bar chart drawn on a kitchen wall: a tall bar for women's minutes of home work and a short bar for men's."
   },
   {
@@ -2261,7 +2271,19 @@
    "why": "Walk through real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, and see how big joint families lived, cooked and shared work."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-chair-for-my-mother",
+   "item": "A Chair for My Mother by Vera B. Williams",
+   "kind": "book",
+   "why": "A girl, her mother and her grandmother save coins in a jar for a new chair after a fire, helped by their neighbours. It shows how a family looks after each other.",
+   "url": "https://www.amazon.in/s?k=A+Chair+for+My+Mother",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the family lesson."
+  }
+ ],
  "warmup": [
   {
    "q": "What does English call your mother's brother?",

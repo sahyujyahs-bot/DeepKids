@@ -1,7 +1,7 @@
 # Zero: the number for none, and the mark that holds an empty place
 `sci.nothing-and-forever.zero.L3`
 
-**Summary.** Write 520, leave out the 0, and most people read 52. So what does zero do? In this unit you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.
+**Summary.** Write 520, leave out the 0, and most people read 52. So what does zero do? In this lesson you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.
 
 **Intro.** *Try this. Write 52 on a chit. Leave a space after it, as wide as one digit. Show it to someone at home and ask them to read it. Did they say fifty-two? You meant five hundred and twenty. What went missing?* The space you left meant 'no ones here'. But a blank space is invisible, so the reader saw only 52. For thousands of years, people wrote numbers with gaps like this and made mistakes like this. Indian mathematicians solved it with a small sign for 'none'. They called it shunya, which means empty in Sanskrit. We call it zero, and today it is written in every country in the world.
 
@@ -27,6 +27,7 @@
 - **Negative number**: A negative number is less than zero. It is written with a minus sign, like -2. Brahmagupta called negative numbers debts. *e.g.* In a lift, the button B1 is one floor below the ground floor, so it is like -1.
 - **Zero mark**: The zero mark is where measuring starts on a ruler, a scale or a thermometer. *e.g.* On many rulers, the zero mark is a little in from the edge.
 - **Abacus**: An abacus is a counting frame. Beads on each rod or in each row stand for ones, tens or hundreds. *e.g.* A rod with no beads pushed up shows an empty place, like a 0.
+- **Vacuum**: A vacuum is a space with almost nothing in it, not even air. Sound cannot travel through a vacuum. *e.g.* Space between the stars is almost a vacuum. A flask keeps tea hot partly because there is almost no air in a layer between its walls.
 
 ## Explanations
 ### Zero means none · *defined*
@@ -85,6 +86,7 @@ Zero is not the bottom of the numbers. A lift goes from the ground floor, G, dow
 An empty bottle is full of air. Space is far emptier. Between the stars there is only about one atom in a space the size of a sugar cube, and light passes through it. Physicists have found that even a space with no atoms at all is not perfectly still. It holds a tiny amount of energy that they have measured. So nobody has ever found a place with exactly nothing in it. Whether a perfect nothing can exist anywhere is still an open question.
 - e.g. Push an upside-down 'empty' tumbler into a bucket of water: the air inside stops the water coming in.
 - e.g. Between the stars, there is about one atom in a space the size of a sugar cube.
+- e.g. A rest in a song is a beat with no sound, yet the singers count it just like a note. A 'silent' minute in a classroom is full of fan hum, bird calls and breathing.
 ### Do animals understand zero? · *debated*
 A honeybee visits many flowers in one trip, so she must judge quickly which patch has more flowers. In 2018, scientists in Melbourne, Australia, trained honeybees to choose the card with fewer shapes. Then they showed the bees a blank card and a card with one shape. The bees chose the blank card as the one with fewer. In 2021, scientists in Germany found brain cells in crows that respond when there are no dots at all. Scientists disagree about what this means.
 - e.g. Bees chose a blank card as 'fewer' than a card with one dot.
@@ -540,7 +542,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    Options: 2 and 20 / 203 and 230 / 12 and 21 / 105 and 150  
    **Answer:** 2 and 20. *Why:* With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart.
 6. (sort) Sort these zeros by the job they do.  
-   **Answer:** the score before a match starts → Zero as the number for none; the 0 in 1,08,000 → Zero holding an empty place; the 0 mark on a ruler → Zero as a starting point; 0 °C on a thermometer → Zero as a starting point; the 0 in 50 rupees → Zero holding an empty place; 10 - 10 → Zero as the number for none. *Why:* Zero has three jobs in this unit. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none.
+   **Answer:** the score before a match starts → Zero as the number for none; the 0 in 1,08,000 → Zero holding an empty place; the 0 mark on a ruler → Zero as a starting point; 0 °C on a thermometer → Zero as a starting point; the 0 in 50 rupees → Zero holding an empty place; 10 - 10 → Zero as the number for none. *Why:* Zero has three jobs in this lesson. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none.
 7. (write) Many people think 0 °C means there is no heat at all. Write what 0 °C really means, and give one reason you know it is not 'no heat'.  
    **Answer:** 0 °C is the temperature where water freezes. It is a starting point people chose. It is not 'no heat', because places like Leh get much colder than 0 °C, so there must be more heat to lose.. *Why:* A strong answer says that 0 °C was chosen, and uses a fact like temperatures below zero to show that heat is still there.
 8. (fill) Zero is the number for ____: an empty plate has zero dosas.  
@@ -597,7 +599,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    **Answer:** Open answer. A strong answer separates the sign 0, which people did invent, from the idea of none, which bees may also have. It gives each friend a fair point.. *Why:* Philosophers and mathematicians still argue about whether numbers are invented or found. There is no single right answer.
 
 ## Videos
-- **Why can't you divide by zero?** (TED-Ed, 5 min) id `NKmGVE85GUU`: A clear cartoon explaining why dividing by zero has no answer, using the same check as this unit: division must undo multiplication. Best watched with a parent after the beans activity. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why can't you divide by zero? - TED-Ed', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it.
+- **Why can't you divide by zero?** (TED-Ed, 5 min) id `NKmGVE85GUU`: A clear cartoon explaining why dividing by zero has no answer, using the same check as this lesson: division must undo multiplication. Best watched with a parent after the beans activity. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why can't you divide by zero? - TED-Ed', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it.
 - **A Big Zero: Research uncovers the date of the Bakhshali manuscript** (University of Oxford, 3 min) id `pV_gXGTuWxY`: Shows the real Bakhshali manuscript and its dot zeros, and how the library carbon-dated it in 2017. Watch with the card on the Bakhshali debate, because other historians disagree with the dates. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'A Big Zero: Research uncovers the date of the Bakhshali manuscript', channel University of Oxford). Not watched from here: a parent should preview it. It gives the library's view only.
 - **Problems with Zero** (Numberphile, 8 min) id `BRRolKTlF6Q`: For the parent and curious older children: a mathematician explains why 1 ÷ 0 and 0 ÷ 0 cause trouble, with handwritten working. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Problems with Zero - Numberphile', channel Numberphile). Not watched from here, so the length is a guess. It goes beyond Class 3, so a parent should watch first.
 
@@ -650,7 +652,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - The 0 on the phone keypad, and the zeros in your pin code.
 - The G button in a lift, standing for the ground floor, with B1 and B2 below it.
 - A cricket scorebook with rows of dots for balls with no runs.
-- The weather report on TV showing below-zero temperatures in Leh or Srinagar in winter.
+- The weather report on TV showing below-zero temperatures in a cold place in winter.
 - The 0 mark at the start of a ruler, and the zero button on a kitchen scale.
 - Price tags like ₹100 and ₹1,000 in a shop, where the zeros hold the tens and hundreds places.
 - Notes and coins: a ₹10, ₹20, ₹50, ₹100 and ₹500 note each use a 0 to hold a place.
@@ -694,7 +696,7 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 - [PhET Make a Ten](https://phet.colorado.edu/en/simulations/make-a-ten) · simulation: A free simulation for building numbers from ones, tens and hundreds, like the katori abacus.
 - [Number Pieces, from the Math Learning Center](https://apps.mathlearningcenter.org/number-pieces/) · interactive: Free online place-value blocks. Build 205 and 250 and see how the empty place shows.
 - [Chaturbhuj Temple, Gwalior Fort](https://www.mptourism.com) · place · Gwalior: The small temple whose stone of 876 shows the oldest dated round zero in India, in the number 270.
-- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries, good for a day out after this unit.
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries, good for a day out after this lesson.
 - [Bodleian Libraries, University of Oxford](https://www.bodleian.ox.ac.uk) · interactive: The library that keeps the Bakhshali manuscript. Search the site for 'Bakhshali' to see photos of its dot zeros.
 
 ## Things to buy

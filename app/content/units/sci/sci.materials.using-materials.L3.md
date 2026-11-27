@@ -1,9 +1,9 @@
 # Choosing the right material for a job
 `sci.materials.using-materials.L3`
 
-**Summary.** A pan is made of metal, and its handle is made of wood or plastic. Why? In this unit you will race hot spoons of different materials, test whether a sweater makes heat, find out why a clay matka cools water, and pick materials for jobs.
+**Summary.** A pan is made of metal, and its handle is made of wood or plastic. Why? In this lesson you will race hot spoons of different materials, test whether a sweater makes heat, find out why a clay matka cools water, and pick materials for jobs.
 
-**Intro.** *Think of a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?* Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this unit you test materials the way an engineer does, and find out why each one is right for its job.
+**Intro.** *Think of a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?* Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this lesson you test materials the way an engineer does, and find out why each one is right for its job.
 
 ## Learning outcomes
 0. I can explain that we choose a material for a job because of its properties, and give examples from my home.
@@ -69,7 +69,7 @@ Thinking about silly objects is a good way to learn. A chocolate teapot would me
 ### Pans and handles: conductors and insulators · *defined*
 **Definition:** A conductor of heat lets heat pass through it quickly. An insulator lets heat pass through only slowly. Most metals are good conductors. Wood, plastic, cloth, cork and air are good insulators.
 
-A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon usually stays solid for much longer. Many pressure cookers have metal bodies and plastic handles for exactly this reason.
+A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this lesson shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon usually stays solid for much longer. Many pressure cookers have metal bodies and plastic handles for exactly this reason.
 - e.g. A dosa tawa is iron. Its handle is often wood.
 - e.g. A steel tumbler of hot chai is too hot to hold. A clay kulhad of the same chai is easy to hold.
 - e.g. Oven gloves are thick cloth with air trapped inside, which is a good insulator.
@@ -115,6 +115,7 @@ Many spacecraft are wrapped in a shiny gold or silver blanket. It is many thin l
 - e.g. A NASA spacecraft called Stardust used aerogel to catch tiny grains of comet dust and bring them back to Earth in 2006.
 - e.g. Space suits have many layers. One holds air in, some reflect heat, and the outer layer stops sharp dust from cutting through.
 - e.g. Rocket nozzles are made of materials that can stand fiercely hot gas rushing through them without melting.
+- **The seamstresses of the International Latex Corporation (ILC), Dover, Delaware, USA (1960s):** The company, until then best known for making bras and girdles, won the job of making the Apollo moon suits. Its seamstresses, mostly women, sewed many layers of different materials, each with a job, to extremely exact measurements, and even pins were banned in case one pierced the airtight layer. Few people outside the factory knew their names, because the suits were credited to the company and the engineers. Historians such as Nicholas de Monchaux, in his book Spacesuit: Fashioning Apollo, have written about how much the suits depended on their skill.
 ### Plastic: wonder material or problem? · *debated*
 Plastic is cheap, light, waterproof and can be shaped into anything. That is why it is everywhere. But it is also durable, and that is the problem. Most plastics take a very long time to break down. So thrown-away plastic piles up in fields, rivers and the sea. People disagree about what to do.
 - e.g. Plastic drips, gloves and syringes in hospitals keep medicines clean and stop germs spreading.
@@ -182,7 +183,7 @@ We have been learning why we choose each material for its job. Now we ask what m
 A clay pot, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. So a material is more than its fibres or its clay. Its gaps are working too.
 
 - **Tao Te Ching 11:** “埏埴以為器，當其無，有器之用。” We shape clay into a pot. But it is the empty space inside that makes the pot useful. (The gaps in wool are not truly empty. They are full of still air. But like the space inside Laozi's pot, they are what make the sweater useful. The tiny holes in a clay pot do the same for cool water.)
-- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay. (A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.)
+- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay. (A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This lesson's science goes one step further: clay, steel and wool are all atoms, joined in different ways.)
 - Science (settled): Still air carries heat very poorly. Most good insulators, like wool, feathers, foam and the aerogel used in spacecraft, work by holding air still in tiny spaces.
 - Science (settled): Iron, and most atoms heavier than helium, were made inside stars. Margaret and Geoffrey Burbidge, William Fowler and Fred Hoyle showed how, in 1957.
 - Other view, Democritus, a Greek thinker who lived about 2,400 years ago: Democritus said there are only atoms and empty space. Hot and cold, sweet and bitter, are only how atoms seem to us. In his view, the gaps are simply empty, and there is no awareness underneath, only atoms moving.
@@ -779,9 +780,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - A pressure cooker: a metal pot with a black plastic handle.
 - Banana leaves used as plates at a feast or a temple meal.
 - Coir doormats and coir ropes, made from rough, strong coconut husk fibre.
-- Bamboo scaffolding around a building that is going up. Bamboo is strong, light and bendy. In Assam and Mizoram, whole houses are built of bamboo.
+- Bamboo scaffolding around a building that is going up. Bamboo is strong, light and bendy.
 - A woollen pheran or shawl in winter, trapping still air.
-- Shiny steel tiffins carried in cloth bags by Mumbai's dabbawalas.
+- Shiny steel tiffins carried in cloth bags by dabbawalas.
 
 ## Open questions
 - **Can we make a material that carries electricity with no loss at all, at ordinary room temperature?** Some materials do this only when they are extremely cold. Many claims of a room-temperature one, like LK-99 in 2023, failed when others tested them.

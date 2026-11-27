@@ -2380,7 +2380,19 @@
    "why": "Ask to see their compost or vermicompost beds, and smell ready compost."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-compost-stew",
+   "item": "Compost Stew: An A to Z Recipe for the Earth by Mary McKenna Siddals",
+   "kind": "book",
+   "why": "A rhyming list of what can go into a compost pot, from apple cores to zucchini peels. It matches what the child puts in her own compost.",
+   "url": "https://www.amazon.in/s?k=Compost+Stew",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together when you start the compost pot."
+  }
+ ],
  "warmup": [
   {
    "q": "Is a banana peel a green or a brown?",

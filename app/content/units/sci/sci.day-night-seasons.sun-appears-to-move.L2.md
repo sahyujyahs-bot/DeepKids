@@ -1,9 +1,9 @@
 # The Sun appears to move: sunlight and shadows from morning to evening
 `sci.day-night-seasons.sun-appears-to-move.L2`
 
-**Summary.** A patch of sunlight creeps across the floor, though nobody moves the window. Why? In this unit you will mark the sun patch every 5 minutes, measure your own shadow in footsteps in the morning, at noon and in the evening, and work out east and west from your home.
+**Summary.** A patch of sunlight creeps across the floor, though nobody moves the window. Why? In this lesson you will mark the sun patch every 5 minutes, measure your own shadow in footsteps in the morning, at noon and in the evening, and work out east and west from your home.
 
-**Intro.** *In the morning, your shadow on the road is longer than you are. At lunchtime it hides near your feet. Why does it change?* Your body stayed the same size all day. Your shadow did not. A shadow is the dark patch where your body blocks the sunlight. So if the shadow changed, something about the sunlight changed. In this unit we watch the sunlight and the shadows from morning to evening. We find out how the Sun seems to move across the sky, and why.
+**Intro.** *In the morning, your shadow on the road is longer than you are. At lunchtime it hides near your feet. Why does it change?* Your body stayed the same size all day. Your shadow did not. A shadow is the dark patch where your body blocks the sunlight. So if the shadow changed, something about the sunlight changed. In this lesson we watch the sunlight and the shadows from morning to evening. We find out how the Sun seems to move across the sky, and why.
 
 ## Learning outcomes
 0. By the end I can say how the Sun appears to move across the sky: it rises in the east, is highest around noon, and sets in the west.
@@ -24,6 +24,9 @@
 - **Rotate**: To rotate means to spin or turn round. The Earth rotates once every day. *e.g.* A top rotates on the floor. The Earth rotates too, but so smoothly that we do not notice it.
 - **Sun patch**: A sun patch is the bright shape that sunlight makes on a floor or wall when it comes in through a window or a door. *e.g.* In the morning, a cat often lies in the sun patch by the balcony door.
 - **Sundial**: A sundial is a clock that tells the time from the shadow made by the Sun. *e.g.* At Jantar Mantar in Jaipur, a huge stone sundial shows the time with the shadow of a tall wall.
+- **Nocturnal**: Nocturnal means awake and active at night and asleep in the daytime. Many nocturnal animals have big eyes or good hearing to find their way in the dark. *e.g.* An owl sleeps in a tree hole all day in a Kerala village and goes hunting for mice when the sky is dark.
+- **Diurnal**: Diurnal means awake and active in the daytime and asleep at night. Most birds you see in your street are diurnal. *e.g.* A sparrow hops around your courtyard looking for rice grains all morning and goes to roost when the light fades.
+- **Horizon**: The horizon is the line far away where the land or the sea seems to meet the sky. It looks like an edge, but it is only the farthest place you can see. *e.g.* Standing on Marina Beach in the early morning, you see the sun rise from the line where the sea meets the sky.
 
 ## Explanations
 ### The Sun appears to move across the sky · *defined*
@@ -70,6 +73,7 @@ Honeybees use the Sun to find their way back to flowers, and change direction as
 - e.g. A cat moves to the next sun patch as the first one slides away.
 - **Many plant and animal scientists:** Bees and sunflowers keep track of the Sun with an inner clock, and they sense, remember and act on what they sense.
 - **Some other scientists:** Some scientists call these automatic responses, and prefer not to use words like remember and plan for plants.
+- **Carl Linnaeus (1707–1778), Sweden:** In 1751 Linnaeus described a 'flower clock': a garden of flowers that open and close at different hours, so you could tell the time by which ones were open. Many flowers do open and close at regular times, partly because of light and partly because of their own inner clocks. But gardeners who planted flower clocks found they worked only roughly, because flowers change their times with weather, season and place.
 
 ## Mostly agreed
 - The Sun appears to rise in the east, cross the sky and set in the west every day. *How we know:* People all over the world, in every age, have seen this. You can see it from your own sun patches and shadows.
@@ -539,11 +543,11 @@ Kutti was already lying in the new patch.
 
 ## Spotted around us
 - In the morning, a cat or a dog lies in the sun patch by a window, and moves as the patch moves.
-- On a terrace in Hyderabad, papad and vadam drying in the sun are moved to the sunny side after lunch.
-- In Kolkata, during an evening walk, the long shadows of buildings stretch across the road towards the east.
-- At noon in a Kochi school yard, children's shadows shrink to small dark puddles round their feet.
-- At Jantar Mantar in Jaipur, the shadow of a giant stone wall creeps along a curved scale to show the time.
-- On a sunny morning in Mumbai, the auto-rickshaws parked along one side of the road are in shade. By evening, the ones on the other side are in shade instead.
+- On a terrace, papad and vadam drying in the sun are moved to the sunny side after lunch.
+- During an evening walk, the long shadows of buildings stretch across the road towards the east.
+- At noon in a school yard, children's shadows shrink to small dark puddles round their feet.
+- A giant stone sundial. The shadow of its wall creeps along a curved scale to show the time.
+- On a sunny morning, the auto-rickshaws parked along one side of the road are in shade. By evening, the ones on the other side are in shade instead.
 
 ## Open questions
 - **Why does the Earth's turning speed up and slow down by tiny amounts?** Clocks show that some days are a few thousandths of a second shorter or longer than others. Scientists think the Moon, the oceans, the air and the Earth's melted core all play a part, but they still argue about how much each one matters.
@@ -576,16 +580,17 @@ Kutti was already lying in the new patch.
 - Meenakshi, the girl in the story, marks a sun patch every 5 minutes. Her first mark is at 9:00, the next at 9:05, then 9:10. What time will her fifth mark be? **9:20.**. Count on in fives: 9:00, 9:05, 9:10, 9:15, 9:20. The fifth mark is at 9:20. (queues `math.patterns.number-patterns.L2`)
 
 ## Song
-Long Shadow, Short Shadow (sci.day-night-seasons.L2): One song for the topic of day, night and seasons at level 2.
+Long Shadow, Short Shadow (sci.day-night-seasons.L2): One song for the idea of day, night and seasons at level 2.
 
 ## Links
 - [Stellarium Web: a free sky map in your browser](https://stellarium-web.org) · simulation: For the parent: speed up time and watch the Sun rise, cross the sky and set over your own city.
 - [Jantar Mantar, Jaipur (Wikipedia)](https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur) · interactive: For the parent: photos of the giant stone sundial and other instruments built by Sawai Jai Singh II.
-- [Jantar Mantar, Jaipur]() · place · Jaipur, Rajasthan: See the shadow of the Samrat Yantra creep along its scale. Go on a sunny morning.
-- [Konark Sun Temple]() · place · Konark, Odisha: A temple built as the chariot of the Sun, with great carved stone wheels.
-- [B. M. Birla Planetarium]() · place · Chennai, Tamil Nadu: Sky shows that explain how the Earth turns and why the Sun seems to move.
+- Jantar Mantar, Jaipur · place · Jaipur, Rajasthan: See the shadow of the Samrat Yantra creep along its scale. Go on a sunny morning.
+- Konark Sun Temple · place · Konark, Odisha: A temple built as the chariot of the Sun, with great carved stone wheels.
+- B. M. Birla Planetarium · place · Chennai, Tamil Nadu: Sky shows that explain how the Earth turns and why the Sun seems to move.
 
 ## Things to buy
+- [Moonbear's Shadow by Frank Asch](https://www.amazon.in/s?k=Moonbears+Shadow) (book): A bear tries to get rid of his shadow and finds that it changes with the time of day. It is funny and goes well with the lesson on shadows and the Sun. Used in a1. Read it together after the shadow-watching activity.
 
 ## Warm-up
 - Where does the Sun rise? → In the east.

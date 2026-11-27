@@ -22,6 +22,7 @@
 - **Speed**: Speed is how fast something is moving. *e.g.* A cycle going downhill has more speed than a cycle going uphill.
 - **Direction**: The direction of a moving thing is the way it is going: forwards, back, left, right, up or down. *e.g.* An auto-rickshaw turning left at a corner changes its direction.
 - **Spring back**: A thing springs back when it goes back to its old shape by itself after a push or a pull stops. *e.g.* Squeeze a sponge and let go. It springs back.
+- **Air resistance**: Air resistance is the push of air against something that moves through it. It slows the moving thing down. The wider the thing is, the more air it pushes against. *e.g.* A sheet of paper falls slowly because the air pushes up against its wide flat shape. The same sheet crumpled into a ball drops fast.
 
 ## Explanations
 ### A force is a push or a pull · *defined*
@@ -627,6 +628,7 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Things to buy
 - [a small packet of glass marbles (goli)]() (material): Marbles roll smoothly along a card wall, so the Bend Wall result is easy to see. A ping-pong ball or any small hard ball works too. Used in e1, c1. Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.
+- [Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer) (book): A girl builds things from junk, fails, and tries again. It shows the child that a failed try is part of making something work. Used in a1. Read it together after the catapult project.
 
 ## Warm-up
 - What is a push or a pull called? → A force.

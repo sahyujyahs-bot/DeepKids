@@ -1,9 +1,9 @@
 # Real or not? Dreams, sounds and air we cannot see
 `sci.what-is-real.perception-and-reality.L2`
 
-**Summary.** How can you tell if a sound behind a door is a real thing or a recording on a phone? In this unit you will guess, then test, and count how often your ears were right. You will also sort real, pretend and puzzling things, and talk about a dream.
+**Summary.** How can you tell if a sound behind a door is a real thing or a recording on a phone? In this lesson you will guess, then test, and count how often your ears were right. You will also sort real, pretend and puzzling things, and talk about a dream.
 
-**Intro.** *Close your eyes and listen for one minute. Count the sounds you hear. How many of the things that made them can you see when you open your eyes?* Most of the sounds came from things you could not see: a cooker in another flat, a bird, a vehicle on the road. You still felt sure they were there. In a dream, you can feel just as sure, and then wake up in bed. Perception means how we take in the world through our senses. In this unit you test your perception, and find out how to check what is real.
+**Intro.** *Close your eyes and listen for one minute. Count the sounds you hear. How many of the things that made them can you see when you open your eyes?* Most of the sounds came from things you could not see: a cooker in another flat, a bird, a vehicle on the road. You still felt sure they were there. In a dream, you can feel just as sure, and then wake up in bed. Perception means how we take in the world through our senses. In this lesson you test your perception, and find out how to check what is real.
 
 ## Learning outcomes
 0. By the end I can say that a dream feels real while I dream, and how I find out it was a dream when I wake.
@@ -24,6 +24,9 @@
 - **REM sleep**: REM stands for rapid eye movement. It is the part of sleep when the eyes move quickly under closed lids. Most vivid dreams happen in REM sleep. *e.g.* If you watch a sleeping person carefully, you may see their eyes moving under their eyelids.
 - **Air**: Air is a gas all round us. It is made of tiny particles far too small to see. It takes up space, and it can push things. *e.g.* A balloon gets fat because the air you blow in takes up space inside it.
 - **Vibrate**: To vibrate means to shake back and forth very fast. Every sound starts with something vibrating. *e.g.* When a spoon taps a tumbler, the tumbler vibrates, and you hear a clink.
+- **Illusion**: An illusion is when the brain's guess about what it sees or feels is wrong. Your eyes work properly, but the brain fills in the picture in a way that does not match what is really there. *e.g.* Two lines of the same length can look different when one has arrow tips pointing in and the other has arrow tips pointing out.
+- **Camouflage**: Camouflage is when a living thing looks like her background so she is not seen. It helps hunters hide from prey and prey hide from hunters. *e.g.* A chameleon on a green leaf turns green and almost disappears from the eyes of a hungry bird.
+- **Mimicry**: Mimicry is when a living thing looks like another animal or thing, often a dangerous one, so that others stay away. The mimic is often harmless. *e.g.* Some harmless flies have yellow and black stripes like a wasp, so birds leave them alone.
 
 ## Explanations
 ### A sound is real evidence that something happened · *defined*
@@ -40,6 +43,7 @@ You cannot see air. But you see a dupatta flap in the breeze, and you feel the f
 - e.g. Clothes on the balcony line flap, so wind is blowing.
 - e.g. The road is wet in the morning, so it rained in the night.
 - e.g. A bubble comes out of an 'empty' bottle under water, so air was inside.
+- e.g. A stick insect on a twig is really there, but a hungry bird cannot find her, because her body looks like the twig. The bird only learns she is there when she moves.
 ### Air is real, though we cannot see it · *defined*
 **Definition:** Air is a mix of gases, mostly nitrogen and oxygen. It is made of particles far too small to see. Air takes up space and can push.
 
@@ -494,10 +498,10 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - Sleep doctors record people's eyes and brain signals at night to study sleep and dreams.
 
 ## Spotted around us
-- Pressure cooker whistles from neighbouring flats at breakfast and lunch time, in buildings from Chennai to Pune.
-- A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways in Rajasthan, Telangana and Tamil Nadu.
-- Kites rising on Makar Sankranti over rooftops in Ahmedabad and Jaipur, lifted by wind nobody can see.
-- Coconut palms bending and rustling on the Kerala and Goa coasts before the monsoon rain arrives.
+- Pressure cooker whistles from neighbouring flats at breakfast and lunch time.
+- A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways.
+- Kites rising on Makar Sankranti over rooftops, lifted by wind nobody can see.
+- Coconut palms bending and rustling near the coast before the monsoon rain arrives.
 - The call of a koel from a tree you cannot see, in almost every Indian city in spring and summer.
 
 ## Open questions
@@ -536,12 +540,13 @@ What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Links
 - [PhET: Waves Intro (sound)](https://phet.colorado.edu/en/simulations/waves-intro) · simulation: For a parent and child together: the sound part shows a speaker shaking the air, so you can see what your ears cannot.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A large science museum with hands-on exhibits about sound, light and the senses.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with galleries on sound and on how we sense the world.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Hands-on science galleries, and the Priyadarsini Planetarium next door.
-- [Nehru Science Centre]() · place · Mumbai: A big science centre with a science park full of exhibits on sound and air.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A large science museum with hands-on exhibits about sound, light and the senses.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with galleries on sound and on how we sense the world.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: Hands-on science galleries, and the Priyadarsini Planetarium next door.
+- Nehru Science Centre · place · Mumbai: A big science centre with a science park full of exhibits on sound and air.
 
 ## Things to buy
+- [Duck! Rabbit! by Amy Krouse Rosenthal and Tom Lichtenheld](https://www.amazon.in/s?k=Duck+Rabbit) (book): Two voices argue over one picture that is both a duck and a rabbit. It is a funny way into how the brain can see one picture in two ways. Used in a1. Read it together at the start of the lesson on what is real.
 
 ## Warm-up
 - What starts every sound? → Something vibrating.

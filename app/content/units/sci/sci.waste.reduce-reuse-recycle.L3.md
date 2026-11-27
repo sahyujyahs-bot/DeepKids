@@ -1,7 +1,7 @@
 # Reduce, reuse, recycle: why a peel rots and plastic stays
 `sci.waste.reduce-reuse-recycle.L3`
 
-**Summary.** A banana peel rots in a few weeks, but a plastic bag stays. Why? In this unit you will bury things in jars and watch them for two weeks, test which bag carries the most, and make a no-sew T-shirt bag and mend something on a repair day.
+**Summary.** A banana peel rots in a few weeks, but a plastic bag stays. Why? In this lesson you will bury things in jars and watch them for two weeks, test which bag carries the most, and make a no-sew T-shirt bag and mend something on a repair day.
 
 **Intro.** *Hold a banana peel in one hand and an empty milk packet in the other. If you buried both in a pot of soil today, which one would still be there when you are grown up?* Every day, Indian homes throw out peels, packets, bottles and paper. A van or a cart takes them, and we never see them again. But they have not left the world. They have only moved somewhere else. A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were young may still be lying somewhere today. Why does one disappear and the other stay? The rot jar test will show you, and the science will explain it.
 
@@ -861,10 +861,10 @@ There Is No Away (sci.waste.L3): Topic-level song
 - [Hasiru Dala](https://hasirudala.in) · interactive: An organisation in Bengaluru that works with waste pickers. It has photos and stories about how dry waste is sorted.
 - [Ellen MacArthur Foundation: the circular economy](https://www.ellenmacarthurfoundation.org) · interactive: For the parent. Explains how things can be designed so that nothing becomes waste. It was started by Ellen MacArthur, a sailor who sailed alone around the world.
 - [The Story of Stuff](https://www.storyofstuff.org) · interactive: For the parent. Short films about where things come from and where they go. Made by Annie Leonard and her team.
-- [Nek Chand's Rock Garden]() · place · Chandigarh: The garden of thousands of statues made from broken waste, from the story. Look for dancers made of bangles and figures made of broken sinks.
-- [A kabadiwala's shop or scrap market near you]() · place · anywhere: Watch how paper, metal, glass and plastic are sorted and weighed. Go with a grown-up and ask questions.
-- [A compost yard or biogas plant run by your city]() · place · many cities, for example Indore and Pune: See wet waste turning into compost or cooking gas. Ask your ward office if visits are allowed.
-- [A repair street: cobblers, tailors, cycle and phone repairers]() · place · anywhere: Watch experts give old things a longer life. Ask them what breaks most often.
+- Nek Chand's Rock Garden · place · Chandigarh: The garden of thousands of statues made from broken waste, from the story. Look for dancers made of bangles and figures made of broken sinks.
+- A kabadiwala's shop or scrap market near you · place · anywhere: Watch how paper, metal, glass and plastic are sorted and weighed. Go with a grown-up and ask questions.
+- A compost yard or biogas plant run by your city · place · many cities, for example Indore and Pune: See wet waste turning into compost or cooking gas. Ask your ward office if visits are allowed.
+- A repair street: cobblers, tailors, cycle and phone repairers · place · anywhere: Watch experts give old things a longer life. Ask them what breaks most often.
 
 ## Things to buy
 - [Clear glass jars with wide mouths (4)](https://www.amazon.in/s?k=clear+glass+jars+wide+mouth) (material): You can see the buried things through the glass in the rot jar test. Old jam or pickle jars work just as well, so check the kitchen first. Used in e1. 
@@ -874,6 +874,7 @@ There Is No Away (sci.waste.L3): Topic-level song
 - [A small sewing kit with needles, thread and buttons](https://www.amazon.in/s?k=small+sewing+kit) (tool): For Repair Day. Most homes already have one. Used in a7. 
 - [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia, by Miranda Paul, illustrated by Elizabeth Zunon](https://www.amazon.in/s?k=One+Plastic+Bag+Miranda+Paul) (book): A true picture-book story of a woman who started turning plastic bags into purses with the women of her village, in the Gambia. Used in a4. 
 - [The Adventures of a Plastic Bottle, by Alison Inches](https://www.amazon.in/s?k=Adventures+of+a+Plastic+Bottle+Alison+Inches) (book): A plastic bottle tells its own journey, from oil to factory to recycling. A good picture book for the Follow the Bottle activity. Used in a2. 
+- [Joseph Had a Little Overcoat by Simms Taback](https://www.amazon.in/s?k=Joseph+Had+a+Little+Overcoat) (book): A man turns his worn coat into a jacket, a vest, a scarf and smaller and smaller things. It shows the child how things can be used again and again. Used in a1. Read it together at the start of the reuse activity.
 
 ## Warm-up
 - Which R comes first: reduce, reuse or recycle? → Reduce. The best waste is the waste we never make.

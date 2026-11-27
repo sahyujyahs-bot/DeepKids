@@ -56,6 +56,18 @@
    "meaning": "To protect means to keep someone or something safe from harm.",
    "example": "Women in Assam protect the nests of big storks in their village trees.",
    "art": "Women standing under a tall tree with big stork nests at the top."
+  },
+  {
+   "term": "Shelter",
+   "meaning": "A shelter is a safe place where a living thing can hide, rest or keep her babies. Different animals use different shelters, such as a nest, a hole or a burrow.",
+   "example": "A sparrow carries twigs into a gap above your window to make a shelter for her chicks.",
+   "art": "A small sparrow with a twig beside a nest tucked above a window."
+  },
+  {
+   "term": "Nature reserve",
+   "meaning": "A nature reserve is a place that people keep safe so that wild plants and animals can live there undisturbed. Hunting and building are not allowed inside it.",
+   "example": "Periyar in Kerala is a nature reserve, where elephants and many other animals live in the forest without people moving in.",
+   "art": "An elephant family walking through forest with a signboard at the edge reading nature reserve."
   }
  ],
  "explanations": [
@@ -68,7 +80,8 @@
    "examples": [
     "A crow needs trees for a nest and clean water to drink.",
     "A neem tree needs soil, sunlight, rain and air.",
-    "You need clean air, clean water and food that grew in soil."
+    "You need clean air, clean water and food that grew in soil.",
+    "A woodlouse or an earthworm needs a damp, dark place, such as the underside of a stone or a rotting log, and in hot dry sun she soon dries out."
    ],
    "perspectives": [],
    "art": "A circle showing a crow, a neem tree, a child, the Sun, a raincloud and soil, with arrows joining them."
@@ -133,7 +146,12 @@
     "Fly kites with cotton string, not nylon string.",
     "Pick up kite string left on the terrace after the festival."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Wangari Maathai (1940–2011), Kenya",
+     "explanation": "Wangari Maathai was a scientist who studied animals' bodies. She saw that women in the Kenyan countryside walked further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement, and village women were paid a little for each young tree they grew and planted. Together they planted tens of millions of trees, and in 2004 she became the first African woman to win the Nobel Peace Prize."
+    }
+   ],
    "art": "A family at home: one child snipping a rubber band with scissors, a parent holding a cloth bag, and a water bowl on the balcony with a sparrow drinking."
   },
   {
@@ -145,9 +163,15 @@
    "examples": [
     "The women of Reni village held on to the trees, and the loggers went away.",
     "The Hargila Army guards the nesting trees of a rare stork.",
-    "Thimmakka's banyan trees are now giant trees beside a road."
+    "Thimmakka's banyan trees are now giant trees beside a road.",
+    "In many Indian villages a sacred grove is a patch of forest that the community has left untouched for generations, and a nature reserve or sanctuary is a place set aside so that wild animals can live there safely."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jadav 'Molai' Payeng (born around 1963), Assam, India",
+     "explanation": "In 1979, when he was a teenager, Jadav Payeng found many snakes dead from the heat on a bare sandbank in the Brahmaputra river, where there was no shade. He began to plant bamboo and then trees, and kept planting almost every day for decades. His forest, now called Molai forest, covers hundreds of hectares, and deer, rhinos, tigers and elephants visit it. Almost nobody knew until 2008, when forest officers following a herd of elephants found it, and in 2015 he received the Padma Shri."
+    }
+   ],
    "art": "Women with their arms round a tall tree in a hill village, a stork on a nest in a village tree, and a long road lined with big banyan trees."
   }
  ],
@@ -1706,7 +1730,30 @@
    "why": "A huge lagoon where many birds spend the winter and dolphins live."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-the-curious-garden",
+   "item": "The Curious Garden by Peter Brown",
+   "kind": "book",
+   "why": "A boy finds a few struggling plants on an old railway and cares for them until the whole grey city turns green. It shows that one person's care can change a place.",
+   "url": "https://www.amazon.in/s?k=The+Curious+Garden",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on caring for the environment."
+  },
+  {
+   "id": "b-the-lorax",
+   "item": "The Lorax by Dr. Seuss",
+   "kind": "book",
+   "why": "A funny story about a creature who speaks for the trees and the trouble that follows when they are all cut down. It leads the child to ask what each of us can do.",
+   "url": "https://www.amazon.in/s?k=The+Lorax",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson, then talk about what we can look after."
+  }
+ ],
  "warmup": [
   {
    "q": "What is our environment?",

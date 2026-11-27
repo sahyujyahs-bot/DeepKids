@@ -1,9 +1,9 @@
 # Lucky accidents and missing names: how discoveries really happen
 `sci.how-we-know.stories-of-discovery.L3`
 
-**Summary.** A man set out to make a very strong glue and made a weak one by mistake, yet it ended up on sticky notes. How can a mistake become a discovery? In this unit you will test a too-weak tape to find a job it does well, and meet people left out of the credit.
+**Summary.** A man set out to make a very strong glue and made a weak one by mistake, yet it ended up on sticky notes. How can a mistake become a discovery? In this lesson you will test a too-weak tape to find a job it does well, and meet people left out of the credit.
 
-**Intro.** *In 1968, a chemist named Spencer Silver tried to make a glue strong enough to help build aeroplanes. His glue came out so weak that paper stuck with it could be peeled straight off again. Was that a failure?* For aeroplanes, yes. But six years later his co-worker Art Fry needed a bookmark that would stay in his song book without tearing the pages. Silver's weak glue was just right. A result is not good or bad by itself. It depends on what you need it for. In this unit you will test this with tape, and meet people whose 'mistakes' became discoveries.
+**Intro.** *In 1968, a chemist named Spencer Silver tried to make a glue strong enough to help build aeroplanes. His glue came out so weak that paper stuck with it could be peeled straight off again. Was that a failure?* For aeroplanes, yes. But six years later his co-worker Art Fry needed a bookmark that would stay in his song book without tearing the pages. Silver's weak glue was just right. A result is not good or bad by itself. It depends on what you need it for. In this lesson you will test this with tape, and meet people whose 'mistakes' became discoveries.
 
 ## Learning outcomes
 0. I can say what a discovery is, and how it is different from an invention.
@@ -607,7 +607,7 @@ No bonus point on this card.)
    **Answer:** A page listing the jobs with names: Bell (built, noticed, checked), Hewish (led, designed), and others such as the team who helped build it and the scientists who explained pulsars as spinning dead stars.. *Why:* A strong design names jobs, not only people, and treats each job as part of the discovery.
 7. (sort) Sort these reasons. Which ones are about the person, and which are about how prizes and papers work?  
    **Answer:** She was a student → About the person; A prize names at most three people → About how credit works; She was a woman, in a time when women were taken less seriously → About the person; The leader's name usually goes first on the paper → About how credit works; He worked far from famous universities → About the person; Prizes are not given after a person dies → About how credit works. *Why:* Some people are left out because of who they are, and some because of the rules. A strong answer sees both kinds.
-8. (write) Arjun, the 7-year-old boy in the curd story, says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this unit.  
+8. (write) Arjun, the 7-year-old boy in the curd story, says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this lesson.  
    **Answer:** Seeing it is not enough. You must also check it, explain it and tell others so they can see it too. Mould had landed on dishes before, but Fleming checked and wrote about it. Bell Burnell's signal was on the chart in August, but it became a discovery only when she noticed it and checked it.. *Why:* A strong answer says that a discovery needs checking and sharing, and uses a real example.
 9. (odd) Three of these were found while trying to do something else. Which one was found by looking for exactly that?  
    Options: Mauve dye (Perkin was making a medicine) / Radioactivity (Becquerel was waiting for sunlight) / The weak glue (Silver wanted a strong one) / The cure for scurvy in Lind's test (Lind was testing cures for scurvy)  
@@ -681,7 +681,7 @@ No bonus point on this card.)
 - Sticky notes on a fridge, a desk or a shop counter: Spencer Silver's 'failed' glue at work.
 - A strip of medicine tablets in the cupboard. Many antibiotics today grew out of the penicillin story.
 - A bright purple or magenta sari in a shop window. Its colour often comes from a chemical dye, like Perkin's mauve.
-- National Science Day on 28 February, when schools in India hold science fairs to mark the Raman effect.
+- National Science Day on 28 February, when schools hold science fairs to mark the Raman effect.
 - A bindi on a card. Its gentle glue lets you peel it off and stick it again, like a sticky note.
 
 ## Open questions
@@ -723,6 +723,8 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries where children can try experiments for themselves.
 
 ## Things to buy
+- [Beautiful Oops! by Barney Saltzberg](https://www.amazon.in/s?k=Beautiful+Oops) (book): A lift-the-flap book that turns spills and tears into new pictures. It shows the child that a mistake can lead to a discovery. Used in a1. Read it together after the Oops paintings.
+- [Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor by Robert Burleigh](https://www.amazon.in/s?k=Solving+the+Puzzle+Under+the+Sea) (book): A picture book about Marie Tharp, who mapped the ocean floor. It shows how a careful woman scientist worked out what others did not believe. Used in a1. Read it together after Day 7.
 
 ## Warm-up
 - What did Fleming's mould kill? → Bacteria.

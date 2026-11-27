@@ -1,9 +1,9 @@
 # Transport and communication: how people, goods and messages travel
 `sci.community.transport-and-communication.L3`
 
-**Summary.** Why do white clothes and reflective strips keep a walker safe at night? In this unit you will test which clothes a driver can see from furthest away, trace how far your food travelled to your kitchen, and play a road sign game.
+**Summary.** Why do white clothes and reflective strips keep a walker safe at night? In this lesson you will test which clothes a driver can see from furthest away, trace how far your food travelled to your kitchen, and play a road sign game.
 
-**Intro.** *Pick up one packet from your kitchen shelf, such as rice, salt or tea. Read where it was packed. Who carried it to your home, and how?* Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. These things came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this unit you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.
+**Intro.** *Pick up one packet from your kitchen shelf, such as rice, salt or tea. Read where it was packed. Who carried it to your home, and how?* Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. These things came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this lesson you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.
 
 ## Learning outcomes
 0. By the end I can tell how transport grew, from walking and boats to wheels, trains, ships and aeroplanes.
@@ -543,7 +543,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 11. (mcq) Radio waves travel in straight lines. Yet a radio station far beyond the curve of the Earth can sometimes be heard. Why?  
    Options: Radio waves curl around the Earth by themselves / A charged layer high in the air sends some radio waves back down / The Earth is flat / Radio waves travel through the ground  
    **Answer:** A charged layer high in the air sends some radio waves back down. *Why:* The ionosphere, a layer of charged air high above us, sends some radio waves back down to the ground. Edward Appleton showed this in 1924.
-12. (write) Choose one invention from this unit: the wheel, the train, the telegraph or the mobile phone. What could people do after it that they could not do before?  
+12. (write) Choose one invention from this lesson: the wheel, the train, the telegraph or the mobile phone. What could people do after it that they could not do before?  
    **Answer:** For example: after the train, people could travel across India in days instead of weeks, and carry heavy goods like coal and rice cheaply to faraway cities.. *Why:* A strong answer names a real change and says why the invention made it possible.
 13. (order) Put these ways of sending a message to a cousin in another state in order, from slowest to fastest.  
    **Answer:** ['A letter by post', 'A telegram', 'A WhatsApp message']. *Why:* A letter takes days. A telegram took hours, and the last one was sent in 2013. A WhatsApp message arrives in seconds.
@@ -650,7 +650,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - A phone tower on a building roof.
 - A goods train with many wagons waiting at a level crossing.
 - A dish antenna on a balcony, pointing at a satellite.
-- Snake boats racing on the backwaters of Alappuzha during the Nehru Trophy race.
+- Long racing boats paddled by many people together, in a boat race or in a picture.
 
 ## Open questions
 - **Who really sent the first radio signals, and who deserves the most credit?** Bose, Marconi, Tesla, Popov and others all did important early work at about the same time. Historians still argue about how to share the credit.
@@ -703,6 +703,8 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 
 ## Things to buy
 - [A roll of reflective tape, about 2 to 5 cm wide](https://www.amazon.in/s?k=reflective+tape+roll) (material): Optional. It lets the child see how a reflective strip shines back towards the lamp, and they can stick some on their own bag afterwards. Many school bags, shoes and helmets already have a strip, so check first. Used in e1, c2. 
+- [The Wheels on the Tuk Tuk by Kabir Sehgal and Surishtha Sehgal](https://www.amazon.in/s?k=The+Wheels+on+the+Tuk+Tuk) (book): The old song set in an Indian auto-rickshaw, full of the busy life of an Indian street. It is a fun way into how people get around. Used in a1. Read or sing it together at the start of the transport lesson.
+- [The Jolly Postman by Janet and Allan Ahlberg](https://www.amazon.in/s?k=The+Jolly+Postman) (book): A postman delivers letters to fairy-tale characters, and the real letters sit in envelopes inside the pages. It shows the child how messages travel. Used in a1. Read it together before writing a letter.
 
 ## Warm-up
 - Name the five kinds of transport. → Road, rail, water, air and pipeline.

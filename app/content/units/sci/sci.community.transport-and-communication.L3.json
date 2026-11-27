@@ -2803,6 +2803,28 @@
     "e1",
     "c2"
    ]
+  },
+  {
+   "id": "b-the-wheels-on-the-tuk-tu",
+   "item": "The Wheels on the Tuk Tuk by Kabir Sehgal and Surishtha Sehgal",
+   "kind": "book",
+   "why": "The old song set in an Indian auto-rickshaw, full of the busy life of an Indian street. It is a fun way into how people get around.",
+   "url": "https://www.amazon.in/s?k=The+Wheels+on+the+Tuk+Tuk",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read or sing it together at the start of the transport lesson."
+  },
+  {
+   "id": "b-the-jolly-postman",
+   "item": "The Jolly Postman by Janet and Allan Ahlberg",
+   "kind": "book",
+   "why": "A postman delivers letters to fairy-tale characters, and the real letters sit in envelopes inside the pages. It shows the child how messages travel.",
+   "url": "https://www.amazon.in/s?k=The+Jolly+Postman",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before writing a letter."
   }
  ],
  "warmup": [

@@ -93,6 +93,12 @@
    "meaning": "An abacus is a counting frame. Beads on each rod or in each row stand for ones, tens or hundreds.",
    "example": "A rod with no beads pushed up shows an empty place, like a 0.",
    "art": "A wooden abacus with three rods: 2 beads up, none up, 5 beads up, showing 205."
+  },
+  {
+   "term": "Vacuum",
+   "meaning": "A vacuum is a space with almost nothing in it, not even air. Sound cannot travel through a vacuum.",
+   "example": "Space between the stars is almost a vacuum. A flask keeps tea hot partly because there is almost no air in a layer between its walls.",
+   "art": "A flask cut open to show an almost empty gap between two walls."
   }
  ],
  "explanations": [
@@ -210,7 +216,8 @@
    "description": "An empty bottle is full of air. Space is far emptier. Between the stars there is only about one atom in a space the size of a sugar cube, and light passes through it. Physicists have found that even a space with no atoms at all is not perfectly still. It holds a tiny amount of energy that they have measured. So nobody has ever found a place with exactly nothing in it. Whether a perfect nothing can exist anywhere is still an open question.",
    "examples": [
     "Push an upside-down 'empty' tumbler into a bucket of water: the air inside stops the water coming in.",
-    "Between the stars, there is about one atom in a space the size of a sugar cube."
+    "Between the stars, there is about one atom in a space the size of a sugar cube.",
+    "A rest in a song is a beat with no sound, yet the singers count it just like a note. A 'silent' minute in a classroom is full of fan hum, bird calls and breathing."
    ],
    "perspectives": [],
    "art": "The black space between two galaxies, with a few tiny dots of atoms drawn in one small cube of it.",

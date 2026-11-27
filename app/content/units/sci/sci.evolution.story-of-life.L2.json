@@ -178,7 +178,12 @@
     "Scientists have found that birds come from a group of dinosaurs. So the crow at your window is a kind of living dinosaur.",
     "Humans and monkeys are cousins: they come from the same ancestors, millions of years back."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "James Hutton (1726–1797), Scotland",
+     "explanation": "Hutton, a farmer and doctor, watched soil wash away and rocks slowly form. In 1788 at Siccar Point he showed his friends upright rock layers with flat layers on top, and explained that this needed unimaginable time, with layers laid down, tilted, worn away and covered by new ones. Many people then believed the Earth was only a few thousand years old, and his ideas were attacked until his friend John Playfair explained them in clearer words. Hutton was wrong that there was no beginning, because in 1956 Clair Patterson measured the Earth's age at about 4.5 billion years using meteorites."
+    }
+   ],
    "art": "A branching tree drawn from one small dot at the bottom, its branches ending in a fish, a coconut tree, a crow, an ant and a child."
   }
  ],

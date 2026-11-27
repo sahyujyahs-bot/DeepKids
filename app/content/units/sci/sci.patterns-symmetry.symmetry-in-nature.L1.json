@@ -1715,7 +1715,30 @@
    "why": "A large butterfly park beside the Kaveri river, with gardens full of butterflies."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-seeing-symmetry",
+   "item": "Seeing Symmetry by Loreen Leedy",
+   "kind": "book",
+   "why": "Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child many examples of the pattern she is looking for.",
+   "url": "https://www.amazon.in/s?k=Seeing+Symmetry",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the symmetry hunt."
+  },
+  {
+   "id": "b-snowflake-bentley",
+   "item": "Snowflake Bentley by Jacqueline Briggs Martin",
+   "kind": "book",
+   "why": "The true story of Wilson Bentley, the farmer who photographed snowflakes and found that no two are the same. It shows how patient looking leads to discovery.",
+   "url": "https://www.amazon.in/s?k=Snowflake+Bentley",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together on Day 5, after looking at symmetry in nature."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call it when a shape's two halves match?",

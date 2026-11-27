@@ -1,9 +1,9 @@
 # Family: who we are to each other, and the work that keeps a home going
 `sci.family.family.L3`
 
-**Summary.** English has one word, uncle, for four different relations. Why? In this unit you will find the relation words in your home language, count and time every job done in your home for one evening, draw a family tree of three generations, and play a game about who raises animal babies.
+**Summary.** English has one word, uncle, for four different relations. Why? In this lesson you will find the relation words in your home language, count and time every job done in your home for one evening, draw a family tree of three generations, and play a game about who raises animal babies.
 
-**Intro.** *Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?* A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this unit you find out exactly how many minutes of work your own home needs in one evening, and who does it.
+**Intro.** *Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?* A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this lesson you find out exactly how many minutes of work your own home needs in one evening, and who does it.
 
 ## Learning outcomes
 0. I can name the people in my family, say how each one is related to me, and use the right relation word in my home language and in English.
@@ -42,6 +42,7 @@ Each person has two parents, four grandparents and eight great-grandparents. You
 - e.g. Kannada: Ajji is grandmother.
 - e.g. Hindi: Bua is your father's sister and Mausi is your mother's sister.
 - e.g. Bengali: Pishi is your father's sister and Mashi is your mother's sister.
+- **Douglas Rohde, Steve Olson and Joseph Chang, USA (published in Nature, 2004):** Using computer models of how people have moved and had children over thousands of years, they estimated that the most recent person who is an ancestor of every human alive today may have lived only a few thousand years ago. A few thousand years further back, every person alive was either an ancestor of everyone living now or of no one. Family trees must join, which is accepted, but the exact dates are uncertain because they depend on how much people moved and mixed.
 ### Home work is work · *defined*
 **Definition:** Unpaid work is work done for your own home or family that nobody pays for. Care work is looking after people who need help.
 
@@ -49,6 +50,7 @@ Cooking, washing, cleaning, shopping and caring take hours every day in every ho
 - e.g. Cooking three meals for a family of five can take more than three hours a day.
 - e.g. Sitting with a sick grandparent at night is care work.
 - e.g. A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work.
+- **Marilyn Waring (born 1952), New Zealand:** In her book If Women Counted (1988), Waring showed that the way countries measure their economy leaves out unpaid work done at home, such as cooking, cleaning, caring for children and elders, and fetching water, most of which is done by women. So the work that keeps families alive appears to be worth nothing. Her work helped persuade countries to run time-use surveys, and India's first national Time Use Survey (2019) found women spending about five hours a day on this work and men about one and a half.
 ### What parents and guardians must give a child · *defined*
 **Definition:** Parents and guardians are responsible for a child's food, home, health, safety, schooling and love.
 
@@ -560,7 +562,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 ## Videos
 - **What is the real value of unpaid work?** (UN Women, 3 min) id `fcqt0QzgUFU`: For the parent, and for a child who has done the Home Work Count. This short film shows cooking, cleaning and caring as work that keeps the world going. *Check:* Watch it yourself before showing your child.
 - **The Jungle Babblers: Jungle's Best-Kept Secret** (Roundglass Sustain, 5 min) id `fn46Yaf-2eI`: Jungle babblers, the 'seven sisters' of Indian gardens, live in family groups that raise chicks together. This film shows the birds and their group life. *Check:* Watch it yourself before showing your child.
-- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this unit tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
+- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this lesson tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
 
 ## Quiz
 1. (mcq) In one evening, a grandmother cooks for 70 minutes and nobody pays her. A house help sweeps for 60 minutes and is paid. Who did work?  
@@ -645,6 +647,7 @@ Many Hands at Home (sci.family.L3): Topic-level song for Family and friends L3
 - [DakshinaChitra Heritage Museum](https://www.dakshinachitra.net/) · place · Chennai (Muttukadu, on the East Coast Road): Walk through real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, and see how big joint families lived, cooked and shared work.
 
 ## Things to buy
+- [A Chair for My Mother by Vera B. Williams](https://www.amazon.in/s?k=A+Chair+for+My+Mother) (book): A girl, her mother and her grandmother save coins in a jar for a new chair after a fire, helped by their neighbours. It shows how a family looks after each other. Used in a1. Read it together at the start of the family lesson.
 
 ## Warm-up
 - What does English call your mother's brother? → Uncle.

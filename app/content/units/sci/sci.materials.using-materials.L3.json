@@ -311,7 +311,12 @@
     "Space suits have many layers. One holds air in, some reflect heat, and the outer layer stops sharp dust from cutting through.",
     "Rocket nozzles are made of materials that can stand fiercely hot gas rushing through them without melting."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The seamstresses of the International Latex Corporation (ILC), Dover, Delaware, USA (1960s)",
+     "explanation": "The company, until then best known for making bras and girdles, won the job of making the Apollo moon suits. Its seamstresses, mostly women, sewed many layers of different materials, each with a job, to extremely exact measurements, and even pins were banned in case one pierced the airtight layer. Few people outside the factory knew their names, because the suits were credited to the company and the engineers. Historians such as Nicholas de Monchaux, in his book Spacesuit: Fashioning Apollo, have written about how much the suits depended on their skill."
+    }
+   ],
    "art": "A Moon lander wrapped in a crinkly gold blanket, and a giant telescope with gold hexagon mirrors floating in space.",
    "context": "In space, a wrong material can end a mission. This card shows how engineers choose materials for the hardest jobs of all."
   },

@@ -113,7 +113,12 @@
     "A raw egg cooked until it is hard",
     "A toothpick snapped in two"
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Michael Faraday (1791–1867), England",
+     "explanation": "Faraday gave Christmas lectures for young people at the Royal Institution in London called 'The Chemical History of a Candle', in 1848 and 1860, and they were published as a book in 1861. He showed that a burning candle melts, draws liquid wax up its wick, turns it to gas and burns it, making water and carbon dioxide. Faraday had almost no schooling. He was a blacksmith's son who worked as a bookbinder's apprentice and read the science books he bound, and his explanation of the candle is still correct."
+    }
+   ],
    "art": "A soft dough ball, an arrow to a cooked roti, and a crossed-out arrow going back."
   },
   {

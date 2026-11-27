@@ -1,9 +1,9 @@
 # Life began in water: from the first tiny cells to us
 `sci.evolution.story-of-life.L2`
 
-**Summary.** Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this unit you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.
+**Summary.** Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this lesson you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.
 
-**Intro.** *Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?* Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this unit you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.
+**Intro.** *Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?* Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this lesson you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.
 
 ## Learning outcomes
 0. By the end I can say that baking soda and citric acid change only when water lets them meet.
@@ -68,6 +68,7 @@ Children are a little different from their parents. Over thousands and thousands
 - e.g. The first animals big enough to see were soft, flat and lived in the sea.
 - e.g. Scientists have found that birds come from a group of dinosaurs. So the crow at your window is a kind of living dinosaur.
 - e.g. Humans and monkeys are cousins: they come from the same ancestors, millions of years back.
+- **James Hutton (1726–1797), Scotland:** Hutton, a farmer and doctor, watched soil wash away and rocks slowly form. In 1788 at Siccar Point he showed his friends upright rock layers with flat layers on top, and explained that this needed unimaginable time, with layers laid down, tilted, worn away and covered by new ones. Many people then believed the Earth was only a few thousand years old, and his ideas were attacked until his friend John Playfair explained them in clearer words. Hutton was wrong that there was no beginning, because in 1956 Clair Patterson measured the Earth's age at about 4.5 billion years using meteorites.
 
 ## Mostly agreed
 - Life began in water. *How we know:* The oldest signs of life are in rocks that formed in water. Every living being needs water inside their cells, where the chemicals of life meet and react.
@@ -400,7 +401,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 3. (truefalse) Sea water made the dry mix fizz too.  
    **Answer:** True. *Why:* True. Sea water is water with salt in it. The water still dissolved the powders, so they fizzed.
 4. (match) Draw a line from each word to what it means.  
-   **Answer:** Cell → the smallest part of a living being that is alive by itself; Fossil → the mark of a living being from long ago, kept in rock; React → when chemicals meet and change into new ones; Timeline → a line that shows things in the order they happened. *Why:* These are the four words the child needs most in this unit.
+   **Answer:** Cell → the smallest part of a living being that is alive by itself; Fossil → the mark of a living being from long ago, kept in rock; React → when chemicals meet and change into new ones; Timeline → a line that shows things in the order they happened. *Why:* These are the four words the child needs most in this lesson.
 5. (mcq) Why do scientists say life began in water?  
    Options: The chemicals of life can move about, meet and react in water / Water is cold and keeps things asleep / There was no land at all  
    **Answer:** The chemicals of life can move about, meet and react in water. *Why:* Just as the powders met and fizzed only in water, the chemicals of life met and changed in water. There was land, but life began in the sea.
@@ -507,10 +508,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 
 ## Spotted around us
 - A pinch of fruit salt fizzing in a tumbler of water, at home or at a relative's house.
-- A fish market in Kochi, Kolkata, Visakhapatnam or Mumbai, with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.
-- Tree trunks that turned to stone millions of years ago, at the National Fossil Wood Park in Tiruvakkarai, near Puducherry.
+- A fish market with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.
+- A tree trunk that turned to stone millions of years ago, in a museum or a fossil park.
 - A green slimy film in a rain puddle or on a wet wall in the monsoon. It is made of tiny water-living cells.
-- Old stromatolites in the rocks at Jhamarkotra, near Udaipur in Rajasthan.
+- Old stromatolites, layered lumps in rock. They are among the oldest signs of life.
 
 ## Open questions
 - **How exactly did the first living cell begin?** Scientists have made some of life's chemicals in labs, and even RNA chains that help join other chains. Nobody has yet made a living cell from chemicals.
@@ -546,9 +547,9 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Links
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A zoomable tree that shows how all living beings are related. A grown-up can zoom in from all of life to a crow, a moong plant or humans.
-- [Birbal Sahni Institute of Palaeosciences]() · place · Lucknow: A research institute named after the Indian scientist Birbal Sahni, who studied fossil plants. It has a fossil museum. Check visiting times before you go.
-- [National Fossil Wood Park]() · place · Tiruvakkarai, near Puducherry: Tree trunks that turned to stone millions of years ago, lying in the open.
-- [Stromatolite park at Jhamarkotra]() · place · near Udaipur, Rajasthan: Very old layered rocks built by mats of tiny cells. Check whether it is open to visitors before you go.
+- Birbal Sahni Institute of Palaeosciences · place · Lucknow: A research institute named after the Indian scientist Birbal Sahni, who studied fossil plants. It has a fossil museum. Check visiting times before you go.
+- National Fossil Wood Park · place · Tiruvakkarai, near Puducherry: Tree trunks that turned to stone millions of years ago, lying in the open.
+- Stromatolite park at Jhamarkotra · place · near Udaipur, Rajasthan: Very old layered rocks built by mats of tiny cells. Check whether it is open to visitors before you go.
 
 ## Things to buy
 - [Citric acid crystals (nimbu sat or lemon salt), or a sachet of fruit salt]() (material): Needed for the dry mix test and the fizz challenge. Most grocery shops sell citric acid cheaply. Fruit salt from a chemist works too, because it already holds baking soda and citric acid. Used in e1, c1. Keep it in a dry, closed jar. A small packet is enough for the whole unit.
@@ -569,7 +570,7 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Sources
 - ideas/by_topic/evolution-the-tree-of-life.md: 'The First Mother' and 'The Great Great Grandmother', the founder's picture of the first cells as everyone's oldest grandmother, a drop of ocean inside her. Used for the first-cells explanation, the ancestor term and the roots card. The RNA picture book chemistry suits higher levels and is used in sci.evolution.story-of-life.L3.
-- Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this unit does not repeat.
+- Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this lesson does not repeat.
 - Patterson, C. (1956). Age of meteorites and the earth. Geochimica et Cosmochimica Acta 10: 230-237.
 - Holmes, A. (1913). The Age of the Earth. London: Harper. Holmes, A. (1911), uranium-lead ages of rocks, Proceedings of the Royal Society A 85.
 - Allwood, A. C., Walter, M. R., Kamber, B. S., Marshall, C. P. and Burch, I. W. (2006). Stromatolite reef from the Early Archaean era of Australia. Nature 441: 714-718.

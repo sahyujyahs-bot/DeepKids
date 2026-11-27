@@ -2298,6 +2298,17 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-mickey-s-magnet",
+   "item": "Mickey's Magnet by Franklyn M. Branley and Eleanor K. Vaughan",
+   "kind": "book",
+   "why": "A boy spills a box of pins and finds out what his magnet can do, including making a needle into a magnet. It matches what the child finds with the magnet poles.",
+   "url": "https://www.amazon.in/s?k=Mickeys+Magnet",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the magnet pole experiment."
   }
  ],
  "warmup": [

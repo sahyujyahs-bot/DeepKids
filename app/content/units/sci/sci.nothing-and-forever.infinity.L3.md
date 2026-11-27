@@ -1,9 +1,9 @@
 # Infinity: why the numbers never end
 `sci.nothing-and-forever.infinity.L3`
 
-**Summary.** Is there a biggest number? Whatever number you say, someone can say one more. In this unit you will play a biggest-number game, time yourself counting, and estimate the grains of rice in a cup to see why very many is not the same as infinite.
+**Summary.** Is there a biggest number? Whatever number you say, someone can say one more. In this lesson you will play a biggest-number game, time yourself counting, and estimate the grains of rice in a cup to see why very many is not the same as infinite.
 
-**Intro.** *Try this with a grown-up. You say the biggest number you can think of. Then the grown-up says one more. Try again with an even bigger number. Can you ever win?* However big your number is, the grown-up can always add one. Children all over the world discover this game. Mathematicians say it shows something true: there is no biggest number. The numbers go on for ever, and we call this infinity. In this unit you find out how long counting really takes, why nobody can count to the end, and why infinity is not a number at all.
+**Intro.** *Try this with a grown-up. You say the biggest number you can think of. Then the grown-up says one more. Try again with an even bigger number. Can you ever win?* However big your number is, the grown-up can always add one. Children all over the world discover this game. Mathematicians say it shows something true: there is no biggest number. The numbers go on for ever, and we call this infinity. In this lesson you find out how long counting really takes, why nobody can count to the end, and why infinity is not a number at all.
 
 ## Learning outcomes
 0. I can explain why there is no biggest number: any number plus one is a bigger number.
@@ -22,6 +22,7 @@
 - **Estimate**: To estimate is to work out a good guess of a number, without counting every single one. You count a small part, then work out the whole. *e.g.* Count the grains in one teaspoon of rice. Then count how many teaspoons fill a cup. Now you can estimate the grains in the cup.
 - **Lakh and crore**: These are Indian names for big numbers. One lakh is a hundred thousand: 1,00,000. One crore is a hundred lakh: 1,00,00,000. *e.g.* A big city such as Chennai has about one crore people living in it and around it.
 - **Number line**: A number line is a straight line with numbers marked on it in order, evenly spaced. An arrow at the end shows that the numbers go on. *e.g.* A ruler is a short number line. A number line drawn in a maths book has an arrow, because it never really stops.
+- **Googol**: A googol is a 1 followed by 100 zeros. It is a very big number, but it is not infinite, because you can still write it down. *e.g.* Write a 1 and then one hundred zeros on a long strip of paper. That is a googol, and it is still a number with an end.
 
 ## Explanations
 ### There is no biggest number · *defined*
@@ -99,7 +100,7 @@ We have learned that the numbers never end, and that infinity is the word for th
 The counting numbers begin with one. Add one, and you have two. Keep adding one, and you get every counting number. So one plain rule, used over and over, gives numbers without end.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** “ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते / पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते” That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless.)
-- **Anuyogadvara Sutra, a Jain text:** Numbers are of three kinds: countable, uncountable and infinite. (Jain thinkers drew the same line this unit draws: the grains in a tumbler are countable, however many there are, and the numbers themselves are infinite.)
+- **Anuyogadvara Sutra, a Jain text:** Numbers are of three kinds: countable, uncountable and infinite. (Jain thinkers drew the same line this lesson draws: the grains in a tumbler are countable, however many there are, and the numbers themselves are infinite.)
 - **Aristotle, Physics, Book III:** “οὐ γὰρ οὗ μηδὲν ἔξω, ἀλλ’ οὗ ἀεί τι ἔξω ἐστί, τοῦτο ἄπειρόν ἐστιν.” The infinite is that beyond which there is always something more. It is never complete. (This is the plus-one rule. However far you count, there is always more, and the counting is never complete.)
 - Science (settled): There is no largest counting number: any number plus one is larger. Mathematicians accept this as proved.
 - Science (open): Whether space goes on for ever is not known. It is very nearly flat, which fits an infinite universe, but also a very large finite one.
@@ -588,7 +589,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 
 ## Spotted around us
 - The arrow at the end of a number line in a maths textbook.
-- A sikku kolam at a doorway in Chennai, drawn as one line that loops round and joins up.
+- A sikku kolam at a doorway, drawn as one line that loops round and joins up.
 - The ∞ sign on a shop sign, a bangle design or a necklace.
 - A sack of rice at the kirana shop: very many grains, but a finite number.
 

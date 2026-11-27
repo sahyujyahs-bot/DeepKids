@@ -1,9 +1,9 @@
 # Our environment: the living and non-living world around us, and how we care for it
 `sci.environment.caring.L3`
 
-**Summary.** Can moong seedlings live in a closed box? In this unit you will test seedlings with the lid on, survey the living and non-living things outside your window, and follow your kitchen water and rubbish to see where they go.
+**Summary.** Can moong seedlings live in a closed box? In this lesson you will test seedlings with the lid on, survey the living and non-living things outside your window, and follow your kitchen water and rubbish to see where they go.
 
-**Intro.** *Can a plant live inside a closed box, with no new water and no new air? Say what you think, and why. In England, a man named David Latimer planted a bottle garden in 1960. He last watered it in 1972 and closed it with a cork. News reports say the plants were still growing more than forty years later.* In this unit you look at everything around you: the living things, the non-living things, and the things people have made. You find out how they change each other. You shut moong seeds in a box and see whether they can live with the lid on. You follow your kitchen water and your rubbish to find where they really go when we say they have gone 'away'. And you hear about eight people who lived for two years inside a sealed glass building.
+**Intro.** *Can a plant live inside a closed box, with no new water and no new air? Say what you think, and why. In England, a man named David Latimer planted a bottle garden in 1960. He last watered it in 1972 and closed it with a cork. News reports say the plants were still growing more than forty years later.* In this lesson you look at everything around you: the living things, the non-living things, and the things people have made. You find out how they change each other. You shut moong seeds in a box and see whether they can live with the lid on. You follow your kitchen water and your rubbish to find where they really go when we say they have gone 'away'. And you hear about eight people who lived for two years inside a sealed glass building.
 
 ## Learning outcomes
 0. I can say what the environment is, and name living and non-living parts of the environment around my home.
@@ -564,7 +564,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 13. (truefalse) Rain falling on a city flat is natural, and the roof tank that stores it is made by people. Both are part of the environment.  
    **Answer:** True. *Why:* True. The environment holds natural things and things made by people together.
 14. (perspective) A family in Chennai is deciding what to do with the peels and leftover food from the kitchen.  
-   **Answer:** A strong answer picks a side and gives a reason from this unit, for example that peels in the dry bin go to the dump yard and rot there in a smelly heap, while a compost pot turns them into soil for the plants. It then says one thing another person has right, such as that composting in a small flat needs a covered pot and some care.. *Why:* There is a real trade-off. Composting at home sends less to the dump, but it takes space and effort. Separate bins only help if the city collects them separately.
+   **Answer:** A strong answer picks a side and gives a reason from this lesson, for example that peels in the dry bin go to the dump yard and rot there in a smelly heap, while a compost pot turns them into soil for the plants. It then says one thing another person has right, such as that composting in a small flat needs a covered pot and some care.. *Why:* There is a real trade-off. Composting at home sends less to the dump, but it takes space and effort. Separate bins only help if the city collects them separately.
 15. (draw) Draw your window. Draw and label two living things and two non-living things you can see from it.  
    **Answer:** A drawing of the window with four labelled things, two living (for example a crow and a tree) and two non-living (for example a road and the sun).. *Why:* A strong drawing labels each thing and puts it in the right group.
 ### Round and Round (stretch) (stretch, 15 questions)
@@ -598,7 +598,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 13. (truefalse) Almost all the oxygen in the air was made by living things.  
    **Answer:** True. *Why:* True. Early Earth had almost no oxygen in its air. Tiny living things in the sea, and later plants and algae, made it in sunlight over billions of years.
 14. (perspective) A city is deciding what to do with a lake that has become dirty with sewage and rubbish.  
-   **Answer:** A strong answer picks a side and backs it with a reason from this unit, for example that sewage must be stopped first or the lake will get dirty again, because what is poured out stays in the environment. It then says what another side has right.. *Why:* These views all hold some truth. Cleaning without stopping new sewage does not last. Building on the lake removes a home for fish and birds and a place for rain to go.
+   **Answer:** A strong answer picks a side and backs it with a reason from this lesson, for example that sewage must be stopped first or the lake will get dirty again, because what is poured out stays in the environment. It then says what another side has right.. *Why:* These views all hold some truth. Cleaning without stopping new sewage does not last. Building on the lake removes a home for fish and birds and a place for rain to go.
 15. (fill) The non-living part of the environment, such as air, water, soil and light, is called the ____ environment.  
    **Answer:** ['physical']. *Why:* Books split the environment into the physical (non-living) and the biological (living) environment.
 ### Closed Worlds (challenge) (challenge, 15 questions)
@@ -632,7 +632,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 13. (write) Think of people living for two years inside a huge sealed glass building, like a giant closed box with plants. Nothing goes in or out except light. Write one thing the Closed Box Test helps you predict about life in there.  
    **Answer:** In a closed world, nothing new comes in except light. So whatever the living things use up or give out stays inside and changes things for everyone. In the box, water went round and round. In the building, if microbes used up oxygen, the people would have less, unless someone pumped more in.. *Why:* A strong answer uses something true of the closed box and says what it would mean in the building.
 14. (match) Match each person to what they did.  
-   **Answer:** Gaura Devi → led women in Reni village to protect their trees in 1974; Saalumarada Thimmakka → planted and cared for banyan trees along a road in Karnataka; Jane Poynter and Linda Leigh → were among the eight people sealed inside Biosphere 2; Jeff Severinghaus → helped find where Biosphere 2's oxygen and carbon dioxide had gone. *Why:* These are real people from this unit.
+   **Answer:** Gaura Devi → led women in Reni village to protect their trees in 1974; Saalumarada Thimmakka → planted and cared for banyan trees along a road in Karnataka; Jane Poynter and Linda Leigh → were among the eight people sealed inside Biosphere 2; Jeff Severinghaus → helped find where Biosphere 2's oxygen and carbon dioxide had gone. *Why:* These are real people from this lesson.
 15. (order) People are sealed in a closed building with plants. Slowly, the oxygen falls. Put these in the order they would happen.  
    **Answer:** ['people are sealed inside', 'the oxygen slowly falls', 'fresh oxygen is pumped in to keep people safe', 'scientists measure everything to find what used up the oxygen']. *Why:* The oxygen can only fall after people are sealed in. Safety comes first, so oxygen is added before the long work of finding the cause by careful measuring.
 
@@ -690,9 +690,9 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - A peepal sapling growing out of a crack in an old building or a temple wall.
 - A gecko waiting near the tube light at night, where insects gather.
 - Crows and dogs at an open garbage heap, living on what people throw out.
-- White froth on Bellandur Lake in Bengaluru, made by sewage and soap that flowed into the lake.
+- White froth on a lake, made by sewage and soap that flowed into the lake.
 - Green, blue and red bins in a housing society, for wet, dry and hazardous waste.
-- A rainwater harvesting pit in the compound of a Chennai flat, with a pipe from the terrace.
+- A rainwater harvesting pit in the compound of a flat, with a pipe from the terrace.
 - A temple tank with fish and turtles, dug by people long ago.
 
 ## Open questions
@@ -738,15 +738,16 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 - [Biosphere 2](https://biosphere2.org) · interactive: The real sealed glass building from How We Found Out, now a research centre of the University of Arizona. Its site has pictures of the inside.
 - [CPCB National Air Quality Index](https://airquality.cpcb.gov.in/AQI_India/) · interactive: For the parent. A live map of the air in Indian cities, measured every hour. Find the station nearest your home.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'.
-- [East Kolkata Wetlands]() · place · Kolkata: Wetlands where fish ponds clean much of the city's sewage with sunlight, algae and microbes. Visit with a guide or a nature group.
-- [Adyar Eco Park (Tholkappia Poonga)]() · place · Chennai: Part of the Adyar estuary, restored from a dumping ground into a wetland with native plants and birds. Check visiting days before you go.
-- [A city lake near you]() · place · Bengaluru, Hyderabad, Chennai and most cities: Walk round a lake and look at what flows in. Many cities have lake groups who welcome families on clean-up and bird-watching mornings.
-- [A sewage treatment plant]() · place · Any city: Some city water boards allow school and family visits. Ask your corporation or water board. Seeing where the drain water goes makes 'away' real.
+- East Kolkata Wetlands · place · Kolkata: Wetlands where fish ponds clean much of the city's sewage with sunlight, algae and microbes. Visit with a guide or a nature group.
+- Adyar Eco Park (Tholkappia Poonga) · place · Chennai: Part of the Adyar estuary, restored from a dumping ground into a wetland with native plants and birds. Check visiting days before you go.
+- A city lake near you · place · Bengaluru, Hyderabad, Chennai and most cities: Walk round a lake and look at what flows in. Many cities have lake groups who welcome families on clean-up and bird-watching mornings.
+- A sewage treatment plant · place · Any city: Some city water boards allow school and family visits. Ask your corporation or water board. Seeing where the drain water goes makes 'away' real.
 
 ## Things to buy
 - [Whole green moong, about 100 grams]() (material): Most kitchens already have it. Whole moong sprouts within a day, which is why both experiments use it. Split moong dal will not sprout. Used in e1, e2. 
 - [A small bag of potting soil](https://www.amazon.in/s?k=potting+soil) (material): Only needed if you have no potted plant to borrow soil from. Any nursery sells it. Used in p1. 
 - [One Well: The Story of Water on Earth, by Rochelle Strauss](https://www.amazon.in/s?k=One+Well+Rochelle+Strauss) (book): A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well. Used in a2. Read a few pages after Where Is Away?, once your child has followed the kitchen water.
+- [The Great Kapok Tree by Lynne Cherry](https://www.amazon.in/s?k=The+Great+Kapok+Tree) (book): A man falls asleep while trying to cut down a rainforest tree, and the animals who live in it whisper to him about why it matters. It shows how many living things depend on one tree. Used in a1. Read it together after the lesson on caring for places.
 
 ## Warm-up
 - What is the environment? → Everything around a living thing that affects them.

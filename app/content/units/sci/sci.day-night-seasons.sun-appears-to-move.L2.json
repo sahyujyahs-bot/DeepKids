@@ -80,6 +80,24 @@
    "meaning": "A sundial is a clock that tells the time from the shadow made by the Sun.",
    "example": "At Jantar Mantar in Jaipur, a huge stone sundial shows the time with the shadow of a tall wall.",
    "art": "A simple round sundial in a garden with a pointed shadow falling across the hour marks."
+  },
+  {
+   "term": "Nocturnal",
+   "meaning": "Nocturnal means awake and active at night and asleep in the daytime. Many nocturnal animals have big eyes or good hearing to find their way in the dark.",
+   "example": "An owl sleeps in a tree hole all day in a Kerala village and goes hunting for mice when the sky is dark.",
+   "art": "An owl with wide eyes on a branch under a night sky and a moon."
+  },
+  {
+   "term": "Diurnal",
+   "meaning": "Diurnal means awake and active in the daytime and asleep at night. Most birds you see in your street are diurnal.",
+   "example": "A sparrow hops around your courtyard looking for rice grains all morning and goes to roost when the light fades.",
+   "art": "A sparrow pecking at grains in bright sunshine with the sun high in the sky."
+  },
+  {
+   "term": "Horizon",
+   "meaning": "The horizon is the line far away where the land or the sea seems to meet the sky. It looks like an edge, but it is only the farthest place you can see.",
+   "example": "Standing on Marina Beach in the early morning, you see the sun rise from the line where the sea meets the sky.",
+   "art": "A beach at dawn with the sun just above a straight line where the sea meets the sky."
   }
  ],
  "explanations": [
@@ -172,6 +190,10 @@
     {
      "who": "Some other scientists",
      "explanation": "Some scientists call these automatic responses, and prefer not to use words like remember and plan for plants."
+    },
+    {
+     "who": "Carl Linnaeus (1707–1778), Sweden",
+     "explanation": "In 1751 Linnaeus described a 'flower clock': a garden of flowers that open and close at different hours, so you could tell the time by which ones were open. Many flowers do open and close at regular times, partly because of light and partly because of their own inner clocks. But gardeners who planted flower clocks found they worked only roughly, because flowers change their times with weather, season and place."
     }
    ],
    "art": "A honeybee flying past a young sunflower plant that is facing the morning Sun, and a ginger cat lying in a sun patch by a window."
@@ -2119,7 +2141,19 @@
    "why": "Sky shows that explain how the Earth turns and why the Sun seems to move."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-moonbear-s-shadow",
+   "item": "Moonbear's Shadow by Frank Asch",
+   "kind": "book",
+   "why": "A bear tries to get rid of his shadow and finds that it changes with the time of day. It is funny and goes well with the lesson on shadows and the Sun.",
+   "url": "https://www.amazon.in/s?k=Moonbears+Shadow",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the shadow-watching activity."
+  }
+ ],
  "warmup": [
   {
    "q": "Where does the Sun rise?",

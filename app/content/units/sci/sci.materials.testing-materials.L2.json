@@ -2121,7 +2121,19 @@
    "why": "A large science centre with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-rosie-revere-engineer",
+   "item": "Rosie Revere, Engineer by Andrea Beaty",
+   "kind": "book",
+   "why": "A girl who builds things from junk, fails, and learns that a flop is part of testing. It matches testing and trying again.",
+   "url": "https://www.amazon.in/s?k=Rosie+Revere+Engineer",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the testing experiment."
+  }
+ ],
  "warmup": [
   {
    "q": "What does waterproof mean?",

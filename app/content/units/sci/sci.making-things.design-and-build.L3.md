@@ -1,9 +1,9 @@
 # Design and build: make it, test it, make it better
 `sci.making-things.design-and-build.L3`
 
-**Summary.** A tiny foil boat can float and carry a load, but only if it is shaped well. In this unit you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.
+**Summary.** A tiny foil boat can float and carry a load, but only if it is shaped well. In this lesson you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.
 
-**Intro.** *Here is a square of kitchen foil, as wide as your hand is long. Can you fold it into a boat that carries 20 coins without sinking? Most people's first boat sinks with far fewer. Why, and how do you make the next one better?* Everything people make was designed by someone: your steel tumbler, your chappals, the bus and the Chandrayaan rocket. Designing means deciding what a thing is for, then planning how to make it do that job. Nobody gets it all right the first time. Engineers build, test, find the weak spot and improve. In this unit you do exactly that, with a foil boat, a bucket of water and some coins.
+**Intro.** *Here is a square of kitchen foil, as wide as your hand is long. Can you fold it into a boat that carries 20 coins without sinking? Most people's first boat sinks with far fewer. Why, and how do you make the next one better?* Everything people make was designed by someone: your steel tumbler, your chappals, the bus and the Chandrayaan rocket. Designing means deciding what a thing is for, then planning how to make it do that job. Nobody gets it all right the first time. Engineers build, test, find the weak spot and improve. In this lesson you do exactly that, with a foil boat, a bucket of water and some coins.
 
 ## Learning outcomes
 0. I can say what a design is for (its purpose) and the limits it must work within (its constraints).
@@ -29,6 +29,8 @@
 - **Load**: The weight a design has to carry or hold up. *e.g.* The coins are the load that the foil boat carries.
 - **Joint**: The place where two parts of a design are fixed together. *e.g.* Where two paper strips are stuck together with paste, that is a joint.
 - **Adhesive**: A material that sticks two things together, such as glue, paste or sticky tape. *e.g.* Rice paste is an adhesive that people in India have used for a long time to stick paper.
+- **Raw material**: A raw material is a material taken straight from nature to make something. Clay is the raw material for a pot, and limestone is the raw material for cement. *e.g.* A potter in a village digs wet clay from the riverbank. The clay is the raw material for her pots.
+- **Mould (shape)**: A mould is a hollow shape that soft material is pressed into, so it comes out in that shape. An idli stand is a mould, and so is a brick frame. *e.g.* The cups of an idli stand are moulds. The soft batter fills them and comes out in the shape of the cup.
 
 ## Explanations
 ### Every design starts with a purpose · *defined*
@@ -630,14 +632,14 @@ Kavya smiled. That was exactly what engineers do.
 - Ramps at railway stations and schools are designed so everyone can use them, including people in wheelchairs.
 
 ## Spotted around us
-- Kattumarams, boats made of logs tied together, on the beaches of Chennai and the Coromandel coast.
-- Kettuvallam houseboats on the backwaters of Kerala, traditionally made of planks stitched with coir rope.
+- Boats made of logs tied together, on a beach.
+- A houseboat on the backwaters, traditionally made of planks stitched with coir rope.
 - The rolled rim of a steel tumbler, and the plastic handle of a pressure cooker.
 - Food safes or shelves with their legs standing in small bowls of water, to keep ants out.
 - Ramps beside the steps at metro stations, for wheelchairs, prams and luggage.
 - Thick yellow cloth bags at the ration shop, strong enough to carry rice.
-- The long crates in which Mumbai's dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.
-- Living root bridges in Meghalaya, grown over many years from the roots of rubber fig trees.
+- The long crates in which dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.
+- A bridge grown over many years from the roots of rubber fig trees, in a picture or a video.
 
 ## Open questions
 - **Can a computer design things better than people, without testing them in the real world?** Computers already design some parts that are lighter and stronger than people's. But real materials and real users still surprise designers, and nobody knows how far computer design can go.
@@ -684,6 +686,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Things to buy
 - [Aluminium kitchen foil, a small roll](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): Most city homes already have a roll for wrapping rotis. If not, it is sold at every grocery shop. Thin household foil works best, because it is easy to fold. Used in e1, a4. 
+- [Iggy Peck, Architect by Andrea Beaty](https://www.amazon.in/s?k=Iggy+Peck+Architect) (book): A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. It shows the child that building starts with an idea. Used in a1. Read it together before the building project.
 
 ## Warm-up
 - What is a purpose? → The job a thing is made to do.

@@ -2539,7 +2539,30 @@
    "why": "A science museum with hands-on galleries where children can try experiments for themselves."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-beautiful-oops",
+   "item": "Beautiful Oops! by Barney Saltzberg",
+   "kind": "book",
+   "why": "A lift-the-flap book that turns spills and tears into new pictures. It shows the child that a mistake can lead to a discovery.",
+   "url": "https://www.amazon.in/s?k=Beautiful+Oops",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the Oops paintings."
+  },
+  {
+   "id": "b-solving-the-puzzle-under",
+   "item": "Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor by Robert Burleigh",
+   "kind": "book",
+   "why": "A picture book about Marie Tharp, who mapped the ocean floor. It shows how a careful woman scientist worked out what others did not believe.",
+   "url": "https://www.amazon.in/s?k=Solving+the+Puzzle+Under+the+Sea",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after Day 7."
+  }
+ ],
  "warmup": [
   {
    "q": "What did Fleming's mould kill?",

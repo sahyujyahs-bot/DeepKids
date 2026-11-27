@@ -1,9 +1,9 @@
 # Rocks: hard and soft rocks, what we use them for, and how pebbles get round
 `sci.planet-earth.rocks.L2`
 
-**Summary.** A river pebble is smooth and round, but a freshly broken stone has sharp corners. What made the pebble round? In this unit you will shake chalk, salt and stone in a steel tiffin to see which lose their corners, test rocks with a fingernail, a coin and a key, and match rocks to jobs.
+**Summary.** A river pebble is smooth and round, but a freshly broken stone has sharp corners. What made the pebble round? In this lesson you will shake chalk, salt and stone in a steel tiffin to see which lose their corners, test rocks with a fingernail, a coin and a key, and match rocks to jobs.
 
-**Intro.** *A broken stone has sharp corners. A river pebble is smooth and round. What made the pebble round?* Hold a pebble from a plant pot, if you have one. Run your finger over it. There are no sharp corners at all. Now look at a stone chip, or a broken piece of tile. Its edges are sharp. Both are rock. In this unit you find out how a sharp rock can turn into a round pebble, and why some rocks wear away much faster than others. You also find out which rocks are in your home, and why people chose them.
+**Intro.** *A broken stone has sharp corners. A river pebble is smooth and round. What made the pebble round?* Hold a pebble from a plant pot, if you have one. Run your finger over it. There are no sharp corners at all. Now look at a stone chip, or a broken piece of tile. Its edges are sharp. Both are rock. In this lesson you find out how a sharp rock can turn into a round pebble, and why some rocks wear away much faster than others. You also find out which rocks are in your home, and why people chose them.
 
 ## Learning outcomes
 0. By the end I can say what a rock is, and that most rocks are made of tiny grains called minerals.
@@ -22,6 +22,9 @@
 - **Granite**: Granite is a hard, speckled rock. It formed deep underground from melted rock that cooled very slowly. *e.g.* The Brihadeeswarar temple in Thanjavur is built of granite. Many kitchen counters are granite too.
 - **Marble**: Marble is a smooth rock, often white, that can be cut and polished until it shines. It is softer than granite. *e.g.* The Taj Mahal is built of white marble from Makrana in Rajasthan.
 - **Quarry**: A quarry is a big open pit where people dig or cut rock out of the ground. *e.g.* Kota stone, used for floors in many homes, comes from quarries near Kota in Rajasthan.
+- **Absorb**: To absorb is to soak up water, the way chalk or a sponge does. A rock that absorbs water has tiny gaps inside that fill up. *e.g.* Drop water on a piece of chalk and it soaks in and the spot goes dark. The chalk has absorbed the water.
+- **Waterproof**: Waterproof means that water cannot soak in. Water stays on the top and runs off. Slate and polished granite are waterproof rocks. *e.g.* Rain runs off a slate roof tile and drips down, and none of it soaks in.
+- **Humus**: Humus is the dark part of soil made from dead leaves and dead animals that have rotted away. It is soft and crumbly and it feeds plants. *e.g.* Dig under the fallen leaves below a mango tree. The dark crumbly soil there is humus.
 
 ## Explanations
 ### What a rock is · *defined*
@@ -38,6 +41,7 @@ To find out how hard a rock is, try to scratch it. Your fingernail scratches cha
 - e.g. A fingernail scratches a chalk stick.
 - e.g. A steel coin scratches marble.
 - e.g. Nothing at home scratches a quartz pebble, except another quartz pebble or something harder.
+- e.g. Drop water on a piece of sandstone and it soaks in and leaves a dark patch. Drop water on slate and it stays in a bead on top, because slate keeps water out.
 ### Why we use each rock for its job · *defined*
 **Definition:** People choose a rock for a job by what the rock is like: hard or soft, smooth or rough, full of holes or tightly packed, pretty or plain.
 
@@ -480,7 +484,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - Worn, smooth hollows in the middle of old temple or building steps.
 - Round pebbles at the bottom of a plant pot or by a river ghat.
 - Speckled granite on a kitchen counter or a building's front steps.
-- Red laterite walls in Kerala, Goa and coastal Karnataka, full of tiny holes.
+- Red laterite walls, full of tiny holes.
 
 ## Open questions
 - **Exactly how long does a river take to turn a sharp stone into a round pebble?** It depends on the rock, the river, the size of the stone and the floods. Scientists have measured it in some rivers, but there is no one answer.
@@ -516,9 +520,9 @@ Pebble, Sand and Stone (sci.planet-earth.L2): Topic-level song for Planet Earth 
 - [British Geological Survey: Discovering Geology, rocks and minerals](https://www.bgs.ac.uk/discovering-geology/rocks-and-minerals/) · interactive: For the parent: clear pages with photos of common rocks and minerals, and how each kind forms.
 - [American Museum of Natural History: OLogy, Earth](https://www.amnh.org/explore/ology/earth) · interactive: For the parent and child: short games and pages about rocks, minerals and the changing Earth.
 - [Geological Survey of India](https://www.gsi.gov.in) · interactive: For the parent: India's own rock and mineral scientists, with maps and news.
-- [Government Museum, Chennai: geology gallery]() · place · Chennai: Cases of rocks and minerals from South India, including granite and many crystals.
-- [Hampi]() · place · Hampi, Vijayanagara district, Karnataka: Giant rounded granite boulders, and old temples carved from the same rock.
-- [Mahabalipuram]() · place · Mamallapuram, near Chennai: Temples and huge carvings cut straight out of granite rock, about 1,300 years ago.
+- Government Museum, Chennai: geology gallery · place · Chennai: Cases of rocks and minerals from South India, including granite and many crystals.
+- Hampi · place · Hampi, Vijayanagara district, Karnataka: Giant rounded granite boulders, and old temples carved from the same rock.
+- Mahabalipuram · place · Mamallapuram, near Chennai: Temples and huge carvings cut straight out of granite rock, about 1,300 years ago.
 
 ## Things to buy
 - [A magnifying glass]() (tool): To see the mineral grains in granite and look for scratches. A phone camera zoomed in also works. Used in a2, e2. Optional. Use it in Specks in the Stone and the Scratch Ladder.

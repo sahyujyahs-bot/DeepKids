@@ -80,6 +80,24 @@
    "meaning": "To vibrate means to shake back and forth very fast. Every sound starts with something vibrating.",
    "example": "When a spoon taps a tumbler, the tumbler vibrates, and you hear a clink.",
    "art": "A steel tumbler being tapped by a spoon, with small shake lines round the rim."
+  },
+  {
+   "term": "Illusion",
+   "meaning": "An illusion is when the brain's guess about what it sees or feels is wrong. Your eyes work properly, but the brain fills in the picture in a way that does not match what is really there.",
+   "example": "Two lines of the same length can look different when one has arrow tips pointing in and the other has arrow tips pointing out.",
+   "art": "Two lines of the same length, one with arrows pointing in and one with arrows pointing out."
+  },
+  {
+   "term": "Camouflage",
+   "meaning": "Camouflage is when a living thing looks like her background so she is not seen. It helps hunters hide from prey and prey hide from hunters.",
+   "example": "A chameleon on a green leaf turns green and almost disappears from the eyes of a hungry bird.",
+   "art": "A green chameleon on a green leaf that is hard to spot."
+  },
+  {
+   "term": "Mimicry",
+   "meaning": "Mimicry is when a living thing looks like another animal or thing, often a dangerous one, so that others stay away. The mimic is often harmless.",
+   "example": "Some harmless flies have yellow and black stripes like a wasp, so birds leave them alone.",
+   "art": "A wasp and a harmless fly with similar yellow and black stripes side by side."
   }
  ],
  "explanations": [
@@ -106,7 +124,8 @@
    "examples": [
     "Clothes on the balcony line flap, so wind is blowing.",
     "The road is wet in the morning, so it rained in the night.",
-    "A bubble comes out of an 'empty' bottle under water, so air was inside."
+    "A bubble comes out of an 'empty' bottle under water, so air was inside.",
+    "A stick insect on a twig is really there, but a hungry bird cannot find her, because her body looks like the twig. The bird only learns she is there when she moves."
    ],
    "perspectives": [],
    "art": "A balcony with clothes flapping on a line and a curved arrow showing the unseen wind."
@@ -2159,7 +2178,19 @@
    "why": "A big science centre with a science park full of exhibits on sound and air."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-duck-rabbit",
+   "item": "Duck! Rabbit! by Amy Krouse Rosenthal and Tom Lichtenheld",
+   "kind": "book",
+   "why": "Two voices argue over one picture that is both a duck and a rabbit. It is a funny way into how the brain can see one picture in two ways.",
+   "url": "https://www.amazon.in/s?k=Duck+Rabbit",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the lesson on what is real."
+  }
+ ],
  "warmup": [
   {
    "q": "What starts every sound?",

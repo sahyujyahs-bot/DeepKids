@@ -1,9 +1,9 @@
 # Compost: how kitchen waste becomes soil without a bad smell
 `sci.waste.compost-and-disposal.L3`
 
-**Summary.** Kitchen peels can turn into soil that smells of earth, not of rubbish. How? In this unit you will keep two jars of peels, one with dry paper mixed in, and smell the difference, sort waste into greens and browns, and find out where our garbage goes.
+**Summary.** Kitchen peels can turn into soil that smells of earth, not of rubbish. How? In this lesson you will keep two jars of peels, one with dry paper mixed in, and smell the difference, sort waste into greens and browns, and find out where our garbage goes.
 
-**Intro.** *Smell the soil in a potted plant. Then smell the kitchen bin that holds yesterday's peels. Soil is made partly from old dead leaves. The bin is full of old dead plants too. So why does one smell like the first rain, and the other smell sour?* In this unit you find out. You set up two jars of peels and watch what happens to each over ten days. You meet the bacteria, fungi and worms who do the work, and find out why some of them need air. You also find out what happens to garbage after the truck takes it away, and how a family in a flat can turn their peels into soil.
+**Intro.** *Smell the soil in a potted plant. Then smell the kitchen bin that holds yesterday's peels. Soil is made partly from old dead leaves. The bin is full of old dead plants too. So why does one smell like the first rain, and the other smell sour?* In this lesson you find out. You set up two jars of peels and watch what happens to each over ten days. You meet the bacteria, fungi and worms who do the work, and find out why some of them need air. You also find out what happens to garbage after the truck takes it away, and how a family in a flat can turn their peels into soil.
 
 ## Learning outcomes
 0. I can sort kitchen waste into greens, browns, and things that should not go in a home compost pot, and say why.
@@ -579,7 +579,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 
 ## Spotted around us
 - The green and blue bins, or bags, for wet and dry waste at the gate of many apartment buildings.
-- Stacked terracotta compost pots on balconies in Bengaluru, Chennai and Kochi.
+- Stacked terracotta compost pots on balconies.
 - Bags of vermicompost and cocopeat for sale at a roadside plant nursery.
 - The earthy smell when the first monsoon rain falls on dry ground.
 - Earthworm casts, small piles of muddy curls, on wet ground in a park after rain.
@@ -625,10 +625,11 @@ There Is No Away (sci.waste.L3): Topic-level song for Waste L3
 ## Links
 - [Solid Waste Management Rules 2016 (Ministry of Environment)](https://cpcb.nic.in/rules-6/) · interactive: For the parent: India's rules on sorting wet, dry and hazardous waste at home, from the Central Pollution Control Board.
 - [Hasiru Dala](https://hasirudala.in) · interactive: A Bengaluru organisation that works with waste pickers and helps neighbourhoods compost their wet waste.
-- [A city compost plant, a biogas plant or your neighbourhood's compost centre]() · place · Many cities, including Mysuru, Bengaluru, Chennai and Indore: Ask your city corporation or ward office whether families can visit. Seeing tonnes of peels turn into compost makes the balcony pot make sense.
-- [A plant nursery near you]() · place · Every town: Ask to see their compost or vermicompost beds, and smell ready compost.
+- A city compost plant, a biogas plant or your neighbourhood's compost centre · place · Many cities, including Mysuru, Bengaluru, Chennai and Indore: Ask your city corporation or ward office whether families can visit. Seeing tonnes of peels turn into compost makes the balcony pot make sense.
+- A plant nursery near you · place · Every town: Ask to see their compost or vermicompost beds, and smell ready compost.
 
 ## Things to buy
+- [Compost Stew: An A to Z Recipe for the Earth by Mary McKenna Siddals](https://www.amazon.in/s?k=Compost+Stew) (book): A rhyming list of what can go into a compost pot, from apple cores to zucchini peels. It matches what the child puts in her own compost. Used in a1. Read it together when you start the compost pot.
 
 ## Warm-up
 - Is a banana peel a green or a brown? → A green. It is wet and fresh.

@@ -1,7 +1,7 @@
 # Apes, our closest cousins: how they live, play and care for each other
 `sci.evolution.closest-cousins.L2`
 
-**Summary.** A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this unit you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.
+**Summary.** A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this lesson you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.
 
 **Intro.** *Hold your hand in front of your mouth and laugh out loud. Can you feel air on your hand? Is the air going out of your mouth, or coming in?* A young chimpanzee laughs when tickled, too. But a chimpanzee's laugh sounds different from yours. Today you make a tissue flag and test whether the air goes out or comes in when you laugh. Then you try laughing like a chimpanzee. After that, you meet the four great apes: chimpanzees, bonobos, gorillas and orangutans. You find out where they live, who they live with, and how they look after each other. Before you start, make a guess. When you laugh, does the air go out, come in, or both?
 
@@ -89,6 +89,7 @@ Apes think, feel, remember and plan. They feel joy when they play, fear when the
 - e.g. Chimpanzees who saw a friend die stay close and quiet.
 - **Jane Goodall and many scientists today:** Apes feel joy, fear and grief, as we do. We can see it in what they do, the same way we see it in a friend.
 - **Some careful scientists:** We should watch closely before we name an ape's feeling with a human word. A chimpanzee's grin can mean fear, not happiness. Each feeling must be checked by what the ape does next.
+- **Sarah Brosnan, USA, and Frans de Waal (1948–2024), Netherlands and USA:** In 2003 Brosnan and de Waal trained capuchin monkeys to hand back a small stone in return for food. When one monkey got a grape and her neighbour got cucumber for the same job, the neighbour often refused the cucumber or threw it away. Scientists still argue about this. Some say the monkeys really react to unfairness, and others say they may just be upset that a better food was there and they did not get it.
 
 ## Mostly agreed
 - Chimpanzees and bonobos are our closest living cousins, and gorillas come next. *How we know:* Scientists compared the DNA, the instructions inside the cells, of humans and other apes. Ours is most like a chimpanzee's and a bonobo's. Our bones and bodies show the same thing.
@@ -532,9 +533,9 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ## Spotted around us
 - Look at monkeys in a temple, a park or on a rooftop: langurs and macaques have long tails, so they are monkeys, not apes.
 - On a Sunday morning in many homes, someone oils and combs a child's hair, slowly and gently. That is grooming.
-- Mothers across India carry babies in a saree or a cloth sling, so their hands are free to work.
+- Mothers carry babies in a saree or a cloth sling, so their hands are free to work.
 - Watch a baby grip a grown-up's finger. Every human baby is born with this tight grip.
-- In the Hollongapar Gibbon Sanctuary near Jorhat, in Assam, hoolock gibbons sing in the trees in the early morning.
+- Gibbons in a zoo, hanging by their long arms from a branch. Look at their hands.
 
 ## Open questions
 - **Why did human laughter change to many 'ha' sounds on one breath out?** Some scientists think it came with better control of breathing for talking. Nobody knows for sure.
@@ -574,7 +575,7 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 - [Jane Goodall Institute](https://www.janegoodall.org) · interactive: Photos and stories of the chimpanzees of Gombe, and how people are protecting their forests. A grown-up can pick pages to look at together.
 - [Orangutan Foundation International](https://orangutan.org) · interactive: Biruté Galdikas's organisation in Borneo. It has photos and facts about orangutans and how rescued orphans are cared for.
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A zoomable tree of all living beings. A grown-up can zoom in to the great apes and show how close humans sit to chimpanzees and bonobos.
-- [Hollongapar Gibbon Sanctuary]() · place · Jorhat, Assam: A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go.
+- Hollongapar Gibbon Sanctuary · place · Jorhat, Assam: A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go.
 
 ## Things to buy
 
@@ -593,8 +594,8 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 - Core: e1, a1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this unit's true story is Dian Fossey's gorillas instead.
-- This unit has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test).
+- ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this lesson's true story is Dian Fossey's gorillas instead.
+- This lesson has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test).
 - Galdikas, B. M. F. (1995). Reflections of Eden: My Years with the Orangutans of Borneo. Little, Brown. She began her orangutan study at Tanjung Puting, Borneo, in 1971 (Orangutan Foundation International; Encyclopaedia Britannica).
 - Davila Ross, M., Owren, M. J. and Zimmermann, E. (2009). Reconstructing the evolution of laughter in great apes and humans. Current Biology 19: 1106-1111.
 - Provine, R. R. (2000). Laughter: A Scientific Investigation. Viking. (Chimpanzee laughter as panting on the breath out and in, human laughter on one breath out.)

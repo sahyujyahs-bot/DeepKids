@@ -1,7 +1,7 @@
 # Natural and made materials: how sand becomes glass
 `sci.materials.natural-and-made.L2`
 
-**Summary.** A glass bangle is clear, but the sand it is made from is not. In this unit you will sort things into natural and made materials, heat white sugar grains until they melt into a clear sheet like sand into glass, and bury materials in soil to see which break down.
+**Summary.** A glass bangle is clear, but the sand it is made from is not. In this lesson you will sort things into natural and made materials, heat white sugar grains until they melt into a clear sheet like sand into glass, and bury materials in soil to see which break down.
 
 **Intro.** *Hold a glass tumbler up to the window. You can see right through it. Glass is made from sand. Now pour a little sand or salt into your hand. Can you see through the heap?* You cannot see through a heap of sand. Yet a glass window, made from sand, is clear. How can that be? People change natural materials to make new ones. They melt sand to make glass. They mash wood to make paper. They make plastic from oil that comes from deep under the ground. Before you read on, guess. What do people do to sand to make it clear? You are going to find out, with sugar instead of sand.
 
@@ -22,6 +22,7 @@
 - **Fibre**: A very thin thread. Paper is made of tiny plant fibres pressed together. *e.g.* Tear a tissue slowly, and you can see little fibres at the torn edge.
 - **Transparent**: Lets light through so well that you can see clearly through it. *e.g.* Clear glass and clean water are transparent.
 - **Break down**: To slowly fall apart into tiny pieces, often because tiny living beings eat the material. *e.g.* A banana peel in soil breaks down in a few weeks. A plastic bag takes far longer.
+- **Biodegradable**: Biodegradable means it can be broken down by tiny living things, such as bacteria and fungi, into soil, water and gases. A banana peel is biodegradable, and a plastic bottle is not. *e.g.* A banana leaf plate left in the garden turns into soil after some weeks, because tiny living things eat it.
 
 ## Explanations
 ### Natural materials · *defined*
@@ -469,11 +470,11 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - Recycling turns old glass, paper and plastic back into new things, so fewer raw materials are dug up or cut down.
 
 ## Spotted around us
-- Glass bangles stacked high at a stall before a festival. Many are made in Firozabad, in Uttar Pradesh.
-- Banana leaves used as plates at a meal in Kerala or Tamil Nadu, then thrown on the compost.
+- Glass bangles stacked high at a stall before a festival.
+- Banana leaves used as plates at a meal, then thrown on the compost.
 - A kabadiwala's cart with old newspapers, glass bottles and plastic, ready to be sold for recycling.
-- A potter in Kolkata's Kumartuli or in Puducherry shaping wet clay.
-- Coir mats and ropes made from coconut husk, sold in Kerala and in markets across India.
+- A potter shaping wet clay.
+- Coir mats and ropes made from coconut husk, sold in markets.
 
 ## Open questions
 - **What exactly is glass?** Glass is hard like a solid, but its particles are jumbled like a liquid's, not in neat rows. Physicists still argue about how best to explain what happens when melted glass goes hard.
@@ -508,8 +509,8 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Links
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum, for the parent to find more to try with light and materials.
-- [Pondicherry Museum]() · place · Puducherry: Shows finds from Arikamedu, including ancient beads and pottery.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries on materials and engineering.
+- Pondicherry Museum · place · Puducherry: Shows finds from Arikamedu, including ancient beads and pottery.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries on materials and engineering.
 
 ## Things to buy
 

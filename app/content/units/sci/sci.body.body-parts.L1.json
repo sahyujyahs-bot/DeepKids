@@ -1979,7 +1979,19 @@
    "why": "The group in Jaipur that makes and fits Jaipur Foot limbs, free of cost, for people who have lost a leg."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-funnybones",
+   "item": "Funnybones by Janet and Allan Ahlberg",
+   "kind": "book",
+   "why": "A funny story of skeletons who fall apart and put themselves back together. It helps the child name the bones in a way she remembers.",
+   "url": "https://www.amazon.in/s?k=Funnybones",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the skeleton activity."
+  }
+ ],
  "warmup": [
   {
    "q": "Which part helps you see?",

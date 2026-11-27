@@ -541,6 +541,8 @@ Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and
 - Tropical Butterfly Conservatory · place · Srirangam, Tiruchirappalli: A large butterfly park beside the Kaveri river, with gardens full of butterflies.
 
 ## Things to buy
+- [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child many examples of the pattern she is looking for. Used in a1. Read it together after the symmetry hunt.
+- [Snowflake Bentley by Jacqueline Briggs Martin](https://www.amazon.in/s?k=Snowflake+Bentley) (book): The true story of Wilson Bentley, the farmer who photographed snowflakes and found that no two are the same. It shows how patient looking leads to discovery. Used in a1. Read it together on Day 5, after looking at symmetry in nature.
 
 ## Warm-up
 - What do we call it when a shape's two halves match? → Symmetry.

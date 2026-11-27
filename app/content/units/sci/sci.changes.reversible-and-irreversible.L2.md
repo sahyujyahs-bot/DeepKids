@@ -1,7 +1,7 @@
 # Changes we can undo and changes we can't: squashing, bending, heating and cooling
 `sci.changes.reversible-and-irreversible.L2`
 
-**Summary.** You can squash dough and roll it into a ball again, but a cooked roti never goes back to dough. In this unit you will squash, freeze and cook dough, crumple paper and squeeze a sponge, then sort each change into one that can be undone and one that cannot.
+**Summary.** You can squash dough and roll it into a ball again, but a cooked roti never goes back to dough. In this lesson you will squash, freeze and cook dough, crumple paper and squeeze a sponge, then sort each change into one that can be undone and one that cannot.
 
 **Intro.** *Crumple a sheet of paper into a tight ball. Now open it out and press it flat. Is it the same as before?* Things around us change shape all the time. We squash them, bend them, twist them, stretch them, heat them and cool them. Some changes can be undone, and the thing goes back to how it was. Some can never be undone. You are going to test which is which, starting with a ball of dough.
 
@@ -48,6 +48,7 @@ In the Dough Test, the soft dough became a stiff roti with brown spots on the ho
 - e.g. Dosa batter cooked into a dosa
 - e.g. A raw egg cooked until it is hard
 - e.g. A toothpick snapped in two
+- **Michael Faraday (1791–1867), England:** Faraday gave Christmas lectures for young people at the Royal Institution in London called 'The Chemical History of a Candle', in 1848 and 1860, and they were published as a book in 1861. He showed that a burning candle melts, draws liquid wax up its wick, turns it to gas and burns it, making water and carbon dioxide. Faraday had almost no schooling. He was a blacksmith's son who worked as a bookbinder's apprentice and read the science books he bound, and his explanation of the candle is still correct.
 ### Why some things spring back and others stay bent · *defined*
 **Definition:** A thing springs back when the tiny particles it is made of are pushed a little out of place and then pull back. It stays bent when they are pushed so far that they slide into new places.
 
@@ -516,7 +517,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - Glass bottles can be melted down and made into new bottles, because glass can be melted and set hard again many times.
 
 ## Spotted around us
-- A potter at a pottery market in Chennai or Kolkata, with soft grey clay on one side and red fired pots on the other.
+- A potter at a pottery market, with soft grey clay on one side and red fired pots on the other.
 - A dosa or a cheela being cooked on a tawa in the morning: runny batter turning solid.
 - Clothes being ironed by the press-wallah on a street corner, with a heavy iron heated with coal.
 - A coiled phone charger wire, bent and twisted, which still straightens out again.
@@ -557,7 +558,7 @@ Squash It, Bend It, Heat It (sci.changes.L2): Topic-level song for Changing mate
 
 ## Links
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation. Heat and cool a solid and a liquid, and watch the tiny particles. Every change here can be undone.
-- [DakshinaChitra heritage museum]() · place · Chennai: A museum of South Indian homes and crafts, where you can often watch potters at work.
+- DakshinaChitra heritage museum · place · Chennai: A museum of South Indian homes and crafts, where you can often watch potters at work.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries about materials, metals and engines.
 
 ## Things to buy

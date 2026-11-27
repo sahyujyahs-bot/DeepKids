@@ -1,9 +1,9 @@
 # Birds around us: feathers, beaks, nests and calls
 `sci.animals.birds.L1`
 
-**Summary.** A hen cannot fly far, and a bat can fly well. So which of them is a bird? In this unit you will find out what makes a bird a bird, count bird calls with beans at three times of the day, and see how a beak fits the food a bird eats.
+**Summary.** A hen cannot fly far, and a bat can fly well. So which of them is a bird? In this lesson you will find out what makes a bird a bird, count bird calls with beans at three times of the day, and see how a beak fits the food a bird eats.
 
-**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this unit we find out what birds are, and what their calls mean.
+**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this lesson we find out what birds are, and what their calls mean.
 
 ## Learning outcomes
 0. By the end I can say what makes a bird a bird: feathers.
@@ -19,6 +19,7 @@
 - **Beak**: A beak is a bird's hard mouth. Birds have no teeth. The beak picks up, holds and breaks the food. *e.g.* A parakeet cracks a hard seed with a strong, hooked beak.
 - **Nest**: A nest is a safe place a bird makes to lay eggs and keep the chicks. *e.g.* A crow builds a nest of sticks high in a tree.
 - **Call and song**: A call is a short sound a bird makes to send a message. A song is a longer string of sounds. *e.g.* A crow calls 'kaa' to other crows. A koel sings 'ku-oo, ku-oo', louder and louder.
+- **Preening**: Preening is when a bird cleans and oils their feathers with their beak. The oil keeps the feathers tidy and helps them shed water. *e.g.* A crow on your balcony rail runs each wing feather through her beak, one by one, after the rain.
 
 ## Explanations
 ### What makes a bird a bird · *defined*
@@ -448,11 +449,11 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Spotted around us
 - House crows on a wire calling to each other in the morning, in almost every Indian city.
-- A koel calling 'ku-oo' louder and louder from a tree in Chennai or Delhi in April and May.
-- Pigeons fluffed up into round balls on a ledge on a winter morning in Lucknow or Pune.
-- A purple sunbird sipping from hibiscus flowers on a balcony in Bengaluru.
-- A big crowd of parakeets and mynas calling in a tree before dark, in Hyderabad or Kolkata.
-- Greater adjutant storks nesting in tall village trees in Assam, guarded by the women of the Hargila Army, a group of village women who protect the storks and their nests.
+- A koel calling 'ku-oo' louder and louder from a tree in April and May.
+- Pigeons fluffed up into round balls on a ledge on a winter morning.
+- A purple sunbird sipping from hibiscus flowers on a balcony.
+- A big crowd of parakeets and mynas calling in a tree before dark.
+- A big stork or heron nesting in a tall tree. Look at the long legs and the big beak.
 
 ## Open questions
 - **Why do birds sing most at dawn?** Scientists have several ideas. Sound may carry far in the still morning air, or it may be too dark to find food, so birds sing instead. Nobody is sure.
@@ -487,9 +488,9 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 ## Links
 - [xeno-canto: bird sounds from around the world](https://xeno-canto.org/) · interactive: For the parent: search the name of a bird you heard, like 'house crow' or 'Asian koel', and play the real call.
 - [Bird Count India](https://birdcount.in/) · interactive: For the parent: bird counts that Indian families can join, like the yearly Campus and Backyard bird counts.
-- [Vedanthangal Bird Sanctuary]() · place · Near Chennai, Tamil Nadu: One of India's oldest bird sanctuaries, where thousands of water birds nest in the winter months.
-- [Kokkare Bellur]() · place · Near Mandya, Karnataka: A village where painted storks and pelicans nest in the trees right among people's homes.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A famous wetland with hundreds of kinds of birds.
+- Vedanthangal Bird Sanctuary · place · Near Chennai, Tamil Nadu: One of India's oldest bird sanctuaries, where thousands of water birds nest in the winter months.
+- Kokkare Bellur · place · Near Mandya, Karnataka: A village where painted storks and pelicans nest in the trees right among people's homes.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: A famous wetland with hundreds of kinds of birds.
 
 ## Things to buy
 

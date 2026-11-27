@@ -99,6 +99,24 @@
    "meaning": "A pattern drawn on the ground at the doorstep, usually with rice flour, in Tamil Nadu and other parts of South India. A rangoli is a coloured floor pattern made in many parts of India, and has other names: alpona in Bengal, jhoti in Odisha and pookalam (made of flowers) in Kerala. Many kolams and rangolis are drawn with symmetry.",
    "example": "A pulli kolam is drawn around a grid of dots. The line loops round the dots without touching them.",
    "art": "A white pulli kolam of curved loops around a 3 by 3 grid of dots, at the door of a flat."
+  },
+  {
+   "term": "Reflection",
+   "meaning": "A reflection is a flip, like the picture in a mirror. Left and right swap over.",
+   "example": "Hold your right hand up to a mirror. The hand in the mirror looks like a left hand.",
+   "art": "A right hand in front of a mirror and a left hand in the mirror."
+  },
+  {
+   "term": "Translation",
+   "meaning": "A translation is a slide. The shape moves along without turning or flipping.",
+   "example": "Push a book straight along a table without turning it. The book has slid, and that is a translation.",
+   "art": "A book on a table with an arrow showing it sliding along without turning."
+  },
+  {
+   "term": "Tessellation",
+   "meaning": "A tessellation is shapes that fit together with no gaps and no overlaps. Floor tiles and honeycombs are tessellations.",
+   "example": "The six-sided cells of a honeycomb fit together with no gaps, so they make a tessellation.",
+   "art": "A honeycomb of six-sided cells filling the whole picture."
   }
  ],
  "explanations": [
@@ -111,7 +129,8 @@
     "A butterfly: one line of symmetry, no rotational symmetry.",
     "The letter S or the letter Z: no line of symmetry, but order 2 rotational symmetry.",
     "A square kolam with four matching loops: four lines of symmetry and order 4.",
-    "Your hand: neither kind."
+    "Your hand: neither kind.",
+    "A row of the same flower printed along the border of a sari repeats by sliding: each flower is the same one moved along, not flipped or turned."
    ],
    "perspectives": [],
    "art": "Four boxes: a butterfly with one dotted line, the letter S with a half-turn arrow, a square kolam with both, and a hand with a question mark.",
@@ -2632,7 +2651,19 @@
    "why": "During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-seeing-symmetry",
+   "item": "Seeing Symmetry by Loreen Leedy",
+   "kind": "book",
+   "why": "Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child more examples to check for flips and turns.",
+   "url": "https://www.amazon.in/s?k=Seeing+Symmetry",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the symmetry experiments."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a line of symmetry?",

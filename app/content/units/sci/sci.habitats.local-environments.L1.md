@@ -1,7 +1,7 @@
 # Homes near our home: a tree, a pond, a park and under a stone
 `sci.habitats.local-environments.L1`
 
-**Summary.** Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this unit you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.
+**Summary.** Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this lesson you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.
 
 **Intro.** *Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?* They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is cool and damp in the same way. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.
 
@@ -18,6 +18,7 @@
 - **Damp**: Damp means a little wet. *e.g.* Soil under a stone is damp. A towel after your bath is damp.
 - **Shelter**: A shelter is a place that keeps a living being safe from the sun, the rain or danger. *e.g.* A stone is a shelter for ants. The branches of a tree are a shelter for a crow's nest.
 - **Pond**: A pond is a small pool of still water. Some ponds are made by nature and some by people. *e.g.* A temple tank is a pond made by people. Fish and turtles live in many temple tanks.
+- **Mould**: Mould is a tiny living thing, a kind of fungus, that grows as fuzzy spots on old damp food. It is alive and it spreads where it is warm and wet. *e.g.* A slice of bread left in a damp kitchen cupboard in Chennai grows green and white fuzzy spots after a few days.
 
 ## Explanations
 ### A habitat is a home place · *defined*
@@ -432,11 +433,11 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - People put out shallow water for birds in the hot months, making a small new habitat on a balcony.
 
 ## Spotted around us
-- Fish and turtles living in a temple tank, in towns across Tamil Nadu and Kerala.
+- Fish and turtles living in a temple tank.
 - A small peepal tree growing out of an old wall or a roof, in almost any Indian town.
-- Green moss on walls and tree trunks during the Kerala and Konkan monsoon.
-- Egrets walking beside cows in a field, catching the insects the cows stir up, from Assam to Karnataka.
-- Lotus leaves covering a village pond in Odisha or West Bengal.
+- Green moss on walls and tree trunks during the monsoon.
+- Egrets walking beside cows in a field, catching the insects the cows stir up.
+- Lotus leaves covering a village pond.
 
 ## Open questions
 - **How many kinds of living beings live in one handful of soil?** A handful of soil holds millions of tiny beings. Most of the kinds have never been named, so nobody knows the full count.
@@ -470,12 +471,13 @@ Who Lives Under the Stone? (sci.habitats.L1): Topic-level song for Habitats L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a small animal or plant near home and find out their name.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, a lake and lawns in the middle of the city, each with their own birds and insects.
-- [Pallikaranai Marsh]() · place · Chennai: A large wetland inside the city, where many water birds feed.
-- [Deepor Beel]() · place · Guwahati: A big natural lake at the edge of the city, home to fish, water plants and many birds.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A forest with streams and lakes inside a big city.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, a lake and lawns in the middle of the city, each with their own birds and insects.
+- Pallikaranai Marsh · place · Chennai: A large wetland inside the city, where many water birds feed.
+- Deepor Beel · place · Guwahati: A big natural lake at the edge of the city, home to fish, water plants and many birds.
+- Sanjay Gandhi National Park · place · Mumbai: A forest with streams and lakes inside a big city.
 
 ## Things to buy
+- [The Salamander Room by Anne Mazer](https://www.amazon.in/s?k=The+Salamander+Room) (book): A boy wants to keep a salamander in his bedroom, and every answer about what the salamander needs turns his room into the wild place she came from. It shows what a living thing needs from where she lives. Used in a1. Read it together after the first walk round the neighbourhood.
 
 ## Warm-up
 - Name one place near home where living beings live. → A tree, a pond, a park, or under a stone.

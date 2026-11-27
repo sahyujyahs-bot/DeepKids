@@ -190,7 +190,12 @@
     "An owl rests by day in a tree hollow and hunts at night.",
     "The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Bernie Krause (born 1938), USA",
+     "explanation": "Krause, a musician, spent decades recording the sounds of wild places around the world. He noticed that in healthy, undisturbed places the animals seemed to call at separate pitches and separate times, like instruments in an orchestra, so each could be heard. Listening to habitats is now a real tool called soundscape ecology, but whether animals truly share out the sound this way is still argued, because it seems to happen in some places and not others."
+    }
+   ],
    "art": "A tall forest drawn like a building with floors: hornbills and monkeys in the canopy, a tailorbird's leaf nest in the middle, a frog, beetle and mushrooms on the dark floor.",
    "context": "This card is about the forest, one of the four big habitats in this lesson, and the homes it has at every level."
   },

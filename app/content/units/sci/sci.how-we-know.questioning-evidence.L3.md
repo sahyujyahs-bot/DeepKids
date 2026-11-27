@@ -1,9 +1,9 @@
 # Questioning the evidence: says who, and how do they know?
 `sci.how-we-know.questioning-evidence.L3`
 
-**Summary.** People can feel very sure and still be wrong. How can you tell? In this unit you will ask your family questions about your flat, ask how sure they are, and go and check. You will also learn three questions to ask about any claim.
+**Summary.** People can feel very sure and still be wrong. How can you tell? In this lesson you will ask your family questions about your flat, ask how sure they are, and go and check. You will also learn three questions to ask about any claim.
 
-**Intro.** *An aunt says, "Our wall clock has all twelve numbers on it. I see it every day." An uncle says, "No, it only has 12, 3, 6 and 9." Both of them are completely sure. They cannot both be right.* Feeling sure cannot settle it. Looking at the clock can. In this unit you find out how often people are sure and wrong, and how to check a claim before you believe it.
+**Intro.** *An aunt says, "Our wall clock has all twelve numbers on it. I see it every day." An uncle says, "No, it only has 12, 3, 6 and 9." Both of them are completely sure. They cannot both be right.* Feeling sure cannot settle it. Looking at the clock can. In this lesson you find out how often people are sure and wrong, and how to check a claim before you believe it.
 
 ## Learning outcomes
 0. I can say what a claim is, and what evidence is.
@@ -23,6 +23,7 @@
 - **Sample**: The part of something that you look at, to learn about the whole thing. *e.g.* One spoonful from the top of a dal jar is a sample of the jar.
 - **Who is missing**: The people or things that were left out of the evidence. Leaving them out can change the answer. *e.g.* If you ask only grown-ups whether the rasam is too spicy, the children's answer is missing.
 - **Myth**: A story that many people repeat and believe, but that checking has shown to be wrong. *e.g.* Many people say a goldfish forgets everything in three seconds. Tests show goldfish remember things for months.
+- **Pseudoscience**: Pseudoscience is something that looks like science but is not tested the way science is. Its claims cannot be checked, or the people who make them ignore the results when a test goes against them. *e.g.* A bottle says it makes you smarter, but nobody has tested it fairly against a plain bottle. That claim is pseudoscience.
 
 ## Explanations
 ### Claims and evidence · *defined*
@@ -53,6 +54,7 @@ Some claims sound true because we hear them so often. "Lightning never strikes t
 - e.g. Checked: an octopus has three hearts. Scientists have looked inside octopuses and seen them.
 - e.g. Only sounds true: we use only a tenth of our brain. Brain scans show every part of the brain is used during a day.
 - e.g. Checked at home: water from a tumbler left in the sun gets warm. You can feel it yourself.
+- **Martin Fleischmann (1927–2012) and Stanley Pons (born 1943), England and USA:** In March 1989, at a press conference at the University of Utah, they announced 'cold fusion': the energy of the Sun, happening in a jar of heavy water at room temperature, which would have meant almost endless cheap energy. Hundreds of labs rushed to repeat it. Most found nothing, and the particles that fusion must produce were missing, so within months most scientists decided the result was a mistake. It is remembered as a warning that an extraordinary claim needs extraordinary evidence.
 ### Who is missing? Evidence that leaves things out · *defined*
 **Definition:** If evidence comes from only some people or some parts of a thing, the answer may be wrong for the rest. Asking 'who is missing?' finds the gaps.
 

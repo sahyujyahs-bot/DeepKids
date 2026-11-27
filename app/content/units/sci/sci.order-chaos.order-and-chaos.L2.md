@@ -1,9 +1,9 @@
 # Neat and messy: why a falling leaf never lands in the same place twice
 `sci.order-chaos.order-and-chaos.L2`
 
-**Summary.** A paper ball lands in about the same spot each time you drop it, but a flat paper leaf lands somewhere new. Why? In this unit you will drop both and see where they land, make splashes to see if any two match, and draw a kolam that follows a rule.
+**Summary.** A paper ball lands in about the same spot each time you drop it, but a flat paper leaf lands somewhere new. Why? In this lesson you will drop both and see where they land, make splashes to see if any two match, and draw a kolam that follows a rule.
 
-**Intro.** *Try this. Tear two pieces of paper the same size. Crumple one into a tight ball. Hold both up high and let go at the same moment. Which one lands right under your hand? Do it again. Did the flat one land in the same place as last time?* Some things happen the same way every time. The Sun rises in the east, and a ball of paper falls straight down. Other things never happen the same way twice. A falling leaf, a splash of water and the shape of a cloud are always new. In this unit you find out why. You test a flat paper leaf and a paper ball, make splash prints with haldi water and draw a kolam. You also learn what scientists mean by order and chaos, and find out that even messy things follow rules.
+**Intro.** *Try this. Tear two pieces of paper the same size. Crumple one into a tight ball. Hold both up high and let go at the same moment. Which one lands right under your hand? Do it again. Did the flat one land in the same place as last time?* Some things happen the same way every time. The Sun rises in the east, and a ball of paper falls straight down. Other things never happen the same way twice. A falling leaf, a splash of water and the shape of a cloud are always new. In this lesson you find out why. You test a flat paper leaf and a paper ball, make splash prints with haldi water and draw a kolam. You also learn what scientists mean by order and chaos, and find out that even messy things follow rules.
 
 ## Learning outcomes
 0. By the end I can say what order and a pattern are, and find neat and messy things in my home.
@@ -22,6 +22,7 @@
 - **Gravity**: Gravity is the force that pulls things down towards the Earth. *e.g.* When you let go of a spoon, gravity pulls it down to the floor.
 - **Air resistance**: Air resistance is the push of the air against something moving through it. *e.g.* Open your hand flat and wave it fast. You can feel the air push back. That push is air resistance.
 - **Splash**: A splash is what happens when a liquid hits something hard and flies outwards in drops. *e.g.* A raindrop hitting a steel bucket makes a splash.
+- **Diffusion**: Diffusion is tiny pieces of something spreading out by themselves, from where there are many to where there are few. Nobody has to stir it. *e.g.* When someone fries onions in the kitchen, the smell reaches the next room without any wind. Tiny bits of smell spread out by themselves.
 
 ## Explanations
 ### Order and patterns: neat things follow a rule · *defined*
@@ -486,11 +487,11 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - Shopkeepers stack fruit and steel vessels in neat order, so they can find things fast and count them easily.
 
 ## Spotted around us
-- A kolam at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune. Both have order, because they are made by following rules.
+- A kolam at a doorstep early in the morning, or a rangoli at a doorway during Diwali. Both have order, because they are made by following rules.
 - Leaves falling from a gulmohar or neem tree outside the window, each one drifting a new way.
-- Raindrops splashing on a balcony floor or a steel bucket during the monsoon in Kochi or Mumbai.
+- Raindrops splashing on a balcony floor or a steel bucket during the monsoon.
 - Smoke curling up from an agarbatti at home, never swirling the same way twice.
-- Neat stacks of steel tumblers and plates at a vessel shop in a market in Kolkata or Coimbatore.
+- Neat stacks of steel tumblers and plates at a vessel shop in a market.
 
 ## Open questions
 - **Is anything in the world truly random?** The tiniest particles seem to behave by chance. Some physicists think this chance is real. Others think there are hidden rules we have not found. Nobody has settled it.
@@ -526,8 +527,8 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Links
 - [PhET Plinko Probability](https://phet.colorado.edu/en/simulations/plinko-probability) · simulation: A free online simulation. Balls bounce down through rows of pegs, and no two take the same path. Drop many and watch a shape build up at the bottom.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A big science museum in Bengaluru with hands-on science displays.
-- [DakshinaChitra heritage museum]() · place · Chennai: A museum of South Indian homes, crafts and arts.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A big science museum in Bengaluru with hands-on science displays.
+- DakshinaChitra heritage museum · place · Chennai: A museum of South Indian homes, crafts and arts.
 
 ## Things to buy
 

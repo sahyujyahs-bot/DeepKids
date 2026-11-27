@@ -44,6 +44,12 @@
    "meaning": "A pond is a small pool of still water. Some ponds are made by nature and some by people.",
    "example": "A temple tank is a pond made by people. Fish and turtles live in many temple tanks.",
    "art": "A stone-stepped temple tank with fish under the water, a turtle on a step and lotus leaves on top."
+  },
+  {
+   "term": "Mould",
+   "meaning": "Mould is a tiny living thing, a kind of fungus, that grows as fuzzy spots on old damp food. It is alive and it spreads where it is warm and wet.",
+   "example": "A slice of bread left in a damp kitchen cupboard in Chennai grows green and white fuzzy spots after a few days.",
+   "art": "A slice of bread with fuzzy green and white spots, seen through a magnifying glass."
   }
  ],
  "explanations": [
@@ -1707,7 +1713,19 @@
    "why": "A forest with streams and lakes inside a big city."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-the-salamander-room",
+   "item": "The Salamander Room by Anne Mazer",
+   "kind": "book",
+   "why": "A boy wants to keep a salamander in his bedroom, and every answer about what the salamander needs turns his room into the wild place she came from. It shows what a living thing needs from where she lives.",
+   "url": "https://www.amazon.in/s?k=The+Salamander+Room",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the first walk round the neighbourhood."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one place near home where living beings live.",

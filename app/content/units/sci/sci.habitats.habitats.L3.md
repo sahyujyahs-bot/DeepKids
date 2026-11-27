@@ -1,7 +1,7 @@
 # Habitats: the places that give living things what they need
 `sci.habitats.habitats.L3`
 
-**Summary.** Is there anywhere that nothing can live? In this unit you will set out three bowls of milk to see where curd bacteria make a home, play a game of who lives where, test whether a tree gives water to the air, and plan a habitat corner.
+**Summary.** Is there anywhere that nothing can live? In this lesson you will set out three bowls of milk to see where curd bacteria make a home, play a game of who lives where, test whether a tree gives water to the air, and plan a habitat corner.
 
 **Intro.** *Think of a place where you are sure nothing could live. The bottom of the deepest sea? A hot spring? The inside of a rock? Pick one, and say why nothing could live there.* In February 1977, a pilot and two scientists squeezed into a tiny submarine called Alvin. They sank about two and a half kilometres down into the dark Pacific Ocean, near the Galapagos Islands. No sunlight ever reaches that deep. They expected bare rock, cold and nearly empty. Instead, around cracks in the sea floor where warm water came seeping up, they found a crowd. There were giant worms in white tubes with red tips, some longer than your arm. There were clams as big as dinner plates, and pale crabs. How could so much life live where there is no sunlight? What was that place giving them? A place that gives a living thing what they need is called their habitat.
 
@@ -64,6 +64,7 @@ A forest is a place with many trees growing close together. Trees make a forest 
 - e.g. A tailorbird stitches leaves together with plant threads to make their nest.
 - e.g. An owl rests by day in a tree hollow and hunts at night.
 - e.g. The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth.
+- **Bernie Krause (born 1938), USA:** Krause, a musician, spent decades recording the sounds of wild places around the world. He noticed that in healthy, undisturbed places the animals seemed to call at separate pitches and separate times, like instruments in an orchestra, so each could be heard. Listening to habitats is now a real tool called soundscape ecology, but whether animals truly share out the sound this way is still argued, because it seems to happen in some places and not others.
 ### The desert: little water, lots of life · *defined*
 **Definition:** A desert is a place that gets very little rain all year. It can be hot or cold.
 
@@ -196,7 +197,7 @@ Habitats show how much variety life has. Each kind of living thing needs somethi
 - *deep:* Why does a desert look empty in the daytime? (hint: Where would you go if you were a small animal on hot sand at noon?)
 - *big:* Do people have a habitat? What does yours give you? (hint: Think about your food, water, shelter and space. Where do they really come from?)
 - *big:* Who owns a forest: the people, the government, or the animals who live there? (hint: Think about the Bishnoi, the women of Reni, and the hornbill nesting in a tree.)
-- *big:* If you could choose any habitat in this unit to live in as an animal, which would you choose, and what would be hard for you there? (hint: Every habitat gives some things easily and makes other things hard.)
+- *big:* If you could choose any habitat in this lesson to live in as an animal, which would you choose, and what would be hard for you there? (hint: Every habitat gives some things easily and makes other things hard.)
 - *deep:* Could there be living things in the ocean under the ice of Enceladus, a moon of Saturn? (hint: Remember the deep sea vents, where life lives with no sunlight.)
 - *big:* Is a city a habitat? For whom? (hint: Think of crows, pigeons, rats, geckos and the microbes in drains.)
 - *big:* When a habitat is destroyed, where do its animals go? (hint: Some move. Some cannot. What happens when there is nowhere left to move to?)
@@ -545,7 +546,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Check: In the Habitat Corner, birds and bees visited the water bowl often in summer. What does this show? → **Water is a need that is hard to find in a town in summer**
 - **s6 (5 min)**  
   *Parent does:* Decide together what to add or change: a plant with flowers, more shade, a second bowl.  
-  *Parent says:* If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng, from this unit's story: he made a place that gives, and life came.  
+  *Parent says:* If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng, from this lesson's story: he made a place that gives, and life came.  
   *Child mode:* What could you add? Flowers for food? More shade? Make your corner give more.
   - Think: Your corner gives water and shelter. What would it need to become a whole habitat for one bird?
 
@@ -676,7 +677,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ### Habitat Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) In the five worlds test, the sunny path was 41 degrees and under the stone was 29 degrees. Someone says: 'An earthworm would be fine on the path. It is only 12 degrees more.' What is wrong with this thinking?  
    Options: Earthworms breathe through damp skin, so the heat and dryness of the path can kill them / Nothing: 12 degrees is a small difference / Earthworms like 41 degrees / Thermometers do not work outside  
-   **Answer:** Earthworms breathe through damp skin, so the heat and dryness of the path can kill them. *Why:* For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. In this unit's story, snakes died in the hot sun on Jadav Payeng's bare sandbar. The mistake is to treat a small number as a small effect.
+   **Answer:** Earthworms breathe through damp skin, so the heat and dryness of the path can kill them. *Why:* For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. In this lesson's story, snakes died in the hot sun on Jadav Payeng's bare sandbar. The mistake is to treat a small number as a small effect.
 2. (perspective) Two plant scientists argued for years about where one habitat ends and the next begins.  
    **Answer:** A strong answer picks a side and uses something real as evidence. For example: at the edge of a pond, the plants change slowly from water plants to grass, which fits Gleason. It also says what Clements gets right: from far away, a forest and a grassland look like two separate things with an edge.. *Why:* Most scientists now side mostly with Gleason, because careful counts of plants along slopes showed each kind spreading out on their own. But maps still draw edges, because they are useful. Scientists still argue about how much plants depend on each other.
 3. (mcq) Tube worms live at deep sea vents. They have no mouth, and no sunlight reaches them. How do they get food?  
@@ -710,7 +711,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** A strong answer says that the trees are habitats for birds, insects, monkeys and fungi, and that the trees keep the soil and the air damp. So cutting the trees would take away food, shelter and water for many others. Saving the trees kept the whole habitat.. *Why:* When one big living thing goes, the habitat of many others goes with them. This is why losing habitats is the biggest danger to wild living things today.
 
 ## Videos
-- **Forest Man (short documentary about Jadav Payeng)** (A 2013 film by William Douglas McMaster, 16 min) id `HkZDSqyE1do`: Shows the real Molai forest and the man who planted it, from the story in this unit. Good for the family to watch together. *Check:* 
+- **Forest Man (short documentary about Jadav Payeng)** (A 2013 film by William Douglas McMaster, 16 min) id `HkZDSqyE1do`: Shows the real Molai forest and the man who planted it, from the story in this lesson. Good for the family to watch together. *Check:* 
 - **What are hydrothermal vents?** (Woods Hole Oceanographic Institution, 5 min) id `xFAu8CqCtR8`: Real footage of the kind of habitat in the intro: animals living around vents on the deep sea floor, with no sunlight. A parent should preview it first. *Check:* 
 - **The Incredible Wildlife of India** (BBC Earth, 6 min) id `TUCNYVlRLoA`: Shows wild animals in different Indian habitats, so children can see what each habitat gives. A parent should preview it first. *Check:* 
 
@@ -777,9 +778,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - Moss and tiny ferns in damp cracks of old walls in the monsoon.
 - A village pond with lotus, frogs and buffaloes cooling off.
 - Camels, khejri trees and desert foxes in the Thar Desert near Jaisalmer.
-- Mangroves with roots sticking up from the mud in the Sundarbans, in Bhitarkanika in Odisha, at Pichavaram in Tamil Nadu, and in creeks around Mumbai.
-- Olive ridley turtles on the beaches of Odisha in their nesting season.
-- Sacred groves, like the Mawphlang forest in Meghalaya and the kavu groves of Kerala, where trees are never cut.
+- Mangroves with roots sticking up from the mud, by a creek or the sea.
+- Sea turtles on a beach in their nesting season, in a video or on a beach.
+- A sacred grove, a patch of forest where trees are never cut.
 - Crows, mynas and bulbuls drinking from water bowls kept out on terraces in summer.
 - Curd setting overnight in a warm kitchen: a habitat for bacteria.
 
@@ -833,7 +834,7 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [NASA Climate Kids](https://climatekids.nasa.gov) · interactive: Free games and pages about Earth's water, weather and habitats, written for children.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies and restores habitats, from rainforests to high mountains. It has nature stories for children.
 - [StoryWeaver by Pratham Books](https://storyweaver.org.in) · interactive: Free children's picture books in many Indian languages. Search for 'forest', 'pond' or 'desert'.
-- [Molai forest](https://en.wikipedia.org/wiki/Molai_forest) · place · near Jorhat, Assam: The forest Jadav Payeng planted on a Brahmaputra sandbar, from this unit's story.
+- [Molai forest](https://en.wikipedia.org/wiki/Molai_forest) · place · near Jorhat, Assam: The forest Jadav Payeng planted on a Brahmaputra sandbar, from this lesson's story.
 - [Sundarbans National Park](https://en.wikipedia.org/wiki/Sundarbans_National_Park) · place · South 24 Parganas, West Bengal: The biggest mangrove forest in the world, where tigers swim between islands.
 - [Desert National Park](https://en.wikipedia.org/wiki/Desert_National_Park) · place · near Jaisalmer, Rajasthan: A protected part of the Thar Desert, one of the last homes of the great Indian bustard.
 - [Silent Valley National Park](https://en.wikipedia.org/wiki/Silent_Valley_National_Park) · place · Palakkad district, Kerala: A rainforest in the Western Ghats that people saved from being flooded by a dam.

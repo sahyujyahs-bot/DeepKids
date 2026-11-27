@@ -407,7 +407,12 @@
     "A cloud chamber, made with very cold dry ice and alcohol, shows thin trails of mist where these particles pass.",
     "Big detectors under mountains count particles that pass through the whole Earth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Paul Dirac (1902–1984), England, and Carl Anderson (1905–1991), United States",
+     "explanation": "In 1928 Dirac found an equation for the electron that also allowed a particle just like the electron but with a plus charge, and in 1931 he said this anti-electron should really exist. Many physicists thought the extra answers in his maths were a mistake. In 1932 Anderson photographed its track in a cloud chamber, among particles coming from space, and named it the positron. Hospitals now use positrons in PET scans."
+    }
+   ],
    "art": "A young woman scientist on a misty Darjeeling hillside setting down a wooden box of photographic plates, faint particle tracks drawn in the sky above.",
    "context": "Not all particles stay inside atoms. This card is about particles that rain down from space, and an Indian scientist who caught their tracks."
   },
@@ -3577,14 +3582,20 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan fruit, then one of its tiny seeds. 'What do you see?' 'Nothing at all.' Uddalaka says that from this finest part, which you cannot see, the great banyan tree grows.",
     "link": "In the paper-cutting experiment, the pieces quickly became tiny. Everything big is built from particles far smaller still, which nobody can see with their eyes.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub of a wheel. It is the empty hole in the middle that makes the wheel useful. A pot is shaped from clay, but it is the empty space inside that holds things.",
     "link": "An atom is almost all empty space, and that space gives the atom its size. Because the electrons spread out around the nucleus, atoms take up room, so the things built from them do too.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -1816,7 +1816,19 @@
    "why": "A large market run mostly by Khasi women traders, with rice, greens, fish and fruit from the hills."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-gregory-the-terrible-eat",
+   "item": "Gregory, the Terrible Eater by Mitchell Sharmat",
+   "kind": "book",
+   "why": "A young goat wants to eat fruit and vegetables instead of tin cans, which worries his parents. It gives the child a laugh about trying new foods.",
+   "url": "https://www.amazon.in/s?k=Gregory+the+Terrible+Eater",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the food plate activity."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one grow food.",

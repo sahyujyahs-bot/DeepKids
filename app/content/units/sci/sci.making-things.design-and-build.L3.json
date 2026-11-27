@@ -105,6 +105,18 @@
    "meaning": "A material that sticks two things together, such as glue, paste or sticky tape.",
    "example": "Rice paste is an adhesive that people in India have used for a long time to stick paper.",
    "art": "A small steel bowl of mashed rice paste with a spoon, beside paper strips."
+  },
+  {
+   "term": "Raw material",
+   "meaning": "A raw material is a material taken straight from nature to make something. Clay is the raw material for a pot, and limestone is the raw material for cement.",
+   "example": "A potter in a village digs wet clay from the riverbank. The clay is the raw material for her pots.",
+   "art": "Clay in a riverbank with arrows to a finished pot."
+  },
+  {
+   "term": "Mould (shape)",
+   "meaning": "A mould is a hollow shape that soft material is pressed into, so it comes out in that shape. An idli stand is a mould, and so is a brick frame.",
+   "example": "The cups of an idli stand are moulds. The soft batter fills them and comes out in the shape of the cup.",
+   "art": "An idli stand with batter filling the round cups and finished idlis beside it."
   }
  ],
  "explanations": [
@@ -2374,6 +2386,17 @@
     "e1",
     "a4"
    ]
+  },
+  {
+   "id": "b-iggy-peck-architect",
+   "item": "Iggy Peck, Architect by Andrea Beaty",
+   "kind": "book",
+   "why": "A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. It shows the child that building starts with an idea.",
+   "url": "https://www.amazon.in/s?k=Iggy+Peck+Architect",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the building project."
   }
  ],
  "warmup": [

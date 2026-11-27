@@ -68,6 +68,24 @@
    "meaning": "A quarry is a big open pit where people dig or cut rock out of the ground.",
    "example": "Kota stone, used for floors in many homes, comes from quarries near Kota in Rajasthan.",
    "art": "A wide pit with stepped grey sides, a digging machine and a truck, and a line of trees at the top edge."
+  },
+  {
+   "term": "Absorb",
+   "meaning": "To absorb is to soak up water, the way chalk or a sponge does. A rock that absorbs water has tiny gaps inside that fill up.",
+   "example": "Drop water on a piece of chalk and it soaks in and the spot goes dark. The chalk has absorbed the water.",
+   "art": "A piece of chalk with a drop of water sinking in and a dark spot spreading."
+  },
+  {
+   "term": "Waterproof",
+   "meaning": "Waterproof means that water cannot soak in. Water stays on the top and runs off. Slate and polished granite are waterproof rocks.",
+   "example": "Rain runs off a slate roof tile and drips down, and none of it soaks in.",
+   "art": "Raindrops sliding down a slate tile and dripping off the edge."
+  },
+  {
+   "term": "Humus",
+   "meaning": "Humus is the dark part of soil made from dead leaves and dead animals that have rotted away. It is soft and crumbly and it feeds plants.",
+   "example": "Dig under the fallen leaves below a mango tree. The dark crumbly soil there is humus.",
+   "art": "A handful of dark crumbly soil beside fallen mango leaves."
   }
  ],
  "explanations": [
@@ -93,7 +111,8 @@
    "examples": [
     "A fingernail scratches a chalk stick.",
     "A steel coin scratches marble.",
-    "Nothing at home scratches a quartz pebble, except another quartz pebble or something harder."
+    "Nothing at home scratches a quartz pebble, except another quartz pebble or something harder.",
+    "Drop water on a piece of sandstone and it soaks in and leaves a dark patch. Drop water on slate and it stays in a bead on top, because slate keeps water out."
    ],
    "perspectives": [],
    "context": "This card is about how we tell a hard rock from a soft one, by scratching.",

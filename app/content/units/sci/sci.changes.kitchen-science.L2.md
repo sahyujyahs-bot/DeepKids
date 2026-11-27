@@ -1,9 +1,9 @@
 # Science in the kitchen: how cooking changes rice, butter and milk
 `sci.changes.kitchen-science.L2`
 
-**Summary.** Ten boiled grains of rice make a longer line than ten dry ones. Why? In this unit you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.
+**Summary.** Ten boiled grains of rice make a longer line than ten dry ones. Why? In this lesson you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.
 
-**Intro.** *Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?* Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this unit you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.
+**Intro.** *Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?* Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this lesson you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.
 
 ## Learning outcomes
 0. By the end I can say how cooking changes rice: the grains take in water and grow long and soft.
@@ -22,6 +22,7 @@
 - **Ghee**: Ghee is butter that has been heated until its water has bubbled away as steam. It is almost all fat. *e.g.* Many families make ghee at home from butter (vennai in Tamil, makkhan in Hindi).
 - **Bacteria**: Bacteria are tiny living beings, far too small to see. Some of them live in curd. *e.g.* Bacteria in a spoon of curd turn a whole bowl of warm milk into curd by morning.
 - **A change that can go back**: A change that can be undone, so the thing becomes what it was before. Scientists call it a reversible change. *e.g.* Melted butter goes back to solid butter in the fridge.
+- **Mixture**: A mixture is two or more materials mixed together, where each one is still there and can often be separated again. Mixing does not turn them into something new. *e.g.* When you stir sand and salt together in a plate, you have a mixture. You can still see the sand and pick it out.
 
 ## Explanations
 ### Cooking changes food · *defined*
@@ -31,6 +32,8 @@ Raw rice is hard and dry. After boiling, it is soft, white and bigger. A dosa st
 - e.g. Raw dal is hard. Cooked dal is soft enough to mash with a spoon.
 - e.g. Runny dosa batter on a hot tawa turns into a firm dosa in a few minutes.
 - e.g. Hard maize kernels pop into fluffy popcorn in a hot pan.
+- **Richard Wrangham:** Cooking made food softer and richer, and helped human brains grow.
+- **Other researchers:** Say meat-eating, tools and cooperation also mattered. When humans began to cook is still debated.
 ### Rice absorbs water when it cooks · *defined*
 **Definition:** When rice cooks in hot water, the starch inside each grain absorbs water and swells, so the grain gets longer, fatter and softer.
 
@@ -38,6 +41,8 @@ A dry rice grain is hard because its starch is packed tight. In cold water, only
 - e.g. Ten boiled grains in a line are about one and a half times as long as ten dry grains. Long grains like basmati can grow to nearly twice as long.
 - e.g. Soaked rice, used for idli and dosa batter, is white and a little bigger, but still hard.
 - e.g. When rice cooks, the water in the pan goes down, because the grains drink it.
+- **Cooks who use the absorption method:** Measure water so the grain soaks up everything, and nothing is thrown away.
+- **Indian cooks who drain rice:** Many families boil rice in a lot of water and pour off the starchy water, the kanji. Food scientists explain that the starch swells and sets free part of itself, so draining changes the texture.
 ### Butter melts and sets again, but ghee stays ghee · *defined*
 **Definition:** Butter melts when warm and sets again when cold. Heated for longer, its water boils away and it becomes ghee, which cannot turn back into butter.
 
@@ -45,6 +50,8 @@ Butter is mostly fat, with some water and a little milk mixed in. Warm it gently
 - e.g. Butter on hot rice melts, and sets again if the rice gets cold.
 - e.g. Ghee is runny in a Chennai summer and goes solid and grainy on a cold Delhi morning. Both of those changes go back.
 - e.g. The brown bits at the bottom of a ghee pan are the milk parts of the butter, cooked by the heat.
+- **Indian dairy tradition:** Turns curd to butter, and butter to ghee, a food prized for cooking and medicine. Slow heat gives ghee its fragrance.
+- **Food scientists:** Explain that butter is fat with a little water and milk solids mixed in. Heating boils away the water and browns the solids, which are strained out. They cannot be mixed back, so ghee stays ghee.
 ### Bacteria set the curd · *defined*
 **Definition:** Tiny living beings called bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That is curd.
 
@@ -52,6 +59,8 @@ Curd is made by bacteria, not by heat. A spoon of curd holds millions of them. I
 - e.g. Families all over India set curd at night, from a spoon of the day's curd, to eat with rice the next day.
 - e.g. Curd rice in Tamil Nadu, mishti doi in Bengal and chaas in Gujarat all start with bacteria working on milk.
 - e.g. Idli and dosa batter rise overnight because tiny living beings work in the batter too.
+- **Households in India and other places:** Set curd by adding a spoon of old curd (jaman) to warm milk. They knew a little of the old curd starts the new.
+- **Pasteur, Metchnikoff and later microbiologists:** Showed that living bacteria are what change the milk.
 ### Some changes go back, and some stay changed · *defined*
 **Definition:** A change that can be undone is a reversible change. A change that cannot be undone is an irreversible change.
 
@@ -59,6 +68,9 @@ Melting and setting can go back and forth. Ice melts into water and freezes into
 - e.g. Goes back: melted chocolate sets again in the fridge.
 - e.g. Stays changed: a chapati cooked on a tawa cannot become dough again.
 - e.g. Goes back: steam from a pressure cooker turns into water drops on a cold lid.
+- e.g. Mix dal and rice in a bowl and you can pick the grains apart by hand or with a sieve. Stir sugar into tea and it spreads through the tea in pieces too small to see, so a sieve cannot catch it.
+- **Everyday view:** Some changes can be undone and some cannot.
+- **Physics:** Nothing is perfectly reversible. Every change spreads energy out a little, so the world never returns exactly to how it was. This is the idea of entropy.
 
 ## Mostly agreed
 - Heat makes the starch in rice absorb water and swell. This is why cooked rice is soft. *How we know:* Rice soaked in cold water stays hard. The same rice boiled for the same time goes soft. Under a microscope, starch grains in hot water swell and burst.
@@ -523,9 +535,9 @@ Meenakshi did not know that. She decided to test it next.
 
 ## Spotted around us
 - Steam rising from a pot of rice, and water drops forming on the lid, in almost every Indian kitchen at lunchtime.
-- Curd setting overnight in a covered steel or clay pot, in homes from Kerala to Kashmir.
+- Curd setting overnight in a covered steel or clay pot.
 - A small kadai of ghee being made from saved-up butter, with a curry leaf or two dropped in at the end, in many Tamil and Kannada homes.
-- Mishti doi, a sweet set curd, sold in clay pots at sweet shops in Kolkata.
+- A sweet set curd sold in clay pots at a sweet shop.
 - Ghee in a jar that is runny in summer and solid in winter.
 
 ## Open questions
@@ -560,9 +572,9 @@ Meenakshi did not know that. She decided to test it next.
 Can It Go Back? (sci.changes.L2): Topic-level song for Changing materials L2
 
 ## Links
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with hands-on exhibits and a science park.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries and live science shows.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
+- Nehru Science Centre · place · Mumbai: A large science centre with hands-on exhibits and a science park.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on galleries and live science shows.
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on safe and healthy food from India's food safety authority.
 
 ## Things to buy
@@ -581,7 +593,7 @@ Can It Go Back? (sci.changes.L2): Topic-level song for Changing materials L2
 - Core: e1, a1, g1, ws-core
 
 ## Sources
-- Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this unit keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.
+- Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this lesson keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.
 - ideas/by_topic/changing-materials.md: the founder's idea to melt chocolate in the kitchen and watch the texture change shaped the butter and ghee activity. Melting races are not repeated here, because sci.states.melting-and-solidifying.L2 has them.
 - This is the first kitchen-science level. It leads to sci.changes.kitchen-science.L4 (browning, rising bread, onions). Curd-setting tests already in sci.microorganisms.microbes-everywhere.L2, sci.food.where-food-comes-from.L3 and sci.habitats.habitats.L3 are not repeated: curd here is a sensory comparison only.
 - Cooked white rice is about 68 to 70% water: USDA FoodData Central, rice, white, long-grain, regular, cooked. Raw rice is about 12% water.

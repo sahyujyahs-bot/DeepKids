@@ -68,6 +68,18 @@
    "meaning": "To estimate is to make a careful guess about a number, before you count or measure it.",
    "example": "You estimate that the door is 6 steps away. Then you walk and count 5 steps.",
    "art": "A child with a thought bubble showing '6?' next to a door."
+  },
+  {
+   "term": "Volume",
+   "meaning": "Volume is how much space something takes up. A big pumpkin has more volume than a lemon.",
+   "example": "A big pumpkin takes up more space on the kitchen shelf than a lemon, so it has more volume.",
+   "art": "A big pumpkin and a small lemon side by side on a shelf."
+  },
+  {
+   "term": "Coordinates",
+   "meaning": "Coordinates are a set of numbers that tell you exactly where something is. You give one number for how far across and one for how far up or along.",
+   "example": "To find a hidden coin on a floor of tiles, you say it is 3 tiles from the door and 2 tiles from the wall.",
+   "art": "A grid of floor tiles with a coin and arrows labelled 3 across and 2 along."
   }
  ],
  "explanations": [

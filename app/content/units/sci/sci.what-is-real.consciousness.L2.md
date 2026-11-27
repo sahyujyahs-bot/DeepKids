@@ -1,7 +1,7 @@
 # Being aware: how you notice the world, and what it is like to be you
 `sci.what-is-real.consciousness.L2`
 
-**Summary.** The fan hums all evening, yet most of the time you do not hear it. Why not? In this unit you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.
+**Summary.** The fan hums all evening, yet most of the time you do not hear it. Why not? In this lesson you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.
 
 **Intro.** *Can you hear the fan right now? Could you hear it a minute ago?* Stop and listen for ten seconds. You may hear the fan, the fridge, a horn on the road or a bird. Most of these sounds were there before you stopped. You were not noticing them. Being aware of something means you know or feel that it is there. So what decides which sounds you are aware of?
 
@@ -22,6 +22,7 @@
 - **Senses**: Your senses are how your body takes in the world: seeing, hearing, smelling, tasting and touching, and more. *e.g.* Your ears take in the sound of rain on the window.
 - **Getting used to (habituation)**: Getting used to something means you stop noticing it because it goes on and on. Scientists call this habituation. *e.g.* After a few minutes in a room, you stop noticing the smell of the incense.
 - **Dream**: A dream is what you are aware of during sleep: pictures, sounds and stories your sleeping mind makes. *e.g.* You might dream you are riding an elephant through Mysuru.
+- **Reflex**: A reflex is something your body does by itself, before you choose. It is quick because the signal does not wait for you to think. *e.g.* When a speck flies towards your face, your eyes blink before you decide to. That blink is a reflex.
 
 ## Explanations
 ### Being aware · *defined*
@@ -67,6 +68,7 @@ Every living being notices their world in their own way. An ant notices the smel
 - **Many scientists who signed the New York Declaration on Animal Consciousness, 2024:** There is strong evidence that mammals and birds are aware, and a real chance that fish, octopuses, crabs and insects are too.
 - **Most brain scientists:** Awareness is something brains do. Plants have no brain. Plants do sense and respond, but these scientists say that happens automatically, without awareness.
 - **Plant scientists such as Monica Gagliano, and thinkers such as Philip Goff:** Sensing, choosing and remembering happen in plants too. Some thinkers say every bit of the world has some awareness.
+- **Gordon Gallup (born 1941), USA, and Masanori Kohda and colleagues (2019), Japan:** In 1970 Gallup put a coloured mark on chimpanzees' faces while they were asleep under anaesthetic, and when they woke and looked in a mirror they touched the mark on their own faces. This 'mirror test' became a way to ask whether an animal knows herself. In 2019 Kohda's team reported that small cleaner fish with a mark on their throat tried to scrape it off after seeing themselves in a mirror. Gallup and others doubted the fish result, and whether the test really measures knowing yourself is still argued.
 
 ## Mostly agreed
 - You notice only a small part of what your senses take in. Attention picks out what you notice. *How we know:* In 1999, Daniel Simons and Christopher Chabris asked people to count ball passes in a short film. About half of them did not notice a person in a gorilla suit walking through the middle.
@@ -105,7 +107,7 @@ In the sound test, we counted the sounds we noticed when busy and when sitting s
 
 At any moment there is one world of sound in your flat. You, a grown-up at home, a crow on the ledge and an ant on the floor each notice a different part of it. Each of them is aware in their own way. Some thinkers say awareness runs through all of them, and through everything, down to the smallest particle. So one world is being noticed in countless ways at once.
 
-- **Mandukya Upanishad, verses 3 to 7:** “जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः / स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः / यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम् / नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् / अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते” This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three. (In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.)
+- **Mandukya Upanishad, verses 3 to 7:** “जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः / स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः / यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम् / नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् / अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते” This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three. (In this lesson you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.)
 - **Satipatthana Sutta, the Buddha's teaching on mindfulness (Majjhima Nikaya 10):** “Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā gacchāmī pajānāti, ṭhito vā ṭhitomhī pajānāti, nisinno vā nisinnomhī pajānāti, sayāno vā sayānomhī pajānāti. / Dīghaṁ vā assasanto dīghaṁ assasāmī pajānāti, dīghaṁ vā passasanto dīghaṁ passasāmī pajānāti,” The Buddha taught: when walking, know that you are walking. When breathing in, know that you are breathing in. (This is attention on purpose. It is what you did in the still round of the sound test, when you noticed sounds you had been missing.)
 - **Zhuangzi, chapter 2:** “昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。 / 俄然覺，則蘧蘧然周也。 / 不知周之夢爲胡蝶與？ / 胡蝶之夢爲周與？” The Chinese thinker Zhuangzi dreamt he was a butterfly, happily flying about. When he woke, he wondered: was he Zhuangzi who had dreamt of being a butterfly, or a butterfly now dreaming of being Zhuangzi? (A dream feels real while you are in it. Only you have your experience, so it is hard for anyone else to check what it was like.)
 - Science (settled): Attention picks out a small part of everything your senses take in. Many experiments since the 1950s show this.
@@ -355,7 +357,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: Who was noticing the dream? (good: I was.; My mind, while my body slept.)
 
 ## Projects
-### p1 · My Noticing Diary: five days, five senses (50 min, 5 days)
+### p1 · My Noticing Diary: five days of noticing with our senses (50 min, 5 days)
 - **record:** The five-page diary: a drawing or photo on day 1, and one sentence a day. The child says the sentence and a grown-up can write it.
 - **schedule:** day 1: Seeing: find one thing in your home you have never noticed before, and draw it. (10 min); day 2: Hearing: sit still at a window for two minutes, then tell the sound you had never noticed before. (10 min); day 3: Touch: feel five different surfaces with your eyes shut, such as a cloth, a coin, a leaf, a steel spoon and a sponge. Sort them into rough and smooth, and tell which one surprised you. (10 min); day 4: Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Tell which you like best, and why. (10 min); day 5: Taste: eat one small piece of fruit very slowly, and say how the taste changed. (10 min)
 - **s1 (10 min)**  
@@ -405,7 +407,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 2. (fill) Choosing what to notice is called your ___.  
    **Answer:** attention. *Why:* Attention picks out a small part of everything your senses take in.
 3. (match) Draw a line from each word to what it means.  
-   **Answer:** aware → knowing or feeling that something is there; attention → choosing what to notice; experience → what something is like for you. *Why:* These three words are the heart of this unit.
+   **Answer:** aware → knowing or feeling that something is there; attention → choosing what to notice; experience → what something is like for you. *Why:* These three words are the heart of this lesson.
 4. (sort) Sort these sounds into steady sounds we stop noticing, and sudden sounds we notice at once.  
    **Answer:** the fan's hum → Steady: we stop noticing; a cooker whistle → Sudden: we notice at once; the fridge buzzing → Steady: we stop noticing; the doorbell → Sudden: we notice at once; traffic far away → Steady: we stop noticing; a plate falling → Sudden: we notice at once. *Why:* We get used to sounds that go on without changing. A sudden sound is a change, so we notice it.
 5. (write) In the sound test, why did you notice more sounds when you sat still? Say it out loud and a grown-up can write it down.  
@@ -520,11 +522,11 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - Some schools teach children to notice their breath for a minute, to help them settle and pay attention.
 
 ## Spotted around us
-- In a Hyderabad flat, everyone notices the sudden quiet when the fan stops in a power cut.
-- A flower seller in a busy Chennai market hears her own name through all the noise.
-- A crow on a Kochi balcony turns her head the moment a steel plate clinks.
-- A tulsi plant on a Pune windowsill leans towards the light.
-- In Guwahati homes, many mothers say they sleep through thunder but wake at their baby's small cry.
+- In a flat, everyone notices the sudden quiet when the fan stops in a power cut.
+- A flower seller in a busy market hears her own name through all the noise.
+- A crow on a balcony turns her head the moment a steel plate clinks.
+- A tulsi plant on a windowsill leans towards the light.
+- In many homes, mothers say they sleep through thunder but wake at their baby's small cry.
 
 ## Open questions
 - **How does being aware happen at all?** Scientists can see which parts of the brain are busy when people notice things. Nobody knows how or why that comes with an experience. The philosopher David Chalmers called this the hard problem in 1995.
@@ -564,8 +566,8 @@ I Am Here, I Notice (sci.what-is-real.L2): Topic-level song for What is real? L2
 - [Attention (Wikipedia)](https://en.wikipedia.org/wiki/Attention) · interactive: For the parent: what scientists know about attention, including the listening tests of the 1950s.
 - [Inattentional blindness (Wikipedia)](https://en.wikipedia.org/wiki/Inattentional_blindness) · interactive: For the parent: the gorilla film test and why people miss things in plain sight.
 - [Anne Treisman (Wikipedia)](https://en.wikipedia.org/wiki/Anne_Treisman) · interactive: For the parent: the life and work of the scientist in How We Found Out.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Sit still on a bench for two minutes and count the bird calls you notice, then count again while walking.
-- [Sanjay Gandhi National Park]() · place · Mumbai: Walk quietly on a trail and notice how many sounds the forest makes that the city hides.
+- Lalbagh Botanical Garden · place · Bengaluru: Sit still on a bench for two minutes and count the bird calls you notice, then count again while walking.
+- Sanjay Gandhi National Park · place · Mumbai: Walk quietly on a trail and notice how many sounds the forest makes that the city hides.
 
 ## Things to buy
 

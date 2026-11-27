@@ -69,6 +69,12 @@
    "meaning": "A story that many people repeat and believe, but that checking has shown to be wrong.",
    "example": "Many people say a goldfish forgets everything in three seconds. Tests show goldfish remember things for months.",
    "art": "A goldfish in a bowl swimming to the side where food is usually dropped."
+  },
+  {
+   "term": "Pseudoscience",
+   "meaning": "Pseudoscience is something that looks like science but is not tested the way science is. Its claims cannot be checked, or the people who make them ignore the results when a test goes against them.",
+   "example": "A bottle says it makes you smarter, but nobody has tested it fairly against a plain bottle. That claim is pseudoscience.",
+   "art": "A bottle with a big promise on the label and a question mark above it."
   }
  ],
  "explanations": [
@@ -124,7 +130,12 @@
     "Only sounds true: we use only a tenth of our brain. Brain scans show every part of the brain is used during a day.",
     "Checked at home: water from a tumbler left in the sun gets warm. You can feel it yourself."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Martin Fleischmann (1927–2012) and Stanley Pons (born 1943), England and USA",
+     "explanation": "In March 1989, at a press conference at the University of Utah, they announced 'cold fusion': the energy of the Sun, happening in a jar of heavy water at room temperature, which would have meant almost endless cheap energy. Hundreds of labs rushed to repeat it. Most found nothing, and the particles that fusion must produce were missing, so within months most scientists decided the result was a mistake. It is remembered as a warning that an extraordinary claim needs extraordinary evidence."
+    }
+   ],
    "art": "Two boxes side by side: one labelled 'Checked' with a magnifying glass and a ruler, one labelled 'Only sounds true' with a cloud of speech bubbles.",
    "context": "This card is about the second question: how do they know?"
   },
@@ -2789,7 +2800,7 @@
   "who": "Prosper-René Blondlot, a French physicist, and Robert Wood, an American physicist who tested his claim",
   "when": "1903 (N-rays announced), 1904 (Wood's visit to Nancy and his report in Nature)",
   "wrong_idea": "Many scientists believed N-rays were real, because a respected physicist and many others said they saw them. Wood's test, removing the prism without telling anyone, showed that the rays were seen even when they could not be there.",
-  "context": "If many respected scientists say they have seen something, should we believe them at once? This card tells the true story of a new kind of ray that a famous physicist announced, and of the scientist who tested the claim."
+  "context": "If many respected scientists say they have seen something, should everyone accept it at once? This card tells the true story of a new kind of ray that a famous physicist announced, and of the scientist who tested the claim."
  },
  "warm": {
   "words": [

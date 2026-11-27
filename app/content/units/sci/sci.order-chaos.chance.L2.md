@@ -1,9 +1,9 @@
 # Coins and dice: why many tosses are easier to guess than one
 `sci.order-chaos.chance.L2`
 
-**Summary.** Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this unit you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.
+**Summary.** Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this lesson you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.
 
-**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this unit you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
+**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this lesson you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
 
 ## Learning outcomes
 0. By the end I can say that nobody can know how one coin toss will land, but that many tosses give close to half heads.
@@ -54,6 +54,7 @@ In the slips game, 8 slips had a star and only 2 were blank, so a star came out 
 - e.g. Tossing a coin to choose who bats first
 - e.g. 5 star slips and 5 blank slips in a tumbler
 - e.g. A race where one player moves on a six and the other moves on any other number, which is unfair
+- **Gerolamo Cardano (1501–1576), Italy:** Cardano was a doctor and mathematician who also loved playing dice games. He wrote a book about games of chance, one of the first to count the ways dice can fall, and he saw that with a fair die each face is equally likely. His book was only printed in 1663, long after he died, and by then Blaise Pascal and Pierre de Fermat had worked out probability in their letters of 1654. They usually get the credit, though historians agree Cardano had many of the key ideas first.
 ### Each toss starts fresh · *defined*
 **Definition:** The chance of heads is the same on every toss, whatever came before. After many heads in a row, tails is not any more likely than before.
 
@@ -453,7 +454,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 
 ## Videos
 - **Super slow motion: flipping a quarter** (GE Research, 1 min) id `xyqmN8uX8QI`: Shows a coin spinning many times in the air before it lands, too fast for our eyes to follow. That is why nobody can know how one toss will land. *Check:* Found by search: "Super slow motion: Flipping a quarter" by GE Research, 33 seconds. A parent may preview it.
-- **How random is a coin toss? (Numberphile)** (Numberphile, 8 min) id `AYnJv68T3MM`: A scientist who studied coin tosses explains that a coin tossed by hand lands on its starting side a little more often. The grown-up should watch it first, then share parts of it. *Check:* Found by search: "How random is a coin toss? - Numberphile" by Numberphile, 7 min 40 sec. A parent may preview it, and check it matches the 51 in 100 result described in this unit.
+- **How random is a coin toss? (Numberphile)** (Numberphile, 8 min) id `AYnJv68T3MM`: A scientist who studied coin tosses explains that a coin tossed by hand lands on its starting side a little more often. The grown-up should watch it first, then share parts of it. *Check:* Found by search: "How random is a coin toss? - Numberphile" by Numberphile, 7 min 40 sec. A parent may preview it, and check it matches the 51 in 100 result described in this lesson.
 - **Rolling a die many times: what comes up most?** (, 4 min) id `to find`: Shows that each face of a die comes up about the same number of times when you roll very many times. *Check:* Not yet found. Look for a short children's video that rolls or simulates many rolls of one die and shows the counts for each face.
 
 ## Quiz
@@ -499,11 +500,11 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - Lucky draws at school fairs pick a name without looking, so every ticket has the same chance.
 
 ## Spotted around us
-- The coin toss before a cricket match, on TV or in a street game in Kolkata or Chennai.
-- A Ludo or snakes and ladders board at home on a rainy afternoon in Kochi or Mumbai.
-- The weather report on TV or in the newspaper saying rain is 'likely' over coastal Karnataka.
+- The coin toss before a cricket match, on TV or in a street game.
+- A Ludo or snakes and ladders board at home on a rainy afternoon.
+- The weather report on TV or in the newspaper saying rain is 'likely'.
 - A lucky draw at a school fair or a Durga Puja pandal, where a name is picked from a box without looking.
-- Cowrie shells or tamarind seeds thrown in old Indian board games, such as chowka bara in Karnataka, where how they land decides the move.
+- Cowrie shells or tamarind seeds thrown in an old board game, where how they land decides the move.
 
 ## Open questions
 - **If we knew exactly how a coin was tossed, could we always say how it would land?** A machine built to toss a coin the same way every time can make it land the same way every time. But nobody can measure a hand toss that exactly. Scientists still argue about how much of chance is only what we cannot measure.
@@ -539,10 +540,11 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Links
 - [Random.org coin flipper](https://www.random.org/coins/) · simulation: A free website that flips pictures of coins for you. Flip many at once and count the heads, to see what many tosses come close to.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on displays. Ask the guides if anything there is about chance or games.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with hands-on displays. Ask the guides if anything there is about chance or games.
+- Birla Industrial and Technological Museum · place · Kolkata: A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games.
 
 ## Things to buy
+- [Probably Pistachio by Stuart J. Murphy](https://www.amazon.in/s?k=Probably+Pistachio) (book): A boy guesses what will happen on a bad day and learns the words probably and probably not. It gives the child everyday words for chance. Used in a1. Read it together before the chance games.
 
 ## Warm-up
 - Can anyone know how one coin toss will land? → No. Nobody can.
