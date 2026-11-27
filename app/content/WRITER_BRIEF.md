@@ -375,7 +375,8 @@ Add a short top-level `playtest` note: what you checked, the facts still to veri
 1. Write only `app/content/units/sci/<your id>.json`. Then run `python3 app/build/unit_to_md.py app/content/units/sci/<your id>.json app/content/units/sci/<your id>.md`.
 2. `python3 app/build/validate_unit.py <your file>` must print OK. Fix every error and every "(to do)" line.
 3. Put scripts in your own folder under the scratchpad, never in a shared one. Do not run git. Do not touch the app build or anyone else's files. Never commit live user data, keys or phone numbers.
-4. Ask: did I hold any idea back for age? Did I teach anything untrue to simplify? Did I give a second view and a question left open? Did I deny a mind? Is every living being a someone?
-5. Reply with: file written, title, number of parts, story title, charts added, the new deep truth, and anything you were unsure of or could not check.
+4. **Read your own unit as the tired parent, using tests A to H in `REVIEW_BRIEF.md`.** The reviewer uses the same tests once, after you. Anything the checker marks "(to do)" is fixed or has a stated reason. Write it right the first time so the review finds little.
+5. Ask: did I hold any idea back for age? Did I teach anything untrue to simplify? Did I give a second view and a question left open? Did I deny a mind? Is every living being a someone?
+6. Reply with: file written, title, number of parts, story title, charts added, the new deep truth, and anything you were unsure of or could not check.
 
 **Maths units** also read `MATHS.md` (four threads: maths is subjective, linked to the universe, in every life activity, done by every being). **Board-track chapters** also read `TRACKS.md`: board packs carry the same thinking through `ideas`, `big`, `perspectives` and `challenge`, and a `roots` block in the same format.

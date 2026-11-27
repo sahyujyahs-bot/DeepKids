@@ -44,6 +44,7 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 
 ## Content and product rules
 - **Writing, reviewing or rewriting a unit? Read `app/content/WRITER_BRIEF.md` and nothing else.** It holds every rule (philosophy, writing, play-test, file format, spine, roots). The older long docs and the cards in `app/content/writer/parts/` are detail only; open one only if the brief sends you there.
+- **Reviewing a unit? Read `app/content/REVIEW_BRIEF.md`.** One thorough reviewer, who also fixes what is wrong, using `python3 app/build/review_packet.py <unit id>`. No chain of checkers and rewriters. The writer uses the same tests first.
 - Models to learn the feel from, one per level: `app/content/writer/EXAMPLES.md`.
 - Run `python3 app/build/validate_unit.py <file>` as you write: it checks most rules (no age-gating, no false simplifications, perspectives and open questions, sizes) and says what to fix.
 - Two tracks: the DeepKids track (topic-led) and the board track (chapter-led, with the DeepKids layer). Waldorf is a teaching style, not a board. See `app/content/TRACKS.md`.
