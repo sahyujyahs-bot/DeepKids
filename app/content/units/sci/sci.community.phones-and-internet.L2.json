@@ -3027,32 +3027,41 @@
    "kind": "place",
    "where": "Pragati Maidan, New Delhi",
    "why": "A science museum with displays about communication. Check the website for opening times before going."
+  },
+  {
+   "title": "DIKSHA, India's national learning platform",
+   "url": "https://diksha.gov.in/",
+   "kind": "lesson",
+   "why": "Free school lessons and videos from the government, in many Indian languages. A grown-up can search it for lessons on computers and networks."
+  },
+  {
+   "title": "BBC Bitesize",
+   "url": "https://www.bbc.co.uk/bitesize",
+   "kind": "lesson",
+   "why": "Free lessons, clips and quizzes for school children. A grown-up can search it for topics on computing and the internet."
   }
  ],
  "videos": [
   {
-   "title": "How a phone call travels",
-   "channel": "to be found",
+   "title": "How Does a Phone Call Find You? (Mobile Networks Explained Simply)",
+   "channel": "ExplainHowFast",
    "mins": 5,
    "youtube": "4UWpiOCkTAM",
-   "why": "To see how a voice becomes a signal, travels to a tower and comes out as sound again.",
-   "check": "Found by YouTube search: \"How Does a Phone Call Find You? (Mobile Networks Explained Simply)\" by ExplainHowFast. Title checked automatically; a parent may still preview it."
+   "why": "Shows how a voice becomes radio waves, travels to a mobile tower and comes out again as sound."
   },
   {
-   "title": "How the internet works: cables under the sea",
-   "channel": "to be found",
+   "title": "How The Internet Travels Across Oceans",
+   "channel": "VISION",
    "mins": 6,
    "youtube": "yd1JhZzoS6A",
-   "why": "To see that the internet is real cables on the sea floor and not magic.",
-   "check": "Found by YouTube search: \"How The Internet Travels Across Oceans\" by VISION. Title checked automatically; a parent may still preview it."
+   "why": "Shows that the internet is real cables lying on the sea floor, not magic, which is the card about many computers joined together."
   },
   {
-   "title": "Staying safe with phones: tell a trusted adult",
-   "channel": "to be found",
-   "mins": 5,
-   "youtube": "Y889t-P2VwE",
-   "why": "To hear the four steps for something that feels wrong, from an Indian source if possible.",
-   "check": "Found by YouTube search: \"Cell Phone Safety for kids by a kid!\" by Central Insurance. Title checked automatically; a parent may still preview it."
+   "title": "Online Privacy for Kids - Internet Safety and Security for Kids",
+   "channel": "Smile and Learn - English",
+   "mins": 3,
+   "youtube": "yiKeLOKc1tw",
+   "why": "Explains which facts about you are private and why passwords are not shared, which is the card on privacy and asking first."
   }
  ],
  "buy": [

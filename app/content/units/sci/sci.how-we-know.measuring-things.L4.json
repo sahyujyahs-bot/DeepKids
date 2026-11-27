@@ -3505,32 +3505,35 @@
    "url": "https://surveyofindia.gov.in/",
    "kind": "website",
    "why": "India's national mapping body, with pages on how land and mountains are measured and mapped."
+  },
+  {
+   "title": "PhET: Gravity Force Lab Basics",
+   "url": "https://phet.colorado.edu/en/simulation/gravity-force-lab-basics",
+   "kind": "simulation",
+   "why": "A free simulation where a mass is pulled by a planet, so you can see how weight changes while mass stays the same."
   }
  ],
  "videos": [
   {
-   "title": "How the kilogram was redefined in 2019",
-   "channel": "",
-   "mins": 5,
+   "title": "How We're Redefining the kg",
+   "channel": "Veritasium",
+   "mins": 10,
    "youtube": "Oo0jm1PPRuo",
-   "why": "To see why a metal cylinder was replaced by a constant of nature.",
-   "check": "Found by YouTube search: \"How We're Redefining the kg\" by Veritasium. Title checked automatically; a parent may still preview it."
+   "why": "Shows why the kilogram was redefined from a fixed number of nature's constants instead of a metal cylinder."
   },
   {
-   "title": "How long is a coastline? The coastline paradox",
-   "channel": "",
+   "title": "The Coastline Paradox Explained",
+   "channel": "RealLifeLore",
    "mins": 6,
    "youtube": "kFjq8PX6F7I",
-   "why": "To see why a coast's length depends on the size of the measuring step.",
-   "check": "Found by YouTube search: \"The Coastline Paradox Explained\" by RealLifeLore. Title checked automatically; a parent may still preview it."
+   "why": "Shows why a coast's length depends on the size of the step used to measure it."
   },
   {
-   "title": "How Eratosthenes measured the Earth with a shadow",
-   "channel": "",
-   "mins": 5,
-   "youtube": "Mw30CgaXiQw",
-   "why": "To see how an angle and a distance can give a size nobody can stretch a tape across.",
-   "check": "Found by YouTube search: \"How Eratosthenes calculated the Earth's circumference\" by Business Insider. Title checked automatically; a parent may still preview it."
+   "title": "How People (And Squids) Measure Things",
+   "channel": "SciShow Kids",
+   "mins": 3,
+   "youtube": "6wMXvP5LiiU",
+   "why": "Shows how humans and other animals measure by comparing with a unit and counting, as the opening cards do."
   }
  ],
  "buy": [

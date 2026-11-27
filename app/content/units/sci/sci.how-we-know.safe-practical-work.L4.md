@@ -773,9 +773,9 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    **Answer:** A 0.2 second reaction is most of 0.3. *Why:* A person needs about a fifth of a second to react. For a very short event, that delay is a large share of the whole time.
 
 ## Videos
-- **Reading a measuring cylinder at eye level** (to be found, 4 min) id `ENHMKgtgSUw`: To see why the water line is read with the eye level with it, and how the surface curves. *Check:* Found by YouTube search: "How to find the volume of a liquid in a graduated cylinder" by Penny Marcotte. Title checked automatically; a parent may still preview it.
-- **The checklist that made flying safer: Boeing Model 299** (to be found, 6 min) id `s6edO9Ok5uk`: To hear how a forgotten step crashed a test flight in 1935, and how a short checklist came out of it. *Check:* Found by YouTube search: "Model 299" by Dark Docs. Title checked automatically; a parent may still preview it.
-- **The butterfly effect and weather: Edward Lorenz** (to be found, 6 min) id `iU73u-sz2Gk`: To see how tiny differences at the start of a weather sum grow, so that forecasts fail beyond about two weeks. *Check:* Found by YouTube search: "The Butterfly Effect: Chaos Theory Explained by Edward Lorenz" by Philosophy and Curiosity. Title checked automatically; a parent may still preview it.
+- **Measuring Volume Using a Graduated Cylinder** (Wisc-Online (Part of WisTech Open), 4 min) id `SE-nUsrbELE`: Shows how to read the water line in a measuring cylinder at eye level, so the tool gives a true reading (card 3). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **A checklist and a forgotten step, in a short film** (to find, 5 min) id `to find`: Shows how a short checklist, read out before a test, catches the slip that skill alone does not (card 9). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **The Butterfly Effect: Chaos Theory Explained by Edward Lorenz** (Philosophy and Curiosity, 8 min) id `iU73u-sz2Gk`: Shows how tiny differences at the start of a weather sum grow, so forecasts fail beyond about two weeks (card 19). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
 
 ## Quiz
 1. (mcq) You must find how much water fits in a bottle cap. Which tool fits best?  

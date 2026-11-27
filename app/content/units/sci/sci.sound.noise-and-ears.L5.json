@@ -3721,33 +3721,35 @@
    "url": "https://awaazfoundation.org/",
    "kind": "website",
    "why": "The Mumbai organisation founded by Sumaira Abdulali, which measures noise and campaigns for the rules to be kept."
+  },
+  {
+   "title": "PhET Sound simulation",
+   "url": "https://phet.colorado.edu/en/simulations/sound",
+   "kind": "simulation",
+   "why": "A free simulation where you change a sound and watch its wave change shape, so you can see what makes a sound louder."
   }
  ],
  "videos": [
   {
-   "title": "How the ear turns sound into signals, and what loud sound does to the hair cells",
-   "channel": "",
+   "title": "Journey of Sound to the Brain",
+   "channel": "National Institutes of Health (NIH)",
    "mins": 5,
    "youtube": "eQEaiZ2j9oc",
-   "why": "To see the cochlea and the hair cells at work, and the damage loud sound does to their tufts.",
-   "check": "Found by YouTube search: \"Journey of Sound to the Brain\" by National Institutes of Health (NIH). Title checked automatically; a parent may still preview it."
+   "why": "Follows sound from the outer ear to the hair cells and the nerve, which is the card on how the ear turns sound into signals."
   },
   {
-   "title": "How noise-cancelling headphones work",
-   "channel": "",
+   "title": "How Do Noise Canceling Headphones Work?",
+   "channel": "Branch Education",
    "mins": 5,
    "youtube": "VIi04uD8LtY",
-   "why": "To see how a speaker plays the opposite of an incoming sound wave so that the two cancel.",
-   "check": "Found by YouTube search: \"How Do Noise Canceling Headphones Work?\" by Branch Education. Title checked automatically; a parent may still preview it."
+   "why": "Shows a speaker playing the opposite of a sound wave so that the two cancel, which is the card on engineering quiet."
   },
   {
-   "title": "How noise changes the lives of birds and whales",
-   "channel": "",
-   "mins": 8,
-   "youtube": "",
-   "why": "To see how human noise changes songs and calls, and how scientists measured it.",
-   "check": "Found by YouTube search: \"An AI Talked to a Bird. The Bird Talked Back.\" by Observator. Title checked automatically; a parent may still preview it. WARNING: this address does not match the title above (it is a video about an AI talking to a bird). A person must replace it with a real video on noise and birds or whales before families use it.",
-   "status": "find-id"
+   "title": "Songs Of Whales Drowned By Man Made Noise",
+   "channel": "Discovery Channel Southeast Asia",
+   "mins": 3,
+   "youtube": "9Zfx2YgI2hs",
+   "why": "Shows how human-made noise drowns out whale songs, which is the card on animals whose voices change because of noise."
   }
  ],
  "buy": [

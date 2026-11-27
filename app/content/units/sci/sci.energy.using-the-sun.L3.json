@@ -3483,28 +3483,25 @@
  ],
  "videos": [
   {
-   "title": "How a solar cell turns light into electricity",
-   "channel": "",
+   "title": "Solar Energy - How Do Solar Panels Work? - [Video for Kids]",
+   "channel": "learning junction",
    "mins": 4,
-   "youtube": "xKxrkht7CpY",
-   "why": "A short explainer on how light frees electrons in a solar cell, to follow the cards on the solar cell and the photon.",
-   "check": "Found by YouTube search: \"How do solar panels work? - Richard Komp\" by TED-Ed. Title checked automatically; a parent may still preview it."
+   "youtube": "viQInAU0ekc",
+   "why": "A short video made for children that explains how a solar panel turns sunlight into electricity, to go with the cards on the solar cell."
   },
   {
-   "title": "How a box solar cooker works",
-   "channel": "",
+   "title": "How to Build a Solar Oven | The Science of Cooking",
+   "channel": "SciShow Kids",
    "mins": 5,
-   "youtube": "tDB3zP9MEZc",
-   "why": "Shows a box cooker with a black lining, a clear cover and foil flaps being used outdoors, to go with the Sun Box test.",
-   "check": "Found by YouTube search: \"Solar Cooker\" by Educational Videos. Title checked automatically; a parent may still preview it."
+   "youtube": "nsXhfpE5NCY",
+   "why": "Shows how a solar oven is made from simple parts that catch and keep the Sun's heat, to go with the box cooker cards."
   },
   {
-   "title": "How a solar water heater works",
-   "channel": "",
-   "mins": 4,
+   "title": "How solar water heater works?",
+   "channel": "Archi notes",
+   "mins": 1,
    "youtube": "KfxKbTOHygk",
-   "why": "Shows glass tubes, a tank and warm water rising, to go with the card on why the tank sits above the tubes.",
-   "check": "Found by YouTube search: \"How solar water heater works?\" by Archi notes. Title checked automatically; a parent may still preview it."
+   "why": "Shows the black tubes, glass and tank of a solar water heater, to go with the card on why the tank sits above the tubes."
   }
  ],
  "links": [

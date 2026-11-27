@@ -842,9 +842,9 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
    **Answer:** Answers vary. A strong answer uses sunny hours with a heat store or a battery. It says what else is needed, such as another power source for cloudy weeks.. *Why:* No single method fits every place. Good designs fit the place and the weather.
 
 ## Videos
-- **How a solar cell turns light into electricity** (, 4 min) id `xKxrkht7CpY`: A short explainer on how light frees electrons in a solar cell, to follow the cards on the solar cell and the photon. *Check:* Found by YouTube search: "How do solar panels work? - Richard Komp" by TED-Ed. Title checked automatically; a parent may still preview it.
-- **How a box solar cooker works** (, 5 min) id `tDB3zP9MEZc`: Shows a box cooker with a black lining, a clear cover and foil flaps being used outdoors, to go with the Sun Box test. *Check:* Found by YouTube search: "Solar Cooker" by Educational Videos. Title checked automatically; a parent may still preview it.
-- **How a solar water heater works** (, 4 min) id `KfxKbTOHygk`: Shows glass tubes, a tank and warm water rising, to go with the card on why the tank sits above the tubes. *Check:* Found by YouTube search: "How solar water heater works?" by Archi notes. Title checked automatically; a parent may still preview it.
+- **Solar Energy - How Do Solar Panels Work? - [Video for Kids]** (learning junction, 4 min) id `viQInAU0ekc`: A short video made for children that explains how a solar panel turns sunlight into electricity, to go with the cards on the solar cell. *Check:* 
+- **How to Build a Solar Oven | The Science of Cooking** (SciShow Kids, 5 min) id `nsXhfpE5NCY`: Shows how a solar oven is made from simple parts that catch and keep the Sun's heat, to go with the box cooker cards. *Check:* 
+- **How solar water heater works?** (Archi notes, 1 min) id `KfxKbTOHygk`: Shows the black tubes, glass and tank of a solar water heater, to go with the card on why the tank sits above the tubes. *Check:* 
 
 ## Quiz
 1. (mcq) A rooftop panel is 2 square metres. About how many watts of noon sunlight land on it?  

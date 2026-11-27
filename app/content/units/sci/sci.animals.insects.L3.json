@@ -3558,32 +3558,41 @@
    "kind": "place",
    "where": "Bannerghatta, near Bengaluru, Karnataka",
    "why": "A walk-through butterfly garden inside the national park, where you can watch butterflies feed and see where the caterpillars grow. Check the opening times before you go."
+  },
+  {
+   "title": "BBC Bitesize: insects article",
+   "url": "https://www.bbc.co.uk/bitesize/topics/zgssgk7/articles/zwn6mnb",
+   "kind": "reading",
+   "why": "A short BBC article with videos and a quiz, for reading about how insects grow, after the video."
+  },
+  {
+   "title": "Insect life cycles (Oak National Academy lesson)",
+   "url": "https://www.thenational.academy/teachers/programmes/science-primary-ks2/units/reproduction-and-life-cycles-animals/lessons/insect-life-cycles",
+   "kind": "lesson",
+   "why": "A free lesson with a video on the egg, larva, pupa and adult stages, with a downloadable worksheet for a parent to print."
   }
  ],
  "videos": [
   {
-   "title": "The parts of an insect's body and how they work",
-   "channel": "",
+   "title": "Parts of an Insect",
+   "channel": "Pacific Science Center",
    "mins": 5,
    "youtube": "UJRkHKQ1ekk",
-   "why": "To see the head, thorax, abdomen, antennae and compound eyes on a real insect.",
-   "check": "Found by YouTube search: \"Parts of an Insect\" by Pacific Science Center. Title checked automatically; a parent may still preview it."
+   "why": "To see the head, thorax, abdomen, antennae and compound eyes on a real insect."
   },
   {
-   "title": "How a silk moth grows and spins a cocoon",
-   "channel": "",
-   "mins": 6,
-   "youtube": "cgavTIBQ_Z0",
-   "why": "To watch a silkworm eat, moult and spin, and to see the thread of one cocoon being unwound.",
-   "check": "Found by YouTube search: \"Silkworms Spin Cocoons That Spell Their Own Doom | Deep Look\" by Deep Look. Title checked automatically; a parent may still preview it."
+   "title": "Life Cycle of Silk Moth | How Silk is Made | Silkworm Life Cycle | Video for Kids",
+   "channel": "learning junction",
+   "mins": 4,
+   "youtube": "XoOV_ym3uRw",
+   "why": "To watch a silk moth grow from egg to moth and see how her silk is made, which links to the four stages of growing up."
   },
   {
-   "title": "Bees, pollination and the food on our plates",
-   "channel": "",
-   "mins": 5,
-   "youtube": "pRDcNhQGaeo",
-   "why": "To see bees and other insects carrying pollen, and how many foods depend on them.",
-   "check": "Found by YouTube search: \"THE SCIENCE BEHIND BEES & FOOD: How do Bees Make our Food?\" by Bite Scized Education. Title checked automatically; a parent may still preview it."
+   "title": "Like Fruit? Thank a Bee!",
+   "channel": "SciShow Kids",
+   "mins": 4,
+   "youtube": "txv2k7OoY7U",
+   "why": "To see how bees and other insects carry pollen, and which of the foods we eat depend on them."
   }
  ],
  "buy": [

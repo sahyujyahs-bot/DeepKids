@@ -922,9 +922,9 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
    **Answer:** Sugar and sand grains are about the same size, so a sieve cannot tell them apart. Sugar dissolves in water and sand does not, so water uses a difference that a sieve does not.. *Why:* A strong answer names the difference that works (dissolving) and the one that does not (size).
 
 ## Videos
-- **Separating mixtures: sieving, filtering and evaporation** (to be matched, 5 min) id `to find`: To see sieving, filtering and evaporation done on a table, one after another. *Check:* Not yet matched. A parent should preview any video before the child sees it.
-- **Paper chromatography with a coffee filter and a black pen** (to be matched, 4 min) id `ll8luZ2oPME`: To watch black ink split into colours on wet paper. *Check:* Found by YouTube search: "Separating Marker Pigments with Coffee Filters (Chromatography)" by Science Classroom. Title checked automatically; a parent may still preview it.
-- **How salt is made in salt pans** (to be matched, 5 min) id `a6QhNseuQ-c`: To see sea water led through shallow ponds in the sun until salt is raked out. *Check:* Found by YouTube search: "The Making of Salt | Macmillan Education India" by Macmillan Education India Private Limited. Title checked automatically; a parent may still preview it.
+- **Separating Mixtures – Sifting** (Next Generation Science, 2 min) id `UFBJTiovcf0`: Shows sieving a mix of parts through a sheet with holes, to go with the card on sieving. *Check:* 
+- **Separating Marker Pigments with Coffee Filters (Chromatography)** (Science Classroom, 4 min) id `ll8luZ2oPME`: Shows black ink splitting into its colours on wet paper, to go with the card on chromatography. *Check:* 
+- **The Making of Salt | Macmillan Education India** (Macmillan Education India Private Limited, 5 min) id `a6QhNseuQ-c`: Shows sea water led through shallow ponds in the sun until salt is raked out, to go with the card on evaporation. *Check:* 
 
 ## Quiz
 1. (mcq) Sugar is stirred into tea and seems to vanish. What is the best description?  

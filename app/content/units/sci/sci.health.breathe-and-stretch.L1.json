@@ -2963,32 +2963,35 @@
    "kind": "place",
    "where": "Chennai, Tamil Nadu",
    "why": "A yoga school in the line of T. Krishnamacharya, who taught in Mysuru in the 1930s. Families in Chennai can look for classes for children."
+  },
+  {
+   "title": "KidsHealth: how the lungs work",
+   "url": "https://kidshealth.org/en/kids/lungs.html",
+   "kind": "reading",
+   "why": "Short pages for children about the lungs and the air they take in. A grown-up can read it aloud with the child."
   }
  ],
  "videos": [
   {
-   "title": "How the lungs and the diaphragm make you breathe",
-   "channel": "",
-   "youtube": "59knV9PJ3Rs",
-   "mins": 4,
-   "why": "Shows the lungs filling and the diaphragm pulling down, so a child can see what happens under the tummy.",
-   "check": "Found by YouTube search: \"Basic Breathing Mechanics\" by Dr Matt & Dr Mike. Title checked automatically; a parent may still preview it."
-  },
-  {
-   "title": "Animals stretching when they wake up",
-   "channel": "",
-   "youtube": "ueR6p09trso",
-   "mins": 3,
-   "why": "Shows dogs, cats and other animals stretching after sleep, and how people copy the shapes.",
-   "check": "Found by YouTube search: \"Top 10 Big Stretches\" by WeRateDogs. Title checked automatically; a parent may still preview it."
-  },
-  {
-   "title": "Kabaddi: how the raider chants on one breath",
-   "channel": "",
-   "youtube": "P6fGE_lYVMk",
+   "title": "Operation Ouch - The Diaphragm",
+   "channel": "Operation Ouch",
    "mins": 5,
-   "why": "Shows kabaddi being played, with the raider's chant on one breath.",
-   "check": "Found by YouTube search: \"THE FAMOUS \"KABADDI\" CHANT || VIVO PRO KABADDI SEASON 8 || PATNA PIRATES VS UP YODDHA\" by Patna Pirates. Title checked automatically; a parent may still preview it."
+   "youtube": "rUVMok4Qp-Y",
+   "why": "Shows the flat diaphragm under the lungs pulling down, so a child can see what happens under the tummy when they breathe in."
+  },
+  {
+   "title": "Why Do We Stretch in the Morning?",
+   "channel": "SciShow",
+   "mins": 3,
+   "youtube": "iOwjorRt5ZI",
+   "why": "Explains why humans and other animals stretch after rest, which is the card about the waking stretch."
+  },
+  {
+   "title": "THE FAMOUS \"KABADDI\" CHANT || VIVO PRO KABADDI SEASON 8 || PATNA PIRATES VS UP YODDHA",
+   "channel": "Patna Pirates",
+   "mins": 5,
+   "youtube": "P6fGE_lYVMk",
+   "why": "Shows a kabaddi raider chanting on one breath, which links to the card about breathing on purpose."
   }
  ],
  "buy": [

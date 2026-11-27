@@ -58,7 +58,7 @@ for k, name in (("games", "Games"), ("experiments", "Experiments"), ("activities
 w("\n## Worksheets")
 for ws in u["worksheets"]:
     w(f"### {ws['title']} ({ws['tier']}, {len(ws['items'])} questions)"); [item(i + 1, it) for i, it in enumerate(ws["items"])]
-w("\n## Videos"); [w(f"- **{v['title']}** ({v['channel']}, {v['mins']} min) id `{v.get('youtube') or 'to find'}`: {v['why']} *Check:* {v['check']}") for v in u["videos"]]
+w("\n## Videos"); [w(f"- **{v['title']}** ({v.get('channel', '')}, {v.get('mins', '')} min) id `{v.get('youtube') or 'to find'}`: {v['why']} *Check:* {v.get('check', '')}") for v in u["videos"]]
 w("\n## Quiz"); [item(i + 1, it) for i, it in enumerate(u["quiz"])]
 w("\n## Applications"); [w(f"- {a}") for a in u["applications"]]
 w("\n## Spotted around us"); [w(f"- {a['text']}") for a in u["spotted"]]

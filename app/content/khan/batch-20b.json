@@ -1,0 +1,39 @@
+{
+  "checked": "27 Nov 2026",
+  "units": {
+    "sci.community.phones-and-internet.L2": {
+      "videos": [],
+      "note": "Khan's internet videos (Internet 101: packets, routers, wires, HTTP) are written for older learners and adults, too advanced for ages 6 to 8. Dropped."
+    },
+    "sci.health.breathe-and-stretch.L1": {
+      "videos": [],
+      "note": "Khan's breathing and lung videos are biology for older students and medical courses (NCLEX, MCAT). None fit ages 6 to 8. Nothing on stretching or yoga for this age."
+    },
+    "sci.food.is-my-food-pure.L5": {
+      "videos": [
+        {
+          "title": "Chromatography | Middle school physics | Khan Academy",
+          "channel": "Khan Academy",
+          "youtube": "SMVQq2--W2A",
+          "mins": 3,
+          "pitch": "stretch",
+          "matches": "Shows how a mixture of colours separates as a liquid carries them along, the idea behind the wet-paper dye test.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "sci.sound.noise-and-ears.L5": {
+      "videos": [
+        {
+          "title": "Decibel Scale | Mechanical waves and sound | Physics | Khan Academy",
+          "channel": "Khan Academy",
+          "youtube": "_p-WyPg1sbU",
+          "mins": 11,
+          "pitch": "stretch",
+          "matches": "Explains why the decibel scale is not ordinary counting, which is the card on two horns making only 3 decibels more than one.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  }
+}

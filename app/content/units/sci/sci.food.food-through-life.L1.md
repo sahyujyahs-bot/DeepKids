@@ -734,9 +734,9 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
    **Answer:** False. *Why:* False. Babies, people who are ill, and anyone with a sore mouth can all be helped by soft food.
 
 ## Videos
-- **How oral rehydration solution works inside the gut** (, 5 min) id `XG8olDy4aaU`: A talk about oral rehydration solution, the sugar and salt drink that helps a sick body take in water. *Check:* Found by YouTube search: "The Power of Oral Rehydration Solutions: Your Ultimate Guide to Hydration" by Medical Centric Podcast. Title checked automatically; a parent may still preview it.
-- **What is in mother's milk? A short explainer on how milk protects a baby** (, 5 min) id `Bo8YN3oB0Cw`: A scientist who studies mother's milk explains how much about it is still unknown. *Check:* Found by YouTube search: "What we don't know about mother's milk | Katie Hinde" by TED. Title checked automatically; a parent may still preview it.
-- **Animal mothers and their milk: whales, bats and seals** (, 5 min) id `urc2Xrwf-n4`: Shows how a baby whale drinks milk under water. Each animal makes milk that suits her own baby. *Check:* Found by YouTube search: "How Do Baby Whales Drink Milk Underwater? 🐋 | Nature’s Smartest Mothers" by One Minute Explore. Title checked automatically; a parent may still preview it.
+- **How to Treat Dehydration for Stomach Bugs in Children: Oral Rehydration Therapy** (The Children's Hospital of Philadelphia, 6 min) id `o2Oo2ykRjBQ`: Shows how a measured drink of water, sugar and salt helps a child with loose motions take in water again (card 19). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **The science of milk - Jonathan J. O'Sullivan** (TED-Ed, 5 min) id `xmNzUEmFZMg`: Shows what milk is made of and how a mother's milk protects her baby, which is the idea behind the first milk (cards 2 to 4). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **Why Do We Have Baby Teeth?** (SciShow Kids, 4 min) id `3Gy_gts86jM`: Explains why children grow baby teeth, lose them and get new ones, which is why food changes as the teeth come (card 11). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
 
 ## Quiz
 1. (mcq) A new baby has a stomach about as big as a marble. Why is milk the right food?  

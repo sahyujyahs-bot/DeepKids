@@ -800,9 +800,9 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
    **Answer:** Answers vary. A strong answer gives a reason for each choice and says what could change it.. *Why:* Nobody knows yet. Batteries are ahead for scooters and cars. Hydrogen may suit lorries, but making it takes a lot of electricity.
 
 ## Videos
-- **How a petrol engine works, for children** (to be found, 5 min) id `qClXTmOtFy8`: To see the piston, the spark and the burning fuel inside a cylinder in a simple animation. *Check:* Found by YouTube search: "Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids" by Fun Station 4 Kids. Title checked automatically; a parent may still preview it.
-- **Where does oil come from?** (to be found, 6 min) id `HmHVxYaqzDQ`: To see how tiny sea beings of long ago became oil under the ground. *Check:* Found by YouTube search: "Where does oil come from? And why does the Middle East have so much oil?" by Atlas Veil. Title checked automatically; a parent may still preview it.
-- **How an electric motor and a battery move a vehicle** (to be found, 5 min) id `3SAxXUIre28`: To see how a battery, wires and a motor turn electricity into spinning wheels, with no burning. *Check:* Found by YouTube search: "How does an Electric Car work ? | Tesla Model S" by Sabin Civil Engineering. Title checked automatically; a parent may still preview it.
+- **Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids** (Fun Station 4 Kids, 2 min) id `qClXTmOtFy8`: Shows a piston, a spark and burning fuel inside an engine, which is how a fuel pushes the wheels round (card 5). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **Fossil Fuels 101** (Student Energy, 3 min) id `zaXBVYr9Ij0`: Shows that petrol and other fossil fuels are old energy from ancient living things, and why they will run out (cards 6 and 7). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **How does an Electric Car work ? | Tesla Model S** (Sabin Civil Engineering, 10 min) id `3SAxXUIre28`: Shows a battery, wires and a motor turning electricity into spinning wheels, with no burning inside the vehicle (card 10). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
 
 ## Quiz
 1. (mcq) A bullock cart rolls along a road. What gives it the push?  

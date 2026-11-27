@@ -3698,33 +3698,35 @@
    "kind": "place",
    "where": "Bengaluru",
    "why": "A science museum with hands-on galleries and models that children can touch and test."
+  },
+  {
+   "title": "PhET Build an Atom",
+   "url": "https://phet.colorado.edu/en/simulations/build-an-atom",
+   "kind": "simulation",
+   "why": "A free online simulation. Build atoms from protons, neutrons and electrons, and see how the atom model fits each one."
   }
  ],
  "videos": [
   {
-   "title": "To Scale: The Solar System",
-   "channel": "Wylie Overstreet and Alex Gorosh",
+   "title": "To Scale: THE SOLAR SYSTEM",
+   "channel": "To Scale:",
    "mins": 7,
    "youtube": "zR3Igc3Rhfg",
-   "why": "To see the solar system laid out true to scale across a dry lake bed, so that the idea of a scale model becomes real.",
-   "check": "Found by YouTube search: \"To Scale: THE SOLAR SYSTEM\" by To Scale:. Title checked automatically; a parent may still preview it."
+   "why": "To see the solar system laid out true to scale across a dry lake bed, so that the idea of a scale model becomes real."
   },
   {
-   "title": "Why all world maps are wrong",
-   "channel": "Vox",
-   "mins": 5,
-   "youtube": "kIID5FDi2JQ",
-   "why": "To see why a flat map of the round Earth must stretch some part, and how different maps choose different stretches.",
-   "check": "Found by YouTube search: \"Why all world maps are wrong\" by Vox. Title checked automatically; a parent may still preview it."
-  },
-  {
-   "title": "The waggle dance of the honeybee",
-   "channel": "to be chosen",
+   "title": "Know Your Globe",
+   "channel": "SciShow Kids",
    "mins": 4,
-   "youtube": "",
-   "status": "find-id",
-   "why": "To watch a real bee dance a direction and a distance on a honeycomb, a living model of a journey.",
-   "check": "Not yet found or watched. Find a short, clear video of a real waggle dance and check that it explains the angle and the time."
+   "youtube": "x7k7CeWDtWs",
+   "why": "To see a globe as a small model of the Earth, and what a model like this can show and what it leaves out."
+  },
+  {
+   "title": "The Waggle Dance | Inside the Animal Mind",
+   "channel": "BBC Earth",
+   "mins": 3,
+   "youtube": "12Q8FfyLLso",
+   "why": "To watch a real bee dance a direction and a distance on a honeycomb, a living model of a journey."
   }
  ],
  "buy": [

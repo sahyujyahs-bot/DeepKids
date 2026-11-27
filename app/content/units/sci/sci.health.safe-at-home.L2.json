@@ -3186,28 +3186,25 @@
  ],
  "videos": [
   {
-   "title": "How your body stops bleeding: platelets and clots",
-   "channel": "to be chosen",
-   "youtube": "gExUCrpAKyQ",
-   "mins": 5,
-   "why": "Shows platelets sticking together to close a cut, as in the lesson.",
-   "check": "Found by YouTube search: \"Platelets & Blood Clotting | Biology | FuseSchool\" by FuseSchool - Global Education. Title checked automatically; a parent may still preview it."
+   "title": "How Do Cuts Heal?",
+   "channel": "SciShow Kids",
+   "mins": 3,
+   "youtube": "cLEdznnTT8s",
+   "why": "Shows how a small cut closes and heals, the idea behind the skin and first-aid cards."
   },
   {
-   "title": "First aid for burns: cool running water for 20 minutes",
-   "channel": "a Red Cross or St John Ambulance channel",
-   "youtube": "6i7ov4vbxUc",
-   "mins": 4,
-   "why": "A parent can watch how cooling a burn is done and how long it takes.",
-   "check": "Found by YouTube search: \"How to Treat Burns\" by St John Ambulance Kenya. Title checked automatically; a parent may still preview it."
+   "title": "First Aid For Burns: Cool, Call, Cover",
+   "channel": "Queen Victoria Hospital",
+   "mins": 3,
+   "youtube": "zExT8eNLnR0",
+   "why": "Shows the cool, call, cover steps for a burn, as in the cooling-a-burn card."
   },
   {
-   "title": "Why a thin edge cuts: pressure explained",
-   "channel": "to be chosen",
-   "youtube": "E6bczqDwG7g",
-   "mins": 5,
-   "why": "Shows that the same push on a smaller place gives a bigger pressure.",
-   "check": "Found by YouTube search: \"Why Does a Sharp Knife Cut Better Than a Blunt One? 🔪| Physics of Pressure #HowItWorks #SharpVsBlunt\" by ScienceGlide. Title checked automatically; a parent may still preview it."
+   "title": "What is Pressure? How it depends on Force and Area! Physics for Kids.",
+   "channel": "Insight Engine",
+   "mins": 2,
+   "youtube": "j27wSI5jy9Y",
+   "why": "Shows that the same push on a smaller area gives a bigger pressure, as in the thin-edge card."
   }
  ],
  "applications": [
@@ -3349,6 +3346,12 @@
    "url": "https://iapindia.org/",
    "kind": "reference",
    "why": "The site of India's children's doctors. It has a section of guidelines for parents."
+  },
+  {
+   "title": "PhET: Balancing Act",
+   "url": "https://phet.colorado.edu/en/simulation/balancing-act",
+   "kind": "simulation",
+   "why": "A free simulation where you test where a weight must sit for a thing to stay balanced, the idea behind tipping."
   }
  ],
  "buy": [

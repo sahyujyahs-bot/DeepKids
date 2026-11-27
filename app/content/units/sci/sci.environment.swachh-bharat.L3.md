@@ -880,9 +880,9 @@ Her father opened his mouth, and found that he did not know.
    **Answer:** Answers vary. A strong answer picks a start, gives a reason, and notes that the other view's part is also needed.. *Why:* Habits and systems depend on each other. A good plan does both, and a good question is which comes first in your street.
 
 ## Videos
-- **How a twin-pit pour-flush toilet works** (to find, 5 min) id `to find`: To see the pan, the pipe bend and the two pits, and how waste becomes safe manure in the resting pit. *Check:* Find a short, clear animation or a talk by a sanitation organisation. Check that it shows the two pits taking turns. A parent should preview it.
-- **Composting at home with peels and dry leaves** (to find, 5 min) id `to find`: To see a home compost pot or pit being made and turned, and what finished compost looks like. *Check:* Choose a video made in India if possible, using a clay pot or a bin. Check that it uses air, dry leaves and a damp heap. A parent should preview it.
-- **How waste is sorted for recycling** (CNA, 6 min) id `RV96feEKhuk`: To see how recycling is sorted, and to compare it with the hand sorting that waste pickers do in India. *Check:* The title and channel were checked automatically. The film may be about another country and may show machines. A parent should preview it.
+- **🎬Episode 15: Twin-Pit Toilet Technology | Swachh Bharat Mission–Grameen Series #twinpittoilet #sbmg** (Nature & Environment, 2 min) id `BK9W_kznTAw`: Explains the twin-pit toilet, an Indian design that makes waste safe in the ground without a sewer (card 7). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **Composting for Kids** (HighfieldsComposting, 6 min) id `dRXNo7Ieky8`: Shows how a compost heap is made, and how tiny living beings turn peels and leaves into soil (card 3). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
+- **The Untold Story of India’s Waste Pickers** (MeraDeshMeriZimmedari, 3 min) id `7igaHsmjzfM`: Tells the story of the people who sort dry waste by hand so that it can be recycled (card 5). *Check:* Title and channel checked on YouTube. A parent should preview it before the child watches.
 
 ## Quiz
 1. (mcq) A lane is swept and neat, but an open drain runs beside its hand pump. Is it clean?  

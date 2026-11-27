@@ -1,0 +1,46 @@
+{
+ "checked": "27 Nov 2026",
+ "units": {
+  "sci.community.caring-for-others.L2": {
+   "videos": []
+  },
+  "sci.forces.everyday-forces.L4": {
+   "videos": [
+    {
+     "title": "Friction and its types | Middle School Physics",
+     "channel": "Khan Academy",
+     "youtube": "pSV9DdD0jgI",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Friction acts against sliding, as card 7 says.",
+     "confidence": "high"
+    },
+    {
+     "title": "Mass & weight | Gravity | Physics",
+     "channel": "Khan Academy",
+     "youtube": "INZNifEXOcQ",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Weight is the pull of gravity on an object, as card 1 says.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  "sci.energy.renewable-and-not.L3": {
+   "videos": [
+    {
+     "title": "Wind power | Science",
+     "channel": "Khan Academy",
+     "youtube": "3nJG9USOGrA",
+     "mins": 2,
+     "pitch": "stretch",
+     "matches": "Wind turns machines that make electricity, as card 10 says.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  "sci.how-we-know.models-and-diagrams.L3": {
+   "videos": []
+  }
+ }
+}

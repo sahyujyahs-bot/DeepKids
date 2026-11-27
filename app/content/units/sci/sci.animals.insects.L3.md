@@ -845,9 +845,9 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
    **Answer:** ['biological']. *Why:* Biological control uses living hunters, such as ladybirds and tiny wasps, instead of poison.
 
 ## Videos
-- **The parts of an insect's body and how they work** (, 5 min) id `UJRkHKQ1ekk`: To see the head, thorax, abdomen, antennae and compound eyes on a real insect. *Check:* Found by YouTube search: "Parts of an Insect" by Pacific Science Center. Title checked automatically; a parent may still preview it.
-- **How a silk moth grows and spins a cocoon** (, 6 min) id `cgavTIBQ_Z0`: To watch a silkworm eat, moult and spin, and to see the thread of one cocoon being unwound. *Check:* Found by YouTube search: "Silkworms Spin Cocoons That Spell Their Own Doom | Deep Look" by Deep Look. Title checked automatically; a parent may still preview it.
-- **Bees, pollination and the food on our plates** (, 5 min) id `pRDcNhQGaeo`: To see bees and other insects carrying pollen, and how many foods depend on them. *Check:* Found by YouTube search: "THE SCIENCE BEHIND BEES & FOOD: How do Bees Make our Food?" by Bite Scized Education. Title checked automatically; a parent may still preview it.
+- **Parts of an Insect** (Pacific Science Center, 5 min) id `UJRkHKQ1ekk`: To see the head, thorax, abdomen, antennae and compound eyes on a real insect. *Check:* 
+- **Life Cycle of Silk Moth | How Silk is Made | Silkworm Life Cycle | Video for Kids** (learning junction, 4 min) id `XoOV_ym3uRw`: To watch a silk moth grow from egg to moth and see how her silk is made, which links to the four stages of growing up. *Check:* 
+- **Like Fruit? Thank a Bee!** (SciShow Kids, 4 min) id `txv2k7OoY7U`: To see how bees and other insects carry pollen, and which of the foods we eat depend on them. *Check:* 
 
 ## Quiz
 1. (mcq) You count eight legs and two body parts on a small creature in a corner. What is she?  
@@ -971,6 +971,8 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Central Silk Board](https://csb.gov.in) · website: The Indian government's silk board, with pictures and facts on mulberry, tasar, eri and muga silk.
 - [Lalbagh Botanical Garden](https://en.wikipedia.org/wiki/Lal_Bagh) · place · Bengaluru, Karnataka: Flower beds and old trees where bees, butterflies and beetles can be watched at work.
 - [Bannerghatta Butterfly Park](https://en.wikipedia.org/wiki/Bannerghatta_National_Park) · place · Bannerghatta, near Bengaluru, Karnataka: A walk-through butterfly garden inside the national park, where you can watch butterflies feed and see where the caterpillars grow. Check the opening times before you go.
+- [BBC Bitesize: insects article](https://www.bbc.co.uk/bitesize/topics/zgssgk7/articles/zwn6mnb) · reading: A short BBC article with videos and a quiz, for reading about how insects grow, after the video.
+- [Insect life cycles (Oak National Academy lesson)](https://www.thenational.academy/teachers/programmes/science-primary-ks2/units/reproduction-and-life-cycles-animals/lessons/insect-life-cycles) · lesson: A free lesson with a video on the egg, larva, pupa and adult stages, with a downloadable worksheet for a parent to print.
 
 ## Things to buy
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see an ant's legs, a fly's eyes or a moth's feathery antennae. The lesson works without one. About ₹50 to ₹200. Used in e1, p1, a2. Instead, take a photo with a phone and zoom in.
